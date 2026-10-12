@@ -391,10 +391,10 @@
   {
     "id": "VIT-014",
     "tema": "composición - vitamina K (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina K: perejil fresco 1640 µg (2187 % del VRN); acelgas crudas 830 µg (1107 % del VRN); espinacas crudas 483 µg (644 % del VRN); col rizada cruda 390 µg (519 % del VRN); coles de Bruselas crudas 177 µg (236 % del VRN); brócoli cocido 141 µg (188 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina K: perejil fresco 1640 µg (2187 % del VRN); acelgas crudas 830 µg (1107 % del VRN); espinacas crudas 483 µg (644 % del VRN); col rizada cruda 390 µg (519 % del VRN); coles de Bruselas crudas 177 µg (236 % del VRN); brócoli crudo 102 µg (135 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 75 µg (vitamina K (filoquinona y otras formas que mide la tabla)) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170416, 169991, 168462, 168421, 170383, 169967)",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170416, 169991, 168462, 168421, 170383, 170379)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -404,7 +404,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Parsley, fresh (fdcId 170416) 1640 µg; Chard, swiss, raw (fdcId 169991) 830 µg; Spinach, raw (fdcId 168462) 483 µg; Kale, raw (fdcId 168421) 390 µg; Brussels sprouts, raw (fdcId 170383) 177 µg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) 141 µg"
+      "detalle": "Parsley, fresh (fdcId 170416) 1640 µg; Chard, swiss, raw (fdcId 169991) 830 µg; Spinach, raw (fdcId 168462) 483 µg; Kale, raw (fdcId 168421) 390 µg; Brussels sprouts, raw (fdcId 170383) 177 µg; Broccoli, raw (fdcId 170379) 102 µg"
     },
     "molde_datos": {
       "tipo": "ranking",
@@ -442,10 +442,10 @@
           "pct": 236
         },
         {
-          "nombre": "Brócoli cocido",
-          "valor": "141 µg",
-          "fdc": 169967,
-          "pct": 188
+          "nombre": "Brócoli crudo",
+          "valor": "102 µg",
+          "fdc": 170379,
+          "pct": 135
         }
       ]
     }
@@ -1266,10 +1266,10 @@
   {
     "id": "VIT-042",
     "tema": "composición - folato (vitamina B9) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes 240 µg (120 % del VRN); pipas de girasol 227 µg (114 % del VRN); espinacas crudas 194 µg (97 % del VRN); lentejas cocidas 181 µg (91 % del VRN); garbanzos cocidos 172 µg (86 % del VRN); brócoli cocido 108 µg (54 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes 240 µg (120 % del VRN); pipas de girasol 227 µg (114 % del VRN); espinacas crudas 194 µg (97 % del VRN); lentejas cocidas 181 µg (91 % del VRN); garbanzos cocidos 172 µg (86 % del VRN); avellanas 113 µg (57 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 200 µg (folato total) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 170562, 168462, 172421, 173757, 169967)",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 170562, 168462, 172421, 173757, 170581)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -1279,7 +1279,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Peanuts, all types, raw (fdcId 172430) 240 µg; Seeds, sunflower seed kernels, dried (fdcId 170562) 227 µg; Spinach, raw (fdcId 168462) 194 µg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) 181 µg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) 172 µg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) 108 µg"
+      "detalle": "Peanuts, all types, raw (fdcId 172430) 240 µg; Seeds, sunflower seed kernels, dried (fdcId 170562) 227 µg; Spinach, raw (fdcId 168462) 194 µg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) 181 µg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) 172 µg; Nuts, hazelnuts or filberts (fdcId 170581) 113 µg"
     },
     "molde_datos": {
       "tipo": "ranking",
@@ -1317,10 +1317,10 @@
           "pct": 86
         },
         {
-          "nombre": "Brócoli cocido",
-          "valor": "108 µg",
-          "fdc": 169967,
-          "pct": 54
+          "nombre": "Avellanas",
+          "valor": "113 µg",
+          "fdc": 170581,
+          "pct": 57
         }
       ]
     }

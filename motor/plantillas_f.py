@@ -59,7 +59,7 @@ CSS = """
 /* piezas angulares (pieza["angular"] = true): ninguna forma redonda; etiquetas en paralelogramo, cantos vivos y una cuña oliva en la esquina */
 .ff.ang *{border-radius:0 !important}
 .ff.ang .pastilla{clip-path:polygon(0 0,100% 0,calc(100% - 22px) 100%,0 100%);padding-right:52px}
-.ff.ang .puntosf i{width:26px;height:10px;border-width:3px}
+.ff.ang .puntosf i{width:20px;height:10px;border-width:3px}
 .ff.ang .cuna{position:absolute;right:0;top:0;width:210px;height:210px;background:var(--o);clip-path:polygon(0 0,100% 0,100% 100%)}
 """
 
@@ -71,8 +71,8 @@ def _catalogo() -> dict:
     return _CAT
 
 
-def _foto(clave: str, x: float, y: float, w: float, h: float, radio: float = 0, foco=None, extra: str = "") -> str:
-    """Una foto del catálogo recortada a la caja x, y, w, h (con `object-fit: cover`)."""
+def _foto(clave: str, x: float, y: float, w: float, h: float, radio: float = 0, foco=None, extra: str = "", zoom: float | None = None) -> str:
+    """Una foto del catálogo recortada a la caja x, y, w, h (con `object-fit: cover`). `zoom` (>1) acerca la foto al punto de foco."""
     f = _catalogo().get(clave)
     if not f:
         raise ErrorFoto(f"La foto «{clave}» no está en datos/fotos_catalogo.json")
@@ -80,8 +80,9 @@ def _foto(clave: str, x: float, y: float, w: float, h: float, radio: float = 0, 
     if not ruta.is_file():
         raise ErrorFoto(f"Falta el fichero de la foto «{clave}»: {ruta}")
     fx, fy = foco or f.get("foco") or (50, 50)
+    z = f";transform:scale({zoom});transform-origin:{fx}% {fy}%" if zoom and zoom > 1 else ""
     return (f'<div class="foto" style="left:{x:.0f}px;top:{y:.0f}px;width:{w:.0f}px;height:{h:.0f}px;border-radius:{radio:.0f}px;{extra}">'
-            f'<img alt="" src="{ruta.as_uri()}" style="object-position:{fx}% {fy}%"></div>')
+            f'<img alt="" src="{ruta.as_uri()}" style="object-position:{fx}% {fy}%{z}"></div>')
 
 
 def _titulo(texto: str, x: int, y: int, w: int, alto: int, fit: tuple[int, int], align: str = "left", anclar: str = "start", color: str = "#fff") -> str:
@@ -205,7 +206,7 @@ def f_vs(h: dict, ctx: dict) -> str:
         d = h[lado]
         gana = ganador == lado
         borde = "box-shadow:0 0 0 10px var(--o);" if gana else ""
-        p.append(_foto(d["foto"], x, 318, 464, 560, 52, d.get("foco"), borde))
+        p.append(_foto(d["foto"], x, 318, 464, 560, 52, d.get("foco"), borde, d.get("zoom")))
         p.append(f'<div class="ft" data-fit="36,66" style="left:{x}px;top:910px;width:464px;height:76px;align-items:center;justify-content:center;text-align:center"><span>{D.tx(d["nombre"])}</span></div>')
         col = "var(--o)" if gana or not ganador else "#fff"
         p.append(f'<div class="num" data-fitw="60,150" style="left:{x}px;top:984px;width:464px;height:140px;color:{col}"><span style="display:flex;align-items:flex-end;white-space:nowrap">{_valor(d["valor"])}</span></div>')
