@@ -103,6 +103,7 @@ RUTA_AMPLIACION = RAIZ / "datos" / "novedades_ampliacion_2026-10.json"       # 1
 RUTA_COMPOSICION = RAIZ / "datos" / "composicion_alimentos_2026-10.json"        # ALI-...: cifras de la tabla de USDA FoodData Central, consultadas una a una
 RUTA_DEBATES = RAIZ / "datos" / "debates_polemicos.json"                         # DEB-...: hechos de los debates (corrientes), verificados en Europe PMC
 RUTA_VITAMINAS = RAIZ / "datos" / "vitaminas_2026-10.json"                      # VIT-...: declaraciones autorizadas, VRN, composición (USDA) y límites del NHS (13-oct-2026)
+RUTA_ETIQUETAS = RAIZ / "datos" / "etiquetas_2026-10.json"                      # ETI-...: cómo leer una etiqueta (Reglamento UE 1169/2011), frase a frase comprobada
 RUTA_AZUCAR = RAIZ / "datos" / "azucar_2026-10.json"                            # AZU-...: guía de la OMS y estudios sobre el azúcar, verificados en Europe PMC
 
 
@@ -133,7 +134,7 @@ def cargar_banco(cuenta: str) -> dict[str, dict]:
         hechos += json.loads(RUTA_NOVEDADES.read_text(encoding="utf-8-sig"))
     if RUTA_AMPLIACION.is_file():
         hechos += json.loads(RUTA_AMPLIACION.read_text(encoding="utf-8-sig"))
-    for ruta in (RUTA_COMPOSICION, RUTA_DEBATES, RUTA_VITAMINAS, RUTA_AZUCAR):   # composición de alimentos (USDA), debates con sus corrientes (11-oct-2026), vitaminas y azúcar (13-oct-2026)
+    for ruta in (RUTA_COMPOSICION, RUTA_DEBATES, RUTA_VITAMINAS, RUTA_AZUCAR, RUTA_ETIQUETAS):   # composición de alimentos (USDA), debates con sus corrientes (11-oct-2026), vitaminas y azúcar (13-oct-2026)
         if ruta.is_file():
             hechos += json.loads(ruta.read_text(encoding="utf-8-sig"))
     if RUTA_VOCES.is_file():

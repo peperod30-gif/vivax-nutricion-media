@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write
+  actions: write          # para lanzar la siguiente pasada (el cron de GitHub puede tardar o saltarse arranques)
 
 concurrency:
   group: router
@@ -81,3 +82,13 @@ jobs:
         run: |
           cd motor
           python -X utf8 -m nube.estado subir --rama "$RAMA" --datos "$RUNNER_TEMP/router_datos"
+
+      # Cadena de seguridad: el cron de GitHub no garantiza hora ni arranque, así que cada pasada real, al terminar, espera y lanza la siguiente.
+      # El cron se queda como segunda red. Se puede cortar poniendo la variable del repositorio ENCADENAR en «no».
+      - name: Encadenar la siguiente pasada
+        if: always() && env.PRUEBA != 'si' && vars.ENCADENAR != 'no'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 235
+          gh workflow run router.yml --repo "$GITHUB_REPOSITORY" -f prueba=false

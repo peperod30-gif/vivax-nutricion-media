@@ -204,12 +204,12 @@ def f_vs(h: dict, ctx: dict) -> str:
     ganador = h.get("ganador")
     for lado, x in (("izq", 64), ("der", 552)):
         d = h[lado]
-        gana = ganador == lado
+        gana = ganador == lado and not h.get("oculto")           # `oculto`: la hoja del «adivina», con «?» en vez de la cifra
         borde = "box-shadow:0 0 0 10px var(--o);" if gana else ""
         p.append(_foto(d["foto"], x, 318, 464, 560, 52, d.get("foco"), borde, d.get("zoom")))
         p.append(f'<div class="ft" data-fit="36,66" style="left:{x}px;top:910px;width:464px;height:76px;align-items:center;justify-content:center;text-align:center"><span>{D.tx(d["nombre"])}</span></div>')
         col = "var(--o)" if gana or not ganador else "#fff"
-        p.append(f'<div class="num" data-fitw="60,150" style="left:{x}px;top:984px;width:464px;height:140px;color:{col}"><span style="display:flex;align-items:flex-end;white-space:nowrap">{_valor(d["valor"])}</span></div>')
+        p.append(f'<div class="num" data-fitw="60,150" style="left:{x}px;top:984px;width:464px;height:140px;color:{col}"><span style="display:flex;align-items:flex-end;white-space:nowrap">{_valor("?" if h.get("oculto") else d["valor"])}</span></div>')
     p.append('<div class="num" style="left:482px;top:560px;width:116px;height:116px;border-radius:50%;background:#000;border:8px solid var(--o);color:#fff;font-size:50px;line-height:1">'
              '<span style="display:block;margin-top:-4px;text-transform:uppercase">vs</span></div>')
     p.append(f'<div class="cuerpo" data-fit="28,44" style="left:64px;top:1140px;width:952px;height:104px;display:flex;align-items:center;justify-content:center;text-align:center"><span>{D.tx(h["texto"])}</span></div>')
@@ -231,7 +231,8 @@ def f_dato(h: dict, ctx: dict) -> str:
     p.append(_titulo(h["titulo"], 64, 150, 952, 330, (64, 150)))
     cifra = D.e(h["cifra"])
     unidad = f'<span class="u">{D.e(h["unidad"])}</span>' if h.get("unidad") else ""
-    p.append(f'<div class="num" data-fitw="170,560" style="left:64px;top:470px;width:952px;height:430px;justify-content:flex-start;color:var(--o)">'
+    ancho_num = 620 if (ang and h.get("foto")) else 952          # angular con foto: la cifra no pisa el bloque de la derecha
+    p.append(f'<div class="num" data-fitw="170,560" style="left:64px;top:470px;width:{ancho_num}px;height:430px;justify-content:flex-start;color:var(--o)">'
              f'<span style="display:flex;align-items:flex-end;white-space:nowrap">{cifra}{unidad}</span></div>')
     ancho = (580 if ang else 600) if h.get("foto") else 952
     p.append(f'<div class="cuerpo" data-fit="32,50" style="left:64px;top:940px;width:{ancho}px;height:250px;display:flex;align-items:flex-start"><span>{D.tx(h["texto"])}</span></div>')

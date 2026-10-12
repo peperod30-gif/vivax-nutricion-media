@@ -24,6 +24,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from router.hub import fecha_hora_es
+from router.textos_panel import corto
 
 MADRID = ZoneInfo("Europe/Madrid")
 CLAVE_ORDENES = "nube_ordenes"          # meta del hub: {nombre_de_orden: {"hecha": iso, "decision": n}}
@@ -135,7 +136,8 @@ def _hacer(ad, accion: dict, admin: int, origen: str) -> str:
     pid = accion["pieza_id"]
     r = _fila(ad, pid)
     if r is None:
-        return f"{pid}: no está en la cola."
+        return f"⚠️ {pid}: no está en la cola."
+    nombre = corto(r["titulo"], 40)                                # con el título se entiende; el id de la pieza no dice nada a José
     ahora = ad.ahora()
     hora = _hora(accion.get("hora"))
     if accion["accion"] == "aprobar":
@@ -143,13 +145,13 @@ def _hacer(ad, accion: dict, admin: int, origen: str) -> str:
             hora = None                                            # la hora ya pasó (o falta nada): primer hueco libre
         motivo = ad.aprobar(r["id"], admin, para_admin=True, hora=hora, origen=origen)
         if motivo:
-            return f"{pid}: no se aprobó. {motivo}"
-        return f"{pid}: aprobada.{ad.resumen_decision(r['id'])}"
+            return f"⚠️ {nombre}: no se aprobó. {motivo}"
+        return f"✅ {nombre}: aprobada.{ad.resumen_decision(r['id'])}"
     if accion["accion"] == "rechazar":
         motivo = ad.rechazar(r["id"], admin)
-        return f"{pid}: no se rechazó. {motivo}" if motivo else f"{pid}: rechazada."
+        return f"⚠️ {nombre}: no se rechazó. {motivo}" if motivo else f"❌ {nombre}: rechazada."
     motivo = ad.cambiar_hora(r["id"], hora, admin, origen=origen)
-    return f"{pid}: la hora no cambió. {motivo}" if motivo else f"{pid}: nueva hora.{ad.resumen_decision(r['id'])}"
+    return f"⚠️ {nombre}: la hora no cambió. {motivo}" if motivo else f"🕐 {nombre}: nueva hora.{ad.resumen_decision(r['id'])}"
 
 
 def ejecutar_acciones(hub, ad, router, log=print) -> int:
@@ -172,7 +174,7 @@ def ejecutar_acciones(hub, ad, router, log=print) -> int:
         if not lista:
             continue
         lineas = [_hacer(ad, a, admin, f"nube:decision-{numero}") for a in lista]
-        router._avisar_admins(f"Decisión n.º {numero}: hecho.\n" + "\n".join(lineas))
+        router._avisar_admins(f"Hecho (pregunta n.º {numero}):\n" + "\n".join(lineas))
         log(f"decisión {numero}: {len(lista)} acciones ejecutadas")
     _guardar(hub, CLAVE_ACCIONES, acciones)
     return tocadas

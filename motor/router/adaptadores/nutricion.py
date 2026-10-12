@@ -177,6 +177,7 @@ def texto_validaciones(cuenta: str) -> str:
 
 class AdaptadorNutricion:
     anfitrion = False
+    estilo_panel = False        # True en la nube: los avisos de publicación salen en llano y con los botones del panel (router/textos_panel.py)
     programable = True          # el router ofrece «Programar», «Ahora», «Cambiar hora» y «Quitar de la cola» (ver router/nucleo.py)
 
     def __init__(self, cuenta: str, datos: Path, salida: Path | None = None, exigir_validacion: bool = True, politica: str | None = None,
@@ -599,6 +600,73 @@ class AdaptadorNutricion:
         t = datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
         return t if t.astimezone(timezone.utc) > ahora.astimezone(timezone.utc) + timedelta(minutes=2) else None
 
+    def hora_prevista(self, id: int) -> datetime | None:
+        """La hora que dice el plan para esta pieza, sin mirar si ya pasó: `produccion.fecha` con `produccion.hora` (HH:MM) o, si no hay hora,
+        con la del hueco (`produccion.hueco`). None si la pieza no lleva plan o no se puede leer. Es lo que usa el panel para programar de golpe."""
+        r = self.fila(id)
+        if r is None:
+            return None
+        try:
+            prod = (self._json_de(r).get("produccion") or {})
+            dia = date.fromisoformat(str(prod.get("fecha", ""))[:10])
+            hh = str(prod.get("hora") or "")
+            if re.fullmatch(r"\d{1,2}:\d{2}", hh):
+                h, m = (int(x) for x in hh.split(":"))
+            else:
+                hueco = int(prod.get("hueco"))
+                if not 1 <= hueco <= len(self.horas):
+                    return None
+                h, m = (int(x) for x in self.horas[hueco - 1].split(":"))
+        except (OSError, ValueError, TypeError, AttributeError):
+            return None
+        return datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
+
+    def filas_panel(self, estados: tuple[str, ...] | None = None) -> list[sqlite3.Row]:
+        """Las piezas con lo que necesita el panel para dibujarlas (estado, horas, enlace, error, pie). Sin filtro, todas."""
+        sql = "SELECT id, pieza_id, titulo, estado, programada, publicada, ig_permalink, error, intentos, formato, pie, ig_estado FROM piezas"
+        if estados:
+            sql += " WHERE estado IN (" + ",".join("?" * len(estados)) + ")"
+            return self.db.execute(sql + " ORDER BY id", estados).fetchall()
+        return self.db.execute(sql + " ORDER BY id").fetchall()
+
+    def reintentar(self, id: int, por: int, hora: datetime | None = None, origen: str = "panel:reintentar") -> str | None:
+        """Una pieza «con problema» vuelve a la cola: aprobada otra vez, en la hora que se diga o en el primer hueco libre. Si Instagram ya
+        pudo recibir la orden de publicarla, no se reintenta (podría salir dos veces): se dice que mire en la cuenta."""
+        r = self.fila(id)
+        if r is None:
+            return "Esa pieza no existe."
+        if r["estado"] != "error":
+            return f"Esa pieza ya está {ESTADO_TEXTO.get(r['estado'], r['estado'])}: no hay nada que reintentar."
+        ig = _estado_ig(r)
+        if ig.get("fase") in FASES_ENVIADAS:
+            return "Instagram ya ha empezado a publicarla: mira en la cuenta si ha salido antes de reintentar."
+        motivo = self._candado(r, True)
+        if motivo:
+            return motivo
+        if hora is not None and hora.astimezone(timezone.utc) <= self.ahora().astimezone(timezone.utc):
+            return "Esa hora ya ha pasado."
+        iso = self.siguiente_hueco() if hora is None else hora.astimezone(self.zona).isoformat(timespec="seconds")
+        _descartar_contenedor_no_enviado(ig)
+        with self.db.transaccion() as c:
+            cur = c.execute("UPDATE piezas SET estado='aprobada', programada=?, programada_manual=?, proximo_intento=NULL, simulada=NULL, intentos=0, "
+                            "error=NULL, ig_estado=? WHERE id=? AND estado='error'", (iso, 0 if hora is None else 1, json.dumps(ig) if ig else None, id))
+            if cur.rowcount != 1:
+                return "La pieza ya no está con problema: no la he tocado."
+            self._auditar(c, id, por, "reintentada", None, iso, origen)
+        return None
+
+    def descartar(self, id: int, por: int) -> str | None:
+        """Una pieza «con problema» que ya no se quiere: pasa a rechazada. Con la misma precaución que rechazar."""
+        r = self.fila(id)
+        if r is None:
+            return "Esa pieza no existe."
+        if r["estado"] != "error":
+            return f"Esa pieza ya está {ESTADO_TEXTO.get(r['estado'], r['estado'])}."
+        if _estado_ig(r).get("fase") in FASES_ENVIADAS:
+            return "Instagram ya ha empezado a publicarla: mira en la cuenta si ha salido."
+        self._cerrar(id, "rechazada", por)
+        return None
+
     def choques(self, id: int, instante: datetime, minutos: int = 45) -> list[tuple[int, datetime]]:
         """Otras piezas de la cola (aprobadas o publicándose) a menos de `minutos` de esa hora, antes o después. Para el aviso «ojo»."""
         ref = instante.astimezone(timezone.utc)
@@ -653,13 +721,17 @@ class AdaptadorNutricion:
         segundo retraso tiene el mismo margen de tres horas. Solo se mueve si la hora sigue siendo la que se leyó."""
         nuevo = self.siguiente_hueco(ahora)
         texto = self._texto_retraso(r, nuevo)
+        botones = [[("⏰ Cambiar hora", f"{self.cuenta}:ch:{r['id']}")]]
+        if self.estilo_panel:
+            from ..textos_panel import aviso_retraso        # noqa: PLC0415
+            texto, botones = aviso_retraso(r["titulo"], datetime.fromisoformat(r["programada"]), datetime.fromisoformat(nuevo), r["id"])
         with self.db.transaccion() as c:
             cur = c.execute("UPDATE piezas SET programada=? WHERE id=? AND estado='aprobada' AND programada IS ?",
                             (nuevo, r["id"], r["programada"]))
             if cur.rowcount != 1:
                 return
             self._auditar(c, r["id"], None, "movida_retraso", r["programada"], nuevo, "sistema:retraso")
-            self._encolar(c, texto, [[("⏰ Cambiar hora", f"{self.cuenta}:ch:{r['id']}")]])
+            self._encolar(c, texto, botones)
 
     def _texto_retraso(self, r: sqlite3.Row, nuevo_iso: str) -> str:
         """El aviso de una pieza que José programó a mano y no salió a su hora. Dice la causa que se sabe: si falló al publicar, cuántas veces;
@@ -798,7 +870,11 @@ class AdaptadorNutricion:
             c.execute("UPDATE piezas SET estado='publicada', publicada=?, ig_media_id=?, ig_permalink=?, error=NULL WHERE id=?",
                       (ahora.isoformat(timespec="seconds"), res.media_id, res.permalink, r["id"]))
             retraso = ahora - datetime.fromisoformat(r["programada"])        # cuánto tarde salió (una hora de José con el router parado)
-            self._encolar(c, texto_publicada(r["id"], self.cuenta, r["titulo"], res.permalink, retraso))
+            if self.estilo_panel:
+                from ..textos_panel import aviso_publicada      # noqa: PLC0415 (solo en el estilo del panel)
+                self._encolar(c, aviso_publicada(r["titulo"], res.permalink, int(retraso.total_seconds() // 60)))
+            else:
+                self._encolar(c, texto_publicada(r["id"], self.cuenta, r["titulo"], res.permalink, retraso))
         return []
 
     def _fallo(self, r: sqlite3.Row, exc, ahora: datetime) -> list[str]:
@@ -835,12 +911,16 @@ class AdaptadorNutricion:
                   (texto, self._instante(), json.dumps(botones, ensure_ascii=False) if botones else None))
 
     def _pasar_a_error(self, r: sqlite3.Row, error: str, texto: str, intentos: int | None = None) -> None:
+        botones = None
+        if self.estilo_panel:
+            from ..textos_panel import aviso_error          # noqa: PLC0415
+            texto, botones = aviso_error(r["titulo"], error, r["id"])
         with self.db.transaccion() as c:
             if intentos is None:
                 c.execute("UPDATE piezas SET estado='error', error=? WHERE id=?", (error, r["id"]))
             else:
                 c.execute("UPDATE piezas SET estado='error', intentos=?, error=? WHERE id=?", (intentos, error, r["id"]))
-            self._encolar(c, texto)
+            self._encolar(c, texto, botones)
 
     def _parar_por_validaciones(self) -> list[str]:
         """El almacén de validaciones no se puede leer: nada se da por validado, así que no sale nada. Un aviso urgente por incidente:

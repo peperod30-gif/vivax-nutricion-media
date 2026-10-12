@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import json
 import time
+from pathlib import Path
 
 import requests
 
@@ -41,10 +42,17 @@ class TelegramReal:
         raise ErrorTelegram(metodo, 429, "demasiados reintentos")
 
     @staticmethod
-    def _teclado(botones) -> str | None:
+    def _boton(texto: str, dato: str) -> dict:
+        """Un botón de callback; si el dato es un enlace (http o https), un botón que abre ese enlace."""
+        if str(dato).startswith(("http://", "https://")):
+            return {"text": texto, "url": dato}
+        return {"text": texto, "callback_data": dato}
+
+    @classmethod
+    def _teclado(cls, botones) -> str | None:
         if not botones:
             return None
-        return json.dumps({"inline_keyboard": [[{"text": t, "callback_data": d} for t, d in fila] for fila in botones]})
+        return json.dumps({"inline_keyboard": [[cls._boton(t, d) for t, d in fila] for fila in botones]})
 
     def actualizaciones(self, offset: int, timeout: int = 25) -> list[dict]:
         return self._llamar("getUpdates", timeout=timeout + 15, data={"offset": offset, "timeout": timeout,
@@ -72,6 +80,45 @@ class TelegramReal:
             self._llamar("editMessageText", data=datos)
         except ErrorTelegram as exc:
             if "not modified" not in exc.descripcion:
+                raise
+
+    # ------------------------------------------------------------------ fotos (el panel enseña la portada de cada pieza)
+    def enviar_foto(self, chat_id: int, ruta, caption: str, botones=None) -> int:
+        """Una foto con su texto (hasta 1024 caracteres) y sus botones. Devuelve el número del mensaje."""
+        datos = {"chat_id": chat_id, "caption": caption[:1000]}
+        t = self._teclado(botones)
+        if t:
+            datos["reply_markup"] = t
+        with open(ruta, "rb") as f:
+            return self._llamar("sendPhoto", data=datos, files={"photo": (Path(ruta).name, f, "image/jpeg")})["message_id"]
+
+    def editar_foto(self, chat_id: int, message_id: int, ruta, caption: str, botones=None) -> None:
+        """Cambia la foto, el texto y los botones de un mensaje que ya es una foto (editMessageMedia con el fichero adjunto)."""
+        media = {"type": "photo", "media": "attach://foto", "caption": caption[:1000]}
+        datos = {"chat_id": chat_id, "message_id": message_id, "media": json.dumps(media)}
+        t = self._teclado(botones)
+        if t:
+            datos["reply_markup"] = t
+        with open(ruta, "rb") as f:
+            self._llamar("editMessageMedia", data=datos, files={"foto": (Path(ruta).name, f, "image/jpeg")})
+
+    def editar_leyenda(self, chat_id: int, message_id: int, caption: str, botones=None) -> None:
+        """Cambia solo el texto y los botones de un mensaje que es una foto (la foto se queda)."""
+        datos = {"chat_id": chat_id, "message_id": message_id, "caption": caption[:1000]}
+        t = self._teclado(botones)
+        datos["reply_markup"] = t if t else json.dumps({"inline_keyboard": []})
+        try:
+            self._llamar("editMessageCaption", data=datos)
+        except ErrorTelegram as exc:
+            if "not modified" not in exc.descripcion:
+                raise
+
+    def borrar(self, chat_id: int, message_id: int) -> None:
+        """Borra un mensaje (Telegram solo deja borrar los de menos de 48 horas; si no se puede, se ignora)."""
+        try:
+            self._llamar("deleteMessage", timeout=20, data={"chat_id": chat_id, "message_id": message_id})
+        except ErrorTelegram as exc:
+            if exc.codigo not in (400, 403):
                 raise
 
     def responder_callback(self, cb_id: str, texto: str = "", alerta: bool = False) -> None:

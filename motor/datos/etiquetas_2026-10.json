@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ETI-001",
+    "tema": "etiqueta: ingredientes",
+    "enunciado": "La lista de ingredientes de la etiqueta incluye todos los ingredientes del alimento en orden decreciente de peso, según se incorporen en el momento de su uso para la fabricación del alimento.",
+    "veredicto": "respaldado",
+    "matiz": "Por eso el primer ingrediente es el que más pesa en la receta. Texto original del Reglamento (UE) nº 1169/2011 en castellano (EUR-Lex), versión de 2011; hay modificaciones posteriores que no cambian este punto. Es información sobre cómo se etiqueta, no una recomendación de qué comer.",
+    "fuente": "Reglamento (UE) nº 1169/2011, artículo 18, apartado 1",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1169",
+    "anio": 2011,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano del reglamento descargado de EUR-Lex (fuentes/reglamento_1169_2011_texto.txt)",
+      "detalle": "en orden decreciente de peso, según se incorporen en el momento de su uso para la fabricación del alimento"
+    }
+  },
+  {
+    "id": "ETI-002",
+    "tema": "etiqueta: alérgenos",
+    "enunciado": "Las sustancias que causan alergias o intolerancias se indican en la lista de ingredientes y se destacan con una composición tipográfica que las diferencia del resto, por ejemplo con otro tipo de letra, estilo o color de fondo.",
+    "veredicto": "respaldado",
+    "matiz": "Las sustancias son las del anexo II del reglamento. Texto original del Reglamento (UE) nº 1169/2011 en castellano (EUR-Lex), versión de 2011; hay modificaciones posteriores que no cambian este punto. Es información sobre cómo se etiqueta, no una recomendación de qué comer.",
+    "fuente": "Reglamento (UE) nº 1169/2011, artículo 21, apartado 1",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1169",
+    "anio": 2011,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano del reglamento descargado de EUR-Lex (fuentes/reglamento_1169_2011_texto.txt)",
+      "detalle": "se destacará mediante una composición tipográfica que la diferencie claramente del resto de la lista de ingredientes, por ejemplo mediante el tipo de letra, el estilo o el color de fondo"
+    }
+  },
+  {
+    "id": "ETI-003",
+    "tema": "etiqueta: fechas",
+    "enunciado": "«Consumir preferentemente antes del…» indica la fecha de duración mínima. La «fecha de caducidad» se usa en alimentos microbiológicamente muy perecederos y, pasada esa fecha, el alimento no se considera seguro.",
+    "veredicto": "respaldado",
+    "matiz": "El reglamento dice que, en los alimentos muy perecederos, la fecha de duración mínima se sustituye por la fecha de caducidad. Texto original del Reglamento (UE) nº 1169/2011 en castellano (EUR-Lex), versión de 2011; hay modificaciones posteriores que no cambian este punto. Es información sobre cómo se etiqueta, no una recomendación de qué comer.",
+    "fuente": "Reglamento (UE) nº 1169/2011, artículo 24 y anexo X",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1169",
+    "anio": 2011,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano del reglamento descargado de EUR-Lex (fuentes/reglamento_1169_2011_texto.txt)",
+      "detalle": "«consumir preferentemente antes del …» cuando la fecha incluya la indicación del día / Después de su «fecha de caducidad», el alimento no se considerará seguro"
+    }
+  },
+  {
+    "id": "ETI-004",
+    "tema": "etiqueta: sal",
+    "enunciado": "En la etiqueta, la sal es el contenido equivalente en sal calculado con la fórmula sal = sodio × 2,5.",
+    "veredicto": "respaldado",
+    "matiz": "Cuando una etiqueta da el sodio, la sal se obtiene multiplicando por 2,5. Texto original del Reglamento (UE) nº 1169/2011 en castellano (EUR-Lex), versión de 2011; hay modificaciones posteriores que no cambian este punto. Es información sobre cómo se etiqueta, no una recomendación de qué comer.",
+    "fuente": "Reglamento (UE) nº 1169/2011, anexo I, punto 11",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1169",
+    "anio": 2011,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano del reglamento descargado de EUR-Lex (fuentes/reglamento_1169_2011_texto.txt)",
+      "detalle": "sal = sodio × 2,5"
+    }
+  },
+  {
+    "id": "ETI-005",
+    "tema": "etiqueta: energía por gramo",
+    "enunciado": "El valor energético de la etiqueta se calcula con estos factores por gramo: 4 kcal los hidratos de carbono (salvo los polialcoholes), 4 kcal las proteínas, 9 kcal las grasas, 7 kcal el alcohol y 2 kcal la fibra alimentaria.",
+    "veredicto": "respaldado",
+    "matiz": "Son factores de conversión fijos para calcular lo que se declara. Texto original del Reglamento (UE) nº 1169/2011 en castellano (EUR-Lex), versión de 2011; hay modificaciones posteriores que no cambian este punto. Es información sobre cómo se etiqueta, no una recomendación de qué comer.",
+    "fuente": "Reglamento (UE) nº 1169/2011, anexo XIV",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1169",
+    "anio": 2011,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano del reglamento descargado de EUR-Lex (fuentes/reglamento_1169_2011_texto.txt)",
+      "detalle": "hidratos de carbono (salvo los polialcoholes) | | 17 kJ/g — 4 kcal/g / grasas | | 37 kJ/g — 9 kcal/g / alcohol (etanol) | | 29 kJ/g — 7 kcal/g / fibra alimentaria | | 8 kJ/g — 2 kcal/g"
+    }
+  },
+  {
+    "id": "ETI-006",
+    "tema": "etiqueta: ingesta de referencia",
+    "enunciado": "Los porcentajes de ingesta de referencia que puede dar la etiqueta se calculan para un adulto medio con 2000 kcal (8400 kJ) al día: 70 g de grasa total, 20 g de ácidos grasos saturados, 260 g de hidratos de carbono, 90 g de azúcares, 50 g de proteínas y 6 g de sal.",
+    "veredicto": "respaldado",
+    "matiz": "La etiqueta debe decir «Ingesta de referencia de un adulto medio (8 400 kJ/2 000 kcal)» al lado. Es una referencia para comparar productos, no la cantidad que cada persona necesita. Texto original del Reglamento (UE) nº 1169/2011 en castellano (EUR-Lex), versión de 2011; hay modificaciones posteriores que no cambian este punto. Es información sobre cómo se etiqueta, no una recomendación de qué comer.",
+    "fuente": "Reglamento (UE) nº 1169/2011, artículo 32, apartados 4 y 5, y anexo XIII, parte B",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1169",
+    "anio": 2011,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano del reglamento descargado de EUR-Lex (fuentes/reglamento_1169_2011_texto.txt)",
+      "detalle": "«Ingesta de referencia de un adulto medio (8 400 kJ/2 000 kcal)» / Grasa total | 70 g | Ácidos grasos saturados | 20 g | Hidratos de carbono | 260 g | Azúcares | 90 g | Proteínas | 50 g | Sal | 6 g"
+    }
+  }
+]

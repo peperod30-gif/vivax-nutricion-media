@@ -32,6 +32,7 @@ from datetime import date, datetime, timedelta, timezone
 from .hub import (EJEMPLOS_HORA, ESPERA_HORA_S, LATIDO, MADRID, OPCION_CADUCA_S, PREGUNTA_AHORA_S, ErrorHora, analizar_hora, desde_iso,
                   dia_corto_es, fecha_corta_es, fecha_hora_es, hora_local, limpiar_respuesta, limpiar_texto, parece_credencial,
                   repeticion_hora)
+from .panel import Panel
 from .telegram_io import ErrorTelegram
 from .validacion import ACCIONES_VALIDACION, Validacion
 
@@ -99,6 +100,10 @@ class Decisiones:
         filas = [[(o["texto"], _datos_boton(d["cuenta"], "d" + o["clave"], d["id"]))] for o in json.loads(d["opciones"])]
         return filas or None
 
+    def _cab(self, d) -> str:
+        """La primera línea del mensaje: «Decisión n.º 7» como siempre, o «Pregunta n.º 7» con el panel (sin jerga). Se reconocen las dos."""
+        return f"{'Pregunta' if self.r.panel.activo else 'Decisión'} n.º {d['id']}"
+
     def _texto_pregunta(self, d) -> str:
         if d["texto_libre"]:
             pide = ("Pulsa una opción o responde a este mensaje con tu texto." if json.loads(d["opciones"])
@@ -108,7 +113,7 @@ class Decisiones:
         cola = f"Caduca el {hora_local(d['caduca']):%d/%m a las %H:%M}."
         if d["defecto"]:
             cola += f" Si no contestas, se aplica «{self._texto_de(d, d['defecto'])}»."
-        return f"Decisión n.º {d['id']}\n\n{d['pregunta']}\n\n{pide}\n{cola}"
+        return f"{self._cab(d)}\n\n{d['pregunta']}\n\n{pide}\n{cola}"
 
     def _texto_cerrada(self, d) -> str:
         if d["estado"] == "respondida":
@@ -122,7 +127,7 @@ class Decisiones:
             linea = "Caducó sin respuesta. No había ninguna opción por defecto."
         else:
             linea = "Anulada: ya no hace falta contestarla."
-        return f"Decisión n.º {d['id']}\n\n{d['pregunta']}\n\n{linea}"
+        return f"{self._cab(d)}\n\n{d['pregunta']}\n\n{linea}"
 
     # ------------------------------------------------------------------ cada vuelta del bucle
     def vuelta(self) -> None:
@@ -254,7 +259,7 @@ class Decisiones:
         otra = self.hub.decision_por_mensaje(mensaje_id)
         if otra is not None:
             return otra["id"] == d["id"]
-        if str(texto or "").startswith(f"Decisión n.º {d['id']}\n") and d["pregunta"] in str(texto):
+        if str(texto or "").startswith((f"Decisión n.º {d['id']}\n", f"Pregunta n.º {d['id']}\n")) and d["pregunta"] in str(texto):
             self.hub.registrar_copia(d["id"], mensaje_id)
             return True
         return False
@@ -269,7 +274,7 @@ class Decisiones:
             return d
         texto = str(cita.get("text") or "")
         # Cabe también el aviso de cierre («Decisión n.º 5: caducó…»); como mucho 9 cifras, como en los botones
-        n = re.match(r"Decisión n\.º ([0-9]{1,9})[\n:]", texto)
+        n = re.match(r"(?:Decisión|Pregunta) n\.º ([0-9]{1,9})[\n:]", texto)
         if n is None or not (cita.get("from") or {}).get("is_bot"):
             return None
         otra = self.hub.decision(int(n.group(1)))
@@ -298,7 +303,7 @@ class Decisiones:
         if (m.get("reply_to_message") or {}).get("message_id") is not None:
             d = self._decision_citada(m)
             if d is None:
-                if str((m.get("reply_to_message") or {}).get("text") or "").startswith("Decisión n.º "):
+                if str((m.get("reply_to_message") or {}).get("text") or "").startswith(("Decisión n.º ", "Pregunta n.º ")):
                     return self._sin_enlazar(chat_id, uid, m, texto)     # responde a una decisión que no se puede enlazar: se dice
                 return False                                    # respuesta a otra cosa: la de Campo, o la bandeja
         else:
@@ -882,7 +887,7 @@ class Programacion:
 
 
 class Router:
-    def __init__(self, hub, tg, adaptadores: dict, bot_usuario: str, ahora=time.time, log=None, planes=None, produccion=None):
+    def __init__(self, hub, tg, adaptadores: dict, bot_usuario: str, ahora=time.time, log=None, planes=None, produccion=None, panel: bool = False):
         self.hub, self.tg, self.adaptadores, self.bot_usuario = hub, tg, adaptadores, bot_usuario
         self.ahora = ahora
         self.log = log or (lambda m: print(m, file=sys.stderr))
@@ -894,6 +899,7 @@ class Router:
         self.decisiones = Decisiones(self)              # preguntas a José con botones, su bandeja y /decisiones
         self.avisos = Avisos(self)                      # avisos a José guardados en la base (sin botones)
         self.programacion = Programacion(self)          # elegir la hora de salida: Programar, Ahora, Cambiar hora, Quitar de la cola
+        self.panel = Panel(self, activo=panel)          # el panel de aprobación (router/panel.py); apagado salvo que se pida (la nube lo pide)
 
     # ------------------------------------------------------------------ entrada
     def procesar(self, upd: dict) -> None:
@@ -945,6 +951,8 @@ class Router:
             partes = texto.split(maxsplit=1)
             if len(partes) == 2:
                 return self._canjear(chat_id, uid, remitente.get("first_name", ""), partes[1].strip())
+            if self.hub.activo(uid) and self.panel.comando(chat_id, uid, "/start"):
+                return
             return self._decir(chat_id, "Hola. " + (self._ayuda(uid) if self.hub.activo(uid) else PRIVADO))
         if not self.hub.activo(uid):
             if self._callado(uid):
@@ -957,7 +965,9 @@ class Router:
         espera = self.hub.esperando(uid)
         adjunto = any(k in m for k in ("photo", "document", "video", "voice", "audio"))
         respuesta_a = (m.get("reply_to_message") or {}).get("message_id")
-        if espera and texto and not adjunto and self._espera_aqui(uid, espera):
+        if espera and texto and not adjunto and espera["tipo"] == "horapn" and self.hub.es_admin(uid) and not m.get("reply_to_message"):
+            return self.panel.recibir_hora(chat_id, uid, espera, texto)              # «Escribir hora» del panel: el texto suelto es la hora
+        if espera and texto and not adjunto and espera["tipo"] != "horapn" and self._espera_aqui(uid, espera):
             if espera["tipo"] == "reparos":                                 # la nota de un hecho del banco: texto suelto o respuesta a la petición
                 if respuesta_a in (None, self.hub.peticion(uid)):           # otra respuesta sigue su camino (Campo)
                     return self.validacion.recibir_nota(chat_id, uid, espera, texto)
@@ -1028,6 +1038,8 @@ class Router:
         orden, *args = texto.split()
         orden = orden.split("@")[0].lower()
         admin = self.hub.es_admin(uid)
+        if orden in ("/panel", "/pendientes", "/calendario", "/ayuda") and self.panel.comando(chat_id, uid, orden):
+            return
         if orden == "/ayuda":
             return self._decir(chat_id, self._ayuda(uid))
         if orden == "/cancelar":                                 # (la espera de una hora ya la cerró _soltar_nota, y lo dice aquí)
@@ -1070,6 +1082,9 @@ class Router:
         self._decir(chat_id, "No conozco esa orden. /ayuda")
 
     def _ayuda(self, uid: int) -> str:
+        if self.hub.es_admin(uid) and self.panel.disponible():
+            from .textos_panel import ayuda_comandos       # noqa: PLC0415
+            return ayuda_comandos()
         base = ("/hoy: tus últimas piezas\n/ver <cuenta> <número>: te la vuelvo a enseñar\n/cuenta: en qué sección estás\n"
                 "/cancelar: cancela una edición en curso\n/baja: salir")
         if self.hub.es_admin(uid):
@@ -1243,6 +1258,8 @@ class Router:
         if not self.hub.activo(uid):
             return negar()
         cancelo = self._soltar_nota(uid)                                                          # cualquier otra pulsación anula la nota pedida
+        if data.startswith("pn:"):                                                                # el panel: solo el administrador
+            return self.panel.boton(cb_id, chat.get("id"), msg.get("message_id"), uid, data)
         if not FORMATO_BOTON.fullmatch(data):                                                     # no es del router: solo puede ser de Campo
             if not self.hub.es_admin(uid) or not self._anfitriones():
                 return negar()
@@ -1332,7 +1349,25 @@ class Router:
         for codigo, ad in self.adaptadores.items():
             if getattr(ad, "anfitrion", False) or not self.hub.cuenta(codigo):
                 continue
-            for p in ad.por_entregar():
+            nuevas = ad.por_entregar()
+            if self.panel.disponible() and self.panel.cuenta() and self.panel.cuenta()[0] == codigo and nuevas:
+                # con el panel: UN aviso con el panel para el administrador (no un álbum y una tarjeta por pieza); los demás miembros, como siempre
+                bien_admin = self.panel.avisar_llegada(nuevas)
+                for p in nuevas:
+                    bien = bien_admin
+                    for uid, rol in self.hub.miembros(codigo):
+                        if self.hub.es_admin(uid):
+                            continue
+                        try:
+                            self._enviar_pieza(uid, p, rol)
+                            bien += 1
+                        except ErrorTelegram as exc:
+                            self.log(f"pieza {codigo} {p.id}: no se pudo entregar a un destinatario ({exc.metodo} {exc.codigo})")
+                    if bien:
+                        ad.marcar_entregada(p.id)
+                        enviadas += 1
+                continue
+            for p in nuevas:
                 bien = 0
                 for uid, rol in self.hub.miembros(codigo):
                     try:
@@ -1365,6 +1400,11 @@ class Router:
                 self.planes.revisar(lambda t: self._avisar_admins(t))
             except Exception as exc:
                 self.log(f"planes: {type(exc).__name__}")
+        if self.panel.activo:
+            try:
+                self.panel.vuelta()
+            except Exception as exc:
+                self.log(f"panel: {type(exc).__name__}")
 
     def _administradores(self) -> list[int]:
         return [u["user_id"] for u in self.hub.usuarios() if u["rol"] == "admin" and not u["revocado"]]
