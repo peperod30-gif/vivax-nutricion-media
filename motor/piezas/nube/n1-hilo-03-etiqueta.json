@@ -1,0 +1,109 @@
+{
+  "id": "n1-hilo-03-etiqueta",
+  "direccion": "d",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "pilar": "etiquetas",
+  "hechos": [
+    "ETQ-001",
+    "EJE-001"
+  ],
+  "estado": "revisada",
+  "hojas": [
+    {
+      "plantilla": "portada",
+      "fondo": "color",
+      "etiqueta": "Etiquetas",
+      "titular": "{10 g} de azúcar. ¿En toda la lata?",
+      "personaje": {
+        "quien": "rosquilla",
+        "ojos": "sospecha",
+        "boca": "lado",
+        "pose": "caderas",
+        "cejas": "enfado"
+      },
+      "dice": "Etiqueta: 10. Lata: 33.",
+      "sigue": "¿cómo puede ser?"
+    },
+    {
+      "plantilla": "dice",
+      "titulo": "Letra pequeña",
+      "fondo": "claro",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "pastel",
+        "boca": "sonrisa",
+        "pose": "saludo"
+      },
+      "dice": "En Europa, la etiqueta da las cantidades por cada 100 ml. Tu envase suele traer más.",
+      "sigue": "¿y la lata?",
+      "fuente": "Reglamento (UE) 1169/2011"
+    },
+    {
+      "plantilla": "cifra",
+      "fondo": "oscuro",
+      "antes": "Ejemplo inventado: lata de 330 ml",
+      "cifra": "33",
+      "unidad": "g de azúcares en la lata",
+      "texto": "10 g por cada 100 ml; la lata, más del triple.",
+      "personaje": {
+        "quien": "rosquilla",
+        "ojos": "sorpresa",
+        "boca": "o",
+        "pose": "encoge"
+      },
+      "fuente": "Cálculo propio",
+      "sigue": "¿por qué importa?"
+    },
+    {
+      "plantilla": "frase",
+      "titulo": "Por qué importa",
+      "fondo": "color",
+      "lado": "der",
+      "frase": "La etiqueta no miente: da la cifra por 100 ml. Lo que te tomas, lo calculas {tú}.",
+      "personaje": {
+        "quien": "aguacate",
+        "ojos": "sospecha",
+        "boca": "recta",
+        "pose": "duda"
+      },
+      "fuente": "Reglamento (UE) 1169/2011",
+      "sigue": "¿cómo se calcula?"
+    },
+    {
+      "plantilla": "lista",
+      "titulo": "La cuenta, en tres pasos",
+      "fondo": "claro",
+      "items": [
+        "Mira cuánto pone por 100 ml.",
+        "Mira cuántos ml tiene tu envase.",
+        "Multiplica: así sabes lo que entra de verdad."
+      ],
+      "marca": "visto",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "pulgar"
+      },
+      "sigue": "guárdalo",
+      "fuente": "Reglamento (UE) 1169/2011"
+    },
+    {
+      "plantilla": "cierre",
+      "etiqueta": "Para enviar",
+      "frase": "A quien lee la etiqueta pero no hace la {cuenta}.",
+      "personaje": {
+        "quien": "rosquilla",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "saludo"
+      },
+      "fuentes": [
+        "Reglamento (UE) nº 1169/2011, arts. 32 y 33."
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Cuánto azúcar lleva una lata: la etiqueta dice 10 g y la lata trae 33 g, y las dos cifras son ciertas.\n\nEn Europa, la información nutricional se da por cada 100 g o 100 ml. Ejemplo inventado, sin marca: una bebida con 10 g de azúcares por 100 ml lleva 33 g en una lata de 330 ml, porque la lata tiene más de tres veces esos 100 ml.\n\nLa etiqueta da la cifra por 100 ml y lo que te tomas de verdad lo calculas tú. La cuenta, en tres pasos: mira cuánto pone por 100 ml, mira cuántos ml tiene tu envase y multiplica.\n\nFuente: Reglamento (UE) 1169/2011, arts. 32 y 33. Contenido divulgativo: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. #nutricion #etiquetas #azucar"
+}

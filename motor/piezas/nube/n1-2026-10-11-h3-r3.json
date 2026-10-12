@@ -1,0 +1,135 @@
+{
+  "id": "n1-2026-10-11-h3-r3",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "molde": "debate",
+  "pilar": "mirada",
+  "hechos": [
+    "DEB-037",
+    "DEB-040",
+    "DEB-042"
+  ],
+  "hojas": [
+    {
+      "plantilla": "portada",
+      "titular": "¿El número de LDL lo dice todo?",
+      "etiqueta": "Debate",
+      "dice": "Veo dos lecturas del análisis y no coinciden.",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "sospecha",
+        "boca": "lado",
+        "pose": "duda"
+      }
+    },
+    {
+      "plantilla": "respuesta",
+      "titulo": "¿Cuenta el tipo de LDL, aparte del número?",
+      "respuesta": "Depende",
+      "texto": "El tipo se asocia a más riesgo. Tras un problema coronario, el número predijo casi igual.",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "puntos",
+        "boca": "lado",
+        "pose": "encoge"
+      }
+    },
+    {
+      "plantilla": "versus",
+      "izq": {
+        "cab": "Corriente A",
+        "texto": "La LDL pequeña y densa se asocia a más riesgo."
+      },
+      "der": {
+        "cab": "Corriente B",
+        "texto": "La LDL causa enfermedad cardiovascular, dice el consenso europeo."
+      },
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "puntos",
+        "boca": "recta",
+        "pose": "señala"
+      }
+    },
+    {
+      "plantilla": "frase",
+      "titulo": "Por qué chocan",
+      "frase": "Miran cosas distintas: qué partículas pesan más y qué pasa al bajar la LDL.",
+      "lado": "izq",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "sospecha",
+        "boca": "sonrisa_pequeña",
+        "pose": "caderas"
+      }
+    },
+    {
+      "plantilla": "frase",
+      "titulo": "Ojo",
+      "frase": "Nada de esto es razón para tocar un tratamiento: eso lo decide su médico.",
+      "lado": "der",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "puntos",
+        "boca": "recta",
+        "cejas": "preocupado",
+        "pose": "reposo"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "etiqueta": "Para enviar",
+      "frase": "Mira si el titular dice asociación o causa.",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "guiño",
+        "boca": "sonrisa",
+        "pose": "pulgar"
+      },
+      "fuentes": [
+        "Liou L et al. PLoS ONE 2020;15:e0241993.",
+        "Ference BA et al. European Heart Journal 2017;38:2459-2472.",
+        "Schwartz GG et al. American Journal of Preventive Cardiology 2026;27:101643."
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Depende de a quién se mire. En 21 estudios con 30.628 personas, más LDL pequeña y densa se asoció a más cardiopatía coronaria: 1,36 al comparar la categoría alta con la baja. Es observacional y falta saber si bajarla reduce el riesgo.\n\nEl consenso europeo (más de 200 estudios) concluye que la LDL causa la enfermedad cardiovascular aterosclerótica. En 11.837 pacientes con síndrome coronario reciente y estatinas, la LDL pequeña y densa y la total predijeron casi igual. Ese resultado no vale para personas sanas ni es razón para tocar un tratamiento.\n\nFuente: Liou, PLoS ONE 2020; Ference, European Heart Journal 2017; Schwartz, American Journal of Preventive Cardiology 2026.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n#colesterol #LDL #nutricion",
+  "alt": [
+    "Portada con un huevo de gesto dudoso y la pregunta de si el número de LDL lo dice todo, con la etiqueta Debate.",
+    "Hoja con la palabra Depende en grande: el tipo se asocia a más riesgo y, tras un problema coronario, el número predijo casi igual.",
+    "Dos columnas con un huevo señalando: la corriente A dice que la LDL pequeña y densa se asocia a más riesgo y la B, que la LDL causa enfermedad cardiovascular según el consenso europeo.",
+    "Frase con un huevo sonriente: las dos corrientes miran cosas distintas, qué partículas pesan más y qué pasa al bajar la LDL.",
+    "Frase de Ojo con un huevo preocupado: nada de esto es razón para tocar un tratamiento, eso lo decide su médico.",
+    "Cierre con la etiqueta Para enviar y un huevo con el pulgar arriba: mira si el titular dice asociación o causa."
+  ],
+  "direccion": "d",
+  "produccion": {
+    "plan": "2026-10.suplemento.json",
+    "fecha": "2026-10-11",
+    "hueco": 3,
+    "formato_plan": "carrusel",
+    "formato": "carrusel",
+    "degradado": false,
+    "pilar": "mirada",
+    "serie": "suelta",
+    "experimento": "",
+    "gancho_plan": "¿Cuenta el tipo de LDL y no solo el número del análisis?",
+    "huella": "8acb231a191db009",
+    "modelo": "claude-sonnet-5-5",
+    "esfuerzo": "xhigh",
+    "llamadas": 1,
+    "reparaciones": 0,
+    "avisos": [
+      "[validación] sin validar por dietista-nutricionista colegiado: DEB-037, DEB-040, DEB-042",
+      "[salud] menciona «colesterol» en pie: solo vale como límite o riesgo, nunca como promesa",
+      "[texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: « dietista-nutricionista. #colesterol #LDL #nutricion»",
+      "[densidad] hoja 1 (portada): 15 palabras, el tope es 14",
+      "[densidad] hoja 2 (respuesta): 25 palabras, el tope es 22"
+    ],
+    "editor": "",
+    "generada": "2026-10-11T17:21:44+02:00",
+    "version_reglas": "2026-10-11b"
+  }
+}

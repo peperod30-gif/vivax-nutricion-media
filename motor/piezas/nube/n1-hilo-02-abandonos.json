@@ -1,0 +1,114 @@
+{
+  "id": "n1-hilo-02-abandonos",
+  "direccion": "d",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "pilar": "preguntas",
+  "hechos": [
+    "LC-004",
+    "LC-001"
+  ],
+  "estado": "revisada",
+  "hojas": [
+    {
+      "plantilla": "portada",
+      "fondo": "color",
+      "etiqueta": "Estudios",
+      "titular": "¿Cuánta gente {aguanta} un año a dieta?",
+      "personaje": {
+        "quien": "aguacate",
+        "ojos": "sospecha",
+        "boca": "lado",
+        "pose": "caderas"
+      },
+      "dice": "Mira quién llegó al final.",
+      "sigue": "¿cuántos llegaron?"
+    },
+    {
+      "plantilla": "frase",
+      "titulo": "El ensayo",
+      "fondo": "claro",
+      "lado": "der",
+      "frase": "609 personas, un año. A los 12 meses, {ninguna} de las dos dietas ganó con claridad.",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "pastel",
+        "boca": "sonrisa",
+        "pose": "saludo"
+      },
+      "fuente": "JAMA 2018",
+      "sigue": "¿y los que se fueron?"
+    },
+    {
+      "plantilla": "cifra",
+      "fondo": "oscuro",
+      "antes": "De 609 personas",
+      "cifra": "128",
+      "unidad": "no llegaron al final",
+      "texto": "Una de cada cinco: seis en una clase de 30.",
+      "personaje": {
+        "quien": "rosquilla",
+        "ojos": "sorpresa",
+        "boca": "o",
+        "pose": "encoge"
+      },
+      "fuente": "JAMA 2018",
+      "sigue": "¿y eso qué cambia?"
+    },
+    {
+      "plantilla": "versus",
+      "fondo": "claro",
+      "izq": {
+        "cab": "Se quedan casi todos",
+        "texto": "El resultado vale para casi todos.",
+        "tachado": false
+      },
+      "der": {
+        "cab": "Se va una de cada cinco",
+        "texto": "Habla de quien aguantó, no de quien se fue."
+      },
+      "personaje": {
+        "quien": "gota",
+        "ojos": "puntos",
+        "boca": "mueca",
+        "pose": "duda",
+        "cejas": "preocupado"
+      },
+      "sigue": "¿cómo lo uso?"
+    },
+    {
+      "plantilla": "lista",
+      "titulo": "Antes de creerte un resultado de dieta, mira:",
+      "fondo": "color",
+      "items": [
+        "Cuántas personas empezaron",
+        "Cuántas llegaron al final",
+        "Si cuenta por qué se fueron"
+      ],
+      "marca": "exclama",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "pulgar"
+      },
+      "sigue": "guárdalo"
+    },
+    {
+      "plantilla": "cierre",
+      "etiqueta": "Mándaselo a",
+      "frase": "Quien presume de un resultado de {dieta} sin decir cuántos llegaron al final.",
+      "personaje": {
+        "quien": "aguacate",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "saludo"
+      },
+      "fuentes": [
+        "Gardner CD et al. JAMA 2018;319(7):667-679 (DIETFITS)."
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Cuánta gente aguanta un año a dieta, y por qué conviene saberlo antes de creerte un resultado.\n\nEl ensayo DIETFITS siguió a 609 adultos durante 12 meses, repartidos al azar entre una dieta baja en carbohidratos y otra baja en grasa. A los 12 meses, la baja en carbohidratos no perdió de forma significativa más peso que la baja en grasa. Y 128 personas (una de cada cinco) no llegaron al final.\n\nPor qué importa: el resultado del año habla sobre todo de quienes aguantaron; de quienes se fueron, no sabemos cómo habrían acabado. Así que, ante un titular de dieta, mira cuántas personas empezaron, cuántas llegaron al final y si el estudio cuenta por qué se fueron.\n\nFuente: Gardner et al., JAMA 2018. Contenido divulgativo: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. #dietas #nutricion #estudios"
+}

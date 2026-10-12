@@ -1,0 +1,126 @@
+{
+  "id": "n1-f-05-azucar",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-045",
+    "ALI-033"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Qué lleva más azúcar, el kétchup o el refresco de cola? Por cada 100 g, el kétchup lleva 21,3 g de azúcares y el refresco de cola, 9,9 g. Después van el zumo de naranja (8,4 g), el pan blanco (5,7 g), el yogur natural entero (4,7 g) y el tomate crudo (2,6 g). Es una selección de seis alimentos, no la lista completa.\n\nOjo: son azúcares totales, incluidos los de la propia fruta o la leche, y cantidades por 100 g, no por ración. Cuánto comes de cada uno cambia el total.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Ketchup 20160918 181342», Kim Holger Kelting (CC BY 4.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#azucar #nutricion #alimentos",
+  "alt": [
+    "Kétchup en un cuenco con el titular: ¿qué lleva más azúcar, el kétchup o el refresco de cola?",
+    "Kétchup con 21,3 g de azúcares frente a refresco de cola con 9,9 g, por cada 100 g.",
+    "Azúcares totales por cada 100 g, de más a menos: kétchup 21,3 g, refresco de cola 9,9 g, zumo de naranja 8,4 g, pan blanco 5,7 g, yogur natural entero 4,7 g y tomate crudo 2,6 g.",
+    "Tomate rojo y el mensaje: por 100 g, no por ración.",
+    "Zumo de naranja y el mensaje: el zumo de naranja también lleva azúcar, 8,4 g por 100 g.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "ketchup",
+      "etiqueta": "Por 100 g",
+      "titular": "¿Qué lleva más {azúcar}: el {kétchup} o el refresco de cola?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Kétchup} contra refresco de cola",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Kétchup",
+        "valor": "21,3 g",
+        "foto": "ketchup"
+      },
+      "der": {
+        "nombre": "Refresco de cola",
+        "valor": "9,9 g",
+        "foto": "refresco_cola"
+      },
+      "texto": "Azúcares por cada 100 g: el kétchup lleva más del doble que el refresco de cola."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "De más a menos {azúcar} en seis alimentos",
+      "unidad": "g de azúcares totales por 100 g",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Kétchup",
+          "valor": "21,3 g",
+          "foto": "ketchup"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "valor": "9,9 g",
+          "foto": "refresco_cola"
+        },
+        {
+          "nombre": "Zumo de naranja",
+          "valor": "8,4 g",
+          "foto": "zumo_naranja"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "5,7 g",
+          "foto": "pan_molde"
+        },
+        {
+          "nombre": "Yogur natural entero",
+          "valor": "4,7 g",
+          "foto": "yogur"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "valor": "2,6 g",
+          "foto": "tomate_rojo"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "tomate_rojo",
+      "etiqueta": "Ojo",
+      "titulo": "Por 100 g, no por {ración}",
+      "sigue": "Desliza",
+      "texto": "Cuánto comes de cada uno cambia el total. Son azúcares totales: incluyen los de la propia fruta y los de la leche."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "zumo_naranja",
+      "etiqueta": "Zumo",
+      "titulo": "El zumo de naranja también lleva {azúcar}",
+      "sigue": "Desliza",
+      "texto": "El zumo del ranking es de naranja, sin añadidos: 8,4 g por 100 g. La naranja entera, además, lleva fibra."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Compara siempre por {100 g}",
+      "fotos": [
+        {
+          "foto": "refresco_cola",
+          "texto": "Refresco de cola · 9,9 g"
+        },
+        {
+          "foto": "zumo_naranja",
+          "texto": "Zumo de naranja · 8,4 g"
+        },
+        {
+          "foto": "yogur",
+          "texto": "Yogur natural entero · 4,7 g"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "n1-f-01-hierro",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-008",
+    "ALI-034"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Hierro por cada 100 g: el chocolate negro de 70-85 % lleva 12 mg, las pipas de calabaza peladas 8,8 mg, la chía 7,7 mg, los mejillones cocidos 6,7 mg, las aceitunas negras en conserva 6,3 mg y los cacahuetes crudos 4,6 mg. Es una selección de seis alimentos, no la lista completa. Las espinacas crudas llevan 2,7 mg.\n\nOjo: son las cantidades que hay en el alimento, no las que absorbe tu cuerpo.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Chocolate, stonesoup», jules (CC BY 2.0); «Chia Seeds macro 1», Daniel Schwen (CC BY 3.0); «Peanuts (54259077419)», Choo Yut Shing from Singapore, Singapore (CC BY 2.0); «Spinach leaves», Nillerdk (CC BY 3.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#hierro #nutricion #alimentos",
+  "alt": [
+    "Planchas de chocolate negro apiladas con el titular: chocolate negro, 12 mg de hierro por cada 100 g.",
+    "Hierro por cada 100 g: chocolate negro 12 mg, pipas de calabaza peladas 8,8 mg, semillas de chía 7,7 mg, mejillones cocidos 6,7 mg, aceitunas negras en conserva 6,3 mg y cacahuetes crudos 4,6 mg.",
+    "Espinacas crudas con 2,7 mg de hierro frente a mejillones cocidos con 6,7 mg, por cada 100 g.",
+    "Semillas de chía y el mensaje: lo que hay en el alimento y lo que absorbes no son lo mismo.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "chocolate_negro",
+      "etiqueta": "Por 100 g",
+      "titular": "{Chocolate negro}: 12 mg de {hierro}",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Hierro} por cada 100 g",
+      "unidad": "mg por 100 g, de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "12 mg",
+          "foto": "chocolate_negro",
+          "foco": [
+            50,
+            30
+          ]
+        },
+        {
+          "nombre": "Pipas de calabaza peladas",
+          "valor": "8,8 mg",
+          "foto": "pipas_calabaza"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "7,7 mg",
+          "foto": "chia"
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "6,7 mg",
+          "foto": "mejillones"
+        },
+        {
+          "nombre": "Aceitunas negras en conserva",
+          "valor": "6,3 mg",
+          "foto": "aceitunas_negras"
+        },
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "4,6 mg",
+          "foto": "cacahuetes"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Espinacas} contra mejillones",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Espinacas crudas",
+        "valor": "2,7 mg",
+        "foto": "espinacas"
+      },
+      "der": {
+        "nombre": "Mejillones cocidos",
+        "valor": "6,7 mg",
+        "foto": "mejillones"
+      },
+      "texto": "Por cada 100 g, los mejillones cocidos llevan más hierro que las espinacas crudas."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "chia",
+      "etiqueta": "Ojo",
+      "titulo": "Lo que {hay} y lo que {absorbes} no son lo mismo",
+      "sigue": "Desliza",
+      "texto": "Estas cifras dicen cuánto hierro hay en 100 g de cada alimento. No dicen cuánto absorbe tu cuerpo."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "pipas_calabaza",
+          "texto": "Pipas peladas · 8,8 mg"
+        },
+        {
+          "foto": "chia",
+          "texto": "Chía · 7,7 mg"
+        },
+        {
+          "foto": "cacahuetes",
+          "texto": "Cacahuetes · 4,6 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

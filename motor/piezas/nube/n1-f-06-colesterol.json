@@ -1,0 +1,121 @@
+{
+  "id": "n1-f-06-colesterol",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "respuesta",
+  "pilar": "mirada",
+  "hechos": [
+    "DEB-034",
+    "ALI-015"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Tus células fabrican, captan y exportan colesterol, y ese equilibrio es vital para ellas, según una revisión de Nature Reviews Molecular Cell Biology. El colesterol que lleva un alimento (por cada 100 g, el huevo cocido tiene 373 mg, la mantequilla 215 mg y las gambas cocidas 211 mg) no es lo mismo que el que circula por tu sangre.\n\nOjo: que sea vital no significa que cualquier nivel en sangre sea inocuo. La misma revisión dice que su desequilibrio está detrás de la enfermedad cardiovascular y de otras enfermedades, y su resumen no da cifras de nivel seguro: tu analítica y tu médico dicen cuál es el tuyo.\n\nFuentes: Luo, Nature Reviews Molecular Cell Biology 2020; USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Fried Egg 2», Matthew Murdoch (CC BY 2.0); «African Boiled eggs. 04», Denis kasozi (CC BY 4.0); «Nilasing na hipon (Cooked Drunken Shrimp), Philippines», Yvette Tan (CC BY 2.0); «27 Sardines in fish market in Europe, vismarkt Fischmarkt», Marek Ślusarczyk ( Tupungato ) Photo portfolio (CC BY 3.0); «Grilled Chicken Breasts (28905381261)», Sharon Chen from Austin, United States (CC BY 2.0); «Meat rissoles. Easy as 1-2-3 (2179666929)», Tanya Dropbear from Adelaide, Australia (CC BY 2.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#colesterol #nutricion #divulgacion",
+  "alt": [
+    "Huevo frito en primer plano con el titular: tus células necesitan colesterol.",
+    "Tres palabras enormes: fabrica, capta, exporta. Así mantiene tu cuerpo el equilibrio del colesterol.",
+    "Colesterol por cada 100 g, de mayor a menor: huevo cocido 373 mg, mantequilla 215 mg, gambas cocidas 211 mg, sardinas en lata 142 mg, pechuga de pollo asada 85 mg y ternera picada cocinada 84 mg.",
+    "Huevos cocidos y el mensaje: el colesterol del plato no es el de tu sangre.",
+    "Aguacate abierto y el mensaje: vital no significa cualquier nivel.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "huevo_frito",
+      "etiqueta": "Colesterol",
+      "titular": "Tus células {necesitan} colesterol",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_frase",
+      "titular": [
+        "{Fabrica.}",
+        "{Capta.}",
+        "{Exporta.}"
+      ],
+      "etiqueta": "Tu cuerpo",
+      "sigue": "Desliza",
+      "texto": "Así mantiene tu cuerpo el equilibrio del colesterol, que es vital para tus células."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Colesterol} por cada 100 g",
+      "unidad": "mg por 100 g, de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Huevo cocido",
+          "valor": "373 mg",
+          "foto": "huevo_cocido"
+        },
+        {
+          "nombre": "Mantequilla",
+          "valor": "215 mg",
+          "foto": "mantequilla"
+        },
+        {
+          "nombre": "Gambas cocidas",
+          "valor": "211 mg",
+          "foto": "gambas"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "142 mg",
+          "foto": "sardinas"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "85 mg",
+          "foto": "pollo"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "84 mg",
+          "foto": "ternera"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "huevo_cocido",
+      "etiqueta": "Ojo",
+      "titulo": "El del plato no es el de tu {sangre}",
+      "sigue": "Desliza",
+      "texto": "El colesterol que lleva un alimento y el que circula por tu sangre no son lo mismo."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "aguacate",
+      "etiqueta": "Ojo",
+      "titulo": "Vital no significa {cualquier nivel}",
+      "sigue": "Desliza",
+      "texto": "Que el colesterol sea vital no quiere decir que cualquier nivel en sangre sea inocuo. Tu analítica y tu médico dicen cuál es el tuyo."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {releerlo} con calma",
+      "fotos": [
+        {
+          "foto": "huevo_frito",
+          "texto": "Huevo"
+        },
+        {
+          "foto": "aguacate",
+          "texto": "Aguacate"
+        },
+        {
+          "foto": "sardinas",
+          "texto": "Sardinas"
+        }
+      ],
+      "fuentes": [
+        "Luo, Nature Reviews Molecular Cell Biology 2020",
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

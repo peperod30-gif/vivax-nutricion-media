@@ -1,0 +1,92 @@
+{
+  "id": "n1-r-05-azucar",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-f-05-azucar",
+  "modo": "duelo",
+  "hechos": [
+    "ALI-045",
+    "ALI-033"
+  ],
+  "pie_instagram": "¿Qué lleva más azúcar, el kétchup o el refresco de cola? Por cada 100 g, el kétchup lleva 21,3 g de azúcares y el refresco de cola, 9,9 g. Después van el zumo de naranja (8,4 g), el pan blanco (5,7 g), el yogur natural entero (4,7 g) y el tomate crudo (2,6 g). Es una selección de seis alimentos, no la lista completa.\n\nOjo: son azúcares totales, incluidos los de la propia fruta o la leche, y cantidades por 100 g, no por ración. Cuánto comes de cada uno cambia el total.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Ketchup 20160918 181342», Kim Holger Kelting (CC BY 4.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#azucar #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 11
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "ketchup",
+      "etiqueta": "Por 100 g",
+      "titular": "¿Qué lleva más {azúcar}: el {kétchup} o el refresco de cola?",
+      "sub": "Duelo por 100 g"
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 8,
+      "titulo": "{Kétchup} contra refresco de cola",
+      "izq": {
+        "nombre": "Refresco de cola",
+        "valor": "9,9 g",
+        "foto": "refresco_cola"
+      },
+      "der": {
+        "nombre": "Kétchup",
+        "valor": "21,3 g",
+        "foto": "ketchup"
+      },
+      "texto": "Más del doble de azúcar",
+      "ganador": "der",
+      "nota": "Azúcares totales por 100 g de producto."
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Tomate crudo",
+      "valor": "2,6 g",
+      "foto": "tomate_rojo",
+      "unidad_chip": "g de azúcares totales por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Yogur natural entero",
+      "valor": "4,7 g",
+      "foto": "yogur",
+      "unidad_chip": "g de azúcares totales por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Pan blanco",
+      "valor": "5,7 g",
+      "foto": "pan_molde",
+      "unidad_chip": "g de azúcares totales por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Zumo de naranja",
+      "valor": "8,4 g",
+      "foto": "zumo_naranja",
+      "unidad_chip": "g de azúcares totales por 100 g"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 4,
+      "foto": "ketchup",
+      "etiqueta": "Guárdalo",
+      "frase": "Compara siempre por {100 g}",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ]
+}

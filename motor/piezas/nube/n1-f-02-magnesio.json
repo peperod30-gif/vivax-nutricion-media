@@ -1,0 +1,121 @@
+{
+  "id": "n1-f-02-magnesio",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-010",
+    "ALI-035"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Quién lleva más magnesio, el plátano o las almendras? Por cada 100 g, el plátano crudo contiene 27 mg y las almendras, 270 mg. En esta lista van por delante las pipas de calabaza peladas (592 mg) y las semillas de chía (335 mg); detrás de las almendras, el chocolate negro de 70-85 % (228 mg), los cacahuetes crudos (168 mg) y las nueces (158 mg). Es una selección de seis alimentos, no la lista completa.\n\nOjo: son cantidades por 100 g del alimento, no una ración ni una recomendación, y no son lo que absorbe tu cuerpo.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Almonds macro 1», Daniel Schwen (CC BY 3.0); «Banana bunch», NW Indian Language Institute (CC BY 3.0); «Chia Seeds macro 1», Daniel Schwen (CC BY 3.0); «Chocolate, stonesoup», jules (CC BY 2.0); «Peanuts (54259077419)», Choo Yut Shing from Singapore, Singapore (CC BY 2.0); «Whole walnut kernel and shell», Potkettle (CC BY 3.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#magnesio #nutricion #alimentos",
+  "alt": [
+    "Almendras en primer plano con el titular: ¿quién lleva más magnesio, el plátano o las almendras?",
+    "Plátano crudo con 27 mg de magnesio frente a almendras con 270 mg, por cada 100 g.",
+    "Magnesio por cada 100 g: pipas de calabaza peladas 592 mg, semillas de chía 335 mg, almendras 270 mg, chocolate negro 70-85 % 228 mg, cacahuetes crudos 168 mg y nueces 158 mg.",
+    "Nueces y el mensaje: una ración no son 100 g.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "almendras",
+      "etiqueta": "Por 100 g",
+      "titular": "¿Quién lleva más {magnesio}: el plátano o las {almendras}?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Plátano} contra almendras",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Plátano crudo",
+        "valor": "27 mg",
+        "foto": "platano"
+      },
+      "der": {
+        "nombre": "Almendras",
+        "valor": "270 mg",
+        "foto": "almendras"
+      },
+      "texto": "Por cada 100 g, las almendras llevan mucho más magnesio que el plátano crudo."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Magnesio} por cada 100 g",
+      "unidad": "mg por 100 g, de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Pipas de calabaza peladas",
+          "valor": "592 mg",
+          "foto": "pipas_calabaza"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "335 mg",
+          "foto": "chia"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "270 mg",
+          "foto": "almendras"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "228 mg",
+          "foto": "chocolate_negro",
+          "foco": [
+            50,
+            30
+          ]
+        },
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "168 mg",
+          "foto": "cacahuetes"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "158 mg",
+          "foto": "nueces"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "nueces",
+      "etiqueta": "Ojo",
+      "titulo": "Una {ración} no son 100 g",
+      "sigue": "Desliza",
+      "texto": "Son cifras por cada 100 g: lo que hay en el alimento, no lo que absorbes. Tu ración puede ser otra."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "pipas_calabaza",
+          "texto": "Pipas peladas · 592 mg"
+        },
+        {
+          "foto": "chia",
+          "texto": "Chía · 335 mg"
+        },
+        {
+          "foto": "almendras",
+          "texto": "Almendras · 270 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

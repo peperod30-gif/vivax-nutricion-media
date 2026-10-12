@@ -1,0 +1,125 @@
+{
+  "id": "n1-hilo-01-desayuno",
+  "direccion": "d",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "pilar": "mitos",
+  "hechos": [
+    "MIT-007",
+    "GAN-002"
+  ],
+  "estado": "revisada",
+  "hojas": [
+    {
+      "plantilla": "portada",
+      "fondo": "color",
+      "etiqueta": "Mito",
+      "titular": "¿Desayunar {adelgaza}?",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "sospecha",
+        "boca": "lado",
+        "pose": "caderas"
+      },
+      "dice": "Lo llevas años oyendo. ¿Alguien lo ha probado?",
+      "sigue": "¿lo han probado?"
+    },
+    {
+      "plantilla": "dice",
+      "titulo": "Sí, lo probaron",
+      "fondo": "claro",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "pastel",
+        "boca": "sonrisa",
+        "pose": "saludo"
+      },
+      "dice": "13 ensayos con adultos: a unos les mandaron desayunar y a otros no.",
+      "sigue": "¿qué pasó?",
+      "fuente": "BMJ 2019"
+    },
+    {
+      "plantilla": "cifra",
+      "fondo": "oscuro",
+      "antes": "Quien desayunaba comía",
+      "signo": "+",
+      "cifra": "260",
+      "unidad": "kcal más al día",
+      "texto": "Casi un cruasán extra. Ese desayuno se sumaba al resto, no lo quitaba.",
+      "personaje": {
+        "quien": "rosquilla",
+        "ojos": "sorpresa",
+        "boca": "o",
+        "pose": "encoge"
+      },
+      "fuente": "BMJ 2019",
+      "sigue": "¿y la báscula?"
+    },
+    {
+      "plantilla": "cifra",
+      "fondo": "color",
+      "antes": "¿Y en la báscula?",
+      "cifra": "0,44",
+      "unidad": "kg de diferencia",
+      "texto": "A favor de quien se saltó el desayuno: menos de medio kilo, con mucho margen de error.",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "puntos",
+        "boca": "mueca",
+        "pose": "duda",
+        "cejas": "preocupado"
+      },
+      "fuente": "BMJ 2019",
+      "sigue": "¿es concluyente?"
+    },
+    {
+      "plantilla": "frase",
+      "titulo": "El matiz",
+      "fondo": "claro",
+      "lado": "der",
+      "frase": "Ensayos {cortos} y de calidad desigual. No dicen qué pasa a largo plazo.",
+      "personaje": {
+        "quien": "aguacate",
+        "ojos": "sospecha",
+        "boca": "recta",
+        "pose": "duda"
+      },
+      "fuente": "BMJ 2019",
+      "sigue": "¿qué me llevo?"
+    },
+    {
+      "plantilla": "lista",
+      "titulo": "Cuando oigas «esto adelgaza», mira:",
+      "fondo": "claro",
+      "items": [
+        "Con qué lo comparan",
+        "Cuánto duró el estudio",
+        "Cuánto cambió la báscula, de verdad"
+      ],
+      "marca": "exclama",
+      "personaje": {
+        "quien": "huevo",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "pulgar"
+      },
+      "sigue": "guárdalo"
+    },
+    {
+      "plantilla": "cierre",
+      "etiqueta": "Envíaselo a",
+      "frase": "Quien aún dice que {desayunar} adelgaza.",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "saludo"
+      },
+      "fuentes": [
+        "Sievert K et al. BMJ 2019;364:l42."
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Se repite que desayunar adelgaza, pero alguien lo probó: 13 ensayos con adultos, unos desayunando y otros no.\n\nQuienes desayunaban comían unas 260 kcal más al día (un margen de 79 a 441). En la báscula, la diferencia fue de 0,44 kg a favor de quienes se saltaban el desayuno: menos de medio kilo y con mucho margen de error. Dicho de otro modo: ese desayuno se sumaba al resto de comidas, no las sustituía.\n\nEl matiz: ensayos cortos (de 2 a 7 semanas de media) y de calidad desigual, así que no dicen qué pasa a largo plazo. Lo que te llevas es una regla para la próxima vez que oigas «esto adelgaza»: mira con qué lo comparan, cuánto duró el estudio y cuánto cambió de verdad la báscula.\n\nFuente: Sievert et al., BMJ 2019. Contenido divulgativo: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. #nutricion #mitos #dietas"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "n1-f-09-potasio",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-011",
+    "ALI-031"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Es el plátano el rey del potasio? Por cada 100 g, el plátano lleva 358 mg y el aguacate, 485 mg. En esta lista van por delante los pistachos (1025 mg) y las espinacas crudas (558 mg); detrás del aguacate, la patata cocida (379 mg) y el plátano. Es una selección, no la lista completa.\n\nOjo: son cantidades por 100 g del alimento en el estado indicado, no una recomendación.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Banana bunch», NW Indian Language Institute (CC BY 3.0); «Spinach leaves», Nillerdk (CC BY 3.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#potasio #nutricion #alimentos",
+  "alt": [
+    "Plátanos maduros con el titular: ¿es el plátano el rey del potasio?",
+    "Plátano con 358 mg de potasio frente a aguacate con 485 mg, por cada 100 g.",
+    "Potasio por cada 100 g: pistachos 1025 mg, espinacas crudas 558 mg, aguacate 485 mg, patata cocida 379 mg y plátano 358 mg.",
+    "Patatas cocidas y el mensaje: ojo con el estado del alimento.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "platano",
+      "etiqueta": "Por 100 g",
+      "titular": "¿Es el {plátano} el rey del {potasio}?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Plátano} contra aguacate",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Plátano",
+        "valor": "358 mg",
+        "foto": "platano"
+      },
+      "der": {
+        "nombre": "Aguacate",
+        "valor": "485 mg",
+        "foto": "aguacate"
+      },
+      "texto": "Por cada 100 g, el aguacate lleva más potasio que el plátano."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Potasio} por cada 100 g",
+      "unidad": "mg, selección de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Pistachos",
+          "valor": "1025 mg",
+          "foto": "pistachos"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "558 mg",
+          "foto": "espinacas"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "485 mg",
+          "foto": "aguacate"
+        },
+        {
+          "nombre": "Patata cocida",
+          "valor": "379 mg",
+          "foto": "patata"
+        },
+        {
+          "nombre": "Plátano",
+          "valor": "358 mg",
+          "foto": "platano"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "patata",
+      "etiqueta": "Ojo",
+      "titulo": "Ojo con el {estado}",
+      "sigue": "Desliza",
+      "texto": "La patata va cocida y el resto, crudo o tal cual. Son cifras por 100 g, no una recomendación."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Para enviar",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "platano",
+          "texto": "Plátano · 358 mg"
+        },
+        {
+          "foto": "aguacate",
+          "texto": "Aguacate · 485 mg"
+        },
+        {
+          "foto": "pistachos",
+          "texto": "Pistachos · 1025 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

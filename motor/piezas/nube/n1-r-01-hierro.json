@@ -1,0 +1,111 @@
+{
+  "id": "n1-r-01-hierro",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-f-01-hierro",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "ALI-008",
+    "ALI-034"
+  ],
+  "pie_instagram": "Hierro por cada 100 g: el chocolate negro de 70-85 % lleva 12 mg, las pipas de calabaza peladas 8,8 mg, la chía 7,7 mg, los mejillones cocidos 6,7 mg, las aceitunas negras en conserva 6,3 mg y los cacahuetes crudos 4,6 mg. Es una selección de seis alimentos, no la lista completa. Las espinacas crudas llevan 2,7 mg.\n\nOjo: son las cantidades que hay en el alimento, no las que absorbe tu cuerpo.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Chocolate, stonesoup», jules (CC BY 2.0); «Chia Seeds macro 1», Daniel Schwen (CC BY 3.0); «Peanuts (54259077419)», Choo Yut Shing from Singapore, Singapore (CC BY 2.0); «Spinach leaves», Nillerdk (CC BY 3.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#hierro #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 4,
+      "foto": "chocolate_negro",
+      "etiqueta": "Por 100 g",
+      "titular": "{Chocolate negro}: 12 mg de {hierro}",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Cacahuetes crudos",
+      "valor": "4,6 mg",
+      "foto": "cacahuetes",
+      "unidad_chip": "mg por 100 g, de mayor a menor"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Aceitunas negras en conserva",
+      "valor": "6,3 mg",
+      "foto": "aceitunas_negras",
+      "unidad_chip": "mg por 100 g, de mayor a menor"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Mejillones cocidos",
+      "valor": "6,7 mg",
+      "foto": "mejillones",
+      "unidad_chip": "mg por 100 g, de mayor a menor"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Semillas de chía",
+      "valor": "7,7 mg",
+      "foto": "chia",
+      "unidad_chip": "mg por 100 g, de mayor a menor"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Pipas de calabaza peladas",
+      "valor": "8,8 mg",
+      "foto": "pipas_calabaza",
+      "unidad_chip": "mg por 100 g, de mayor a menor"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Chocolate negro 70-85 %",
+      "valor": "12 mg",
+      "foto": "chocolate_negro",
+      "unidad_chip": "mg por 100 g, de mayor a menor",
+      "ganador": true
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "{Espinacas} contra mejillones",
+      "izq": {
+        "nombre": "Espinacas crudas",
+        "valor": "2,7 mg",
+        "foto": "espinacas"
+      },
+      "der": {
+        "nombre": "Mejillones cocidos",
+        "valor": "6,7 mg",
+        "foto": "mejillones"
+      },
+      "texto": "Los mejillones llevan más hierro",
+      "ganador": "der",
+      "nota": "Lo que hay, no lo que absorbes."
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "chocolate_negro",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ]
+}

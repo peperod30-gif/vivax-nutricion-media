@@ -1,0 +1,111 @@
+{
+  "id": "n1-f-08-sodio",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-046",
+    "ALI-060"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Qué lleva más sodio, el kétchup o las patatas fritas de bolsa? Por cada 100 g, el kétchup lleva 907 mg y las patatas fritas de bolsa, 527 mg. Entre medias van el jamón cocido (814 mg) y las aceitunas negras en conserva (735 mg). Es una selección, no la lista completa.\n\nOjo: el sodio no es lo mismo que la sal, y son cantidades por 100 g del alimento, no una recomendación.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0); «Ketchup 20160918 181342», Kim Holger Kelting (CC BY 4.0); «13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-171», Bi-frie (CC BY 3.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#sodio #nutricion #alimentos",
+  "alt": [
+    "Patatas fritas de bolsa en un cuenco con el titular: ¿qué lleva más sodio, el kétchup o las patatas fritas?",
+    "Kétchup con 907 mg de sodio frente a patatas fritas de bolsa con 527 mg, por cada 100 g.",
+    "Sodio por cada 100 g, de mayor a menor: kétchup 907 mg, jamón cocido 814 mg, aceitunas negras en conserva 735 mg y patatas fritas de bolsa 527 mg.",
+    "Jamón cocido en un cuenco de cristal y el mensaje: el sodio no es lo mismo que la sal.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "patatas_fritas",
+      "etiqueta": "Por 100 g",
+      "titular": "¿Qué lleva más {sodio}: el {kétchup} o las patatas fritas?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Kétchup} contra patatas fritas",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Kétchup",
+        "valor": "907 mg",
+        "foto": "ketchup"
+      },
+      "der": {
+        "nombre": "Patatas fritas de bolsa",
+        "valor": "527 mg",
+        "foto": "patatas_fritas"
+      },
+      "texto": "Sodio por cada 100 g."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Sodio} por cada 100 g",
+      "unidad": "mg, de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Kétchup",
+          "valor": "907 mg",
+          "foto": "ketchup"
+        },
+        {
+          "nombre": "Jamón cocido",
+          "valor": "814 mg",
+          "foto": "jamon_cocido"
+        },
+        {
+          "nombre": "Aceitunas negras en conserva",
+          "valor": "735 mg",
+          "foto": "aceitunas_negras"
+        },
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "527 mg",
+          "foto": "patatas_fritas",
+          "foco": [
+            50,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "jamon_cocido",
+      "etiqueta": "Ojo",
+      "titulo": "El sodio no es lo mismo que la {sal}",
+      "sigue": "Desliza",
+      "texto": "Las cifras son de sodio y van por cada 100 g de alimento."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "ketchup",
+          "texto": "Kétchup · 907 mg"
+        },
+        {
+          "foto": "jamon_cocido",
+          "texto": "Jamón cocido · 814 mg"
+        },
+        {
+          "foto": "aceitunas_negras",
+          "texto": "Aceitunas negras · 735 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

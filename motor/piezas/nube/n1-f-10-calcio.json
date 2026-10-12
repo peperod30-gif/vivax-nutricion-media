@@ -1,0 +1,119 @@
+{
+  "id": "n1-f-10-calcio",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-009",
+    "ALI-032"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Dónde hay más calcio, en la leche entera o en el tofu? Por cada 100 g, la leche entera lleva 113 mg y el tofu firme (el preparado con sulfato de calcio), 683 mg. En esta lista mandan el parmesano (1184 mg) y el tofu, y siguen las semillas de chía (631 mg) y la mozzarella (505 mg). Es una selección, no la lista completa.\n\nOjo: es la cantidad que hay en el alimento, no la que se absorbe.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Parmesan, 3 Months (7005099026)», Brian Boucheron from Rochester, New York, United States of America (CC BY 2.0); «Chia Seeds macro 1», Daniel Schwen (CC BY 3.0); «Mozzarella», Dezidor (CC BY 3.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#calcio #nutricion #alimentos",
+  "alt": [
+    "Dos bloques de tofu firme sobre un plato con el titular: ¿dónde hay más calcio, en la leche entera o en el tofu?",
+    "Leche entera con 113 mg de calcio frente a tofu firme preparado con sulfato de calcio con 683 mg, por cada 100 g.",
+    "Calcio por cada 100 g: parmesano 1184 mg, tofu firme preparado con sulfato de calcio 683 mg, semillas de chía 631 mg y mozzarella 505 mg.",
+    "Mozzarella y el mensaje: no todo el calcio se absorbe.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "tofu2",
+      "etiqueta": "Por 100 g",
+      "titular": "¿Dónde hay más {calcio}: en la leche entera o en el {tofu}?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "El {tofu firme} supera a la leche en calcio",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Leche entera",
+        "valor": "113 mg",
+        "foto": "leche",
+        "foco": [
+          48,
+          22
+        ]
+      },
+      "der": {
+        "nombre": "Tofu firme",
+        "valor": "683 mg",
+        "foto": "tofu2",
+        "foco": [
+          30,
+          50
+        ]
+      },
+      "texto": "Por cada 100 g. Tofu firme preparado con sulfato de calcio."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Calcio} por cada 100 g",
+      "unidad": "mg, selección de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Parmesano",
+          "valor": "1184 mg",
+          "foto": "parmesano"
+        },
+        {
+          "nombre": "Tofu firme (sulfato de calcio)",
+          "valor": "683 mg",
+          "foto": "tofu2"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "631 mg",
+          "foto": "chia"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "505 mg",
+          "foto": "mozzarella"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "mozzarella",
+      "etiqueta": "Ojo",
+      "titulo": "No todo el {calcio} se absorbe",
+      "sigue": "Desliza",
+      "texto": "Estas cifras dicen cuánto calcio hay en 100 g de cada alimento."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "tofu2",
+          "foco": [
+            75,
+            50
+          ],
+          "texto": "Tofu firme · 683 mg"
+        },
+        {
+          "foto": "chia",
+          "texto": "Chía · 631 mg"
+        },
+        {
+          "foto": "parmesano",
+          "texto": "Parmesano · 1184 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

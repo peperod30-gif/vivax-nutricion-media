@@ -1,0 +1,118 @@
+{
+  "id": "n1-2026-10-12-h1-r3",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "molde": "respuesta",
+  "pilar": "mirada",
+  "hechos": [
+    "DEB-034",
+    "DEB-035"
+  ],
+  "hojas": [
+    {
+      "plantilla": "portada",
+      "titular": "¿El colesterol es un veneno?",
+      "etiqueta": "Colesterol",
+      "dice": "Mis células lo fabrican, lo captan y lo exportan.",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "sospecha",
+        "boca": "lado",
+        "cejas": "enfado",
+        "pose": "caderas"
+      }
+    },
+    {
+      "plantilla": "respuesta",
+      "titulo": "¿El colesterol es un veneno?",
+      "respuesta": "No",
+      "texto": "Tu cuerpo lo necesita y su equilibrio es vital, aunque no todo nivel es inocuo.",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "feliz",
+        "boca": "sonrisa",
+        "pose": "señala"
+      }
+    },
+    {
+      "plantilla": "cifra",
+      "cifra": "6",
+      "unidad": "% más de riesgo",
+      "texto": "Riesgo de morir asociado a cada 100 mg diarios más de colesterol en la comida.",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "puntos",
+        "boca": "recta",
+        "pose": "encoge"
+      }
+    },
+    {
+      "plantilla": "frase",
+      "titulo": "Ojo",
+      "frase": "Su desequilibrio está detrás de la enfermedad cardiovascular y de otras enfermedades.",
+      "lado": "der",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "sospecha",
+        "boca": "mueca",
+        "cejas": "preocupado",
+        "pose": "duda"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Mira si hablan de asociación o de causa.",
+      "fuentes": [
+        "Luo J, Yang H, Song BL. Nature Reviews Molecular Cell Biology 2020;21:225-245.",
+        "Darooghegi Mofrad M et al. Frontiers in Nutrition 2022;9:878979."
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "personaje": {
+        "quien": "gota",
+        "ojos": "guiño",
+        "boca": "sonrisa",
+        "pose": "pulgar"
+      }
+    }
+  ],
+  "pie_instagram": "Una revisión de Nature Reviews Molecular Cell Biology describe que las células equilibran el colesterol: lo producen, lo captan y lo exportan. Su desequilibrio está detrás de la enfermedad cardiovascular y de otras enfermedades. Es una revisión de mecanismos y no da cifras de nivel seguro.\n\nOtra revisión de 55 estudios de seguimiento con 2.772.486 personas vio que cada 100 mg diarios más de colesterol de la dieta se asoció a un riesgo relativo de 1,06 para la muerte por todas las causas. Es observacional, no prueba causa, y los autores piden cautela con estimaciones pequeñas.\n\nFuente: Luo, Nature Reviews Molecular Cell Biology 2020; Darooghegi Mofrad, Frontiers in Nutrition 2022.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#colesterol #nutricion #divulgacion",
+  "alt": [
+    "Gota de grasa con gesto de sospecha y las manos en las caderas junto a la pregunta de si el colesterol es un veneno, con un globo que dice que sus células lo fabrican, lo captan y lo exportan.",
+    "Gota de grasa sonriente que señala un No grande: el cuerpo necesita el colesterol, su equilibrio es vital y no todo nivel es inocuo.",
+    "Gota de grasa que se encoge de hombros junto a un 6 % grande: riesgo de morir asociado a cada 100 mg diarios más de colesterol en la comida.",
+    "Gota de grasa con gesto preocupado junto a la palabra Ojo y la frase: el desequilibrio del colesterol está detrás de la enfermedad cardiovascular y de otras enfermedades.",
+    "Gota de grasa con el pulgar levantado y la etiqueta Guárdalo junto a la regla de lectura: mira si hablan de asociación o de causa."
+  ],
+  "direccion": "d",
+  "produccion": {
+    "plan": "2026-10.suplemento.json",
+    "fecha": "2026-10-12",
+    "hueco": 1,
+    "formato_plan": "carrusel",
+    "formato": "carrusel",
+    "degradado": false,
+    "pilar": "mirada",
+    "serie": "suelta",
+    "experimento": "",
+    "gancho_plan": "¿El colesterol es un veneno? Tu propio cuerpo lo fabrica.",
+    "huella": "0ae53c9682515250",
+    "modelo": "claude-sonnet-5-5",
+    "esfuerzo": "xhigh",
+    "llamadas": 2,
+    "reparaciones": 1,
+    "avisos": [
+      "[validación] sin validar por dietista-nutricionista colegiado: DEB-034, DEB-035",
+      "[línea roja] hoja 1, titular: Tono: miedo o culpa: «El colesterol es un veneno?»",
+      "[línea roja] hoja 2, titulo: Tono: miedo o culpa: «El colesterol es un veneno?»",
+      "[línea roja] alt, texto alternativo: Tono: miedo o culpa: «el colesterol es un veneno, con un globo que d»",
+      "[salud] menciona «colesterol» en alt, hoja 1, hoja 2, hoja 3, pie: solo vale como límite o riesgo, nunca como promesa",
+      "[texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «esita y su equilibrio es vital, aunque no todo nivel es»",
+      "[texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: « dietista-nutricionista.  #colesterol #nutricion #divulgacion»"
+    ],
+    "editor": "",
+    "generada": "2026-10-11T17:21:44+02:00",
+    "version_reglas": "2026-10-11b"
+  }
+}

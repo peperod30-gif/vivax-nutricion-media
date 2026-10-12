@@ -1,0 +1,159 @@
+{
+  "id": "n1-f-04-hidratos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-021",
+    "ALI-022",
+    "ALI-024",
+    "ALI-025"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Por cada 100 g, las patatas fritas de bolsa llevan 53,8 g de hidratos de carbono, el pan blanco 49,4 g, la pasta cocida 30,9 g y el arroz blanco cocido 28,2 g. Entre las verduras crudas hay muchos menos: calabacín 3,1 g, champiñones 3,3 g, espinacas 3,6 g, tomate 3,9 g, coliflor 5,0 g y pimiento rojo 6,0 g. Son selecciones de alimentos, no listas completas.\n\nSon cantidades por 100 g del alimento en el estado indicado, no una recomendación de comer o evitar nada.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0); «Spinach leaves», Nillerdk (CC BY 3.0); «Cauliflowers, 20051021», Calliope (CC BY 2.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#hidratosdecarbono #nutricion #alimentos",
+  "alt": [
+    "Patatas fritas de bolsa en un cuenco con el titular: las patatas fritas de bolsa llevan más hidratos que el pan blanco.",
+    "Hidratos de carbono por cada 100 g, de mayor a menor: patatas fritas de bolsa 53,8 g, pan blanco 49,4 g, pasta cocida 30,9 g y arroz blanco cocido 28,2 g.",
+    "Verduras crudas con pocos hidratos por cada 100 g, de menos a más: calabacín 3,1 g, champiñones 3,3 g, espinacas 3,6 g, tomate 3,9 g, coliflor 5,0 g y pimiento rojo 6,0 g.",
+    "Arroz blanco cocido con 28,2 g de hidratos frente a coliflor cruda con 5,0 g, por cada 100 g.",
+    "Pasta cocida con 30,9 g de hidratos frente a calabacín crudo con 3,1 g, por cada 100 g.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "patatas_fritas",
+      "etiqueta": "Por 100 g",
+      "titular": "Las {patatas fritas} de bolsa llevan más {hidratos} que el pan blanco",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "{Hidratos} por cada 100 g",
+      "unidad": "g por 100 g, de mayor a menor",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "53,8 g",
+          "foto": "patatas_fritas",
+          "foco": [
+            50,
+            30
+          ]
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "49,4 g",
+          "foto": "pan_molde"
+        },
+        {
+          "nombre": "Pasta cocida",
+          "valor": "30,9 g",
+          "foto": "pasta"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "valor": "28,2 g",
+          "foto": "arroz"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Verduras crudas con pocos {hidratos}",
+      "unidad": "g por 100 g, de menos a más",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Calabacín",
+          "valor": "3,1 g",
+          "foto": "calabacin"
+        },
+        {
+          "nombre": "Champiñones",
+          "valor": "3,3 g",
+          "foto": "champinones"
+        },
+        {
+          "nombre": "Espinacas",
+          "valor": "3,6 g",
+          "foto": "espinacas"
+        },
+        {
+          "nombre": "Tomate",
+          "valor": "3,9 g",
+          "foto": "tomate_rojo"
+        },
+        {
+          "nombre": "Coliflor",
+          "valor": "5,0 g",
+          "foto": "coliflor"
+        },
+        {
+          "nombre": "Pimiento rojo",
+          "valor": "6,0 g",
+          "foto": "pimiento_rojo"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Arroz} contra coliflor",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Arroz blanco cocido",
+        "valor": "28,2 g",
+        "foto": "arroz"
+      },
+      "der": {
+        "nombre": "Coliflor cruda",
+        "valor": "5,0 g",
+        "foto": "coliflor"
+      },
+      "texto": "Hidratos de carbono por cada 100 g: el arroz blanco cocido lleva muchos más que la coliflor cruda."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{Pasta} contra calabacín",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pasta cocida",
+        "valor": "30,9 g",
+        "foto": "pasta"
+      },
+      "der": {
+        "nombre": "Calabacín crudo",
+        "valor": "3,1 g",
+        "foto": "calabacin"
+      },
+      "texto": "Hidratos de carbono por cada 100 g: la pasta cocida frente al calabacín crudo."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "calabacin",
+          "texto": "Calabacín · 3,1 g"
+        },
+        {
+          "foto": "coliflor",
+          "texto": "Coliflor · 5,0 g"
+        },
+        {
+          "foto": "pimiento_rojo",
+          "texto": "Pimiento rojo · 6,0 g"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "n1-f-03-vitaminac",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-012",
+    "ALI-002",
+    "ALI-063"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿La naranja es la reina de la vitamina C? Por cada 100 g, la naranja lleva 53 mg y el pimiento rojo crudo, 128 mg. En el ranking va primera la guayaba (228 mg); después, el pimiento rojo crudo (128 mg), el kiwi (93 mg), el brócoli cocido (65 mg), las fresas (59 mg) y la naranja. Es una selección de seis alimentos, no la lista completa. El zumo de naranja sin añadidos queda en 50 mg.\n\nOjo: la cocción y el almacenamiento bajan la vitamina C. Son cantidades por 100 g, no una recomendación.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Orange sliced in half», Christine Majul from Washington State, USA (CC BY 2.0); «Steamed broccoli with tahini dressing (3851217686)», Vegan Feast Catering (CC BY 2.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminac #nutricion #alimentos",
+  "alt": [
+    "Naranja partida por la mitad con el titular: ¿la naranja es la reina de la vitamina C?",
+    "Naranja con 53 mg de vitamina C frente a pimiento rojo crudo con 128 mg, por cada 100 g.",
+    "Vitamina C por cada 100 g, crudos salvo el brócoli cocido: guayaba 228 mg, pimiento rojo 128 mg, kiwi 93 mg, brócoli cocido 65 mg, fresas 59 mg y naranja 53 mg.",
+    "Naranja con 53 mg de vitamina C frente a zumo de naranja sin añadidos con 50 mg, por cada 100 g.",
+    "Brócoli cocido y el mensaje: la cocción baja la vitamina C.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "naranja",
+      "etiqueta": "Por 100 g",
+      "titular": "¿La naranja es la reina de la {vitamina C}?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "{No.} El pimiento rojo le saca más del doble",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Naranja",
+        "valor": "53 mg",
+        "foto": "naranja",
+        "foco": [
+          25,
+          50
+        ]
+      },
+      "der": {
+        "nombre": "Pimiento rojo crudo",
+        "valor": "128 mg",
+        "foto": "pimiento_rojo"
+      },
+      "texto": "Vitamina C por cada 100 g, en crudo."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Cinco alimentos le ganan a la {naranja}",
+      "unidad": "mg por 100 g, crudos salvo el brócoli cocido",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Guayaba",
+          "valor": "228 mg",
+          "foto": "guayaba_comun",
+          "foco": [
+            70,
+            50
+          ]
+        },
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "128 mg",
+          "foto": "pimiento_rojo"
+        },
+        {
+          "nombre": "Kiwi",
+          "valor": "93 mg",
+          "foto": "kiwi"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "65 mg",
+          "foto": "brocoli_cocido"
+        },
+        {
+          "nombre": "Fresas",
+          "valor": "59 mg",
+          "foto": "fresas"
+        },
+        {
+          "nombre": "Naranja",
+          "valor": "53 mg",
+          "foto": "naranja",
+          "foco": [
+            25,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Y el {zumo} de naranja?",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Naranja",
+        "valor": "53 mg",
+        "foto": "naranja",
+        "foco": [
+          75,
+          50
+        ]
+      },
+      "der": {
+        "nombre": "Zumo de naranja",
+        "valor": "50 mg",
+        "foto": "zumo_naranja"
+      },
+      "texto": "Por cada 100 g, en vitamina C, el zumo sin añadidos queda muy cerca de la fruta entera."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "brocoli_cocido",
+      "etiqueta": "Ojo",
+      "titulo": "La {cocción} baja la vitamina C",
+      "sigue": "Desliza",
+      "texto": "La cocción y el tiempo de almacenamiento bajan la vitamina C. En el ranking, el brócoli va cocido y el resto, crudo."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Para {comparar} por 100 g",
+      "fotos": [
+        {
+          "foto": "kiwi",
+          "texto": "Kiwi · 93 mg"
+        },
+        {
+          "foto": "fresas",
+          "texto": "Fresas · 59 mg"
+        },
+        {
+          "foto": "pimiento_rojo",
+          "texto": "Pimiento rojo · 128 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ]
+}
