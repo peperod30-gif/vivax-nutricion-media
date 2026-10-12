@@ -69,7 +69,7 @@ Dónde vive cada cosa:
    `Stop-ScheduledTask VivaxRouter; Disable-ScheduledTask VivaxRouter; Disable-ScheduledTask VivaxVigilante`
    y cerrar los procesos `python -m router`.
 2. `python -X utf8 migrar_a_nube.py --definitivo` (se niega si el router local sigue vivo).
-3. Descomentar `schedule:` y su `cron` en `nube_repo/.github/workflows/router.yml` (copia en `motor/nube/router.yml`) y subirlo con
+3. Descomentar las dos líneas de `schedule:` y su `cron` en `nube_repo/.github/workflows/router.yml` (copia en `motor/nube/router.yml`) y subirlo con
    `python -X utf8 nube_enviar.py --codigo`.
 4. Comprobar con `gh run list --repo peperod30-gif/vivax-nutricion-media` y `python -X utf8 nube_estado.py ver`.
 

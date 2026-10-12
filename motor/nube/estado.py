@@ -248,11 +248,14 @@ def _huella_previa(datos: Path) -> Path:
     return Path(str(datos).rstrip("/\\") + ".huella")
 
 
-def bajar(rama: str, datos: Path) -> None:
+def bajar(rama: str, datos: Path, exigir: bool = False) -> None:
+    """Baja y descifra el estado. Con `exigir`, una rama que no existe es un error (el router de verdad nunca empieza de cero)."""
     datos = Path(datos)
     shutil.rmtree(datos, ignore_errors=True)
     datos.mkdir(parents=True, exist_ok=True)
     cifrado = traer_rama(rama)
+    if cifrado is None and exigir:
+        raise ErrorEstado(f"La rama {rama} no existe: no se ha migrado el estado (migrar_a_nube.py --definitivo). No arranco con una base vacía.")
     if cifrado is None:
         print(f"La rama {rama} no existe todavía: empiezo con un estado vacío.", file=sys.stderr)
     else:
@@ -279,10 +282,11 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("orden", choices=["bajar", "subir", "huella"])
     ap.add_argument("--rama", default="estado")
     ap.add_argument("--datos", required=True, type=Path)
+    ap.add_argument("--exigir", action="store_true", help="bajar: error si la rama no existe (modo real)")
     a = ap.parse_args(argv)
     try:
         if a.orden == "bajar":
-            bajar(a.rama, a.datos)
+            bajar(a.rama, a.datos, a.exigir)
         elif a.orden == "subir":
             subir(a.rama, a.datos)
         else:

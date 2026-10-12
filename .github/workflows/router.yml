@@ -2,7 +2,7 @@ name: router
 
 # Router de Vivax Nutrición en la nube: lee lo que José pulsa en Telegram y publica en Instagram lo aprobado cuando llega su hora.
 # Ver motor/nube/LEEME.md. Se entrega SIN el disparador automático: solo se puede lanzar a mano (workflow_dispatch).
-# Para activarlo (cambio definitivo): parar el router del PC, migrar el estado y quitar el «#» de las tres líneas de `schedule`.
+# Para activarlo (cambio definitivo): parar el router del PC, migrar el estado y quitar el «#» de las dos líneas de `schedule`.
 on:
   workflow_dispatch:
     inputs:
@@ -53,7 +53,9 @@ jobs:
           echo "RAMA=$RAMA" >> "$GITHUB_ENV"
           echo "Modo de prueba: $PRUEBA (rama de estado: $RAMA)"
           cd motor
-          python -X utf8 -m nube.estado bajar --rama "$RAMA" --datos "$RUNNER_TEMP/router_datos"
+          EXIGIR=""
+          if [ "$PRUEBA" != "si" ]; then EXIGIR="--exigir"; fi
+          python -X utf8 -m nube.estado bajar --rama "$RAMA" --datos "$RUNNER_TEMP/router_datos" $EXIGIR
 
       - name: Ejecutar una pasada del router
         id: ejecutar

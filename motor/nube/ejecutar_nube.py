@@ -227,7 +227,7 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log)
 
 
 def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas: int = 2, espera_s: float = 20.0, motor: Path = MOTOR,
-             tg=None, modo_ig: str | None = None) -> int:
+             tg=None, modo_ig: str | None = None, exigir_estado: bool = False) -> int:
     datos = Path(datos)
     datos.mkdir(parents=True, exist_ok=True)
     os.environ["VIVAX_VALIDACIONES"] = str(datos / "validaciones")        # las validaciones de José viajan con el estado cifrado
@@ -240,6 +240,10 @@ def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas
         return 2
     hub, adaptadores = montar(datos, env, simulado, motor, modo_ig)
     hub.establecer_admin(int(admin), "administrador")
+    if exigir_estado and not sin_telegram and hub.ultimo_update() == 0:
+        print("El estado no trae el último mensaje de Telegram procesado (¿base vacía o sin migrar?). No leo Telegram: volvería a procesar "
+              "pulsaciones viejas. Migra el estado con migrar_a_nube.py --definitivo.", file=sys.stderr)
+        return 4
     if tg is not None:                                                  # las pruebas inyectan su Telegram
         pass
     elif sin_telegram:
@@ -283,7 +287,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--pasadas", type=int, default=2)
     a = ap.parse_args(argv)
     env = {k: os.environ.get(k, "") for k in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_USER_ID", "IG_N1_TOKEN", "IG_N1_USER_ID", "GITHUB_TOKEN")}
-    return ejecutar(a.datos, env, a.simulado, a.sin_telegram, a.pasadas)
+    return ejecutar(a.datos, env, a.simulado, a.sin_telegram, a.pasadas, exigir_estado=not a.simulado)
 
 
 if __name__ == "__main__":
