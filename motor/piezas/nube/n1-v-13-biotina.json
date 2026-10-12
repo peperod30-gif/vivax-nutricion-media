@@ -1,0 +1,106 @@
+{
+  "id": "n1-v-13-biotina",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "respuesta",
+  "pilar": "mitos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-049",
+    "VIT-050",
+    "VIT-051",
+    "VIT-052"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Qué dicen los estudios sobre la biotina y el pelo? La UE autoriza decir que contribuye al mantenimiento del cabello y de la piel en condiciones normales, y al metabolismo energético normal. Una revisión de la literatura encontró 18 casos publicados de biotina para cambios en el pelo o las uñas, todos en personas con una patología de fondo, y concluye que faltan pruebas suficientes para tomarla como suplemento si se está sano.\n\nHay otro dato menos conocido. En un estudio preliminar con 6 adultos sanos que tomaron 10 mg de biotina al día durante 7 días, 9 de 23 pruebas de laboratorio que usan biotina dieron resultados alterados (algunas pruebas, no todas); los autores piden tenerlo en cuenta antes de pedir análisis o interpretar resultados en quien toma suplementos de biotina. Según el NHS británico, la biotina está en muchos alimentos pero en cantidades muy bajas, las bacterias del intestino pueden fabricarla y no está claro si hace falta biotina adicional de la dieta.\n\nFuente: declaraciones de salud autorizadas de la UE y valor de referencia del etiquetado (50 µg); Patel y colaboradores, Skin Appendage Disord 2017; Li y colaboradores, JAMA 2017; NHS (Reino Unido).\nFotos: Wikimedia Commons (dominio público o CC0), recortadas.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#biotina #vitaminas #nutricion",
+  "alt": [
+    "Letra B7 enorme en oliva sobre una mano con cápsulas, con el titular: ¿biotina para el pelo? Lo que sí y lo que no.",
+    "Respuesta: depende. Si estás sano, faltan pruebas para tomarla como suplemento; la UE autoriza decir que contribuye al mantenimiento del cabello y de la piel en condiciones normales.",
+    "18 casos publicados de biotina para el pelo o las uñas, todos con una patología de fondo.",
+    "Cantidades muy bajas en los alimentos: no está claro si hace falta biotina adicional de la dieta.",
+    "Algunas pruebas se alteran con la biotina: 9 de 23 pruebas de laboratorio dieron resultados alterados tras 10 mg al día durante 7 días.",
+    "Un aviso de lo que puede pasar, no una medida de a cuántas personas les ocurre.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "capsulas",
+      "letra": "B7",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "¿Biotina para el {pelo}? Lo que sí y lo que no"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{Depende.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "Si estás sano, faltan pruebas para tomarla como suplemento. La UE autoriza decir que la biotina contribuye al mantenimiento del cabello y de la piel en condiciones normales."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Casos",
+      "titulo": "Casos publicados de biotina para el {pelo} o las uñas",
+      "cifra": "18",
+      "unidad": "casos",
+      "sigue": "Desliza",
+      "texto": "Todos eran personas con una patología de fondo. Para quien está sano, las pruebas son escasas."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Dieta",
+      "titular": [
+        "Cantidades",
+        "muy {bajas.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "La biotina está en muchos alimentos pero en cantidades muy bajas, y las bacterias del intestino pueden fabricarla. No está claro si hace falta biotina adicional de la dieta."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Análisis de sangre",
+      "titulo": "Algunas pruebas se alteran con la {biotina}",
+      "cifra": "9 de 23",
+      "sigue": "Desliza",
+      "texto": "Con 10 mg al día durante 7 días. Los autores piden tenerlo en cuenta al interpretar análisis de quien toma suplementos."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "capsulas",
+      "etiqueta": "Ojo",
+      "titulo": "Avisa de lo que {puede} pasar",
+      "sigue": "Desliza",
+      "texto": "Dice que puede ocurrir, pero no mide a cuántas personas les ocurre."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "¿Más pelo en personas sanas? {Pruebas escasas.}",
+      "fotos": [
+        {
+          "foto": "capsulas",
+          "texto": "Cápsulas"
+        }
+      ],
+      "fuentes": [
+        "Declaraciones de salud de la UE y VRN del etiquetado",
+        "Patel, Skin Appendage Disord 2017; Li, JAMA 2017",
+        "NHS (Reino Unido)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-13",
+    "hueco": 5,
+    "hora": "16:00",
+    "serie": "Vitaminas"
+  }
+}

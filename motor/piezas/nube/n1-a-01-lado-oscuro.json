@@ -1,0 +1,151 @@
+{
+  "id": "n1-a-01-lado-oscuro",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Azúcar",
+  "angular": true,
+  "hechos": [
+    "AZU-002",
+    "AZU-001",
+    "AZU-003",
+    "AZU-004",
+    "AZU-005",
+    "AZU-007",
+    "AZU-008"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Según la OMS, una lata de refresco azucarado contiene hasta 40 g de azúcares libres, unas 10 cucharaditas. La OMS recomienda reducir esos azúcares a menos del 10 % de la energía diaria (recomendación fuerte) y, para más beneficios, a menos del 5 %, unos 25 g o 6 cucharaditas (recomendación condicional).\n\nLo que se asoció al azúcar en los estudios: en EE. UU., quienes tomaron el 25 % o más de las calorías como azúcar añadido (no es la misma medida que los azúcares libres de la OMS) tuvieron un riesgo de morir por enfermedad cardiovascular de 2,75 (1,40 a 5,42) frente a quienes tomaron menos del 10 %; quienes más bebidas azucaradas tomaban tuvieron un riesgo relativo de diabetes tipo 2 de 1,26 frente a quienes menos; y en 42 de 50 estudios en niños hubo una relación entre más azúcar y más caries. Son asociaciones, no prueban la causa. En ensayos con adultos, cambiar azúcar por otros hidratos con las mismas calorías no cambió el peso (0,04 kg): parece contar la energía total.\n\nFuente: OMS (2015); Yang y colaboradores, JAMA Intern Med 2014; Malik y colaboradores, Diabetes Care 2010; Moynihan y Kelly, J Dent Res 2014; Te Morenga y colaboradores, BMJ 2012.\nFotos: Wikimedia Commons, recortadas: «Sugar Cubes (7164573186) (cropped)», david pacey (CC BY 2.0); «Legion of gummi bears», Toms Baugis (CC BY 2.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#azucar #nutricion #oms",
+  "alt": [
+    "Terrones de azúcar sobre fondo negro con el titular: el lado oscuro del azúcar.",
+    "Una lata de refresco azucarado: hasta 40 g de azúcares libres como máximo según la OMS, unas 10 cucharaditas.",
+    "Una lata supera la referencia del 5 % de la OMS: hasta 40 g frente a unos 25 g al día.",
+    "Qué son los azúcares libres: los añadidos por el fabricante, el cocinero o quien come, más los de la miel, los jarabes y los zumos.",
+    "Asociación: con el 25 % o más de las calorías en azúcar añadido, el riesgo de morir por enfermedad cardiovascular fue 2,75 veces el de quienes tomaban menos del 10 %.",
+    "Asociación: un 26 % más de riesgo de diabetes tipo 2 entre quienes más bebidas azucaradas tomaban, frente a quienes casi no las tomaban.",
+    "En 42 de 50 trabajos revisados en niños, más azúcar se relacionó con más caries.",
+    "Gominolas y el mensaje: el peso parece ir con las calorías; cambiar azúcar por otros hidratos con las mismas calorías no lo cambió.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "azucar_terrones",
+      "etiqueta": "Azúcar",
+      "sigue": "Desliza",
+      "titular": "El lado {oscuro} del azúcar"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Hasta",
+      "titulo": "Azúcares libres en una {lata} de refresco",
+      "cifra": "40",
+      "unidad": "g",
+      "sigue": "Desliza",
+      "texto": "Es un máximo según la OMS, unas 10 cucharaditas: el contenido real depende del refresco y de la lata.",
+      "foto": "lata_refresco"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Una lata supera la referencia del {5 %}",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Una lata, hasta",
+        "valor": "40 g",
+        "foto": "lata_refresco"
+      },
+      "der": {
+        "nombre": "OMS, el 5 %",
+        "valor": "25 g",
+        "foto": "azucar_terrones",
+        "zoom": 1.9,
+        "foco": [
+          62,
+          66
+        ]
+      },
+      "texto": "OMS: menos del 10 % de la energía; bajar al 5 % es condicional."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Qué cuenta",
+      "titular": [
+        "Azúcares",
+        "{libres.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "Los añadidos por el fabricante, el cocinero o quien come, más los de la miel, los jarabes y los zumos. La fruta entera y la leche no entran.",
+      "foto": "gominolas"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Corazón",
+      "titulo": "Con el {25 %} o más de las calorías en azúcar añadido",
+      "cifra": "2,75",
+      "unidad": "veces",
+      "sigue": "Desliza",
+      "texto": "el riesgo de morir por enfermedad cardiovascular que con menos del 10 %. Asociación observada en EE. UU."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Diabetes tipo 2",
+      "titulo": "Bebidas {azucaradas}",
+      "cifra": "26 %",
+      "unidad": "más",
+      "sigue": "Desliza",
+      "texto": "de riesgo de diabetes tipo 2 entre quienes más tomaban (1 o 2 al día) que entre quienes casi no las tomaban. Es una asociación."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Dientes",
+      "titulo": "El azúcar va con las {caries}",
+      "cifra": "42 de 50",
+      "sigue": "Desliza",
+      "texto": "de los trabajos revisados en niños hallaron al menos una relación entre más azúcar y más caries."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "gominolas",
+      "etiqueta": "Ojo",
+      "titulo": "El peso parece ir con las {calorías}",
+      "sigue": "Desliza",
+      "texto": "En adultos, cambiar azúcar por otros hidratos con las mismas calorías no cambió el peso (0,04 kg)."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "El azúcar: {datos}, sin dramatismo",
+      "fotos": [
+        {
+          "foto": "azucar_terrones",
+          "texto": "25 g, el 5 %"
+        },
+        {
+          "foto": "lata_refresco",
+          "texto": "Hasta 40 g por lata"
+        },
+        {
+          "foto": "gominolas",
+          "texto": "Azúcares libres"
+        }
+      ],
+      "fuentes": [
+        "OMS (2015); Yang, JAMA Intern Med 2014",
+        "Malik, Diabetes Care 2010; Moynihan, J Dent Res 2014",
+        "Te Morenga, BMJ 2012"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-13",
+    "hueco": 4,
+    "hora": "13:00",
+    "serie": "Azúcar"
+  }
+}

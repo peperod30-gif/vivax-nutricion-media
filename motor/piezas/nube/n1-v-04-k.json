@@ -1,0 +1,155 @@
+{
+  "id": "n1-v-04-k",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-013",
+    "VIT-014",
+    "VIT-015",
+    "VIT-016"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Por cada 100 g, el perejil lleva el 2187 % del valor de referencia de la vitamina K (1640 µg), unas 3 veces lo que lleva la espinaca cruda (483 µg). Siguen las acelgas (830 µg), la col rizada (390 µg), las coles de Bruselas (177 µg) y el brócoli crudo (102 µg). Es una selección, no la lista completa.\n\nLa UE autoriza decir que la vitamina K contribuye a la coagulación sanguínea normal y al mantenimiento de los huesos en condiciones normales. El valor de referencia de 75 µg es para etiquetar, no una cantidad que haya que tomar. Con warfarina, consulta al médico antes de hacer grandes cambios en la dieta (NHS).\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); declaraciones de salud de la UE; NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Spinach leaves», Nillerdk (CC BY 3.0); «Kale (6025692440)», Dwight Sipler (CC BY 2.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminak #nutricion #alimentos",
+  "alt": [
+    "Letra K enorme en oliva sobre una foto de perejil, con el titular: por cada 100 g, el perejil lleva el 2187 % del valor de referencia de la vitamina K.",
+    "Coagulación y huesos: lo que la UE autoriza decir de la vitamina K.",
+    "El número de la etiqueta: 75 µg, el valor de referencia de la vitamina K para adultos.",
+    "Vitamina K por cada 100 g: perejil 1640 µg, acelgas 830 µg, espinacas 483 µg, col rizada 390 µg, coles de Bruselas 177 µg y brócoli crudo 102 µg.",
+    "Perejil con 1640 µg frente a espinacas con 483 µg de vitamina K por cada 100 g.",
+    "Acelgas y el aviso de que quien toma warfarina debe hablar con su médico antes de cambiar la dieta.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "perejil",
+      "letra": "K",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "Por 100 g, el perejil lleva el {2187 %} del valor de referencia de la vitamina K"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Qué hace la vitamina K",
+      "titular": [
+        "La vitamina K:",
+        "{coagulación.}",
+        "Huesos."
+      ],
+      "sigue": "Desliza",
+      "texto": "La UE autoriza decir que la vitamina K contribuye a la coagulación sanguínea normal y al mantenimiento de los huesos en condiciones normales.",
+      "foto": "acelgas"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "75",
+      "unidad": "µg",
+      "sigue": "Desliza",
+      "texto": "Es el valor de referencia del etiquetado para adultos. Sirve para comparar productos, no marca cuánto tomar.",
+      "foto": "perejil"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina K por cada 100 g",
+      "unidad": "µg por 100 g, todos crudos",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "1640 µg",
+          "foto": "perejil"
+        },
+        {
+          "nombre": "Acelgas crudas",
+          "valor": "830 µg",
+          "foto": "acelgas"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "483 µg",
+          "foto": "espinacas"
+        },
+        {
+          "nombre": "Col rizada cruda",
+          "valor": "390 µg",
+          "foto": "col_rizada"
+        },
+        {
+          "nombre": "Coles de Bruselas crudas",
+          "valor": "177 µg",
+          "foto": "coles_bruselas"
+        },
+        {
+          "nombre": "Brócoli crudo",
+          "valor": "102 µg",
+          "foto": "brocoli"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "El perejil lleva unas {3 veces} la vitamina K de las espinacas",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Perejil fresco",
+        "valor": "1640 µg",
+        "foto": "perejil"
+      },
+      "der": {
+        "nombre": "Espinacas crudas",
+        "valor": "483 µg",
+        "foto": "espinacas"
+      },
+      "texto": "Por cada 100 g, en crudo. La tabla compara 100 g, no una ración."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "acelgas",
+      "etiqueta": "Ojo",
+      "titulo": "Con {warfarina}, el médico primero",
+      "sigue": "Desliza",
+      "texto": "Según el NHS británico, las verduras de hoja verde con mucha vitamina K pueden afectar a cómo actúa la warfarina. Quien la toma debe hablar con su médico antes de cambiar mucho la dieta."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina K por 100 g: {tres} verdes",
+      "fotos": [
+        {
+          "foto": "perejil",
+          "texto": "Perejil · 1640 µg"
+        },
+        {
+          "foto": "acelgas",
+          "texto": "Acelgas · 830 µg"
+        },
+        {
+          "foto": "espinacas",
+          "texto": "Espinacas · 483 µg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Declaraciones de salud de la UE y VRN del etiquetado",
+        "NHS (Reino Unido), warfarina"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-13",
+    "hueco": 6,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}
