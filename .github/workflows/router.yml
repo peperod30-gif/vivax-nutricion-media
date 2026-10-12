@@ -10,8 +10,8 @@ on:
         description: "Prueba: estado en la rama estado-prueba, Instagram simulado y sin leer ni escribir en Telegram"
         type: boolean
         default: true
-  # schedule:
-  #   - cron: "2-57/5 * * * *"
+  schedule:
+    - cron: "2-57/5 * * * *"
 
 permissions:
   contents: write
