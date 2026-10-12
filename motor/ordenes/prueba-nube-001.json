@@ -1,0 +1,25 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "Prueba de la nube: ¿apruebo la pieza de prueba?",
+  "opciones": [
+    [
+      "si",
+      "Si"
+    ],
+    [
+      "no",
+      "No"
+    ]
+  ],
+  "caduca": "24h",
+  "cuenta": "n1",
+  "si_responde": {
+    "si": [
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-zz-prueba-nube",
+        "hora": "2030-01-01T10:00"
+      }
+    ]
+  }
+}
