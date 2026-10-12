@@ -1,0 +1,81 @@
+name: router
+
+# Router de Vivax Nutrición en la nube: lee lo que José pulsa en Telegram y publica en Instagram lo aprobado cuando llega su hora.
+# Ver motor/nube/LEEME.md. Se entrega SIN el disparador automático: solo se puede lanzar a mano (workflow_dispatch).
+# Para activarlo (cambio definitivo): parar el router del PC, migrar el estado y quitar el «#» de las tres líneas de `schedule`.
+on:
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Prueba: estado en la rama estado-prueba, Instagram simulado y sin leer ni escribir en Telegram"
+        type: boolean
+        default: true
+  # schedule:
+  #   - cron: "2-57/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: router
+  cancel-in-progress: false
+
+jobs:
+  pasada:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      PRUEBA: ${{ (github.event_name == 'workflow_dispatch' && inputs.prueba) && 'si' || 'no' }}
+      PYTHONUTF8: "1"
+      PYTHONUNBUFFERED: "1"
+      TZ: Europe/Madrid
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: motor/nube/requirements.txt
+
+      - name: Instalar dependencias
+        run: python -m pip install -q -r motor/nube/requirements.txt
+
+      - name: Bajar el estado
+        id: bajar
+        env:
+          VIVAX_CLAVE_ESTADO: ${{ secrets.VIVAX_CLAVE_ESTADO }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$PRUEBA" = "si" ]; then RAMA=estado-prueba; else RAMA=estado; fi
+          echo "RAMA=$RAMA" >> "$GITHUB_ENV"
+          echo "Modo de prueba: $PRUEBA (rama de estado: $RAMA)"
+          cd motor
+          python -X utf8 -m nube.estado bajar --rama "$RAMA" --datos "$RUNNER_TEMP/router_datos"
+
+      - name: Ejecutar una pasada del router
+        id: ejecutar
+        env:
+          VIVAX_CLAVE_ESTADO: ${{ secrets.VIVAX_CLAVE_ESTADO }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_USER_ID: ${{ secrets.TELEGRAM_USER_ID }}
+          IG_N1_TOKEN: ${{ secrets.IG_N1_TOKEN }}
+          IG_N1_USER_ID: ${{ secrets.IG_N1_USER_ID }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          ARGS=""
+          if [ "$PRUEBA" = "si" ]; then ARGS="--simulado --sin-telegram"; fi
+          cd motor
+          python -X utf8 -m nube.ejecutar_nube --datos "$RUNNER_TEMP/router_datos" $ARGS
+
+      # Se guarda aunque la pasada haya fallado a medias: lo que ya se publicó o se aprobó tiene que constar para no repetirse.
+      - name: Guardar el estado si cambió
+        if: always() && steps.bajar.outcome == 'success'
+        env:
+          VIVAX_CLAVE_ESTADO: ${{ secrets.VIVAX_CLAVE_ESTADO }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd motor
+          python -X utf8 -m nube.estado subir --rama "$RAMA" --datos "$RUNNER_TEMP/router_datos"

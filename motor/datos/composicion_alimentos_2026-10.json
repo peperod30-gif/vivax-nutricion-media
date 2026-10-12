@@ -1,0 +1,3519 @@
+[
+  {
+    "id": "ALI-001",
+    "tema": "composición - proteína por 100 g",
+    "enunciado": "Por cada 100 g, el parmesano duro aporta 35,8 g de proteína, la pechuga de pollo asada 31,0 g, el atún claro al natural escurrido 25,5 g, el huevo cocido 12,6 g, el requesón con nata 11,1 g y las lentejas cocidas 9,02 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado (cocinado, escurrido o curado). Las lentejas, redondeadas en el ranking, son 9,0 g. La proteína del queso y la de la lenteja no se digieren igual, y esto no es una recomendación de cantidad: solo dice cuánta proteína hay en 100 g de cada uno.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170848, 171477, 171986, 173424, 172179 y 172421)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "API de USDA FoodData Central (api.nal.usda.gov/fdc/v1/foods/search, conjunto SR Legacy), consultada el 11-oct-2026 alimento por alimento",
+      "detalle": "Proteína por 100 g: Cheese, parmesan, hard (fdcId 170848) 35,8 g; Chicken, broilers or fryers, breast, meat only, cooked, roasted (171477) 31,0 g; Fish, tuna, light, canned in water, without salt, drained solids (171986) 25,5 g; Egg, whole, cooked, hard-boiled (173424) 12,6 g; Cheese, cottage, creamed, large or small curd (172179) 11,1 g; Lentils, mature seeds, cooked, boiled, without salt (172421) 9,02 g."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Parmesano",
+          "valor": "35,8 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "31,0 g",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Atún al natural",
+          "valor": "25,5 g",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "12,6 g",
+          "icono": "🥚"
+        },
+        {
+          "nombre": "Requesón",
+          "valor": "11,1 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "9,0 g",
+          "icono": "🫘"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-002",
+    "tema": "composición - vitamina C e hidratos por 100 g",
+    "enunciado": "Cada 100 g de naranja cruda aportan 53,2 mg de vitamina C y 11,8 g de hidratos de carbono; cada 100 g de pimiento rojo crudo, 128 mg de vitamina C y 6,03 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g de alimento crudo (el pimiento rojo, redondeado, son 6,0 g de hidratos). La cocción y el tiempo de almacenamiento bajan la vitamina C. No es una recomendación de comer más o menos de nada: compara dos alimentos.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169097 y 170108)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "API de USDA FoodData Central (api.nal.usda.gov/fdc/v1/foods/search, conjunto SR Legacy), consultada el 11-oct-2026",
+      "detalle": "Oranges, raw, all commercial varieties (fdcId 169097): vitamina C 53,2 mg, hidratos por diferencia 11,8 g, energía 47 kcal. Peppers, sweet, red, raw (fdcId 170108): vitamina C 128 mg, hidratos por diferencia 6,03 g, energía 26 kcal."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Vitamina C por cada 100 g",
+      "antes": {
+        "icono": "🍊",
+        "nombre": "Naranja",
+        "valor": "53,2",
+        "unidad": "mg",
+        "detalle": "11,8 g de hidratos"
+      },
+      "ahora": {
+        "icono": "🫑",
+        "nombre": "Pimiento rojo",
+        "valor": "128",
+        "unidad": "mg",
+        "detalle": "6,0 g de hidratos"
+      }
+    }
+  },
+  {
+    "id": "ALI-003",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: pechuga de pollo asada 31,0 g; pechuga de pavo asada 30,1 g; lomo de cerdo asado 28,6 g; atún al natural 25,5 g; ternera picada cocinada 24,6 g; salmón cocinado 22,1 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Carnes y pescados cocinados. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477, 171496, 168233, 171986, 174033, 175168)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) proteína 31,0 g; Turkey, whole, breast, meat only, cooked, roasted (fdcId 171496) proteína 30,1 g; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) proteína 28,6 g; Fish, tuna, light, canned in water, without salt, drained solids (fdcId 171986) proteína 25,5 g; Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) proteína 24,6 g; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) proteína 22,1 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "31,0 g",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "30,1 g",
+          "icono": "🦃"
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "28,6 g",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Atún al natural",
+          "valor": "25,5 g",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "24,6 g",
+          "icono": "🥩"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "22,1 g",
+          "icono": "🐟"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-004",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: parmesano 35,8 g; mozzarella 22,2 g; queso feta 14,2 g; huevo cocido 12,6 g; requesón 11,1 g; yogur griego natural 10,2 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170848, 170845, 173420, 173424, 172179, 170894)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cheese, parmesan, hard (fdcId 170848) proteína 35,8 g; Cheese, mozzarella, whole milk (fdcId 170845) proteína 22,2 g; Cheese, feta (fdcId 173420) proteína 14,2 g; Egg, whole, cooked, hard-boiled (fdcId 173424) proteína 12,6 g; Cheese, cottage, creamed, large or small curd (fdcId 172179) proteína 11,1 g; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) proteína 10,2 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína en lácteos y huevo",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Parmesano",
+          "valor": "35,8 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "22,2 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Queso feta",
+          "valor": "14,2 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "12,6 g",
+          "icono": "🥚"
+        },
+        {
+          "nombre": "Requesón",
+          "valor": "11,1 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Yogur griego natural",
+          "valor": "10,2 g",
+          "icono": "🥛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-005",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: pipas de calabaza 30,2 g; cacahuetes 25,8 g; almendras 21,2 g; pistachos 20,2 g; tofu firme 17,3 g; semillas de chía 16,5 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Semillas y frutos secos tal cual, y tofu firme. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170556, 172430, 170567, 170184, 172475, 170554)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, pumpkin and squash seed kernels, dried (fdcId 170556) proteína 30,2 g; Peanuts, all types, raw (fdcId 172430) proteína 25,8 g; Nuts, almonds (fdcId 170567) proteína 21,2 g; Nuts, pistachio nuts, raw (fdcId 170184) proteína 20,2 g; Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) proteína 17,3 g; Seeds, chia seeds, dried (fdcId 170554) proteína 16,5 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína en semillas y frutos secos",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "30,2 g",
+          "icono": "🎃"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "25,8 g",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "21,2 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Pistachos",
+          "valor": "20,2 g",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Tofu firme",
+          "valor": "17,3 g",
+          "icono": "🧊"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "16,5 g",
+          "icono": "🌱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-006",
+    "tema": "composición - fibra (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor fibra: semillas de chía 34,4 g; almendras 12,5 g; pistachos 10,6 g; cacahuetes 8,5 g; nueces 6,7 g; pipas de calabaza 6,0 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170554, 170567, 170184, 172430, 170187, 170556)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, chia seeds, dried (fdcId 170554) fibra 34,4 g; Nuts, almonds (fdcId 170567) fibra 12,5 g; Nuts, pistachio nuts, raw (fdcId 170184) fibra 10,6 g; Peanuts, all types, raw (fdcId 172430) fibra 8,5 g; Nuts, walnuts, english (fdcId 170187) fibra 6,7 g; Seeds, pumpkin and squash seed kernels, dried (fdcId 170556) fibra 6,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Fibra en semillas y frutos secos",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Semillas de chía",
+          "valor": "34,4 g",
+          "icono": "🌱"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "12,5 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Pistachos",
+          "valor": "10,6 g",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "8,5 g",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "6,7 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "6,0 g",
+          "icono": "🎃"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-007",
+    "tema": "composición - fibra (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor fibra: lentejas cocidas 7,9 g; garbanzos cocidos 7,6 g; aguacate 6,7 g; alubias blancas cocidas 6,3 g; guayaba 5,4 g; kiwi 3,0 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Legumbres cocidas; el resto, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172421, 173757, 171705, 175203, 173044, 168153)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) fibra 7,9 g; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) fibra 7,6 g; Avocados, raw, all commercial varieties (fdcId 171705) fibra 6,7 g; Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) fibra 6,3 g; Guavas, common, raw (fdcId 173044) fibra 5,4 g; Kiwifruit, green, raw (fdcId 168153) fibra 3,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Fibra en legumbres, aguacate y fruta",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "7,9 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "7,6 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "6,7 g",
+          "icono": "🥑"
+        },
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "6,3 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Guayaba",
+          "valor": "5,4 g",
+          "icono": "🍈"
+        },
+        {
+          "nombre": "Kiwi",
+          "valor": "3,0 g",
+          "icono": "🥝"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-008",
+    "tema": "composición - hierro (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hierro: chocolate negro 70-85 % 12 mg; pipas de calabaza 8,8 mg; semillas de chía 7,7 mg; mejillones cocidos 6,7 mg; aceitunas en conserva 6,3 mg; cacahuetes 4,6 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170273, 170556, 170554, 174217, 169094, 172430)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chocolate, dark, 70-85% cacao solids (fdcId 170273) hierro 12 mg; Seeds, pumpkin and squash seed kernels, dried (fdcId 170556) hierro 8,8 mg; Seeds, chia seeds, dried (fdcId 170554) hierro 7,7 mg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) hierro 6,7 mg; Olives, ripe, canned (small-extra large) (fdcId 169094) hierro 6,3 mg; Peanuts, all types, raw (fdcId 172430) hierro 4,6 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hierro por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "12 mg",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "8,8 mg",
+          "icono": "🎃"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "7,7 mg",
+          "icono": "🌱"
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "6,7 mg",
+          "icono": "🦪"
+        },
+        {
+          "nombre": "Aceitunas en conserva",
+          "valor": "6,3 mg",
+          "icono": "🫒"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "4,6 mg",
+          "icono": "🥜"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-009",
+    "tema": "composición - calcio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor calcio: parmesano 1184 mg; tofu firme 683 mg; semillas de chía 631 mg; mozzarella 505 mg; queso feta 493 mg; sardinas en lata 382 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. El tofu es el preparado con sulfato de calcio. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170848, 172475, 170554, 170845, 173420, 175139)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cheese, parmesan, hard (fdcId 170848) calcio 1184 mg; Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) calcio 683 mg; Seeds, chia seeds, dried (fdcId 170554) calcio 631 mg; Cheese, mozzarella, whole milk (fdcId 170845) calcio 505 mg; Cheese, feta (fdcId 173420) calcio 493 mg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) calcio 382 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calcio por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Parmesano",
+          "valor": "1184 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Tofu firme",
+          "valor": "683 mg",
+          "icono": "🧊"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "631 mg",
+          "icono": "🌱"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "505 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Queso feta",
+          "valor": "493 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "382 mg",
+          "icono": "🐟"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-010",
+    "tema": "composición - magnesio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor magnesio: pipas de calabaza 592 mg; semillas de chía 335 mg; almendras 270 mg; chocolate negro 70-85 % 228 mg; cacahuetes 168 mg; nueces 158 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170556, 170554, 170567, 170273, 172430, 170187)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, pumpkin and squash seed kernels, dried (fdcId 170556) magnesio 592 mg; Seeds, chia seeds, dried (fdcId 170554) magnesio 335 mg; Nuts, almonds (fdcId 170567) magnesio 270 mg; Chocolate, dark, 70-85% cacao solids (fdcId 170273) magnesio 228 mg; Peanuts, all types, raw (fdcId 172430) magnesio 168 mg; Nuts, walnuts, english (fdcId 170187) magnesio 158 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Magnesio por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "592 mg",
+          "icono": "🎃"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "335 mg",
+          "icono": "🌱"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "270 mg",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "228 mg",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "168 mg",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "158 mg",
+          "icono": "🌰"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-011",
+    "tema": "composición - potasio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor potasio: pistachos 1025 mg; alubias blancas cocidas 561 mg; espinacas crudas 558 mg; aguacate 485 mg; patata cocida 379 mg; plátano 358 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento. Legumbres y patata cocidas; el resto, crudo o tal cual. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170184, 175203, 168462, 171705, 170438, 173944)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Nuts, pistachio nuts, raw (fdcId 170184) potasio 1025 mg; Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) potasio 561 mg; Spinach, raw (fdcId 168462) potasio 558 mg; Avocados, raw, all commercial varieties (fdcId 171705) potasio 485 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) potasio 379 mg; Bananas, raw (fdcId 173944) potasio 358 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Potasio: el plátano no es el rey",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pistachos",
+          "valor": "1025 mg",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "561 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "558 mg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "485 mg",
+          "icono": "🥑"
+        },
+        {
+          "nombre": "Patata cocida",
+          "valor": "379 mg",
+          "icono": "🥔"
+        },
+        {
+          "nombre": "Plátano",
+          "valor": "358 mg",
+          "icono": "🍌"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-012",
+    "tema": "composición - vitamina C (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina C: guayaba 228 mg; pimiento rojo crudo 128 mg; kiwi 93 mg; brócoli cocido 65 mg; fresas 59 mg; naranja 53 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La cocción y el almacenamiento bajan la vitamina C. El brócoli, cocido; el resto, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173044, 170108, 168153, 169967, 167762, 169097)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Guavas, common, raw (fdcId 173044) vitamina C 228 mg; Peppers, sweet, red, raw (fdcId 170108) vitamina C 128 mg; Kiwifruit, green, raw (fdcId 168153) vitamina C 93 mg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) vitamina C 65 mg; Strawberries, raw (fdcId 167762) vitamina C 59 mg; Oranges, raw, all commercial varieties (fdcId 169097) vitamina C 53 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina C por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Guayaba",
+          "valor": "228 mg",
+          "icono": "🍈"
+        },
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "128 mg",
+          "icono": "🫑"
+        },
+        {
+          "nombre": "Kiwi",
+          "valor": "93 mg",
+          "icono": "🥝"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "65 mg",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Fresas",
+          "valor": "59 mg",
+          "icono": "🍓"
+        },
+        {
+          "nombre": "Naranja",
+          "valor": "53 mg",
+          "icono": "🍊"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-013",
+    "tema": "composición - vitamina B12 (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B12: mejillones cocidos 24 µg; caballa cocinada 19 µg; sardinas en lata 8,9 µg; atún al natural 3,0 µg; salmón cocinado 2,8 µg; mozzarella 2,3 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174217, 175120, 175139, 171986, 175168, 170845)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) vitamina B12 24 µg; Fish, mackerel, Atlantic, cooked, dry heat (fdcId 175120) vitamina B12 19 µg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) vitamina B12 8,9 µg; Fish, tuna, light, canned in water, without salt, drained solids (fdcId 171986) vitamina B12 3,0 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) vitamina B12 2,8 µg; Cheese, mozzarella, whole milk (fdcId 170845) vitamina B12 2,3 µg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B12 por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "24 µg",
+          "icono": "🦪"
+        },
+        {
+          "nombre": "Caballa cocinada",
+          "valor": "19 µg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "8,9 µg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Atún al natural",
+          "valor": "3,0 µg",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "2,8 µg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "2,3 µg",
+          "icono": "🧀"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-014",
+    "tema": "composición - vitamina D (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina D: salmón cocinado 13 µg; sardinas en lata 4,8 µg; huevo cocido 2,2 µg; bacalao cocinado 1,2 µg; queso cheddar 1,0 µg; lomo de cerdo asado 0,7 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 175168, 175139, 173424, 171956, 170899, 168233)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) vitamina D 13 µg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) vitamina D 4,8 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) vitamina D 2,2 µg; Fish, cod, Atlantic, cooked, dry heat (fdcId 171956) vitamina D 1,2 µg; Cheese, cheddar, sharp, sliced (fdcId 170899) vitamina D 1,0 µg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) vitamina D 0,7 µg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina D por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "13 µg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "4,8 µg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "2,2 µg",
+          "icono": "🥚"
+        },
+        {
+          "nombre": "Bacalao cocinado",
+          "valor": "1,2 µg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Queso cheddar",
+          "valor": "1,0 µg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "0,7 µg",
+          "icono": "🥓"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-015",
+    "tema": "composición - colesterol (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor colesterol: huevo cocido 373 mg; mantequilla 215 mg; gambas cocidas 211 mg; sardinas en lata 142 mg; pechuga de pollo asada 85 mg; ternera picada cocinada 84 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El colesterol de un alimento y el de la sangre no son lo mismo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173424, 173410, 171971, 175139, 171477, 174033)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Egg, whole, cooked, hard-boiled (fdcId 173424) colesterol 373 mg; Butter, salted (fdcId 173410) colesterol 215 mg; Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture) (fdcId 171971) colesterol 211 mg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) colesterol 142 mg; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) colesterol 85 mg; Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) colesterol 84 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Colesterol por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Huevo cocido",
+          "valor": "373 mg",
+          "icono": "🥚"
+        },
+        {
+          "nombre": "Mantequilla",
+          "valor": "215 mg",
+          "icono": "🧈"
+        },
+        {
+          "nombre": "Gambas cocidas",
+          "valor": "211 mg",
+          "icono": "🦐"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "142 mg",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "85 mg",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "84 mg",
+          "icono": "🥩"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-016",
+    "tema": "composición - grasa saturada (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa saturada: mantequilla 51,4 g; crema de cacao y avellanas 28,4 g; chocolate negro 70-85 % 24,5 g; queso cheddar 19,4 g; parmesano 14,9 g; aceite de oliva 13,8 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173410, 168000, 170273, 170899, 170848, 171413)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Butter, salted (fdcId 173410) grasa saturada 51,4 g; Chocolate-flavored hazelnut spread (fdcId 168000) grasa saturada 28,4 g; Chocolate, dark, 70-85% cacao solids (fdcId 170273) grasa saturada 24,5 g; Cheese, cheddar, sharp, sliced (fdcId 170899) grasa saturada 19,4 g; Cheese, parmesan, hard (fdcId 170848) grasa saturada 14,9 g; Oil, olive, salad or cooking (fdcId 171413) grasa saturada 13,8 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa saturada por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Mantequilla",
+          "valor": "51,4 g",
+          "icono": "🧈"
+        },
+        {
+          "nombre": "Crema de cacao y avellanas",
+          "valor": "28,4 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "24,5 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Queso cheddar",
+          "valor": "19,4 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "14,9 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "13,8 g",
+          "icono": "🫒"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-017",
+    "tema": "composición - zinc (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor zinc: pipas de calabaza 7,8 mg; ternera picada cocinada 6,2 mg; semillas de chía 4,6 mg; queso cheddar 3,7 mg; copos de avena 3,6 mg; cacahuetes 3,3 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Los copos de avena, en seco. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170556, 174033, 170554, 170899, 173904, 172430)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, pumpkin and squash seed kernels, dried (fdcId 170556) zinc 7,8 mg; Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) zinc 6,2 mg; Seeds, chia seeds, dried (fdcId 170554) zinc 4,6 mg; Cheese, cheddar, sharp, sliced (fdcId 170899) zinc 3,7 mg; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) zinc 3,6 mg; Peanuts, all types, raw (fdcId 172430) zinc 3,3 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Zinc por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "7,8 mg",
+          "icono": "🎃"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "6,2 mg",
+          "icono": "🥩"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "4,6 mg",
+          "icono": "🌱"
+        },
+        {
+          "nombre": "Queso cheddar",
+          "valor": "3,7 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "3,6 mg",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "3,3 mg",
+          "icono": "🥜"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-018",
+    "tema": "composición - folato (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor folato: cacahuetes 240 µg; espinacas crudas 194 µg; lentejas cocidas 181 µg; garbanzos cocidos 172 µg; brócoli cocido 108 µg; nueces 98 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 168462, 172421, 173757, 169967, 170187)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Peanuts, all types, raw (fdcId 172430) folato 240 µg; Spinach, raw (fdcId 168462) folato 194 µg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) folato 181 µg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) folato 172 µg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) folato 108 µg; Nuts, walnuts, english (fdcId 170187) folato 98 µg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Folato por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Cacahuetes",
+          "valor": "240 µg",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "194 µg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "181 µg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "172 µg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "108 µg",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "98 µg",
+          "icono": "🌰"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-019",
+    "tema": "composición - azúcares (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor azúcares: azúcar blanco 99,8 g; crema de cacao y avellanas 54,1 g; chocolate negro 70-85 % 24,0 g; kétchup 21,3 g; galletas tipo maría 20,2 g; uvas 15,5 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169655, 168000, 170273, 168556, 174950, 174683)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Sugars, granulated (fdcId 169655) azúcares 99,8 g; Chocolate-flavored hazelnut spread (fdcId 168000) azúcares 54,1 g; Chocolate, dark, 70-85% cacao solids (fdcId 170273) azúcares 24,0 g; Catsup (fdcId 168556) azúcares 21,3 g; Cookies, butter, commercially prepared, enriched (fdcId 174950) azúcares 20,2 g; Grapes, red or green (European type, such as Thompson seedless), raw (fdcId 174683) azúcares 15,5 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Azúcares por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Azúcar blanco",
+          "valor": "99,8 g",
+          "icono": "🍬"
+        },
+        {
+          "nombre": "Crema de cacao y avellanas",
+          "valor": "54,1 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "24,0 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Kétchup",
+          "valor": "21,3 g",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "20,2 g",
+          "icono": "🍪"
+        },
+        {
+          "nombre": "Uvas",
+          "valor": "15,5 g",
+          "icono": "🍇"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-020",
+    "tema": "composición - sodio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor sodio: parmesano 1175 mg; queso feta 1139 mg; gambas cocidas 947 mg; kétchup 907 mg; jamón cocido 814 mg; aceitunas en conserva 735 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170848, 173420, 171971, 168556, 173864, 169094)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cheese, parmesan, hard (fdcId 170848) sodio 1175 mg; Cheese, feta (fdcId 173420) sodio 1139 mg; Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture) (fdcId 171971) sodio 947 mg; Catsup (fdcId 168556) sodio 907 mg; Ham, sliced, regular (approximately 11% fat) (fdcId 173864) sodio 814 mg; Olives, ripe, canned (small-extra large) (fdcId 169094) sodio 735 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Sodio por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Parmesano",
+          "valor": "1175 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Queso feta",
+          "valor": "1139 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Gambas cocidas",
+          "valor": "947 mg",
+          "icono": "🦐"
+        },
+        {
+          "nombre": "Kétchup",
+          "valor": "907 mg",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Jamón cocido",
+          "valor": "814 mg",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Aceitunas en conserva",
+          "valor": "735 mg",
+          "icono": "🫒"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-021",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: galletas tipo maría 68,9 g; crema de cacao y avellanas 62,4 g; patatas fritas de bolsa 53,8 g; pan blanco 49,4 g; pasta cocida 30,9 g; arroz blanco cocido 28,2 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La pasta y el arroz, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174950, 168000, 169677, 174924, 169737, 168878)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cookies, butter, commercially prepared, enriched (fdcId 174950) hidratos de carbono 68,9 g; Chocolate-flavored hazelnut spread (fdcId 168000) hidratos de carbono 62,4 g; Snacks, potato chips, plain, salted (fdcId 169677) hidratos de carbono 53,8 g; Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) hidratos de carbono 49,4 g; Pasta, cooked, enriched, without added salt (fdcId 169737) hidratos de carbono 30,9 g; Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) hidratos de carbono 28,2 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hidratos por cada 100 g: pan, galletas y compañía",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "68,9 g",
+          "icono": "🍪"
+        },
+        {
+          "nombre": "Crema de cacao y avellanas",
+          "valor": "62,4 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "53,8 g",
+          "icono": "🥔"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "49,4 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Pasta cocida",
+          "valor": "30,9 g",
+          "icono": "🍝"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "valor": "28,2 g",
+          "icono": "🍚"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-022",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: pimiento rojo crudo 6,0 g; coliflor cruda 5,0 g; tomate crudo 3,9 g; espinacas crudas 3,6 g; champiñones 3,3 g; calabacín crudo 3,1 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Todas crudas. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170108, 169986, 170457, 168462, 169251, 169291)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Peppers, sweet, red, raw (fdcId 170108) hidratos de carbono 6,0 g; Cauliflower, raw (fdcId 169986) hidratos de carbono 5,0 g; Tomatoes, red, ripe, raw, year round average (fdcId 170457) hidratos de carbono 3,9 g; Spinach, raw (fdcId 168462) hidratos de carbono 3,6 g; Mushrooms, white, raw (fdcId 169251) hidratos de carbono 3,3 g; Squash, summer, zucchini, includes skin, raw (fdcId 169291) hidratos de carbono 3,1 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Verduras con pocos hidratos",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "6,0 g",
+          "icono": "🫑"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "5,0 g",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "valor": "3,9 g",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "3,6 g",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Champiñones",
+          "valor": "3,3 g",
+          "icono": "🍄"
+        },
+        {
+          "nombre": "Calabacín crudo",
+          "valor": "3,1 g",
+          "icono": "🥒"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-023",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: plátano 22,8 g; uvas 18,1 g; kiwi 14,7 g; naranja 11,8 g; fresas 7,7 g; sandía 7,6 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173944, 174683, 168153, 169097, 167762, 167765)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bananas, raw (fdcId 173944) hidratos de carbono 22,8 g; Grapes, red or green (European type, such as Thompson seedless), raw (fdcId 174683) hidratos de carbono 18,1 g; Kiwifruit, green, raw (fdcId 168153) hidratos de carbono 14,7 g; Oranges, raw, all commercial varieties (fdcId 169097) hidratos de carbono 11,8 g; Strawberries, raw (fdcId 167762) hidratos de carbono 7,7 g; Watermelon, raw (fdcId 167765) hidratos de carbono 7,6 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hidratos en la fruta: del plátano a la sandía",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Plátano",
+          "valor": "22,8 g",
+          "icono": "🍌"
+        },
+        {
+          "nombre": "Uvas",
+          "valor": "18,1 g",
+          "icono": "🍇"
+        },
+        {
+          "nombre": "Kiwi",
+          "valor": "14,7 g",
+          "icono": "🥝"
+        },
+        {
+          "nombre": "Naranja",
+          "valor": "11,8 g",
+          "icono": "🍊"
+        },
+        {
+          "nombre": "Fresas",
+          "valor": "7,7 g",
+          "icono": "🍓"
+        },
+        {
+          "nombre": "Sandía",
+          "valor": "7,6 g",
+          "icono": "🍉"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-024",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: arroz blanco cocido, 28,2 g de hidratos de carbono; coliflor cruda, 5,0 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El arroz, cocido; la coliflor, cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168878 y 169986)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) hidratos de carbono 28,2 g; Cauliflower, raw (fdcId 169986) hidratos de carbono 5,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🍚",
+        "nombre": "Arroz blanco cocido",
+        "valor": "28,2",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🥦",
+        "nombre": "Coliflor cruda",
+        "valor": "5,0",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-025",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: pasta cocida, 30,9 g de hidratos de carbono; calabacín crudo, 3,1 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La pasta, cocida; el calabacín, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169737 y 169291)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pasta, cooked, enriched, without added salt (fdcId 169737) hidratos de carbono 30,9 g; Squash, summer, zucchini, includes skin, raw (fdcId 169291) hidratos de carbono 3,1 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🍝",
+        "nombre": "Pasta cocida",
+        "valor": "30,9",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🥒",
+        "nombre": "Calabacín crudo",
+        "valor": "3,1",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-026",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: plátano, 22,8 g de hidratos de carbono y 12,2 g de azúcares; fresas, 7,7 g de hidratos de carbono y 4,9 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173944 y 167762)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bananas, raw (fdcId 173944) hidratos de carbono 22,8 g, 12,2 g de azúcares; Strawberries, raw (fdcId 167762) hidratos de carbono 7,7 g, 4,9 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🍌",
+        "nombre": "Plátano",
+        "valor": "22,8",
+        "unidad": "g",
+        "detalle": "12,2 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🍓",
+        "nombre": "Fresas",
+        "valor": "7,7",
+        "unidad": "g",
+        "detalle": "4,9 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-027",
+    "tema": "composición - fibra (comparación)",
+    "enunciado": "Por cada 100 g: pan blanco, 2,7 g de fibra; pan integral, 6,0 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174924 y 172688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) fibra 2,7 g; Bread, whole-wheat, commercially prepared (fdcId 172688) fibra 6,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Fibra por cada 100 g",
+      "antes": {
+        "icono": "🍞",
+        "nombre": "Pan blanco",
+        "valor": "2,7",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🍞",
+        "nombre": "Pan integral",
+        "valor": "6,0",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-028",
+    "tema": "composición - proteína (comparación)",
+    "enunciado": "Por cada 100 g: leche entera, 3,2 g de proteína; yogur griego natural, 10,2 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El yogur griego, natural y sin grasa. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171265 y 170894)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Milk, whole, 3,25% milkfat, with added vitamin D (fdcId 171265) proteína 3,2 g; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) proteína 10,2 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Proteína por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Leche entera",
+        "valor": "3,2",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur griego natural",
+        "valor": "10,2",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-029",
+    "tema": "composición - grasa saturada (comparación)",
+    "enunciado": "Por cada 100 g: mantequilla, 51,4 g de grasa saturada; aceite de oliva, 13,8 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173410 y 171413)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Butter, salted (fdcId 173410) grasa saturada 51,4 g; Oil, olive, salad or cooking (fdcId 171413) grasa saturada 13,8 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa saturada por cada 100 g",
+      "antes": {
+        "icono": "🧈",
+        "nombre": "Mantequilla",
+        "valor": "51,4",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🫒",
+        "nombre": "Aceite de oliva",
+        "valor": "13,8",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-030",
+    "tema": "composición - vitamina C (comparación)",
+    "enunciado": "Por cada 100 g: naranja, 53 mg de vitamina C; kiwi, 93 mg de vitamina C.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La cocción y el almacenamiento bajan la vitamina C. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169097 y 168153)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Oranges, raw, all commercial varieties (fdcId 169097) vitamina C 53 mg; Kiwifruit, green, raw (fdcId 168153) vitamina C 93 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Vitamina C por cada 100 g",
+      "antes": {
+        "icono": "🍊",
+        "nombre": "Naranja",
+        "valor": "53",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🥝",
+        "nombre": "Kiwi",
+        "valor": "93",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-031",
+    "tema": "composición - potasio (comparación)",
+    "enunciado": "Por cada 100 g: plátano, 358 mg de potasio; aguacate, 485 mg de potasio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173944 y 171705)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bananas, raw (fdcId 173944) potasio 358 mg; Avocados, raw, all commercial varieties (fdcId 171705) potasio 485 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Potasio por cada 100 g",
+      "antes": {
+        "icono": "🍌",
+        "nombre": "Plátano",
+        "valor": "358",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🥑",
+        "nombre": "Aguacate",
+        "valor": "485",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-032",
+    "tema": "composición - calcio (comparación)",
+    "enunciado": "Por cada 100 g: leche entera, 113 mg de calcio; tofu firme, 683 mg de calcio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. El tofu es el preparado con sulfato de calcio. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171265 y 172475)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Milk, whole, 3,25% milkfat, with added vitamin D (fdcId 171265) calcio 113 mg; Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) calcio 683 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calcio por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Leche entera",
+        "valor": "113",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🧊",
+        "nombre": "Tofu firme",
+        "valor": "683",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-033",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: refresco de cola, 9,9 g de azúcares; zumo de naranja, 8,4 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El zumo es el de naranja sin añadidos; la naranja entera, además, lleva fibra. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174852 y 169098)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beverages, carbonated, cola, regular (fdcId 174852) azúcares 9,9 g; Orange juice, raw (Includes foods for USDA's Food Distribution Program) (fdcId 169098) azúcares 8,4 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥤",
+        "nombre": "Refresco de cola",
+        "valor": "9,9",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🧃",
+        "nombre": "Zumo de naranja",
+        "valor": "8,4",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-034",
+    "tema": "composición - hierro (comparación)",
+    "enunciado": "Por cada 100 g: espinacas crudas, 2,7 mg de hierro; mejillones cocidos, 6,7 mg de hierro.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Las espinacas, crudas; los mejillones, cocidos. Es la cantidad del alimento, no la que se absorbe. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168462 y 174217)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Spinach, raw (fdcId 168462) hierro 2,7 mg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) hierro 6,7 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hierro por cada 100 g",
+      "antes": {
+        "icono": "🥬",
+        "nombre": "Espinacas crudas",
+        "valor": "2,7",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🦪",
+        "nombre": "Mejillones cocidos",
+        "valor": "6,7",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-035",
+    "tema": "composición - magnesio (comparación)",
+    "enunciado": "Por cada 100 g: plátano, 27 mg de magnesio; almendras, 270 mg de magnesio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. El plátano, crudo; las almendras, tal cual. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173944 y 170567)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bananas, raw (fdcId 173944) magnesio 27 mg; Nuts, almonds (fdcId 170567) magnesio 270 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Magnesio por cada 100 g",
+      "antes": {
+        "icono": "🍌",
+        "nombre": "Plátano",
+        "valor": "27",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🌰",
+        "nombre": "Almendras",
+        "valor": "270",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-036",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: tofu firme 17,3 g; copos de avena 13,2 g; alubias blancas cocidas 9,7 g; lentejas cocidas 9,0 g; garbanzos cocidos 8,9 g; quinoa cocida 4,4 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Legumbres y quinoa, cocidas; la avena, en copos secos; el tofu, firme. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172475, 173904, 175203, 172421, 173757, 168917)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) proteína 17,3 g; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) proteína 13,2 g; Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) proteína 9,7 g; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) proteína 9,0 g; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) proteína 8,9 g; Quinoa, cooked (fdcId 168917) proteína 4,4 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína en legumbres y cereales",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Tofu firme",
+          "valor": "17,3 g",
+          "icono": "🧊"
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "13,2 g",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "9,7 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "9,0 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "8,9 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Quinoa cocida",
+          "valor": "4,4 g",
+          "icono": "🌾"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-037",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: atún al natural 25,5 g; sardinas en lata 24,6 g; caballa cocinada 23,9 g; mejillones cocidos 23,8 g; bacalao cocinado 22,8 g; salmón cocinado 22,1 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Todo cocinado o en lata escurrida. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171986, 175139, 175120, 174217, 171956, 175168)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Fish, tuna, light, canned in water, without salt, drained solids (fdcId 171986) proteína 25,5 g; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) proteína 24,6 g; Fish, mackerel, Atlantic, cooked, dry heat (fdcId 175120) proteína 23,9 g; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) proteína 23,8 g; Fish, cod, Atlantic, cooked, dry heat (fdcId 171956) proteína 22,8 g; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) proteína 22,1 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína en pescado y marisco",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Atún al natural",
+          "valor": "25,5 g",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "24,6 g",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Caballa cocinada",
+          "valor": "23,9 g",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "23,8 g",
+          "icono": "🦪"
+        },
+        {
+          "nombre": "Bacalao cocinado",
+          "valor": "22,8 g",
+          "icono": "🐟"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "22,1 g",
+          "icono": "🐟"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-038",
+    "tema": "composición - fibra (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor fibra: alubias blancas cocidas 6,3 g; brócoli cocido 3,3 g; zanahoria cruda 2,8 g; boniato cocido 2,5 g; espinacas crudas 2,2 g; coliflor cruda 2,0 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Las alubias, el brócoli y el boniato, cocidos; el resto, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 175203, 169967, 170393, 168484, 168462, 169986)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) fibra 6,3 g; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) fibra 3,3 g; Carrots, raw (fdcId 170393) fibra 2,8 g; Sweet potato, cooked, boiled, without skin (fdcId 168484) fibra 2,5 g; Spinach, raw (fdcId 168462) fibra 2,2 g; Cauliflower, raw (fdcId 169986) fibra 2,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Fibra en verduras",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "6,3 g",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "3,3 g",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "2,8 g",
+          "icono": "🥕"
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "2,5 g",
+          "icono": "🍠"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "2,2 g",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "2,0 g",
+          "icono": "🥦"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-039",
+    "tema": "composición - fibra (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor fibra: copos de avena 10,1 g; pan integral 6,0 g; quinoa cocida 2,8 g; pan blanco 2,7 g; pasta cocida 1,8 g; arroz blanco cocido 0,4 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Avena en copos secos; pan, tal cual; el resto, cocido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173904, 172688, 168917, 174924, 169737, 168878)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) fibra 10,1 g; Bread, whole-wheat, commercially prepared (fdcId 172688) fibra 6,0 g; Quinoa, cooked (fdcId 168917) fibra 2,8 g; Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) fibra 2,7 g; Pasta, cooked, enriched, without added salt (fdcId 169737) fibra 1,8 g; Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) fibra 0,4 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Fibra en cereales y pan",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Copos de avena",
+          "valor": "10,1 g",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Pan integral",
+          "valor": "6,0 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Quinoa cocida",
+          "valor": "2,8 g",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "2,7 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Pasta cocida",
+          "valor": "1,8 g",
+          "icono": "🍝"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "valor": "0,4 g",
+          "icono": "🍚"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-040",
+    "tema": "composición - calcio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor calcio: tofu firme 683 mg; espinacas crudas 99 mg; alubias blancas cocidas 90 mg; garbanzos cocidos 49 mg; brócoli cocido 40 mg; coliflor cruda 22 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Legumbres y brócoli, cocidos; espinacas y naranja, crudas; tofu firme. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172475, 168462, 175203, 173757, 169967, 169986)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) calcio 683 mg; Spinach, raw (fdcId 168462) calcio 99 mg; Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) calcio 90 mg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) calcio 49 mg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) calcio 40 mg; Cauliflower, raw (fdcId 169986) calcio 22 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calcio en verduras y legumbres",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Tofu firme",
+          "valor": "683 mg",
+          "icono": "🧊"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "99 mg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "90 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "49 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "40 mg",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "22 mg",
+          "icono": "🥦"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-041",
+    "tema": "composición - hierro (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hierro: alubias blancas cocidas 3,7 mg; lentejas cocidas 3,3 mg; garbanzos cocidos 2,9 mg; espinacas crudas 2,7 mg; quinoa cocida 1,5 mg; brócoli cocido 0,7 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 175203, 172421, 173757, 168462, 168917, 169967)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) hierro 3,7 mg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) hierro 3,3 mg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) hierro 2,9 mg; Spinach, raw (fdcId 168462) hierro 2,7 mg; Quinoa, cooked (fdcId 168917) hierro 1,5 mg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) hierro 0,7 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hierro en legumbres y verdura",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "3,7 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "3,3 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "2,9 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "2,7 mg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Quinoa cocida",
+          "valor": "1,5 mg",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "0,7 mg",
+          "icono": "🥦"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-042",
+    "tema": "composición - potasio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor potasio: alubias blancas cocidas 561 mg; espinacas crudas 558 mg; aguacate 485 mg; patata cocida 379 mg; tomate crudo 237 mg; boniato cocido 230 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento. Las alubias, el boniato y la patata, cocidos; el resto, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 175203, 168462, 171705, 170438, 170457, 168484)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) potasio 561 mg; Spinach, raw (fdcId 168462) potasio 558 mg; Avocados, raw, all commercial varieties (fdcId 171705) potasio 485 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) potasio 379 mg; Tomatoes, red, ripe, raw, year round average (fdcId 170457) potasio 237 mg; Sweet potato, cooked, boiled, without skin (fdcId 168484) potasio 230 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Potasio en verdura y fruta",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "561 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "558 mg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "485 mg",
+          "icono": "🥑"
+        },
+        {
+          "nombre": "Patata cocida",
+          "valor": "379 mg",
+          "icono": "🥔"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "valor": "237 mg",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "230 mg",
+          "icono": "🍠"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-043",
+    "tema": "composición - vitamina C (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina C: pimiento rojo crudo 128 mg; brócoli cocido 65 mg; coliflor cruda 48 mg; espinacas crudas 28 mg; tomate crudo 14 mg; patata cocida 13 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La cocción y el almacenamiento bajan la vitamina C. El brócoli y la patata, cocidos; el resto, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170108, 169967, 169986, 168462, 170457, 170438)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Peppers, sweet, red, raw (fdcId 170108) vitamina C 128 mg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) vitamina C 65 mg; Cauliflower, raw (fdcId 169986) vitamina C 48 mg; Spinach, raw (fdcId 168462) vitamina C 28 mg; Tomatoes, red, ripe, raw, year round average (fdcId 170457) vitamina C 14 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) vitamina C 13 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina C en verduras",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "128 mg",
+          "icono": "🫑"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "65 mg",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "48 mg",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "28 mg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "valor": "14 mg",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Patata cocida",
+          "valor": "13 mg",
+          "icono": "🥔"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-044",
+    "tema": "composición - azúcares (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor azúcares: uvas 15,5 g; plátano 12,2 g; manzana 10,4 g; piña 9,9 g; fresas 4,9 g; aguacate 0,7 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Fruta cruda; son los azúcares de la propia fruta. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174683, 173944, 171688, 169124, 167762, 171705)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Grapes, red or green (European type, such as Thompson seedless), raw (fdcId 174683) azúcares 15,5 g; Bananas, raw (fdcId 173944) azúcares 12,2 g; Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (fdcId 171688) azúcares 10,4 g; Pineapple, raw, all varieties (fdcId 169124) azúcares 9,9 g; Strawberries, raw (fdcId 167762) azúcares 4,9 g; Avocados, raw, all commercial varieties (fdcId 171705) azúcares 0,7 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Azúcares en la fruta",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Uvas",
+          "valor": "15,5 g",
+          "icono": "🍇"
+        },
+        {
+          "nombre": "Plátano",
+          "valor": "12,2 g",
+          "icono": "🍌"
+        },
+        {
+          "nombre": "Manzana",
+          "valor": "10,4 g",
+          "icono": "🍎"
+        },
+        {
+          "nombre": "Piña",
+          "valor": "9,9 g",
+          "icono": "🍍"
+        },
+        {
+          "nombre": "Fresas",
+          "valor": "4,9 g",
+          "icono": "🍓"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "0,7 g",
+          "icono": "🥑"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-045",
+    "tema": "composición - azúcares (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor azúcares: kétchup 21,3 g; refresco de cola 9,9 g; zumo de naranja 8,4 g; pan blanco 5,7 g; yogur natural entero 4,7 g; tomate crudo 2,6 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El zumo es el de naranja sin añadidos; el yogur, natural entero. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168556, 174852, 169098, 174924, 171284, 170457)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Catsup (fdcId 168556) azúcares 21,3 g; Beverages, carbonated, cola, regular (fdcId 174852) azúcares 9,9 g; Orange juice, raw (Includes foods for USDA's Food Distribution Program) (fdcId 169098) azúcares 8,4 g; Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) azúcares 5,7 g; Yogurt, plain, whole milk (fdcId 171284) azúcares 4,7 g; Tomatoes, red, ripe, raw, year round average (fdcId 170457) azúcares 2,6 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Azúcares donde no los esperas",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Kétchup",
+          "valor": "21,3 g",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "valor": "9,9 g",
+          "icono": "🥤"
+        },
+        {
+          "nombre": "Zumo de naranja",
+          "valor": "8,4 g",
+          "icono": "🧃"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "5,7 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Yogur natural entero",
+          "valor": "4,7 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "valor": "2,6 g",
+          "icono": "🍅"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-046",
+    "tema": "composición - sodio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor sodio: queso feta 1139 mg; kétchup 907 mg; jamón cocido 814 mg; aceitunas en conserva 735 mg; patatas fritas de bolsa 527 mg; pizza de queso 447 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. La pizza, de queso y cocinada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173420, 168556, 173864, 169094, 169677, 170317)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cheese, feta (fdcId 173420) sodio 1139 mg; Catsup (fdcId 168556) sodio 907 mg; Ham, sliced, regular (approximately 11% fat) (fdcId 173864) sodio 814 mg; Olives, ripe, canned (small-extra large) (fdcId 169094) sodio 735 mg; Snacks, potato chips, plain, salted (fdcId 169677) sodio 527 mg; Pizza, cheese topping, regular crust, frozen, cooked (fdcId 170317) sodio 447 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Sodio en el aperitivo",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Queso feta",
+          "valor": "1139 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Kétchup",
+          "valor": "907 mg",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Jamón cocido",
+          "valor": "814 mg",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Aceitunas en conserva",
+          "valor": "735 mg",
+          "icono": "🫒"
+        },
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "527 mg",
+          "icono": "🥔"
+        },
+        {
+          "nombre": "Pizza de queso",
+          "valor": "447 mg",
+          "icono": "🍕"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-047",
+    "tema": "composición - grasa saturada (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa saturada: mantequilla 51,4 g; queso cheddar 19,4 g; parmesano 14,9 g; mozzarella 13,9 g; ternera picada cocinada 5,3 g; lomo de cerdo asado 3,5 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La carne, cocinada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173410, 170899, 170848, 170845, 174033, 168233)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Butter, salted (fdcId 173410) grasa saturada 51,4 g; Cheese, cheddar, sharp, sliced (fdcId 170899) grasa saturada 19,4 g; Cheese, parmesan, hard (fdcId 170848) grasa saturada 14,9 g; Cheese, mozzarella, whole milk (fdcId 170845) grasa saturada 13,9 g; Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) grasa saturada 5,3 g; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) grasa saturada 3,5 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa saturada en lácteos y carne",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Mantequilla",
+          "valor": "51,4 g",
+          "icono": "🧈"
+        },
+        {
+          "nombre": "Queso cheddar",
+          "valor": "19,4 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "14,9 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "13,9 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "5,3 g",
+          "icono": "🥩"
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "3,5 g",
+          "icono": "🥓"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-048",
+    "tema": "composición - colesterol (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor colesterol: mantequilla 215 mg; queso cheddar 99 mg; mozzarella 79 mg; parmesano 68 mg; yogur natural entero 13 mg; leche entera 10 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El colesterol de un alimento y el de la sangre no son lo mismo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173410, 170899, 170845, 170848, 171284, 171265)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Butter, salted (fdcId 173410) colesterol 215 mg; Cheese, cheddar, sharp, sliced (fdcId 170899) colesterol 99 mg; Cheese, mozzarella, whole milk (fdcId 170845) colesterol 79 mg; Cheese, parmesan, hard (fdcId 170848) colesterol 68 mg; Yogurt, plain, whole milk (fdcId 171284) colesterol 13 mg; Milk, whole, 3.25% milkfat, with added vitamin D (fdcId 171265) colesterol 10 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Colesterol en lácteos",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Mantequilla",
+          "valor": "215 mg",
+          "icono": "🧈"
+        },
+        {
+          "nombre": "Queso cheddar",
+          "valor": "99 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "79 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "68 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Yogur natural entero",
+          "valor": "13 mg",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Leche entera",
+          "valor": "10 mg",
+          "icono": "🥛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-049",
+    "tema": "composición - magnesio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor magnesio: copos de avena 138 mg; pan integral 75 mg; quinoa cocida 64 mg; alubias blancas cocidas 63 mg; garbanzos cocidos 48 mg; lentejas cocidas 36 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Avena en copos secos; el resto, cocido o tal cual. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173904, 172688, 168917, 175203, 173757, 172421)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) magnesio 138 mg; Bread, whole-wheat, commercially prepared (fdcId 172688) magnesio 75 mg; Quinoa, cooked (fdcId 168917) magnesio 64 mg; Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) magnesio 63 mg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) magnesio 48 mg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) magnesio 36 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Magnesio en cereales y legumbres",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Copos de avena",
+          "valor": "138 mg",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Pan integral",
+          "valor": "75 mg",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Quinoa cocida",
+          "valor": "64 mg",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "63 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "48 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "36 mg",
+          "icono": "🫘"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-050",
+    "tema": "composición - zinc (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor zinc: ternera picada cocinada 6,2 mg; mejillones cocidos 2,7 mg; lomo de cerdo asado 2,5 mg; gambas cocidas 1,6 mg; pechuga de pollo asada 1,0 mg; salmón cocinado 0,4 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Todo cocinado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174033, 174217, 168233, 171971, 171477, 175168)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) zinc 6,2 mg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) zinc 2,7 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) zinc 2,5 mg; Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture) (fdcId 171971) zinc 1,6 mg; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) zinc 1,0 mg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) zinc 0,4 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Zinc en carne y marisco",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "6,2 mg",
+          "icono": "🥩"
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "2,7 mg",
+          "icono": "🦪"
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "2,5 mg",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Gambas cocidas",
+          "valor": "1,6 mg",
+          "icono": "🦐"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "1,0 mg",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "0,4 mg",
+          "icono": "🐟"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-051",
+    "tema": "composición - vitamina B12 (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B12: mozzarella 2,3 µg; huevo cocido 1,1 µg; queso cheddar 0,9 µg; yogur griego natural 0,8 µg; leche entera 0,5 µg; yogur natural entero 0,4 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170845, 173424, 170899, 170894, 171265, 171284)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cheese, mozzarella, whole milk (fdcId 170845) vitamina B12 2,3 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) vitamina B12 1,1 µg; Cheese, cheddar, sharp, sliced (fdcId 170899) vitamina B12 0,9 µg; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) vitamina B12 0,8 µg; Milk, whole, 3.25% milkfat, with added vitamin D (fdcId 171265) vitamina B12 0,5 µg; Yogurt, plain, whole milk (fdcId 171284) vitamina B12 0,4 µg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B12 en lácteos y huevo",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Mozzarella",
+          "valor": "2,3 µg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "1,1 µg",
+          "icono": "🥚"
+        },
+        {
+          "nombre": "Queso cheddar",
+          "valor": "0,9 µg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Yogur griego natural",
+          "valor": "0,8 µg",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Leche entera",
+          "valor": "0,5 µg",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Yogur natural entero",
+          "valor": "0,4 µg",
+          "icono": "🥛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-052",
+    "tema": "composición - folato (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor folato: espinacas crudas 194 µg; lentejas cocidas 181 µg; garbanzos cocidos 172 µg; brócoli cocido 108 µg; alubias blancas cocidas 81 µg; coliflor cruda 57 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Legumbres y brócoli, cocidos; espinacas y coliflor, crudas. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168462, 172421, 173757, 169967, 175203, 169986)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Spinach, raw (fdcId 168462) folato 194 µg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) folato 181 µg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) folato 172 µg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) folato 108 µg; Beans, white, mature seeds, cooked, boiled, without salt (fdcId 175203) folato 81 µg; Cauliflower, raw (fdcId 169986) folato 57 µg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Folato en verduras y legumbres",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "194 µg",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "181 µg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "172 µg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "108 µg",
+          "icono": "🥦"
+        },
+        {
+          "nombre": "Alubias blancas cocidas",
+          "valor": "81 µg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "57 µg",
+          "icono": "🥦"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-053",
+    "tema": "composición - grasa (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa: aceite de oliva 100,0 g; mantequilla 81,1 g; nueces 65,2 g; almendras 49,9 g; aguacate 14,7 g; huevo cocido 10,6 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la grasa total del alimento; la proporción de cada tipo cambia de uno a otro. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171413, 173410, 170187, 170567, 171705, 173424)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Oil, olive, salad or cooking (fdcId 171413) grasa 100,0 g; Butter, salted (fdcId 173410) grasa 81,1 g; Nuts, walnuts, english (fdcId 170187) grasa 65,2 g; Nuts, almonds (fdcId 170567) grasa 49,9 g; Avocados, raw, all commercial varieties (fdcId 171705) grasa 14,7 g; Egg, whole, cooked, hard-boiled (fdcId 173424) grasa 10,6 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "100,0 g",
+          "icono": "🫒"
+        },
+        {
+          "nombre": "Mantequilla",
+          "valor": "81,1 g",
+          "icono": "🧈"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "65,2 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "49,9 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "14,7 g",
+          "icono": "🥑"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "10,6 g",
+          "icono": "🥚"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-054",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: semillas de chía 42,1 g; pistachos 27,2 g; almendras 21,6 g; cacahuetes 16,1 g; nueces 13,7 g; pipas de calabaza 10,7 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Frutos secos y semillas tal cual; los hidratos incluyen la fibra. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170554, 170184, 170567, 172430, 170187, 170556)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, chia seeds, dried (fdcId 170554) hidratos de carbono 42,1 g; Nuts, pistachio nuts, raw (fdcId 170184) hidratos de carbono 27,2 g; Nuts, almonds (fdcId 170567) hidratos de carbono 21,6 g; Peanuts, all types, raw (fdcId 172430) hidratos de carbono 16,1 g; Nuts, walnuts, english (fdcId 170187) hidratos de carbono 13,7 g; Seeds, pumpkin and squash seed kernels, dried (fdcId 170556) hidratos de carbono 10,7 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hidratos en los frutos secos",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Semillas de chía",
+          "valor": "42,1 g",
+          "icono": "🌱"
+        },
+        {
+          "nombre": "Pistachos",
+          "valor": "27,2 g",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "21,6 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "16,1 g",
+          "icono": "🥜"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "13,7 g",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "10,7 g",
+          "icono": "🎃"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-055",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: galletas tipo maría 68,9 g; patatas fritas de bolsa 53,8 g; pan blanco 49,4 g; pizza de queso 29,0 g; boniato cocido 17,7 g; yogur natural entero 4,7 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El boniato, cocido; la pizza, de queso y cocinada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174950, 169677, 174924, 170317, 168484, 171284)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cookies, butter, commercially prepared, enriched (fdcId 174950) hidratos de carbono 68,9 g; Snacks, potato chips, plain, salted (fdcId 169677) hidratos de carbono 53,8 g; Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) hidratos de carbono 49,4 g; Pizza, cheese topping, regular crust, frozen, cooked (fdcId 170317) hidratos de carbono 29,0 g; Sweet potato, cooked, boiled, without skin (fdcId 168484) hidratos de carbono 17,7 g; Yogurt, plain, whole milk (fdcId 171284) hidratos de carbono 4,7 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hidratos en el tentempié",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "68,9 g",
+          "icono": "🍪"
+        },
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "53,8 g",
+          "icono": "🥔"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "49,4 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Pizza de queso",
+          "valor": "29,0 g",
+          "icono": "🍕"
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "17,7 g",
+          "icono": "🍠"
+        },
+        {
+          "nombre": "Yogur natural entero",
+          "valor": "4,7 g",
+          "icono": "🥛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-056",
+    "tema": "composición - proteína (comparación)",
+    "enunciado": "Por cada 100 g: pechuga de pollo asada, 31,0 g de proteína; tofu firme, 17,3 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El pollo, asado; el tofu, firme. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477 y 172475)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) proteína 31,0 g; Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) proteína 17,3 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Proteína por cada 100 g",
+      "antes": {
+        "icono": "🍗",
+        "nombre": "Pechuga de pollo asada",
+        "valor": "31,0",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🧊",
+        "nombre": "Tofu firme",
+        "valor": "17,3",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-057",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: patata cocida, 20,1 g de hidratos de carbono y 1,8 g de fibra; boniato cocido, 17,7 g de hidratos de carbono y 2,5 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Los dos, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170438 y 168484)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) hidratos de carbono 20,1 g, 1,8 g de fibra; Sweet potato, cooked, boiled, without skin (fdcId 168484) hidratos de carbono 17,7 g, 2,5 g de fibra. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🥔",
+        "nombre": "Patata cocida",
+        "valor": "20,1",
+        "unidad": "g",
+        "detalle": "1,8 g de fibra"
+      },
+      "ahora": {
+        "icono": "🍠",
+        "nombre": "Boniato cocido",
+        "valor": "17,7",
+        "unidad": "g",
+        "detalle": "2,5 g de fibra"
+      }
+    }
+  },
+  {
+    "id": "ALI-058",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: pan blanco, 49,4 g de hidratos de carbono; pan integral, 42,7 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174924 y 172688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) hidratos de carbono 49,4 g; Bread, whole-wheat, commercially prepared (fdcId 172688) hidratos de carbono 42,7 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🍞",
+        "nombre": "Pan blanco",
+        "valor": "49,4",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🍞",
+        "nombre": "Pan integral",
+        "valor": "42,7",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-059",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: yogur natural entero, 4,7 g de azúcares; yogur griego natural, 3,2 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El yogur, natural entero; el griego, natural sin grasa. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171284 y 170894)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Yogurt, plain, whole milk (fdcId 171284) azúcares 4,7 g; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) azúcares 3,2 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Yogur natural entero",
+        "valor": "4,7",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur griego natural",
+        "valor": "3,2",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-060",
+    "tema": "composición - sodio (comparación)",
+    "enunciado": "Por cada 100 g: aceitunas en conserva, 735 mg de sodio; patatas fritas de bolsa, 527 mg de sodio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169094 y 169677)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Olives, ripe, canned (small-extra large) (fdcId 169094) sodio 735 mg; Snacks, potato chips, plain, salted (fdcId 169677) sodio 527 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Sodio por cada 100 g",
+      "antes": {
+        "icono": "🫒",
+        "nombre": "Aceitunas en conserva",
+        "valor": "735",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🥔",
+        "nombre": "Patatas fritas de bolsa",
+        "valor": "527",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-061",
+    "tema": "composición - calcio (comparación)",
+    "enunciado": "Por cada 100 g: sardinas en lata, 382 mg de calcio; leche entera, 113 mg de calcio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Las sardinas, en lata con su espina. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 175139 y 171265)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) calcio 382 mg; Milk, whole, 3,25% milkfat, with added vitamin D (fdcId 171265) calcio 113 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calcio por cada 100 g",
+      "antes": {
+        "icono": "🐟",
+        "nombre": "Sardinas en lata",
+        "valor": "382",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Leche entera",
+        "valor": "113",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-062",
+    "tema": "composición - hierro (comparación)",
+    "enunciado": "Por cada 100 g: lentejas cocidas, 3,3 mg de hierro; ternera picada cocinada, 2,7 mg de hierro.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. Las lentejas, cocidas; la ternera, picada y cocinada. Es la cantidad del alimento, no la que se absorbe. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172421 y 174033)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) hierro 3,3 mg; Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) hierro 2,7 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hierro por cada 100 g",
+      "antes": {
+        "icono": "🫘",
+        "nombre": "Lentejas cocidas",
+        "valor": "3,3",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🥩",
+        "nombre": "Ternera picada cocinada",
+        "valor": "2,7",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-063",
+    "tema": "composición - vitamina C (comparación)",
+    "enunciado": "Por cada 100 g: naranja, 53 mg de vitamina C; zumo de naranja, 50 mg de vitamina C.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La cocción y el almacenamiento bajan la vitamina C. El zumo es el de naranja sin añadidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169097 y 169098)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Oranges, raw, all commercial varieties (fdcId 169097) vitamina C 53 mg; Orange juice, raw (Includes foods for USDA's Food Distribution Program) (fdcId 169098) vitamina C 50 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Vitamina C por cada 100 g",
+      "antes": {
+        "icono": "🍊",
+        "nombre": "Naranja",
+        "valor": "53",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🧃",
+        "nombre": "Zumo de naranja",
+        "valor": "50",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-064",
+    "tema": "composición - potasio (comparación)",
+    "enunciado": "Por cada 100 g: patata cocida, 379 mg de potasio; boniato cocido, 230 mg de potasio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento. Los dos, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170438 y 168484)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) potasio 379 mg; Sweet potato, cooked, boiled, without skin (fdcId 168484) potasio 230 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Potasio por cada 100 g",
+      "antes": {
+        "icono": "🥔",
+        "nombre": "Patata cocida",
+        "valor": "379",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🍠",
+        "nombre": "Boniato cocido",
+        "valor": "230",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-065",
+    "tema": "composición - fibra (comparación)",
+    "enunciado": "Por cada 100 g: manzana, 2,4 g de fibra; kiwi, 3,0 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171688 y 168153)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (fdcId 171688) fibra 2,4 g; Kiwifruit, green, raw (fdcId 168153) fibra 3,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Fibra por cada 100 g",
+      "antes": {
+        "icono": "🍎",
+        "nombre": "Manzana",
+        "valor": "2,4",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🥝",
+        "nombre": "Kiwi",
+        "valor": "3,0",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-066",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: copos de avena, 67,7 g de hidratos de carbono y 10,1 g de fibra; quinoa cocida, 21,3 g de hidratos de carbono y 2,8 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La avena, en copos secos; la quinoa, cocida. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173904 y 168917)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) hidratos de carbono 67,7 g, 10,1 g de fibra; Quinoa, cooked (fdcId 168917) hidratos de carbono 21,3 g, 2,8 g de fibra. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🌾",
+        "nombre": "Copos de avena",
+        "valor": "67,7",
+        "unidad": "g",
+        "detalle": "10,1 g de fibra"
+      },
+      "ahora": {
+        "icono": "🌾",
+        "nombre": "Quinoa cocida",
+        "valor": "21,3",
+        "unidad": "g",
+        "detalle": "2,8 g de fibra"
+      }
+    }
+  },
+  {
+    "id": "ALI-067",
+    "tema": "composición - proteína (comparación)",
+    "enunciado": "Por cada 100 g: ternera picada cocinada, 24,6 g de proteína y 5,3 g de grasa saturada; salmón cocinado, 22,1 g de proteína y 2,4 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Los dos, cocinados. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174033 y 175168)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled (fdcId 174033) proteína 24,6 g, 5,3 g de grasa saturada; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) proteína 22,1 g, 2,4 g de grasa saturada. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Proteína por cada 100 g",
+      "antes": {
+        "icono": "🥩",
+        "nombre": "Ternera picada cocinada",
+        "valor": "24,6",
+        "unidad": "g",
+        "detalle": "5,3 g de grasa saturada"
+      },
+      "ahora": {
+        "icono": "🐟",
+        "nombre": "Salmón cocinado",
+        "valor": "22,1",
+        "unidad": "g",
+        "detalle": "2,4 g de grasa saturada"
+      }
+    }
+  },
+  {
+    "id": "ALI-068",
+    "tema": "composición - colesterol (comparación)",
+    "enunciado": "Por cada 100 g: huevo cocido, 373 mg de colesterol; gambas cocidas, 211 mg de colesterol.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El colesterol de un alimento y el de la sangre no son lo mismo. El huevo y las gambas, cocidos. El colesterol de un alimento y el de la sangre no son lo mismo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173424 y 171971)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Egg, whole, cooked, hard-boiled (fdcId 173424) colesterol 373 mg; Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture) (fdcId 171971) colesterol 211 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Colesterol por cada 100 g",
+      "antes": {
+        "icono": "🥚",
+        "nombre": "Huevo cocido",
+        "valor": "373",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🦐",
+        "nombre": "Gambas cocidas",
+        "valor": "211",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-069",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: manzana, 10,4 g de azúcares; uvas, 15,5 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171688 y 174683)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (fdcId 171688) azúcares 10,4 g; Grapes, red or green (European type, such as Thompson seedless), raw (fdcId 174683) azúcares 15,5 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍎",
+        "nombre": "Manzana",
+        "valor": "10,4",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🍇",
+        "nombre": "Uvas",
+        "valor": "15,5",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-070",
+    "tema": "composición - grasa saturada (comparación)",
+    "enunciado": "Por cada 100 g: nueces, 6,1 g de grasa saturada; mantequilla, 51,4 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170187 y 173410)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Nuts, walnuts, english (fdcId 170187) grasa saturada 6,1 g; Butter, salted (fdcId 173410) grasa saturada 51,4 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa saturada por cada 100 g",
+      "antes": {
+        "icono": "🌰",
+        "nombre": "Nueces",
+        "valor": "6,1",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🧈",
+        "nombre": "Mantequilla",
+        "valor": "51,4",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-071",
+    "tema": "composición - vitamina D (comparación)",
+    "enunciado": "Por cada 100 g: huevo cocido, 2,2 µg de vitamina D; salmón cocinado, 13 µg de vitamina D.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El huevo, cocido; el salmón, cocinado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173424 y 175168)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Egg, whole, cooked, hard-boiled (fdcId 173424) vitamina D 2,2 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) vitamina D 13 µg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Vitamina D por cada 100 g",
+      "antes": {
+        "icono": "🥚",
+        "nombre": "Huevo cocido",
+        "valor": "2,2",
+        "unidad": "µg"
+      },
+      "ahora": {
+        "icono": "🐟",
+        "nombre": "Salmón cocinado",
+        "valor": "13",
+        "unidad": "µg"
+      }
+    }
+  },
+  {
+    "id": "ALI-072",
+    "tema": "composición - magnesio (comparación)",
+    "enunciado": "Por cada 100 g: copos de avena, 138 mg de magnesio; pan integral, 75 mg de magnesio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la cantidad que hay en el alimento, no la que se absorbe. La avena, en copos secos. Es la cantidad del alimento, no la que se absorbe. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173904 y 172688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) magnesio 138 mg; Bread, whole-wheat, commercially prepared (fdcId 172688) magnesio 75 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Magnesio por cada 100 g",
+      "antes": {
+        "icono": "🌾",
+        "nombre": "Copos de avena",
+        "valor": "138",
+        "unidad": "mg"
+      },
+      "ahora": {
+        "icono": "🍞",
+        "nombre": "Pan integral",
+        "valor": "75",
+        "unidad": "mg"
+      }
+    }
+  },
+  {
+    "id": "ALI-073",
+    "tema": "composición - hidratos de carbono (comparación)",
+    "enunciado": "Por cada 100 g: naranja, 11,8 g de hidratos de carbono; zumo de naranja, 10,4 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La naranja entera, además, lleva fibra; el zumo es el de naranja sin añadidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169097 y 169098)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Oranges, raw, all commercial varieties (fdcId 169097) hidratos de carbono 11,8 g; Orange juice, raw (Includes foods for USDA's Food Distribution Program) (fdcId 169098) hidratos de carbono 10,4 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Hidratos por cada 100 g",
+      "antes": {
+        "icono": "🍊",
+        "nombre": "Naranja",
+        "valor": "11,8",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🧃",
+        "nombre": "Zumo de naranja",
+        "valor": "10,4",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-074",
+    "tema": "composición - grasa (comparación)",
+    "enunciado": "Por cada 100 g: aguacate, 14,7 g de grasa; mantequilla, 81,1 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la grasa total; la proporción de cada tipo cambia de uno a otro. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171705 y 173410)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Avocados, raw, all commercial varieties (fdcId 171705) grasa 14,7 g; Butter, salted (fdcId 173410) grasa 81,1 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa por cada 100 g",
+      "antes": {
+        "icono": "🥑",
+        "nombre": "Aguacate",
+        "valor": "14,7",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🧈",
+        "nombre": "Mantequilla",
+        "valor": "81,1",
+        "unidad": "g"
+      }
+    }
+  },
+  {
+    "id": "ALI-075",
+    "tema": "composición - proteína (comparación)",
+    "enunciado": "Por cada 100 g: huevo cocido, 12,6 g de proteína; tofu firme, 17,3 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El huevo, cocido; el tofu, firme. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173424 y 172475)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Egg, whole, cooked, hard-boiled (fdcId 173424) proteína 12,6 g; Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475) proteína 17,3 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Proteína por cada 100 g",
+      "antes": {
+        "icono": "🥚",
+        "nombre": "Huevo cocido",
+        "valor": "12,6",
+        "unidad": "g"
+      },
+      "ahora": {
+        "icono": "🧊",
+        "nombre": "Tofu firme",
+        "valor": "17,3",
+        "unidad": "g"
+      }
+    }
+  }
+]

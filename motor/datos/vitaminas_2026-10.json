@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "VIT-001",
+    "tema": "vitamina A (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina A contribuye al mantenimiento de la visión en condiciones normales. La vitamina A contribuye al mantenimiento de la piel en condiciones normales. La vitamina A contribuye al funcionamiento normal del sistema inmunitario. La vitamina A contribuye al mantenimiento de las mucosas en condiciones normales. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 800 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina A (μg) 800."
+    }
+  },
+  {
+    "id": "VIT-002",
+    "tema": "composición - vitamina A (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina A: hígado de ternera cocinado 9442 µg; zanahoria cruda 835 µg; boniato cocido 787 µg; mantequilla 684 µg; espinacas crudas 469 µg; parmesano 207 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN porque la tabla mide actividad de retinol (RAE) y el VRN usa otra base de cálculo.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626, 170393, 168484, 173410, 168462, 170848)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, variety meats and by-products, liver, cooked, braised (fdcId 168626) 9442 µg; Carrots, raw (fdcId 170393) 835 µg; Sweet potato, cooked, boiled, without skin (fdcId 168484) 787 µg; Butter, salted (fdcId 173410) 684 µg; Spinach, raw (fdcId 168462) 469 µg; Cheese, parmesan, hard (fdcId 170848) 207 µg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina A por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Hígado de ternera cocinado",
+          "valor": "9442 µg",
+          "fdc": 168626
+        },
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "835 µg",
+          "fdc": 170393
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "787 µg",
+          "fdc": 168484
+        },
+        {
+          "nombre": "Mantequilla",
+          "valor": "684 µg",
+          "fdc": 173410
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "469 µg",
+          "fdc": 168462
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "207 µg",
+          "fdc": 170848
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-003",
+    "tema": "composición - vitamina A (comparación)",
+    "enunciado": "Por cada 100 g: hígado de ternera cocinado, 9442 µg de vitamina A; zanahoria cruda, 835 µg. El primero lleva unas 11 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (9442 entre 835), redondeado al entero. No se calcula el porcentaje del VRN porque la tabla mide actividad de retinol (RAE) y el VRN usa otra base de cálculo.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626 y 170393)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, variety meats and by-products, liver, cooked, braised (fdcId 168626) 9442 µg; Carrots, raw (fdcId 170393) 835 µg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 1,
+      "ratio": 11
+    }
+  },
+  {
+    "id": "VIT-004",
+    "tema": "vitamina A (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, el hígado y sus derivados son una fuente muy rica de vitamina A: no conviene comerlos más de una vez por semana y, en el embarazo, lo que aconseja es evitarlos.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «if you're pregnant you should avoid eating liver or liver products / Do not eat liver or liver products, such as pâté, more than once a week».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "embarazo",
+      "personas con riesgo de osteoporosis (mujeres tras la menopausia y hombres mayores)"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-a.txt)",
+      "detalle": "if you're pregnant you should avoid eating liver or liver products / Do not eat liver or liver products, such as pâté, more than once a week"
+    }
+  },
+  {
+    "id": "VIT-005",
+    "tema": "vitamina D (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina D contribuye a la absorción y utilización normal del calcio y el fósforo. La vitamina D contribuye al mantenimiento de los huesos en condiciones normales. La vitamina D contribuye al funcionamiento normal de los músculos. La vitamina D contribuye al funcionamiento normal del sistema inmunitario. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 5 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina D (μg) 5."
+    }
+  },
+  {
+    "id": "VIT-006",
+    "tema": "composición - vitamina D (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina D: trucha cocinada 19,0 µg (380 % del VRN); salmón cocinado 13,1 µg (262 % del VRN); sardinas en lata 4,8 µg (96 % del VRN); huevo cocido 2,2 µg (44 % del VRN); lomo de cerdo asado 0,7 µg (14 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 5 µg (vitamina D2 + D3) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173718, 175168, 175139, 173424, 168233)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Fish, trout, rainbow, farmed, cooked, dry heat (fdcId 173718) 19,0 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 13,1 µg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) 4,8 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) 2,2 µg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 0,7 µg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina D por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Trucha cocinada",
+          "valor": "19,0 µg",
+          "fdc": 173718,
+          "pct": 380
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "13,1 µg",
+          "fdc": 175168,
+          "pct": 262
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "4,8 µg",
+          "fdc": 175139,
+          "pct": 96
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "2,2 µg",
+          "fdc": 173424,
+          "pct": 44
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "0,7 µg",
+          "fdc": 168233,
+          "pct": 14
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-007",
+    "tema": "composición - vitamina D (comparación)",
+    "enunciado": "Por cada 100 g: trucha cocinada, 19,0 µg de vitamina D (380 % del VRN); huevo cocido, 2,2 µg (44 % del VRN). El primero lleva unas 9 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (19,0 entre 2,2), redondeado al entero. El porcentaje compara con el VRN de 5 µg (vitamina D2 + D3) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173718 y 173424)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Fish, trout, rainbow, farmed, cooked, dry heat (fdcId 173718) 19,0 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) 2,2 µg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 3,
+      "ratio": 9
+    }
+  },
+  {
+    "id": "VIT-008",
+    "tema": "vitamina D (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, tomar demasiados suplementos de vitamina D durante mucho tiempo puede hacer que se acumule demasiado calcio en el cuerpo (hipercalcemia), lo que puede debilitar los huesos y dañar los riñones y el corazón.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Taking too many vitamin D supplements over a long period of time can cause too much calcium to build up in the body».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman suplementos de vitamina D"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-d.txt)",
+      "detalle": "Taking too many vitamin D supplements over a long period of time can cause too much calcium to build up in the body"
+    }
+  },
+  {
+    "id": "VIT-009",
+    "tema": "vitamina E (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina E contribuye a la protección de las células frente al daño oxidativo. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 12 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina E (mg) 12."
+    }
+  },
+  {
+    "id": "VIT-010",
+    "tema": "composición - vitamina E (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina E: pipas de girasol 35,2 mg (293 % del VRN); almendras 25,6 mg (214 % del VRN); avellanas 15,0 mg (125 % del VRN); aceite de oliva 14,4 mg (120 % del VRN); cacahuetes 8,3 mg (69 % del VRN); aguacate 2,1 mg (17 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 12 mg (alfa-tocoferol) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 170567, 170581, 171413, 172430, 171705)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, sunflower seed kernels, dried (fdcId 170562) 35,2 mg; Nuts, almonds (fdcId 170567) 25,6 mg; Nuts, hazelnuts or filberts (fdcId 170581) 15,0 mg; Oil, olive, salad or cooking (fdcId 171413) 14,4 mg; Peanuts, all types, raw (fdcId 172430) 8,3 mg; Avocados, raw, all commercial varieties (fdcId 171705) 2,1 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina E por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pipas de girasol",
+          "valor": "35,2 mg",
+          "fdc": 170562,
+          "pct": 293
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "25,6 mg",
+          "fdc": 170567,
+          "pct": 214
+        },
+        {
+          "nombre": "Avellanas",
+          "valor": "15,0 mg",
+          "fdc": 170581,
+          "pct": 125
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "14,4 mg",
+          "fdc": 171413,
+          "pct": 120
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "8,3 mg",
+          "fdc": 172430,
+          "pct": 69
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "2,1 mg",
+          "fdc": 171705,
+          "pct": 17
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-011",
+    "tema": "composición - vitamina E (comparación)",
+    "enunciado": "Por cada 100 g: pipas de girasol, 35,2 mg de vitamina E (293 % del VRN); aceite de oliva, 14,4 mg (120 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (35,2 entre 14,4), redondeado al entero. El porcentaje compara con el VRN de 12 mg (alfa-tocoferol) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562 y 171413)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, sunflower seed kernels, dried (fdcId 170562) 35,2 mg; Oil, olive, salad or cooking (fdcId 171413) 14,4 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 3,
+      "ratio": 2
+    }
+  },
+  {
+    "id": "VIT-012",
+    "tema": "vitamina E (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, no hay pruebas suficientes para saber qué efectos tiene tomar cada día dosis altas de suplementos de vitamina E.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «There is not enough evidence to know what the effects might be of taking high doses of vitamin E supplements each day».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-e/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman suplementos de vitamina E"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-e.txt)",
+      "detalle": "There is not enough evidence to know what the effects might be of taking high doses of vitamin E supplements each day"
+    }
+  },
+  {
+    "id": "VIT-013",
+    "tema": "vitamina K (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina K contribuye a la coagulación sanguínea normal. La vitamina K contribuye al mantenimiento de los huesos en condiciones normales. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 75 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina K (μg) 75."
+    }
+  },
+  {
+    "id": "VIT-014",
+    "tema": "composición - vitamina K (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina K: perejil fresco 1640 µg (2187 % del VRN); acelgas crudas 830 µg (1107 % del VRN); espinacas crudas 483 µg (644 % del VRN); col rizada cruda 390 µg (519 % del VRN); coles de Bruselas crudas 177 µg (236 % del VRN); brócoli cocido 141 µg (188 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 75 µg (vitamina K (filoquinona y otras formas que mide la tabla)) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170416, 169991, 168462, 168421, 170383, 169967)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Parsley, fresh (fdcId 170416) 1640 µg; Chard, swiss, raw (fdcId 169991) 830 µg; Spinach, raw (fdcId 168462) 483 µg; Kale, raw (fdcId 168421) 390 µg; Brussels sprouts, raw (fdcId 170383) 177 µg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) 141 µg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina K por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "1640 µg",
+          "fdc": 170416,
+          "pct": 2187
+        },
+        {
+          "nombre": "Acelgas crudas",
+          "valor": "830 µg",
+          "fdc": 169991,
+          "pct": 1107
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "483 µg",
+          "fdc": 168462,
+          "pct": 644
+        },
+        {
+          "nombre": "Col rizada cruda",
+          "valor": "390 µg",
+          "fdc": 168421,
+          "pct": 519
+        },
+        {
+          "nombre": "Coles de Bruselas crudas",
+          "valor": "177 µg",
+          "fdc": 170383,
+          "pct": 236
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "141 µg",
+          "fdc": 169967,
+          "pct": 188
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-015",
+    "tema": "composición - vitamina K (comparación)",
+    "enunciado": "Por cada 100 g: perejil fresco, 1640 µg de vitamina K (2187 % del VRN); espinacas crudas, 483 µg (644 % del VRN). El primero lleva unas 3 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1640 entre 483), redondeado al entero. El porcentaje compara con el VRN de 75 µg (vitamina K (filoquinona y otras formas que mide la tabla)) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170416 y 168462)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Parsley, fresh (fdcId 170416) 1640 µg; Spinach, raw (fdcId 168462) 483 µg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 2,
+      "ratio": 3
+    }
+  },
+  {
+    "id": "VIT-016",
+    "tema": "vitamina K (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, los alimentos con mucha vitamina K, como el brócoli, las espinacas y otras verduras de hoja verde, pueden afectar a cómo actúa la warfarina (un anticoagulante), y quien la toma debe hablar con su médico antes de hacer grandes cambios en la dieta.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Foods high in vitamin K, such as broccoli, spinach and other green leafy vegetables, can affect how warfarin works / Talk to your doctor before making any big changes to your diet when taking warfarin».",
+    "fuente": "NHS (Reino Unido), Warfarin",
+    "url": "https://www.nhs.uk/medicines/warfarin/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas que toman anticoagulantes (warfarina)"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_warfarin.txt)",
+      "detalle": "Foods high in vitamin K, such as broccoli, spinach and other green leafy vegetables, can affect how warfarin works / Talk to your doctor before making any big changes to your diet when taking warfarin"
+    }
+  },
+  {
+    "id": "VIT-017",
+    "tema": "vitamina C (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los vasos sanguíneos. La vitamina C contribuye al funcionamiento normal del sistema inmunitario. La vitamina C mejora la absorción del hierro. La vitamina C contribuye a la protección de las células frente al daño oxidativo. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 80 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina C (mg) 80."
+    }
+  },
+  {
+    "id": "VIT-018",
+    "tema": "composición - vitamina C (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina C: col rizada cruda 93 mg (117 % del VRN); brócoli crudo 89 mg (112 % del VRN); coles de Bruselas crudas 85 mg (106 % del VRN); pimiento verde crudo 80 mg (101 % del VRN); coliflor cruda 48 mg (60 % del VRN); patata cocida 13 mg (16 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 80 mg (ácido ascórbico) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168421, 170379, 170383, 170427, 169986, 170438)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Kale, raw (fdcId 168421) 93 mg; Broccoli, raw (fdcId 170379) 89 mg; Brussels sprouts, raw (fdcId 170383) 85 mg; Peppers, sweet, green, raw (fdcId 170427) 80 mg; Cauliflower, raw (fdcId 169986) 48 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) 13 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina C por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Col rizada cruda",
+          "valor": "93 mg",
+          "fdc": 168421,
+          "pct": 117
+        },
+        {
+          "nombre": "Brócoli crudo",
+          "valor": "89 mg",
+          "fdc": 170379,
+          "pct": 112
+        },
+        {
+          "nombre": "Coles de Bruselas crudas",
+          "valor": "85 mg",
+          "fdc": 170383,
+          "pct": 106
+        },
+        {
+          "nombre": "Pimiento verde crudo",
+          "valor": "80 mg",
+          "fdc": 170427,
+          "pct": 101
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "48 mg",
+          "fdc": 169986,
+          "pct": 60
+        },
+        {
+          "nombre": "Patata cocida",
+          "valor": "13 mg",
+          "fdc": 170438,
+          "pct": 16
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-019",
+    "tema": "composición - vitamina C (comparación)",
+    "enunciado": "Por cada 100 g: brócoli crudo, 89 mg de vitamina C (112 % del VRN); patata cocida, 13 mg (16 % del VRN). El primero lleva unas 7 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (89 entre 13), redondeado al entero. El porcentaje compara con el VRN de 80 mg (ácido ascórbico) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170379 y 170438)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Broccoli, raw (fdcId 170379) 89 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) 13 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 1,
+      "j": 5,
+      "ratio": 7
+    }
+  },
+  {
+    "id": "VIT-020",
+    "tema": "vitamina C (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, el cuerpo no puede almacenar vitamina C, así que la necesita en la dieta cada día.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Vitamin C cannot be stored in the body, so you need it in your diet every day».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-c.txt)",
+      "detalle": "Vitamin C cannot be stored in the body, so you need it in your diet every day"
+    }
+  },
+  {
+    "id": "VIT-021",
+    "tema": "vitamina B1 (tiamina) (funciones autorizadas y VRN)",
+    "enunciado": "La tiamina contribuye al metabolismo energético normal. La tiamina contribuye al funcionamiento normal del sistema nervioso. La tiamina contribuye a la función psicológica normal. La tiamina contribuye al funcionamiento normal del corazón. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 1,1 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Tiamina (mg) 1,1."
+    }
+  },
+  {
+    "id": "VIT-022",
+    "tema": "composición - vitamina B1 (tiamina) (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B1 (tiamina): pipas de girasol 1,48 mg (135 % del VRN); lomo de cerdo asado 1,02 mg (92 % del VRN); pistachos 0,87 mg (79 % del VRN); cacahuetes 0,64 mg (58 % del VRN); copos de avena 0,46 mg (42 % del VRN); lentejas cocidas 0,17 mg (15 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,1 mg (tiamina) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 168233, 170184, 172430, 173904, 172421)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, sunflower seed kernels, dried (fdcId 170562) 1,48 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 1,02 mg; Nuts, pistachio nuts, raw (fdcId 170184) 0,87 mg; Peanuts, all types, raw (fdcId 172430) 0,64 mg; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) 0,46 mg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) 0,17 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B1 (tiamina) por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pipas de girasol",
+          "valor": "1,48 mg",
+          "fdc": 170562,
+          "pct": 135
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "1,02 mg",
+          "fdc": 168233,
+          "pct": 92
+        },
+        {
+          "nombre": "Pistachos",
+          "valor": "0,87 mg",
+          "fdc": 170184,
+          "pct": 79
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "0,64 mg",
+          "fdc": 172430,
+          "pct": 58
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "0,46 mg",
+          "fdc": 173904,
+          "pct": 42
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "0,17 mg",
+          "fdc": 172421,
+          "pct": 15
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-023",
+    "tema": "composición - vitamina B1 (tiamina) (comparación)",
+    "enunciado": "Por cada 100 g: pipas de girasol, 1,48 mg de vitamina B1 (tiamina) (135 % del VRN); lomo de cerdo asado, 1,02 mg (92 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,48 entre 1,02), redondeado al entero. El porcentaje compara con el VRN de 1,1 mg (tiamina) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562 y 168233)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Seeds, sunflower seed kernels, dried (fdcId 170562) 1,48 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 1,02 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 1,
+      "ratio": 1
+    }
+  },
+  {
+    "id": "VIT-024",
+    "tema": "vitamina B1 (tiamina) (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, el cuerpo no puede almacenar tiamina (vitamina B1), así que la necesita en la dieta cada día.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Thiamin cannot be stored in the body, so you need it in your diet every day».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "Thiamin cannot be stored in the body, so you need it in your diet every day"
+    }
+  },
+  {
+    "id": "VIT-025",
+    "tema": "vitamina B2 (riboflavina) (funciones autorizadas y VRN)",
+    "enunciado": "La riboflavina contribuye al metabolismo energético normal. La riboflavina contribuye al mantenimiento de la piel en condiciones normales. La riboflavina contribuye al mantenimiento de la visión en condiciones normales. La riboflavina ayuda a disminuir el cansancio y la fatiga. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 1,4 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Riboflavina (mg) 1,4."
+    }
+  },
+  {
+    "id": "VIT-026",
+    "tema": "composición - vitamina B2 (riboflavina) (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B2 (riboflavina): hígado de ternera cocinado 3,43 mg (245 % del VRN); almendras 1,14 mg (81 % del VRN); queso feta 0,84 mg (60 % del VRN); huevo cocido 0,51 mg (37 % del VRN); mejillones cocidos 0,42 mg (30 % del VRN); champiñones crudos 0,40 mg (29 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,4 mg (riboflavina) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626, 170567, 173420, 173424, 174217, 169251)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, variety meats and by-products, liver, cooked, braised (fdcId 168626) 3,43 mg; Nuts, almonds (fdcId 170567) 1,14 mg; Cheese, feta (fdcId 173420) 0,84 mg; Egg, whole, cooked, hard-boiled (fdcId 173424) 0,51 mg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) 0,42 mg; Mushrooms, white, raw (fdcId 169251) 0,40 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B2 (riboflavina) por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Hígado de ternera cocinado",
+          "valor": "3,43 mg",
+          "fdc": 168626,
+          "pct": 245
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "1,14 mg",
+          "fdc": 170567,
+          "pct": 81
+        },
+        {
+          "nombre": "Queso feta",
+          "valor": "0,84 mg",
+          "fdc": 173420,
+          "pct": 60
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "0,51 mg",
+          "fdc": 173424,
+          "pct": 37
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "0,42 mg",
+          "fdc": 174217,
+          "pct": 30
+        },
+        {
+          "nombre": "Champiñones crudos",
+          "valor": "0,40 mg",
+          "fdc": 169251,
+          "pct": 29
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-027",
+    "tema": "composición - vitamina B2 (riboflavina) (comparación)",
+    "enunciado": "Por cada 100 g: almendras, 1,14 mg de vitamina B2 (riboflavina) (81 % del VRN); huevo cocido, 0,51 mg (37 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,14 entre 0,51), redondeado al entero. El porcentaje compara con el VRN de 1,4 mg (riboflavina) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170567 y 173424)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Nuts, almonds (fdcId 170567) 1,14 mg; Egg, whole, cooked, hard-boiled (fdcId 173424) 0,51 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 1,
+      "j": 3,
+      "ratio": 2
+    }
+  },
+  {
+    "id": "VIT-028",
+    "tema": "vitamina B2 (riboflavina) (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, la luz ultravioleta puede destruir la riboflavina (vitamina B2), así que lo ideal es mantener los alimentos que la contienen fuera de la luz directa del sol.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «UV light can destroy riboflavin, so ideally these foods should be kept out of direct sunlight».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "UV light can destroy riboflavin, so ideally these foods should be kept out of direct sunlight"
+    }
+  },
+  {
+    "id": "VIT-029",
+    "tema": "vitamina B3 (niacina) (funciones autorizadas y VRN)",
+    "enunciado": "La niacina contribuye al metabolismo energético normal. La niacina contribuye al funcionamiento normal del sistema nervioso. La niacina contribuye al mantenimiento de la piel en condiciones normales. La niacina ayuda a disminuir el cansancio y la fatiga. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 16 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Niacina (mg) 16."
+    }
+  },
+  {
+    "id": "VIT-030",
+    "tema": "composición - vitamina B3 (niacina) (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B3 (niacina): pechuga de pollo asada 13,7 mg; atún al natural 13,3 mg; cacahuetes 12,1 mg; pechuga de pavo asada 11,8 mg; salmón cocinado 8,0 mg; lomo de cerdo asado 5,9 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN porque la tabla mide niacina preformada y el VRN usa otra base de cálculo.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477, 171986, 172430, 171496, 175168, 168233)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) 13,7 mg; Fish, tuna, light, canned in water, without salt, drained solids (fdcId 171986) 13,3 mg; Peanuts, all types, raw (fdcId 172430) 12,1 mg; Turkey, whole, breast, meat only, cooked, roasted (fdcId 171496) 11,8 mg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 8,0 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 5,9 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B3 (niacina) por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "13,7 mg",
+          "fdc": 171477
+        },
+        {
+          "nombre": "Atún al natural",
+          "valor": "13,3 mg",
+          "fdc": 171986
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "12,1 mg",
+          "fdc": 172430
+        },
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "11,8 mg",
+          "fdc": 171496
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "8,0 mg",
+          "fdc": 175168
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "5,9 mg",
+          "fdc": 168233
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-031",
+    "tema": "composición - vitamina B3 (niacina) (comparación)",
+    "enunciado": "Por cada 100 g: pechuga de pollo asada, 13,7 mg de vitamina B3 (niacina); cacahuetes, 12,1 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (13,7 entre 12,1), redondeado al entero. No se calcula el porcentaje del VRN porque la tabla mide niacina preformada y el VRN usa otra base de cálculo.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477 y 172430)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) 13,7 mg; Peanuts, all types, raw (fdcId 172430) 12,1 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 2,
+      "ratio": 1
+    }
+  },
+  {
+    "id": "VIT-032",
+    "tema": "vitamina B3 (niacina) (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, las dosis altas de suplementos de ácido nicotínico (una forma de niacina) pueden causar rubor en la piel y, tomadas durante mucho tiempo, daño en el hígado.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Taking high doses of nicotinic acid supplements can cause skin flushes / Taking high doses for a long time could lead to liver damage».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman suplementos de niacina"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "Taking high doses of nicotinic acid supplements can cause skin flushes / Taking high doses for a long time could lead to liver damage"
+    }
+  },
+  {
+    "id": "VIT-033",
+    "tema": "vitamina B5 (ácido pantoténico) (funciones autorizadas y VRN)",
+    "enunciado": "El ácido pantoténico contribuye al metabolismo energético normal. El ácido pantoténico ayuda a disminuir el cansancio y la fatiga. El ácido pantoténico contribuye al rendimiento intelectual normal. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 6 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Ácido pantoténico (mg) 6."
+    }
+  },
+  {
+    "id": "VIT-034",
+    "tema": "composición - vitamina B5 (ácido pantoténico) (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B5 (ácido pantoténico): hígado de ternera cocinado 7,11 mg (119 % del VRN); cacahuetes 1,77 mg (29 % del VRN); champiñones crudos 1,50 mg (25 % del VRN); salmón cocinado 1,48 mg (25 % del VRN); huevo cocido 1,40 mg (23 % del VRN); aguacate 1,39 mg (23 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 6 mg (ácido pantoténico) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626, 172430, 169251, 175168, 173424, 171705)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, variety meats and by-products, liver, cooked, braised (fdcId 168626) 7,11 mg; Peanuts, all types, raw (fdcId 172430) 1,77 mg; Mushrooms, white, raw (fdcId 169251) 1,50 mg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 1,48 mg; Egg, whole, cooked, hard-boiled (fdcId 173424) 1,40 mg; Avocados, raw, all commercial varieties (fdcId 171705) 1,39 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B5 (ácido pantoténico) por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Hígado de ternera cocinado",
+          "valor": "7,11 mg",
+          "fdc": 168626,
+          "pct": 119
+        },
+        {
+          "nombre": "Cacahuetes",
+          "valor": "1,77 mg",
+          "fdc": 172430,
+          "pct": 29
+        },
+        {
+          "nombre": "Champiñones crudos",
+          "valor": "1,50 mg",
+          "fdc": 169251,
+          "pct": 25
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "1,48 mg",
+          "fdc": 175168,
+          "pct": 25
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "1,40 mg",
+          "fdc": 173424,
+          "pct": 23
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "1,39 mg",
+          "fdc": 171705,
+          "pct": 23
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-035",
+    "tema": "composición - vitamina B5 (ácido pantoténico) (comparación)",
+    "enunciado": "Por cada 100 g: hígado de ternera cocinado, 7,11 mg de vitamina B5 (ácido pantoténico) (119 % del VRN); cacahuetes, 1,77 mg (29 % del VRN). El primero lleva unas 4 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (7,11 entre 1,77), redondeado al entero. El porcentaje compara con el VRN de 6 mg (ácido pantoténico) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626 y 172430)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, variety meats and by-products, liver, cooked, braised (fdcId 168626) 7,11 mg; Peanuts, all types, raw (fdcId 172430) 1,77 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 1,
+      "ratio": 4
+    }
+  },
+  {
+    "id": "VIT-036",
+    "tema": "vitamina B5 (ácido pantoténico) (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, el ácido pantoténico se encuentra en cantidades variables en casi todas las verduras, los alimentos integrales y las carnes, y en el Reino Unido no se ha fijado una cantidad que haga falta de este nutriente.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Pantothenic acid is found in varying amounts in almost all vegetables, wholegrain foods and meats / No amount has been set in the UK for how much pantothenic acid you need».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "Pantothenic acid is found in varying amounts in almost all vegetables, wholegrain foods and meats / No amount has been set in the UK for how much pantothenic acid you need"
+    }
+  },
+  {
+    "id": "VIT-037",
+    "tema": "vitamina B6 (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina B6 contribuye al metabolismo energético normal. La vitamina B6 contribuye al funcionamiento normal del sistema nervioso. La vitamina B6 contribuye a la formación normal de glóbulos rojos. La vitamina B6 ayuda a regular la actividad hormonal. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 1,4 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina B6 (mg) 1,4."
+    }
+  },
+  {
+    "id": "VIT-038",
+    "tema": "composición - vitamina B6 (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B6: pistachos 1,70 mg (121 % del VRN); pechuga de pavo asada 0,81 mg (58 % del VRN); salmón cocinado 0,65 mg (46 % del VRN); pechuga de pollo asada 0,60 mg (43 % del VRN); lomo de cerdo asado 0,55 mg (39 % del VRN); plátano 0,37 mg (26 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,4 mg (vitamina B6) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170184, 171496, 175168, 171477, 168233, 173944)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Nuts, pistachio nuts, raw (fdcId 170184) 1,70 mg; Turkey, whole, breast, meat only, cooked, roasted (fdcId 171496) 0,81 mg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 0,65 mg; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) 0,60 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 0,55 mg; Bananas, raw (fdcId 173944) 0,37 mg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B6 por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pistachos",
+          "valor": "1,70 mg",
+          "fdc": 170184,
+          "pct": 121
+        },
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "0,81 mg",
+          "fdc": 171496,
+          "pct": 58
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "0,65 mg",
+          "fdc": 175168,
+          "pct": 46
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "0,60 mg",
+          "fdc": 171477,
+          "pct": 43
+        },
+        {
+          "nombre": "Lomo de cerdo asado",
+          "valor": "0,55 mg",
+          "fdc": 168233,
+          "pct": 39
+        },
+        {
+          "nombre": "Plátano",
+          "valor": "0,37 mg",
+          "fdc": 173944,
+          "pct": 26
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-039",
+    "tema": "composición - vitamina B6 (comparación)",
+    "enunciado": "Por cada 100 g: pistachos, 1,70 mg de vitamina B6 (121 % del VRN); plátano, 0,37 mg (26 % del VRN). El primero lleva unas 5 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,70 entre 0,37), redondeado al entero. El porcentaje compara con el VRN de 1,4 mg (vitamina B6) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170184 y 173944)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Nuts, pistachio nuts, raw (fdcId 170184) 1,70 mg; Bananas, raw (fdcId 173944) 0,37 mg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 5,
+      "ratio": 5
+    }
+  },
+  {
+    "id": "VIT-040",
+    "tema": "vitamina B6 (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, tomar 200 mg o más al día de vitamina B6 puede causar pérdida de sensibilidad en brazos y piernas (neuropatía periférica), y el consejo es no pasar de 10 mg al día en suplementos salvo que lo indique un médico.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Do not take more than 10mg of vitamin B6 a day in supplements unless advised to by a doctor / Taking 200mg or more a day of vitamin B6 can lead to a loss of feeling in the arms and legs known as peripheral neuropathy».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman suplementos de vitamina B6"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "Do not take more than 10mg of vitamin B6 a day in supplements unless advised to by a doctor / Taking 200mg or more a day of vitamin B6 can lead to a loss of feeling in the arms and legs known as peripheral neuropathy"
+    }
+  },
+  {
+    "id": "VIT-041",
+    "tema": "folato (vitamina B9) (funciones autorizadas y VRN)",
+    "enunciado": "Los folatos contribuyen a la formación normal de células sanguíneas. Los folatos contribuyen a la síntesis normal de aminoácidos. Los folatos contribuyen al crecimiento de los tejidos maternos durante el embarazo. Los folatos ayudan a disminuir el cansancio y la fatiga. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 200 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Ácido fólico (μg) 200."
+    }
+  },
+  {
+    "id": "VIT-042",
+    "tema": "composición - folato (vitamina B9) (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes 240 µg (120 % del VRN); pipas de girasol 227 µg (114 % del VRN); espinacas crudas 194 µg (97 % del VRN); lentejas cocidas 181 µg (91 % del VRN); garbanzos cocidos 172 µg (86 % del VRN); brócoli cocido 108 µg (54 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 200 µg (folato total) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 170562, 168462, 172421, 173757, 169967)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Peanuts, all types, raw (fdcId 172430) 240 µg; Seeds, sunflower seed kernels, dried (fdcId 170562) 227 µg; Spinach, raw (fdcId 168462) 194 µg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) 181 µg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) 172 µg; Broccoli, cooked, boiled, drained, without salt (fdcId 169967) 108 µg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Folato (vitamina B9) por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Cacahuetes",
+          "valor": "240 µg",
+          "fdc": 172430,
+          "pct": 120
+        },
+        {
+          "nombre": "Pipas de girasol",
+          "valor": "227 µg",
+          "fdc": 170562,
+          "pct": 114
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "194 µg",
+          "fdc": 168462,
+          "pct": 97
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "181 µg",
+          "fdc": 172421,
+          "pct": 91
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "172 µg",
+          "fdc": 173757,
+          "pct": 86
+        },
+        {
+          "nombre": "Brócoli cocido",
+          "valor": "108 µg",
+          "fdc": 169967,
+          "pct": 54
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-043",
+    "tema": "composición - folato (vitamina B9) (comparación)",
+    "enunciado": "Por cada 100 g: cacahuetes, 240 µg de folato (vitamina B9) (120 % del VRN); espinacas crudas, 194 µg (97 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (240 entre 194), redondeado al entero. El porcentaje compara con el VRN de 200 µg (folato total) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430 y 168462)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Peanuts, all types, raw (fdcId 172430) 240 µg; Spinach, raw (fdcId 168462) 194 µg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 0,
+      "j": 2,
+      "ratio": 1
+    }
+  },
+  {
+    "id": "VIT-044",
+    "tema": "folato (vitamina B9) (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, el folato es la forma natural de esta vitamina B y el ácido fólico es su forma sintética; para quien está embarazada o puede quedarse embarazada, el Departamento de Sanidad británico recomienda un suplemento de ácido fólico, algo que debe hablar con su médico.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "embarazo o búsqueda de embarazo"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant"
+    }
+  },
+  {
+    "id": "VIT-045",
+    "tema": "vitamina B12 (funciones autorizadas y VRN)",
+    "enunciado": "La vitamina B12 contribuye a la formación normal de glóbulos rojos. La vitamina B12 contribuye al funcionamiento normal del sistema nervioso. La vitamina B12 contribuye al funcionamiento normal del sistema inmunitario. La vitamina B12 ayuda a disminuir el cansancio y la fatiga. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 2,5 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Vitamina B12 (μg) 2,5."
+    }
+  },
+  {
+    "id": "VIT-046",
+    "tema": "composición - vitamina B12 (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B12: almejas cocidas 98,9 µg (3956 % del VRN); mejillones cocidos 24,0 µg (960 % del VRN); caballa cocinada 19,0 µg (760 % del VRN); sardinas en lata 8,9 µg (358 % del VRN); salmón cocinado 2,8 µg (112 % del VRN); huevo cocido 1,1 µg (44 % del VRN).",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 2,5 µg (vitamina B12) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171975, 174217, 175120, 175139, 175168, 173424)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Mollusks, clam, mixed species, cooked, moist heat (fdcId 171975) 98,9 µg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) 24,0 µg; Fish, mackerel, Atlantic, cooked, dry heat (fdcId 175120) 19,0 µg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) 8,9 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 2,8 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) 1,1 µg"
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Vitamina B12 por cada 100 g",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Almejas cocidas",
+          "valor": "98,9 µg",
+          "fdc": 171975,
+          "pct": 3956
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "24,0 µg",
+          "fdc": 174217,
+          "pct": 960
+        },
+        {
+          "nombre": "Caballa cocinada",
+          "valor": "19,0 µg",
+          "fdc": 175120,
+          "pct": 760
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "8,9 µg",
+          "fdc": 175139,
+          "pct": 358
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "2,8 µg",
+          "fdc": 175168,
+          "pct": 112
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "1,1 µg",
+          "fdc": 173424,
+          "pct": 44
+        }
+      ]
+    }
+  },
+  {
+    "id": "VIT-047",
+    "tema": "composición - vitamina B12 (comparación)",
+    "enunciado": "Por cada 100 g: mejillones cocidos, 24,0 µg de vitamina B12 (960 % del VRN); huevo cocido, 1,1 µg (44 % del VRN). El primero lleva unas 22 veces la cantidad del segundo.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (24,0 entre 1,1), redondeado al entero. El porcentaje compara con el VRN de 2,5 µg (vitamina B12) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174217 y 173424)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) 24,0 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) 1,1 µg."
+    },
+    "molde_datos": {
+      "tipo": "vs",
+      "i": 1,
+      "j": 5,
+      "ratio": 22
+    }
+  },
+  {
+    "id": "VIT-048",
+    "tema": "vitamina B12 (límite o aviso)",
+    "enunciado": "Según el NHS del Reino Unido, la vitamina B12 no se encuentra de forma natural en frutas, verduras ni cereales, por lo que las personas veganas pueden no obtener suficiente.",
+    "veredicto": "respaldado",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «as vitamin B12 is not found naturally in foods such as fruit, vegetables and grains, vegans may not get enough of it».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "dietas veganas y vegetarianas estrictas"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "as vitamin B12 is not found naturally in foods such as fruit, vegetables and grains, vegans may not get enough of it"
+    }
+  },
+  {
+    "id": "VIT-049",
+    "tema": "vitamina B7 (biotina) (funciones autorizadas y VRN)",
+    "enunciado": "La biotina contribuye al metabolismo energético normal. La biotina contribuye al funcionamiento normal del sistema nervioso. La biotina contribuye al mantenimiento del cabello en condiciones normales. La biotina contribuye al mantenimiento de la piel en condiciones normales. Valor de referencia de nutrientes (VRN) para el etiquetado en adultos: 50 µg.",
+    "veredicto": "respaldado",
+    "matiz": "Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012; el VRN sale del anexo XIII, parte A, del Reglamento (UE) nº 1169/2011. Las declaraciones se refieren a la vitamina y solo pueden usarse con alimentos que son, como mínimo, fuente de ella; no dicen que un alimento concreto cure ni prevenga nada. El VRN es un valor de referencia para el etiquetado en adultos, no una recomendación de ingesta personal.",
+    "fuente": "Reglamento (UE) nº 432/2012 y Reglamento (UE) nº 1169/2011 (anexo XIII, parte A)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32012R0432",
+    "anio": 2012,
+    "nivel_evidencia": "norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Texto original en castellano de los reglamentos, descargado de EUR-Lex (CELEX 32012R0432 y 32011R1169)",
+      "detalle": "Cada declaración está copiada literalmente del anexo del Reglamento 432/2012 y el VRN, de la tabla del anexo XIII: Biotina (μg) 50."
+    }
+  },
+  {
+    "id": "VIT-050",
+    "tema": "vitamina B7 (biotina) en los alimentos",
+    "veredicto": "respaldado",
+    "enunciado": "Según el NHS del Reino Unido, la biotina se encuentra en una gran variedad de alimentos pero en cantidades muy bajas, y las bacterias que viven de forma natural en el intestino pueden fabricarla, por lo que no está claro si hace falta biotina adicional de la dieta.",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020). La tabla de USDA SR Legacy no incluye biotina, así que esta pieza no da cifras de alimentos. Frase original: «Biotin is also found in a wide range of foods, but only at very low levels / The bacteria that live naturally in your bowel are able to make biotin».",
+    "fuente": "NHS (Reino Unido), Vitamins and minerals: B vitamins and folic acid",
+    "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
+    "anio": 2020,
+    "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
+      "detalle": "Biotin is also found in a wide range of foods, but only at very low levels / The bacteria that live naturally in your bowel are able to make biotin"
+    }
+  },
+  {
+    "id": "VIT-051",
+    "tema": "biotina y pelo",
+    "veredicto": "respaldado",
+    "enunciado": "Una revisión de la literatura (Patel y colaboradores, 2017) encontró 18 casos publicados de biotina usada para cambios en el pelo o las uñas, todos en personas con una patología de fondo que explicaba el mal crecimiento; concluye que hay poca investigación que respalde su utilidad en personas sanas y que faltan pruebas suficientes para tomarla como suplemento si se está sano.",
+    "matiz": "Revisión de casos y ensayos hasta la fecha de su búsqueda en PubMed; no es un ensayo con personas sanas. No dice que la biotina no sirva a quien tiene déficit o una patología concreta: dice que en ese caso puede ser útil y que esos casos son poco frecuentes. Es una revisión narrativa de calidad limitada.",
+    "fuente": "Patel DP, Swink SM, Castelo-Soccio L. A Review of the Use of Biotin for Hair Loss. Skin Appendage Disord 2017;3(3):166-169",
+    "url": "https://doi.org/10.1159/000462981",
+    "anio": 2017,
+    "nivel_evidencia": "revisión de la literatura",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con déficit de biotina o patologías del pelo"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Resumen del artículo en Europe PMC (consulta por DOI)",
+      "detalle": "Background Biotin has gained commercial popularity for its claimed benefits on healthy hair and nail growth. Despite its reputation, there is limited research to support the utility of biotin in healthy individuals. Objective To systematically review the literature on biotin efficacy in hair and nail growth. Methods We conducted a PubMed search of all case reports and randomized clinical trials (RCTs) using the following terms: (biotin and hair); (biotin and supplementation and hair); (biotin supplementation); (biotin and alopecia); (biotin and nails); (biotin and dermatology), and (biotin recommendations). Results We found 18 reported cases of biotin use for hair and nail changes. In all cases, patients receiving biotin supplementation had an underlying pathology for poor hair or nail growth. All cases showed evidence of clinical improvement after receiving biotin. Conclusions Though its use as a hair and nail growth supplement is prevalent, research demonstrating the efficacy of biotin is limited. In cases of acquired and inherited causes of biotin deficiency as well as pathologies, such as brittle nail syndrome or uncombable hair, biotin supplementation may be of benefit. However, we propose these cases are uncommon and that there is lack of sufficient evidence for supplementation in healthy individuals."
+    }
+  },
+  {
+    "id": "VIT-052",
+    "tema": "biotina y análisis de sangre",
+    "veredicto": "respaldado",
+    "enunciado": "En un estudio preliminar con 6 adultos sanos que tomaron 10 mg de biotina al día durante 7 días, la biotina se asoció a interferencia en 9 de 23 pruebas de laboratorio que usan biotina (39 %) y en ninguna de las 14 que no la usan; los resultados salieron falsamente altos en unas y falsamente bajos en otras.",
+    "matiz": "Estudio preliminar, no aleatorizado, con 6 personas (2 mujeres y 4 hombres); la dosis es la habitual en suplementos de venta libre, muy superior a la de la dieta. Las pruebas afectadas incluyen hormonas tiroideas. Los autores piden tenerlo en cuenta antes de pedir análisis o interpretar resultados en quien toma suplementos de biotina.",
+    "fuente": "Li D et al. Association of Biotin Ingestion With Performance of Hormone and Nonhormone Assays in Healthy Adults. JAMA 2017;318(12):1150-1160",
+    "url": "https://doi.org/10.1001/jama.2017.13705",
+    "anio": 2017,
+    "nivel_evidencia": "estudio preliminar no aleatorizado (6 adultos)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman suplementos de biotina y se hacen análisis de sangre"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Resumen del artículo en Europe PMC (consulta por DOI)",
+      "detalle": "Importance Biotinylated antibodies and analogues, with their strong binding to streptavidin, are used in many clinical laboratory tests. Excess biotin in blood due to supplemental biotin ingestion may affect biotin-streptavidin binding, leading to potential clinical misinterpretation. However, the degree of interference remains undefined in healthy adults. Objective To assess performance of specific biotinylated immunoassays after 7 days of ingesting 10 mg/d of biotin, a dose common in over-the-counter supplements for healthy adults. Design, setting, and participants Nonrandomized crossover trial involving 6 healthy adults who were treated at an academic medical center research laboratory. Exposure Administration of 10 mg/d of biotin supplementation for 7 days. Main outcomes and measures Analyte concentrations were compared with baseline (day 0) measures on the seventh day of biotin treatment and 7 days after treatment had stopped (day 14). The 11 analytes included 9 hormones (ie, thyroid-stimulating hormone, total thyroxine, total triiodothyronine, free thyroxine, free triiodothyronine, parathyroid hormone, prolactin, N-terminal pro-brain natriuretic peptide, 25-hydroxyvitamin D) and 2 nonhormones (prostate-specific antigen and ferritin). A total of 37 immunoassays for the 11 analytes were evaluated on 4 diagnostic systems, including 23 assays that incorporated biotin and streptavidin components and 14 assays that did not include biotin and streptavidin components and served as negative controls. Results Among the 2 women and 4 men (mean age, 38 years [range, 31-45 years]) who took 10 mg/d of biotin for 7 days, biotin ingestion-associated interference was found in 9 of the 23 (39%) biotinylated assays compared with none of the 14 nonbiotinylated assays (P = .007). Resu"
+    }
+  },
+  {
+    "id": "VIT-053",
+    "tema": "vitamina C y resfriado común",
+    "veredicto": "respaldado",
+    "enunciado": "Una revisión Cochrane de 29 comparaciones con 11 306 participantes concluyó que tomar vitamina C a diario no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97; intervalo de confianza del 95 %: de 0,94 a 1,00), aunque sí lo redujo en 598 maratonianos, esquiadores y soldados en ejercicios en el subártico (riesgo relativo 0,48); en adultos acortó los resfriados un 8 % (de 3 % a 12 %).",
+    "matiz": "Revisión sistemática con metaanálisis de ensayos con placebo, que excluyó los de menos de 0,2 g de vitamina C al día. Los resultados son de suplementación diaria, no de alimentos. La propia revisión concluye que la suplementación rutinaria no se justifica en la población general. La declaración de la UE (contribuye al funcionamiento normal del sistema inmunitario) no equivale a evitar el resfriado.",
+    "fuente": "Hemilä H, Chalker E. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev 2013;(1):CD000980",
+    "url": "https://doi.org/10.1002/14651858.CD000980.pub4",
+    "anio": 2013,
+    "nivel_evidencia": "revisión sistemática con metaanálisis (Cochrane)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-13",
+      "via": "Resumen del artículo en Europe PMC (consulta por DOI)",
+      "detalle": "Background Vitamin C (ascorbic acid) for preventing and treating the common cold has been a subject of controversy for 70 years. Objectives To find out whether vitamin C reduces the incidence, the duration or severity of the common cold when used either as a continuous regular supplementation every day or as a therapy at the onset of cold symptoms. Search methods We searched CENTRAL 2012, Issue 11, MEDLINE (1966 to November week 3, 2012), EMBASE (1990 to November 2012), CINAHL (January 2010 to November 2012), LILACS (January 2010 to November 2012) and Web of Science (January 2010 to November 2012). We also searched the U.S. National Institutes of Health trials register and WHO ICTRP on 29 November 2012. Selection criteria We excluded trials which used less than 0.2 g per day of vitamin C and trials without a placebo comparison. We restricted our review to placebo-controlled trials. Data collection and analysis Two review authors independently extracted data. We assessed 'incidence' of colds during regular supplementation as the proportion of participants experiencing one or more colds during the study period. 'Duration' was the mean number of days of illness of cold episodes. Main results Twenty-nine trial comparisons involving 11,306 participants contributed to the meta-analysis on the risk ratio (RR) of developing a cold whilst taking vitamin C regularly over the study period. In the general community trials involving 10,708 participants, the pooled RR was 0.97 (95% confidence interval (CI) 0.94 to 1.00). Five trials involving a total of 598 marathon runners, skiers and soldiers on subarctic exercises yielded a pooled RR of 0.48 (95% CI 0.35 to 0.64).Thirty-one comparisons examined the effect of regular vitamin C on common cold duration (9745 episodes). In adults the duration of colds was reduced by 8% (3% to 12%) and in children by 14% (7% to 21%). In children, 1 t"
+    }
+  }
+]

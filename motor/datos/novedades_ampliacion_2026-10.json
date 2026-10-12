@@ -1,0 +1,492 @@
+[
+ {
+  "id": "S1-01",
+  "tema": "dieta baja en carbohidratos y diabetes tipo 2",
+  "enunciado": "En un metaanálisis de 2025 con 27 ensayos y 2.870 adultos con diabetes tipo 2, en ensayos de al menos 12 semanas, las dietas bajas en carbohidratos redujeron la HbA1c 0,29 puntos porcentuales, con el mayor efecto a los 3 meses y un beneficio que se diluye con el tiempo.",
+  "veredicto": "matizado",
+  "matiz": "Ninguna rama de los ensayos mantuvo menos del 10 % de la energía en carbohidratos en los tiempos analizados: el resultado vale para dietas bajas o moderadas en carbohidratos, no para dietas muy bajas ni cetogénicas. La cifra de −0,29 puntos porcentuales es agrupada en el resumen, sin comparador explícito. En el análisis, quienes comían menos carbohidratos reales al tercer mes tuvieron mayor bajada de HbA1c y de peso. Conviene leerlo junto a LC-007 (Ajala et al., Am J Clin Nutr 2013, DOI 10.3945/ajcn.112.042457): −0,12 % de HbA1c frente a dieta control, con búsqueda hasta agosto de 2011 y ensayos de al menos 6 meses; es otra base de ensayos y otro periodo de búsqueda. Financiación: Europe PMC no registra financiación para este artículo y no hay texto completo abierto.",
+  "fuente": "Mongkolsucharitkul P et al. Diabetes Res Clin Pract 2025 (DOI 10.1016/j.diabres.2025.112464)",
+  "url": "https://doi.org/10.1016/j.diabres.2025.112464",
+  "anio": 2025,
+  "nivel_evidencia": "metaanálisis de ECA (27 ensayos, 2.870 participantes)",
+  "riesgo_publicar": "alto",
+  "poblaciones_en_riesgo": [
+   "diabetes tipo 2 tratada con insulina o sulfonilureas (riesgo de hipoglucemia)",
+   "diabetes tipo 2 con dieta muy baja en carbohidratos (no representada en esta muestra)"
+  ],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1016/j.diabres.2025.112464%22&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "27 ECA (n = 2.870; 7 de Asia oriental y 20 de Occidente) con dietas bajas en carbohidratos en adultos con diabetes tipo 2, con seguimiento de al menos 12 semanas; búsqueda en PubMed, Embase y Scopus hasta el 1 de agosto de 2024. HbA1c −0,29 %, con el mayor efecto a los 3 meses; glucosa en ayunas −7,12 mg/dL; el peso bajó más a los 3 meses y se atenuó después. Ninguna rama mantuvo carbohidratos por debajo del 10 % de la energía en los tiempos analizados. Conclusión del resumen: beneficios metabólicos modestos a corto plazo que disminuyen con el tiempo.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen y metadatos; sin texto completo abierto) y Crossref (revista, fecha y autores); retractaciones y correcciones comprobadas en Europe PMC y Crossref; LC-007 comprobado con el resumen de Europe PMC del PMID 23364002 (Ajala et al. 2013)."
+   }
+  },
+  "gancho": "Dieta baja en carbohidratos y diabetes tipo 2: un beneficio pequeño que se va apagando",
+  "por_que_sorprende": "Un metaanálisis de 2025 con 27 ensayos pone cifras a un efecto que pierde fuerza con los meses."
+ },
+ {
+  "id": "S1-02",
+  "tema": "hígado graso y tipo de dieta",
+  "enunciado": "En un metaanálisis de 2026 con 24 artículos de ensayos aleatorizados en personas con hígado graso (MASLD), la dieta mediterránea redujo la grasa hepática medida por resonancia (−1,37 puntos porcentuales de fracción grasa; IC 95 % −2,33 a −0,40; 5 ensayos), mientras que las dietas bajas en carbohidratos con mucha grasa (cetogénicas o LCHF) no cambiaron de forma significativa la ALT (6 ensayos).",
+  "veredicto": "matizado",
+  "matiz": "Son desenlaces intermedios (ALT, rigidez hepática y grasa medida por resonancia), no eventos clínicos. Cada dieta se apoya en pocos ensayos (5 y 6), de 2018 a 2024 según el resumen. No hay ensayos en MetALD, así que los resultados solo valen para MASLD. Los autores piden ensayos más grandes, más largos y con la misma energía en todos los grupos. El resumen no da el dato de grasa hepática para las dietas bajas en carbohidratos, solo el de ALT: no se puede afirmar que no reduzcan la grasa. Financiación (texto completo): la revisión no recibió financiación externa.",
+  "fuente": "Stern UM et al. Eur J Nutr 2026 (DOI 10.1007/s00394-025-03870-z)",
+  "url": "https://doi.org/10.1007/s00394-025-03870-z",
+  "anio": 2026,
+  "nivel_evidencia": "metaanálisis de ECA (24 artículos, MASLD)",
+  "riesgo_publicar": "alto",
+  "poblaciones_en_riesgo": [
+   "personas con hígado graso (MASLD)"
+  ],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1007/s00394-025-03870-z%22&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "Revisión sistemática y metaanálisis de ECA sobre dieta en MASLD o MetALD, con ensayos de 2018 a 2024; 68 artículos a texto completo y 24 en el metaanálisis; ningún estudio en MetALD. Ayuno: ALT −12,47 UI/L (n = 6) y rigidez hepática −0,24 kPa (n = 4) frente a control. Mediterránea: ALT −2,93 UI/L (IC 95 % −5,68 a −0,19; n = 9), rigidez −0,35 kPa (IC 95 % −0,54 a −0,16; n = 4) y MRI-PDFF −1,37 % (IC 95 % −2,33 a −0,40; n = 5). Dieta LCHF o cetogénica (n = 6): sin cambio significativo de ALT. Omega-3 (n = 4): sin cambio significativo de ALT. Conclusión del resumen: efectos positivos en marcadores sustitutivos con el ayuno y la mediterránea; hacen falta ensayos más grandes y largos.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen y metadatos) y texto completo de acceso abierto (fullTextXML de PMC12906548: MRI-PDFF con cinco estudios, LCHF con seis ensayos elegibles y declaración de financiación); Crossref (revista, fecha y autores); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Hígado graso: la mediterránea reduce la grasa del hígado medida por resonancia (1,37 puntos porcentuales) y, con cetogénica o LCHF, no hay cambio significativo en la ALT",
+  "por_que_sorprende": "Pone varias dietas en el mismo análisis: la mediterránea muestra una reducción de grasa hepática medida por resonancia, y las cetogénicas o LCHF no muestran cambio significativo en la ALT."
+ },
+ {
+  "id": "S1-04",
+  "tema": "dieta baja en carbohidratos y peso corporal",
+  "enunciado": "En 33 ensayos aleatorizados con 2.821 adultos con sobrepeso u obesidad, las dietas cetogénicas o bajas en carbohidratos (hasta 100 g al día) redujeron el peso corporal, el IMC y el porcentaje de grasa corporal, pero no la masa grasa.",
+  "veredicto": "matizado",
+  "matiz": "El resumen no indica el comparador de cada ensayo ni cuántos kilos bajó cada grupo: no se puede citar como pérdida de peso frente a otra dieta. El propio resumen señala alta heterogeneidad de intervenciones y participantes. Los subgrupos (1 mes o más; 50 g al día o menos) son análisis secundarios: los autores proponen una pauta con esos valores, que no debe leerse como consejo individual. Mide peso y composición corporal, no eventos clínicos. Financiación: Europe PMC no registra financiación para este artículo y no hay texto completo abierto.",
+  "fuente": "Leung LY et al. Clin Nutr 2025 (DOI 10.1016/j.clnu.2025.01.017)",
+  "url": "https://doi.org/10.1016/j.clnu.2025.01.017",
+  "anio": 2025,
+  "nivel_evidencia": "metaanálisis de ECA (33 ensayos, 2.821 participantes)",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [
+   "personas con obesidad (los autores piden supervisión médica durante la intervención)",
+   "personas con diabetes en tratamiento (la pérdida de peso puede obligar a ajustar la medicación)"
+  ],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1016/j.clnu.2025.01.017%22&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "33 ECA con 2.821 personas con sobrepeso u obesidad; búsqueda en cinco bases de datos, con dos revisores independientes y modelo de efectos aleatorios. Con 100 g de carbohidratos al día o menos, bajaron de forma significativa el peso corporal, el IMC y el porcentaje de grasa corporal; la masa grasa no. Subgrupos: con 1 mes o más de intervención, bajaron peso, IMC y masa grasa; con 50 g al día o menos, todos los parámetros. Alta heterogeneidad. Registro PROSPERO CRD42022353074. El resumen pide más ensayos multicéntricos y supervisión médica estricta.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen, metadatos, tipos de publicación y grantsList; sin texto completo abierto) y Crossref (revista Clinical Nutrition, fecha y primer autor); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Dieta baja en carbohidratos y peso: 33 ensayos, 2.821 adultos y sus matices",
+  "por_que_sorprende": "Mide más que la báscula (grasa corporal y masa grasa), y en los subgrupos del análisis los resultados cambian según la duración de la dieta y la cantidad de carbohidratos."
+ },
+ {
+  "id": "S1-05",
+  "tema": "ayuno con ventana horaria y presión arterial",
+  "enunciado": "En 11 ensayos aleatorizados con 653 adultos sin diabetes, comer en una ventana de 6 a 10 horas al día, sin restricción calórica, bajó la presión sistólica 1,79 mmHg frente a comer sin límite horario.",
+  "veredicto": "mixto",
+  "matiz": "La diferencia es pequeña y su intervalo de confianza es amplio (−3,30 a −0,27). El mayor descenso aparece en quien ya tenía la presión o la glucosa altas. Según el resumen, sin restricción calórica no parece haber efectos relevantes en el perfil lipídico. Otro metaanálisis (Qi et al., Angiology, publicado en línea el 16 de enero de 2024; 22 ECA, 1.004 personas; DOI 10.1177/00033197241228046) no encontró un cambio apreciable de la presión. Los dos análisis no coinciden en ese punto; Qi incluye también personas con prediabetes y con sobrepeso, lo que puede explicar la diferencia. El resumen no da la duración de los ensayos. Los resultados son de presión y glucosa, no de eventos clínicos. Financiación (texto completo): ninguna declarada.",
+  "fuente": "Yi X et al. Front Nutr 2025 (DOI 10.3389/fnut.2025.1631477)",
+  "url": "https://doi.org/10.3389/fnut.2025.1631477",
+  "anio": 2025,
+  "nivel_evidencia": "metaanálisis de ECA (11 ensayos, 653 participantes)",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [
+   "personas con presión alta tratada con antihipertensivos (la presión puede bajar más y hay que ajustar con el médico)"
+  ],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC12672340&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "11 ECA con 653 adultos no diabéticos; alimentación con ventana de 6 a 10 horas al día y sin restricción calórica frente a controles con alimentación sin restricción horaria; modelo de efectos aleatorios. Sistólica −1,79 mmHg (IC 95 % −3,30 a −0,27; p = 0,02); diastólica −1,75 mmHg (IC 95 % −3,07 a −0,43; p = 0,01); frecuencia cardiaca −2,19 lpm; glucosa en ayunas −2,65 mg/dL; HOMA-IR −0,58; IMC −1,59 kg/m² (IC 95 % −2,98 a −0,20; p = 0,03). Mayores descensos en quienes tenían la presión o la glucosa basales elevadas. Según el resumen, sin restricción calórica no parece haber efectos relevantes sobre el perfil lipídico. Registro PROSPERO CRD420251052403.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen y metadatos) y texto completo de acceso abierto (fullTextXML de PMC12672340: declaración de financiación); Crossref (revista, fecha y autores); Qi et al. comprobado por DOI en Europe PMC y Crossref (solo resumen); retractaciones comprobadas."
+   }
+  },
+  "gancho": "Comer en una ventana de 6 a 10 horas bajó de media casi 2 mmHg la sistólica, sin recortar calorías",
+  "por_que_sorprende": "Otro metaanálisis (Qi et al., Angiology; 22 ensayos, con sujetos sanos, prediabéticos y con sobrepeso) no encontró un cambio apreciable de la presión: los criterios de inclusión distintos pueden explicar el desacuerdo."
+ },
+ {
+  "id": "S1-06",
+  "tema": "dieta mediterránea y adherencia en adultos",
+  "enunciado": "En una muestra representativa de 740 adultos de 18 a 77 años de dos localidades de la provincia de Tarragona (una de costa y otra a 10 km tierra adentro), recogida entre 1998 y 2002, el 82,6 % tenía baja adherencia a la dieta mediterránea (puntuación de Trichopoulou inferior a 6).",
+  "veredicto": "matizado",
+  "matiz": "Estudio transversal: una sola medición con tres días de registro de alimentos, así que refleja la dieta de esos días y no los hábitos de largo plazo. Los datos son de 1998–2002 (texto completo), más de veinte años antes de la publicación: no describen la situación actual. La muestra original son 812 personas elegidas al azar en los padrones municipales, y el análisis usa 740 (las que dieron muestra de sangre y registro de alimentos, según el resumen). El punto de corte (menos de 6 puntos) es el del índice usado, no un criterio universal. Se refiere a dos localidades de Tarragona, una de costa y otra del interior: no se extiende a toda la costa mediterránea ni a toda España. El resumen también habla de folato y otras vitaminas, que no forman parte de este hecho. Financiación (texto completo): Instituto de Salud Carlos III (FIS 00/0954, 03/0870 y CIBER CB06/03) y AGAUR (2009 SGR 1237).",
+  "fuente": "Eigbefoh-Addeh A et al. Curr Res Food Sci 2025 (DOI 10.1016/j.crfs.2025.101217)",
+  "url": "https://doi.org/10.1016/j.crfs.2025.101217",
+  "anio": 2025,
+  "nivel_evidencia": "estudio transversal con muestra representativa de dos localidades (740 adultos; datos de 1998–2002)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC12550328&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "740 adultos de 18 a 77 años de una muestra representativa de dos localidades de Tarragona (estudio transversal de 1998–2002, según el texto completo), con sangre en ayunas y registro dietético de 3 días. Adherencia con la puntuación de Trichopoulou: 82,64 % con menos de 6 puntos; solo el 17,4 % con alta adherencia. En el cuartil de mayor adherencia, la ingesta de folato fue 354,5 frente a 214,9 µg/día en el cuartil más bajo (p < 0,001). Según el resumen, la mayor adherencia se asocia con mejor ingesta y estado de folato, pero no con el de las demás vitaminas estudiadas.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen y metadatos) y texto completo de acceso abierto (fullTextXML de PMC12550328: periodo 1998–2002, localidades, muestreo y financiación); Crossref (revista, fecha y primer autor); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Dieta mediterránea en Tarragona (datos de 1998–2002): 8 de cada 10 adultos tenían baja adherencia",
+  "por_que_sorprende": "Una dieta asociada al Mediterráneo no se cumplía en la mayoría de los adultos de la muestra de Tarragona (datos de 1998–2002)."
+ },
+ {
+  "id": "S1-07",
+  "tema": "sodio en alimentos envasados",
+  "enunciado": "En alimentos envasados de España, el sodio de la carne procesada subió entre un 4,8 % y un 33,3 % de 2017–2021 a 2022–2025 según el método de comparación, mientras que bajó en galletas (−14,3 %) y en snacks (−10 %).",
+  "veredicto": "mixto",
+  "matiz": "Analiza el contenido de los productos (una base de datos de alimentos), no lo que se compra ni lo que se come. No da cuánto sodio ingiere la población ni relaciona los cambios con la presión arterial ni con la salud. El resumen no indica qué método se usa para las bajadas de galletas y snacks, ni cuántos productos hay en cada grupo. Las cifras son cambios entre dos periodos. Según el resumen, la reducción no fue sustancial en el conjunto de los alimentos analizados. Financiación: Europe PMC no registra financiación para este artículo y no hay texto completo abierto.",
+  "fuente": "Hadid MC et al. Eur J Nutr 2025 (DOI 10.1007/s00394-025-03861-0)",
+  "url": "https://doi.org/10.1007/s00394-025-03861-0",
+  "anio": 2025,
+  "nivel_evidencia": "análisis de base de datos de alimentos envasados (BADALI)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1007/s00394-025-03861-0%22&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "Base de datos BADALI (Universidad Miguel Hernández, España) de alimentos envasados; compara 2017–2021 con 2022–2025. Carne procesada: +4,8 % con las mismas marcas («matched-brands»); +33,3 % con las otras dos comparaciones («unmatched-brands» y «matched-size»). Bajadas: galletas −14,3 % y snacks −10 %. Galletas clasificadas como «bajas en sodio» +57,6 %; conservas de verduras −34,8 %; snacks «altos en sodio» según el criterio PAHO −11,1 %; quesos «altos en sodio» según el criterio chileno +18,4 %. Conclusión del resumen: falta de reducción sustancial del sodio en los alimentos procesados de España.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen, grantsList vacío y tipos de publicación; sin texto completo abierto) y Crossref (revista European Journal of Nutrition, fecha y autores); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Sodio en envasados: la carne procesada sube y las galletas bajan",
+  "por_que_sorprende": "Tras años de objetivos de reducción de sal, la base de datos no muestra una bajada sustancial del sodio en envasados de España."
+ },
+ {
+  "id": "S1-08",
+  "tema": "dieta atlántica y adherencia en Galicia",
+  "enunciado": "En 500 adultos sanos de Galicia encuestados en 2022, el consumo de fruta quedó en el 36,42 % del valor óptimo de la dieta atlántica, y el de cereales y pescado, en torno al 42–44 %.",
+  "veredicto": "matizado",
+  "matiz": "Según el texto completo, el valor óptimo de cada categoría (OADCV) lo proporcionan las autoridades sanitarias de Galicia: es una referencia gallega, no una recomendación general. El índice nuevo (Atlantic Diet Scale) puntúa cada categoría dentro de un rango del 50–150 % de ese valor. Estudio transversal con un cuestionario de frecuencia validado: refleja lo declarado, no lo medido. Es una muestra de Galicia; ni el resumen ni el texto completo dicen que sea representativa, así que no se extiende a toda España. El índice nuevo se comparó con tres herramientas y dio niveles parecidos a dos de ellas. Financiación (texto completo): proyecto Precipita del FECYT, financiado por micromecenazgo, con convenio de los municipios de la provincia de Lugo y proyectos del Consejo Social de la USC; además, un grupo al que pertenecen dos de los autores está financiado por GAIN (Axencia Galega de Innovación, ED431B 2023/008).",
+  "fuente": "Rivas-Fernández I et al. Foods 2025 (DOI 10.3390/foods14152614)",
+  "url": "https://doi.org/10.3390/foods14152614",
+  "anio": 2025,
+  "nivel_evidencia": "estudio transversal con cuestionario de frecuencia validado (500 adultos)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen y texto completo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC12346738&resultType=core&format=json (resultList.result[0].abstractText) y https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12346738/fullTextXML (cifras por categoría de alimento)",
+   "detalle": "500 adultos sanos de Galicia, cuestionario de frecuencia validado (2022). Porcentaje del valor óptimo: fruta 36,42 %, cereales 43,62 % y pescado 42,40 %. Verduras: 74,12 % de las personas dentro del rango adecuado; legumbres 67,54 %; lácteos 66,13 %; carne 55,26 %; frutos secos 27,63 %; alimentos procesados 7,46 % (criterio de la escala: no consumir ninguno). El resumen indica menos consumo de procesados que en encuestas previas, salvo entre los más jóvenes.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen) y texto completo de acceso abierto (fullTextXML de PMC12346738: cifras por categoría, origen de los valores óptimos y declaración de financiación); Crossref (revista Foods, fecha y primer autor); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Dieta atlántica en Galicia: fruta, cereales y pescado se quedan cortos",
+  "por_que_sorprende": "Una dieta tradicional con pescado y verdura se queda por debajo de los valores óptimos de referencia en fruta, cereales y pescado."
+ },
+ {
+  "id": "S1-09",
+  "tema": "dieta mediterránea y adherencia en universitarios",
+  "enunciado": "En 1.268 estudiantes de una universidad del norte de España (muestra por conveniencia; 23,65 años de media), el 29,26 % tenía alta adherencia a la dieta mediterránea.",
+  "veredicto": "matizado",
+  "matiz": "Una sola universidad (Universidad de La Rioja, según el texto completo), con muestreo por conveniencia y cuestionario online: no es representativo de la juventud española. Estudio transversal de noviembre de 2020 a marzo de 2021: no mide causa ni cambios en el tiempo. Este hecho usa solo la proporción con alta adherencia. El resumen relaciona la adherencia con salud emocional, ideación suicida y otras variables: esas asociaciones no se incluyen aquí. Financiación (texto completo): ninguna externa.",
+  "fuente": "Tomás-Gallego G et al. Nutrients 2025 (DOI 10.3390/nu17040698)",
+  "url": "https://doi.org/10.3390/nu17040698",
+  "anio": 2025,
+  "nivel_evidencia": "estudio transversal (1.268 estudiantes)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC11858092&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "1.268 estudiantes de una universidad del norte de España (según el texto completo, la Universidad de La Rioja; muestreo por conveniencia), con 23,65 ± 7,84 años; cuestionario online entre noviembre de 2020 y marzo de 2021. Alta adherencia a la dieta mediterránea: 29,26 %. El resumen añade asociaciones con inteligencia emocional, ideación suicida, problemas emocionales y uso compulsivo de internet; no se incluyen en este hecho.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen) y texto completo de acceso abierto (fullTextXML de PMC11858092: universidad, muestreo por conveniencia y declaración de financiación); Crossref (revista Nutrients, fecha y autores); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Menos de un tercio de los estudiantes de una universidad del norte de España tiene alta adherencia a la dieta mediterránea",
+  "por_que_sorprende": "Una dieta que se asocia a España tiene alta adherencia en menos de un tercio de estos estudiantes."
+ },
+ {
+  "id": "S1-10",
+  "tema": "etiquetado de azúcar y bebidas azucaradas",
+  "enunciado": "En un ensayo online con 2.000 adultos hispanos de Estados Unidos, el 38 % de quienes vieron una advertencia de azúcares añadidos en la etiqueta (en inglés) eligió una bebida azucarada para sí mismo en una compra online simulada, frente al 58 % del grupo control.",
+  "veredicto": "matizado",
+  "matiz": "Mide la intención de elegir en una tienda online simulada: no es una compra real ni un consumo, y no muestra cambios en la salud. La muestra son adultos hispanos de Estados Unidos con distinto grado de aculturación, y la advertencia evaluada era en inglés, amarilla y con icono, así que no se traslada directamente a España. El grupo con mensaje y etiqueta juntos tuvo un 27 %, frente al 43 % con solo mensaje y al 38 % con solo etiqueta: también es un resultado de intención. El resultado para la bebida del hijo fue similar y es secundario. Está en el borde del área cardiometabólica: su interés es el etiquetado del azúcar. Financiación: Europe PMC registra una subvención de los NIH (NIDDK, P30 DK092924).",
+  "fuente": "Wolf EC et al. Am J Prev Med 2025 (DOI 10.1016/j.amepre.2025.107966)",
+  "url": "https://doi.org/10.1016/j.amepre.2025.107966",
+  "anio": 2025,
+  "nivel_evidencia": "ECA online (2.000 participantes; intención de elección)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, resumen del artículo: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID:PMC12356626&resultType=core&format=json (resultList.result[0].abstractText)",
+   "detalle": "ECA online con 2.000 adultos hispanos de EE. UU. con distinto grado de aculturación (octubre a diciembre de 2022); cuatro grupos: control, mensaje educativo en español o inglés, etiqueta de advertencia y mensaje más etiqueta. Elección hipotética de bebida azucarada para uno mismo: control 58 %, mensaje 43 %, etiqueta 38 %, mensaje más etiqueta 27 % (p < 0,001 frente al control en los tres grupos). Resultado secundario (bebida para el hijo): similar. Registro NCT05563181.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC API por DOI (resumen; el fullTextXML de PMC12356626 no devolvió contenido) y registro de Europe PMC (grantsList con NIDDK P30 DK092924 y tipos de publicación); Crossref (revista American Journal of Preventive Medicine, fecha y autores); retractaciones comprobadas en Europe PMC y Crossref."
+   }
+  },
+  "gancho": "Una etiqueta que avisa del azúcar baja la elección de bebida azucarada en un test online",
+  "por_que_sorprende": "Mensaje y etiqueta juntos (27 %) dieron menos elección que cada uno por separado (43 % y 38 %), aunque sea una compra simulada."
+ },
+ {
+  "id": "S2-01",
+  "tema": "azúcar en el carrito",
+  "enunciado": "En 2025 el consumo doméstico de azúcar en España bajó un 5,4 % en volumen, y el consumo por persona fue de 2,34 kilos al año, un 5,3 % menos que en 2024.",
+  "veredicto": "respaldado",
+  "matiz": "Dato oficial del panel de hogares del MAPA: mide la categoría «azúcar» de la compra doméstica, no la ingesta. No recoge el azúcar que ya lleva un producto envasado (inferencia propia: el informe mide solo esa categoría) ni el consumo fuera de casa; el panel cuenta residentes, no turistas. El texto da 109,66 millones de kilos y la tabla 109.668,69 miles de kg, por eso la frase usa solo la variación y el consumo por persona. Precio medio: 1,29 €/kg (−16,4 %).",
+  "fuente": "MAPA, Informe del consumo alimentario en España 2025 (apartado 4.16, Otros alimentos: azúcar), presentado el 30/07/2026 (nota de prensa del MAPA). La página de créditos del PDF (pág. 2) titula «Informe del consumo alimentario en España 2024»; el contenido es de 2025.",
+  "url": "https://servicio.mapama.gob.es/ca/dam/jcr:021c103a-f584-4d44-bebf-e1b44344ab11/Informe%20comsumo%202025_en%20l%C3%ADnea_.pdf",
+  "anio": 2026,
+  "nivel_evidencia": "estadística oficial (panel de hogares del MAPA)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "PDF oficial del MAPA en línea (servicio.mapama.gob.es), descargado y leído con pdftotext: pág. 349 del PDF, apartado 4.16 Otros alimentos, Azúcar. Nota de prensa del MAPA de 30/07/2026 abierta para confirmar la fecha y que el informe es el anual de 2025.",
+   "detalle": "Texto: «El consumo doméstico de azúcar registra una contracción en 2025, con un volumen de 109,66 millones de kilos, que representa una disminución de 5,4 % frente al año 2024»; «consumo per cápita, que alcanza los 2,34 kilos por persona, cantidad que supone un 5,3 % menos». Tabla: volumen 109.668,69 miles de kg (−5,4 %); valor 141.371,21 miles de € (−21,0 %); precio medio 1,29 €/kg (−16,4 %). Metodología (pág. 19 del PDF): datos de los paneles de hogares y fuera de hogares desde el punto de vista de la demanda; panelistas residentes en España, sin turismo. En el texto extraído con pdftotext, las cifras de la tabla aparecen en una fila distinta a su etiqueta; se usan las del párrafo, que coinciden.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Descarga con curl.exe del PDF del MAPA (servicio.mapama.gob.es) y texto con pdftotext: págs. 2 (créditos), 19 y 349 leídas por mí. Nota de prensa del MAPA abierta con curl.exe (mapa.gob.es, «Presentación del informe de consumo alimentario del año 2025»): fecha 30 de julio de 2026 en la página."
+   }
+  },
+  "gancho": "Menos azúcar en el carrito: 2,34 kilos por persona en 2025",
+  "por_que_sorprende": "El dato baja, pero solo recoge la categoría «azúcar» de la compra, no el azúcar que ya trae lo envasado."
+ },
+ {
+  "id": "S2-02",
+  "tema": "edulcorantes en el carrito",
+  "enunciado": "En 2025 los hogares españoles compraron un 3,8 % más de edulcorantes en volumen, hasta 4,52 millones de kilos.",
+  "veredicto": "respaldado",
+  "matiz": "Dato oficial del panel de hogares del MAPA. La categoría «edulcorante» no detalla qué productos incluye ni separa tipos. En valor bajó un 2,9 % (56,99 millones de euros) y el precio medio cayó un 6,4 % (12,60 €/kg). Mide compra doméstica, no ingesta, y no incluye el consumo fuera de casa.",
+  "fuente": "MAPA, Informe del consumo alimentario en España 2025 (apartado 4.16, Otros alimentos: edulcorante), presentado el 30/07/2026 (nota de prensa del MAPA). La página de créditos del PDF (pág. 2) titula «Informe del consumo alimentario en España 2024»; el contenido es de 2025.",
+  "url": "https://servicio.mapama.gob.es/ca/dam/jcr:021c103a-f584-4d44-bebf-e1b44344ab11/Informe%20comsumo%202025_en%20l%C3%ADnea_.pdf",
+  "anio": 2026,
+  "nivel_evidencia": "estadística oficial (panel de hogares del MAPA)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "PDF oficial del MAPA (servicio.mapama.gob.es), pág. 351 del PDF, apartado 4.16 Otros alimentos, Edulcorante.",
+   "detalle": "Texto: «Las compras de edulcorantes en los hogares españoles aumentan en 2025 un 3,8 %, hasta alcanzar 4,52 millones de kilos. Sin embargo, el valor de la categoría desciende un 2,9 %, para situarse en 56,99 millones de euros»; consumo per cápita de 0,10 kilos (+3,9 %). Tabla: volumen 4.522,55 miles de kg (+3,8 %); valor 56.999,50 miles de € (−2,9 %); precio medio 12,60 €/kg (−6,4 %).",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Mismo PDF del MAPA descargado con curl.exe y leído con pdftotext: pág. 351 (apartado Edulcorante). Búsqueda de nombres de edulcorantes en todo el informe (estevia, stevia, sucralosa, aspartamo, sacarina, acesulfamo, ciclamato): ninguno aparece."
+   }
+  },
+  "gancho": "Los edulcorantes suben en el carrito mientras el azúcar baja",
+  "por_que_sorprende": "En los mismos datos del MAPA, la compra doméstica de azúcar bajó un 5,4 % mientras la de edulcorantes subió un 3,8 %."
+ },
+ {
+  "id": "S2-03",
+  "tema": "refrescos de cola en el carrito",
+  "enunciado": "En 2025 las bebidas refrescantes de sabor cola compradas por los hogares españoles bajaron un 3,9 % en volumen, y su consumo por persona fue de 15,10 litros al año, 0,61 litros menos que en 2024, según el MAPA.",
+  "veredicto": "respaldado",
+  "matiz": "Dato oficial del panel de hogares: mide compra doméstica, no ingesta. El informe no separa la cola con azúcar de la cola sin azúcares o light (no aparece ninguna mención a «light» ni a «sin azúcar»). La cola es el 43,3 % del volumen de la categoría «gaseosas y bebidas refrescantes», que en conjunto sube: 34,90 litros por persona (+0,7 %) y 1.634,9 millones de litros (+0,6 %), con té y café, isotónicas y otras bebidas dentro. En valor, la cola baja un 3,1 %. El texto no da un porcentaje de cambio para el consumo por persona de la cola, solo los 0,61 litros menos; por eso el enunciado separa ambas cifras. No incluye el consumo fuera de casa ni el de turistas.",
+  "fuente": "MAPA, Informe del consumo alimentario en España 2025 (apartado 4.4.4, gaseosas y bebidas refrescantes), presentado el 30/07/2026 (nota de prensa del MAPA). La página de créditos del PDF (pág. 2) titula «Informe del consumo alimentario en España 2024»; el contenido es de 2025.",
+  "url": "https://servicio.mapama.gob.es/ca/dam/jcr:021c103a-f584-4d44-bebf-e1b44344ab11/Informe%20comsumo%202025_en%20l%C3%ADnea_.pdf",
+  "anio": 2026,
+  "nivel_evidencia": "estadística oficial (panel de hogares del MAPA)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "PDF oficial del MAPA (servicio.mapama.gob.es), págs. 114–117 del PDF (impresas 30–33), apartado 4.4.4 Gaseosas y bebidas refrescantes. Nota de prensa del MAPA de 30/07/2026.",
+   "detalle": "Pág. 116 del PDF: «las bebidas refrescantes de sabor cola ... concentrar en torno al 43,3 % del volumen ... descensos del 3,9 % en volumen y del 3,1 % en valor»; es el segmento con peor evolución frente a 2024. Pág. 117 del PDF: «las bebidas refrescantes de cola, que tienen el mayor consumo per cápita 15,10 litros por persona y año ... (0,61 litros menos por persona y año)». Pág. 114 del PDF: categoría total de 1.634,9 millones de litros (+0,6 %) y consumo per cápita de 34,90 litros (+0,7 %). La tabla de la pág. 117 contiene el par 15,71 (2024) y 15,10 (2025), coherente con los 0,61 menos, aunque en el texto extraído aparece junto a otra fila; las tablas de las págs. 116 y 117 están desplazadas en el texto extraído, así que se usan las cifras del párrafo.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Mismo PDF del MAPA (texto con pdftotext): págs. 114 a 117 leídas; búsqueda de «light» y «sin azúcar» en todo el informe sin resultados; nota de prensa del MAPA abierta con curl.exe (30 de julio de 2026)."
+   }
+  },
+  "gancho": "La compra de refrescos de cola baja un 3,9 % en los hogares españoles",
+  "por_que_sorprende": "La categoría general de gaseosas y refrescos sube un 0,7 % por persona porque crecen el té y el café, las isotónicas y otras bebidas, mientras la cola baja."
+ },
+ {
+  "id": "S2-04",
+  "tema": "etiquetado: Nutri-Score en bebidas",
+  "enunciado": "Al pasar del algoritmo de Nutri-Score de 2015 al de 2023, en 3.432 bebidas comercializadas en España (base «Drink Base»), la puntuación de las bebidas edulcoradas artificialmente subió un 190,3 % (peor clasificación) y la de los zumos de fruta bajó un 12,7 % (mejor clasificación).",
+  "veredicto": "matizado",
+  "matiz": "Recálculo de algoritmo sobre una base de datos de bebidas (Drink Base); no mide compras, ingesta ni salud. La muestra son bebidas de grandes cadenas de supermercado, lo que puede introducir sesgo de selección, y depende del etiquetado nutricional. Subir la puntuación empeora la clasificación: el resumen habla de clasificación «menos saludable» para las bebidas edulcoradas artificialmente, los batidos, las de frutos secos, las de cereales y la mezcla de bebidas vegetales. Los autores presentan la versión de 2023 como una mejora para distinguir bebidas azucaradas y edulcoradas, pero reconocen retos en las bebidas vegetales y en los zumos; las bebidas de leguminosas, que mantienen su clasificación, plantean dudas sobre el tratamiento de los azúcares libres. Financiación: sin ayuda específica para el estudio; uno de los autores tiene una beca María Zambrano (Ministerio de Universidades, NextGenerationEU). Conflictos declarados: J. Salas-Salvadó ha sido miembro asesor no remunerado del Instituto Danone (España e internacional, hasta junio de 2024) y de la International Nut and Dried Fruit Foundation (la fecha de junio de 2024 se refiere solo a Danone); los autores dicen que esos cargos no influyeron en el estudio.",
+  "fuente": "de las Heras-Delgado S et al. Nutrients 2025;17(9):1521",
+  "url": "https://doi.org/10.3390/nu17091521",
+  "anio": 2025,
+  "nivel_evidencia": "estudio comparativo de algoritmos (3.432 bebidas)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, búsqueda por DOI: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.3390%2Fnu17091521%22&resultType=core&format=json (hitCount 1; PMID 40362830, PMCID PMC12073336), resumen abierto; también aparece en WebSearch («nutrients 17 01521»).",
+   "detalle": "3.432 bebidas de la base «Drink Base» (en el texto completo: bebidas disponibles en el mercado español), puntuadas con el algoritmo de 2015 y con el de 2023. Cambios de puntuación: edulcoradas artificialmente +190,3 %; batidos +98,9 %; bebidas de frutos secos +343,9 %; bebidas de cereales +651,3 %; mezcla de bebidas vegetales +733 %; zumos −12,7 %; sustitutos del alcohol −8,2 %; bebidas de leguminosas −1,4 %. Revista Nutrients, volumen 17, número 9, página 1521; publicado en línea el 30/04/2025. Limitaciones del texto completo: no se puede asegurar que estén todas las bebidas del mercado, la muestra se limita a grandes cadenas (sesgo de selección), depende del etiquetado y no recoge reformulaciones posteriores.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC con curl.exe: búsqueda REST por DOI (resumen y metadatos) y texto completo fullTextXML del PMCID PMC12073336, donde leí las declaraciones de financiación, conflictos de interés y limitaciones (apartado 4.6)."
+   }
+  },
+  "gancho": "Con el Nutri-Score de 2023, las bebidas edulcoradas salen peor paradas y los zumos, mejor",
+  "por_que_sorprende": "Con la versión de 2023 sube la puntuación de las bebidas edulcoradas (peor clasificación) y baja la de los zumos (mejor clasificación), según el propio estudio."
+ },
+ {
+  "id": "S2-05",
+  "tema": "etiquetado: sellos de advertencia frente a Nutri-Score",
+  "enunciado": "En un ensayo aleatorizado con 747 adultos españoles que hicieron una compra simulada en un supermercado virtual, no hubo diferencias entre el grupo con sellos de advertencia chilenos y el grupo con Nutri-Score en el porcentaje de productos frescos o poco procesados de la cesta.",
+  "veredicto": "matizado",
+  "matiz": "Compra simulada en un supermercado virtual, no compra real; el título habla de «intenciones de compra». Compara dos sistemas de etiquetado entre sí y no tiene grupo sin etiqueta: no dice si las etiquetas cambian la compra frente a no tenerlas. El resultado principal que da el resumen (frescos y poco procesados) no muestra diferencias. La energía y la proteína salen de la comparación inicial: menos energía (−6,6 kcal/100 g; p = 0,05) y menos proteína (−0,4 g/100 g; p = 0,04) en el grupo de sellos. El azúcar (+0,63 g/100 g; p = 0,01) y la proteína (−0,44 g/100 g; p = 0,02) salen de un análisis secundario ajustado. Las conclusiones del resumen destacan solo la proteína algo menor. Son diferencias pequeñas y en el límite de la significación. Muestra de adultos de un solo país (España). No es de acceso abierto: solo se comprobó el resumen. Financiación: no consta en los metadatos de Europe PMC; sin texto completo abierto no se pudo revisar.",
+  "fuente": "Ordaz-Castillo ME et al. Appetite 2026;216:108251",
+  "url": "https://doi.org/10.1016/j.appet.2025.108251",
+  "anio": 2026,
+  "nivel_evidencia": "ensayo aleatorizado (747 participantes, compra simulada)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, búsqueda por DOI: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1016%2Fj.appet.2025.108251%22&resultType=core&format=json (hitCount 1; PMID 40752788, sin PMCID). Resumen abierto; publicado en línea el 05/08/2025; volumen 216 (2026). WebSearch no lo encontró por título.",
+   "detalle": "747 participantes: 391 con sellos de advertencia chilenos y 356 con Nutri-Score, en una compra semanal simulada en un supermercado virtual. Resultado principal: sin diferencias en el porcentaje de productos frescos y poco procesados ni en el perfil nutricional. Comparación inicial: energía −6,6 kcal/100 g (p = 0,05) y proteína −0,4 g/100 g (p = 0,04). Análisis secundario ajustado: azúcar +0,63 g/100 g (p = 0,01) y proteína −0,44 g/100 g (p = 0,02). Título: «Randomised controlled trial on the effect of Chilean nutritional warning labels versus nutri-score in food purchasing intentions».",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC con curl.exe: búsqueda REST por DOI (resumen completo, metadatos y tipo de publicación, ensayo controlado aleatorizado). Sin texto completo abierto: la verificación se limita al resumen."
+   }
+  },
+  "gancho": "Sellos chilenos frente a Nutri-Score: la misma proporción de frescos en la cesta",
+  "por_que_sorprende": "Dos sistemas de etiquetado muy distintos en diseño dieron la misma proporción de frescos y poco procesados en una cesta simulada."
+ },
+ {
+  "id": "S2-06",
+  "tema": "ultraprocesados: medición con NOVA",
+  "enunciado": "En una revisión sistemática de 2026 con 30 estudios, los instrumentos que miden el consumo de ultraprocesados según NOVA mostraron una validez variable frente a métodos de referencia, con correlaciones habituales de 0,47 a 0,72.",
+  "veredicto": "matizado",
+  "matiz": "Revisión sobre herramientas de medición, no sobre salud. La fiabilidad (repetir la medición) fue de moderada a alta; la validez depende del método de referencia, que los propios autores piden mejorar. Según el resumen, 15 estudios tuvieron bajo riesgo de sesgo y 15 riesgo incierto. El acuerdo entre sistemas de clasificación varía mucho (kappa de 0,36 a 0,84). No es de acceso abierto: solo se comprobó el resumen. Financiación (metadatos de Europe PMC): varias ayudas públicas y de fundaciones, entre ellas del Ministerio de Ciencia e Innovación, el Instituto de Salud Carlos III, la Comunidad de Madrid, la Comisión Europea y la Fundación Ramón Areces. El resumen indica registro en PROSPERO (CRD420251135087).",
+  "fuente": "Cavero-Redondo I et al. Am J Clin Nutr 2026;123(5):101263",
+  "url": "https://doi.org/10.1016/j.ajcnut.2026.101263",
+  "anio": 2026,
+  "nivel_evidencia": "revisión sistemática (30 estudios de validez y fiabilidad)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, búsqueda por DOI: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1016%2Fj.ajcnut.2026.101263%22&resultType=core&format=json (hitCount 1; PMID 41796966, sin PMCID). Resumen abierto; también aparece en WebSearch por título.",
+   "detalle": "Búsqueda hasta el 12/01/2026 en PubMed/MEDLINE, Scopus y Web of Science; 30 estudios: 19 de instrumentos de consumo (cuestionarios de frecuencia con NOVA, cribados o puntuaciones), 4 de biomarcadores o indirectos y 7 auxiliares. Fiabilidad test-retest (CCI) ≈ 0,46–0,94; validez relativa r ≈ 0,47–0,72 (el resumen dice «typically»); acuerdo entre sistemas κ ≈ 0,36–0,84. Riesgo de sesgo (COSMIN): 15 bajo y 15 incierto.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC con curl.exe: búsqueda REST por DOI (resumen completo y metadatos de financiación). Sin texto completo abierto: la verificación se limita al resumen."
+   }
+  },
+  "gancho": "Medir los ultraprocesados con NOVA: fiable al repetir, variable al validar",
+  "por_que_sorprende": "Repetir la medición da resultados aceptables, pero la validez de los cuestionarios sobre ultraprocesados depende del método de referencia."
+ },
+ {
+  "id": "S2-07",
+  "tema": "ultraprocesados: definiciones",
+  "enunciado": "Una revisión sistemática de 2025 identificó seis sistemas para clasificar los alimentos ultraprocesados o muy procesados (NOVA entre ellos), y uno de ellos, Siga, incluye cortes cuantitativos de azúcar, grasa y sal.",
+  "veredicto": "matizado",
+  "matiz": "Compara definiciones; no mide consumo ni salud. La búsqueda terminó el 18/12/2023, así que no recoge lo publicado después. Se limitó a artículos en inglés y no incluyó literatura gris; según el texto completo, la revisión no se registró ni tuvo protocolo. Los autores llaman a Siga un paso «valioso, pero no final» y dicen que podría servir de referencia para una definición operativa futura. Acceso abierto. Financiación (texto completo): Fondo de Investigación de Tasas sobre Productos Agrícolas de Noruega (FFL) y fondos de investigación del Acuerdo Agrícola de Noruega (JA), a través del Consejo de Investigación de Noruega (RCN), proyecto 341006; los financiadores no intervinieron en el diseño ni en la redacción.",
+  "fuente": "Medin AC et al. Food & Nutrition Research 2025;69 (DOI 10.29219/fnr.v69.12217)",
+  "url": "https://doi.org/10.29219/fnr.v69.12217",
+  "anio": 2025,
+  "nivel_evidencia": "revisión sistemática (6 sistemas de clasificación)",
+  "riesgo_publicar": "bajo",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, búsqueda por DOI: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.29219%2Ffnr.v69.12217%22&resultType=core&format=json (hitCount 1; PMID 40655201, PMCID PMC12255158), acceso abierto; también aparece en WebSearch por título.",
+   "detalle": "Revisión PRISMA en Medline, Embase y Web of Science, con búsqueda cerrada el 18/12/2023 y sin participantes humanos. Seis sistemas: NOVA, EPIC, IFPRI, UNC, UP3 y Siga. Según el resumen, NOVA, EPIC y Siga dan ejemplos de técnicas de procesado; Siga incluye cortes cuantitativos de azúcar, grasa y sal, e IFPRI y UP3 no los tienen cuantitativos. Conclusión del resumen (en inglés): «none specifies processing techniques clearly», al comparar la categoría de ultraprocesados de NOVA con la de los otros cinco sistemas.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC con curl.exe: búsqueda REST por DOI (resumen completo y metadatos) y texto completo fullTextXML del PMCID PMC12255158, donde leí la declaración de financiación, la falta de registro y las limitaciones."
+   }
+  },
+  "gancho": "Ultraprocesados: seis sistemas de clasificación con criterios distintos",
+  "por_que_sorprende": "NOVA es solo una de seis definiciones, y no todas describen el procesado de la misma forma."
+ },
+ {
+  "id": "S2-08",
+  "tema": "ultraprocesados: ensayos y peso",
+  "enunciado": "En una revisión de 2026 de 10 ensayos aleatorizados, los grupos con alimentos ultraprocesados subieron más de peso que los de alimentos menos procesados (diferencia estandarizada de 0,65), con una certeza de la evidencia baja.",
+  "veredicto": "matizado",
+  "matiz": "Las dietas comparadas no estaban emparejadas en nutrientes, así que el efecto del procesado no se aísla del de la composición ni de la densidad energética (según el propio resumen). La ingesta de energía tendió a ser mayor en los grupos ultraprocesados, pero la significación varió según el modelo. El resumen no indica la duración de los ensayos. No es de acceso abierto: solo se comprobó el resumen. Financiación: no consta en los metadatos de Europe PMC; sin texto completo abierto no se pudo revisar.",
+  "fuente": "Robinson E et al. Crit Rev Food Sci Nutr 2026 (publicación en línea)",
+  "url": "https://doi.org/10.1080/10408398.2026.2731838",
+  "anio": 2026,
+  "nivel_evidencia": "metaanálisis de ensayos aleatorizados (10 estudios)",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, búsqueda por DOI: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.1080%2F10408398.2026.2731838%22&resultType=core&format=json (hitCount 1; PMID 42746678, sin PMCID). Resumen; publicado en línea el 16/09/2026. WebSearch no lo encontró por título.",
+   "detalle": "Revisión sistemática y metaanálisis de ECA, preregistrada (sin número de registro en el resumen); 10 estudios elegibles. Ingesta de energía: SMD 0,18–0,44, con significación variable según el modelo. Aumento de peso: SMD 0,65 (significativo). Velocidad de ingesta: SMD 0,96 (significativo). Sin diferencias significativas en palatabilidad ni en sensaciones de apetito. Certeza baja, según el resumen.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC con curl.exe: búsqueda REST por DOI (resumen completo, autores, fechas y tipo de publicación). Sin texto completo abierto: la verificación se limita al resumen."
+   }
+  },
+  "gancho": "Ultraprocesados en ensayos: más peso, con evidencia de certeza baja",
+  "por_que_sorprende": "Los ensayos comparan dietas que no igualan nutrientes, así que no aíslan el efecto del procesado."
+ },
+ {
+  "id": "S2-09",
+  "tema": "etiquetado: azúcar en productos infantiles",
+  "enunciado": "En 100 productos envasados dirigidos a niños y vendidos en tres cadenas de supermercados de Valencia, el grado del Nutri-Score se correlacionó de forma moderada con el azúcar total declarado en la etiqueta (ρ = 0,515), y un cereal de desayuno con nota A llegó a 22,4 g de azúcar por 100 g.",
+  "veredicto": "matizado",
+  "matiz": "Estudio transversal de 100 productos en una sola ciudad: mide la relación entre grado y azúcar en el etiquetado, no el consumo ni la salud. Analiza el azúcar total declarado en la etiqueta, no el añadido, porque la normativa europea no obliga a declararlo por separado (según el texto completo). Los análisis por categoría son exploratorios: según el resumen, no superan la corrección de Bonferroni (α ajustado 0,006). Como el público es infantil y el estudio se enmarca en la salud bucodental (caries), el riesgo se marca como alto. Acceso abierto. Financiación: no consta financiación del estudio; según el texto completo, la Universidad Católica de Valencia San Vicente Mártir cubrió las tasas de publicación. Sin conflictos declarados.",
+  "fuente": "Marqués-Martínez L et al. Nutrients 2026;18(14):2401",
+  "url": "https://doi.org/10.3390/nu18142401",
+  "anio": 2026,
+  "nivel_evidencia": "estudio transversal (100 productos infantiles, 3 cadenas)",
+  "riesgo_publicar": "alto",
+  "poblaciones_en_riesgo": [
+   "niños (productos dirigidos a población infantil)",
+   "personas con riesgo de caries dental"
+  ],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Europe PMC, búsqueda por DOI: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:%2210.3390%2Fnu18142401%22&resultType=core&format=json (hitCount 1; PMID 42514470, PMCID PMC13415646), acceso abierto; publicado el 22/07/2026. WebSearch no lo encontró por título.",
+   "detalle": "100 productos envasados con Nutri-Score dirigidos a niños, de tres cadenas de Valencia, en ocho categorías. Correlación de Spearman entre grado y azúcar: ρ = 0,515 (p < 0,001). Cereal de desayuno con nota A: 22,4 g/100 g; bebida de leche aromatizada con nota B: 22,1 g/100 g. Las asociaciones por categoría no superan Bonferroni (α ajustado 0,006). Limitaciones del texto completo: se analizó el azúcar total de la etiqueta, y los análisis por categoría son exploratorios por el escaso número de productos en algunas categorías.",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Europe PMC con curl.exe: búsqueda REST por DOI (resumen y metadatos) y texto completo fullTextXML del PMCID PMC13415646, donde leí la declaración de financiación, conflictos y limitaciones."
+   }
+  },
+  "gancho": "Nutri-Score en productos infantiles: un cereal con nota A llega a 22,4 g de azúcar",
+  "por_que_sorprende": "El grado del Nutri-Score sigue al azúcar solo de forma moderada, y el propio estudio lo enmarca en la salud bucodental."
+ },
+ {
+  "id": "S2-10",
+  "tema": "edulcorantes: recomendación de la OMS",
+  "enunciado": "La OMS recomienda desde 2023 no usar edulcorantes sin azúcar para controlar el peso ni para reducir el riesgo de enfermedades no transmisibles, con una recomendación condicional que no se aplica a personas con diabetes previa.",
+  "veredicto": "respaldado",
+  "matiz": "La nota de prensa de la OMS dice que la recomendación se basa en una revisión sistemática: no hay beneficio a largo plazo sobre la grasa corporal ni en adultos ni en niños, y el uso prolongado podría tener efectos no deseados, como más riesgo de diabetes tipo 2, enfermedades cardiovasculares y mortalidad en adultos. La califica de «condicional» porque la asociación observada podría estar confundida por características basales de los participantes y por patrones complejos de uso, lo que puede exigir un debate sustancial en cada contexto nacional. Se aplica a todas las personas salvo quienes tienen diabetes preexistente; no se aplica a los productos de higiene y cuidado personal (pasta de dientes, cremas), ni a los medicamentos, ni a los polialcoholes ni a los azúcares de bajo valor calórico. No se comprobó si hay una actualización posterior. Se marca riesgo alto porque menciona enfermedades no transmisibles.",
+  "fuente": "OMS, Use of non-sugar sweeteners: WHO guideline (nota de prensa de 15/05/2023)",
+  "url": "https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline",
+  "anio": 2023,
+  "nivel_evidencia": "guía de la OMS (recomendación condicional)",
+  "riesgo_publicar": "alto",
+  "poblaciones_en_riesgo": [
+   "personas con diabetes preexistente (excluidas de la recomendación)"
+  ],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-09",
+   "via": "Página oficial de la OMS: nota de prensa de 15/05/2023 (who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline), abierta y leída el 09/10/2026.",
+   "detalle": "La OMS recomienda en contra del uso de edulcorantes sin azúcar (NSS) para controlar el peso corporal o reducir el riesgo de enfermedades no transmisibles, con una recomendación calificada como «conditional». Se aplica a todas las personas salvo quienes tienen diabetes preexistente; no se aplica a productos de higiene y cuidado personal ni a medicamentos, ni a los polialcoholes y azúcares de bajo valor calórico. Base que da la propia nota: revisión sistemática de la evidencia; no hay beneficio a largo plazo sobre la grasa corporal en adultos ni niños, y posibles efectos no deseados del uso prolongado (diabetes tipo 2, enfermedad cardiovascular, mortalidad en adultos). Documento citado: «Use of non-sugar sweeteners: WHO guideline».",
+   "verificador_independiente": {
+    "fecha": "2026-10-09",
+    "via": "Página oficial de la OMS (nota de prensa del 15/05/2023) descargada con curl.exe y leída en texto: datePublished 2023-05-15 en el HTML; calificación «conditional», exclusiones y base de la recomendación leídas en el texto. Ficha de la publicación de la guía (who.int/publications/i/item/9789240073616), descargada con curl.exe: «Use of non-sugar sweeteners: WHO guideline», 15 May 2023, ISBN 978-92-4-007361-6; la ficha no muestra versión ni revisiones posteriores, y no se buscó otra actualización."
+   }
+  },
+  "gancho": "La OMS desaconseja los edulcorantes sin azúcar para controlar el peso",
+  "por_que_sorprende": "Es una recomendación condicional de 2023 que no se aplica a personas con diabetes previa."
+ }
+]

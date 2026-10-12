@@ -1,0 +1,1093 @@
+[
+  {
+    "id": "DEB-001",
+    "tema": "debate - huevo y enfermedad cardiovascular (cohortes de EE. UU. y metaanálisis)",
+    "enunciado": "En tres cohortes de EE. UU. con seguimiento de hasta 32 años, comer al menos un huevo al día no se asoció a más enfermedad cardiovascular (HR 0,93; IC 95 % 0,82 a 1,05, frente a menos de un huevo al mes). En el metaanálisis de cohortes, un huevo más al día tampoco (RR 0,98; IC 95 % 0,93 a 1,03).",
+    "veredicto": "matizado",
+    "matiz": "Es observacional: quien comía más huevo tenía más IMC, tomaba menos estatinas y comía más carne roja, y la mayoría comía entre uno y menos de cinco huevos por semana. Por regiones: sin asociación en EE. UU. (RR 1,01) ni en Europa (RR 1,05) y asociación inversa en Asia (RR 0,92).",
+    "fuente": "Drouin-Chartier JP et al. BMJ 2020;368:m513",
+    "url": "https://doi.org/10.1136/bmj.m513",
+    "anio": 2020,
+    "nivel_evidencia": "cohortes prospectivas y metaanálisis de cohortes",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "personas con diabetes (ver DEB-002)"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen abierto por DOI por un investigador y vuelto a abrir por el asistente (DOI 10.1136/bmj.m513)",
+      "detalle": "Tres cohortes de EE. UU. (83.349 mujeres del NHS, 90.214 del NHS II y 42.055 hombres del HPFS), hasta 32 años de seguimiento, 14.806 casos de enfermedad cardiovascular. En el análisis conjunto, consumir al menos un huevo al día no se asoció con enfermedad cardiovascular tras ajustar (HR 0,93; IC 95 % 0,82 a 1,05 frente a menos de un huevo al mes). En el metaanálisis actualizado de cohortes prospectivas (33 estimaciones, 1.720.108 participantes), un huevo más al día no se asoció con el riesgo (RR 0,98; IC 95 % 0,93 a 1,03; I2 = 62,3 %). Por regiones: EE. UU. 1,01 (0,96 a 1,06), Europa 1,05 (0,92 a 1,19) y Asia 0,92 (0,85 a 0,99). Conclusión de los autores: el consumo moderado de huevo (hasta uno al día) no se asocia con el riesgo cardiovascular en conjunto."
+    },
+    "debate": "huevo-colesterol",
+    "corriente": "sin más riesgo cardiovascular",
+    "postura": "a"
+  },
+  {
+    "id": "DEB-002",
+    "tema": "debate - huevo, cardiopatía coronaria e ictus en un metaanálisis dosis-respuesta",
+    "enunciado": "En un metaanálisis dosis-respuesta de cohortes, un huevo más al día no se asoció a más cardiopatía coronaria (RR 0,99; IC 95 % 0,85 a 1,15) ni a más ictus (RR 0,91; 0,81 a 1,02). En el subgrupo de personas con diabetes, el RR de cardiopatía coronaria al comparar el mayor con el menor consumo de huevo fue 1,54 (IC 95 % 1,14 a 2,09).",
+    "veredicto": "matizado",
+    "matiz": "El dato de diabetes es un subgrupo, no el objetivo principal, y los autores piden más estudios. También vieron un 25 % menos de riesgo de ictus hemorrágico con mayor consumo de huevo (IC 95 % 0,57 a 0,99). Son cohortes: no prueban causa.",
+    "fuente": "Rong Y et al. BMJ 2013;346:e8539",
+    "url": "https://doi.org/10.1136/bmj.e8539",
+    "anio": 2013,
+    "nivel_evidencia": "metaanálisis dosis-respuesta de cohortes prospectivas",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con diabetes"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen abierto por DOI por un investigador y vuelto a abrir por el asistente (DOI 10.1136/bmj.e8539)",
+      "detalle": "Ocho artículos con 17 informes (nueve de cardiopatía coronaria y ocho de ictus). El riesgo relativo resumido de cardiopatía coronaria por cada huevo más al día fue 0,99 (IC 95 % 0,85 a 1,15; P = 0,88; I2 = 0 %); para ictus, 0,91 (0,81 a 1,02; P = 0,10). En el subgrupo de población con diabetes, el riesgo relativo de cardiopatía coronaria al comparar el mayor con el menor consumo fue 1,54 (1,14 a 2,09; P = 0,01). Quienes comían más huevo tenían un 25 % menos riesgo de ictus hemorrágico (0,57 a 0,99; P = 0,04). Conclusión de los autores: un mayor consumo de huevo (hasta un huevo al día) no se asocia con más riesgo de cardiopatía coronaria o ictus; el mayor riesgo en diabéticos y el menor de ictus hemorrágico en los subgrupos merecen más estudios."
+    },
+    "debate": "huevo-colesterol",
+    "corriente": "sin más riesgo, salvo en la diabetes",
+    "postura": "a"
+  },
+  {
+    "id": "DEB-003",
+    "tema": "debate - huevo, colesterol de la dieta y enfermedad cardiovascular (seis cohortes de EE. UU.)",
+    "enunciado": "En seis cohortes de EE. UU., cada medio huevo más al día se asoció a más enfermedad cardiovascular (HR ajustado 1,06; es decir, un 6 % más de riesgo relativo; IC 95 % 1,03 a 1,10), pero esa asociación dejó de ser significativa al ajustar por el colesterol de la dieta (HR 0,99; IC 95 % 0,93 a 1,05). Cada 300 mg de colesterol de la dieta al día se asoció a un HR de 1,17 (IC 95 % 1,09 a 1,26).",
+    "veredicto": "matizado",
+    "matiz": "Es observacional y no prueba causa. El riesgo absoluto añadido por medio huevo al día fue de 1,11 % (IC 95 % 0,32 % a 1,89 %). Que la asociación del huevo desaparezca al ajustar por colesterol indica que la dieta cuenta, no solo el huevo: los huevos son una fuente principal de colesterol de la dieta.",
+    "fuente": "Zhong VW et al. JAMA 2019;321(11):1081-1095",
+    "url": "https://doi.org/10.1001/jama.2019.1572",
+    "anio": 2019,
+    "nivel_evidencia": "cohortes prospectivas (datos individuales agrupados)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con LDL alto o enfermedad cardiovascular"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen abierto por DOI por un investigador y vuelto a abrir por el asistente (DOI 10.1001/jama.2019.1572)",
+      "detalle": "Datos individuales de 6 cohortes prospectivas de EE. UU. (29.615 participantes, mediana de seguimiento de 17,5 años, 5.400 casos de enfermedad cardiovascular). Cada 300 mg más de colesterol de la dieta al día se asoció con más enfermedad cardiovascular (HR ajustado 1,17; IC 95 % 1,09 a 1,26; diferencia de riesgo absoluto 3,24 %). Cada medio huevo más al día se asoció significativamente con más enfermedad cardiovascular (HR ajustado 1,06; IC 95 % 1,03 a 1,10; diferencia de riesgo absoluto 1,11 %; IC 95 % 0,32 % a 1,89 %). Las asociaciones entre el consumo de huevo y la enfermedad cardiovascular (HR ajustado 0,99; IC 95 % 0,93 a 1,05) y la mortalidad total (HR ajustado 1,03; IC 95 % 0,97 a 1,09) dejaron de ser significativas tras ajustar por el consumo de colesterol de la dieta."
+    },
+    "debate": "huevo-colesterol",
+    "corriente": "más riesgo por el colesterol de la dieta",
+    "postura": "b"
+  },
+  {
+    "id": "DEB-004",
+    "tema": "debate - huevo, colesterol de la dieta y mortalidad (cohorte ATBC y metaanálisis)",
+    "enunciado": "En un metaanálisis de cohortes, cada 50 g de huevo más al día se asoció a más riesgo cardiovascular (RR 1,04; IC 95 % 1,00 a 1,08), con una heterogeneidad muy alta (I2 = 80,1 %). En las cohortes de EE. UU. el RR fue 1,08 (IC 95 % 1,02 a 1,14) y en las asiáticas no hubo asociación.",
+    "veredicto": "matizado",
+    "matiz": "El efecto es pequeño y el límite inferior del intervalo es 1,00. En la cohorte ATBC (27.078 hombres), cada 50 g de huevo al día se asoció con un HR de 1,06 para la mortalidad total y de 1,09 para la mortalidad por enfermedad cardiovascular. Son cohortes: no prueban causa.",
+    "fuente": "Zhao B et al. Circulation 2022;145(20):1506-1520",
+    "url": "https://doi.org/10.1161/circulationaha.121.057642",
+    "anio": 2022,
+    "nivel_evidencia": "cohorte prospectiva y metaanálisis de cohortes",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con LDL alto o enfermedad cardiovascular"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen abierto por DOI por un investigador y vuelto a abrir por el asistente (DOI 10.1161/circulationaha.121.057642)",
+      "detalle": "Análisis prospectivo de 27.078 hombres de la cohorte ATBC (482.316 personas-año, 22.035 muertes, 9.110 por enfermedad cardiovascular) y metaanálisis de cohortes. Mayor consumo de colesterol de la dieta y de huevo se asoció con más riesgo de mortalidad total y por enfermedad cardiovascular: HR de 1,10 y 1,13 por cada 300 mg de colesterol al día, y de 1,06 y 1,09 por cada 50 g de huevo al día. En el metaanálisis, un huevo adicional de 50 g al día se asoció con más riesgo de enfermedad cardiovascular (riesgo relativo agrupado 1,04; IC 95 % 1,00 a 1,08; I2 = 80,1 %). Por regiones, 1,08 (IC 95 % 1,02 a 1,14) en cohortes de EE. UU. y 1,05 en cohortes europeas con significación límite; sin asociación en cohortes asiáticas."
+    },
+    "debate": "huevo-colesterol",
+    "corriente": "algo más de riesgo en algunas cohortes",
+    "postura": "b"
+  },
+  {
+    "id": "DEB-005",
+    "tema": "debate - huevo y colesterol LDL en ensayos aleatorizados",
+    "enunciado": "En un metaanálisis de 17 ensayos aleatorizados con personas sanas, el grupo que comió más huevo tuvo más LDL que el grupo control (diferencia de medias 8,14) y un cociente LDL/HDL más alto (diferencia de medias 0,14).",
+    "veredicto": "respaldado",
+    "matiz": "El resumen no da las unidades de la diferencia de medias, así que no se traduce a mg/dL ni a mmol/L. Mide colesterol, no infartos, y los autores piden ensayos de más duración. El efecto parecía mayor en las intervenciones de más de dos meses.",
+    "fuente": "Li MY et al. Nutrients 2020;12(7):1995",
+    "url": "https://doi.org/10.3390/nu12071995",
+    "anio": 2020,
+    "nivel_evidencia": "metaanálisis de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen abierto por DOI por un investigador y vuelto a abrir por el asistente (DOI 10.3390/nu12071995)",
+      "detalle": "Se incluyeron 17 ensayos aleatorizados con consumo de huevo en poblaciones sanas. El grupo de mayor consumo de huevo tuvo un cociente LDL/HDL más alto que el control (diferencia de medias 0,14; p = 0,001; I2 = 25 %) y más LDL que el control (diferencia de medias 8,14; I2 = 18 %). En las intervenciones de más de dos meses el efecto pareció mayor que en las de menos de dos meses. Los autores concluyen que un consumo de huevo más prolongado puede llevar a un cociente LDL/HDL y un LDL más altos, y piden ensayos de seguimiento largo."
+    },
+    "debate": "huevo-colesterol",
+    "corriente": "sube el LDL en ensayos",
+    "postura": "b"
+  },
+  {
+    "id": "DEB-006",
+    "debate": "ldl-lowcarb",
+    "corriente": "las dietas cetogénicas suben el LDL",
+    "postura": "a",
+    "tema": "debate - LDL con dieta cetogénica: sube el LDL y mejoran otros marcadores (revisión de ensayos y cohortes)",
+    "enunciado": "En una revisión de 24 estudios (20 ensayos aleatorizados y más de 47.000 participantes), las dietas cetogénicas subieron el colesterol LDL una media de 12,2 mg/dL frente a otras dietas (IC 95 % 7,5 a 16,9), bajaron los triglicéridos 16,1 mg/dL (IC 95 % de -20,3 a -11,8) y mejoraron la glucosa en ayunas, la hemoglobina glicada, el peso y la presión sistólica.",
+    "veredicto": "matizado",
+    "matiz": "Los estudios eran de tipos y duraciones distintos (la variación entre ellos en el LDL fue alta, I2 = 67,7 %). Los autores concluyen que la evidencia sobre infarto, ictus o muerte cardiovascular es limitada, mixta y de certeza mayormente baja, y que apoya valorar el riesgo y el beneficio de cada persona más que adoptar la dieta para todos. Las cohortes sugirieron menos mortalidad total, pero no una reducción clara de la mortalidad cardiovascular.",
+    "fuente": "Liu H et al. BMC Cardiovascular Disorders 2026;26:859",
+    "url": "https://doi.org/10.1186/s12872-026-06189-7",
+    "anio": 2026,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ensayos y cohortes",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con colesterol LDL alto o enfermedad cardiovascular"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1186/s12872-026-06189-7)",
+      "detalle": "24 estudios (20 ensayos aleatorizados, 2 cohortes prospectivas, 1 ensayo clínico no aleatorizado y 1 intervención piloto; más de 47.000 participantes). Frente a las dietas control: LDL +12,2 mg/dL (IC 95 % 7,5 a 16,9; I2 = 67,7 %); triglicéridos -16,1 mg/dL (IC 95 % -20,3 a -11,8; I2 = 17,1 %); el colesterol total subió y el HDL subió de forma modesta; también mejoraron glucosa en ayunas, hemoglobina glicada, peso, índice de masa corporal y presión sistólica. Cohortes: menor mortalidad total, sin reducción clara de la mortalidad cardiovascular. Imagen de aterosclerosis: limitada y mixta."
+    }
+  },
+  {
+    "id": "DEB-007",
+    "debate": "ldl-lowcarb",
+    "corriente": "en personas delgadas el LDL puede subir mucho",
+    "postura": "a",
+    "tema": "debate - LDL con dieta cetogénica en adultos de peso normal (revisión)",
+    "enunciado": "En adultos con peso normal que siguen una dieta cetogénica, los ensayos de corta duración muestran subidas medias del colesterol LDL de entre 18 y 70 mg/dL, y no se ha estudiado de forma directa qué consecuencias tiene a largo plazo para las arterias.",
+    "veredicto": "matizado",
+    "matiz": "Es una revisión de la evidencia, no un ensayo nuevo. Se ha propuesto que esas subidas pueden ser benignas en personas metabólicamente sanas, pero los autores dicen que falta evidencia que lo respalde, y los pocos datos de imagen de las coronarias no establecen que sea seguro. Hay casos publicados en los que reintroducir entre 50 y 100 g diarios de carbohidratos revirtió buena parte de la subida; son casos, no ensayos, y no una pauta.",
+    "fuente": "DiMattia ZS, Petersen KS. Journal of the American Heart Association 2026;15:e048903",
+    "url": "https://doi.org/10.1161/jaha.125.048903",
+    "anio": 2026,
+    "nivel_evidencia": "revisión de la evidencia (ensayos cortos, datos de imagen e informes de casos)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con colesterol LDL muy alto o riesgo cardiovascular"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1161/jaha.125.048903)",
+      "detalle": "Revisión: los ensayos clínicos cortos en personas sanas con índice de masa corporal normal que siguen dietas cetogénicas notifican aumentos medios de LDL de 18 a 70 mg/dL. Los autores señalan que se ha propuesto que sean benignos en personas metabólicamente sanas pero falta evidencia que lo respalde; que las consecuencias a largo plazo en personas delgadas no se han estudiado directamente; que los datos de imagen coronaria son limitados y no establecen seguridad cardiovascular; y que informes de casos sugieren que reintroducir de 50 a 100 g/día de carbohidratos revierte buena parte de la subida."
+    }
+  },
+  {
+    "id": "DEB-008",
+    "debate": "ldl-lowcarb",
+    "corriente": "un LDL alto con dieta cetogénica no mostró más placa",
+    "postura": "b",
+    "tema": "debate - LDL con dieta cetogénica y placa en las coronarias (estudio KETO)",
+    "enunciado": "En 80 personas metabólicamente sanas con LDL de 190 mg/dL o más tras años de dieta cetogénica (LDL medio de 272 mg/dL, durante 4,7 años de media), la placa en las arterias coronarias no fue mayor que en un grupo emparejado con 149 mg/dL menos de LDL de media, y no hubo relación entre el LDL y la placa.",
+    "veredicto": "matizado",
+    "matiz": "Aunque se llama KETO Trial, es una comparación no aleatorizada: 80 personas escogidas (HDL de 60 mg/dL o más, triglicéridos de 80 mg/dL o menos, sin hipercolesterolemia familiar) frente a 80 de otra cohorte emparejadas con ellas, sin asignar la dieta al azar. Dura 4,7 años de media, así que no dice qué pasa a más largo plazo ni en otras personas. El calcio coronario fue una mediana de 0 (rango intercuartílico de 0 a 56) frente a 1 (de 0 a 49) en el grupo con menos LDL (P = 0,520); con esa muestra, que la diferencia no sea significativa no demuestra que no exista.",
+    "fuente": "Budoff M et al. JACC Advances 2024;3:101109",
+    "url": "https://doi.org/10.1016/j.jacadv.2024.101109",
+    "anio": 2024,
+    "nivel_evidencia": "comparación no aleatorizada con grupo emparejado (imagen de las coronarias)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con hipercolesterolemia familiar (excluidas del estudio)"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.jacadv.2024.101109)",
+      "detalle": "80 personas del grupo KETO (LDL de 190 mg/dL o más con restricción de carbohidratos, HDL de 60 mg/dL o más, triglicéridos de 80 mg/dL o menos, sin hipercolesterolemia familiar), emparejadas una a una por edad, sexo, raza, hiperlipidemia, hipertensión y tabaquismo con personas de la cohorte Miami Heart. Edad media emparejada 55,5 años; LDL medio 272 mg/dL (máximo 591) y 4,7 años de media con dieta cetogénica; LDL medio del grupo de comparación 123 mg/dL. Puntuación de calcio coronario: mediana 0 (rango intercuartílico 0 a 56) frente a 1 (0 a 49), P = 0,520. Puntuación total de placa en la angiografía por TAC: 0 (0 a 2) en el grupo KETO, P = 0,357. Sin correlación entre el LDL y la placa. Conclusión de los autores: la placa no es mayor que en una cohorte emparejada con 149 mg/dL menos de LDL de media."
+    }
+  },
+  {
+    "id": "DEB-009",
+    "debate": "grasa-saturada",
+    "corriente": "reducir la grasa saturada baja los eventos cardiovasculares",
+    "postura": "a",
+    "tema": "debate - grasa saturada: reducirla baja los eventos cardiovasculares (revisión Cochrane de ensayos)",
+    "enunciado": "En una revisión Cochrane de 15 ensayos aleatorizados (56.675 participantes), los ensayos de al menos dos años sugieren que reducir la grasa saturada rebaja un 17 % los eventos cardiovasculares combinados (riesgo relativo 0,83; IC 95 % 0,70 a 0,98; 12 ensayos; evidencia de calidad moderada), pero apenas cambió la mortalidad total (riesgo relativo 0,96; IC 95 % 0,90 a 1,03; 11 ensayos).",
+    "veredicto": "matizado",
+    "matiz": "Los autores ven útil sustituir la grasa saturada por grasa poliinsaturada o por hidratos de carbono (no hallaron diferencias significativas entre ambas) y no está claro el efecto de sustituirla por grasa monoinsaturada. Hay que reducirla unos cuatro años en 56 personas para que una evite un evento cardiovascular (53 en prevención secundaria). La mayor reducción de eventos se dio en los ensayos que consiguieron bajar más el colesterol. El efecto sobre el infarto total, el ictus y los eventos coronarios totales no está claro (calidad muy baja). No hallaron efectos dañinos de reducirla.",
+    "fuente": "Hooper L et al. Cochrane Database of Systematic Reviews 2020;8:CD011737",
+    "url": "https://doi.org/10.1002/14651858.cd011737.pub3",
+    "anio": 2020,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1002/14651858.cd011737.pub3)",
+      "detalle": "15 ensayos aleatorizados (16 comparaciones, 56.675 participantes) de al menos 24 meses. Eventos cardiovasculares combinados: riesgo relativo 0,83 (IC 95 % 0,70 a 0,98; 12 ensayos, 53.758 participantes; calidad moderada). Número necesario a tratar para un resultado beneficioso: 56 en prevención primaria (unos cuatro años) y 53 en prevención secundaria. Mortalidad total: riesgo relativo 0,96 (IC 95 % 0,90 a 1,03; 11 ensayos, 55.858 participantes; calidad moderada). Mortalidad cardiovascular: 0,95 (0,80 a 1,12; 10 ensayos, 53.421 participantes). Infarto no mortal: 0,97 (0,87 a 1,07). Mortalidad por cardiopatía coronaria: 0,97 (0,82 a 1,16). Sin diferencias significativas entre sustituir por grasa poliinsaturada o por hidratos de carbono; datos muy limitados para monoinsaturada y proteína. Sin evidencia de efectos dañinos."
+    }
+  },
+  {
+    "id": "DEB-010",
+    "debate": "grasa-saturada",
+    "corriente": "la grasa saturada por sí sola no se asocia a más riesgo",
+    "postura": "b",
+    "tema": "debate - grasa saturada: sin asociación con la mortalidad ni el corazón en cohortes (metaanálisis)",
+    "enunciado": "En un metaanálisis de estudios de cohortes (entre 90.501 y 339.090 participantes según el resultado), la ingesta de grasa saturada no se asoció con la mortalidad total (riesgo relativo 0,99; IC 95 % 0,91 a 1,09), la mortalidad cardiovascular (0,97; 0,84 a 1,12), la cardiopatía coronaria (1,06; 0,95 a 1,17), el ictus isquémico (1,02; 0,90 a 1,15) ni la diabetes tipo 2 (0,95; 0,88 a 1,03).",
+    "veredicto": "matizado",
+    "matiz": "Es observacional y los propios autores califican de «muy baja» la certeza de estas asociaciones. Para la mortalidad por cardiopatía coronaria no hubo una falta de asociación convincente (1,15; IC 95 % 0,97 a 1,36; P = 0,10). Las grasas trans sí se asociaron con más riesgo (mortalidad total 1,34; IC 95 % 1,16 a 1,56) con certeza moderada para los resultados coronarios, y las industriales, no las de rumiantes, con la mortalidad por cardiopatía coronaria (1,18; 1,04 a 1,33).",
+    "fuente": "de Souza RJ et al. BMJ 2015;351:h3978",
+    "url": "https://doi.org/10.1136/bmj.h3978",
+    "anio": 2015,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios observacionales",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1136/bmj.h3978)",
+      "detalle": "Grasa saturada, entre tres y 12 cohortes prospectivas por asociación (de cinco a 17 comparaciones con 90.501 a 339.090 participantes), riesgos relativos multivariables: mortalidad total 0,99 (IC 95 % 0,91 a 1,09), mortalidad cardiovascular 0,97 (0,84 a 1,12), cardiopatía coronaria total 1,06 (0,95 a 1,17), ictus isquémico 1,02 (0,90 a 1,15), diabetes tipo 2 0,95 (0,88 a 1,03); mortalidad por cardiopatía coronaria 1,15 (0,97 a 1,36; P = 0,10), sin falta de asociación convincente. Certeza de las asociaciones de grasa saturada: muy baja. Grasas trans totales: mortalidad total 1,34 (1,16 a 1,56), mortalidad coronaria 1,28 (1,09 a 1,50), cardiopatía coronaria 1,21 (1,10 a 1,33), ictus isquémico 1,07 (0,88 a 1,28), diabetes tipo 2 1,10 (0,95 a 1,27). Trans industriales frente a de rumiantes: mortalidad coronaria 1,18 (1,04 a 1,33) frente a 1,01 (0,71 a 1,43)."
+    }
+  },
+  {
+    "id": "DEB-011",
+    "debate": "grasa-saturada",
+    "corriente": "depende de con qué se sustituya",
+    "postura": "a",
+    "tema": "debate - grasa saturada: depende de con qué se sustituya (informe de la Asociación Americana del Corazón)",
+    "enunciado": "La Asociación Americana del Corazón concluyó en 2017 que los ensayos que cambiaron grasa saturada por aceite vegetal poliinsaturado redujeron la enfermedad cardiovascular en torno a un 30 %, mientras que sustituirla por hidratos de carbono sobre todo refinados y azúcares no se asocia con menos enfermedad cardiovascular y no la redujo en ensayos clínicos.",
+    "veredicto": "matizado",
+    "matiz": "Es un informe de una asociación médica (asesoramiento presidencial) que revisa la evidencia, no un ensayo. Su recomendación es cambiar grasa saturada por grasas insaturadas, sobre todo poliinsaturadas, dentro de un patrón de alimentación saludable como la dieta DASH o la mediterránea. Se apoya en que sustituir grasa saturada por insaturada baja el colesterol LDL, al que consideran una causa de la aterosclerosis.",
+    "fuente": "Sacks FM et al. Circulation 2017;136:e1-e23",
+    "url": "https://doi.org/10.1161/cir.0000000000000510",
+    "anio": 2017,
+    "nivel_evidencia": "informe de asesoramiento de una asociación médica (revisión de ensayos y cohortes)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1161/cir.0000000000000510)",
+      "detalle": "Resumen del asesoramiento: los ensayos aleatorizados que bajaron la grasa saturada de la dieta y la sustituyeron por aceite vegetal poliinsaturado redujeron la enfermedad cardiovascular en torno a un 30 %, una reducción similar a la de las estatinas. Los estudios observacionales prospectivos asocian menos grasa saturada y más poliinsaturada y monoinsaturada con menos enfermedad cardiovascular y menos mortalidad. La sustitución de la grasa saturada por hidratos de carbono sobre todo refinados y azúcares no se asocia con menos enfermedad cardiovascular y no la redujo en ensayos clínicos. Conclusión: bajar la grasa saturada y sustituirla por grasas insaturadas, sobre todo poliinsaturadas, reducirá la incidencia de enfermedad cardiovascular, dentro de un patrón de alimentación saludable como DASH o la dieta mediterránea."
+    }
+  },
+  {
+    "id": "DEB-012",
+    "debate": "aceites-semillas",
+    "corriente": "preocupación: más muertes al cambiar grasa saturada por linoleico",
+    "postura": "a",
+    "tema": "debate - aceites de semillas: más muertes en el ensayo de Sídney al cambiar grasa saturada por ácido linoleico",
+    "enunciado": "En el ensayo de Sídney recuperado (458 hombres con un evento coronario reciente, 1966-1973), el grupo que cambió grasa saturada por ácido linoleico (aceite de cártamo y su margarina) tuvo más muertes: 17,6 % frente a 11,8 % por todas las causas (cociente de riesgos 1,62; IC 95 % 1,00 a 2,64) y 17,2 % frente a 11,0 % por enfermedad cardiovascular; un metaanálisis actualizado de ensayos con ese ácido graso no mostró beneficio cardiovascular.",
+    "veredicto": "matizado",
+    "matiz": "Es un ensayo de un solo centro con hombres de 30 a 59 años que ya habían tenido un evento coronario, de los años sesenta y setenta y con datos recuperados décadas después. El grupo control no recibió instrucciones dietéticas concretas, y el resultado principal (mortalidad total) quedó en el límite de la significación (P = 0,05). El aceite era de cártamo, no el girasol, la soja o el maíz de uso habitual.",
+    "fuente": "Ramsden CE et al. BMJ 2013;346:e8707",
+    "url": "https://doi.org/10.1136/bmj.e8707",
+    "anio": 2013,
+    "nivel_evidencia": "ensayo aleatorizado (datos recuperados) y metaanálisis de ensayos",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con enfermedad coronaria"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1136/bmj.e8707)",
+      "detalle": "Estudio Sydney Diet Heart (ensayo simple ciego de 1966 a 1973): 458 hombres de 30 a 59 años con un evento coronario reciente; grupo de intervención 221, control 237. Sustitución de grasas saturadas por ácido linoleico omega 6 (aceite de cártamo y su margarina). Mortalidad: por todas las causas 17,6 % frente a 11,8 % (cociente de riesgos 1,62; IC 95 % 1,00 a 2,64; P = 0,05); cardiovascular 17,2 % frente a 11,0 % (1,70; 1,03 a 2,80; P = 0,04); cardiopatía coronaria 16,3 % frente a 10,1 % (1,74; 1,04 a 2,92; P = 0,04). Metaanálisis actualizado con estos datos: muerte por cardiopatía coronaria 1,33 (0,99 a 1,79; P = 0,06) y muerte por enfermedad cardiovascular 1,27 (0,98 a 1,65; P = 0,07), tendencias no significativas hacia más riesgo. Conclusión: ningún beneficio cardiovascular demostrado del ácido linoleico en lugar de la grasa saturada."
+    }
+  },
+  {
+    "id": "DEB-013",
+    "debate": "aceites-semillas",
+    "corriente": "tranquilizador: más linoleico en sangre, menos riesgo cardiovascular",
+    "postura": "b",
+    "tema": "debate - aceites de semillas: más ácido linoleico en sangre, menos riesgo cardiovascular (30 cohortes)",
+    "enunciado": "En un análisis agrupado de 30 estudios de cohortes (68.659 participantes y 15.198 eventos cardiovasculares), tener más ácido linoleico, el principal omega 6 de la dieta, en sangre y en grasa corporal se asoció a menos riesgo: enfermedad cardiovascular total 0,93 (IC 95 % 0,88 a 0,99), mortalidad cardiovascular 0,78 (0,70 a 0,85) e ictus isquémico 0,88 (0,79 a 0,98).",
+    "veredicto": "matizado",
+    "matiz": "Mide niveles en sangre y tejidos, que reflejan lo que se come pero no equivalen al consumo de un aceite concreto; es observacional, así que no demuestra causa. Para la cardiopatía coronaria la asociación no fue significativa (0,94; IC 95 % 0,88 a 1,00). Los resultados son por cada diferencia entre el punto medio del quintil más bajo y el del más alto.",
+    "fuente": "Marklund M et al. Circulation 2019;139:2422-2436",
+    "url": "https://doi.org/10.1161/circulationaha.118.038908",
+    "anio": 2019,
+    "nivel_evidencia": "análisis agrupado de 30 cohortes prospectivas con biomarcadores",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1161/circulationaha.118.038908)",
+      "detalle": "Consorcio mundial de 30 estudios prospectivos de 13 países, con medianas de seguimiento de 2,5 a 31,9 años: 15.198 eventos cardiovasculares entre 68.659 participantes. Riesgos por cada rango entre quintiles (entre el punto medio del primero y el del quinto) del ácido linoleico: enfermedad cardiovascular total 0,93 (IC 95 % 0,88 a 0,99), mortalidad cardiovascular 0,78 (0,70 a 0,85), ictus isquémico 0,88 (0,79 a 0,98), cardiopatía coronaria 0,94 (0,88 a 1,00; no significativo). Ácido araquidónico: los niveles más altos se asociaron con menos enfermedad cardiovascular total (0,92; 0,86 a 0,99) al comparar los quintiles extremos. Conclusión de los autores: apoyan un papel favorable del ácido linoleico en la prevención cardiovascular."
+    }
+  },
+  {
+    "id": "DEB-014",
+    "debate": "aceites-semillas",
+    "corriente": "tranquilizador: el linoleico no sube la inflamación en ensayos",
+    "postura": "b",
+    "tema": "debate - aceites de semillas: el ácido linoleico no subió marcadores de inflamación en ensayos con personas sanas",
+    "enunciado": "En una revisión de 15 ensayos aleatorizados en personas sanas (ocho en paralelo y siete cruzados), tomar más ácido linoleico no subió marcadores de inflamación como la proteína C reactiva, el fibrinógeno o el factor de necrosis tumoral alfa: ninguno de los estudios halló diferencias significativas en esos marcadores.",
+    "veredicto": "matizado",
+    "matiz": "Son ensayos con personas sanas que midieron marcadores en sangre u orina, no enfermedades. Los autores concluyen que casi no hay evidencia de ensayos aleatorizados de que añadir ácido linoleico a la dieta aumente la inflamación. Los pocos cambios significativos (la excreción de prostaglandina E2 en un estudio y de otro metabolito en otro) no indicaban, según los propios autores, más inflamación.",
+    "fuente": "Johnson GH, Fritsche K. Journal of the Academy of Nutrition and Dietetics 2012;112:1029-1041",
+    "url": "https://doi.org/10.1016/j.jand.2012.03.029",
+    "anio": 2012,
+    "nivel_evidencia": "revisión sistemática de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.jand.2012.03.029)",
+      "detalle": "Quince estudios (ocho de grupos paralelos y siete cruzados) en personas sanas no lactantes. Ninguno halló resultados significativos para una gran variedad de marcadores de inflamación, entre ellos proteína C reactiva, fibrinógeno, inhibidor del activador del plasminógeno tipo 1, citocinas, moléculas solubles de adhesión vascular o factor de necrosis tumoral alfa. Solo hubo resultados significativos con más ácido linoleico en una mayor excreción de prostaglandina E2 y una menor de 2,3-dinor-tromboxano B2 en un estudio, y una mayor excreción de tetranorprostanedioico en otro; sus autores observaron que no indicaban más inflamación. Conclusión: casi no hay evidencia de ensayos aleatorizados en personas sanas que muestre que añadir ácido linoleico a la dieta aumente la concentración de marcadores de inflamación."
+    }
+  },
+  {
+    "id": "DEB-015",
+    "debate": "carne-roja",
+    "corriente": "la carne roja y procesada se asocia a más cáncer colorrectal",
+    "postura": "a",
+    "tema": "debate - carne roja y procesada: más cáncer colorrectal (metaanálisis de estudios prospectivos)",
+    "enunciado": "En un metaanálisis de estudios prospectivos, comer más carne roja y procesada se asoció a más cáncer colorrectal: riesgo relativo de 1,22 (IC 95 % 1,11 a 1,34) entre el consumo más alto y el más bajo, de 1,17 (1,05 a 1,31) por cada 100 g diarios de carne roja fresca y de 1,18 (1,10 a 1,28) por cada 50 g diarios de carne procesada.",
+    "veredicto": "matizado",
+    "matiz": "Es observacional y reúne estudios publicados hasta marzo de 2011. El riesgo subía de forma casi lineal hasta unos 140 g al día, donde se estabilizaba. Para el cáncer de recto, al separar la carne fresca y la procesada, no se vieron asociaciones significativas. Una asociación no demuestra que la carne sea la causa.",
+    "fuente": "Chan DS et al. PLoS ONE 2011;6:e20456",
+    "url": "https://doi.org/10.1371/journal.pone.0020456",
+    "anio": 2011,
+    "nivel_evidencia": "metaanálisis de estudios prospectivos",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con antecedentes de cáncer colorrectal"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1371/journal.pone.0020456)",
+      "detalle": "Metaanálisis de estudios prospectivos publicados hasta marzo de 2011, con modelo de efectos aleatorios. Cáncer colorrectal, consumo más alto frente al más bajo de carne roja y procesada: riesgo relativo 1,22 (IC 95 % 1,11 a 1,34); por cada 100 g diarios más: 1,14 (1,04 a 1,24). El riesgo aumenta de forma casi lineal hasta unos 140 g al día y se estabiliza. Carne roja fresca, por cada 100 g diarios: 1,17 (1,05 a 1,31); carne procesada, por cada 50 g diarios: 1,18 (1,10 a 1,28). Resultados similares para el cáncer de colon; para el de recto, sin asociaciones significativas al analizar por separado."
+    }
+  },
+  {
+    "id": "DEB-016",
+    "debate": "carne-roja",
+    "corriente": "el riesgo es muy pequeño y la evidencia, de certeza baja",
+    "postura": "b",
+    "tema": "debate - carne roja y procesada: asociación muy pequeña y evidencia de certeza baja (revisión de cohortes)",
+    "enunciado": "En una revisión de 55 cohortes con más de 4 millones de participantes, reducir en tres raciones semanales la carne roja sin procesar o la carne procesada se asoció a una reducción muy pequeña del riesgo cardiovascular y de diabetes tipo 2, y los autores calificaron la evidencia de certeza baja.",
+    "veredicto": "matizado",
+    "matiz": "Muy pequeña en riesgo no es lo mismo que sin efecto: la certeza baja significa que la evidencia no permite afirmarlo con firmeza en ninguna dirección. Los propios autores señalan un ajuste insuficiente por otros factores conocidos, confusión residual por ser estudios observacionales y errores de memoria al medir lo que se come. El resumen no da cifras de riesgo concretas.",
+    "fuente": "Zeraatkar D et al. Annals of Internal Medicine 2019;171:703-710",
+    "url": "https://doi.org/10.7326/m19-0655",
+    "anio": 2019,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de cohortes",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.7326/m19-0655)",
+      "detalle": "61 artículos sobre 55 cohortes con más de 4 millones de participantes; ninguno trató la calidad de vida ni la satisfacción con la dieta. Evidencia de certeza baja de que reducir en tres raciones semanales la carne roja sin procesar se asocia a una reducción muy pequeña del riesgo de mortalidad cardiovascular, ictus, infarto y diabetes tipo 2; y de que reducir en tres raciones semanales la carne procesada se asocia a una reducción muy pequeña de la mortalidad total, la cardiovascular, el ictus, el infarto y la diabetes tipo 2. Limitaciones: ajuste insuficiente por factores conocidos, confusión residual por el diseño observacional y sesgo de memoria. Conclusión: la magnitud de la asociación es muy pequeña y la evidencia, de certeza baja."
+    }
+  },
+  {
+    "id": "DEB-017",
+    "debate": "ayuno-intermitente",
+    "corriente": "comer en una ventana horaria no adelgaza más que reducir calorías",
+    "postura": "a",
+    "tema": "debate - ayuno intermitente: comer solo en una ventana de 8 horas no adelgazó más que reducir calorías (ensayo de 12 meses)",
+    "enunciado": "En un ensayo de 12 meses con 139 personas con obesidad, comer solo entre las 8:00 y las 16:00 además de reducir calorías no adelgazó significativamente más que reducir calorías sin horario: -8,0 kg frente a -6,3 kg, una diferencia de -1,8 kg que no fue estadísticamente significativa (IC 95 % de -4,0 a 0,4; P = 0,11).",
+    "veredicto": "respaldado",
+    "matiz": "Los dos grupos siguieron una dieta de 1.500 a 1.800 kcal diarias los hombres y de 1.200 a 1.500 las mujeres; completaron el seguimiento 118 de las 139 personas (84,9 %). Tampoco hubo diferencias relevantes en cintura, grasa corporal, presión arterial ni marcadores metabólicos, ni en los efectos adversos. Es un ensayo con personas con obesidad: no vale para otras situaciones.",
+    "fuente": "Liu D et al. The New England Journal of Medicine 2022;386:1495-1504",
+    "url": "https://doi.org/10.1056/nejmoa2114833",
+    "anio": 2022,
+    "nivel_evidencia": "ensayo aleatorizado de 12 meses",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1056/nejmoa2114833)",
+      "detalle": "139 pacientes con obesidad asignados al azar a comer solo entre las 8:00 y las 16:00 con restricción calórica o a restricción calórica diaria sola; durante 12 meses, todos con 1.500 a 1.800 kcal diarias (hombres) o 1.200 a 1.500 (mujeres). Completaron 118 (84,9 %). Pérdida media de peso a los 12 meses: -8,0 kg (IC 95 % -9,6 a -6,4) con horario y -6,3 kg (IC 95 % -7,8 a -4,7) sin él; diferencia neta -1,8 kg (IC 95 % -4,0 a 0,4; P = 0,11), no significativa. Cintura, índice de masa corporal, grasa, masa magra, presión arterial y factores de riesgo metabólico, coherentes con ese resultado. Sin diferencias importantes en eventos adversos. Conclusión: el horario no fue más beneficioso que la restricción calórica diaria."
+    }
+  },
+  {
+    "id": "DEB-018",
+    "debate": "ayuno-intermitente",
+    "corriente": "el ayuno en días alternos no adelgaza más y se abandona más",
+    "postura": "a",
+    "tema": "debate - ayuno intermitente: el ayuno en días alternos no adelgazó más que reducir calorías cada día (ensayo de un año)",
+    "enunciado": "En un ensayo de un año con 100 personas con obesidad, el ayuno en días alternos no adelgazó más que reducir un 25 % las calorías cada día (a los 12 meses, -6,0 % frente a -5,3 % del peso) y lo abandonó más gente: 38 % frente a 29 %.",
+    "veredicto": "respaldado",
+    "matiz": "Quienes seguían el ayuno en días alternos comieron más de lo indicado en los días de ayuno y menos en los de comida libre. A los 12 meses el colesterol LDL era 11,5 mg/dL más alto en el grupo de ayuno en días alternos que en el de restricción diaria (IC 95 % 1,9 a 21,1). La diferencia de pérdida de peso entre los dos grupos fue pequeña. Es un ensayo de un solo centro con personas con obesidad metabólicamente sanas.",
+    "fuente": "Trepanowski JF et al. JAMA Internal Medicine 2017;177:930-938",
+    "url": "https://doi.org/10.1001/jamainternmed.2017.0936",
+    "anio": 2017,
+    "nivel_evidencia": "ensayo aleatorizado de un año",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1001/jamainternmed.2017.0936)",
+      "detalle": "100 adultos con obesidad (18 a 64 años; índice de masa corporal medio 34; 86 mujeres y 14 hombres; edad media 44 años) asignados a ayuno en días alternos (25 % de las necesidades en los días de ayuno y 125 % en los alternos), a restricción calórica (75 % de las necesidades cada día) o a un grupo control sin intervención, durante un año (6 meses de pérdida de peso y 6 de mantenimiento). Abandono: 13 de 34 (38 %) con ayuno en días alternos, 10 de 35 (29 %) con restricción diaria y 8 de 31 (26 %) en el control. Pérdida de peso a los 6 meses: -6,8 % (IC 95 % -9,1 a -4,5) con ayuno frente a -6,8 % (-9,1 a -4,6) con restricción diaria; a los 12 meses: -6,0 % (-8,5 a -3,6) frente a -5,3 % (-7,6 a -3,0). El LDL fue 11,5 mg/dL (IC 95 % 1,9 a 21,1) más alto con el ayuno a los 12 meses. Conclusión: el ayuno en días alternos no logró mejor adherencia, pérdida de peso, mantenimiento ni protección cardiovascular."
+    }
+  },
+  {
+    "id": "DEB-019",
+    "debate": "ayuno-intermitente",
+    "corriente": "los regímenes de 2 o 3 días por semana adelgazaron más a corto plazo",
+    "postura": "b",
+    "tema": "debate - ayuno intermitente: más pérdida de peso a corto plazo con 2 o 3 días por semana (metaanálisis de ensayos)",
+    "enunciado": "En un metaanálisis de 11 ensayos aleatorizados (850 personas con sobrepeso u obesidad), los regímenes de restricción intermitente de 2 o 3 días por semana lograron una pérdida de peso a corto plazo mayor que la restricción continua de calorías, con mejoras metabólicas comparables.",
+    "veredicto": "matizado",
+    "matiz": "El resumen no da las cifras de la diferencia, y los autores piden ensayos más largos para confirmar lo observado. Hablan de restricción intermitente en días sueltos, no de comer dentro de una ventana horaria cada día.",
+    "fuente": "He S et al. Obesity 2021;29:108-115",
+    "url": "https://doi.org/10.1002/oby.23023",
+    "anio": 2021,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1002/oby.23023)",
+      "detalle": "Once ensayos aleatorizados (n = 850) en adultos con sobrepeso u obesidad que compararon la restricción energética intermitente (2 a 3 días por semana) con la continua. Mayor pérdida de peso absoluta, mayor porcentaje de pérdida de peso y mejor sensibilidad a la insulina con la intermitente. Conclusión: la restricción intermitente de 2 a 3 días por semana tuvo mayor efecto en la pérdida de peso a corto plazo que la continua, con mejoras metabólicas comparables; se necesitan ensayos más largos."
+    }
+  },
+  {
+    "id": "DEB-020",
+    "debate": "cafe",
+    "corriente": "el café se asocia a menos mortalidad con 3 o 4 tazas",
+    "postura": "a",
+    "tema": "debate - café: de tres a cuatro tazas al día se asocian a menos mortalidad (revisión paraguas de metaanálisis)",
+    "enunciado": "En una revisión paraguas de 201 metaanálisis de estudios observacionales y 17 de estudios de intervención, tomar de tres a cuatro tazas de café al día se asoció al mayor descenso de riesgo frente a no tomar: mortalidad total 0,83 (IC 95 % 0,79 a 0,88), mortalidad cardiovascular 0,81 (0,72 a 0,90) y enfermedad cardiovascular 0,85 (0,80 a 0,90).",
+    "veredicto": "matizado",
+    "matiz": "Salvo en el embarazo, las asociaciones dañinas desaparecían al ajustar bien por el tabaco. En el embarazo, un consumo alto frente a bajo o nulo se asoció a bajo peso al nacer (odds ratio 1,31; IC 95 % 1,03 a 1,67), a parto prematuro y a pérdida del embarazo (1,46; 1,06 a 1,99). También hubo asociación con fractura en mujeres, no en hombres. Es sobre todo observacional: los autores piden ensayos aleatorizados robustos para saber si la relación es causal.",
+    "fuente": "Poole R et al. BMJ 2017;359:j5024",
+    "url": "https://doi.org/10.1136/bmj.j5024",
+    "anio": 2017,
+    "nivel_evidencia": "revisión paraguas de metaanálisis, sobre todo observacionales",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazadas",
+      "mujeres con mayor riesgo de fractura"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1136/bmj.j5024)",
+      "detalle": "Revisión paraguas: 201 metaanálisis de investigación observacional (67 resultados de salud) y 17 de intervención (nueve resultados). Estimaciones resumen, de tres a cuatro tazas al día frente a ninguna: mortalidad por todas las causas 0,83 (IC 95 % 0,79 a 0,88); mortalidad cardiovascular 0,81 (0,72 a 0,90); enfermedad cardiovascular 0,85 (0,80 a 0,90). Consumo alto frente a bajo: 18 % menos de cáncer (0,82; 0,74 a 0,89). En embarazo, consumo alto frente a bajo o nulo: bajo peso al nacer, odds ratio 1,31 (1,03 a 1,67); parto prematuro en el primer trimestre 1,22 (1,00 a 1,49) y en el segundo 1,12 (1,02 a 1,22); pérdida del embarazo 1,46 (1,06 a 1,99). Asociación con fractura en mujeres, no en hombres. Conclusión: el café parece seguro con los niveles habituales y más probable de beneficiar que de dañar; fuera del embarazo podría probarse como intervención; las mujeres con riesgo de fractura quizá deberían excluirse."
+    }
+  },
+  {
+    "id": "DEB-021",
+    "debate": "cafe",
+    "corriente": "el café cambia el sueño y el ritmo del corazón en el día a día",
+    "postura": "b",
+    "tema": "debate - café: más extrasístoles y menos sueño los días con café (ensayo de 14 días)",
+    "enunciado": "En un ensayo con 100 adultos que durante 14 días tomaron o evitaron café con cafeína al azar, los días con café hubo más extrasístoles ventriculares (154 frente a 102 al día; razón de tasas 1,51; IC 95 % 1,18 a 1,94), más pasos (10.646 frente a 9.665) y 36 minutos menos de sueño por noche (397 frente a 432 minutos), pero no más extrasístoles auriculares (58 frente a 53; no significativo).",
+    "veredicto": "matizado",
+    "matiz": "El resultado principal, las extrasístoles auriculares, no fue significativo (razón de tasas 1,09; IC 95 % 0,98 a 1,20; P = 0,10). Solo duró 14 días, con adultos de 39 años de media, y la glucosa en sangre no cambió (95 frente a 96 mg/dL). El resumen no dice qué significan esas diferencias a largo plazo.",
+    "fuente": "Marcus GM et al. The New England Journal of Medicine 2023;388:1092-1100",
+    "url": "https://doi.org/10.1056/nejmoa2204737",
+    "anio": 2023,
+    "nivel_evidencia": "ensayo aleatorizado cruzado de 14 días",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1056/nejmoa2204737)",
+      "detalle": "Ensayo prospectivo, aleatorizado y cruzado con 100 adultos (edad media 39 ± 13 años; 51 % mujeres) con electrocardiograma continuo, acelerómetro de muñeca y monitor continuo de glucosa durante 14 días; mensajes diarios indicaban al azar tomar café con cafeína o evitar la cafeína. Resultado principal, extrasístoles auriculares diarias: 58 con café frente a 53 sin cafeína (razón de tasas 1,09; IC 95 % 0,98 a 1,20; P = 0,10). Extrasístoles ventriculares: 154 frente a 102 (razón de tasas 1,51; IC 95 % 1,18 a 1,94). Pasos diarios: 10.646 frente a 9.665 (diferencia 1.058; IC 95 % 441 a 1.675). Sueño por noche: 397 frente a 432 minutos (diferencia 36; IC 95 % 25 a 47). Glucosa: 95 frente a 96 mg/dL (diferencia -0,41; IC 95 % -5,42 a 4,60)."
+    }
+  },
+  {
+    "id": "DEB-022",
+    "debate": "ultraprocesados",
+    "corriente": "los ultraprocesados hacen comer más por sí mismos",
+    "postura": "a",
+    "tema": "debate - ultraprocesados: una dieta ultraprocesada hizo comer 508 kcal más al día en un ensayo con ingreso",
+    "enunciado": "En un ensayo con 20 adultos ingresados en un centro de los NIH (dos semanas con cada dieta, en orden aleatorio), con menús diseñados para igualarse en calorías ofrecidas, densidad energética, macronutrientes, azúcar, sodio y fibra, la dieta ultraprocesada hizo comer 508 kcal más al día y subir 0,9 kg, mientras que la dieta sin procesar hizo bajar 0,9 kg.",
+    "veredicto": "matizado",
+    "matiz": "Es un estudio pequeño (20 adultos con peso estable, de 31,2 años de media y un índice de masa corporal de 27) en un entorno controlado donde se servía la comida; no dice qué pasa fuera del centro ni a más largo plazo. Comieron más hidratos (280 kcal al día más) y más grasa (230 kcal al día más), pero no más proteína. Los participantes podían comer tanto o tan poco como quisieran.",
+    "fuente": "Hall KD et al. Cell Metabolism 2019;30:67-77",
+    "url": "https://doi.org/10.1016/j.cmet.2019.05.008",
+    "anio": 2019,
+    "nivel_evidencia": "ensayo aleatorizado cruzado con ingreso hospitalario",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.cmet.2019.05.008)",
+      "detalle": "20 adultos con peso estable (31,2 ± 1,6 años; índice de masa corporal 27 ± 1,5) ingresados en el Centro Clínico de los NIH y asignados al azar a una dieta ultraprocesada o a una sin procesar durante dos semanas, seguida de la otra dieta otras dos semanas. Menús diseñados para igualarse en calorías presentadas, densidad energética, macronutrientes, azúcar, sodio y fibra; comían tanto o tan poco como querían. Ingesta de energía mayor con la ultraprocesada: 508 ± 106 kcal al día (p = 0,0001), con más hidratos (280 ± 54 kcal al día) y más grasa (230 ± 53 kcal al día) pero no más proteína (-2 ± 12 kcal al día). Peso: +0,9 ± 0,3 kg con la ultraprocesada y -0,9 ± 0,3 kg con la sin procesar."
+    }
+  },
+  {
+    "id": "DEB-023",
+    "debate": "ultraprocesados",
+    "corriente": "el efecto puede deberse a la densidad energética, no al procesado",
+    "postura": "b",
+    "tema": "debate - ultraprocesados: el efecto en la ingesta varía con la densidad energética de los menús (metaanálisis de ensayos)",
+    "enunciado": "En un metaanálisis preregistrado de 10 ensayos aleatorizados, las dietas ultraprocesadas se asociaron a más aumento de peso (diferencia de medias estandarizada de 0,65) y a comer más deprisa (0,96), pero el efecto sobre la ingesta de energía varió según la densidad energética de los menús: 0,71 cuando eran más densos y 0,02 cuando era similar.",
+    "veredicto": "matizado",
+    "matiz": "La diferencia según la densidad energética sale de un análisis secundario (por subgrupos). Los autores indican que los menús comparados no estaban igualados en perfil de nutrientes y que la certeza de la evidencia es baja: los resultados pueden explicarse por la densidad energética de los alimentos usados hasta ahora. No hubo diferencias significativas en palatabilidad, en sensaciones de apetito ni en la ingesta más tarde en el día. Piden más investigación para saber si el grado de procesado afecta a la salud con independencia del perfil de nutrientes.",
+    "fuente": "Robinson E et al. Critical Reviews in Food Science and Nutrition 2026",
+    "url": "https://doi.org/10.1080/10408398.2026.2731838",
+    "anio": 2026,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1080/10408398.2026.2731838)",
+      "detalle": "Revisión sistemática y metaanálisis preregistrado de 10 ensayos aleatorizados que compararon alimentos ultraprocesados con menos procesados en la ingesta de energía o el peso. Las ramas ultraprocesadas tendieron a más ingesta de energía (diferencias de medias estandarizadas de 0,18 a 0,44), con significación variable según el modelo. El aumento de peso (0,65) y la velocidad al comer (0,96) fueron significativamente mayores. Sin diferencias significativas en palatabilidad, sensaciones de apetito ni energía ingerida más tarde en el día. Los menús no estaban igualados en perfil de nutrientes. El efecto sobre la ingesta fue 0,71 si los menús ultraprocesados eran más densos en energía y 0,02 si eran similares. Conclusión: los ultraprocesados pueden aumentar la ingesta y el peso, pero los resultados pueden explicarse por la densidad energética y la certeza es baja."
+    }
+  },
+  {
+    "id": "DEB-024",
+    "debate": "ultraprocesados",
+    "corriente": "en una cohorte española, más ultraprocesados y más sobrepeso",
+    "postura": "a",
+    "tema": "debate - ultraprocesados: más sobrepeso y obesidad en la cohorte española SUN",
+    "enunciado": "En la cohorte española SUN (8.451 universitarios de mediana edad seguidos una mediana de 8,9 años), quienes más ultraprocesados comían tuvieron más riesgo de desarrollar sobrepeso u obesidad: cociente de riesgos de 1,26 (IC 95 % 1,10 a 1,45) en el cuarto más alto frente al más bajo.",
+    "veredicto": "matizado",
+    "matiz": "Es observacional y se limita a universitarios españoles, que no representan a toda la población; el consumo se midió con un cuestionario de 136 alimentos. Se identificaron 1.939 casos de sobrepeso u obesidad durante el seguimiento. Los propios autores piden más estudios longitudinales para confirmarlo.",
+    "fuente": "Mendonça RD et al. The American Journal of Clinical Nutrition 2016;104:1433-1440",
+    "url": "https://doi.org/10.3945/ajcn.116.135004",
+    "anio": 2016,
+    "nivel_evidencia": "estudio de cohortes prospectivo",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.3945/ajcn.116.135004)",
+      "detalle": "Cohorte SUN (Universidad de Navarra): 8.451 titulados universitarios españoles de mediana edad sin sobrepeso ni obesidad al inicio, seguidos una mediana de 8,9 años; consumo de ultraprocesados medido con un cuestionario de frecuencia de 136 alimentos validado. 1.939 casos de sobrepeso u obesidad. Cociente de riesgos ajustado en el cuarto más alto de consumo frente al más bajo: 1,26 (IC 95 % 1,10 a 1,45; tendencia P = 0,001)."
+    }
+  },
+  {
+    "id": "DEB-025",
+    "debate": "ultraprocesados",
+    "corriente": "ni los especialistas se ponen de acuerdo en qué es un ultraprocesado",
+    "postura": "b",
+    "tema": "debate - ultraprocesados: baja coincidencia entre especialistas al clasificar alimentos con la escala NOVA",
+    "enunciado": "En una encuesta a especialistas franceses en alimentación y nutrición (159 evaluadores para 120 productos y 177 para 111 alimentos genéricos), la coincidencia al clasificar los alimentos en los grupos NOVA fue baja (kappa de Fleiss de 0,32 y 0,34, donde 1 es acuerdo total), incluso cuando tenían la información de los ingredientes.",
+    "veredicto": "matizado",
+    "matiz": "Hubo más acuerdo en algunos alimentos: 90 productos se asignaron en su mayoría al grupo 4, el de los ultraprocesados (el 91 % de las asignaciones). Es una encuesta a especialistas franceses sobre la clasificación, no un estudio de salud: no dice si los ultraprocesados dañan, solo que los criterios actuales no se aplican de forma uniforme.",
+    "fuente": "Braesco V et al. European Journal of Clinical Nutrition 2022;76:1245-1253",
+    "url": "https://doi.org/10.1038/s41430-022-01099-1",
+    "anio": 2022,
+    "nivel_evidencia": "encuesta a especialistas sobre la clasificación NOVA",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1038/s41430-022-01099-1)",
+      "detalle": "Especialistas franceses en alimentación y nutrición asignaron alimentos a los grupos NOVA en una encuesta en línea con dos listas: 120 productos con información de ingredientes y 111 alimentos genéricos sin ella. Kappa de Fleiss de 0,32 (159 evaluadores) para los productos y de 0,34 (177 evaluadores) para los genéricos. Tres grupos en los productos: uno con 90 alimentos asignados sobre todo al grupo 4 (91 % de las asignaciones) y dos con más heterogeneidad. Cuatro grupos en los genéricos: tres con alimentos asignados sobre todo a un solo grupo (del 69 % al 79 %) y uno con 28 alimentos con asignaciones más repartidas. Conclusión: los criterios NOVA actuales no permiten asignaciones robustas."
+    }
+  },
+  {
+    "id": "DEB-026",
+    "debate": "multivitaminicos",
+    "corriente": "un multivitamínico no protege el corazón",
+    "postura": "b",
+    "tema": "debate - multivitamínicos: sin efecto en los eventos cardiovasculares en médicos varones (ensayo de 11 años)",
+    "enunciado": "En un ensayo aleatorizado con 14.641 médicos varones de 50 años o más, tomar un multivitamínico diario durante una mediana de 11,2 años no redujo los eventos cardiovasculares importantes frente a placebo: 11,0 frente a 10,8 por 1.000 personas-año (cociente de riesgos 1,01; IC 95 % 0,91 a 1,10).",
+    "veredicto": "respaldado",
+    "matiz": "Tampoco hubo efecto sobre el infarto (0,93; IC 95 % 0,80 a 1,09), el ictus (1,06; 0,91 a 1,23), la mortalidad cardiovascular (0,95; 0,83 a 1,09) ni la mortalidad total (0,94; 0,88 a 1,02). El resultado vale para médicos varones de EE. UU. y para ese preparado concreto.",
+    "fuente": "Sesso HD et al. JAMA 2012;308:1751-1760",
+    "url": "https://doi.org/10.1001/jama.2012.14805",
+    "anio": 2012,
+    "nivel_evidencia": "ensayo aleatorizado doble ciego con placebo",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1001/jama.2012.14805)",
+      "detalle": "Physicians' Health Study II: 14.641 médicos varones de EE. UU. de 50 años o más (edad media 64,3 años; 754 con antecedentes de enfermedad cardiovascular), multivitamínico diario o placebo, hasta junio de 2011. Mediana de seguimiento 11,2 años: 1.732 eventos cardiovasculares mayores confirmados. Eventos cardiovasculares mayores: 11,0 frente a 10,8 por 1.000 personas-año (cociente de riesgos 1,01; IC 95 % 0,91 a 1,10; P = 0,91). Infarto: 3,9 frente a 4,2 (0,93; 0,80 a 1,09). Ictus: 4,1 frente a 3,9 (1,06; 0,91 a 1,23). Mortalidad cardiovascular: 5,0 frente a 5,1 (0,95; 0,83 a 1,09). Mortalidad total: 0,94 (0,88 a 1,02; P = 0,13)."
+    }
+  },
+  {
+    "id": "DEB-027",
+    "debate": "multivitaminicos",
+    "corriente": "un multivitamínico reduce un poco el cáncer",
+    "postura": "a",
+    "tema": "debate - multivitamínicos: algo menos de cáncer total en médicos varones (ensayo de 11 años)",
+    "enunciado": "En el mismo ensayo con 14.641 médicos varones, el multivitamínico diario sí redujo un poco el cáncer total: 17,0 frente a 18,3 casos por 1.000 personas-año (cociente de riesgos 0,92; IC 95 % 0,86 a 0,998; P = 0,04), sin efecto significativo en el cáncer de próstata (0,98) ni en el colorrectal (0,89; 0,68 a 1,17).",
+    "veredicto": "matizado",
+    "matiz": "El límite superior del intervalo casi toca el 1 (0,998), y la mortalidad por cáncer no cambió de forma significativa (0,88; IC 95 % 0,77 a 1,01; P = 0,07). Los autores describen la reducción como modesta pero significativa. Solo participaron médicos varones de EE. UU.",
+    "fuente": "Gaziano JM et al. JAMA 2012;308:1871-1880",
+    "url": "https://doi.org/10.1001/jama.2012.14641",
+    "anio": 2012,
+    "nivel_evidencia": "ensayo aleatorizado doble ciego con placebo",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1001/jama.2012.14641)",
+      "detalle": "Physicians' Health Study II: 14.641 médicos varones de EE. UU. de 50 años o más (edad media 64,3 años; 1.312 con antecedentes de cáncer), multivitamínico diario o placebo; mediana de seguimiento 11,2 años; 2.669 hombres con cáncer confirmado (1.373 de próstata y 210 colorrectales). Cáncer total (sin cáncer de piel no melanoma): 17,0 frente a 18,3 casos por 1.000 personas-año (cociente de riesgos 0,92; IC 95 % 0,86 a 0,998; P = 0,04). Cáncer de próstata: 9,1 frente a 9,2 (0,98; 0,88 a 1,09). Cáncer colorrectal: 1,2 frente a 1,4 (0,89; 0,68 a 1,17). Mortalidad por cáncer: 4,9 frente a 5,6 (0,88; 0,77 a 1,01; P = 0,07). Conclusión: el multivitamínico diario redujo de forma modesta pero significativa el cáncer total."
+    }
+  },
+  {
+    "id": "DEB-028",
+    "debate": "multivitaminicos",
+    "corriente": "algunos suplementos aislados pueden dañar",
+    "postura": "b",
+    "tema": "debate - suplementos: la vitamina E aislada aumentó el cáncer de próstata en el ensayo SELECT",
+    "enunciado": "En el ensayo SELECT, con 35.533 hombres, tomar 400 UI diarias de vitamina E aumentó el cáncer de próstata frente a placebo: 620 casos frente a 529 (cociente de riesgos 1,17; IC 99 % 1,004 a 1,36), un aumento absoluto de 1,6 casos por 1.000 personas-año.",
+    "veredicto": "matizado",
+    "matiz": "Se probó una dosis alta de vitamina E aislada (400 UI de acetato de alfa-tocoferilo) y selenio, no un multivitamínico ni la vitamina E de los alimentos. El selenio solo (1,09) y la combinación (1,05) no mostraron un aumento significativo. Los hombres tenían 55 años o más (50 los negros) y un antígeno prostático bajo al empezar.",
+    "fuente": "Klein EA et al. JAMA 2011;306:1549-1556",
+    "url": "https://doi.org/10.1001/jama.2011.1437",
+    "anio": 2011,
+    "nivel_evidencia": "ensayo aleatorizado doble ciego con placebo",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "hombres con riesgo de cáncer de próstata"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1001/jama.2011.1437)",
+      "detalle": "SELECT: 35.533 hombres de 427 centros de EE. UU., Canadá y Puerto Rico asignados al azar entre 2001 y 2004 (análisis principal con 34.887: 8.752 con selenio, 8.737 con vitamina E, 8.702 con ambos y 8.696 con placebo); 200 μg/día de selenio, 400 UI/día de vitamina E (acetato de rac-alfa-tocoferilo), ambos o placebo, con seguimiento previsto de siete a 12 años; PSA de 4,0 ng/mL o menos al inicio. Cáncer de próstata: 529 con placebo; 620 con vitamina E (cociente de riesgos 1,17; IC 99 % 1,004 a 1,36; P = 0,008); 575 con selenio (1,09; 0,93 a 1,27; P = 0,18); 555 con ambos (1,05; 0,89 a 1,22; P = 0,46). Aumento absoluto del riesgo por 1.000 personas-año: 1,6 con vitamina E, 0,8 con selenio y 0,4 con la combinación."
+    }
+  },
+  {
+    "id": "DEB-029",
+    "debate": "multivitaminicos",
+    "corriente": "la vitamina D en suplemento no previno cáncer ni eventos cardiovasculares",
+    "postura": "b",
+    "tema": "debate - suplementos: la vitamina D no redujo el cáncer ni los eventos cardiovasculares en el ensayo VITAL",
+    "enunciado": "En un ensayo con 25.871 adultos mayores de EE. UU., 2.000 UI diarias de vitamina D durante una mediana de 5,3 años no redujeron de forma significativa el cáncer invasivo (793 casos frente a 824; cociente de riesgos 0,96; IC 95 % 0,88 a 1,06) ni los eventos cardiovasculares mayores (396 frente a 409; 0,97; 0,85 a 1,12).",
+    "veredicto": "respaldado",
+    "matiz": "Participaron hombres de 50 años o más y mujeres de 55 o más (5.106 de ellos negros). La muerte por cáncer fue 0,83 (IC 95 % 0,67 a 1,02), sin significación, y no se vieron más hipercalcemia ni otros efectos adversos. El ensayo probó a la vez ácidos grasos omega 3 (otro resultado, que aquí no se cuenta).",
+    "fuente": "Manson JE et al. The New England Journal of Medicine 2019;380:33-44",
+    "url": "https://doi.org/10.1056/nejmoa1809944",
+    "anio": 2019,
+    "nivel_evidencia": "ensayo aleatorizado con placebo (diseño factorial)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1056/nejmoa1809944)",
+      "detalle": "VITAL: 25.871 participantes (5.106 negros) asignados al azar, con diseño factorial dos por dos, a 2.000 UI al día de vitamina D3 y 1 g al día de ácidos grasos omega 3 marinos o placebo; hombres de 50 años o más y mujeres de 55 o más. Mediana de seguimiento 5,3 años. Cáncer: 1.617 participantes (793 con vitamina D y 824 con placebo; cociente de riesgos 0,96; IC 95 % 0,88 a 1,06; P = 0,47). Evento cardiovascular mayor: 805 (396 y 409; 0,97; 0,85 a 1,12; P = 0,69). Muerte por cáncer (341): 0,83 (0,67 a 1,02). Infarto 0,96 (0,78 a 1,19); ictus 0,95 (0,76 a 1,20); muerte cardiovascular 1,11 (0,88 a 1,40); muerte por cualquier causa (978): 0,99 (0,87 a 1,12). Sin exceso de hipercalcemia ni de otros efectos adversos."
+    }
+  },
+  {
+    "id": "DEB-030",
+    "debate": "multivitaminicos",
+    "corriente": "un multivitamínico mejora algo la cognición en mayores",
+    "postura": "a",
+    "tema": "debate - multivitamínicos: pequeña mejora de la cognición en mayores de 60 años (ensayo COSMOS)",
+    "enunciado": "En el ensayo COSMOS (adultos de 60 años o más en EE. UU.), el metaanálisis de tres subestudios cognitivos mostró que el multivitamínico mejoró la cognición global (0,07 unidades de desviación estándar; IC 95 % 0,03 a 0,11) y la memoria episódica (0,06; 0,03 a 0,10), un efecto que los autores equiparan a reducir el envejecimiento cognitivo en dos años.",
+    "veredicto": "matizado",
+    "matiz": "El efecto es pequeño. En el subgrupo con evaluaciones presenciales (573 personas) el beneficio sobre la cognición global no fue significativo (0,06; IC 95 % de -0,003 a 0,13) y sí lo fue en la memoria episódica (0,12; 0,002 a 0,23); no se vio beneficio en función ejecutiva o atención. Los tres subestudios sumaron 573, 2.158 y 2.472 participantes.",
+    "fuente": "Vyas CM et al. The American Journal of Clinical Nutrition 2024;119:692-701",
+    "url": "https://doi.org/10.1016/j.ajcnut.2023.12.011",
+    "anio": 2024,
+    "nivel_evidencia": "ensayo aleatorizado y metaanálisis de tres subestudios cognitivos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.ajcnut.2023.12.011)",
+      "detalle": "COSMOS (COcoa Supplement and Multivitamin Outcomes Study): ensayo factorial dos por dos de extracto de cacao (500 mg de flavanoles al día) y multivitamínico-mineral diario en 21.442 adultos de 60 años o más de EE. UU. COSMOS-Clínica (573 participantes): diferencia de medias en cognición global a dos años 0,06 unidades de desviación estándar (IC 95 % -0,003 a 0,13); memoria episódica 0,12 (0,002 a 0,23); función ejecutiva y atención 0,04 (-0,04 a 0,11). Metaanálisis de los tres subestudios (COSMOS-Clínica, n = 573; COSMOS-Mind, n = 2.158; COSMOS-Web, n = 2.472): cognición global 0,07 (0,03 a 0,11; P = 0,0009) y memoria episódica 0,06 (0,03 a 0,10; P = 0,0007); el efecto sobre la cognición global equivale a reducir el envejecimiento cognitivo en dos años."
+    }
+  },
+  {
+    "id": "DEB-031",
+    "debate": "sal-sodio",
+    "corriente": "más sodio y menos potasio, más riesgo cardiovascular",
+    "postura": "a",
+    "tema": "debate - sal y sodio: más sodio en la orina de 24 horas, más riesgo cardiovascular (seis cohortes)",
+    "enunciado": "En seis cohortes con 10.709 adultos y orina de 24 horas recogida en varios días, cada 1.000 mg más de sodio al día se asoció a un 18 % más de riesgo cardiovascular (cociente de riesgos 1,18; IC 95 % 1,08 a 1,29) y cada 1.000 mg más de potasio, a un 18 % menos (0,82; 0,72 a 0,94).",
+    "veredicto": "matizado",
+    "matiz": "Es observacional. La excreción mediana de sodio fue de 3.270 mg al día (percentiles 10 a 90: de 2.099 a 4.899) y hubo 571 eventos cardiovasculares en 8,8 años de mediana. Comparando el cuarto más alto de sodio con el más bajo, el cociente de riesgos fue 1,60 (IC 95 % 1,19 a 2,14). Los autores dicen que los resultados pueden apoyar reducir el sodio y aumentar el potasio desde los niveles actuales.",
+    "fuente": "Ma Y et al. The New England Journal of Medicine 2022;386:252-263",
+    "url": "https://doi.org/10.1056/nejmoa2109794",
+    "anio": 2022,
+    "nivel_evidencia": "metaanálisis de datos individuales de seis cohortes (orina de 24 horas)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con hipertensión o enfermedad renal"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1056/nejmoa2109794)",
+      "detalle": "Datos individuales de seis cohortes prospectivas de adultos en general sanos, con al menos dos muestras de orina de 24 horas por participante: 10.709 participantes (edad media 51,5 ± 12,6 años; 54,2 % mujeres) y 571 eventos cardiovasculares en una mediana de seguimiento de 8,8 años (5,9 por 1.000 personas-año). Excreción mediana de sodio de 24 horas: 3.270 mg (percentiles 10 a 90: 2.099 a 4.899). Cuarto más alto frente al más bajo: cociente de riesgos 1,60 (IC 95 % 1,19 a 2,14) para el sodio, 0,69 (0,51 a 0,91) para el potasio y 1,62 (1,25 a 2,10) para la relación sodio-potasio. Por cada 1.000 mg diarios más de sodio: 1,18 (1,08 a 1,29); por cada 1.000 mg diarios más de potasio: 0,82 (0,72 a 0,94)."
+    }
+  },
+  {
+    "id": "DEB-032",
+    "debate": "sal-sodio",
+    "corriente": "curva en J: ni mucho ni muy poco sodio",
+    "postura": "b",
+    "tema": "debate - sal y sodio: curva en J, menos riesgo con 3 a 6 g de sodio al día (estudio PURE)",
+    "enunciado": "En 101.945 personas de 17 países (con el sodio estimado a partir de la orina), el riesgo de muerte o evento cardiovascular fue menor con una ingesta estimada de 3 a 6 g de sodio al día que con más o con menos: odds ratio de 1,15 (IC 95 % 1,02 a 1,30) con 7 g o más y de 1,27 (1,12 a 1,44) con menos de 3 g.",
+    "veredicto": "matizado",
+    "matiz": "La ingesta se estimó a partir de una muestra de orina matinal en ayunas, no con una medida directa de lo que se come. La asociación de la ingesta alta fue más fuerte en personas con hipertensión, con más riesgo a partir de 6 g o más al día. El seguimiento medio fue de 3,7 años y el resultado combinado (muerte o evento cardiovascular grave) ocurrió en el 3,3 % de las personas.",
+    "fuente": "O'Donnell M et al. The New England Journal of Medicine 2014;371:612-623",
+    "url": "https://doi.org/10.1056/nejmoa1311889",
+    "anio": 2014,
+    "nivel_evidencia": "estudio de cohortes prospectivo en 17 países",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con hipertensión"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1056/nejmoa1311889)",
+      "detalle": "101.945 personas de 17 países; muestra de orina matinal en ayunas para estimar la excreción de sodio y potasio de 24 horas (media estimada de 4,93 g de sodio y 2,12 g de potasio al día). Seguimiento medio 3,7 años: el resultado combinado de muerte y eventos cardiovasculares graves ocurrió en 3.317 participantes (3,3 %). Frente a la referencia de 4,00 a 5,99 g de sodio al día: 7,00 g o más, odds ratio 1,15 (IC 95 % 1,02 a 1,30); menos de 3,00 g, 1,27 (1,12 a 1,44). La asociación con la ingesta alta fue más fuerte en personas con hipertensión (P = 0,02 de interacción), con más riesgo a partir de 6,00 g al día. Mayor excreción de potasio, menor riesgo. Conclusión: una ingesta estimada de 3 a 6 g al día se asoció a menos riesgo que una más alta o más baja."
+    }
+  },
+  {
+    "id": "DEB-033",
+    "debate": "sal-sodio",
+    "corriente": "sustituir la sal por sal con potasio redujo el ictus",
+    "postura": "a",
+    "tema": "debate - sal y sodio: el sustituto de la sal con potasio redujo ictus y muertes en China rural (ensayo SSaSS)",
+    "enunciado": "En un ensayo con 20.995 personas de 600 aldeas rurales de China (con ictus previo o de 60 años o más con tensión alta), usar un sustituto de la sal (75 % cloruro de sodio y 25 % cloruro de potasio) redujo el ictus (29,14 frente a 33,65 casos por 1.000 personas-año; razón de tasas 0,86; IC 95 % 0,77 a 0,96), los eventos cardiovasculares mayores (49,09 frente a 56,29; 0,87; 0,80 a 0,94) y la muerte por cualquier causa.",
+    "veredicto": "matizado",
+    "matiz": "Seguimiento medio de 4,74 años; ensayo abierto con asignación por aldeas, en una población de edad avanzada y con tensión alta, en la que el 72,6 % ya había tenido un ictus. El ensayo vigiló la hiperpotasemia clínica como resultado de seguridad, y el potasio añadido no vale para cualquier persona. El resultado no dice nada sobre otras poblaciones ni sobre reducir la sal sin sustituirla.",
+    "fuente": "Neal B et al. The New England Journal of Medicine 2021;385:1067-1077",
+    "url": "https://doi.org/10.1056/nejmoa2105675",
+    "anio": 2021,
+    "nivel_evidencia": "ensayo aleatorizado por conglomerados (aldeas), abierto",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con enfermedad renal o que toman medicamentos que suben el potasio (el ensayo vigiló la hiperpotasemia)"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1056/nejmoa2105675)",
+      "detalle": "Ensayo abierto aleatorizado por conglomerados en 600 aldeas rurales de China: 20.995 personas (edad media 65,4 años; 49,5 % mujeres; 72,6 % con ictus previo; 88,4 % con hipertensión), con ictus previo o de 60 años o más y tensión alta. Intervención: sustituto de la sal (75 % de cloruro de sodio y 25 % de cloruro de potasio en masa) frente a sal normal (100 % de cloruro de sodio). Seguimiento medio 4,74 años. Ictus: 29,14 frente a 33,65 eventos por 1.000 personas-año (razón de tasas 0,86; IC 95 % 0,77 a 0,96; P = 0,006). Eventos cardiovasculares mayores: 49,09 frente a 56,29 (0,87; 0,80 a 0,94). Menor también la muerte por cualquier causa. Resultado de seguridad: hiperpotasemia clínica."
+    }
+  },
+  {
+    "id": "DEB-034",
+    "debate": "colesterol-necesario",
+    "corriente": "el equilibrio del colesterol es vital para el cuerpo",
+    "postura": "a",
+    "tema": "debate - colesterol: imprescindible para las células y para todo el organismo (revisión de Nature Reviews)",
+    "enunciado": "Una revisión de Nature Reviews Molecular Cell Biology señala que la homeostasis del colesterol, el equilibrio entre producirlo, captarlo, exportarlo y esterificarlo, es vital para el buen funcionamiento de las células y de todo el organismo, y que su desequilibrio está detrás no solo de la enfermedad cardiovascular, sino también de enfermedades neurodegenerativas y de cánceres.",
+    "veredicto": "respaldado",
+    "matiz": "Es una revisión de mecanismos, no un estudio de riesgo: dice que la homeostasis del colesterol (su equilibrio) es vital y que su desequilibrio está detrás de la enfermedad cardiovascular y de otras enfermedades. No dice que cualquier nivel de colesterol en sangre sea inocuo, y el resumen no da cifras ni dice qué nivel es seguro.",
+    "fuente": "Luo J, Yang H, Song BL. Nature Reviews Molecular Cell Biology 2020;21:225-245",
+    "url": "https://doi.org/10.1038/s41580-019-0190-7",
+    "anio": 2020,
+    "nivel_evidencia": "revisión de mecanismos (biología celular)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1038/s41580-019-0190-7)",
+      "detalle": "Revisión: la homeostasis del colesterol es vital para el funcionamiento celular y sistémico. El nivel celular de colesterol refleja el equilibrio dinámico entre biosíntesis, captación, exportación y esterificación (la conversión en ésteres de colesterol neutros, para almacenarlos en gotas de lípidos o para secretarlos como parte de las lipoproteínas). El desequilibrio del colesterol está detrás de la enfermedad cardiovascular y de un número creciente de otras enfermedades, como las neurodegenerativas y los cánceres. La revisión describe cómo se ejecuta y se regula cada una de las cuatro partes del metabolismo del colesterol."
+    }
+  },
+  {
+    "id": "DEB-035",
+    "debate": "colesterol-necesario",
+    "corriente": "con ingestas altas, el colesterol de la dieta se asocia a más mortalidad",
+    "postura": "b",
+    "tema": "debate - colesterol de la dieta: más muertes con ingestas altas y poco riesgo con ingestas bajas (55 cohortes)",
+    "enunciado": "En una revisión de 55 estudios de cohortes con 2.772.486 personas, cada 100 mg diarios más de colesterol de la dieta se asoció a un 6 % más de riesgo de muerte por todas las causas (riesgo relativo 1,06; IC 95 % 1,03 a 1,08) y a un 6 % más de muerte por cáncer (1,06; 1,05 a 1,07), pero no a más muerte cardiovascular en el análisis lineal (1,04; 0,99 a 1,10); los análisis no lineales sí mostraron más riesgo de muerte cardiovascular por encima de unos 450 mg al día y de muerte por cáncer por encima de unos 250 mg al día.",
+    "veredicto": "matizado",
+    "matiz": "Los análisis no lineales mostraron más riesgo de muerte cardiovascular a partir de unos 450 mg al día y de muerte por cáncer a partir de unos 250 mg al día; con menos de medio huevo o de 250 mg de colesterol al día se vio poca evidencia de riesgo elevado. Los autores piden cautela porque las estimaciones son pequeñas y hay heterogeneidad moderada entre estudios (I2 = 34,5 % para la mortalidad total y 85,9 % para la cardiovascular). Es observacional.",
+    "fuente": "Darooghegi Mofrad M et al. Frontiers in Nutrition 2022;9:878979",
+    "url": "https://doi.org/10.3389/fnut.2022.878979",
+    "anio": 2022,
+    "nivel_evidencia": "revisión sistemática y metaanálisis dosis-respuesta de cohortes prospectivas",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.3389/fnut.2022.878979)",
+      "detalle": "55 estudios con datos de 2.772.486 personas y 228.425 muertes por todas las causas, 71.745 cardiovasculares y 67.211 por cáncer. Cada huevo más al día: mortalidad por todas las causas 1,07 (IC 95 % 1,02 a 1,12; I2 = 84,8 %), por cáncer 1,13 (1,06 a 1,20; I2 = 54,2 %) y cardiovascular 1,00 (0,92 a 1,09; I2 = 81,5 %). Cada 100 mg diarios más de colesterol de la dieta: todas las causas 1,06 (1,03 a 1,08; I2 = 34,5 %), cáncer 1,06 (1,05 a 1,07; I2 = 0 %) y cardiovascular 1,04 (0,99 a 1,10; I2 = 85,9 %). Análisis no lineales: más riesgo con más de 1,5 huevos al día (todas las causas) y más de 0,5 huevos al día (cáncer); y de muerte cardiovascular y por cáncer con más de 450 y 250 mg al día de colesterol, respectivamente. Poca evidencia de riesgo elevado con menos de 0,5 huevos al día o 250 mg al día. Conclusión: un consumo alto de huevos y colesterol se asoció a mortalidad por todas las causas y por cáncer; considerar con cautela por las estimaciones pequeñas y la heterogeneidad."
+    }
+  },
+  {
+    "id": "DEB-036",
+    "debate": "ldl-calidad",
+    "corriente": "la LDL glicada es una modificación aterogénica",
+    "postura": "a",
+    "tema": "debate - LDL: la glicación como modificación aterogénica de la LDL (revisión de 2008)",
+    "enunciado": "Una revisión de Current Opinion in Lipidology señala que la LDL pequeña y densa, la más asociada a la aterosclerosis, es más susceptible a la glicación que la LDL más ligera; que hay más LDL glicada circulando en personas con diabetes que sin ella, y que incluso en las personas sin diabetes suele haber más LDL glicada circulante que LDL modificada por oxidación; y que tanto la glicación como la oxidación impiden la captación de la LDL por su receptor y favorecen la de los macrófagos.",
+    "veredicto": "matizado",
+    "matiz": "Es una revisión de 2008 sobre mecanismos: no da cifras de riesgo ni demuestra que la LDL glicada cause infartos en personas. Explica que la glicación ocurre sobre todo por la reacción no enzimática de la glucosa y sus metabolitos con la lisina de la LDL, y los autores creen que la glicación podría ser al menos tan importante como la oxidación en la aterogénesis, sin presentarlo como probado.",
+    "fuente": "Younis N et al. Current Opinion in Lipidology 2008;19:378-384",
+    "url": "https://doi.org/10.1097/mol.0b013e328306a057",
+    "anio": 2008,
+    "nivel_evidencia": "revisión de mecanismos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1097/mol.0b013e328306a057)",
+      "detalle": "Revisión: la LDL pequeña y densa, la más estrechamente asociada a la aterogénesis, es más susceptible a la glicación que la LDL más flotante. La glicación y la oxidación de la LDL parecen estar íntimamente asociadas. La glicación de la LDL ocurre sobre todo por la reacción no enzimática de la glucosa y sus metabolitos con los grupos amino libres de la lisina, de la que la LDL es rica. Las concentraciones de LDL glicada son más altas en personas con diabetes que sin ella, pero incluso en estas últimas suele haber más LDL glicada circulante que LDL modificada por oxidación. Probablemente la oxidación y la glicación de la LDL son al menos en parte interdependientes, pero ambas impiden la captación mediada por el receptor de la LDL y favorecen la captación por el receptor barredor de los macrófagos. Reconocer que la glicación de la LDL es al menos tan importante como la oxidación en la aterogénesis puede mejorar la comprensión de su mecanismo y de cómo prevenirla."
+    }
+  },
+  {
+    "id": "DEB-037",
+    "debate": "ldl-calidad",
+    "corriente": "la LDL pequeña y densa predice más riesgo",
+    "postura": "a",
+    "tema": "debate - LDL: la LDL pequeña y densa y la cardiopatía coronaria (metaanálisis de 21 estudios)",
+    "enunciado": "En una revisión sistemática con metaanálisis de 21 estudios (30.628 personas y 5.693 casos de cardiopatía coronaria), tener más LDL pequeña y densa se asoció a más cardiopatía coronaria: 1,36 (IC 95 % 1,21 a 1,52) al comparar la categoría alta con la baja de LDL pequeña y densa, y 1,07 (1,01 a 1,12) entre el cuarto más alto y el más bajo de colesterol de esa LDL.",
+    "veredicto": "matizado",
+    "matiz": "Es observacional: apoya la LDL pequeña y densa como marcador de riesgo, pero los autores dicen que hace falta más investigación para saber si bajarla reduce el riesgo, y que no está claro si importa más el tamaño de la partícula o su contenido de colesterol. El efecto para el colesterol de la LDL pequeña y densa es modesto (1,07). Varios estudios sugerían una relación dosis-respuesta.",
+    "fuente": "Liou L et al. PLoS ONE 2020;15:e0241993",
+    "url": "https://doi.org/10.1371/journal.pone.0241993",
+    "anio": 2020,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios observacionales",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1371/journal.pone.0241993)",
+      "detalle": "21 estudios con 30.628 personas y 5.693 casos de cardiopatía coronaria; edad media 67 años y 53 % hombres. Las asociaciones con la cardiopatía coronaria se basaron en comparaciones por cuartiles en ocho estudios del colesterol de la LDL pequeña y densa y en una categorización binaria en catorce estudios del tamaño de la partícula de LDL pequeña y densa (el objetivo de la revisión incluía su presencia, densidad y tamaño). Estimación agrupada para la categoría alta frente a la baja de LDL pequeña y densa: 1,36 (IC 95 % 1,21 a 1,52); para el cuarto superior frente al inferior del colesterol de la LDL pequeña y densa: 1,07 (1,01 a 1,12). Varios estudios sugerían una relación dosis-respuesta. Conclusión: asociación positiva, apoyada por evidencia genética a favor de su causalidad; los resultados apoyan la LDL pequeña y densa como marcador de riesgo y piden más investigación antes de establecerla como objetivo terapéutico."
+    }
+  },
+  {
+    "id": "DEB-038",
+    "debate": "ldl-calidad",
+    "corriente": "la LDL pequeña y densa capta mejor el riesgo que el LDL total",
+    "postura": "a",
+    "tema": "debate - LDL: el colesterol estimado de la LDL pequeña y densa frente al LDL total en el UK Biobank",
+    "enunciado": "En el UK Biobank (271.760 personas sin medicación para bajar los lípidos y una mediana de seguimiento de 10 años), el colesterol estimado de la LDL pequeña y densa se asoció a eventos de enfermedad cardiovascular aterosclerótica y, tras ajustar por edad, sexo, tensión arterial, hipertensión, diabetes tipo 2 y medicación antihipertensiva, fue junto con la apolipoproteína B el factor de riesgo lipídico más significativo (cociente de riesgos de 1,18 por desviación estándar, frente a 1,17 de la apolipoproteína B); al ajustar además por la apolipoproteína B, la asociación del colesterol LDL total se invirtió (0,84; IC 95 % 0,81 a 0,86) y la de la LDL pequeña y densa siguió siendo positiva y significativa (1,11; 1,08 a 1,13).",
+    "veredicto": "matizado",
+    "matiz": "Es observacional y de prevención primaria (personas sin medicación para bajar los lípidos y sin enfermedad cardiovascular aterosclerótica previa): no dice nada de quien ya la tiene, y la diabetes tipo 2 entra solo como variable de ajuste. La LDL pequeña y densa es una estimación calculada con una fórmula a partir del perfil de lípidos habitual, no una medición directa. Sin ajustar, el cociente fue 1,23 (IC 95 % 1,22 a 1,24; el resumen no da la unidad); ajustado, 1,18 (1,16 a 1,19) para la LDL pequeña y densa y 1,17 (1,16 a 1,18) para la apolipoproteína B por cada desviación estándar. Cuando la LDL pequeña y densa era más alta de lo que cabría por el colesterol LDL, el riesgo fue un 31 % mayor, y un 17 % mayor frente a la apolipoproteína B. Que el colesterol LDL salga con 0,84 al ajustar por la apolipoproteína B es un resultado estadístico entre medidas muy relacionadas: el resumen no dice que el colesterol LDL proteja ni que no importe.",
+    "fuente": "Zubiran R et al. Arteriosclerosis, Thrombosis, and Vascular Biology 2025;45:e512-e522",
+    "url": "https://doi.org/10.1161/atvbaha.125.323157",
+    "anio": 2025,
+    "nivel_evidencia": "estudio de cohortes prospectivo (UK Biobank)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1161/atvbaha.125.323157)",
+      "detalle": "Análisis prospectivo de participantes del UK Biobank con una mediana de seguimiento de 10 años (rango intercuartílico de 6,7 a 12,3): 271.760 personas sin medicación hipolipemiante al inicio y sin enfermedad cardiovascular aterosclerótica previa. El colesterol de la LDL pequeña y densa estimado se asoció fuertemente con los eventos con un cociente de riesgos de 1,23 (IC 95 % 1,22 a 1,24; el resumen no da la unidad). Tras el ajuste por edad, sexo, presión arterial sistólica, hipertensión, diabetes tipo 2 y medicación antihipertensiva, el colesterol de la LDL pequeña y densa estimado y la apolipoproteína B siguieron siendo los factores de riesgo lipídicos más significativos (1,18 [IC 95 % 1,16 a 1,19] y 1,17 [1,16 a 1,18] por desviación estándar, respectivamente). Tras ajustar además por la apolipoproteína B, la asociación del colesterol LDL con los eventos se invirtió (cociente de riesgos 0,84; IC 95 % 0,81 a 0,86) pero la de la LDL pequeña y densa siguió siendo positiva y significativa (1,11; 1,08 a 1,13). Cuando la LDL pequeña y densa era más alta que el colesterol LDL o que la apolipoproteína B, el riesgo era mayor (un 31 % y un 17 % más, respectivamente)."
+    }
+  },
+  {
+    "id": "DEB-039",
+    "debate": "ldl-calidad",
+    "corriente": "las LDL modificadas forman partículas muy aterogénicas",
+    "postura": "a",
+    "tema": "debate - LDL: las LDL modificadas (electronegativa y otras) en la aterosclerosis (revisión de 2025)",
+    "enunciado": "Una revisión de 2025 explica que las LDL modificadas (carbamiladas, nitradas, desializadas y por otras modificaciones enzimáticas) favorecen la formación de un conjunto heterogéneo y muy aterogénico de partículas, la LDL electronegativa; destaca vías que implican receptores barredores aumentados, formación de células espumosas y respuestas inflamatorias crónicas, y señala su asociación con enfermedades como la diabetes tipo 2 y la artritis reumatoide.",
+    "veredicto": "matizado",
+    "matiz": "Es una revisión de mecanismos. El resumen no menciona la glicación: cita la LDL carbamilada, la nitrada y la desializada, además de otras modificaciones enzimáticas. No compara la LDL modificada con la no modificada y no dice que el colesterol LDL deje de importar. Los autores señalan como barrera crítica para la clínica la falta de análisis de laboratorio estandarizados, de alto rendimiento y aptos para uso rutinario, y piden desarrollar y validar ensayos robustos para medir estas partículas; las terapias que cita contra la LDL electronegativa son emergentes.",
+    "fuente": "Dabravolski SA et al. Clinical Biochemistry 2025;140:111016",
+    "url": "https://doi.org/10.1016/j.clinbiochem.2025.111016",
+    "anio": 2025,
+    "nivel_evidencia": "revisión de mecanismos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.clinbiochem.2025.111016)",
+      "detalle": "Revisión: las lipoproteínas de baja densidad modificadas desempeñan un papel central en la patogenia de la aterosclerosis, con formación de placa e inflamación vascular. Se describen formas de LDL modificada (carbamilada, nitrada y desializada, además de modificaciones enzimáticas) que promueven un conjunto heterogéneo y muy aterogénico de partículas, la LDL electronegativa. Vías: receptores barredores aumentados, formación de células espumosas y respuestas inflamatorias crónicas. La LDL electronegativa se asocia a enfermedades autoinmunes como la artritis reumatoide y a enfermedades crónicas como la diabetes tipo 2, lo que subraya su potencial como biomarcador de riesgo cardiovascular. Terapias emergentes (nanoformulaciones de anticuerpos de cadena única) muestran eficacia prometedora para reducir el tamaño de la lesión y la inflamación. Barrera para la clínica: falta de ensayos estandarizados y de alto rendimiento para uso rutinario."
+    }
+  },
+  {
+    "id": "DEB-040",
+    "debate": "ldl-calidad",
+    "corriente": "la LDL, con su colesterol, causa la enfermedad cardiovascular",
+    "postura": "b",
+    "tema": "debate - LDL: el consenso europeo de que la LDL causa la enfermedad cardiovascular aterosclerótica",
+    "enunciado": "El consenso de la Sociedad Europea de Aterosclerosis (2017), con metaanálisis de más de 200 estudios de cohortes prospectivos, de aleatorización mendeliana y de ensayos (más de 2 millones de participantes y más de 150.000 eventos cardiovasculares), concluye que hay una asociación dosis-dependiente y logarítmico-lineal entre la magnitud absoluta de la exposición de la vasculatura al colesterol LDL y el riesgo de enfermedad cardiovascular aterosclerótica, que parece aumentar con la duración de la exposición, y que la LDL causa esa enfermedad.",
+    "veredicto": "respaldado",
+    "matiz": "Es un informe de consenso de una sociedad científica. Dice que reducir las partículas de LDL por cualquier mecanismo debería bajar el riesgo en proporción a la reducción absoluta del colesterol LDL y a la duración acumulada de la exposición a un colesterol LDL más bajo, siempre que esa reducción vaya a la par que la del número de partículas y que no haya efectos adversos fuera de objetivo. El resumen no menciona la glicación ni la oxidación de la LDL.",
+    "fuente": "Ference BA et al. European Heart Journal 2017;38:2459-2472",
+    "url": "https://doi.org/10.1093/eurheartj/ehx144",
+    "anio": 2017,
+    "nivel_evidencia": "informe de consenso (estudios genéticos, cohortes, aleatorización mendeliana y ensayos)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con colesterol LDL alto o enfermedad cardiovascular"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1093/eurheartj/ehx144)",
+      "detalle": "Consenso de la Sociedad Europea de Aterosclerosis que evalúa si la asociación entre la LDL y la enfermedad cardiovascular aterosclerótica cumple los criterios de causalidad con estudios genéticos, cohortes prospectivas, aleatorización mendeliana y ensayos de tratamientos que bajan la LDL. Las mutaciones raras que reducen la función del receptor de la LDL elevan mucho el colesterol LDL y aumentan el riesgo de forma dosis-dependiente, y las variantes raras que lo bajan se asocian a un riesgo proporcionalmente menor. Metaanálisis separados de más de 200 estudios de cohortes prospectivos, de aleatorización mendeliana y ensayos, con más de 2 millones de participantes, más de 20 millones de personas-año de seguimiento y más de 150.000 eventos cardiovasculares, muestran una asociación logarítmico-lineal dosis-dependiente muy consistente entre la exposición absoluta de la vasculatura al colesterol LDL y el riesgo, que parece aumentar con la duración de la exposición. Conclusión de los autores: la evidencia consistente establece sin lugar a dudas que la LDL causa la enfermedad cardiovascular aterosclerótica."
+    }
+  },
+  {
+    "id": "DEB-041",
+    "debate": "ldl-calidad",
+    "corriente": "bajar el colesterol LDL reduce los eventos graves",
+    "postura": "b",
+    "tema": "debate - LDL: bajar el colesterol LDL con estatinas reduce los grandes eventos vasculares (170.000 participantes)",
+    "enunciado": "En un metaanálisis de datos individuales de 26 ensayos aleatorizados con 170.000 participantes, cada 1,0 mmol/L menos de colesterol LDL logrado con estatinas redujo los grandes eventos vasculares (infarto, revascularización e ictus isquémico) con una razón de tasas de 0,78 (IC 95 % 0,76 a 0,80) y la mortalidad por todas las causas un 10 % (0,90; 0,87 a 0,93), sin efecto significativo sobre la incidencia de cáncer (1,00; 0,96 a 1,04) y sin que se viera un umbral dentro del rango estudiado.",
+    "veredicto": "respaldado",
+    "matiz": "Son ensayos con estatinas (regímenes más intensos frente a menos intensos, y estatina frente a control), con una mediana de seguimiento de 5,1 y 4,8 años. Los regímenes más intensos redujeron los eventos vasculares graves un 15 % más (IC 95 % 11 a 18). Por cada 1,0 mmol/L de reducción de colesterol LDL, la reducción proporcional de eventos fue parecida en todos los tipos de paciente, también en quienes tenían menos de 2 mmol/L con el régimen menos intensivo o con el control. Los autores sugieren que bajar el LDL entre 2 y 3 mmol/L reduciría el riesgo en torno al 40-50 %: es una extrapolación. El resumen no distingue entre LDL glicada, oxidada o pequeña y densa.",
+    "fuente": "Cholesterol Treatment Trialists' (CTT) Collaboration. The Lancet 2010;376:1670-1681",
+    "url": "https://doi.org/10.1016/s0140-6736(10)61350-5",
+    "anio": 2010,
+    "nivel_evidencia": "metaanálisis de datos individuales de ensayos aleatorizados",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con colesterol LDL alto o enfermedad cardiovascular"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/s0140-6736(10)61350-5)",
+      "detalle": "Metaanálisis de datos individuales de ensayos aleatorizados de al menos 1.000 participantes y al menos 2 años de tratamiento: regímenes de estatinas más frente a menos intensos (cinco ensayos; 39.612 personas; mediana de seguimiento 5,1 años) y estatina frente a control (21 ensayos; 129.526 personas; mediana 4,8 años). En los ensayos de más frente a menos intensidad, la reducción adicional media del colesterol LDL al año fue de 0,51 mmol/L, y los regímenes más intensos produjeron una reducción adicional del 15 % (IC 95 % 11 a 18) de los eventos vasculares graves, con reducciones separadas de la muerte coronaria o el infarto no mortal (13 %; IC 95 % 7 a 19), la revascularización coronaria (19 %; 15 a 24) y el ictus isquémico (16 %; 5 a 26). Por cada reducción de 1,0 mmol/L de colesterol LDL, razón de tasas de 0,78 (IC 95 % 0,76 a 0,80) para los eventos vasculares graves en todos los tipos de paciente estudiados, también en quienes tenían menos de 2 mmol/L con el régimen menos intensivo o el control. En los 26 ensayos, la mortalidad por todas las causas bajó un 10 % por cada 1,0 mmol/L (razón de tasas 0,90; IC 95 % 0,87 a 0,93), sobre todo por menos muertes por cardiopatía coronaria (0,80; IC 99 % 0,74 a 0,87) y otras causas cardiacas (0,89; IC 99 % 0,81 a 0,98), sin efecto significativo en las muertes por ictus (0,96; 0,84 a 1,09) ni por otras causas vasculares (0,98; IC 99 % 0,81 a 1,18). Sin efecto significativo en las muertes por cáncer u otras causas no vasculares (0,97; 0,92 a 1,03) ni en la incidencia de cáncer (1,00; 0,96 a 1,04), incluso con colesterol LDL bajo. No hubo evidencia de umbral dentro del rango estudiado, lo que sugiere que bajar el LDL entre 2 y 3 mmol/L reduciría el riesgo en torno al 40-50 %."
+    }
+  },
+  {
+    "id": "DEB-042",
+    "debate": "ldl-calidad",
+    "corriente": "en pacientes con síndrome coronario, el LDL total y el pequeño y denso predicen igual",
+    "postura": "b",
+    "tema": "debate - LDL: en el ensayo ODYSSEY, la LDL pequeña y densa no aportó más que el LDL total",
+    "enunciado": "En un análisis del ensayo ODYSSEY OUTCOMES (11.837 pacientes con un síndrome coronario agudo reciente y lipoproteínas aterogénicas elevadas pese a un tratamiento óptimo con estatinas), el colesterol de la LDL pequeña y densa y el colesterol LDL total predijeron el riesgo de eventos cardiovasculares casi igual en el grupo placebo (5.920 personas; curvas prácticamente superpuestas), y el alirocumab redujo los eventos (cociente de riesgos 0,87; IC 95 % 0,79 a 0,95) sin que el beneficio variara de forma significativa según el nivel de ninguno de los dos.",
+    "veredicto": "matizado",
+    "matiz": "Es un análisis de un ensayo en pacientes que ya habían tenido un síndrome coronario agudo, con lipoproteínas aterogénicas elevadas y en tratamiento con estatinas, así que no vale para personas sanas ni para quien no toma medicación. La relación con el riesgo es una asociación con los niveles basales dentro del grupo placebo. Los resultados fueron parecidos con más o menos resistencia a la insulina. Los autores concluyen que medir la LDL pequeña y densa no parece aportar información pronóstica ni predictiva adicional en esta población. Mediana de seguimiento de 2,8 años.",
+    "fuente": "Schwartz GG et al. American Journal of Preventive Cardiology 2026;27:101643",
+    "url": "https://doi.org/10.1016/j.ajpc.2026.101643",
+    "anio": 2026,
+    "nivel_evidencia": "análisis de un ensayo aleatorizado (ODYSSEY OUTCOMES)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con síndrome coronario agudo reciente"
+    ],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.ajpc.2026.101643)",
+      "detalle": "Análisis de 11.837 participantes del ensayo ODYSSEY OUTCOMES asignados al azar a alirocumab o placebo, con síndrome coronario agudo reciente y lipoproteínas aterogénicas elevadas pese al tratamiento óptimo con estatinas. Colesterol de la LDL pequeña y densa medido con el método Denka; colesterol LDL calculado con la fórmula de Friedewald. En el grupo placebo (n = 5.920), el riesgo de eventos cardiovasculares mayores (muerte cardiovascular, infarto no mortal, ictus isquémico, ingreso por angina inestable y revascularización por isquemia) aumentó con más colesterol de LDL pequeña y densa o de LDL total, con curvas casi superpuestas y sin variación según su cociente. Resultados similares con más o menos resistencia a la insulina. Mediana de seguimiento de 2,8 años. El alirocumab redujo el riesgo (cociente de riesgos 0,87; IC 95 % 0,79 a 0,95), sin que variara de forma significativa a lo largo del rango de colesterol LDL ni de LDL pequeña y densa. Conclusión: medir el colesterol de la LDL pequeña y densa no parece aportar información pronóstica ni predictiva adicional en esta población."
+    }
+  },
+  {
+    "id": "DEB-043",
+    "debate": "insulina-inflamacion",
+    "corriente": "la resistencia a la insulina se asocia a más riesgo cardiovascular",
+    "postura": "a",
+    "tema": "debate - insulina: la resistencia a la insulina (HOMA-IR) y la cardiopatía coronaria (metaanálisis de 65 estudios)",
+    "enunciado": "En una revisión con metaanálisis de 65 estudios (516.325 personas sin diabetes), el riesgo relativo de cardiopatía coronaria al comparar concentraciones altas con bajas fue de 1,64 (IC 95 % 1,35 a 2,00) para la resistencia a la insulina medida con HOMA-IR, de 1,52 (1,31 a 1,76) para la glucosa en ayunas y de 1,12 (0,92 a 1,37) para la insulina en ayunas, que no fue significativo.",
+    "veredicto": "matizado",
+    "matiz": "Es observacional: asocia, no demuestra causa. Por cada desviación estándar más, el riesgo de cardiopatía coronaria fue 1,46 (IC 95 % 1,26 a 1,69) para HOMA-IR, 1,21 (1,13 a 1,30) para la glucosa y 1,04 (0,96 a 1,12) para la insulina. Es decir, la resistencia a la insulina se asoció a más riesgo, pero la insulina en ayunas sola no de forma significativa. Los autores sugieren que podría ser útil añadir HOMA-IR a los modelos de predicción del riesgo cardiovascular.",
+    "fuente": "Gast KB et al. PLoS ONE 2012;7:e52036",
+    "url": "https://doi.org/10.1371/journal.pone.0052036",
+    "anio": 2012,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios observacionales",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1371/journal.pone.0052036)",
+      "detalle": "65 estudios con 516.325 participantes (el título del artículo precisa: adultos sin diabetes); estudios de cohortes o de casos y controles anidados sobre glucosa, insulina en ayunas o HOMA-IR e incidencia de enfermedad cardiovascular (cardiopatía coronaria, ictus o enfermedad cardiovascular combinada). Riesgo relativo agrupado de cardiopatía coronaria (IC 95 %; I2) al comparar concentraciones altas con bajas: 1,52 (1,31 a 1,76; 62,4 %) para la glucosa, 1,12 (0,92 a 1,37; 41,0 %) para la insulina y 1,64 (1,35 a 2,00; 0 %) para HOMA-IR. Por cada desviación estándar más: 1,21 (1,13 a 1,30; 64,9 %) para la glucosa, 1,04 (0,96 a 1,12; 43,0 %) para la insulina y 1,46 (1,26 a 1,69; 0,0 %) para HOMA-IR. Conclusión: el riesgo relativo de enfermedad cardiovascular fue mayor por cada desviación estándar de HOMA-IR que de glucosa o insulina en ayunas."
+    }
+  },
+  {
+    "id": "DEB-044",
+    "debate": "insulina-inflamacion",
+    "corriente": "la hiperinsulinemia se asocia, débilmente, a más enfermedad cardiovascular",
+    "postura": "a",
+    "tema": "debate - insulina: la hiperinsulinemia como indicador débil de riesgo cardiovascular (metaanálisis de 12 estudios)",
+    "enunciado": "En un metaanálisis de 12 estudios prospectivos, la hiperinsulinemia se asoció de forma débil a más enfermedad cardiovascular: riesgo relativo de 1,18 (IC 95 % 1,08 a 1,29) al comparar el percentil 75 con el 25 de insulina de la población general de los Países Bajos.",
+    "veredicto": "matizado",
+    "matiz": "Es de 1998 y observacional; los autores llaman a la hiperinsulinemia un indicador débil de riesgo de enfermedad cardiovascular y dicen que la relación cambió con el origen étnico y con el tipo de método para medir la insulina (con significación límite). Los resultados estudiados fueron el infarto, la muerte por cardiopatía coronaria y las alteraciones del electrocardiograma.",
+    "fuente": "Ruige JB et al. Circulation 1998;97:996-1001",
+    "url": "https://doi.org/10.1161/01.cir.97.10.996",
+    "anio": 1998,
+    "nivel_evidencia": "metaanálisis de estudios prospectivos observacionales",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1161/01.cir.97.10.996)",
+      "detalle": "Metaanálisis de estudios prospectivos de base poblacional y de casos y controles anidados sobre la relación entre la insulina (en ayunas o no) y el infarto de miocardio, la muerte por cardiopatía coronaria o las alteraciones del electrocardiograma. Doce de 17 artículos potencialmente elegibles daban información suficiente. En conjunto, una asociación positiva débil: riesgo relativo resumen de 1,18 (IC 95 % 1,08 a 1,29) para una diferencia de insulina equivalente a la que hay entre los percentiles 75 y 25 de la población general de los Países Bajos. El origen étnico y el tipo de ensayo de insulina modificaron la relación con significación límite. Conclusión: la hiperinsulinemia es un indicador débil de riesgo de enfermedad cardiovascular."
+    }
+  },
+  {
+    "id": "DEB-045",
+    "debate": "insulina-inflamacion",
+    "corriente": "bajar hidratos puede bajar algo la inflamación",
+    "postura": "a",
+    "tema": "debate - insulina: las dietas bajas en carbohidratos y la proteína C reactiva (metaanálisis de 60 ensayos)",
+    "enunciado": "En un metaanálisis de 60 ensayos aleatorizados con 5.511 adultos, las dietas bajas en carbohidratos bajaron la proteína C reactiva, un marcador de inflamación, una media de 0,18 mg/L frente a las dietas de control (P = 0,016), pero al quitar un solo estudio el efecto dejó de ser significativo (-0,14 mg/L; IC 95 % de -0,28 a 0,00; P = 0,052).",
+    "veredicto": "matizado",
+    "matiz": "Los propios autores dicen que el hallazgo es frágil. La bajada fue mayor en ensayos de más de 12,5 semanas (-0,24 mg/L; IC 95 % de -0,48 a 0,00), en personas de 49,6 años o menos (-0,30; de -0,51 a -0,10), con proteína C reactiva inicial de más de 4,5 mg/L (-0,70; de -1,13 a -0,26) y con un índice de masa corporal superior a 35 (-1,21; de -1,91 a -0,51). Concluyen que estas dietas pueden mejorar de forma modesta la proteína C reactiva, y piden más ensayos que cuiden el origen de las proteínas y las grasas y la calidad de los carbohidratos. El resumen no mide la insulina.",
+    "fuente": "Khodarahmi M, Seyedhosseini H, Askari G. Food Science & Nutrition 2025;13:e70566",
+    "url": "https://doi.org/10.1002/fsn3.70566",
+    "anio": 2025,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1002/fsn3.70566)",
+      "detalle": "60 ensayos con 5.511 adultos (búsqueda hasta febrero de 2024). Las dietas bajas en carbohidratos redujeron la proteína C reactiva una media de 0,18 mg/L frente a los grupos control (P = 0,016); el análisis de sensibilidad mostró que la significación dependía de un único estudio y, sin él, el efecto dejó de ser significativo (diferencia de medias -0,14; IC 95 % -0,28 a 0,00; P = 0,052). Por subgrupos, mayor descenso en ensayos de más de 12,5 semanas (-0,24; IC 95 % -0,48 a 0,00; P = 0,046), en personas de 49,6 años o menos (-0,30; -0,51 a -0,10; P = 0,003), con proteína C reactiva inicial de más de 4,5 mg/L (-0,70; -1,13 a -0,26; P = 0,002) y en personas con obesidad e índice de masa corporal superior a 35 (-1,21; -1,91 a -0,51; P = 0,001). El valor inicial de proteína C reactiva fue un fuerte predictor del efecto. Conclusión: las dietas bajas en carbohidratos pueden mejorar de forma modesta la proteína C reactiva, más en quienes tienen más proteína C reactiva basal, más índice de masa corporal y menos edad."
+    }
+  },
+  {
+    "id": "DEB-046",
+    "debate": "insulina-inflamacion",
+    "corriente": "la insulina tiene un efecto antiinflamatorio agudo",
+    "postura": "b",
+    "tema": "debate - insulina: una infusión de insulina bajó marcadores de inflamación en 10 personas con obesidad",
+    "enunciado": "En un experimento con 10 personas con obesidad, una infusión de insulina durante 4 horas redujo el NF-kB (factor nuclear kappa B) intranuclear de sus células mononucleares (P < 0,05) y subió su inhibidor IkB (P < 0,001), y bajaron también la generación de especies reactivas del oxígeno (P < 0,005) y marcadores como sICAM-1, MCP-1 y PAI-1; la infusión de glucosa o de suero sin insulina no cambió nada de eso.",
+    "veredicto": "matizado",
+    "matiz": "Es un estudio pequeño y a corto plazo (infusión de 4 horas en 10 personas con obesidad, con la dosis de insulina ajustada para mantener la glucosa estable) que mide marcadores de inflamación, no enfermedad. El título del artículo termina en interrogante, pero los autores concluyen que la insulina tiene un potente efecto antiinflamatorio agudo, y solo condicionan a que se demuestre a largo plazo sus posibles implicaciones para la aterosclerosis. No dice nada de la insulina alta de forma crónica; la resistencia a la insulina aparece en el resumen solo como antecedente, y el estudio no la evalúa.",
+    "fuente": "Dandona P et al. The Journal of Clinical Endocrinology & Metabolism 2001;86:3257-3265",
+    "url": "https://doi.org/10.1210/jcem.86.7.7623",
+    "anio": 2001,
+    "nivel_evidencia": "experimento clínico pequeño de infusión",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1210/jcem.86.7.7623)",
+      "detalle": "Se infundieron de 2,0 a 2,5 UI por hora de insulina en dextrosa al 5 % por vía intravenosa a 10 personas con obesidad durante 4 horas, seguidas de 2 horas de dextrosa sola; el ritmo de insulina se varió para mantener la glucosa lo más cerca posible de la basal. Muestras de sangre antes y a las 2, 4 y 6 horas. También se infundió dextrosa al 5 % sin insulina y suero salino en ocasiones distintas. El NF-kB intranuclear de las células mononucleares bajó a las 2 y más a las 4 horas y volvió hacia la basal a las 6 horas (P < 0,05); el IkB aumentó a las 2 horas, más a las 4 y siguió elevado a las 6 (P < 0,001). La generación de especies reactivas del oxígeno bajó a las 2 y más a las 4 horas (P < 0,005); la subunidad p47(phox) también bajó (P < 0,05). Bajaron además la molécula de adhesión intercelular soluble 1 (sICAM-1), la proteína quimiotáctica de monocitos 1 (MCP-1) y el inhibidor del activador del plasminógeno 1 (PAI-1). Las infusiones de glucosa o de suero sin insulina no cambiaron nada de esto. Conclusión: la insulina tiene un potente efecto antiinflamatorio agudo, que si se demostrara a largo plazo podría tener implicaciones para la aterosclerosis y sus complicaciones."
+    }
+  },
+  {
+    "id": "DEB-047",
+    "debate": "insulina-inflamacion",
+    "corriente": "la inflamación y la sobrealimentación empujan la resistencia a la insulina",
+    "postura": "b",
+    "tema": "debate - insulina: la inflamación como vínculo entre la resistencia a la insulina, la obesidad y la diabetes (revisión de 2004)",
+    "enunciado": "Una revisión de Trends in Immunology explica que mediadores de la inflamación como el factor de necrosis tumoral alfa y la interleucina 6 están aumentados en la obesidad y la diabetes tipo 2, estados de resistencia a la insulina, y que podrían interferir con la acción de la insulina; propone que la ingesta de glucosa y de macronutrientes causa estrés oxidativo e inflamación, que la sobrealimentación crónica sería un estado proinflamatorio y que perder el efecto antiinflamatorio de la insulina podría favorecer la inflamación.",
+    "veredicto": "matizado",
+    "matiz": "Es una revisión breve de 2004 con mecanismos que los autores presentan como posibles, no un estudio con datos nuevos. Según ella, la inflamación y la resistencia a la insulina podrían retroalimentarse, y el efecto antiinflamatorio de la insulina podría verse interferido por el aumento de TNF-alfa e IL-6. El resumen no atribuye la inflamación a la insulina: propone la ingesta de glucosa y de macronutrientes y esa interferencia. También dice que el aumento de los marcadores de inflamación predice la aparición futura de obesidad y diabetes.",
+    "fuente": "Dandona P, Aljada A, Bandyopadhyay A. Trends in Immunology 2004;25:4-7",
+    "url": "https://doi.org/10.1016/j.it.2003.10.013",
+    "anio": 2004,
+    "nivel_evidencia": "revisión de mecanismos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.it.2003.10.013)",
+      "detalle": "Revisión: la concentración plasmática de mediadores de la inflamación, como el factor de necrosis tumoral alfa (TNF-alfa) y la interleucina 6 (IL-6), está aumentada en los estados de resistencia a la insulina de la obesidad y la diabetes tipo 2. Un aumento de los mediadores o índices inflamatorios predice la aparición futura de obesidad y de diabetes. Dos mecanismos podrían estar implicados en la patogenia de la inflamación: primero, la ingesta de glucosa y de macronutrientes causa estrés oxidativo y cambios inflamatorios, así que la sobrealimentación crónica (la obesidad) podría ser un estado proinflamatorio con estrés oxidativo; segundo, las concentraciones aumentadas de TNF-alfa e IL-6 podrían interferir con la acción de la insulina al suprimir la transducción de su señal, lo que podría interferir con el efecto antiinflamatorio de la insulina y a su vez promover la inflamación."
+    }
+  },
+  {
+    "id": "DEB-048",
+    "debate": "insulina-inflamacion",
+    "corriente": "bajar hidratos no baja la inflamación más que bajar grasa",
+    "postura": "b",
+    "tema": "debate - insulina: las dietas bajas en carbohidratos y las bajas en grasa y la inflamación (metaanálisis de 25 ensayos)",
+    "enunciado": "En un metaanálisis de 25 ensayos aleatorizados (2.222 personas; mediana de 24 semanas), las dietas bajas en carbohidratos (de media, el 25,8 % de la energía en carbohidratos) no fueron mejores que las bajas en grasa (el 26 % de la energía en grasa) para bajar marcadores de inflamación: interleucina 6 (diferencia de medias estandarizada de -0,01; IC 95 % de -0,12 a 0,09), proteína C reactiva (-0,01; de -0,11 a 0,09) y factor de necrosis tumoral alfa (-0,03; de -0,18 a 0,11).",
+    "veredicto": "respaldado",
+    "matiz": "Tampoco hubo diferencias en adiponectina, leptina ni resistina, y el riesgo de sesgo fue bajo en la mayoría de los estudios. Las dietas bajas en carbohidratos aportaban de media un 48,6 % de la energía en grasa y las bajas en grasa un 54 % en carbohidratos. El resumen no mide la insulina; los autores piden explorar el papel de la calidad de los nutrientes, la adherencia y el estado metabólico.",
+    "fuente": "Stein E et al. Nutrition Research 2026;150:104-126",
+    "url": "https://doi.org/10.1016/j.nutres.2026.03.010",
+    "anio": 2026,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ensayos aleatorizados",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Europe PMC, resumen guardado por DOI y contrastado cifra por cifra con el texto de este registro por el asistente el 11-oct-2026 (DOI 10.1016/j.nutres.2026.03.010)",
+      "detalle": "25 estudios (n = 2.222) que compararon dietas bajas en carbohidratos y bajas en grasa en adultos, con mediana de duración de la intervención de 24 semanas (rango de 8 a 144). Los carbohidratos fueron de media el 25,8 % de la ingesta energética diaria en las dietas bajas en carbohidratos y el 54 % en las bajas en grasa, y la grasa fue de media el 48,6 % y el 26 %, respectivamente. Sin diferencias significativas entre ambas para la interleucina 6 (diferencia de medias estandarizada -0,01; IC 95 % -0,12 a 0,09), la proteína C reactiva (-0,01; -0,11 a 0,09) o el factor de necrosis tumoral alfa (-0,03; -0,18 a 0,11), ni para adiponectina, leptina o resistina. Riesgo de sesgo bajo en la mayoría de los estudios. Conclusión de los autores: sus resultados sugieren que las dietas bajas en carbohidratos no fueron superiores a las bajas en grasa para modular el perfil inflamatorio y de adipocinas en adultos."
+    }
+  }
+]

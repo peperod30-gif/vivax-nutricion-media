@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "TX-RES-01",
+    "tipo": "regex",
+    "grupo": "residuos de chat",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "^\\s*\\**\\s*(?:aquí tienes|aqui tienes|te propongo|esta es mi propuesta|propuesta de pie|pie de (?:la )?(?:publicaci[oó]n|foto)|pie para (?:la )?(?:publicaci[oó]n|foto)|texto del pie|texto de la publicaci[oó]n|caption)\\b[^\\n]*$",
+    "flags": "im",
+    "descripcion": "Frase de arranque del chat antes del pie («Aquí tienes una propuesta:», «Pie de publicación:»). Es un resto de la conversación, no parte del pie.",
+    "ejemplo_malo": "Aquí tienes una propuesta:\n\nSeptiembre, la cuba de purín en la puerta y el cuaderno sin abrir.",
+    "ejemplo_bueno": "Septiembre, la cuba de purín en la puerta y el cuaderno sin abrir.",
+    "origen": "humanizer-es E1; blader humanizer 22 (chatbot residue); Wikipedia Signs of AI writing (collaborative communication)",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 3,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RES-02",
+    "tipo": "regex",
+    "grupo": "residuos de chat",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "^\\s*(?:-\\s*){3,}$|^\\s*(?:\\*\\s*){3,}$|^\\s*(?:_\\s*){3,}$",
+    "flags": "m",
+    "descripcion": "Línea separadora de markdown (---, ***). En Instagram se verían tal cual y delatan que se ha pegado la salida del chat.",
+    "ejemplo_malo": "Septiembre, la cuba de purín en la puerta.\n\n---\n\nAntes de abonar, apunta parcela y fecha.",
+    "ejemplo_bueno": "Septiembre, la cuba de purín en la puerta.\n\nAntes de abonar, apunta parcela y fecha.",
+    "origen": "empírico; Wikipedia Signs of AI writing (thematic breaks between sections, Markdown)",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 5,
+      "control_25": 0,
+      "foro_real_%": 4.9,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RES-03",
+    "tipo": "regex",
+    "grupo": "residuos de chat",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:si me dices|si quieres,? puedo|puedo (?:hacer|prepararte|adaptar|ajustar|ofrecerte|escribir)|te lo (?:adapto|ajusto|cambio)|lo (?:adapto|ajusto)\\b|dime (?:qué|si|cuál|para)|¿quieres que|¿te gustaría que|(?:una )?versión (?:más )?(?:corta|larga|emotiva|cercana|desenfadada|formal)|para (?:un )?reels?\\b)",
+    "flags": "i",
+    "descripcion": "Oferta de seguir ayudando que el modelo añade al final («Si me dices el tipo de ganado, lo adapto»). Es un resto del chat.",
+    "ejemplo_malo": "Si me dices el tipo de ganado, lo adapto. También puedo hacerte una versión más corta.",
+    "ejemplo_bueno": "Si algo no te cuadra de la factura, mándanos una foto y la miramos.",
+    "origen": "empírico; humanizer-es E1; blader humanizer 22",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 5,
+      "control_25": 0,
+      "foro_real_%": 2.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RES-04",
+    "tipo": "regex",
+    "grupo": "residuos de chat",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:lo he escrito (?:como|en|con)|he (?:escrito|redactado) (?:el|este|un) (?:texto|pie|mensaje)|para que suene (?:todavía )?(?:más )?(?:a ti|natural|humano)|que no parezca (?:escrito|hecho|redactado) por (?:una )?(?:ia|inteligencia artificial)|escrito por (?:una )?(?:ia|inteligencia artificial)|tono cercano,? con frases cortas|he (?:evitado|puesto|usado|mantenido|intentado) [^\\n]{0,60}(?:emojis?|frases hechas|tono|lenguaje de marketing))",
+    "flags": "i",
+    "descripcion": "Comentario del modelo sobre su propio texto o sobre la tarea de «no parecer IA».",
+    "ejemplo_malo": "Lo he escrito en un tono cercano, sin emojis, que es lo que más delata un texto de IA.",
+    "ejemplo_bueno": "Hoy, balsa revisada y nivel anotado.",
+    "origen": "empírico (corpus extra n01-n04, Opus con la orden «que no parezca IA»). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 4,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RES-05",
+    "tipo": "regex",
+    "grupo": "residuos de chat",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\[[^\\]\\n]{2,40}\\]|\\{\\{[^}\\n]+\\}\\}|<[a-z/][^>\\n]{0,30}>|\\b(?:lorem ipsum|xxx+)\\b",
+    "flags": "i",
+    "descripcion": "Marcador sin rellenar, plantilla o etiqueta HTML en el pie.",
+    "ejemplo_malo": "Hola [nombre], este mes toca revisar {{tema}}.",
+    "ejemplo_bueno": "Este mes toca revisar los bebederos.",
+    "origen": "humanizer-es 5.1 (marcadores sin rellenar). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-01",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\*\\*[^*\\n]+\\*\\*|__[^_\\n]+__",
+    "flags": "",
+    "descripcion": "Negrita de markdown. Instagram no la interpreta: se verían los asteriscos.",
+    "ejemplo_malo": "**Los purines no son un residuo.**",
+    "ejemplo_bueno": "Los purines valen dinero si se echan cuando la tierra los pide.",
+    "origen": "empírico; blader humanizer 19 (bold as decoration); Anthropic docs: los modelos anteriores abusaban de negritas y viñetas",
+    "medido": {
+      "corpus_ia_18": 16,
+      "extra_12": 9,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-02",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "^\\s*#{1,6}\\s+\\S",
+    "flags": "m",
+    "descripcion": "Encabezado de markdown (# Título). No se renderiza y no existe en un pie de Instagram.",
+    "ejemplo_malo": "# Orgullo ganadero\n\nHoy toca limpieza.",
+    "ejemplo_bueno": "Hoy toca limpieza a fondo en la nave.",
+    "origen": "empírico; Wikipedia Signs of AI writing (Markdown / headings). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-03",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\\\#|\\\\\\*|\\\\_",
+    "flags": "",
+    "descripcion": "Carácter escapado de markdown (\\#, \\*). Se vería la barra invertida.",
+    "ejemplo_malo": "\\#Ganadería \\#Ganaderos",
+    "ejemplo_bueno": "#ganaderia #ganaderos",
+    "origen": "empírico (o04, Opus)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-04",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "^\\s*(?:[*•▪●◦‣]|[-–—]\\s)\\s*\\S",
+    "flags": "m",
+    "descripcion": "Línea que empieza por viñeta de texto (•, -, *). Un pie de Instagram escrito por una persona rara vez es una lista.",
+    "ejemplo_malo": "• Caudal suficiente en todas las líneas\n• Sin fugas ni goteos",
+    "ejemplo_bueno": "Mira el caudal de cada línea y que no haya fugas ni goteos.",
+    "origen": "empírico; humanizer-es D1",
+    "medido": {
+      "corpus_ia_18": 5,
+      "extra_12": 3,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-05",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "^\\s*(?<!‍)(?:[\\U0001F300-\\U0001FAFF☀-➿⬀-⯿←-⇿⌀-⏿■-◿]️?|[0-9#*]️?⃣)",
+    "flags": "m",
+    "descripcion": "Línea que empieza por emoji (viñeta de emoji: ✅ 🔹 📅). La viñeta de emoji es la firma de los pies hechos con IA.",
+    "ejemplo_malo": "✅ Revisa tu potencia contratada.\n✅ Aprovecha las horas valle.",
+    "ejemplo_bueno": "Revisa tu potencia contratada y mira qué horas te salen más caras.",
+    "origen": "empírico; SPEC §7; Wikipedia Signs of AI writing (emoji as formatting)",
+    "medido": {
+      "corpus_ia_18": 17,
+      "extra_12": 8,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 16.7
+    }
+  },
+  {
+    "id": "TX-FMT-06",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "\\A\\s*\\**\\s*(?<!‍)(?:[\\U0001F300-\\U0001FAFF☀-➿⬀-⯿←-⇿⌀-⏿■-◿]️?|[0-9#*]️?⃣)",
+    "flags": "",
+    "descripcion": "El pie empieza por un emoji. En el corpus de IA es la apertura más repetida.",
+    "ejemplo_malo": "🌾 Llegó la hora de sembrar el cereal de otoño.",
+    "ejemplo_bueno": "La sembradora ya está engrasada y la previsión sin decidirse.",
+    "origen": "empírico",
+    "medido": {
+      "corpus_ia_18": 13,
+      "extra_12": 6,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 16.7
+    }
+  },
+  {
+    "id": "TX-FMT-07",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "(?<!‍)(?:[\\U0001F300-\\U0001FAFF☀-➿⬀-⯿←-⇿⌀-⏿■-◿]️?|[0-9#*]️?⃣)\\s?(?<!‍)(?:[\\U0001F300-\\U0001FAFF☀-➿⬀-⯿←-⇿⌀-⏿■-◿]️?|[0-9#*]️?⃣)",
+    "flags": "",
+    "descripcion": "Dos emojis seguidos (🐄💧, 🌾🌾). Adorno puro.",
+    "ejemplo_malo": "🐄💧 Los purines valen dinero.",
+    "ejemplo_bueno": "Los purines valen dinero. 💧",
+    "origen": "empírico",
+    "medido": {
+      "corpus_ia_18": 7,
+      "extra_12": 4,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 16.7
+    }
+  },
+  {
+    "id": "TX-FMT-08",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "[✅☑✔👉👇💬📩📲💡⚡📊💪🤝✨🚀🔹🔸📌📍📋📅⏰⚠]",
+    "flags": "",
+    "descripcion": "Emoji funcional de plantilla (✅ 👉 👇 💬 📩 📲 💡 💪 🤝 ✨ 🚀 🔹 📌 📅). Son los que los modelos reparten para señalar, no para decir algo.",
+    "ejemplo_malo": "👇 Cuéntanos qué tal va tu campaña.",
+    "ejemplo_bueno": "Cuéntanos qué tal va tu campaña.",
+    "origen": "empírico",
+    "medido": {
+      "corpus_ia_18": 17,
+      "extra_12": 8,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-09",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "…|\\.{3,}",
+    "flags": "",
+    "descripcion": "Puntos suspensivos. Los modelos los usan para dejar frases en el aire y dar énfasis.",
+    "ejemplo_malo": "Solicitudes, guías, libro de explotación, registros...",
+    "ejemplo_bueno": "Solicitudes, guías, libro de explotación y registros.",
+    "origen": "humanizer-es 3.10; empírico",
+    "medido": {
+      "corpus_ia_18": 6,
+      "extra_12": 7,
+      "control_25": 0,
+      "foro_real_%": 16.2,
+      "mastodon_real_%": 22.2
+    }
+  },
+  {
+    "id": "TX-FMT-10",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\\"[^\\\"\\n]{2,70}\\\"",
+    "flags": "",
+    "descripcion": "Comillas rectas. En esta cuenta las citas van entre « » y no se usan para dar énfasis.",
+    "ejemplo_malo": "\"El campo no necesita tecnología\"",
+    "ejemplo_bueno": "«El campo no necesita tecnología»",
+    "origen": "humanizer-es D3; empírico (s12)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 2.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FMT-11",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "\\b(?!(?:SIGPAC|VIVAX|AGROSEGURO|ECOGAN|COVAP|UAGA|ASAJA|ESYRCE|DIETFITS|AEMPS|AESAN|PREDIMED|AEMET|MITECO|FEGA|EUROSTAT)\\b)[A-ZÁÉÍÓÚÑ]{5,}\\b",
+    "flags": "",
+    "descripcion": "Palabra entera en mayúsculas como énfasis.",
+    "ejemplo_malo": "El plazo es IMPORTANTE para todos.",
+    "ejemplo_bueno": "El plazo termina pronto.",
+    "origen": "humanizer-es 3.4. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 10.3,
+      "mastodon_real_%": 11.1
+    }
+  },
+  {
+    "id": "TX-FMT-12",
+    "tipo": "regex",
+    "grupo": "formato y emojis",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "[→←↑↓➡⬇⬆►▶●◆★☆✓]",
+    "flags": "",
+    "descripcion": "Flecha o símbolo tipográfico usado como adorno o viñeta.",
+    "ejemplo_malo": "Cuaderno → móvil → registro",
+    "ejemplo_bueno": "Del cuaderno al móvil y de ahí al registro.",
+    "origen": "humanizer-es 3.5. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-HSH-01",
+    "tipo": "regex",
+    "grupo": "hashtags",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "#(?:[A-ZÁÉÍÓÚÑ][a-záéíóúñü]+){4,}|#[\\wáéíóúñü]{26,}",
+    "flags": "",
+    "descripcion": "Hashtag larguísimo o hecho de cuatro palabras pegadas. A veces el modelo une dos hashtags sin querer.",
+    "ejemplo_malo": "#AgriculturaDePrecisiónGanaderíaModerna",
+    "ejemplo_bueno": "#ganaderia",
+    "origen": "empírico (s12)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 16.7
+    }
+  },
+  {
+    "id": "TX-HSH-02",
+    "tipo": "regex",
+    "grupo": "hashtags",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "^\\s*(?:#[\\wáéíóúüñ]+[ \\t]*){3,}$",
+    "flags": "m",
+    "descripcion": "Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies.",
+    "ejemplo_malo": "#purines #ganaderia #campo #granja",
+    "ejemplo_bueno": "Los purines, antes de abonar. #ganaderia",
+    "origen": "empírico",
+    "medido": {
+      "corpus_ia_18": 17,
+      "extra_12": 12,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 22.2
+    }
+  },
+  {
+    "id": "TX-HSH-03",
+    "tipo": "regex",
+    "grupo": "hashtags",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "#(?:agrotech|agritech|agricultura40|innovaci[oó]n\\w*|sostenibilidad|sostenible|sectorprimario|campoespa[ñn]ol|vidarural|mundorural|ruralidad|futurorural|campointeligente|campodigital|ganaderiainteligente|agriculturadigital|tecnologiaagraria|tecnologiaagricola|agro|campo)\\b",
+    "flags": "i",
+    "descripcion": "Hashtag genérico de relleno (#agrotech, #innovacion, #sostenibilidad, #campo). No ayuda al alcance y suena a banco de hashtags.",
+    "ejemplo_malo": "#agrotech #innovacion #sostenibilidad",
+    "ejemplo_bueno": "#purines #porcino",
+    "origen": "empírico; SPEC §4 (máximo 4 hashtags)",
+    "medido": {
+      "corpus_ia_18": 17,
+      "extra_12": 9,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-HSH-04",
+    "tipo": "regex",
+    "grupo": "hashtags",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 8,
+    "regex": "#\\w*(?:colombia|mexic|argentin|chile|peru|ecuador|venezuela|latam|latinoam|costarric|boliv)\\w*",
+    "flags": "i",
+    "descripcion": "Hashtag de otro país. El modelo no sabe que escribimos para Aragón y España.",
+    "ejemplo_malo": "#CampoColombiano",
+    "ejemplo_bueno": "#aragon",
+    "origen": "empírico (x02: sin contexto, Sonnet puso #CampoColombiano). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 11.1
+    }
+  },
+  {
+    "id": "TX-APE-01",
+    "tipo": "regex",
+    "grupo": "aperturas",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\A[^\\n]{0,60}¿\\s*(?:sab[ií]as que|cansad[oa]|hart[oa]|y si\\b|alguna vez|te has preguntado|te imaginas|has (?:mirado|revisado|pensado)|tu [^?\\n]{3,40} se come)",
+    "flags": "i",
+    "descripcion": "Pregunta de gancho en la primera línea («¿Sabías que…?», «¿Y si…?», «¿Cansado de…?»).",
+    "ejemplo_malo": "¿Y si tus purines fueran un recurso en vez de un problema?",
+    "ejemplo_bueno": "Septiembre, la cuba de purín en la puerta y el cuaderno sin abrir.",
+    "origen": "humanizer-es A4; empírico (s01, s06, o04)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-APE-02",
+    "tipo": "regex",
+    "grupo": "aperturas",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\A[^\\n]*¿(?!\\s*(?:cu[aá]nt\\w*|c[oó]mo|qu[eé]|cu[aá]ndo|d[oó]nde|qui[eé]n\\w*|cu[aá]l\\w*|por qu[eé])\\b)[^\\n]*\\?",
+    "flags": "i",
+    "descripcion": "La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas horas…?») no salta.",
+    "ejemplo_malo": "¿Tu factura de la luz se come el margen de la granja?",
+    "ejemplo_bueno": "La factura de la luz de la granja se mira mejor con el cuaderno al lado.",
+    "origen": "empírico; humanizer-es regla 13",
+    "medido": {
+      "corpus_ia_18": 3,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 5.4,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-APE-03",
+    "tipo": "regex",
+    "grupo": "aperturas",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:¡\\s*)?(?:lleg[oó]|ha llegado|llega) (?:la|el) (?:hora|momento|vendimia|campaña|siembra|cosecha|temporada|primavera|otoño|verano)\\b",
+    "flags": "i",
+    "descripcion": "Arranque de plantilla «Llegó la vendimia», «Ha llegado el momento».",
+    "ejemplo_malo": "¡Llegó la hora de sembrar el cereal de otoño!",
+    "ejemplo_bueno": "La sembradora ya está engrasada y la previsión sin decidirse.",
+    "origen": "humanizer-es A4; empírico (s04, s09)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-APE-04",
+    "tipo": "regex",
+    "grupo": "aperturas",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:presentamos|te presentamos|conoce (?:el|la|los|las|nuestro|nuestra)|descubre|descubrid|bienvenid[oa]s? a|nace\\b|ya (?:est[aá]|llega) (?:aqu[ií]|disponible))\\b",
+    "flags": "i",
+    "descripcion": "Anuncio de lanzamiento o imperativo de catálogo («Presentamos…», «Descubre…»).",
+    "ejemplo_malo": "Presentamos el cuaderno digital de campo.",
+    "ejemplo_bueno": "Con el cuaderno digital, lo que apuntas en el campo queda en el móvil.",
+    "origen": "humanizer-es A4/C1; empírico (s03)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-APE-05",
+    "tipo": "regex",
+    "grupo": "aperturas",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bno (?:dejes|te pierdas|esperes|olvides|te quedes)\\b",
+    "flags": "i",
+    "descripcion": "Urgencia de plantilla («no dejes pasar», «no esperes»).",
+    "ejemplo_malo": "PAC: no dejes pasar tus plazos.",
+    "ejemplo_bueno": "Antes de que llegue el plazo, comprueba tus parcelas en el SIGPAC.",
+    "origen": "humanizer-es sección 2.6; empírico (s13)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-01",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\bno (?:es|son|era|eran|fue|significa) (?:solo |sólo |solamente |simplemente |únicamente )?[^.\\n!?]{1,70}?\\s*[,;:—–]\\s*\\**\\s*(?:es|son|era|eran|fue|sino|significa)\\b",
+    "flags": "i",
+    "descripcion": "«No es X, es Y» en una sola frase. Niega algo que nadie ha dicho para que la segunda mitad parezca más grande.",
+    "ejemplo_malo": "Ser ganadero no es un trabajo, es una forma de vida.",
+    "ejemplo_bueno": "Ser ganadero es levantarse cuando hay un parto, haga la hora que haga.",
+    "origen": "humanizer-es A1; blader humanizer 1; Wikipedia Signs of AI writing (negative parallelisms); empírico",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 4,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-02",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\bno (?:es|son|era|eran) [^.\\n!?]{1,50}[.!?]\\s+(?-i:Es|Son|Era|Eran|Significa|Fue)\\b",
+    "flags": "i",
+    "descripcion": "«No es X. Es Y.» partido en dos frases.",
+    "ejemplo_malo": "Los purines no son un residuo. Son abono.",
+    "ejemplo_bueno": "Los purines valen dinero si se echan cuando la tierra los pide.",
+    "origen": "humanizer-es A1; empírico (o01)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-03",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\bno (?:solo|sólo|solamente|únicamente)\\b[^.\\n]{1,90}\\bsino\\b",
+    "flags": "i",
+    "descripcion": "«No solo X, sino también Y».",
+    "ejemplo_malo": "No solo ahorras agua, sino que también cuidas el suelo.",
+    "ejemplo_bueno": "Con el goteo gastas menos agua y el suelo aguanta mejor.",
+    "origen": "humanizer-es A1; Wikipedia Signs of AI writing (not just X but Y). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-04",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\bno (?:sustituye|reemplaza|sustituyen|reemplazan|sustituir[aá]|reemplazar[aá])\\b[^.\\n]{1,60}[,;:]\\s*\\**\\s*(?:la|lo|los|las|te|se)\\b",
+    "flags": "i",
+    "descripcion": "«La tecnología no sustituye tu experiencia, la potencia». Es la versión tecnológica del «no es X, es Y».",
+    "ejemplo_malo": "La IA no sustituye tu experiencia, la potencia.",
+    "ejemplo_bueno": "La IA puede pasar tu audio a texto. La decisión sigue siendo tuya.",
+    "origen": "empírico (s12, s14); humanizer-es A1/G7",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-05",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\bmenos [^.\\n,]{1,40},\\s*más\\b|\\bmás [^.\\n,]{1,40},\\s*menos\\b",
+    "flags": "i",
+    "descripcion": "«Menos X, más Y» (o al revés).",
+    "ejemplo_malo": "Menos burocracia, más tiempo para el campo.",
+    "ejemplo_bueno": "Pasar el cuaderno a limpio te lleva un rato cada semana; con un audio al salir de la nave se reduce.",
+    "origen": "humanizer-es A1; empírico (s03, s07)",
+    "medido": {
+      "corpus_ia_18": 3,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-06",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bmás que (?:un|una|unos|unas) [^.\\n,]{1,40}[,;]",
+    "flags": "i",
+    "descripcion": "«Más que un trabajo, una forma de vida». Contraste de relleno.",
+    "ejemplo_malo": "Más que un trabajo, una forma de vida.",
+    "ejemplo_bueno": "Es un trabajo que no tiene horario.",
+    "origen": "humanizer-es A1. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-07",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\bsin [a-záéíóúñ]+(?: [a-záéíóúñ]+)?\\.\\s+sin\\b|\\bsin (?:papeles|l[ií]os|sustos|complicaciones|preocupaciones|esfuerzo|estr[eé]s|dolores de cabeza|quebraderos de cabeza)\\b",
+    "flags": "i",
+    "descripcion": "«Sin papeles, sin líos, sin sustos» y variantes. Tríada negativa de folleto.",
+    "ejemplo_malo": "Todo en el móvil, sin papeles ni complicaciones.",
+    "ejemplo_bueno": "Lo apuntas en el móvil y lo tienes por fecha cuando te lo pidan.",
+    "origen": "humanizer-es B1/C6; empírico (s03, s07, o03)",
+    "medido": {
+      "corpus_ia_18": 3,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-08",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "¿\\s*(?:el|la|lo)\\s+(?:resultado|soluci[oó]n|truco|secreto|diferencia|clave|mejor)\\s*\\?",
+    "flags": "i",
+    "descripcion": "Pregunta y respuesta escenificada («¿El resultado? Menos papeles.»).",
+    "ejemplo_malo": "¿El resultado? Menos papeles.",
+    "ejemplo_bueno": "Con el registro del mes a mano tardas menos en preparar la documentación.",
+    "origen": "humanizer-es A4. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-09",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:esfuerzo|sacrificio|constancia|paciencia|tradici[oó]n|futuro|experiencia|sabidur[ií]a|pasi[oó]n|ilusi[oó]n|compromiso|dedicaci[oó]n|tiempo|tranquilidad|control|rentabilidad|eficiencia|ahorro|calidad|seguridad|confianza|conocimiento|cari[ñn]o|coraz[oó]n|ganas|valent[ií]a|orgullo|bienestar|productividad|rendimiento|sudor|decisiones|resultados|innovaci[oó]n|vocaci[oó]n|respeto|humildad|honestidad|cercan[ií]a|trabajo|cabeza|manos|fuerza|alegr[ií]a|esperanza|orden|claridad|agilidad|sencillez)\\b(?:\\s+[\\wáéíóúñ]+){0,2},\\s+(?:[\\wáéíóúñ]+\\s+){0,2}\\b(?:esfuerzo|sacrificio|constancia|paciencia|tradici[oó]n|futuro|experiencia|sabidur[ií]a|pasi[oó]n|ilusi[oó]n|compromiso|dedicaci[oó]n|tiempo|tranquilidad|control|rentabilidad|eficiencia|ahorro|calidad|seguridad|confianza|conocimiento|cari[ñn]o|coraz[oó]n|ganas|valent[ií]a|orgullo|bienestar|productividad|rendimiento|sudor|decisiones|resultados|innovaci[oó]n|vocaci[oó]n|respeto|humildad|honestidad|cercan[ií]a|trabajo|cabeza|manos|fuerza|alegr[ií]a|esperanza|orden|claridad|agilidad|sencillez)\\b(?:\\s+[\\wáéíóúñ]+){0,2}(?:,|\\s+y|\\s+e)\\s+(?:[\\wáéíóúñ]+\\s+){0,2}(?:esfuerzo|sacrificio|constancia|paciencia|tradici[oó]n|futuro|experiencia|sabidur[ií]a|pasi[oó]n|ilusi[oó]n|compromiso|dedicaci[oó]n|tiempo|tranquilidad|control|rentabilidad|eficiencia|ahorro|calidad|seguridad|confianza|conocimiento|cari[ñn]o|coraz[oó]n|ganas|valent[ií]a|orgullo|bienestar|productividad|rendimiento|sudor|decisiones|resultados|innovaci[oó]n|vocaci[oó]n|respeto|humildad|honestidad|cercan[ií]a|trabajo|cabeza|manos|fuerza|alegr[ií]a|esperanza|orden|claridad|agilidad|sencillez)\\b",
+    "flags": "i",
+    "descripcion": "Tríada de sustantivos abstractos («tradición, esfuerzo y futuro»). Tres cosas porque suena redondo.",
+    "ejemplo_malo": "Somos tradición, esfuerzo y futuro.",
+    "ejemplo_bueno": "Entre la ronda de la nave y el papeleo, el día se va.",
+    "origen": "humanizer-es B1; blader humanizer 6; Russell et al. 2025 (repetitive three-item lists, 36 % de las explicaciones de los detectores humanos); empírico",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-10",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:r[aá]pid|f[aá]cil|sencill|simple|c[oó]mod|segur|intuitiv|eficaz|[aá]gil|flexible|pr[aá]ctic|[uú]til|fiable)\\w* (?:y|e) (?:r[aá]pid|f[aá]cil|sencill|simple|c[oó]mod|segur|intuitiv|eficaz|[aá]gil|flexible|pr[aá]ctic|[uú]til|fiable)\\w*",
+    "flags": "i",
+    "descripcion": "Par de adjetivos vacíos («rápido y sencillo», «claro y útil»).",
+    "ejemplo_malo": "Una forma rápida y sencilla de llevar el cuaderno.",
+    "ejemplo_bueno": "Apuntas la parcela y la fecha desde el móvil y listo.",
+    "origen": "humanizer-es G6. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-11",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:una|un|el|la) (?:buen[ao]?|bien) [a-záéíóúñ]+ (?:es|son) (?:la |el )?(?:base|clave|garant[ií]a|sin[oó]nimo|origen|semilla) (?:de|para)\\b|\\b(?:una|un) [a-záéíóúñ]+ (?:a tiempo|bien hecha?) es (?:una|un|el|la) [a-záéíóúñ]+ (?:asegurad|garantizad)[oa]\\b",
+    "flags": "i",
+    "descripcion": "Aforismo de pie de foto («Una buena siembra es la base de una buena cosecha»).",
+    "ejemplo_malo": "Una buena siembra es la base de una buena cosecha.",
+    "ejemplo_bueno": "Sembrar con el suelo en tempero ahorra una semana de nascencia.",
+    "origen": "humanizer-es A3; empírico (s09, s13)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-12",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "^\\W*porque\\b[^\\n]{10,}",
+    "flags": "im",
+    "descripcion": "Cierre moral que empieza por «Porque…». Explica lo que ya se ha dicho.",
+    "ejemplo_malo": "Porque sin relevo generacional no hay futuro rural.",
+    "ejemplo_bueno": "El relevo se prepara con años de antelación y con papeles.",
+    "origen": "humanizer-es A2; empírico (s11, o03)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-13",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:con|para|de|por|en) [^.\\n,;:]{3,40}, no (?:a|con|para|de|por|en|sobre|contra|desde|hacia) [a-záéíóúñ]+",
+    "flags": "i",
+    "descripcion": "Contraste «X, no Y» con preposición repetida («con datos, no a ciegas», «para el campo, no para la oficina»). Una negación normal («En Huesca, no hay») no salta.",
+    "ejemplo_malo": "Tu tiempo es para el campo, no para la oficina.",
+    "ejemplo_bueno": "Cada semana se te van dos tardes en la oficina.",
+    "origen": "humanizer-es A1; empírico (s12, o03); afinada en la fase 3 (falsos positivos con «En X, no hay»)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 2.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-14",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:d[eé]janos(?:lo|la|los|las)|d[eé]jalo en nuestras manos|nosotros nos encargamos|nos encargamos (?:del resto|de todo|nosotros))\\b|\\btú (?:céntrate|a lo tuyo|solo)\\b[^.\\n]{0,50}(?:nosotros|vivax)",
+    "flags": "i",
+    "descripcion": "Reparto de papeles «tú al campo, nosotros a los papeles». Además promete más de lo que Vivax hace.",
+    "ejemplo_malo": "Los papeles, déjanoslos a nosotros.",
+    "ejemplo_bueno": "Si quieres, nos sentamos y vemos qué papeles te quitan más tiempo.",
+    "origen": "humanizer-es G3; empírico (s07)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-15",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bno (?:es|son) (?:dejadez|descuido|falta de|culpa|por|una cuesti[oó]n)\\b",
+    "flags": "i",
+    "descripcion": "Negación de algo que nadie ha dicho («No es dejadez…»). Discute con nadie.",
+    "ejemplo_malo": "No es dejadez, bastante hay con sacar la granja adelante.",
+    "ejemplo_bueno": "Bastante hay con sacar la granja adelante.",
+    "origen": "humanizer-es A5; empírico (n04). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RIT-01",
+    "tipo": "regex",
+    "grupo": "ritmo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "^(\\w{3,})\\b[^\\n]*\\n(?:[ \\t]*\\n)?\\1\\b[^\\n]*\\n(?:[ \\t]*\\n)?\\1\\b",
+    "flags": "im",
+    "descripcion": "Tres líneas seguidas que empiezan por la misma palabra (anáfora).",
+    "ejemplo_malo": "Revisa la potencia.\nRevisa la tarifa.\nRevisa los equipos.",
+    "ejemplo_bueno": "Revisa la potencia contratada, la tarifa y qué equipos funcionan en hora punta.",
+    "origen": "humanizer-es B2. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 1.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RIT-02",
+    "tipo": "regex",
+    "grupo": "ritmo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": ",\\s*(?:permitiendo|garantizando|asegurando|facilitando|ofreciendo|contribuyendo|fomentando|potenciando|optimizando|mejorando|aportando|generando|logrando|ahorrando|reflejando|destacando)\\b",
+    "flags": "i",
+    "descripcion": "Gerundio colgado al final de la frase («…, garantizando el cumplimiento»).",
+    "ejemplo_malo": "Registra tus tratamientos, garantizando el cumplimiento normativo.",
+    "ejemplo_bueno": "Registras el tratamiento y queda con su fecha.",
+    "origen": "humanizer-es C5; Reinhart et al. (PNAS) 2024: las participiales del modelo, 2 a 5 veces más que en texto humano (inglés). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-RIT-03",
+    "tipo": "regex",
+    "grupo": "ritmo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": ",\\s*lo que (?:permite|supone|garantiza|facilita|significa|conlleva|se traduce|ayuda|asegura|aporta)\\b",
+    "flags": "i",
+    "descripcion": "«…, lo que permite / lo que se traduce en». Consecuencia grandilocuente pegada al final.",
+    "ejemplo_malo": "Registras por voz, lo que se traduce en más tranquilidad.",
+    "ejemplo_bueno": "Registras por voz y el registro queda hecho esa misma tarde.",
+    "origen": "humanizer-es C5. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-01",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:potenci(?:ar|ando|amos|an|ado|ada)|impuls(?:ar|ando|amos|ado|ada)|optimiz\\w+|maximiz\\w+|fomentar|fomentando|empoder\\w+|revolucion\\w+|transform(?:ar|ando|amos)\\b|moderniz\\w+|digitaliz\\w+|redefin\\w+|reinvent\\w+)\\b|\\b(?:la|lo|los|las)\\s+\\**potencia\\**\\s*[.,;!]|\\bpotencia (?:tu|tus|su|sus|el|los|las|al)\\b",
+    "flags": "i",
+    "descripcion": "Verbos inflados de folleto: potenciar, impulsar, optimizar, modernizar, digitalizar, revolucionar.",
+    "ejemplo_malo": "Moderniza tu gestión agrícola y potencia tu explotación.",
+    "ejemplo_bueno": "Apunta los riegos en el móvil y mira cuántas horas llevas este mes.",
+    "origen": "humanizer-es C1, 2.1; Kobak et al. 2025 (vocabulario en exceso); empírico (s03, s12, s14)",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 1.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-02",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:innovaci[oó]n|innovador\\w*|disruptiv\\w+|vanguardi\\w+|tecnolog[ií]a punta|de punta|integral(?:es)?|hol[ií]stic\\w+|robust\\w+|crucial(?:es)?|primordial(?:es)?|excepcional\\w*|incre[ií]bles?|inigualables?|sin igual)\\b",
+    "flags": "i",
+    "descripcion": "Adjetivos de folleto: innovador, integral, robusto, crucial, excepcional.",
+    "ejemplo_malo": "Una solución innovadora e integral.",
+    "ejemplo_bueno": "Un cuaderno que se rellena desde el móvil.",
+    "origen": "humanizer-es C6, 2.2; Russell et al. 2025 (vocabulario, 53 % de las explicaciones de los detectores humanos); Wikipedia Signs of AI writing",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-03",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:sinergi\\w+|ecosistemas?|panoramas?|paradigmas?|tapiz|entramado|mosaico|sinfon[ií]a|piedra angular|motor del cambio|propuesta de valor)\\b",
+    "flags": "i",
+    "descripcion": "Sustantivos abstractos de IA: ecosistema, panorama, paradigma, sinergia.",
+    "ejemplo_malo": "En el ecosistema agrario actual, la sinergia es clave.",
+    "ejemplo_bueno": "En la cooperativa se habla del precio del cereal y de si llueve.",
+    "origen": "humanizer-es C1, 2.3. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-04",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:soluci[oó]n(?:es)?)\\b",
+    "flags": "i",
+    "descripcion": "«Solución / soluciones». Di qué es.",
+    "ejemplo_malo": "Una solución digital para tu granja.",
+    "ejemplo_bueno": "Un cuaderno digital para tu granja.",
+    "origen": "humanizer-es C1, 2.3",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 2.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-05",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:plataformas?|herramientas?|apps? de gesti[oó]n|software)\\b",
+    "flags": "i",
+    "descripcion": "Palabra de catálogo: plataforma, herramienta, software. Mejor el nombre de la cosa.",
+    "ejemplo_malo": "Herramientas para controlar costes desde el móvil.",
+    "ejemplo_bueno": "Una hoja de cálculo para apuntar los gastos del mes.",
+    "origen": "humanizer-es 2.10",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-06",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:claves?|fechas? clave|datos? clave|momento clave|paso clave|es clave|son clave|esenciales?|fundamental(?:es)?|vital(?:es)?|imprescindibles?|indispensables?)\\b",
+    "flags": "i",
+    "descripcion": "«Clave» o adjetivo de importancia (fundamental, esencial, imprescindible).",
+    "ejemplo_malo": "Claves para sacarle partido a tu purín.",
+    "ejemplo_bueno": "Lo que conviene mirar antes de abonar.",
+    "origen": "humanizer-es C1 («clave» como adjetivo); Wikipedia Signs of AI writing (key, crucial, vital)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-07",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:marc(?:a|an|ar|ando) la diferencia|sacar(?:les|le|te)? (?:el )?(?:máximo )?(?:partido|provecho)|tom(?:a|ar|as) mejores decisiones|decisiones (?:con|basadas en) datos|a ciegas|mejor(?:a|ar) (?:tu|la) (?:rentabilidad|productividad)|lo que de verdad importa|lo que realmente importa|(?:siempre|todo) (?:bajo control|al d[ií]a)|a un clic|cada mes la misma historia)\\b",
+    "flags": "i",
+    "descripcion": "Frases hechas de folleto: «marcan la diferencia», «sacarle partido», «tomar mejores decisiones».",
+    "ejemplo_malo": "Tu campo, siempre bajo control. Detalles que marcan la diferencia.",
+    "ejemplo_bueno": "Vendimiar a primera hora ayuda a que la uva llegue más fresca.",
+    "origen": "humanizer-es A3/C2; empírico (s01, s04, s06, s12, s14)",
+    "medido": {
+      "corpus_ia_18": 8,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-08",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:eficien\\w+|eficaz\\w*|sostenib\\w+|rentab\\w+|[oó]ptim[oa]s?)\\b",
+    "flags": "i",
+    "descripcion": "Palabras de moda sin dato: eficiente, sostenible, rentable, óptimo.",
+    "ejemplo_malo": "Una gestión eficiente y sostenible.",
+    "ejemplo_bueno": "Gastar menos pienso por kilo de cerdo.",
+    "origen": "humanizer-es C6; empírico",
+    "medido": {
+      "corpus_ia_18": 8,
+      "extra_12": 3,
+      "control_25": 0,
+      "foro_real_%": 2.9,
+      "mastodon_real_%": 5.6
+    }
+  },
+  {
+    "id": "TX-LEX-09",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:asimismo|adicionalmente|en este sentido|en definitiva|en resumen|en conclusi[oó]n|sin duda|cabe (?:destacar|se[ñn]alar|mencionar)|es importante (?:destacar|recordar|se[ñn]alar|tener en cuenta)|hoy en d[ií]a|en el mundo actual|en la actualidad|por ende)\\b",
+    "flags": "i",
+    "descripcion": "Conectores y muletillas de IA: asimismo, en definitiva, sin duda, hoy en día, cabe destacar.",
+    "ejemplo_malo": "Hoy en día, es importante destacar que el cuaderno ayuda.",
+    "ejemplo_bueno": "El cuaderno ayuda cuando alguien te pregunta por una fecha.",
+    "origen": "humanizer-es C1, 2.4; Wikipedia Signs of AI writing (Additionally). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 1.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-10",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:pon[eé]rtelo (?:más )?(?:f[aá]cil|sencillo)|facilit(?:a|ar|amos|an) (?:tu|el|la|los|las)|simplific(?:a|ar|amos)|agiliz\\w+)\\b",
+    "flags": "i",
+    "descripcion": "«Para ponértelo más fácil», «facilitar tu día a día». No dice qué paso desaparece.",
+    "ejemplo_malo": "La IA ya está en el campo para ponértelo más fácil.",
+    "ejemplo_bueno": "Con un audio al salir de la nave te ahorras pasar el parte a mano.",
+    "origen": "humanizer-es C1; empírico (s14)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-11",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:los expertos|seg[uú]n (?:los )?(?:expertos|estudios|diversos estudios)|estudios (?:demuestran|recientes)|est[aá] demostrado|cada vez m[aá]s (?:ganaderos|agricultores|j[oó]venes|granjas|explotaciones)|cada d[ií]a son m[aá]s)\\b",
+    "flags": "i",
+    "descripcion": "Autoridad o tendencia sin nombre («cada vez más ganaderos…», «según estudios»).",
+    "ejemplo_malo": "Cada día son más los jóvenes que vuelven al campo.",
+    "ejemplo_bueno": "En la cooperativa de mi pueblo hay dos socios nuevos este año.",
+    "origen": "humanizer-es C7; Wikipedia Signs of AI writing (vague attributions); empírico (s11)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CLI-01",
+    "tipo": "regex",
+    "grupo": "tópicos del campo",
+    "aplica": [],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:forma de vida|manos curtidas|con la (?:frente|cabeza) (?:en alto|bien alta|muy alta)|llevamos en la sangre|cada amanecer|de generaci[oó]n en generaci[oó]n|cada (?:vaso|litro) de leche|los que nos dan de comer|h[eé]roes del campo|guardianes de (?:la tierra|el campo)|sudor y esfuerzo|vida de campo|a mucha honra|la tierra que nos heredaron)\\b",
+    "flags": "i",
+    "descripcion": "Tópicos del «orgullo del oficio»: forma de vida, manos curtidas, con la frente en alto, cada amanecer.",
+    "ejemplo_malo": "Ser ganadero es una forma de vida, con las manos curtidas y la cabeza bien alta.",
+    "ejemplo_bueno": "Hay un trabajo que no sale en ninguna foto: levantarte a las tres de la mañana a ver la paridera.",
+    "origen": "humanizer-es G2/G11; empírico (s05, o02, x02, c02)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 3,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CLI-02",
+    "tipo": "regex",
+    "grupo": "tópicos del campo",
+    "aplica": [],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:(?:el )?futuro (?:del|de la) (?:campo|agricultura|ganader[ií]a|sector)|futuro rural|tiene cara joven|(?:la )?nueva era|el campo del futuro|campo (?:inteligente|digital|4\\.0)|(?:agricultura|ganader[ií]a) (?:4\\.0|inteligente|digital))\\b",
+    "flags": "i",
+    "descripcion": "«El futuro del campo», «agricultura 4.0», «campo inteligente».",
+    "ejemplo_malo": "El futuro del campo tiene cara joven.",
+    "ejemplo_bueno": "Este año se incorpora un hijo a la explotación y hay que preparar los papeles.",
+    "origen": "humanizer-es C3, G2; empírico (s11, s12, s14)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CLI-03",
+    "tipo": "regex",
+    "grupo": "tópicos del campo",
+    "aplica": [],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:tradici[oó]n (?:e|y) (?:innovaci[oó]n|tecnolog[ií]a|futuro|modernidad)|lo mejor de (?:los )?(?:dos|ambos) mundos|se (?:dan la mano|encuentra con))\\b",
+    "flags": "i",
+    "descripcion": "«Tradición e innovación», «lo mejor de ambos mundos».",
+    "ejemplo_malo": "El campo de hoy combina tradición e innovación.",
+    "ejemplo_bueno": "Mucha gente sigue con la libreta y algunos ya apuntan en el móvil.",
+    "origen": "humanizer-es G4; empírico (s12)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CLI-04",
+    "tipo": "regex",
+    "grupo": "tópicos del campo",
+    "aplica": [],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:cada (?:gota|detalle|grano|semilla|euro|kilo|minuto|decisi[oó]n) cuenta|el tiempo es oro|el campo (?:no (?:para|descansa|duerme|se detiene)|nunca (?:para|descansa|duerme))|la (?:luz|tierra|vida|granja) (?:no|nunca) (?:descansa|para|duerme)|no hay (?:futuro|campo) sin|sin (?:relevo generacional|campo|agricultores|ganaderos) no hay)\\b",
+    "flags": "i",
+    "descripcion": "Refrán o sentencia de folleto: «cada gota cuenta», «el campo no descansa».",
+    "ejemplo_malo": "Cada gota cuenta.",
+    "ejemplo_bueno": "Una fuga pequeña en el goteo se come muchos litros a final de mes.",
+    "origen": "humanizer-es A3; empírico (s10, s11, n04)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CLI-05",
+    "tipo": "regex",
+    "grupo": "tópicos del campo",
+    "aplica": [],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:sembr\\w+ (?:el )?(?:futuro|confianza|innovaci[oó]n|tecnolog[ií]a)|cosech\\w+ (?:resultados|[eé]xitos)|echar ra[ií]ces|ra[ií]ces del campo|terreno f[eé]rtil|semilla del cambio|del campo a (?:tu|la) mesa)\\b",
+    "flags": "i",
+    "descripcion": "Metáfora agrícola de folleto (sembrar futuro, cosechar resultados, del campo a la mesa).",
+    "ejemplo_malo": "Sembramos tecnología para que tú coseches resultados.",
+    "ejemplo_bueno": "Esta semana toca sembrar y la tierra está en tempero.",
+    "origen": "humanizer-es G2. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CLI-06",
+    "tipo": "regex",
+    "grupo": "tópicos del campo",
+    "aplica": [],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:gracias (?:a|por) (?:quienes|todos (?:los|las)|los que|las que|vuestr[oa]s?)|sois (?:el|la|quienes|los|las))\\b",
+    "flags": "i",
+    "descripcion": "Gratitud genérica al sector («Gracias a quienes madrugan», «Sois el origen de…»). Apoyar al campo con un dato concreto vale más.",
+    "ejemplo_malo": "Gracias a quienes madrugan y sacan adelante la cosecha.",
+    "ejemplo_bueno": "Hoy en muchas fincas hay una cuadrilla recogiendo uva desde las siete.",
+    "origen": "humanizer-es G11/G5; empírico (s04, s08, c02)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-VOZ-01",
+    "tipo": "regex",
+    "grupo": "voz",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:somos (?:ganaderos|agricultores|quienes|los que|tradici[oó]n)|(?<!no )soy (?:ganader[oa]|agricult(?:or|ora)|pastor[a]?)|orgullos[oa]s? de ser (?:ganader|agricult)\\w+|yo (?:soy|tambi[eé]n) (?:ganader|agricult)\\w+)\\b",
+    "flags": "i",
+    "descripcion": "El pie habla como si Vivax fuera ganadero o agricultor. SPEC §1: nunca se hacen pasar por uno.",
+    "ejemplo_malo": "Somos tradición, esfuerzo y futuro. ¡Orgullosos de ser ganaderos!",
+    "ejemplo_bueno": "Nosotros no tenemos vacas: lo nuestro son los papeles y las cuentas.",
+    "origen": "SPEC §1 (marca a la vista); empírico (s05, o02, x02)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-VOZ-02",
+    "tipo": "regex",
+    "grupo": "voz",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bnuestr[oa]s? (?:animales|ganado|reba[ñn]os?|vacas|ovejas|cultivos|oficio|campo|tierra|pueblos?)\\b",
+    "flags": "i",
+    "descripcion": "«Nuestro campo / nuestra tierra / nuestros pueblos» dicho por la marca. Suena a que la marca es del oficio.",
+    "ejemplo_malo": "Sin vosotros, nuestros pueblos no serían lo mismo.",
+    "ejemplo_bueno": "Sin vosotros, muchos pueblos de Aragón se quedarían sin una tienda abierta.",
+    "origen": "SPEC §1; empírico (c02). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-VOZ-03",
+    "tipo": "regex",
+    "grupo": "voz",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:sabemos (?:que|lo|cu[aá]nto)|entendemos (?:que|lo|tus|vuestras)|conocemos (?:bien )?(?:tu|el|vuestro)|nos ponemos en tu piel|por eso estamos aqu[ií]|estamos (?:aqu[ií]|contigo|a tu lado)|te acompa[ñn]amos|a tu disposici[oó]n)\\b",
+    "flags": "i",
+    "descripcion": "Empatía declarada («Sabemos que el trabajo no acaba al atardecer», «por eso estamos aquí»).",
+    "ejemplo_malo": "Sabemos lo duro que es el campo y por eso estamos aquí.",
+    "ejemplo_bueno": "A las nueve de la noche todavía hay quien está pasando albaranes.",
+    "origen": "humanizer-es G5; empírico (s07)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 1.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-VOZ-04",
+    "tipo": "regex",
+    "grupo": "voz",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\busted(?:es)?\\b",
+    "flags": "i",
+    "descripcion": "Trato de usted o ustedes. Se tutea, y en plural se dice vosotros.",
+    "ejemplo_malo": "Ustedes pueden contactarnos.",
+    "ejemplo_bueno": "Vosotros podéis escribirnos.",
+    "origen": "humanizer-es G12. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 2.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-VOZ-05",
+    "tipo": "regex",
+    "grupo": "voz",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:gracias por (?:tu|vuestro) (?:inter[eé]s|confianza)|encantados de ayudarte|estaremos encantados|no dudes en)\\b",
+    "flags": "i",
+    "descripcion": "Servilismo de atención al cliente.",
+    "ejemplo_malo": "No dudes en escribirnos, estaremos encantados de ayudarte.",
+    "ejemplo_bueno": "Escríbenos y lo miramos.",
+    "origen": "humanizer-es E1. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-ESP-01",
+    "tipo": "regex",
+    "grupo": "español de América y calcos",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 8,
+    "regex": "\\b(?:celular(?:es)?|computador(?:a|as)|costos?|ahorita|chequear|agendar|brindar|platicar|rancho|potrero|durazno|frijol(?:es)?|aplicativos?)\\b",
+    "flags": "i",
+    "descripcion": "Americanismo claro. En España: móvil, ordenador, coste, revisar, quedar, dar.",
+    "ejemplo_malo": "Reducir costos desde el celular.",
+    "ejemplo_bueno": "Gastar menos desde el móvil.",
+    "origen": "humanizer-es G12; empírico (s10, s12)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 1.5,
+      "mastodon_real_%": 5.6
+    }
+  },
+  {
+    "id": "TX-ESP-02",
+    "tipo": "regex",
+    "grupo": "español de América y calcos",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 2,
+    "regex": "\\b(?:insumos?|en la (?:ma[ñn]ana|tarde|noche)\\b|campesin[oa]s?|manejo (?:del|de la|de los|de las)|vacunos|agroinsumos|a nivel de)\\b",
+    "flags": "i",
+    "descripcion": "Vocabulario que en España suena a traducido: insumos, «en la mañana», campesinos, manejo del ganado.",
+    "ejemplo_malo": "Riega temprano en la mañana y controla los insumos.",
+    "ejemplo_bueno": "Riega a primera hora y apunta lo que gastas en abono y semilla.",
+    "origen": "empírico (s10, s12); Mayor-Rocher et al. 2025 (variedades del español en LLM) y Kawasaki 2026",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 11.1
+    }
+  },
+  {
+    "id": "TX-ESP-03",
+    "tipo": "regex",
+    "grupo": "español de América y calcos",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:en base a|hacer sentido|es por (?:eso|ello|esto) que|definitivamente|honestamente|impactar|implementar|feedback|insights?|dashboards?|smart|target|engagement|stakeholders?|growth|workflow)\\b",
+    "flags": "i",
+    "descripcion": "Calcos del inglés y anglicismos: en base a, implementar, feedback, dashboard.",
+    "ejemplo_malo": "Implementamos un dashboard para dar feedback.",
+    "ejemplo_bueno": "Ponemos en marcha una hoja donde ves cómo va cada lote.",
+    "origen": "humanizer-es G1, 2.13. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-01",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:cu[eé]ntanos|cu[eé]ntame|cu[eé]ntanoslo|dinos|d[eé]janos)\\b[^\\n]{0,60}\\bcomentarios\\b",
+    "flags": "i",
+    "descripcion": "«Cuéntanos en los comentarios». Es la llamada a comentar más repetida de los pies de IA.",
+    "ejemplo_malo": "Cuéntanos en los comentarios cómo va tu campaña.",
+    "ejemplo_bueno": "¿Cómo vais de lluvia por ahí? Aquí no ha caído una gota.",
+    "origen": "empírico; humanizer-es H2",
+    "medido": {
+      "corpus_ia_18": 5,
+      "extra_12": 4,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-02",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:escr[ií]benos|escr[ií]beme|cont[aá]ctanos|h[aá]blanos|ll[aá]manos)\\b[^\\n]{0,40}\\b(?:mensaje directo|md\\b|privado|dm\\b)",
+    "flags": "i",
+    "descripcion": "«Escríbenos por mensaje directo». Válida si es la única llamada; en los pies de IA sale con otras dos.",
+    "ejemplo_malo": "Escríbenos por mensaje directo y te ayudamos.",
+    "ejemplo_bueno": "Si quieres que lo miremos juntos, mándanos un mensaje.",
+    "origen": "empírico",
+    "medido": {
+      "corpus_ia_18": 5,
+      "extra_12": 3,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-03",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bgu[aá]rda(?:lo|la)?\\b[^\\n]{0,30}\\b(?:post|publicaci[oó]n|carrusel|reel|esto|para (?:cuando|tenerlo))|\\bgu[aá]rdalo\\b",
+    "flags": "i",
+    "descripcion": "«Guarda este post para…». Se ha convertido en cierre de plantilla.",
+    "ejemplo_malo": "Guarda este post para tenerlo a mano.",
+    "ejemplo_bueno": "Si te sirve, apúntalo para cuando llegue la factura.",
+    "origen": "empírico (s06, s07, s13, o03, o04)",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-04",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bcomp[aá]rtel[oa]s? con (?:ese|esa|esos|esas|alguien|un|una|otros|tu|quien)\\b",
+    "flags": "i",
+    "descripcion": "«Compártelo con ese ganadero que…». Cierre de plantilla.",
+    "ejemplo_malo": "Compártelo con ese compañero que siempre va justo de plazos.",
+    "ejemplo_bueno": "Si tienes un vecino que anda con lo mismo, enséñaselo.",
+    "origen": "empírico (s06, s07, s13)",
+    "medido": {
+      "corpus_ia_18": 3,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-05",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\betiqu[eé]ta(?:lo|la|le)\\b|(?:^|[.!?]\\s+)etiqueta a\\b",
+    "flags": "im",
+    "descripcion": "«Etiqueta a…». Petición de interacción forzada.",
+    "ejemplo_malo": "Etiquétalo y celebremos su valentía.",
+    "ejemplo_bueno": "Si conoces a alguien que acaba de incorporarse, dile hola de nuestra parte.",
+    "origen": "empírico (s11)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-06",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:enlace (?:de|en) la bio(?:grafía)?|link (?:de|en) (?:la )?bio|link in bio)\\b",
+    "flags": "i",
+    "descripcion": "«Más información en el enlace de la bio».",
+    "ejemplo_malo": "Más información en el enlace de la bio.",
+    "ejemplo_bueno": "El cuaderno de ejemplo está en el perfil.",
+    "origen": "empírico (o03)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CTA-07",
+    "tipo": "regex",
+    "grupo": "llamadas a la acción",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:pru[eé]balo|hoy mismo|empieza (?:ya|hoy|ahora)|comienza (?:ya|hoy)|saber m[aá]s|m[aá]s info(?:rmaci[oó]n)?\\b|solicita (?:tu|una|ya)|ponte en contacto|ap[uú]ntate|[uú]nete|reg[ií]strate|no te lo pierdas|da el paso|¿(?:list[oa]|preparad[oa]) para)\\b",
+    "flags": "i",
+    "descripcion": "Llamada a la acción de plantilla («Pruébalo hoy mismo», «Más información», «¿Listo para…?»).",
+    "ejemplo_malo": "Pruébalo y moderniza tu gestión hoy mismo.",
+    "ejemplo_bueno": "Si quieres verlo en una granja real, dímelo y me paso.",
+    "origen": "humanizer-es H2, 2.6; empírico (s03)",
+    "medido": {
+      "corpus_ia_18": 3,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 1.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-01",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:nuestros (?:clientes|ganaderos|agricultores)|nuestras granjas|hablamos con (?:muchos |varios |decenas de )?(?:ganaderos|agricultores)|cuando hablamos con|lo que (?:más )?vemos|hemos (?:visto|ayudado|trabajado con)|llevamos (?:\\d+ )?a[ñn]os|en nuestra experiencia|ya (?:conf[ií]an|han confiado)|hay (?:ganaderos|agricultores) que (?:han|ya)|muchos (?:ganaderos|agricultores) (?:nos|ya))\\b",
+    "flags": "i",
+    "descripcion": "Experiencia, clientes o resultados que Vivax no tiene (SPEC §1: cero invención; todavía no hay clientes).",
+    "ejemplo_malo": "Cuando hablamos con ganaderos casi siempre sale lo mismo. Hay ganaderos que han reducido mucho el abono.",
+    "ejemplo_bueno": "Esto es una cuenta que se puede hacer con la factura delante.",
+    "origen": "SPEC §1; empírico (o04, n01, n04); humanizer-es C7",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-02",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:hoy me he (?:levantado|despertado)|esta ma[ñn]ana (?:me|he|ya)|ayer (?:me|he|estuve)|mi (?:padre|abuelo|abuela|madre|vecino) me (?:ense[ñn][oó]|dec[ií]a|dijo|cont[oó])|me lo (?:ense[ñn][oó]|dijo|cont[oó]) (?:mi|el)|recuerdo (?:cuando|que)|cuando era (?:ni[ñn]o|cr[ií]o|peque[ñn]o)|me levant[eé] a las)\\b",
+    "flags": "i",
+    "descripcion": "Anécdota en primera persona inventada (SPEC §1: cero anécdotas inventadas). El texto de una anécdota real la aporta el dueño con «nota:».",
+    "ejemplo_malo": "Hoy me he levantado a las seis. Esto me lo enseñó mi padre, y a él el suyo.",
+    "ejemplo_bueno": "Hay días que empiezan a las seis y no acaban hasta que se cierra la nave.",
+    "origen": "SPEC §1; empírico (n02: Opus con «que no parezca IA» inventó una vaca de parto). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-03",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:ahorr\\w+ hasta|hasta (?:un )?\\d+\\s?%|(?:ahorr|reduc|aument|mejor)\\w+ (?:un |el |hasta un )?\\d+\\s?%|\\d+\\s?% (?:menos|más) (?:de|en))\\b",
+    "flags": "i",
+    "descripcion": "Promesa de ahorro o mejora en porcentaje. Salvo que salga del banco de hechos con su fuente, es cifra inventada.",
+    "ejemplo_malo": "Ahorrar hasta un 50 % de agua.",
+    "ejemplo_bueno": "Una fuga pequeña se come muchos litros a final de mes.",
+    "origen": "humanizer-es G8, E2; empírico (s10)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-04",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:cumpl\\w+ (?:con )?(?:toda )?la normativa|evit\\w+ (?:las )?sanciones|sin sanciones|(?:superar|pasar|preparad[oa] para) (?:la |cualquier |las )?inspecci(?:[oó]n|ones)|cualquier inspecci[oó]n)\\b",
+    "flags": "i",
+    "descripcion": "Promesa de cumplimiento o de pasar inspecciones. Vivax no puede garantizar eso (plan 5.4).",
+    "ejemplo_malo": "Cumple la normativa y evita sanciones.",
+    "ejemplo_bueno": "Si te piden el registro, lo tienes por fecha y por parcela.",
+    "origen": "humanizer-es G8, sección 6.3; empírico (s01, s03, o01, o03)",
+    "medido": {
+      "corpus_ia_18": 4,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-05",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:gratis|gratuit[oa]s?|sin compromiso|sin coste|sin permanencia)\\b",
+    "flags": "i",
+    "descripcion": "«Gratis», «sin compromiso». Solo si el dueño lo ha confirmado (SPEC: precios y garantía pendientes).",
+    "ejemplo_malo": "Sin compromiso.",
+    "ejemplo_bueno": "Escríbenos y lo vemos.",
+    "origen": "humanizer-es 2.11, 6.2; memoria del proyecto (precios pendientes)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 1.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-06",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:real decreto|rd|ley|reglamento|orden)\\s*(?:n\\.?º\\s*)?\\d{1,4}/\\d{2,4}\\b",
+    "flags": "i",
+    "descripcion": "Norma citada con número. Debe salir del banco de hechos (norma con hecho_id), no de la memoria del modelo.",
+    "ejemplo_malo": "El abanico ya no está permitido (RD 1051/2022).",
+    "ejemplo_bueno": "Antes de abonar, mira qué sistema de aplicación te permite tu comunidad.",
+    "origen": "SPEC §5 (afirmaciones tipo norma); empírico (o01)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-07",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:dosis|mg/|kg/ha|l/ha|plazo de seguridad)\\b",
+    "flags": "i",
+    "descripcion": "Dosis o parámetros agronómicos concretos. SPEC §1: no hay recomendaciones agronómicas, solo de proceso.",
+    "ejemplo_malo": "Ajusta la dosis de siembra según el tipo de suelo.",
+    "ejemplo_bueno": "Anota qué sembraste en cada parcela y con qué fecha.",
+    "origen": "SPEC §1 (no-go técnico); empírico (s09)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 2.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LIS-01",
+    "tipo": "regex",
+    "grupo": "estructura de lista",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "^[^\\n]{0,80}:\\**\\s*$",
+    "flags": "m",
+    "descripcion": "Línea que termina en dos puntos y anuncia una lista («Con un riego eficiente puedes:», «Checklist rápido:», «Claves para…:»). Es la estructura de ficha de los pies de IA.",
+    "ejemplo_malo": "Con un riego eficiente puedes:\nRegar menos.",
+    "ejemplo_bueno": "Con un riego bien medido se gasta menos agua y se nota en la factura.",
+    "origen": "humanizer-es D1; empírico (s01, s02, s06, s08, s10, s12)",
+    "medido": {
+      "corpus_ia_18": 9,
+      "extra_12": 5,
+      "control_25": 0,
+      "foro_real_%": 4.9,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-12",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:la )?(?:tecnolog[ií]a|ia|inteligencia artificial|el sistema|la app|vivax) (?:tambi[eé]n )?(?:cuida|entiende|piensa|aprende|escucha|sabe|vigila|conoce|se preocupa)\\b",
+    "flags": "i",
+    "descripcion": "Personificación de la tecnología o de la marca («la tecnología también cuida de tu ganado»).",
+    "ejemplo_malo": "La tecnología también cuida de tu ganado.",
+    "ejemplo_bueno": "Un collar avisa si la vaca deja de rumiar; luego decide el veterinario.",
+    "origen": "humanizer-es G9; empírico (s14)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-LEX-13",
+    "tipo": "regex",
+    "grupo": "vocabulario",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\btransform(?:a|an|ar|ando|amos|aci[oó]n)\\b",
+    "flags": "i",
+    "descripcion": "«Transformar / se transforman» en sentido figurado.",
+    "ejemplo_malo": "Meses de trabajo se transforman en cada racimo.",
+    "ejemplo_bueno": "Meses de trabajo para unos cuantos racimos.",
+    "origen": "humanizer-es C2; empírico (s04)",
+    "medido": {
+      "corpus_ia_18": 1,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-FOR-16",
+    "tipo": "regex",
+    "grupo": "fórmulas retóricas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b[a-záéíóúñ]+(?:ar|er|ir|arse|erse|irse)\\b,\\s+[a-záéíóúñ ]{0,25}?[a-záéíóúñ]+(?:ar|er|ir|arse|erse|irse)\\b(?:\\s+[\\wáéíóúñ]+){0,4}?[,…]*\\s+(?:y|e)\\s+[a-záéíóúñ]+(?:ar|er|ir|arse|erse|irse)\\b",
+    "flags": "i",
+    "descripcion": "Tríada de infinitivos («madrugar, aprender y equivocarse»). Ritmo por regla.",
+    "ejemplo_malo": "Ser joven en el campo es madrugar, aprender de quienes saben y sentirse orgulloso.",
+    "ejemplo_bueno": "Quien empieza en el campo madruga mucho y aprende de los de al lado.",
+    "origen": "humanizer-es B1; empírico (s11)",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-INV-08",
+    "tipo": "regex",
+    "grupo": "invención y promesas",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:nuestr[oa] (?:app|aplicaci[oó]n|cuaderno digital|plataforma|herramienta|software|sistema)|hemos (?:creado|dise[ñn]ado|desarrollado|lanzado)|lo hemos hecho (?:f[aá]cil|sencillo)|hemos hecho (?:f[aá]cil|sencillo))\\b",
+    "flags": "i",
+    "descripcion": "El pie habla de un producto propio («nuestra app», «lo hemos hecho sencillo»). Comprobar que Vivax lo ofrece de verdad y que el dueño lo permite decir.",
+    "ejemplo_malo": "Por eso hemos creado nuestra app: lo hemos hecho sencillo.",
+    "ejemplo_bueno": "Si algún día os viene bien, os enseñamos cómo lo apunta un registro por audio.",
+    "origen": "SPEC §1 (cero invención); empírico (n03). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 1,
+      "control_25": 0,
+      "foro_real_%": 1.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-01",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 8,
+    "patron": "(?<![\\w&])#[\\wáéíóúüñÁÉÍÓÚÜÑ]+",
+    "maximo": 4,
+    "flags": "",
+    "descripcion": "Más de 4 hashtags (límite del SPEC y de config.json).",
+    "ejemplo_malo": "Texto #a #b #c #d #e",
+    "ejemplo_bueno": "Texto #a #b",
+    "origen": "SPEC §4 (máximo 4); empírico (18/18 con 6 o más)",
+    "medido": {
+      "corpus_ia_18": 18,
+      "extra_12": 11,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 55.6
+    }
+  },
+  {
+    "id": "TX-CNT-02",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 8,
+    "patron": "(?<!‍)(?:[\\U0001F300-\\U0001FAFF☀-➿⬀-⯿←-⇿⌀-⏿■-◿]️?|[0-9#*]️?⃣)",
+    "maximo": 2,
+    "flags": "",
+    "descripcion": "Más de 2 emojis en el pie (SPEC §11: como mucho uno o dos, con sentido).",
+    "ejemplo_malo": "🌾 Texto 🚜 más 💚 texto",
+    "ejemplo_bueno": "Texto 🌾",
+    "origen": "SPEC §11; empírico",
+    "medido": {
+      "corpus_ia_18": 18,
+      "extra_12": 8,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 16.7
+    }
+  },
+  {
+    "id": "TX-CNT-03",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "patron": "^\\s*(?<!‍)(?:[\\U0001F300-\\U0001FAFF☀-➿⬀-⯿←-⇿⌀-⏿■-◿]️?|[0-9#*]️?⃣)",
+    "maximo": 1,
+    "flags": "m",
+    "descripcion": "Más de una línea que empieza por emoji (viñetas de emoji).",
+    "ejemplo_malo": "✅ Uno\n✅ Dos\n✅ Tres",
+    "ejemplo_bueno": "Uno, dos y tres, todo en una frase.",
+    "origen": "empírico; SPEC §7",
+    "medido": {
+      "corpus_ia_18": 17,
+      "extra_12": 7,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-04",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "!",
+    "maximo": 1,
+    "flags": "",
+    "descripcion": "Más de un signo de exclamación.",
+    "ejemplo_malo": "¡Gracias! ¡Buen año! ¡Ánimo!",
+    "ejemplo_bueno": "Buen año a quien lo haya sacado adelante.",
+    "origen": "empírico; humanizer-es 3.6",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 5.4,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-05",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "patron": "!",
+    "maximo": 3,
+    "flags": "",
+    "descripcion": "Más de tres signos de exclamación.",
+    "ejemplo_malo": "¡Uno! ¡Dos! ¡Tres! ¡Cuatro!",
+    "ejemplo_bueno": "Uno y dos.",
+    "origen": "humanizer-es 3.6. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 1.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-06",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "¿",
+    "maximo": 1,
+    "flags": "",
+    "descripcion": "Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final.",
+    "ejemplo_malo": "¿Y si fuera un recurso? ¿Quieres saber más?",
+    "ejemplo_bueno": "¿Cuántas horas te lleva pasar la libreta a limpio?",
+    "origen": "empírico; humanizer-es 3.7",
+    "medido": {
+      "corpus_ia_18": 3,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 2.9,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-07",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "patron": "[—–―]|(?<=\\w)\\s+--?\\s+(?=\\w)",
+    "maximo": 0,
+    "flags": "",
+    "descripcion": "Raya, semirraya o guion haciendo de raya. Cero rayas (humanizer-es regla 1).",
+    "ejemplo_malo": "Tus registros — ordenados — a mano.",
+    "ejemplo_bueno": "Tus registros, ordenados, a mano.",
+    "origen": "humanizer-es B3; Wikipedia Em dash (Rolling Stone, abril 2025); OpenAI reconoce que no es marca fiable. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-08",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "(?:(?<=[.!?]\\s)|(?<=\\n)|\\A)\\**[A-ZÁÉÍÓÚÑ][\\wáéíóúñ]*(?:\\s[\\wáéíóúñ]+){0,2}[.!]\\**(?=\\s|$)",
+    "maximo": 1,
+    "flags": "",
+    "descripcion": "Más de una frase de una a tres palabras («Y bastante.», «Pues hay esto.»). Fragmentos de efecto.",
+    "ejemplo_malo": "Vale dinero. Y bastante. Sin duda. Eso es todo.",
+    "ejemplo_bueno": "El purín vale dinero cuando se echa en su momento.",
+    "origen": "humanizer-es A2, B7; empírico (Opus). En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 4.4,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-09",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "\\b(?:cu[eé]ntanos|cu[eé]ntame|dinos)\\b[^\\n]{0,60}\\bcomentarios\\b|\\b(?:escr[ií]benos|escr[ií]beme)\\b[^\\n]{0,40}\\b(?:mensaje directo|privado)\\b|\\bgu[aá]rda(?:lo|la)?\\b[^\\n]{0,30}\\b(?:post|publicaci[oó]n|esto)|\\bcomp[aá]rtel[oa] con\\b|\\betiqu[eé]ta(?:lo|la|le)\\b|(?:^|[.!?]\\s+)etiqueta a\\b|\\benlace (?:de|en) la bio",
+    "maximo": 1,
+    "flags": "im",
+    "descripcion": "Más de una llamada a la acción en el mismo pie (comentar, escribir, guardar, compartir, etiquetar).",
+    "ejemplo_malo": "Cuéntanos en comentarios. Escríbenos por mensaje directo. Guarda este post.",
+    "ejemplo_bueno": "Si quieres que lo miremos juntos, mándanos un mensaje.",
+    "origen": "empírico (pies de IA con 2 o 3 llamadas)",
+    "medido": {
+      "corpus_ia_18": 5,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-10",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "^\\s*(?:[*•▪●◦‣]|[-–—]\\s)\\s*\\S",
+    "maximo": 2,
+    "flags": "m",
+    "descripcion": "Más de dos viñetas de texto.",
+    "ejemplo_malo": "• Uno\n• Dos\n• Tres",
+    "ejemplo_bueno": "Uno, dos y tres.",
+    "origen": "humanizer-es D1",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-11",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "\\b(?:adem[aá]s|encima|asimismo)\\b",
+    "maximo": 1,
+    "flags": "i",
+    "descripcion": "«Además» (y similares) más de una vez en un pie corto.",
+    "ejemplo_malo": "Además ahorras. Además cumples.",
+    "ejemplo_bueno": "Ahorras y cumples.",
+    "origen": "humanizer-es 2.4. En el corpus de IA no apareció (0/18): regla preventiva por la literatura",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0,
+      "foro_real_%": 0.5,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-CNT-12",
+    "tipo": "recuento",
+    "grupo": "recuentos",
+    "aplica": [
+      "pie"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "patron": "…|\\.{3,}",
+    "maximo": 1,
+    "flags": "",
+    "descripcion": "Más de unos puntos suspensivos.",
+    "ejemplo_malo": "Uno... dos... tres...",
+    "ejemplo_bueno": "Uno, dos y tres.",
+    "origen": "humanizer-es 3.10",
+    "medido": {
+      "corpus_ia_18": 2,
+      "extra_12": 2,
+      "control_25": 0,
+      "foro_real_%": 2.0,
+      "mastodon_real_%": 0.0
+    }
+  },
+  {
+    "id": "TX-SEL-01",
+    "tipo": "regex",
+    "grupo": "sello y descargo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:revisad[oa]|actualizad[oa]|verificad[oa]|comprobad[oa])\\s+(?:el|en)\\s+\\d{1,2}\\s+de\\s+[a-záéíóúñ]+",
+    "flags": "i",
+    "descripcion": "Sello de fecha («Revisado el 3 de octubre»): nadie revisó nada ese día; lo imprime el renderizador, nunca el redactor.",
+    "ejemplo_malo": "Fuente: INE. Revisado el 3 de octubre.",
+    "ejemplo_bueno": "Fuente: INE, Encuesta sobre la estructura de las explotaciones agrícolas 2023.",
+    "origen": "detective panel 1",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-ESC-01",
+    "tipo": "regex",
+    "grupo": "escena inventada",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "(?:^|\\n)\\s*(?:en|durante|a la hora de|a la salida de)\\s+(?:la sobremesa|el bar|la barra|el almuerzo|una comida|la cena|una reuni[oó]n)\\b[^.\\n]{0,25},\\s*(?:alguien|un vecino|una vecina|un amigo|tu cu[ñn]ado|siempre|sale|surge|se habla)\\b|(?:^|\\n|[.!?]\\s+)(?:alguien|un vecino|una vecina|un amigo|tu cu[ñn]ado)\\s+(?:de fuera\\s+|del pueblo\\s+)?(?:te\\s+)?(?:pregunta|dice|comenta|suelta)\\b",
+    "flags": "i",
+    "descripcion": "Escena inventada para abrir («En la sobremesa, alguien te pregunta...»): anécdota que no ha pasado.",
+    "ejemplo_malo": "En la sobremesa, alguien te pregunta cuánto cuesta el pienso.",
+    "ejemplo_bueno": "El pienso para porcino subió un 4 % entre 2022 y 2023, según el MAPA.",
+    "origen": "detective panel 1",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-MET-01",
+    "tipo": "regex",
+    "grupo": "sello y descargo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "(?:^|\\n)\\s*(?:mira|f[ií]jate en|ojo a)\\s+(?:el|la|los|las)\\s+(?:a[ñn]o|dato|cifra|n[uú]mero|fuente)s?\\b|\\bpor eso (?:no )?(?:hacemos|ponemos|damos|calculamos|incluimos|sacamos)\\b",
+    "flags": "i",
+    "descripcion": "La pieza habla de sí misma («mira el año de la cifra», «por eso no hacemos...»).",
+    "ejemplo_malo": "Mira el año de cada cifra antes de fiarte.",
+    "ejemplo_bueno": "El censo es de 2020; la encuesta, de 2023.",
+    "origen": "detective panel 1",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-MET-02",
+    "tipo": "regex",
+    "grupo": "sello y descargo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\blo que (?:no )?sabemos\\b|\\blo que (?:no )?(?:mide|miden) (?:la|el|esta|este|los|las)\\b|\\blo que (?:la|el|esta|este) (?:cifra|dato|n[uú]mero) (?:mide|no mide|cuenta y)\\b|\\bqu[eé] (?:mide|no mide) (?:la|el|esta|este)\\b|\\bno tenemos (?:ese|este|el) dato\\b",
+    "flags": "i",
+    "descripcion": "Hoja de descargo sobre la propia pieza («Lo que sabemos», «Lo que no sabemos», «Lo que mide la cifra y lo que no»).",
+    "ejemplo_malo": "Lo que mide la cifra y lo que no.",
+    "ejemplo_bueno": "El límite del dato va en una cláusula del pie, con su fuente.",
+    "origen": "detective panel 1",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-USO-01",
+    "tipo": "regex",
+    "grupo": "sello y descargo",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "fallo",
+    "peso": 20,
+    "regex": "\\b(?:gu[aá]rd(?:a|ala|alo)|p[aá]sa(?:selo|sela)|m[aá]nda(?:selo|sela))\\b[^.\\n]{0,70}\\b(?:y la pr[oó]xima|y cuando|y dile|y contesta|y responde)|\\bcontestas? con la fuente\\b",
+    "flags": "i",
+    "descripcion": "Instrucción de uso de la propia pieza («guárdala y la próxima vez...», «contestas con la fuente»).",
+    "ejemplo_malo": "Guárdala y la próxima vez que te lo discutan, contestas con la fuente.",
+    "ejemplo_bueno": "Esto lo dice el INE, página 14 del informe.",
+    "origen": "detective panel 1",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-01",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\bsin (?:ellos|ti|vosotros|los (?:agricultores|ganaderos|pastores)|el campo)\\b[^.\\n]{0,40}\\bno (?:habr[ií]a|tendr[ií]as|tendr[ií]amos|comer[ií]as|existir[ií]a|llegar[ií]a)",
+    "flags": "i",
+    "descripcion": "Gratitud por hipótesis («sin ellos no habría comida en tu mesa»): pregón.",
+    "ejemplo_malo": "Sin los agricultores no habría comida en tu mesa.",
+    "ejemplo_bueno": "De cada 100 euros que paga quien compra, X llegan a quien produce, según la fuente.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-02",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:que no te lo (?:cuenten|oculten|digan)|lo que (?:nadie|no) te (?:cuenta|dice|cuentan|dicen)|la verdad (?:que|sobre|del)|abre los ojos)\\b",
+    "flags": "i",
+    "descripcion": "Insinúa que alguien oculta algo («que no te lo cuenten», «la verdad sobre»).",
+    "ejemplo_malo": "Lo que nadie te cuenta del precio de la leche.",
+    "ejemplo_bueno": "Está en la página 14 del informe del organismo.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-03",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:h[eé]roes?|guardian(?:es|as)|alma|coraz[oó]n|columna vertebral|pulm[oó]n|motor|esp[ií]ritu|pilar(?:es)?)\\b (?:silenciosos? )?(?:del|de la|de los|de las|de Espa[ñn]a)\\b|\\blos que (?:nos )?(?:dan de comer|alimentan|cuidan de nosotros)\\b",
+    "flags": "i",
+    "descripcion": "Etiqueta épica («héroes del campo», «el alma de España»).",
+    "ejemplo_malo": "El alma de España es el campo.",
+    "ejemplo_bueno": "En una granja de leche se ordeña también los domingos.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-04",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "(?:¿[^?]*\\?\\s*){3,}",
+    "flags": "i",
+    "descripcion": "Hilo de tres preguntas retóricas seguidas.",
+    "ejemplo_malo": "¿Sabes cuánto cobra? ¿Y cuánto pagas? ¿Te parece justo?",
+    "ejemplo_bueno": "Dos datos en afirmativo y, a lo sumo, una pregunta que se contesta con un dato.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-05",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:basta ya|ya est[aá] bien|hasta cu[aá]ndo|no (?:lo )?vamos a (?:permitir|consentir)|despierta|lev[aá]ntate)\\b",
+    "flags": "i",
+    "descripcion": "Consigna de pancarta («basta ya», «hasta cuándo», «despierta»).",
+    "ejemplo_malo": "¿Hasta cuándo vamos a aguantar esto?",
+    "ejemplo_bueno": "Otra campaña con el gasoil a este precio.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-06",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:el (?:sector|trabajo|oficio) m[aá]s (?:importante|duro|sacrificado|noble)|nadie (?:lo )?(?:hace|trabaja|aguanta)|jam[aá]s)\\b",
+    "flags": "i",
+    "descripcion": "Superlativo absoluto que el primero que comenta desmiente.",
+    "ejemplo_malo": "Es el oficio más duro que existe.",
+    "ejemplo_bueno": "Una comparación acotada con su fuente.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-07",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b[A-ZÁÉÍÓÚÑ]{3,}(?:[ \\t]+[A-ZÁÉÍÓÚÑ]{2,}\\b)+",
+    "flags": "",
+    "descripcion": "Mayúsculas de pancarta (más de una palabra seguida que no sea una sigla).",
+    "ejemplo_malo": "¡EL CAMPO NO SE VENDE!",
+    "ejemplo_bueno": "El campo no se vende.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-POP-08",
+    "tipo": "regex",
+    "grupo": "tono populista",
+    "aplica": [
+      "pie",
+      "diapositivas",
+      "comentario_fijado",
+      "alt"
+    ],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "(?:[¡!][^!¡\\n]{0,80}[!]\\s*){2,}|!{2,}",
+    "flags": "i",
+    "descripcion": "Exclamaciones en cadena.",
+    "ejemplo_malo": "¡Basta! ¡Ya! ¡Es nuestro campo!",
+    "ejemplo_bueno": "Una frase corta y callar.",
+    "origen": "detective panel 1",
+    "gravedad_defensa": "fallo",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 0,
+      "control_25": 0
+    }
+  },
+  {
+    "id": "TX-ESP-04",
+    "tipo": "regex",
+    "grupo": "vocabulario de informe",
+    "aplica": [],
+    "gravedad": "aviso",
+    "peso": 4,
+    "regex": "\\b(?:tramos?|seg[uú]n la definici[oó]n|encuesta de estructura|explotaciones agr[ií]colas de (?:cerdos|ganado|vacas)|cosech[oó] (?:uva|vino))\\b",
+    "flags": "i",
+    "descripcion": "Jerga de informe en vez del término del oficio (usa «tramo» solo si es el del dato; «explotaciones agrícolas» no es para ganado; la uva se vendimia).",
+    "ejemplo_malo": "Cosechó uva en la vendimia.",
+    "ejemplo_bueno": "Vendimió.",
+    "origen": "detective panel 1",
+    "medido": {
+      "corpus_ia_18": 0,
+      "extra_12": 2,
+      "control_25": 0
+    }
+  }
+]

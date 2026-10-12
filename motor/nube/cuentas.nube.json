@@ -1,0 +1,34 @@
+{
+  "cuentas": [
+    {
+      "codigo": "c1",
+      "nombre": "Vivax Campo",
+      "tipo": "propia",
+      "adaptador": "campo",
+      "habilitada": false
+    },
+    {
+      "codigo": "n1",
+      "nombre": "Vivax Nutrición",
+      "tipo": "propia",
+      "adaptador": "nutricion",
+      "politica_aprobacion": "libre",
+      "horas": [
+        "08:00",
+        "14:00",
+        "21:00"
+      ],
+      "instagram": {
+        "modo": "real",
+        "api": "instagram_login",
+        "alojamiento": {
+          "tipo": "github",
+          "repo": "peperod30-gif/vivax-nutricion-media",
+          "rama": "main",
+          "carpeta": "publicadas",
+          "auth": "token"
+        }
+      }
+    }
+  ]
+}

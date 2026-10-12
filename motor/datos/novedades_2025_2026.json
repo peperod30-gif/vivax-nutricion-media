@@ -1,0 +1,292 @@
+[
+  {
+    "id": "NOV-001",
+    "tema": "huevos y colesterol",
+    "enunciado": "En un ensayo cruzado de 2025 con 61 adultos, la grasa saturada de la dieta se correlacionó con el LDL-colesterol y el colesterol de la dieta no.",
+    "veredicto": "matizado",
+    "matiz": "Ensayo pequeño (61 inscritos; 48 completaron todas las fases) con tres dietas isocalóricas de 5 semanas que cambian a la vez el colesterol y la grasa saturada, así que el efecto de cada uno se separa solo en parte. Frente al control, la dieta con huevos bajó el LDL (P = 0,02); frente a la dieta sin huevos, la diferencia no fue significativa (P = 0,52). La correlación es entre dietas dentro del ensayo. Con huevos subieron las partículas LDL pequeñas (P = 0,004), que el resumen señala como matiz del beneficio. El resumen da el LDL en μg/dL, pero 3,5 mmol/L equivalen a 135,3 mg/dL: la unidad es probablemente un error. Financiación según metadatos: Egg Nutrition Center (industria del huevo).",
+    "fuente": "Carter S et al. Am J Clin Nutr 2025;122(1):83-91",
+    "url": "https://doi.org/10.1016/j.ajcnut.2025.05.001",
+    "anio": 2025,
+    "nivel_evidencia": "ECA cruzado (61 inscritos)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con LDL-colesterol alto",
+      "riesgo cardiovascular alto"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1016/j.ajcnut.2025.05.001)",
+      "detalle": "61 adultos (39 ± 12 años; IMC 25,8 ± 5,9 kg/m²) con LDL basal <3,5 mmol/L (135,3 μg/dL, así en el resumen). Tres dietas isocalóricas de 5 semanas: EGG (colesterol 600 mg/d, grasa saturada 6 %, 2 huevos al día); EGG-FREE (colesterol 300 mg/d, grasa saturada 12 %, sin huevos); CON (colesterol 600 mg/d, grasa saturada 12 %, 1 huevo a la semana). Completaron al menos una fase 54 y todas 48. LDL-colesterol (μg/dL, así en el resumen): CON 109,3 ± 3,1; EGG 103,6 ± 3,1 (P = 0,02 frente a CON); EGG-FREE 107,7 ± 3,1 (P = 0,52 frente a EGG). Correlación entre todas las dietas: grasa saturada β = 0,35 (P = 0,002); colesterol de la dieta β = −0,006 (P = 0,42). Partículas LDL pequeñas: EGG β = 95,1 (P = 0,004); EGG-FREE β = 55,82 (P = 0,10)."
+    },
+    "gancho": "Huevos y LDL: la grasa saturada influye más que el colesterol",
+    "por_que_sorprende": "Cuestiona el énfasis clásico en el colesterol de los huevos y apunta a la grasa saturada."
+  },
+  {
+    "id": "NOV-002",
+    "tema": "huevos y salud",
+    "enunciado": "Una revisión paraguas de 2025 (14 metaanálisis) no encontró asociación entre el consumo alto de huevos y los desenlaces cardiovasculares ni la mortalidad total, con evidencia muy débil.",
+    "veredicto": "matizado",
+    "matiz": "Revisión de revisiones con calidad «críticamente baja» según el propio resumen. Sí halla asociaciones, todas con evidencia «muy débil»: más LDL-colesterol y colesterol total, más riesgo de insuficiencia cardiaca y de mortalidad por cáncer. La conclusión del resumen es que no hay base suficiente para desaconsejar los huevos; no significa que sean neutros para todas las personas. Financiación no visible en los metadatos.",
+    "fuente": "Formisano E et al. Nutr Metab Cardiovasc Dis 2025;35(5):103849",
+    "url": "https://doi.org/10.1016/j.numecd.2025.103849",
+    "anio": 2025,
+    "nivel_evidencia": "revisión paraguas de metaanálisis (14)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con LDL-colesterol alto",
+      "personas con riesgo cardiovascular"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1016/j.numecd.2025.103849)",
+      "detalle": "14 metaanálisis (10 observacionales y 4 de intervención). Asociaciones con evidencia «muy débil»: insuficiencia cardiaca RR 1,15 (IC 95 % 1,02–1,30); mortalidad por cáncer RR 1,13 (IC 95 % 1,06–1,20); LDL-colesterol WMD 7,39 (IC 95 % 5,82–8,95); colesterol total WMD 9,12 (IC 95 % 7,35–10,89); apolipoproteína B-100 WMD 0,06 (IC 95 % 0,03–0,08); HDL-colesterol WMD 1,37 (IC 95 % 0,49–2,25). Sin asociación con los desenlaces cardiovasculares ni con la mortalidad total entre consumo alto y bajo. Calidad de los estudios «críticamente baja»."
+    },
+    "gancho": "Huevos y salud: una revisión de 14 metaanálisis y pocas pruebas firmes",
+    "por_que_sorprende": "Reúne 14 metaanálisis y concluye que no hay base sólida para desaconsejar los huevos."
+  },
+  {
+    "id": "NOV-003",
+    "tema": "grasa saturada y aceites",
+    "enunciado": "En 24 ensayos de alimentación controlada (1.011 adultos), una dieta con mayor proporción de poliinsaturados frente a saturados redujo el LDL-colesterol 9,83 mg/dl de media frente a una con menos poliinsaturados.",
+    "veredicto": "respaldado",
+    "matiz": "Ensayos de alimentación de al menos 3 semanas, con dietas emparejadas en energía, fibra y grasa total. Heterogeneidad alta (I² = 79 %; P < 0,001 para la heterogeneidad según el contenido de grasa saturada). La reducción grande aparece cuando las dietas comparadas difieren en grasa saturada (≥2 % de la energía); si se igualan en grasa saturada, la diferencia no es significativa: el efecto depende de que el poliinsaturado sustituya a la saturada. Es un desenlace intermedio (LDL), no eventos clínicos. Financiación según metadatos: NHLBI, NIH y Pennsylvania State University.",
+    "fuente": "Hart TL et al. Adv Nutr 2025;16(10):100502",
+    "url": "https://doi.org/10.1016/j.advnut.2025.100502",
+    "anio": 2025,
+    "nivel_evidencia": "metaanálisis de ECA de alimentación controlada (24 ensayos)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con LDL-colesterol alto",
+      "riesgo cardiovascular alto"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1016/j.advnut.2025.100502)",
+      "detalle": "24 ECA (n = 1.011), adultos generalmente sanos. Mayor relación poliinsaturados/saturados frente a menor: LDL-colesterol MD −9,83 mg/dL (IC 95 % −13,63 a −6,04; I² = 79 %). Si las dietas difieren en grasa saturada (≥2 % de la energía): MD −15,72 mg/dL (IC 95 % −20,51 a −10,92; I² = 68 %). Igualando la grasa saturada: MD −3,45 mg/dL (IC 95 % −7,88 a 0,98; I² = 70 %). Heterogeneidad según el contenido de grasa saturada: P < 0,001. Medianas: relación P:S 1,2 frente a 0,4; poliinsaturados 10,6 % frente a 4,4 % de la energía; saturados 8,0 % frente a 12,5 %. PROSPERO CRD42023452550."
+    },
+    "gancho": "Grasa saturada y LDL: lo que muestran 24 ensayos",
+    "por_que_sorprende": "Pone cifras al efecto de cambiar grasa saturada por poliinsaturada sobre el LDL, sin entrar en el debate de los aceites de semillas."
+  },
+  {
+    "id": "NOV-004",
+    "tema": "dieta baja en carbohidratos y cardiovascular",
+    "enunciado": "En 174 ensayos (11.481 adultos), las dietas bajas en carbohidratos bajaron los triglicéridos y la presión arterial, pero subieron de forma moderada el LDL-colesterol y el colesterol total.",
+    "veredicto": "respaldado",
+    "matiz": "Las cifras de lípidos y presión aparecen como diferencias estandarizadas (SMD) con unidades de mg/dL: no deben citarse como diferencias en mg/dL. Las dietas cetogénicas bajaron más el peso, pero subieron más el LDL y el colesterol total. Son desenlaces intermedios, no eventos clínicos. Otros dos metaanálisis de 2026 con dieta cetogénica van en la misma dirección: 53 ECA, LDL +8,22 mg/dl (IC 95 % 5,08–11,40; certeza baja según GRADE) y 62 estudios, LDL +8,49 mg/dl (IC 95 % 5,45–11,52). Financiación según metadatos: Battelle; el resumen no declara conflictos.",
+    "fuente": "Feng S et al. Am J Clin Nutr 2025;122(5):1461-1478",
+    "url": "https://doi.org/10.1016/j.ajcnut.2025.09.012",
+    "anio": 2025,
+    "nivel_evidencia": "metaanálisis de ECA (174 ensayos)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con LDL-colesterol alto o hipercolesterolemia",
+      "hipertensión tratada con diuréticos o IECA (la presión puede bajar demasiado)",
+      "diabetes tratada con insulina o sulfonilureas (riesgo de hipoglucemia)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1016/j.ajcnut.2025.09.012)",
+      "detalle": "174 ECA (n = 11.481; 27 países). SMD (IC 95 %): triglicéridos −15,11 mg/dL (−18,76 a −11,46); presión sistólica −2,05 mmHg (−3,13 a −0,96); diastólica −1,26 mmHg (−1,94 a −0,57); HDL +2,92 mg/dL (2,10 a 3,74); LDL +4,81 (2,58 a 7,05); colesterol total +4,32 mg/dL (1,66 a 6,97). Las cetogénicas producen más pérdida de peso, pero más aumento de LDL y colesterol total. Criterio de inclusión (comprobado el 2026-10-09 en el mismo resumen (Europe PMC)): dietas con hasta el 45 % de la energía en hidratos de carbono frente a dietas con más; subgrupos cetogénica, baja en hidratos y moderada. Publicado en 2025."
+    },
+    "gancho": "Dieta baja en carbohidratos: menos triglicéridos, pero más LDL",
+    "por_que_sorprende": "Bajan los triglicéridos y la presión, pero el LDL sube: las dos cosas a la vez."
+  },
+  {
+    "id": "NOV-005",
+    "tema": "dieta baja en carbohidratos y diabetes tipo 2",
+    "enunciado": "En 199.006 adultos de tres cohortes de EE. UU. seguidos unos 30 años, una puntuación más alta de dieta baja en carbohidratos se asoció con más diabetes tipo 2 (HR 1,31 en el quinto más alto frente al más bajo).",
+    "veredicto": "matizado",
+    "matiz": "Estudio observacional: asocia, no demuestra causa. La dieta se midió con cuestionarios de frecuencia repetidos cada 2 a 4 años. El propio estudio concluye que las dietas bajas en carbohidratos pueden no ser beneficiosas para prevenir la diabetes salvo que prioricen proteína vegetal, grasas saludables y carbohidratos de calidad: las versiones vegetal y saludable se asocian con menos diabetes, y la animal y la poco saludable con más. Hay una carta crítica y una respuesta de los autores en la misma revista (2026) que no se han leído: revisarlas antes de citar. Financiación según metadatos: NIH (NCI, NHLBI, NIDDK, NIEHS).",
+    "fuente": "Liu B et al. Diabetes Care 2025;48(12):2095-2102",
+    "url": "https://doi.org/10.2337/dc25-1401",
+    "anio": 2025,
+    "nivel_evidencia": "cohorte prospectiva (3 cohortes, 199.006 participantes)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con prediabetes o riesgo de diabetes tipo 2",
+      "personas con diabetes tratada con insulina o sulfonilureas"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.2337/dc25-1401)",
+      "detalle": "199.006 adultos sin diabetes tipo 2, enfermedad cardiovascular ni cáncer al inicio (NHS 1984–2018; NHSII 1991–2019; HPFS 1986–2018); más de 30 años de seguimiento; 4.987.761 personas-año; 20.452 casos de diabetes tipo 2. Puntuación general (quinto más alto frente al más bajo): HR 1,31 (IC 95 % 1,25–1,37; P de tendencia < 0,001), ajustada por IMC basal y otras covariables. Dieta baja en carbohidratos de origen animal: HR 1,39 (1,32–1,45); puntuación «poco saludable» (menos cereales integrales y otros carbohidratos de calidad): HR 1,44 (1,37–1,51); ambas con P de tendencia < 0,001. Dieta de origen vegetal: HR 0,94 (0,90–0,98; P de tendencia = 0,004); puntuación «saludable» (menos carbohidratos refinados): HR 0,84 (0,81–0,88; P de tendencia < 0,001). La asociación general, la animal y la poco saludable fueron más fuertes con IMC basal más bajo y se mediaron en parte por el cambio de peso."
+    },
+    "gancho": "Dieta baja en carbohidratos y diabetes: depende de lo que comas",
+    "por_que_sorprende": "Una dieta muy popular se asocia con más diabetes en cohortes muy grandes, y la calidad de lo que se come cambia el resultado."
+  },
+  {
+    "id": "NOV-006",
+    "tema": "ultraprocesados",
+    "enunciado": "En 51 cohortes con 8.819.894 adultos, un mayor consumo de ultraprocesados se asoció con más riesgo de enfermedades crónicas y de mortalidad total, con evidencia baja o moderada.",
+    "veredicto": "matizado",
+    "matiz": "Revisión de estudios observacionales: el consumo se midió con cuestionarios de frecuencia, recordatorios de 24 horas o historias dietéticas, con errores de medición. Asocia, no demuestra causa. Los riesgos por cada 100 g/día son pequeños (HR 1,03 de mortalidad total). El propio resumen califica la evidencia de «baja o moderada». Financiación no visible en los metadatos.",
+    "fuente": "Liu X et al. Fam Med Community Health 2026;14(Suppl 5):e003925",
+    "url": "https://doi.org/10.1136/fmch-2026-003925",
+    "anio": 2026,
+    "nivel_evidencia": "metaanálisis dosis-respuesta de cohortes prospectivas (51)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con enfermedad crónica o riesgo cardiovascular",
+      "personas con obesidad o síndrome metabólico"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1136/fmch-2026-003925)",
+      "detalle": "51 cohortes prospectivas; 8.819.894 participantes. HR (IC 95 %): eventos cardiovasculares 1,24 (1,14–1,36); cáncer 1,12 (1,04–1,21); obesidad o sobrepeso 1,23 (1,17–1,30); síndrome metabólico o diabetes 1,24 (1,08–1,42); depresión o ansiedad 1,27 (1,15–1,40); enfermedades digestivas 1,31 (1,16–1,48); mortalidad total 1,18 (1,10–1,26). Dosis-respuesta por cada 100 g/día: eventos cardiovasculares 1,14 (1,06–1,22); cáncer 1,04 (1,02–1,06); mortalidad total 1,03 (1,02–1,05); síndrome metabólico o diabetes 1,02 (1,01–1,04)."
+    },
+    "gancho": "Ultraprocesados: 51 cohortes y más de ocho millones de personas",
+    "por_que_sorprende": "Reúne 51 cohortes con muchas personas, pero el propio resumen califica la evidencia de baja o moderada."
+  },
+  {
+    "id": "NOV-007",
+    "tema": "ultraprocesados",
+    "enunciado": "En un ensayo controlado de alimentación en hombres, la dieta ultraprocesada frente a la no procesada aumentó el peso corporal y el cociente LDL/HDL, con independencia de la energía consumida.",
+    "veredicto": "matizado",
+    "matiz": "Ensayo controlado 2×2 cruzado (NCT05368194), pero el resumen no indica el número de participantes ni la duración de cada fase. Los espermatozoides empeoraron en tendencia (movilidad total), sin afirmar significación, y no se midió infertilidad clínica. Las hormonas cambiaron (GDF15 y FSH bajaron). El peso y el cociente LDL/HDL son marcadores intermedios, no eventos clínicos. Financiación según metadatos: Agencia Nacional de Investigación de Francia y Fundación Novo Nordisk.",
+    "fuente": "Preston JM et al. Cell Metab 2025;37(10):1950-1960.e2",
+    "url": "https://doi.org/10.1016/j.cmet.2025.08.004",
+    "anio": 2025,
+    "nivel_evidencia": "ECA cruzado controlado (2×2)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con riesgo cardiovascular (cociente LDL/HDL)",
+      "hombres con fertilidad reducida (el estudio no mide infertilidad)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1016/j.cmet.2025.08.004)",
+      "detalle": "Ensayo controlado 2×2 cruzado (NCT05368194) con dieta ultraprocesada frente a no procesada, con y sin exceso calórico. Resultados: aumento de peso corporal y del cociente LDL:HDL, independiente de la carga calórica; descenso de GDF15 y de FSH; tendencia a peor movilidad espermática total (sin significación afirmada). Número de participantes y duración no indicados en el resumen."
+    },
+    "gancho": "Ultraprocesados en un ensayo controlado: más peso y peor cociente LDL/HDL",
+    "por_que_sorprende": "En un ensayo controlado, la comida ultraprocesada cambió marcadores metabólicos con independencia de la energía consumida."
+  },
+  {
+    "id": "NOV-008",
+    "tema": "edulcorantes y cognición",
+    "enunciado": "En 12.772 adultos brasileños seguidos durante 8 años, un mayor consumo de edulcorantes bajos o nulos en calorías se asoció con un deterioro cognitivo más rápido en menores de 60 años.",
+    "veredicto": "matizado",
+    "matiz": "Estudio observacional: asocia, no demuestra causa. El efecto es pequeño (β entre −0,008 y −0,040). El tercil intermedio de la función cognitiva global no fue significativo (su IC incluye el cero). En mayores de 60 años no hubo asociación. La dieta se midió con cuestionario de frecuencia; el resumen cita la pérdida de participantes y la confusión residual. Los edulcorantes se analizaron agrupados; el resumen señala asociaciones con aspartamo, sacarina, acesulfamo K, eritritol, sorbitol y xilitol, sin cifras separadas. Financiación no visible en los metadatos.",
+    "fuente": "Gonçalves NG et al. Neurology 2025;105(7):e214023",
+    "url": "https://doi.org/10.1212/wnl.0000000000214023",
+    "anio": 2025,
+    "nivel_evidencia": "cohorte prospectiva (observacional, 12.772 participantes)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "adultos menores de 60 años",
+      "personas con diabetes (subgrupo con asociación)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1212/wnl.0000000000214023)",
+      "detalle": "12.772 participantes (edad media 51,9 ± 9,0 años; 54,8 % mujeres; 43,2 % negros o mestizos) en 3 olas (2008–10, 2012–14, 2017–19); seguimiento de 8 años. Excluidos: datos dietéticos incompletos, ingesta energética extrema (<1.º o >99.º percentil) y datos incompletos de pruebas cognitivas o covariables. Consumo medio de edulcorantes: 92,1 ± 90,1 mg/día. Menores de 60 años, fluidez verbal: tercil intermedio β = −0,016 (IC 95 % −0,040 a −0,008) y tercil más alto β = −0,040 (IC 95 % −0,064 a −0,016). Función cognitiva global: tercil intermedio β = −0,008 (IC 95 % −0,024 a 0,008) y tercil más alto β = −0,024 (IC 95 % −0,040 a −0,008). Sin asociación en mayores de 60 años."
+    },
+    "gancho": "Edulcorantes y cognición: lo que muestra una cohorte de 8 años",
+    "por_que_sorprende": "Un titular fácil, pero el efecto es pequeño y el análisis por edad no muestra asociación en mayores de 60 años."
+  },
+  {
+    "id": "NOV-009",
+    "tema": "bebidas azucaradas y edulcorantes",
+    "enunciado": "Sustituir refrescos azucarados por versiones edulcoradas redujo algo el peso (−0,73 kg) en 14 ensayos, pero las bebidas edulcoradas también se asocian con más diabetes y mortalidad en cohortes.",
+    "veredicto": "matizado",
+    "matiz": "Consenso de la Asociación Coreana de Diabetes y de la Sociedad Coreana de Nutrición, con un metaanálisis de ECA y una revisión paraguas de cohortes. Recomienda las bebidas edulcoradas solo como sustituto a corto plazo para quien consume mucho azúcar; no a largo plazo, por seguridad incierta y porque pueden reforzar la preferencia por lo dulce. La evidencia de cohortes es observacional. Financiación no visible en los metadatos.",
+    "fuente": "Choi JH et al. Diabetes Metab J 2026;50(1):32-46",
+    "url": "https://doi.org/10.4093/dmj.2025.0848",
+    "anio": 2026,
+    "nivel_evidencia": "revisión paraguas y metaanálisis de ECA (consenso)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con diabetes tipo 2 o riesgo metabólico alto",
+      "personas con enfermedad cardiovascular"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.4093/dmj.2025.0848)",
+      "detalle": "14 ECA (3 a 76 semanas): sustituir bebidas azucaradas por edulcoradas redujo el peso en −0,73 kg y la grasa corporal en −0,72 %, con efectos dispares en glucemia y marcadores cardiometabólicos. 20 revisiones sistemáticas de cohortes (hasta 34 años de seguimiento): más consumo de bebidas azucaradas y de edulcoradas se asocia con más diabetes tipo 2, enfermedad cardiovascular y mortalidad, con riesgos relativos similares para ambas."
+    },
+    "gancho": "Refrescos sin azúcar: ¿sirven? Depende del plazo, según un consenso",
+    "por_que_sorprende": "Un consenso médico que dice «sí a corto plazo, no a largo» apoyándose en ensayos y cohortes."
+  },
+  {
+    "id": "NOV-010",
+    "tema": "proteína y masa muscular",
+    "enunciado": "En 30 ensayos, la proteína vegetal dio al final de la intervención una masa muscular algo menor que la proteína animal (diferencia estandarizada −0,20).",
+    "veredicto": "matizado",
+    "matiz": "Diferencia estandarizada pequeña (−0,20). Por edad: menores de 60 años, −0,20 (IC 95 % −0,37 a −0,03); mayores de 60, −0,05 (IC 95 % −0,32 a 0,23; P = 0,74). Soja frente a leche: sin diferencia (−0,02). Frente a proteínas vegetales no de soja (arroz, chía, avena, patata): −0,58 (IC 95 % −1,06 a −0,09; 5 ensayos), y frente a dietas vegetales: −0,51 (IC 95 % −0,91 a −0,11; 7 ensayos). Fuerza y rendimiento físico no difirieron. Ningún ensayo midió sarcopenia. Los propios autores piden más investigación sobre otras proteínas vegetales y dietas. Financiación según metadatos: Departamento de Economía de Irlanda del Norte.",
+    "fuente": "Reid-McCann RJ et al. Nutr Rev 2025;83(7):e1581-e1603",
+    "url": "https://doi.org/10.1093/nutrit/nuae200",
+    "anio": 2025,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ECA",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas que siguen dietas vegetales con proteínas no de soja (arroz, chía, avena, patata)",
+      "personas mayores con sarcopenia (ningún ensayo midió sarcopenia)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1093/nutrit/nuae200)",
+      "detalle": "43 ECA elegibles; 30 (70 %) con desenlaces de masa muscular. Masa muscular tras la intervención, proteína vegetal frente a animal: SMD −0,20 (IC 95 % −0,37 a −0,03; P = 0,02). Subgrupos de edad: menores de 60 años, SMD −0,20 (−0,37 a −0,03; P = 0,02); mayores de 60 años, SMD −0,05 (−0,32 a 0,23; P = 0,74). Soja frente a leche: SMD −0,02 (−0,20 a 0,16; 17 ECA). Frente a proteínas vegetales no de soja: SMD −0,58 (−1,06 a −0,09; 5 ECA); frente a dietas vegetales: SMD −0,51 (−0,91 a −0,11; 7 ECA). Fuerza (14 ECA) y rendimiento físico (5 ECA) sin diferencia. Registro PROSPERO CRD42020188658."
+    },
+    "gancho": "Proteína vegetal frente a animal: ¿menos músculo? Lo que dicen 30 ensayos",
+    "por_que_sorprende": "Sugiere que la fuente de proteína puede influir en la masa muscular, aunque la fuerza no cambió."
+  },
+  {
+    "id": "NOV-011",
+    "tema": "ayuno intermitente",
+    "enunciado": "Frente al consejo dietético habitual, el ayuno intermitente puede producir poca o ninguna diferencia en la pérdida de peso de adultos con sobrepeso u obesidad (21 estudios, 1.430 participantes; certeza baja).",
+    "veredicto": "respaldado",
+    "matiz": "Frente a no intervención o lista de espera, el resumen da MD −3,42 (IC 95 % −4,95 a −1,90; 6 estudios; certeza moderada), y aun así lo describe como «poca o ninguna» diferencia aunque el intervalo no incluye el cero: conviene comprobar en el texto completo el umbral que usan los autores antes de citar esa cifra. Seguimiento corto (hasta 12 meses) y búsqueda hasta noviembre de 2024. Ningún estudio midió la diabetes; los efectos adversos son inciertos. Sin financiación dedicada.",
+    "fuente": "Garegnani LI et al. Cochrane Database Syst Rev 2026;(2):CD015610",
+    "url": "https://doi.org/10.1002/14651858.cd015610.pub2",
+    "anio": 2026,
+    "nivel_evidencia": "revisión Cochrane de ECA (22 estudios)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con diabetes tratada con insulina o sulfonilureas (riesgo de hipoglucemia)",
+      "personas con trastornos de la conducta alimentaria",
+      "embarazo"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1002/14651858.cd015610.pub2)",
+      "detalle": "22 ECA (1.995 participantes), publicados entre 2016 y 2024; búsqueda hasta el 5 de noviembre de 2024. Frente al consejo dietético habitual, pérdida de peso (% desde el inicio): MD −0,33 (IC 95 % −0,92 a 0,26; 21 estudios, 1.430 participantes; certeza baja). Frente a no intervención o lista de espera: MD −3,42 (IC 95 % −4,95 a −1,90; 6 estudios, 427 participantes; certeza moderada). Efectos adversos frente al consejo: RR 1,45 (IC 95 % 0,64 a 3,28; 7 estudios, 619 participantes; certeza muy baja)."
+    },
+    "gancho": "Ayuno intermitente frente al consejo habitual: casi ninguna diferencia en peso",
+    "por_que_sorprende": "Una revisión Cochrane sitúa el ayuno intermitente al nivel del consejo dietético normal en peso."
+  },
+  {
+    "id": "NOV-012",
+    "tema": "horario de comidas",
+    "enunciado": "En 31.044 adultos de 40 años o más de EE. UU., empezar a comer después de las 12:00 se asoció con más mortalidad total (HR 1,29) que empezar entre las 7:00 y las 8:00.",
+    "veredicto": "matizado",
+    "matiz": "Cohorte observacional con un único recordatorio de 24 horas por persona, así que el horario se estimó de un solo día. Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios (causalidad inversa), y el resumen no detalla los ajustes. Para la última comida: HR 1,13 si termina antes de las 19:00 y 1,27 si come después de medianoche (frente a 19:00–20:00). La esperanza de vida se estima con intervalos amplios (0,61 a 4,28 años). Financiación no visible en los metadatos.",
+    "fuente": "Hu W et al. Eur J Clin Nutr 2026 (publicación en línea; el resumen no da volumen)",
+    "url": "https://doi.org/10.1038/s41430-026-01796-1",
+    "anio": 2026,
+    "nivel_evidencia": "cohorte poblacional (NHANES, 31.044 participantes)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "personas con enfermedad cardiovascular o cáncer",
+      "personas con antecedentes de trastornos de la conducta alimentaria (ayuno)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado",
+    "verificacion_primaria": {
+      "fecha": "2026-10-09",
+      "via": "Europe PMC, resumen del artículo (DOI 10.1038/s41430-026-01796-1)",
+      "detalle": "31.044 adultos de 40 años o más (NHANES 1999–2018); 7.129 muertes; seguimiento mediano de 8,6 años (RIC 4,5–13,0). Mortalidad total frente a primera comida entre 7:00 y 8:00: entre 8:00 y 10:00 HR 1,10 (1,02–1,18); entre 10:00 y 12:00 HR 1,19 (1,05–1,34); después de las 12:00 HR 1,29 (1,10–1,51). Última comida frente a 19:00–20:00: antes de las 19:00 HR 1,13 (1,03–1,25); después de medianoche HR 1,27 (1,06–1,54). Esperanza de vida a los 50 años, primera comida después de las 12:00: 2,46 años menos (IC 95 % 0,61 a 4,28)."
+    },
+    "gancho": "Horario de comidas y mortalidad: qué mostró NHANES con 31.044 adultos",
+    "por_que_sorprende": "Relaciona la hora de la primera y de la última comida con la mortalidad y la esperanza de vida."
+  }
+]
