@@ -1,0 +1,35 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "Hoy, 13-oct: te he mandado tres publicaciones nuevas. ¿Las apruebo? Lado oscuro del azúcar a las 13:00, biotina y pelo a las 16:00 y vitamina K a las 19:00. Hoy ya tienes aprobadas la de vitamina C (8:00), la del kétchup y la cola (14:00) y la del hierro (21:00). Si respondes cuando una hora ya ha pasado, esa pieza sale en el primer hueco libre.",
+  "opciones": [
+    [
+      "hoy",
+      "Sí, las tres: 13:00, 16:00 y 19:00"
+    ],
+    [
+      "yo",
+      "No, las miro yo"
+    ]
+  ],
+  "caduca": "14h",
+  "cuenta": "n1",
+  "si_responde": {
+    "hoy": [
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-a-01-lado-oscuro",
+        "hora": "2026-10-13T13:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-13-biotina",
+        "hora": "2026-10-13T16:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-04-k",
+        "hora": "2026-10-13T19:00"
+      }
+    ]
+  }
+}
