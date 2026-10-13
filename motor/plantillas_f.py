@@ -32,7 +32,7 @@ CSS = """
 .ff .foto{position:absolute;overflow:hidden;background:#111}
 .ff .foto img{position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover}
 .ff .velo{position:absolute;pointer-events:none}
-.ff .ft{position:absolute;font-family:var(--ft);font-weight:900;text-transform:uppercase;line-height:.88;letter-spacing:-.004em;display:flex;padding:0 0 .2em 0;text-shadow:0 4px 26px rgba(0,0,0,.45)}
+.ff .ft{position:absolute;font-family:var(--ft);font-weight:900;text-transform:uppercase;line-height:.88;letter-spacing:-.004em;display:flex;padding:0 0 .2em 0;overflow:visible;text-shadow:0 4px 26px rgba(0,0,0,.45)}   /* overflow:visible: la regla [data-fit]{overflow:hidden} cortaba los acentos de las versales de la primera línea; el ajuste de tamaño sigue midiendo el desborde */
 .ff .ft > span{display:block}
 .ff .ft.fin{flex-direction:column;align-items:stretch}
 .ff .ft.fin > span{margin-top:auto}

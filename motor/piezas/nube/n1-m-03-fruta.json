@@ -1,0 +1,112 @@
+{
+  "id": "n1-m-03-fruta",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "respuesta",
+  "pilar": "mitos",
+  "serie": "Mitos",
+  "angular": true,
+  "hechos": [
+    "AZU-003",
+    "ALI-069"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿El azúcar de la fruta fresca cuenta como azúcar libre? No: la OMS no cuenta el azúcar de la fruta fresca como azúcar libre. Sí cuentan los azúcares añadidos y los de la miel, los jarabes y los zumos de fruta, también los concentrados. La fruta fresca lleva azúcares propios: por cada 100 g de fruta cruda, uvas 15,5 g y manzana 10,4 g (azúcares totales, los de la propia fruta). Engordar depende de la energía total que se come, y la fruta también aporta energía. Si tienes diabetes, consúltalo con tu médico.\n\nFuente: OMS, comunicado de prensa de marzo de 2015 sobre la guía de azúcares libres; USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Red and green grapes in a bowl 01», domdomegg (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#mitos #nutricion #fruta",
+  "alt": [
+    "Fresas con el titular: ¿el azúcar de la fruta fresca cuenta como azúcar libre?",
+    "Respuesta: no. La OMS no cuenta el azúcar de la fruta fresca como azúcar libre; el zumo de fruta, sí.",
+    "Manzana cruda frente a uvas crudas: azúcares por cada 100 g de fruta cruda, 10,4 g frente a 15,5 g. Es composición, no una recomendación.",
+    "Los azúcares libres incluyen los añadidos y los de la miel, los jarabes y los zumos de fruta, también los concentrados.",
+    "La fruta fresca no cuenta como azúcar libre, pero también aporta energía. Si tienes diabetes, consúltalo con tu médico.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "fresas",
+      "etiqueta": "Azúcar",
+      "sigue": "Desliza",
+      "titular": "¿El azúcar de la {fruta fresca} cuenta como azúcar libre?"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{No.}"
+      ],
+      "sigue": "Desliza",
+      "foto": "manzana",
+      "texto": "La OMS no cuenta el azúcar de la fruta fresca como azúcar libre. El zumo de fruta, sí."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "La fruta también lleva {azúcar}",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Manzana cruda",
+        "valor": "10,4 g",
+        "foto": "manzana"
+      },
+      "der": {
+        "nombre": "Uvas crudas",
+        "valor": "15,5 g",
+        "foto": "uvas"
+      },
+      "texto": "Azúcares por cada 100 g de fruta cruda, los de la propia fruta. Composición, no una recomendación."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Los que sí cuentan",
+      "titular": [
+        "{Zumos.}",
+        "Miel.",
+        "Jarabes."
+      ],
+      "sigue": "Desliza",
+      "texto": "Los azúcares libres son los añadidos y los de la miel, los jarabes y los zumos de fruta, incluidos los concentrados.",
+      "foto": "zumo_naranja"
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "fresas",
+      "etiqueta": "Ojo",
+      "titulo": "Engordar depende de la {energía} total",
+      "sigue": "Desliza",
+      "texto": "La fruta fresca no cuenta como azúcar libre, pero también aporta energía. Si tienes diabetes, consúltalo con tu médico."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "La OMS no cuenta el azúcar de la fruta {fresca} como azúcar libre",
+      "fotos": [
+        {
+          "foto": "fresas",
+          "texto": "Fresas"
+        },
+        {
+          "foto": "manzana",
+          "texto": "Manzana cruda"
+        },
+        {
+          "foto": "uvas",
+          "texto": "Uvas crudas"
+        }
+      ],
+      "fuentes": [
+        "OMS, comunicado de prensa de marzo de 2015 sobre la guía de azúcares libres",
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Si tienes diabetes, consúltalo con tu médico."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-26",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Mitos"
+  }
+}

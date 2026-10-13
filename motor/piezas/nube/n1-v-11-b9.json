@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-11-b9",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-041",
+    "VIT-042",
+    "VIT-043",
+    "VIT-044"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Dónde hay más folato, en las espinacas o en los cacahuetes? Por cada 100 g, los cacahuetes crudos llevan 240 µg de folato total y las espinacas crudas 194 µg. Entre medias, las pipas de girasol peladas, secas (227 µg). El resto de la selección: perejil fresco (152 µg), avellanas crudas (113 µg) y nueces (98 µg). Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que los folatos contribuyen a la formación normal de células sanguíneas y al crecimiento de los tejidos maternos durante el embarazo. El valor de referencia de la etiqueta es de 200 µg (ácido fólico) y no es una recomendación personal; el NHS británico da 200 µg de folato al día para adultos y recomienda a quien está embarazada, busca un embarazo o puede quedarse embarazada un suplemento de ácido fólico de 400 µg al día hasta la semana 12; algunas mujeres con más riesgo tienen otra indicación y dosis de ácido fólico superiores a 1 mg pueden enmascarar la falta de vitamina B12: consúltalo con tu médico.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0); «Spinach leaves», Nillerdk (CC BY 3.0); «Noisettes Fercoril Corabel Cl 1JWeber (23047148764)», Jean Weber / Inra Dist (CC BY 2.0); «Whole walnut kernel and shell», Potkettle (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#folato #vitaminab9 #nutricion",
+  "alt": [
+    "Letra B9 enorme en oliva sobre una foto, con el titular: Por 100 g, los cacahuetes crudos le ganan a las espinacas crudas en folato.",
+    "Lo que la UE autoriza decir de la folato: Los folatos contribuyen a la formación normal de células sanguíneas. La UE autoriza decir también que contribuyen al crecimiento de los tejidos maternos durante el embarazo.",
+    "El número de la etiqueta: 200 µg. Es el valor de referencia del etiquetado para adultos, el del ácido fólico. No marca cuánto tomar.",
+    "Folato en seis alimentos, µg de folato total por 100 g, en el estado indicado: cacahuetes crudos 240 µg; pipas de girasol peladas, secas 227 µg; espinacas crudas 194 µg; perejil fresco 152 µg; avellanas crudas 113 µg; nueces 98 µg.",
+    "Folato por 100 g: cacahuetes crudos contra espinacas crudas: cacahuetes crudos con 240 µg frente a espinacas crudas con 194 µg.",
+    "Ojo: Según el NHS británico, a quien está embarazada, busca un embarazo o puede quedarse embarazada se le recomienda ácido fólico, 400 µg al día hasta la semana 12. Algunas mujeres con más riesgo tienen otra indicación: consúltalo con tu médico.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "cacahuetes",
+      "letra": "B9",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "Por 100 g, los cacahuetes crudos le ganan a las espinacas crudas en {folato}"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "Los folatos contribuyen a la",
+        "{formación normal}",
+        "de células sanguíneas."
+      ],
+      "texto": "La UE autoriza decir también que contribuyen al crecimiento de los tejidos maternos durante el embarazo.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "200",
+      "unidad": "µg",
+      "texto": "Es el valor de referencia del etiquetado para adultos, el del ácido fólico. No marca cuánto tomar.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Folato en {seis} alimentos",
+      "unidad": "µg de folato total por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "240 µg",
+          "foto": "cacahuetes"
+        },
+        {
+          "nombre": "Pipas de girasol peladas, secas",
+          "valor": "227 µg",
+          "foto": "pipas_girasol"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "194 µg",
+          "foto": "espinacas"
+        },
+        {
+          "nombre": "Perejil fresco",
+          "valor": "152 µg",
+          "foto": "perejil"
+        },
+        {
+          "nombre": "Avellanas crudas",
+          "valor": "113 µg",
+          "foto": "avellanas"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "98 µg",
+          "foto": "nueces"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Folato por 100 g: cacahuetes crudos contra espinacas {crudas}",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Cacahuetes crudos",
+        "valor": "240 µg",
+        "foto": "cacahuetes"
+      },
+      "der": {
+        "nombre": "Espinacas crudas",
+        "valor": "194 µg",
+        "foto": "espinacas"
+      },
+      "texto": "Composición por 100 g, no una pauta ni una ración."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "capsulas",
+      "etiqueta": "Ojo",
+      "titulo": "Embarazo: lo recomienda el {NHS}",
+      "texto": "Según el NHS británico, a quien está embarazada, busca un embarazo o puede quedarse embarazada se le recomienda ácido fólico, 400 µg al día hasta la semana 12. Algunas mujeres con más riesgo tienen otra indicación: consúltalo con tu médico.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Folato por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "cacahuetes",
+          "texto": "Cacahuetes crudos · 240 µg"
+        },
+        {
+          "foto": "pipas_girasol",
+          "texto": "Pipas de girasol secas · 227 µg"
+        },
+        {
+          "foto": "espinacas",
+          "texto": "Espinacas crudas · 194 µg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), folato y ácido fólico"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-23",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "n1-q-02-duelos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "comparativas",
+  "serie": "Adivina",
+  "angular": true,
+  "hechos": [
+    "ALI-065",
+    "ALI-029",
+    "ALI-033",
+    "ALI-068"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Cuántos duelos has acertado? Por cada 100 g: kiwi 3,0 g de fibra frente a manzana 2,4 g; mantequilla 51,4 g de grasa saturada frente a aceite de oliva 13,8 g; refresco de cola con azúcar 9,9 g de azúcares totales frente a zumo de naranja 8,4 g, los propios de la fruta; huevo cocido 373 mg de colesterol frente a gambas cocidas 211 mg. Es composición, no una recomendación de cantidad ni de comer o evitar nada, y el colesterol del alimento y el de la sangre no son lo mismo.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Nilasing na hipon (Cooked Drunken Shrimp), Philippines», Yvette Tan (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#adivina #nutricion #alimentos",
+  "alt": [
+    "Otros cuatro duelos de despensa con el titular: ¿quién lleva más? Adivina antes de deslizar.",
+    "Duelo uno: ¿más fibra, manzana o kiwi?",
+    "Resultado: gana el kiwi, 3,0 g frente a 2,4 g por cada 100 g.",
+    "Duelo dos: ¿más grasa saturada, mantequilla o aceite de oliva?",
+    "Resultado: más grasa saturada en la mantequilla, 51,4 g frente a 13,8 g por cada 100 g. Es composición, no una recomendación.",
+    "Duelo tres: ¿más azúcar, refresco de cola o zumo de naranja?",
+    "Resultado: más azúcar en el refresco de cola con azúcar, 9,9 g frente a 8,4 g por cada 100 g de azúcares totales; los del zumo son los propios de la naranja. Es composición, no una recomendación.",
+    "Duelo cuatro: ¿más colesterol, huevo o gambas?",
+    "Resultado: más colesterol en el huevo cocido, 373 mg frente a 211 mg por cada 100 g. Es composición, no una recomendación de comer o evitar nada. El colesterol del alimento y el de la sangre no son lo mismo.",
+    "Hoja final con la regla: mira siempre la cifra por 100 g antes de comparar, y con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "manzana",
+      "etiqueta": "Adivina",
+      "sigue": "Desliza",
+      "titular": "Otros cuatro duelos de despensa: ¿{quién} lleva más?"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {fibra}: manzana o kiwi?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Manzana",
+        "foto": "manzana",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Kiwi",
+        "foto": "kiwi",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Gana el {kiwi}",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Manzana",
+        "foto": "manzana",
+        "valor": "2,4 g"
+      },
+      "der": {
+        "nombre": "Kiwi",
+        "foto": "kiwi",
+        "valor": "3,0 g"
+      },
+      "texto": "Fibra por cada 100 g, en crudo.",
+      "ganador": "der"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más grasa {saturada}: mantequilla o aceite de oliva?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Mantequilla",
+        "foto": "mantequilla",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Aceite de oliva",
+        "foto": "aceite_oliva",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más grasa saturada: la {mantequilla}",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Mantequilla",
+        "foto": "mantequilla",
+        "valor": "51,4 g"
+      },
+      "der": {
+        "nombre": "Aceite de oliva",
+        "foto": "aceite_oliva",
+        "valor": "13,8 g"
+      },
+      "texto": "Por cada 100 g. Es composición, no una recomendación de comer o evitar nada."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {azúcar}: refresco de cola o zumo de naranja?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Refresco de cola con azúcar",
+        "foto": "refresco_cola",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Zumo de naranja",
+        "foto": "zumo_naranja",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más azúcar: el {refresco de cola}",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Refresco de cola con azúcar",
+        "foto": "refresco_cola",
+        "valor": "9,9 g"
+      },
+      "der": {
+        "nombre": "Zumo de naranja",
+        "foto": "zumo_naranja",
+        "valor": "8,4 g"
+      },
+      "texto": "Azúcares totales por 100 g, también los de la fruta. Es composición, no una recomendación."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {colesterol}: huevo o gambas?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Huevo cocido",
+        "foto": "huevo_pelado",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Gambas cocidas",
+        "foto": "gambas",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más colesterol: el {huevo cocido}",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Huevo cocido",
+        "foto": "huevo_pelado",
+        "valor": "373 mg"
+      },
+      "der": {
+        "nombre": "Gambas cocidas",
+        "foto": "gambas",
+        "valor": "211 mg"
+      },
+      "texto": "Por cada 100 g. Es composición, no una recomendación de comer o evitar nada. El del alimento y el de la sangre no son lo mismo."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Mira siempre la cifra {por 100 g} antes de comparar",
+      "fotos": [
+        {
+          "foto": "kiwi",
+          "texto": "Kiwi"
+        },
+        {
+          "foto": "mantequilla",
+          "texto": "Mantequilla"
+        },
+        {
+          "foto": "huevo_pelado",
+          "texto": "Huevo cocido"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-25",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Adivina"
+  }
+}

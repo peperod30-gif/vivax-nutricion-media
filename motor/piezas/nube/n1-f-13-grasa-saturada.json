@@ -1,0 +1,139 @@
+{
+  "id": "n1-f-13-grasa-saturada",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Ranking",
+  "angular": true,
+  "hechos": [
+    "ALI-016",
+    "ALI-047",
+    "ALI-070",
+    "ALI-053"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Cuánta grasa saturada lleva cada uno? Por cada 100 g: mantequilla 51,4 g; chocolate negro 70-85 % 24,5 g; parmesano 14,9 g; mozzarella 13,9 g; aceite de oliva 13,8 g; nueces 6,1 g. Es una selección, no la lista completa. La proporción de cada tipo de grasa cambia de un alimento a otro. Es composición por 100 g de una selección de alimentos, no una recomendación de qué comer ni de cuánto.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Chocolate, stonesoup», jules (CC BY 2.0); «Parmesan, 3 Months (7005099026)», Brian Boucheron (CC BY 2.0); «Mozzarella», Dezidor (CC BY 3.0); «Whole walnut kernel and shell», Potkettle (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#grasasaturada #nutricion #alimentos",
+  "alt": [
+    "Mantequilla con el titular: grasa saturada por 100 g, de la mantequilla a las nueces.",
+    "La mantequilla encabeza la lista con 51,4 g de grasa saturada por cada 100 g.",
+    "Grasa saturada en seis alimentos, no la lista completa, por cada 100 g: mantequilla 51,4 g; chocolate negro 70-85 % 24,5 g; parmesano 14,9 g; mozzarella 13,9 g; aceite de oliva 13,8 g; nueces 6,1 g.",
+    "Nueces con 6,1 g frente a mantequilla con 51,4 g de grasa saturada por 100 g.",
+    "Aceite de oliva con 13,8 g de grasa saturada por 100 g; la proporción de cada tipo de grasa cambia de un alimento a otro.",
+    "Hoja final con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "mantequilla",
+      "etiqueta": "Ranking",
+      "sigue": "Desliza",
+      "titular": "Grasa saturada por 100 g: de la {mantequilla} a las nueces"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "La primera",
+      "titulo": "La {mantequilla} encabeza la lista",
+      "cifra": "51,4",
+      "unidad": "g",
+      "foto": "mantequilla",
+      "sigue": "Desliza",
+      "texto": "de grasa saturada por cada 100 g. Es composición, no una recomendación."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Grasa saturada: seis alimentos, no la {lista completa}",
+      "unidad": "g por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Mantequilla",
+          "valor": "51,4 g",
+          "foto": "mantequilla"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "24,5 g",
+          "foto": "chocolate_negro"
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "14,9 g",
+          "foto": "parmesano"
+        },
+        {
+          "nombre": "Mozzarella",
+          "valor": "13,9 g",
+          "foto": "mozzarella"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "13,8 g",
+          "foto": "aceite_oliva"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "6,1 g",
+          "foto": "nueces"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Las nueces también llevan grasa saturada, pero mucha {menos}",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Nueces",
+        "valor": "6,1 g",
+        "foto": "nueces"
+      },
+      "der": {
+        "nombre": "Mantequilla",
+        "valor": "51,4 g",
+        "foto": "mantequilla"
+      },
+      "texto": "Grasa saturada por 100 g. Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "aceite_oliva",
+      "etiqueta": "Dato",
+      "titulo": "La grasa saturada no es toda la {grasa}",
+      "sigue": "Desliza",
+      "texto": "El aceite de oliva lleva 13,8 g de grasa saturada por cada 100 g. La proporción de cada tipo de grasa cambia de un alimento a otro. Es composición, no una recomendación de cantidad ni de comer o evitar nada."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Grasa saturada por 100 g: {tres} de la selección",
+      "fotos": [
+        {
+          "foto": "mantequilla",
+          "texto": "Mantequilla · 51,4 g"
+        },
+        {
+          "foto": "aceite_oliva",
+          "texto": "Aceite de oliva · 13,8 g"
+        },
+        {
+          "foto": "nueces",
+          "texto": "Nueces · 6,1 g"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-28",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Ranking"
+  }
+}

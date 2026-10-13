@@ -1,0 +1,206 @@
+{
+  "id": "n1-q-04-duelos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "comparativas",
+  "serie": "Adivina",
+  "angular": true,
+  "hechos": [
+    "ALI-024",
+    "ALI-031",
+    "ALI-060",
+    "ALI-074"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Cuántos duelos has acertado? Cuatro comparaciones de alimentos por cada 100 g: desliza, adivina y compruébalo en la hoja siguiente.\n\nPor cada 100 g, hidratos de carbono: arroz blanco cocido 28,2 g frente a coliflor cruda 5,0 g; potasio: aguacate crudo 485 mg frente a plátano crudo 358 mg; sodio: aceitunas negras en conserva 735 mg frente a patatas fritas de bolsa saladas 527 mg; grasa total: mantequilla con sal 81,1 g frente a aguacate crudo 14,7 g. El arroz es blanco y cocido, y la coliflor, cruda. El plátano y el aguacate, crudos; en potasio se mide lo que hay en el alimento. Las aceitunas son negras, en conserva, las patatas fritas, de bolsa y saladas, y el sodio no es lo mismo que la sal. La grasa es la total y la mantequilla lleva sal. Es composición, no una recomendación de cantidad ni de comer o evitar nada.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0); «Cauliflowers, 20051021», Calliope (CC BY 2.0); «Banana bunch», NW Indian Language Institute (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#adivina #nutricion #alimentos",
+  "alt": [
+    "¿Quién lleva más sodio: aceitunas negras o patatas de bolsa? Adivina antes de deslizar.",
+    "Duelo 1: ¿Más hidratos: arroz o coliflor?",
+    "Resultado: Más hidratos: el arroz. Arroz blanco cocido con 28,2 g frente a coliflor cruda con 5,0 g de hidratos de carbono, por cada 100 g. Arroz blanco, cocido; coliflor, cruda.",
+    "Duelo 2: ¿Más potasio: plátano o aguacate?",
+    "Resultado: Más potasio: el aguacate. Aguacate crudo con 485 mg frente a plátano crudo con 358 mg de potasio, por cada 100 g. Fruta cruda.",
+    "Duelo 3: ¿Más sodio: aceitunas negras o patatas fritas de bolsa?",
+    "Resultado: Más sodio: las aceitunas negras. Aceitunas negras en conserva con 735 mg frente a patatas fritas de bolsa saladas con 527 mg de sodio, por cada 100 g. Composición, no una recomendación. El sodio no es la sal.",
+    "Duelo 4: ¿Más grasa: aguacate o mantequilla?",
+    "Resultado: Más grasa: la mantequilla. Mantequilla con sal con 81,1 g frente a aguacate crudo con 14,7 g de grasa total, por cada 100 g.",
+    "Hoja final con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "patatas_fritas",
+      "etiqueta": "Adivina",
+      "sigue": "Desliza",
+      "titular": "¿Quién lleva más {sodio}: aceitunas negras o patatas de bolsa?"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {hidratos}: arroz o coliflor?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Arroz blanco cocido",
+        "foto": "arroz",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Coliflor cruda",
+        "foto": "coliflor",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más hidratos: el {arroz}",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Arroz blanco cocido",
+        "foto": "arroz",
+        "valor": "28,2 g"
+      },
+      "der": {
+        "nombre": "Coliflor cruda",
+        "foto": "coliflor",
+        "valor": "5,0 g"
+      },
+      "texto": "Hidratos de carbono por cada 100 g. Arroz blanco, cocido; coliflor, cruda."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {potasio}: plátano o aguacate?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Plátano crudo",
+        "foto": "platano",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Aguacate crudo",
+        "foto": "aguacate",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más potasio: el {aguacate}",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Plátano crudo",
+        "foto": "platano",
+        "valor": "358 mg"
+      },
+      "der": {
+        "nombre": "Aguacate crudo",
+        "foto": "aguacate",
+        "valor": "485 mg"
+      },
+      "texto": "Potasio por cada 100 g, lo que hay en el alimento. Fruta cruda."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {sodio}: aceitunas negras o patatas fritas de bolsa?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Aceitunas negras en conserva",
+        "foto": "aceitunas_negras",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Patatas fritas de bolsa saladas",
+        "foto": "patatas_fritas",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más sodio: las {aceitunas negras}",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Aceitunas negras en conserva",
+        "foto": "aceitunas_negras",
+        "valor": "735 mg"
+      },
+      "der": {
+        "nombre": "Patatas fritas de bolsa saladas",
+        "foto": "patatas_fritas",
+        "valor": "527 mg"
+      },
+      "texto": "Sodio por cada 100 g. Composición, no una recomendación. El sodio no es la sal."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {grasa}: aguacate o mantequilla?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Aguacate crudo",
+        "foto": "aguacate",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Mantequilla con sal",
+        "foto": "mantequilla",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más grasa: la {mantequilla}",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Aguacate crudo",
+        "foto": "aguacate",
+        "valor": "14,7 g"
+      },
+      "der": {
+        "nombre": "Mantequilla con sal",
+        "foto": "mantequilla",
+        "valor": "81,1 g"
+      },
+      "texto": "Grasa total por cada 100 g; la proporción de cada tipo cambia de uno a otro."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "¿Cuántos {acertaste}?",
+      "fotos": [
+        {
+          "foto": "arroz",
+          "texto": "Arroz blanco cocido"
+        },
+        {
+          "foto": "aguacate",
+          "texto": "Aguacate crudo"
+        },
+        {
+          "foto": "mantequilla",
+          "texto": "Mantequilla con sal"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-29",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Adivina"
+  }
+}

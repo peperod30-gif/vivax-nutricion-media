@@ -1,0 +1,136 @@
+{
+  "id": "n1-f-11-fibra",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Ranking",
+  "angular": true,
+  "hechos": [
+    "ALI-007",
+    "ALI-038"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Qué tiene más fibra por 100 g: garbanzo cocido, aguacate o kiwi? Por cada 100 g, los garbanzos cocidos llevan 7,6 g; el aguacate crudo, 6,7 g; la guayaba cruda, 5,4 g; el kiwi crudo, 3,0 g; la zanahoria cruda, 2,8 g, y las espinacas crudas, 2,2 g. Es una selección, no la lista completa: quedan fuera, entre otros, las lentejas cocidas (7,9 g), las alubias blancas cocidas (6,3 g) y el brócoli cocido (3,3 g). Es composición por 100 g de una selección de alimentos, no una recomendación de qué comer ni de cuánto.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Cocido maragato 03 by-dpc», David Perez (CC BY 4.0); «Carottes au marché d'Orange», jean-louis zimmermann (CC BY 2.0); «Spinach leaves», Nillerdk (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0; CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#fibra #nutricion #alimentos",
+  "alt": [
+    "Aguacate abierto con el titular: ¿qué tiene más fibra por 100 g, garbanzo cocido, aguacate o kiwi?",
+    "Respuesta: entre estos tres, el garbanzo. Cocido, 7,6 g de fibra por 100 g; el aguacate crudo, 6,7 g; el kiwi crudo, 3,0 g.",
+    "Fibra por cada 100 g en seis alimentos, no la lista completa: garbanzos cocidos 7,6 g; aguacate crudo 6,7 g; guayaba cruda 5,4 g; kiwi crudo 3,0 g; zanahoria cruda 2,8 g; espinacas crudas 2,2 g.",
+    "Aguacate crudo con 6,7 g frente a kiwi crudo con 3,0 g de fibra por 100 g: más del doble.",
+    "Guayaba cruda: 5,4 g de fibra por 100 g frente a 3,0 g del kiwi crudo.",
+    "Hoja final con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "aguacate",
+      "etiqueta": "Ranking",
+      "sigue": "Desliza",
+      "titular": "¿Qué tiene más {fibra} por 100 g: garbanzo cocido, aguacate o kiwi?"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{El garbanzo.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "Entre estos tres, cocido, 7,6 g de fibra por 100 g. El aguacate crudo lleva 6,7 g; el kiwi crudo, 3,0 g."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Fibra: seis alimentos, no la {lista completa}",
+      "unidad": "g por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "7,6 g",
+          "foto": "garbanzos_cocidos3"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "valor": "6,7 g",
+          "foto": "aguacate"
+        },
+        {
+          "nombre": "Guayaba cruda",
+          "valor": "5,4 g",
+          "foto": "guayaba_comun"
+        },
+        {
+          "nombre": "Kiwi crudo",
+          "valor": "3,0 g",
+          "foto": "kiwi"
+        },
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "2,8 g",
+          "foto": "zanahoria"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "2,2 g",
+          "foto": "espinacas"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Por 100 g, el aguacate lleva más del {doble} de fibra que el kiwi",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Aguacate crudo",
+        "valor": "6,7 g",
+        "foto": "aguacate"
+      },
+      "der": {
+        "nombre": "Kiwi crudo",
+        "valor": "3,0 g",
+        "foto": "kiwi"
+      },
+      "texto": "Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "guayaba_comun",
+      "etiqueta": "Sorpresa",
+      "titulo": "Por 100 g, la {guayaba} le gana al kiwi en fibra",
+      "sigue": "Desliza",
+      "texto": "Por 100 g, la guayaba cruda lleva 5,4 g de fibra y el kiwi crudo, 3,0 g. Es composición, no una recomendación de qué comer."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Fibra por 100 g: {tres} para comparar",
+      "fotos": [
+        {
+          "foto": "aguacate",
+          "texto": "Aguacate crudo · 6,7 g"
+        },
+        {
+          "foto": "guayaba_comun",
+          "texto": "Guayaba cruda · 5,4 g"
+        },
+        {
+          "foto": "kiwi",
+          "texto": "Kiwi crudo · 3,0 g"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-20",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Ranking"
+  }
+}

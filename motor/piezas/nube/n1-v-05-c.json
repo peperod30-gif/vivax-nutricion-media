@@ -1,0 +1,145 @@
+{
+  "id": "n1-v-05-c",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "respuesta",
+  "pilar": "mitos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-017",
+    "VIT-018",
+    "VIT-020",
+    "VIT-053"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Qué pasa con la vitamina C y el resfriado? Una revisión Cochrane de 29 comparaciones con 11 306 participantes concluyó que tomarla a diario como suplemento no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97; de 0,94 a 1,00), aunque sí en cinco ensayos con 598 maratonianos, esquiadores y soldados en ejercicios en el subártico, frente a placebo (riesgo relativo 0,48; intervalo del 95 %: de 0,35 a 0,64), y en adultos acortó los resfriados un 8 % (de 3 % a 12 %). Son resultados de suplementos y no de alimentos.\n\nLa UE autoriza decir que la vitamina C mejora la absorción del hierro, contribuye a la formación normal de colágeno para el funcionamiento normal de los vasos sanguíneos y contribuye al funcionamiento normal del sistema inmunitario; eso no equivale a evitar un resfriado. Por cada 100 g, el perejil fresco lleva 133 mg, el pimiento rojo crudo 128 mg, la col rizada cruda 93 mg, el brócoli crudo 89 mg, las coles de Bruselas crudas 85 mg y el pimiento verde crudo 80 mg. Es una selección, no la lista completa, y 100 g es más que una ración habitual de muchos de estos alimentos. Valor de referencia del etiquetado en adultos: 80 mg, no una recomendación. Según el NHS británico, el cuerpo no almacena vitamina C y tomar más de 1000 mg al día de suplementos puede causar dolor de estómago y diarrea; si tomas suplementos, consúltalo con tu médico.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Cochrane (Hemilä y Chalker); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Kale (6025692440)», Dwight Sipler (CC BY 2.0); «Starr 070730-7876 Capsicum annuum», Forest & Kim Starr (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminac #nutricion #cochrane",
+  "alt": [
+    "Letra C enorme en oliva sobre un kiwi, con el titular: ¿la vitamina C te quita el resfriado?",
+    "Respuesta: no. En la población general tomar vitamina C a diario como suplemento no redujo el riesgo de resfriarse; en adultos los resfriados duraron un 8 % menos.",
+    "En maratonianos, esquiadores y soldados en el frío, el riesgo de resfriarse frente a placebo fue 0,48 veces con un suplemento diario de vitamina C, en cinco ensayos con 598 personas (intervalo del 95 %: de 0,35 a 0,64).",
+    "Lo que la UE autoriza decir de la vitamina C: mejora la absorción del hierro; contribuye a la formación normal de colágeno para el funcionamiento normal de los vasos sanguíneos y contribuye al funcionamiento normal del sistema inmunitario; eso no equivale a evitar un resfriado.",
+    "Vitamina C en seis verduras y hierbas por 100 g, en crudo: perejil 133 mg, pimiento rojo 128 mg, col rizada 93 mg, brócoli 89 mg, coles de Bruselas 85 mg y pimiento verde 80 mg.",
+    "Cápsulas y el aviso de que los resultados son de suplementos, que el cuerpo no almacena vitamina C y que más de 1000 mg al día pueden causar molestias.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "kiwi",
+      "letra": "C",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "¿La {vitamina C} te quita el resfriado?"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{No.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "En la población general, tomar vitamina C a diario como suplemento no redujo el riesgo de resfriarse. En adultos, los resfriados duraron un 8 % menos (de 3 % a 12 %)."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Excepción",
+      "titulo": "Maratonianos, esquiadores y soldados en el {frío}",
+      "cifra": "0,48",
+      "unidad": "veces",
+      "sigue": "Desliza",
+      "texto": "el riesgo de resfriarse frente a placebo, en cinco ensayos con 598 personas (de 0,35 a 0,64)."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La vitamina C",
+        "{mejora la absorción}",
+        "del hierro."
+      ],
+      "sigue": "Desliza",
+      "texto": "La UE autoriza decir también que contribuye al funcionamiento normal del sistema inmunitario. Eso no equivale a evitar un resfriado."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina C en {seis} verduras y hierbas",
+      "unidad": "mg por 100 g, en crudo",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "133 mg",
+          "foto": "perejil"
+        },
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "128 mg",
+          "foto": "pimiento_rojo"
+        },
+        {
+          "nombre": "Col rizada cruda",
+          "valor": "93 mg",
+          "foto": "col_rizada"
+        },
+        {
+          "nombre": "Brócoli crudo",
+          "valor": "89 mg",
+          "foto": "brocoli"
+        },
+        {
+          "nombre": "Coles de Bruselas crudas",
+          "valor": "85 mg",
+          "foto": "coles_bruselas"
+        },
+        {
+          "nombre": "Pimiento verde crudo",
+          "valor": "80 mg",
+          "foto": "pimiento_verde"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "capsulas",
+      "etiqueta": "Ojo",
+      "titulo": "Suplemento no es {comida}",
+      "sigue": "Desliza",
+      "texto": "Los resultados son de suplementos. Según el NHS británico, el cuerpo no puede almacenar vitamina C y más de 1000 mg al día pueden causar dolor de estómago y diarrea. Si tomas suplementos, consúltalo con tu médico."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "En la población general, la vitamina C {no} es un escudo contra el resfriado",
+      "fotos": [
+        {
+          "foto": "perejil",
+          "texto": "Perejil fresco · 133 mg"
+        },
+        {
+          "foto": "pimiento_rojo",
+          "texto": "Pimiento rojo crudo · 128 mg"
+        },
+        {
+          "foto": "col_rizada",
+          "texto": "Col rizada cruda · 93 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Cochrane (Hemilä y Chalker, 2013); Reglamento (UE) 432/2012 (declaraciones de salud)",
+        "NHS (Reino Unido), vitamina C"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-19",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

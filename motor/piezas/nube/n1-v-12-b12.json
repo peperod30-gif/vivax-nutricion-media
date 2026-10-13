@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-12-b12",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-045",
+    "VIT-046",
+    "VIT-047",
+    "VIT-048"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Por cada 100 g, los mejillones cocidos llevan 24,0 µg de vitamina B12 (960 % del valor de referencia) y el huevo cocido 1,1 µg (44 %): unas 22 veces más. Por delante van las almejas cocidas (98,9 µg); detrás, la caballa cocinada (19,0 µg), las sardinas en aceite, escurridas (8,9 µg) y el salmón cocinado (2,8 µg). Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la vitamina B12 contribuye a la formación normal de glóbulos rojos y al funcionamiento normal del sistema nervioso y del sistema inmunitario. El valor de referencia de 2,5 µg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, la B12 no está de forma natural en frutas, verduras ni cereales, así que las personas veganas pueden no obtener suficiente.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Moules marinières cuisinées en octobre 2019», Benoît Prieur (CC0); «Steamedclams», Flickr user: Paul Keleher (CC BY 2.0); «Gegrillte Makrele Herzogkeller Bayreuth», Benreis (CC BY 3.0); «Sardinky», Dezidor (CC BY 3.0); «Spinach leaves», Nillerdk (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminab12 #nutricion #alimentos",
+  "alt": [
+    "Letra B12 enorme en oliva sobre una foto, con el titular: El mejillón cocido lleva unas 22 veces la B12 del huevo cocido, por 100 g.",
+    "Lo que la UE autoriza decir de la vitamina B12: La vitamina B12 contribuye a la formación normal de glóbulos rojos. La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y del sistema inmunitario.",
+    "El número de la etiqueta: 2,5 µg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+    "Vitamina B12 en seis alimentos, µg por 100 g, en el estado indicado: almejas cocidas 98,9 µg; mejillones cocidos 24,0 µg; caballa cocinada 19,0 µg; sardinas en aceite, escurridas 8,9 µg; salmón cocinado 2,8 µg; huevo cocido 1,1 µg.",
+    "El mejillón cocido lleva unas 22 veces la B12 del huevo cocido, por 100 g: mejillones cocidos con 24,0 µg frente a huevo cocido con 1,1 µg.",
+    "Ojo: Según el NHS británico, la vitamina B12 no se encuentra de forma natural en frutas, verduras ni cereales, así que las personas veganas pueden no obtener suficiente vitamina B12. Si sigues una dieta vegana o vegetariana estricta, consúltalo con tu médico.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "mejillones",
+      "letra": "B12",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "El mejillón cocido lleva unas {22 veces} la B12 del huevo cocido, por 100 g"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La vitamina B12 contribuye a la",
+        "{formación normal}",
+        "de glóbulos rojos."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y del sistema inmunitario.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "2,5",
+      "unidad": "µg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina B12 en {seis} alimentos",
+      "unidad": "µg por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Almejas cocidas",
+          "valor": "98,9 µg",
+          "foto": "almejas_cocidas"
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "24,0 µg",
+          "foto": "mejillones"
+        },
+        {
+          "nombre": "Caballa cocinada",
+          "valor": "19,0 µg",
+          "foto": "caballa"
+        },
+        {
+          "nombre": "Sardinas en aceite, escurridas",
+          "valor": "8,9 µg",
+          "foto": "sardinas_lata"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "2,8 µg",
+          "foto": "salmon_solo"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "1,1 µg",
+          "foto": "huevo_duro"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "El mejillón cocido lleva unas {22 veces} la B12 del huevo cocido, por 100 g",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Mejillones cocidos",
+        "valor": "24,0 µg",
+        "foto": "mejillones"
+      },
+      "der": {
+        "nombre": "Huevo cocido",
+        "valor": "1,1 µg",
+        "foto": "huevo_duro"
+      },
+      "texto": "Mejillones cocidos: el 960 % del valor de referencia. Huevo cocido: el 44 %."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "espinacas",
+      "etiqueta": "Ojo",
+      "titulo": "Vitamina B12 y dieta {vegana}: el NHS avisa",
+      "texto": "Según el NHS británico, la vitamina B12 no se encuentra de forma natural en frutas, verduras ni cereales, así que las personas veganas pueden no obtener suficiente vitamina B12. Si sigues una dieta vegana o vegetariana estricta, consúltalo con tu médico.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B12 por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "almejas_cocidas",
+          "texto": "Almejas cocidas · 98,9 µg"
+        },
+        {
+          "foto": "mejillones",
+          "texto": "Mejillones cocidos · 24,0 µg"
+        },
+        {
+          "foto": "caballa",
+          "texto": "Caballa cocinada · 19,0 µg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitaminas del grupo B"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-17",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

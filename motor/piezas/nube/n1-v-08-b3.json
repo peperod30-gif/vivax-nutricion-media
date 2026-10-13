@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-08-b3",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-029",
+    "VIT-030",
+    "VIT-031",
+    "VIT-032"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Pollo o cacahuetes? Por cada 100 g, la pechuga de pollo asada lleva 13,7 mg de vitamina B3 (niacina) y los cacahuetes crudos 12,1 mg. Entre medias, el atún al natural, escurrido (13,3 mg). El resto de la selección: pechuga de pavo asada (11,8 mg), salmón cocinado (8,0 mg) y lomo de cerdo asado, solo magro (5,9 mg). Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la niacina contribuye al metabolismo energético normal, al funcionamiento normal del sistema nervioso y al mantenimiento de la piel en condiciones normales. El valor de referencia es de 16 mg para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, las dosis altas de ácido nicotínico en suplementos pueden causar rubor y, tomadas mucho tiempo, daño en el hígado.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Grilled Chicken Breasts (28905381261)», Sharon Chen (CC BY 2.0); «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0); «Cooked turkey breast, November 2023, Sarah Stierch», Sarah Stierch (CC BY 4.0); «Pečené vepřové, bramborová kaše», Dezidor (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0; CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminab3 #niacina #nutricion",
+  "alt": [
+    "Letra B3 enorme en oliva sobre una foto, con el titular: Casi empatan en vitamina B3 por 100 g: pechuga de pollo asada y cacahuetes crudos.",
+    "Lo que la UE autoriza decir de la vitamina B3: La niacina contribuye al metabolismo energético normal. La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y al mantenimiento de la piel en condiciones normales.",
+    "El número de la etiqueta: 16 mg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar. No se compara con las cifras por 100 g.",
+    "Vitamina B3 en seis alimentos, mg por 100 g, en el estado indicado: pechuga de pollo asada 13,7 mg; atún al natural, escurrido 13,3 mg; cacahuetes crudos 12,1 mg; pechuga de pavo asada 11,8 mg; salmón cocinado 8,0 mg; lomo de cerdo asado, solo magro 5,9 mg.",
+    "Vitamina B3 por 100 g: pechuga de pollo asada contra cacahuetes crudos: pechuga de pollo asada con 13,7 mg frente a cacahuetes crudos con 12,1 mg.",
+    "Ojo: Según el NHS británico, las dosis altas de suplementos de ácido nicotínico (una forma de niacina) pueden causar rubor en la piel y, tomadas mucho tiempo, daño en el hígado. Si tomas suplementos, consúltalo con tu médico.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "pollo",
+      "letra": "B3",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "Casi empatan en {vitamina B3} por 100 g: pechuga de pollo asada y cacahuetes crudos"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La niacina contribuye al",
+        "{metabolismo energético}",
+        "normal."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y al mantenimiento de la piel en condiciones normales.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "16",
+      "unidad": "mg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar. No se compara con las cifras por 100 g.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina B3 en {seis} alimentos",
+      "unidad": "mg por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "13,7 mg",
+          "foto": "pollo"
+        },
+        {
+          "nombre": "Atún al natural, escurrido",
+          "valor": "13,3 mg",
+          "foto": "atun"
+        },
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "12,1 mg",
+          "foto": "cacahuetes"
+        },
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "11,8 mg",
+          "foto": "pavo"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "8,0 mg",
+          "foto": "salmon_solo"
+        },
+        {
+          "nombre": "Lomo de cerdo asado, solo magro",
+          "valor": "5,9 mg",
+          "foto": "lomo_asado"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Vitamina B3 por 100 g: pechuga de pollo asada contra cacahuetes {crudos}",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pechuga de pollo asada",
+        "valor": "13,7 mg",
+        "foto": "pollo"
+      },
+      "der": {
+        "nombre": "Cacahuetes crudos",
+        "valor": "12,1 mg",
+        "foto": "cacahuetes"
+      },
+      "texto": "Casi un empate: uno asado, otro crudo. Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "capsulas",
+      "etiqueta": "Ojo",
+      "titulo": "Con suplementos, {ojo}",
+      "texto": "Según el NHS británico, las dosis altas de suplementos de ácido nicotínico (una forma de niacina) pueden causar rubor en la piel y, tomadas mucho tiempo, daño en el hígado. Si tomas suplementos, consúltalo con tu médico.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B3 por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "pollo",
+          "texto": "Pechuga de pollo asada · 13,7 mg"
+        },
+        {
+          "foto": "atun",
+          "texto": "Atún escurrido · 13,3 mg"
+        },
+        {
+          "foto": "cacahuetes",
+          "texto": "Cacahuetes crudos · 12,1 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitaminas del grupo B"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-29",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

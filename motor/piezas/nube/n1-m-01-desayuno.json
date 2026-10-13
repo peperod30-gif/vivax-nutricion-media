@@ -1,0 +1,85 @@
+{
+  "id": "n1-m-01-desayuno",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "respuesta",
+  "pilar": "mitos",
+  "serie": "Mitos",
+  "angular": true,
+  "hechos": [
+    "MIT-007"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Hay que desayunar para adelgazar? Un metaanálisis del BMJ de 2019 reunió 13 ensayos en adultos de países de renta alta. En los 7 que midieron el peso (seguimiento de unas 7 semanas de media), quienes se saltaban el desayuno perdieron 0,44 kg más (intervalo de confianza del 95 %: de 0,07 a 0,82): una diferencia pequeña. En los 10 que midieron la energía (unas 2 semanas de media), quienes desayunaban comían unas 260 kcal más al día (intervalo de confianza del 95 %: de 79 a 441, con mucha variación entre ensayos). Los trabajos que solo observan asocian desayunar con pesar menos, pero eso no prueba la causa, y la calidad de los ensayos es mayormente baja. Es un efecto pequeño, medido en ensayos cortos: no es una pauta para saltarse comidas. Si tienes diabetes tratada con medicación, estás embarazada, das el pecho o has tenido un trastorno de la conducta alimentaria, consulta antes con tu médico.\n\nFuente: Sievert y colaboradores, BMJ 2019.\nFotos: Wikimedia Commons (dominio público o CC0), recortadas.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#mitos #nutricion #desayuno",
+  "alt": [
+    "Bol de avena con el titular: ¿el desayuno es la comida más importante para adelgazar?",
+    "Respuesta: no está respaldado por la prueba disponible. En 7 ensayos con adultos, quienes se saltaban el desayuno perdieron 0,44 kg más en unas 7 semanas. Es un efecto pequeño, no una pauta.",
+    "Quienes desayunaban comían unas 260 kcal más al día, de media (intervalo de confianza del 95 %: de 79 a 441). Ensayos de unas 2 semanas, con mucha variación entre ellos.",
+    "Reloj despertador con el mensaje: asociar no es probar. La calidad de los ensayos es mayormente baja y sus seguimientos, cortos.",
+    "Hoja final con la fuente, el aviso de contenido divulgativo y la consulta al médico en diabetes tratada con medicación, embarazo, lactancia o antecedentes de trastornos de la conducta alimentaria."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "avena",
+      "etiqueta": "Mito",
+      "sigue": "Desliza",
+      "titular": "¿El {desayuno} es la comida más importante para adelgazar?"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{No está}",
+        "respaldado."
+      ],
+      "sigue": "Desliza",
+      "texto": "La prueba no lo respalda: en 7 ensayos, quienes se saltaban el desayuno perdieron 0,44 kg más en unas 7 semanas. Efecto pequeño, no una pauta."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Energía",
+      "titulo": "Quienes desayunaban {comían más}",
+      "cifra": "260",
+      "unidad": "kcal",
+      "sigue": "Desliza",
+      "texto": "más al día, de media (IC 95 %: de 79 a 441). Ensayos de unas 2 semanas y con mucha variación."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "reloj",
+      "etiqueta": "Ojo",
+      "titulo": "Asociar no es {probar}",
+      "sigue": "Desliza",
+      "texto": "Quien desayuna suele pesar menos, pero eso no prueba que el desayuno sea la causa. La calidad de los ensayos es mayormente baja y sus seguimientos, cortos."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Desayuno para adelgazar: {sin pruebas a favor}",
+      "fotos": [
+        {
+          "foto": "avena",
+          "texto": "Avena"
+        },
+        {
+          "foto": "reloj",
+          "texto": "Reloj"
+        }
+      ],
+      "fuentes": [
+        "Sievert y colaboradores, BMJ 2019"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Si tienes diabetes tratada con medicación, estás embarazada, das el pecho o has tenido un trastorno de la conducta alimentaria, consulta antes con tu médico."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-16",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Mitos"
+  }
+}

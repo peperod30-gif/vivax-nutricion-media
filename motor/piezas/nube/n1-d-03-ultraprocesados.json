@@ -1,0 +1,101 @@
+{
+  "id": "n1-d-03-ultraprocesados",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "debate",
+  "pilar": "debates",
+  "serie": "Debates",
+  "angular": true,
+  "hechos": [
+    "DEB-022",
+    "DEB-023",
+    "DEB-024",
+    "DEB-025"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Depende de qué estudio se mire. En un ensayo con 20 adultos ingresados (Hall) (dos semanas con cada dieta, en orden aleatorio) y menús diseñados para igualarse en calorías ofrecidas, densidad energética, macronutrientes, azúcar, sodio y fibra, la dieta ultraprocesada hizo comer 508 kcal más al día y subir 0,9 kg, y la dieta sin procesar hizo bajar 0,9 kg; era un estudio pequeño, en un entorno controlado. Un metaanálisis de 10 ensayos (Robinson), con menús no igualados en perfil de nutrientes, halló más aumento de peso (diferencia de medias estandarizada de 0,65) y una tendencia a más ingesta de energía (0,18 a 0,44, con significación variable según el modelo); en un análisis por subgrupos, el efecto sobre la ingesta fue 0,71 si los menús eran más densos y 0,02 si eran similares (certeza baja; los autores piden más investigación; el resumen no dice si incluye el ensayo anterior).\n\nEn la cohorte española SUN (Mendonça), quienes más ultraprocesados comían tuvieron más riesgo de sobrepeso u obesidad (cociente de riesgos 1,26; IC 95 % 1,10 a 1,45), una asociación observacional en universitarios. Y en una encuesta a especialistas franceses (Braesco), la coincidencia al clasificar alimentos en los grupos NOVA fue baja (kappa de Fleiss de 0,32 y 0,34), aunque en 90 productos la mayoría de las asignaciones fue al grupo 4, el de ultraprocesados (91 %).\n\nFuentes: Hall, Cell Metabolism 2019; Robinson, Critical Reviews in Food Science and Nutrition 2026; Mendonça, The American Journal of Clinical Nutrition 2016; Braesco, European Journal of Clinical Nutrition 2022.\nFotos: Wikimedia Commons, recortadas: «Legion of gummi bears», Toms Baugis (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#ultraprocesados #nutricion #debate",
+  "alt": [
+    "Una pizza en primer plano con la pregunta: ¿los ultraprocesados nos hacen comer más?",
+    "Respuesta corta: depende. En un ensayo con menús diseñados para igualarse en densidad se comió más con ultraprocesados; en otro análisis, por subgrupos y de certeza baja, el efecto cambió con la densidad energética del menú.",
+    "508 kilocalorías más al día con la dieta ultraprocesada, en un ensayo con ingreso de dos semanas con cada dieta.",
+    "En ese ensayo, más 0,9 kilos con la dieta ultraprocesada y menos 0,9 kilos con la dieta sin procesar. Menús diseñados para igualarse en calorías ofrecidas, densidad, macronutrientes, azúcar, sodio y fibra.",
+    "En otro análisis (una revisión de 10 ensayos), con menús de densidad energética similar el efecto estandarizado sobre la ingesta fue de 0,02; con ultraprocesados más densos en energía, de 0,71. Es un análisis por subgrupos y la certeza es baja.",
+    "Gominolas y el aviso: en una encuesta a especialistas franceses, la coincidencia al clasificar alimentos en los grupos NOVA fue baja.",
+    "Hoja final con las fuentes de cada estudio y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "pizza",
+      "etiqueta": "Debate",
+      "titular": "¿Los {ultraprocesados} nos hacen comer más?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta corta",
+      "titular": [
+        "{Depende.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "En el ensayo con menús igualados en densidad, se comió más. En otro análisis, el efecto cambió con la densidad (subgrupos, certeza baja)."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Un ensayo",
+      "titulo": "Con ultraprocesados comían {más}",
+      "cifra": "508",
+      "unidad": "kcal al día",
+      "sigue": "Desliza",
+      "texto": "Más que con la dieta sin procesar, en un ensayo con ingreso: dos semanas con cada una."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "En ese ensayo",
+      "titular": [
+        "{+0,9 kg} con la ultraprocesada.",
+        "{-0,9 kg} con la sin procesar."
+      ],
+      "sigue": "Desliza",
+      "texto": "Menús diseñados para igualarse en calorías ofrecidas, densidad, macronutrientes, azúcar, sodio y fibra."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Pero",
+      "titulo": "En otro análisis, con menús de densidad similar, casi {no} cambió la ingesta",
+      "cifra": "0,02",
+      "unidad": "efecto",
+      "sigue": "Desliza",
+      "texto": "Con ultraprocesados más densos en energía, 0,71. Es un análisis por subgrupos, de certeza baja."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "gominolas",
+      "etiqueta": "Ojo",
+      "titulo": "Los especialistas {franceses} coinciden poco",
+      "sigue": "Desliza",
+      "texto": "En una encuesta, la coincidencia al clasificar alimentos en los grupos NOVA fue baja. No dice si dañan. En 90 productos, la mayoría fue al grupo 4 (91 %)."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Mira cómo se {estudió}",
+      "fotos": [],
+      "fuentes": [
+        "Hall 2019, ensayo: se comió más. Mendonça 2016, cohorte: más sobrepeso",
+        "Robinson 2026, metaanálisis por subgrupos (certeza baja)",
+        "Braesco 2022, encuesta: poca coincidencia NOVA"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-27",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Debates"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "n1-d-01-huevo",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "debate",
+  "pilar": "debates",
+  "serie": "Debates",
+  "angular": true,
+  "hechos": [
+    "DEB-001",
+    "DEB-002",
+    "DEB-003",
+    "DEB-004",
+    "DEB-005"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Depende de qué estudio se mire. En tres cohortes de EE. UU. (seguimiento de hasta 32 años; Drouin-Chartier), comer al menos un huevo al día no se asoció a más enfermedad cardiovascular (HR 0,93; IC 95 % 0,82 a 1,05, frente a menos de un huevo al mes); la mayoría comía entre uno y menos de cinco huevos por semana. En un metaanálisis de cohortes (Drouin-Chartier), un huevo más al día tampoco (RR 0,98; IC 95 % 0,93 a 1,03). Otro metaanálisis (Zhao) vio algo más de riesgo por cada 50 g de huevo más al día (RR 1,04; IC 95 % 1,00 a 1,08; heterogeneidad muy alta, I2 = 80,1 %; en las cohortes de EE. UU., RR 1,08; sin asociación en las asiáticas; efecto pequeño). En seis cohortes de EE. UU. (Zhong; mediana de seguimiento de 17,5 años), medio huevo más al día se asoció a más enfermedad cardiovascular (HR 1,06; IC 95 % 1,03 a 1,10; diferencia de riesgo absoluto de 1,11 %, IC 95 % 0,32 % a 1,89 %), pero esa asociación dejó de ser significativa al ajustar por el colesterol de la dieta (HR 0,99; IC 95 % 0,93 a 1,05). Cada 300 mg de colesterol de la dieta al día se asoció a un HR de 1,17 (IC 95 % 1,09 a 1,26), y los huevos son una fuente principal de ese colesterol. En 17 ensayos con personas sanas (Li), el grupo que comió más huevo tuvo más LDL (mide colesterol, no infartos).\n\nSon asociaciones, no causa. En diabetes, un metaanálisis (Rong) vio más cardiopatía coronaria al comparar la mayor con la menor ingesta de huevo (RR 1,54; IC 95 % 1,14 a 2,09), pero en un subgrupo. Si tienes diabetes, enfermedad cardiovascular o el LDL alto, consúltalo con tu médico.\n\nFuentes: Drouin-Chartier, BMJ 2020; Rong, BMJ 2013; Zhong, JAMA 2019; Zhao, Circulation 2022; Li, Nutrients 2020.\nFotos: Wikimedia Commons, recortadas: «African Boiled eggs. 04», Denis kasozi (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#huevo #colesterol #nutricion",
+  "alt": [
+    "Huevos cocidos en un plato con la pregunta: ¿un huevo al día es un problema para el corazón?",
+    "Respuesta corta: depende. Según la cifra que se mire, no hay más riesgo cardiovascular o hay un poco más.",
+    "Dos huevos cocidos frente a frente: dos cifras, con riesgo relativo 0,98 por cada huevo más al día y 1,04 por cada 50 g más al día.",
+    "Medio huevo más al día: riesgo relativo 1,06 sin ajustar por el colesterol de la dieta, una asociación que dejó de ser significativa al ajustar (0,99). Cada 300 mg de colesterol de la dieta al día, 1,17.",
+    "Huevos cocidos y el mensaje: en personas sanas, más huevo, más LDL.",
+    "Huevos pelados y el aviso: en diabetes se vio más cardiopatía coronaria, pero en un subgrupo; con diabetes, enfermedad cardiovascular o LDL alto, consúltalo con tu médico.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "huevo_pelado",
+      "etiqueta": "Debate",
+      "titular": "¿Un huevo al día es un {problema} para el corazón?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta corta",
+      "titular": [
+        "{Depende.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "Según la cifra que mires, no hay más riesgo cardiovascular o hay un poco más."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Dos cifras, dos {lecturas}",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Por huevo al día",
+        "valor": "0,98",
+        "foto": "huevo_cocido"
+      },
+      "der": {
+        "nombre": "Por 50 g al día",
+        "valor": "1,04",
+        "foto": "huevo_pelado"
+      },
+      "texto": "Riesgo relativo: 0,98, sin asociación; 1,04, en el límite. Con 1,00, igual."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Sin ajustar por colesterol",
+      "titulo": "Medio huevo más al día: riesgo {relativo}",
+      "cifra": "1,06",
+      "sigue": "Desliza",
+      "texto": "Con el colesterol de la dieta ajustado: 0,99. Cada 300 mg al día de ese colesterol: 1,17."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "huevo_cocido",
+      "etiqueta": "Resultado",
+      "titulo": "En personas sanas, más huevo, más {LDL}",
+      "sigue": "Desliza",
+      "texto": "En personas sanas, quien comió más huevo tuvo más LDL. Mide colesterol, no infartos."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "huevo_pelado",
+      "etiqueta": "Ojo",
+      "titulo": "En diabetes, el dato es de un {subgrupo}",
+      "sigue": "Desliza",
+      "texto": "En personas con diabetes se vio más cardiopatía coronaria (1,54, mayor frente a menor ingesta), pero era un subgrupo. Con diabetes, enfermedad cardiovascular o LDL alto, consúltalo con tu médico."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Las cohortes miden {asociación}, no causa",
+      "fotos": [
+        {
+          "foto": "huevo_cocido",
+          "texto": "Cohortes"
+        },
+        {
+          "foto": "huevo_pelado",
+          "texto": "Ensayos"
+        }
+      ],
+      "fuentes": [
+        "Drouin-Chartier, BMJ 2020; Rong, BMJ 2013; Zhong, JAMA 2019",
+        "Zhao, Circulation 2022; Li, Nutrients 2020"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-19",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Debates"
+  }
+}

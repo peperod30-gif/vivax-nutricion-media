@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-10-b6",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-037",
+    "VIT-038",
+    "VIT-039",
+    "VIT-040"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿El plátano es la fruta de la vitamina B6? Por cada 100 g, los pistachos crudos llevan 1,70 mg (121 % del valor de referencia) y el plátano crudo 0,37 mg (26 %): unas 5 veces más. Entre medias, la pechuga de pavo asada (0,81 mg), el salmón cocinado (0,65 mg), la pechuga de pollo asada (0,60 mg) y el lomo de cerdo asado, solo magro (0,55 mg). Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la vitamina B6 contribuye al metabolismo energético normal, al funcionamiento normal del sistema nervioso y a la formación normal de glóbulos rojos. El valor de referencia de 1,4 mg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, 200 mg o más al día pueden causar pérdida de sensibilidad en brazos y piernas, y no conviene pasar de 10 mg al día en suplementos salvo indicación médica.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Cooked turkey breast, November 2023, Sarah Stierch», Sarah Stierch (CC BY 4.0); «Grilled Chicken Breasts (28905381261)», Sharon Chen (CC BY 2.0); «Pečené vepřové, bramborová kaše», Dezidor (CC BY 3.0); «Banana bunch», NW Indian Language Institute (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0; CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminab6 #nutricion #alimentos",
+  "alt": [
+    "Letra B6 enorme en oliva sobre una foto, con el titular: Por 100 g, los pistachos crudos llevan unas 5 veces la B6 del plátano crudo.",
+    "Lo que la UE autoriza decir de la vitamina B6: La vitamina B6 contribuye al metabolismo energético normal. La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y a la formación normal de glóbulos rojos.",
+    "El número de la etiqueta: 1,4 mg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+    "Vitamina B6 en seis alimentos, mg por 100 g, en el estado indicado: pistachos crudos 1,70 mg; pechuga de pavo asada 0,81 mg; salmón cocinado 0,65 mg; pechuga de pollo asada 0,60 mg; lomo de cerdo asado, solo magro 0,55 mg; plátano crudo 0,37 mg.",
+    "Por 100 g, los pistachos crudos llevan unas 5 veces la B6 del plátano crudo: pistachos crudos con 1,70 mg frente a plátano crudo con 0,37 mg.",
+    "Ojo: Según el NHS británico, 200 mg o más al día de vitamina B6 pueden causar pérdida de sensibilidad en brazos y piernas, y no conviene pasar de 10 mg al día en suplementos salvo indicación médica.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "pistachos",
+      "letra": "B6",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "Por 100 g, los pistachos crudos llevan unas {5 veces} la B6 del plátano crudo"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La vitamina B6 contribuye al",
+        "{metabolismo energético}",
+        "normal."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y a la formación normal de glóbulos rojos.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "1,4",
+      "unidad": "mg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina B6 en {seis} alimentos",
+      "unidad": "mg por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Pistachos crudos",
+          "valor": "1,70 mg",
+          "foto": "pistachos"
+        },
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "0,81 mg",
+          "foto": "pavo"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "0,65 mg",
+          "foto": "salmon_solo"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "0,60 mg",
+          "foto": "pollo"
+        },
+        {
+          "nombre": "Lomo de cerdo asado, solo magro",
+          "valor": "0,55 mg",
+          "foto": "lomo_asado"
+        },
+        {
+          "nombre": "Plátano crudo",
+          "valor": "0,37 mg",
+          "foto": "platano"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Por 100 g, los pistachos crudos llevan unas {5 veces} la B6 del plátano crudo",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pistachos crudos",
+        "valor": "1,70 mg",
+        "foto": "pistachos"
+      },
+      "der": {
+        "nombre": "Plátano crudo",
+        "valor": "0,37 mg",
+        "foto": "platano"
+      },
+      "texto": "Composición por 100 g, no una pauta ni una ración."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "capsulas",
+      "etiqueta": "Ojo",
+      "titulo": "Suplementos: tope de {10 mg} según el NHS",
+      "texto": "Según el NHS británico, 200 mg o más al día de vitamina B6 pueden causar pérdida de sensibilidad en brazos y piernas, y no conviene pasar de 10 mg al día en suplementos salvo indicación médica.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B6 por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "pistachos",
+          "texto": "Pistachos crudos · 1,70 mg"
+        },
+        {
+          "foto": "pavo",
+          "texto": "Pechuga de pavo asada · 0,81 mg"
+        },
+        {
+          "foto": "salmon_solo",
+          "texto": "Salmón cocinado · 0,65 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitaminas del grupo B"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-27",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

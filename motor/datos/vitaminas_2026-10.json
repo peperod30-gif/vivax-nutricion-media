@@ -143,7 +143,7 @@
   {
     "id": "VIT-006",
     "tema": "composición - vitamina D (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina D: trucha cocinada 19,0 µg (380 % del VRN); salmón cocinado 13,1 µg (262 % del VRN); sardinas en lata 4,8 µg (96 % del VRN); huevo cocido 2,2 µg (44 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina D: trucha cocinada 19,0 µg (380 % del VRN); salmón cocinado 13,1 µg (262 % del VRN); sardinas en aceite, escurridas 4,8 µg (96 % del VRN); huevo cocido 2,2 µg (44 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 5 µg (vitamina D2 + D3) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 173718, 175168, 175139, 173424)",
@@ -176,7 +176,7 @@
           "pct": 262
         },
         {
-          "nombre": "Sardinas en lata",
+          "nombre": "Sardinas en aceite, escurridas",
           "valor": "4,8 µg",
           "fdc": 175139,
           "pct": 96
@@ -258,7 +258,7 @@
   {
     "id": "VIT-010",
     "tema": "composición - vitamina E (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina E: pipas de girasol peladas 35,2 mg (293 % del VRN); almendras crudas 25,6 mg (214 % del VRN); avellanas crudas 15,0 mg (125 % del VRN); aceite de oliva 14,4 mg (120 % del VRN); cacahuetes crudos 8,3 mg (69 % del VRN); aguacate crudo 2,1 mg (17 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina E: pipas de girasol peladas, secas 35,2 mg (293 % del VRN); almendras crudas 25,6 mg (214 % del VRN); avellanas crudas 15,0 mg (125 % del VRN); aceite de oliva 14,4 mg (120 % del VRN); cacahuetes crudos 8,3 mg (69 % del VRN); aguacate crudo 2,1 mg (17 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 12 mg (alfa-tocoferol) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 170567, 170581, 171413, 172430, 171705)",
@@ -279,7 +279,7 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Pipas de girasol peladas",
+          "nombre": "Pipas de girasol peladas, secas",
           "valor": "35,2 mg",
           "fdc": 170562,
           "pct": 293
@@ -320,7 +320,7 @@
   {
     "id": "VIT-011",
     "tema": "composición - vitamina E (comparación)",
-    "enunciado": "Por cada 100 g: pipas de girasol peladas, 35,2 mg de vitamina E (293 % del VRN); aceite de oliva, 14,4 mg (120 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
+    "enunciado": "Por cada 100 g: pipas de girasol peladas, secas, 35,2 mg de vitamina E (293 % del VRN); aceite de oliva, 14,4 mg (120 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (35,2 entre 14,4), redondeado al entero. El porcentaje compara con el VRN de 12 mg (alfa-tocoferol) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562 y 171413)",
@@ -345,9 +345,9 @@
   {
     "id": "VIT-012",
     "tema": "vitamina E (límite o aviso)",
-    "enunciado": "Según el NHS del Reino Unido, no hay pruebas suficientes para saber qué efectos tiene tomar cada día dosis altas de suplementos de vitamina E.",
+    "enunciado": "Según el NHS del Reino Unido, no hay pruebas suficientes para saber qué efectos tiene tomar cada día dosis altas de suplementos de vitamina E, y con suplementos no conviene tomar demasiado porque podría ser perjudicial.",
     "veredicto": "respaldado",
-    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «There is not enough evidence to know what the effects might be of taking high doses of vitamin E supplements each day».",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «There is not enough evidence to know what the effects might be of taking high doses of vitamin E supplements each day / If you take vitamin E supplements, do not take too much as this could be harmful».",
     "fuente": "NHS (Reino Unido), Vitamins and minerals",
     "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-e/",
     "anio": 2020,
@@ -360,7 +360,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Página del NHS descargada y leída (nhs_vitamin-e.txt)",
-      "detalle": "There is not enough evidence to know what the effects might be of taking high doses of vitamin E supplements each day"
+      "detalle": "There is not enough evidence to know what the effects might be of taking high doses of vitamin E supplements each day / If you take vitamin E supplements, do not take too much as this could be harmful"
     }
   },
   {
@@ -639,7 +639,7 @@
   {
     "id": "VIT-022",
     "tema": "composición - vitamina B1 (tiamina) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B1 (tiamina): pipas de girasol peladas 1,48 mg (135 % del VRN); lomo de cerdo asado, solo magro 1,02 mg (92 % del VRN); pistachos crudos 0,87 mg (79 % del VRN); cacahuetes crudos 0,64 mg (58 % del VRN); jamón cocido 0,63 mg (57 % del VRN); copos de avena secos 0,46 mg (42 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B1 (tiamina): pipas de girasol peladas, secas 1,48 mg (135 % del VRN); lomo de cerdo asado, solo magro 1,02 mg (92 % del VRN); pistachos crudos 0,87 mg (79 % del VRN); cacahuetes crudos 0,64 mg (58 % del VRN); jamón cocido 0,63 mg (57 % del VRN); copos de avena secos, sin enriquecer 0,46 mg (42 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,1 mg (tiamina) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 168233, 170184, 172430, 173864, 173904)",
@@ -660,7 +660,7 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Pipas de girasol peladas",
+          "nombre": "Pipas de girasol peladas, secas",
           "valor": "1,48 mg",
           "fdc": 170562,
           "pct": 135
@@ -690,7 +690,7 @@
           "pct": 57
         },
         {
-          "nombre": "Copos de avena secos",
+          "nombre": "Copos de avena secos, sin enriquecer",
           "valor": "0,46 mg",
           "fdc": 173904,
           "pct": 42
@@ -701,7 +701,7 @@
   {
     "id": "VIT-023",
     "tema": "composición - vitamina B1 (tiamina) (comparación)",
-    "enunciado": "Por cada 100 g: pipas de girasol peladas, 1,48 mg de vitamina B1 (tiamina) (135 % del VRN); lomo de cerdo asado, solo magro, 1,02 mg (92 % del VRN).",
+    "enunciado": "Por cada 100 g: pipas de girasol peladas, secas, 1,48 mg de vitamina B1 (tiamina) (135 % del VRN); lomo de cerdo asado, solo magro, 1,02 mg (92 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,48 entre 1,02), redondeado al entero. El porcentaje compara con el VRN de 1,1 mg (tiamina) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562 y 168233)",
@@ -883,7 +883,7 @@
   {
     "id": "VIT-030",
     "tema": "composición - vitamina B3 (niacina) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B3 (niacina): pechuga de pollo asada 13,7 mg; atún al natural 13,3 mg; cacahuetes crudos 12,1 mg; pechuga de pavo asada 11,8 mg; salmón cocinado 8,0 mg; lomo de cerdo asado, solo magro 5,9 mg.",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B3 (niacina): pechuga de pollo asada 13,7 mg; atún al natural, escurrido 13,3 mg; cacahuetes crudos 12,1 mg; pechuga de pavo asada 11,8 mg; salmón cocinado 8,0 mg; lomo de cerdo asado, solo magro 5,9 mg.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN: la tabla da niacina preformada y el reglamento da 16 mg sin precisar la base.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477, 171986, 172430, 171496, 175168, 168233)",
@@ -909,7 +909,7 @@
           "fdc": 171477
         },
         {
-          "nombre": "Atún al natural",
+          "nombre": "Atún al natural, escurrido",
           "valor": "13,3 mg",
           "fdc": 171986
         },
@@ -1258,7 +1258,7 @@
   {
     "id": "VIT-042",
     "tema": "composición - folato (vitamina B9) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes crudos 240 µg; pipas de girasol peladas 227 µg; espinacas crudas 194 µg; perejil fresco 152 µg; avellanas crudas 113 µg; nueces 98 µg.",
+    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes crudos 240 µg; pipas de girasol peladas, secas 227 µg; espinacas crudas 194 µg; perejil fresco 152 µg; avellanas crudas 113 µg; nueces 98 µg.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN: la tabla da folato total y el reglamento da el VRN del ácido fólico (200 µg).",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 170562, 168462, 170416, 170581, 170187)",
@@ -1284,7 +1284,7 @@
           "fdc": 172430
         },
         {
-          "nombre": "Pipas de girasol peladas",
+          "nombre": "Pipas de girasol peladas, secas",
           "valor": "227 µg",
           "fdc": 170562
         },
@@ -1339,9 +1339,9 @@
   {
     "id": "VIT-044",
     "tema": "folato (vitamina B9) (límite o aviso)",
-    "enunciado": "Según el NHS del Reino Unido, el folato es la forma natural de esta vitamina B y el ácido fólico es su forma sintética; a quien está embarazada, busca un embarazo o puede quedarse embarazada se le recomienda un suplemento de ácido fólico de 400 µg al día hasta la semana 12 de embarazo, y los adultos necesitan 200 µg de folato al día.",
+    "enunciado": "Según el NHS del Reino Unido, el folato es la forma natural de esta vitamina B y el ácido fólico es su forma sintética; a quien está embarazada, busca un embarazo o puede quedarse embarazada se le recomienda un suplemento de ácido fólico de 400 µg al día hasta la semana 12 de embarazo; algunas mujeres con más riesgo de defecto del tubo neural tienen otra indicación y deben hablarlo antes con su médico; las dosis de ácido fólico superiores a 1 mg pueden enmascarar los síntomas de la falta de vitamina B12; y los adultos necesitan 200 µg de folato al día.",
     "veredicto": "respaldado",
-    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant / it's recommended that you take a 400 microgram folic acid supplement daily until you're 12 weeks pregnant / Adults need 200 micrograms of folate a day».",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant / it's recommended that you take a 400 microgram folic acid supplement daily until you're 12 weeks pregnant / Adults need 200 micrograms of folate a day / are advised to take a higher dose of 5mg of folic acid each day until they're 12 weeks pregnant / Taking doses of folic acid higher than 1mg can mask the symptoms of vitamin B12 deficiency».",
     "fuente": "NHS (Reino Unido), Vitamins and minerals",
     "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
     "anio": 2020,
@@ -1354,7 +1354,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
-      "detalle": "The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant / it's recommended that you take a 400 microgram folic acid supplement daily until you're 12 weeks pregnant / Adults need 200 micrograms of folate a day"
+      "detalle": "The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant / it's recommended that you take a 400 microgram folic acid supplement daily until you're 12 weeks pregnant / Adults need 200 micrograms of folate a day / are advised to take a higher dose of 5mg of folic acid each day until they're 12 weeks pregnant / Taking doses of folic acid higher than 1mg can mask the symptoms of vitamin B12 deficiency"
     }
   },
   {
@@ -1379,7 +1379,7 @@
   {
     "id": "VIT-046",
     "tema": "composición - vitamina B12 (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B12: almejas cocidas 98,9 µg (3956 % del VRN); mejillones cocidos 24,0 µg (960 % del VRN); caballa cocinada 19,0 µg (760 % del VRN); sardinas en lata 8,9 µg (358 % del VRN); salmón cocinado 2,8 µg (112 % del VRN); huevo cocido 1,1 µg (44 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B12: almejas cocidas 98,9 µg (3956 % del VRN); mejillones cocidos 24,0 µg (960 % del VRN); caballa cocinada 19,0 µg (760 % del VRN); sardinas en aceite, escurridas 8,9 µg (358 % del VRN); salmón cocinado 2,8 µg (112 % del VRN); huevo cocido 1,1 µg (44 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 2,5 µg (vitamina B12) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 171975, 174217, 175120, 175139, 175168, 173424)",
@@ -1418,7 +1418,7 @@
           "pct": 760
         },
         {
-          "nombre": "Sardinas en lata",
+          "nombre": "Sardinas en aceite, escurridas",
           "valor": "8,9 µg",
           "fdc": 175139,
           "pct": 358
@@ -1568,7 +1568,7 @@
     "id": "VIT-053",
     "tema": "vitamina C y resfriado común",
     "veredicto": "respaldado",
-    "enunciado": "Una revisión Cochrane de 29 comparaciones con 11 306 participantes concluyó que tomar vitamina C a diario no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97; intervalo de confianza del 95 %: de 0,94 a 1,00), aunque sí lo redujo en 598 maratonianos, esquiadores y soldados en ejercicios en el subártico (riesgo relativo 0,48); en adultos acortó los resfriados un 8 % (de 3 % a 12 %).",
+    "enunciado": "Una revisión Cochrane de 29 comparaciones con 11 306 participantes concluyó que tomar vitamina C a diario no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97; intervalo de confianza del 95 %: de 0,94 a 1,00), aunque sí lo redujo en cinco ensayos con 598 maratonianos, esquiadores y soldados en ejercicios en el subártico (riesgo relativo 0,48; intervalo de confianza del 95 %: de 0,35 a 0,64); en adultos acortó los resfriados un 8 % (de 3 % a 12 %).",
     "matiz": "Revisión sistemática con metaanálisis de ensayos con placebo, que excluyó los de menos de 0,2 g de vitamina C al día. Los resultados son de suplementación diaria, no de alimentos. La propia revisión concluye que la suplementación rutinaria no se justifica en la población general. La declaración de la UE (contribuye al funcionamiento normal del sistema inmunitario) no equivale a evitar el resfriado.",
     "fuente": "Hemilä H, Chalker E. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev 2013;(1):CD000980",
     "url": "https://doi.org/10.1002/14651858.CD000980.pub4",

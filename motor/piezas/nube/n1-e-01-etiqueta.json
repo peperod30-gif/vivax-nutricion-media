@@ -1,0 +1,115 @@
+{
+  "id": "n1-e-01-etiqueta",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "educacion",
+  "serie": "Etiquetas",
+  "angular": true,
+  "hechos": [
+    "ETI-001",
+    "ETI-002",
+    "ETI-003",
+    "ETI-004",
+    "ETI-006"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Cinco cosas que fija el reglamento europeo sobre la etiqueta: los ingredientes van en orden decreciente de peso, según se incorporan en la receta; los alérgenos de la lista oficial de la UE se destacan con otro tipo de letra, estilo o color de fondo; la fecha de consumo preferente marca la duración mínima y la de caducidad es para alimentos microbiológicamente muy perecederos, que pasada no se consideran seguros; la sal es el sodio por 2,5; y los porcentajes de ingesta de referencia de la energía y de los nutrientes de la tabla usan un adulto medio de 2000 kcal. Es cómo se etiqueta, no qué comer.\n\nFuente: Reglamento (UE) nº 1169/2011 sobre la información alimentaria facilitada al consumidor.\nFotos: Wikimedia Commons, recortadas: «Ketchup 20160918 181342», Kim Holger Kelting (CC BY 4.0); «African Boiled eggs. 04», Denis kasozi (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#etiquetas #nutricion #aprendeacomer",
+  "alt": [
+    "Cuenco con kétchup y el titular: ¿sabes leer una etiqueta? Cinco reglas de la UE.",
+    "Regla uno: los ingredientes van en orden decreciente de peso; el primero es el que más pesa en la receta.",
+    "Regla dos: los alérgenos de la lista oficial de la UE se destacan en la lista de ingredientes con otro tipo de letra, estilo o color de fondo.",
+    "Regla tres: la fecha de consumo preferente marca la duración mínima; la de caducidad es para alimentos microbiológicamente muy perecederos y, pasada, no se consideran seguros.",
+    "Regla cuatro: la sal es el sodio por 2,5.",
+    "Ojo: los porcentajes de la energía y de los nutrientes de la tabla usan un adulto medio de 2000 kcal; sirven para comparar productos, no son lo que cada persona necesita.",
+    "Hoja final con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "ketchup",
+      "etiqueta": "Etiquetas",
+      "sigue": "Desliza",
+      "titular": "¿Sabes leer una {etiqueta}? Cinco reglas de la UE"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Regla uno",
+      "titular": [
+        "{Más}",
+        "a menos."
+      ],
+      "sigue": "Desliza",
+      "foto": "pan_molde",
+      "texto": "Los ingredientes van en orden decreciente de peso: el primero es el que más pesa en la receta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "huevo_cocido",
+      "etiqueta": "Regla dos",
+      "titulo": "Los {alérgenos} de la lista se ven",
+      "sigue": "Desliza",
+      "texto": "Los alérgenos de la lista oficial de la UE se destacan en la lista de ingredientes con otro tipo de letra, estilo o color de fondo."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Regla tres",
+      "titular": [
+        "{Preferente}",
+        "no es",
+        "caducidad."
+      ],
+      "sigue": "Desliza",
+      "texto": "El consumo preferente marca la duración mínima. La caducidad es para alimentos microbiológicamente muy perecederos: pasada, no se consideran seguros."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Regla cuatro",
+      "titulo": "La sal es el sodio por {2,5}",
+      "cifra": "×2,5",
+      "sigue": "Desliza",
+      "texto": "Si la etiqueta da el sodio, multiplica por 2,5 para saber la sal."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Ojo",
+      "titulo": "El porcentaje usa un adulto {medio}",
+      "cifra": "2000",
+      "unidad": "kcal",
+      "sigue": "Desliza",
+      "texto": "es la referencia de la energía y los nutrientes de la tabla. Sirve para comparar productos, no es una pauta."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Cinco reglas, una {etiqueta}",
+      "fotos": [
+        {
+          "foto": "pan_molde",
+          "texto": "Ingredientes"
+        },
+        {
+          "foto": "huevo_cocido",
+          "texto": "Alérgenos"
+        },
+        {
+          "foto": "yogur",
+          "texto": "Fechas"
+        }
+      ],
+      "fuentes": [
+        "Reglamento (UE) nº 1169/2011"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-18",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Etiquetas"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "n1-v-07-b2",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-025",
+    "VIT-026",
+    "VIT-027",
+    "VIT-028"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Según el NHS británico, la luz ultravioleta puede destruir la vitamina B2 (riboflavina). Por cada 100 g, las almendras crudas llevan 1,14 mg, el queso feta 0,84 mg, el huevo cocido 0,51 mg, los mejillones cocidos 0,42 mg y los champiñones crudos 0,40 mg. Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la riboflavina contribuye al metabolismo energético normal y al mantenimiento de la piel y de la visión en condiciones normales. El valor de referencia de 1,4 mg es para etiquetar, no una cantidad que haya que tomar.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Almonds macro 1», Daniel Schwen (CC BY 3.0); «Cheese of Akrotiri (4589719645)», Klearchos Kapoutsis (CC BY 2.0); «Moules marinières cuisinées en octobre 2019», Benoît Prieur (CC0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminab2 #riboflavina #nutricion",
+  "alt": [
+    "Letra B2 enorme en oliva sobre una foto, con el titular: La luz ultravioleta puede destruir la vitamina B2.",
+    "Lo que la UE autoriza decir de la vitamina B2: La riboflavina contribuye al metabolismo energético normal. La UE autoriza decir también que contribuye al mantenimiento de la piel y de la visión en condiciones normales.",
+    "El número de la etiqueta: 1,4 mg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+    "Vitamina B2 en cinco alimentos, mg por 100 g, en el estado indicado: almendras crudas 1,14 mg; queso feta 0,84 mg; huevo cocido 0,51 mg; mejillones cocidos 0,42 mg; champiñones crudos 0,40 mg.",
+    "Por 100 g, las almendras crudas llevan unas 2 veces la B2 del huevo cocido: almendras crudas con 1,14 mg frente a huevo cocido con 0,51 mg.",
+    "Ojo: Según el NHS británico, la luz ultravioleta puede destruir la riboflavina: lo ideal es mantener los alimentos que la contienen fuera de la luz directa del sol.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "leche",
+      "letra": "B2",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "La luz ultravioleta puede destruir la {vitamina B2}"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La riboflavina contribuye al",
+        "{metabolismo energético}",
+        "normal."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al mantenimiento de la piel y de la visión en condiciones normales.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "1,4",
+      "unidad": "mg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina B2 en {cinco} alimentos",
+      "unidad": "mg por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Almendras crudas",
+          "valor": "1,14 mg",
+          "foto": "almendras"
+        },
+        {
+          "nombre": "Queso feta",
+          "valor": "0,84 mg",
+          "foto": "feta"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "0,51 mg",
+          "foto": "huevo_duro"
+        },
+        {
+          "nombre": "Mejillones cocidos",
+          "valor": "0,42 mg",
+          "foto": "mejillones"
+        },
+        {
+          "nombre": "Champiñones crudos",
+          "valor": "0,40 mg",
+          "foto": "champinones"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Por 100 g, las almendras crudas llevan unas {2 veces} la B2 del huevo cocido",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Almendras crudas",
+        "valor": "1,14 mg",
+        "foto": "almendras"
+      },
+      "der": {
+        "nombre": "Huevo cocido",
+        "valor": "0,51 mg",
+        "foto": "huevo_duro"
+      },
+      "texto": "Composición por 100 g, no una pauta ni una ración."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "leche",
+      "etiqueta": "Ojo",
+      "titulo": "Fuera del {sol}",
+      "texto": "Según el NHS británico, la luz ultravioleta puede destruir la riboflavina: lo ideal es mantener los alimentos que la contienen fuera de la luz directa del sol.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B2 por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "almendras",
+          "texto": "Almendras crudas · 1,14 mg"
+        },
+        {
+          "foto": "feta",
+          "texto": "Queso feta · 0,84 mg"
+        },
+        {
+          "foto": "huevo_duro",
+          "texto": "Huevo cocido · 0,51 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitaminas del grupo B"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-11.parcial.json",
+    "fecha": "2026-11-01",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

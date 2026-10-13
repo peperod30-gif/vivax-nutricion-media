@@ -1,0 +1,101 @@
+{
+  "id": "n1-d-02-aceites",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "debate",
+  "pilar": "debates",
+  "serie": "Debates",
+  "angular": true,
+  "hechos": [
+    "DEB-011",
+    "DEB-012",
+    "DEB-013",
+    "DEB-014"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Según la Asociación Americana del Corazón, depende de con qué se sustituya la grasa saturada, y de qué se mire; esta pieza mira sobre todo el corazón. Su informe (2017) concluyó que los ensayos que cambiaron grasa saturada por aceite vegetal poliinsaturado redujeron la enfermedad cardiovascular en torno a un 30 %, mientras que sustituirla por hidratos de carbono sobre todo refinados y azúcares no se asocia con menos enfermedad cardiovascular y no la redujo en ensayos clínicos. En el ensayo de Sídney (458 hombres con un evento coronario reciente, 1966-1973), el grupo que cambió grasa saturada por ácido linoleico (aceite de cártamo y su margarina) tuvo más muertes: 17,6 % frente a 11,8 % por todas las causas (cociente de riesgos 1,62; IC 95 % 1,00 a 2,64). Era un ensayo de un solo centro, con el resultado en el límite de la significación, y no usó el girasol, la soja ni el maíz de uso habitual; un metaanálisis actualizado de ensayos con ese ácido graso no mostró beneficio cardiovascular.\n\nUn análisis de 30 cohortes asoció más ácido linoleico en sangre a menos mortalidad cardiovascular (0,78; IC 95 % 0,70 a 0,85); mide niveles en sangre, no el consumo de un aceite concreto, y no prueba causa. En 15 ensayos con personas sanas, más ácido linoleico no subió marcadores de inflamación como la proteína C reactiva (sin diferencias significativas; mide sangre u orina, no enfermedades). Si has tenido un evento coronario, tu médico dice qué dieta te conviene.\n\nFuentes: Sacks, Circulation 2017; Ramsden, BMJ 2013; Marklund, Circulation 2019; Johnson, Journal of the Academy of Nutrition and Dietetics 2012.\nFotos: Wikimedia Commons (dominio público o CC0), recortadas.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#aceites #grasas #nutricion",
+  "alt": [
+    "Pipas de girasol peladas con la pregunta: ¿son «tóxicos» los aceites de semillas?",
+    "Respuesta corta: depende. Se mira sobre todo el corazón: unas cifras ven menos enfermedad cardiovascular y otra vio más muertes.",
+    "En torno a un 30 % menos de enfermedad cardiovascular al cambiar grasa saturada por aceite poliinsaturado, según un informe de la Asociación Americana del Corazón (EE. UU., 2017).",
+    "En hombres con un evento coronario reciente, el cártamo se asoció a más muertes por todas las causas, cociente de riesgos 1,62. No usó girasol, soja ni maíz de uso habitual, y una actualización tampoco vio beneficio cardiovascular.",
+    "Omega 6 en sangre: el riesgo relativo de mortalidad cardiovascular fue 0,78, una asociación que no prueba causa.",
+    "Más ácido linoleico no subió los marcadores de inflamación en personas sanas. Midieron sangre u orina, no enfermedades.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "pipas_girasol",
+      "etiqueta": "Debate",
+      "titular": "¿Son «{tóxicos}» los aceites de semillas?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta corta",
+      "titular": [
+        "{Depende.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "Miramos sobre todo el corazón. Unas cifras ven menos enfermedad cardiovascular y otra vio más muertes."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Informe",
+      "titulo": "Según la Asociación Americana del Corazón: menos enfermedad {cardiovascular}",
+      "cifra": "30",
+      "unidad": "% menos",
+      "sigue": "Desliza",
+      "texto": "Al cambiar grasa saturada por aceite poliinsaturado, en torno a un 30 % (EE. UU., 2017)."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Réplica",
+      "titulo": "Hombres con un evento coronario reciente: más {muertes} con cártamo",
+      "cifra": "1,62",
+      "unidad": "por todas las causas",
+      "sigue": "Desliza",
+      "texto": "Hace décadas. No era girasol, soja ni maíz de uso habitual."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Cohortes",
+      "titulo": "Omega 6 en sangre: el riesgo fue {menor}",
+      "cifra": "0,78",
+      "sigue": "Desliza",
+      "texto": "Riesgo relativo de mortalidad cardiovascular con más ácido linoleico en sangre. Es asociación: no prueba causa."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Resultado",
+      "titular": [
+        "Más ácido linoleico",
+        "no subió {marcadores}",
+        "de inflamación."
+      ],
+      "sigue": "Desliza",
+      "texto": "En personas sanas. Midieron sangre u orina, no enfermedades."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Según la Asociación Americana del Corazón, depende de con qué se {sustituya}",
+      "fotos": [],
+      "fuentes": [
+        "Sacks, Circulation 2017; Ramsden, BMJ 2013",
+        "Marklund, Circulation 2019; Johnson, J Acad Nutr Diet 2012"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Si has tenido un evento coronario, tu médico dice qué dieta te conviene."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-23",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Debates"
+  }
+}

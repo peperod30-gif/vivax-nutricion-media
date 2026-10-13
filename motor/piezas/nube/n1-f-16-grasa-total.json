@@ -1,0 +1,136 @@
+{
+  "id": "n1-f-16-grasa-total",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Ranking",
+  "angular": true,
+  "hechos": [
+    "ALI-053",
+    "ALI-074"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Cuánta grasa lleva el aguacate frente a las nueces y la mantequilla? Por cada 100 g: aceite de oliva 100,0 g; mantequilla 81,1 g; nueces 65,2 g; almendras 49,9 g; aguacate crudo 14,7 g; huevo cocido 10,6 g. Es la grasa total del alimento: la proporción de cada tipo cambia de uno a otro. Es composición por 100 g de una selección de alimentos, no una recomendación de qué comer ni de cuánto.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Whole walnut kernel and shell», Potkettle (CC BY 3.0); «Almonds macro 1», Daniel Schwen (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#grasa #nutricion #alimentos",
+  "alt": [
+    "Aguacate abierto con el titular: ¿cuánta grasa lleva el aguacate? Por 100 g.",
+    "Respuesta: mucha menos. Por 100 g, el aguacate crudo lleva 14,7 g de grasa; las nueces, 65,2 g; la mantequilla, 81,1 g.",
+    "Grasa total en seis alimentos por cada 100 g: aceite de oliva 100,0 g; mantequilla 81,1 g; nueces 65,2 g; almendras 49,9 g; aguacate crudo 14,7 g; huevo cocido 10,6 g.",
+    "Aguacate crudo con 14,7 g frente a mantequilla con 81,1 g de grasa total por 100 g.",
+    "La grasa total no dice de qué tipo: la proporción de cada tipo cambia de un alimento a otro.",
+    "Hoja final con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "aguacate",
+      "etiqueta": "Ranking",
+      "sigue": "Desliza",
+      "titular": "¿Cuánta {grasa} lleva el aguacate? Por 100 g"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{Mucha menos.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "Por 100 g, el aguacate crudo lleva 14,7 g de grasa; las nueces, 65,2 g; la mantequilla, 81,1 g."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Grasa total en {seis} alimentos",
+      "unidad": "g de grasa total por 100 g",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "100,0 g",
+          "foto": "aceite_oliva"
+        },
+        {
+          "nombre": "Mantequilla",
+          "valor": "81,1 g",
+          "foto": "mantequilla"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "65,2 g",
+          "foto": "nueces"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "49,9 g",
+          "foto": "almendras"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "valor": "14,7 g",
+          "foto": "aguacate"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "10,6 g",
+          "foto": "huevo_pelado"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Por 100 g, el aguacate crudo lleva mucha {menos} grasa que la mantequilla",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Aguacate crudo",
+        "valor": "14,7 g",
+        "foto": "aguacate"
+      },
+      "der": {
+        "nombre": "Mantequilla",
+        "valor": "81,1 g",
+        "foto": "mantequilla"
+      },
+      "texto": "Grasa total por 100 g. Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "aceite_oliva",
+      "etiqueta": "Dato",
+      "titulo": "La grasa total no dice de qué {tipo}",
+      "sigue": "Desliza",
+      "texto": "La proporción de cada tipo de grasa cambia de un alimento a otro. Aquí solo se compara la grasa total. Es composición, no una recomendación de cantidad ni de comer o evitar nada."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Grasa total por 100 g: {tres} de la selección",
+      "fotos": [
+        {
+          "foto": "aceite_oliva",
+          "texto": "Aceite de oliva · 100,0 g"
+        },
+        {
+          "foto": "nueces",
+          "texto": "Nueces · 65,2 g"
+        },
+        {
+          "foto": "aguacate",
+          "texto": "Aguacate crudo · 14,7 g"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-22",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Ranking"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-01-a",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-001",
+    "VIT-002",
+    "VIT-003",
+    "VIT-004"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Dónde hay más vitamina A, en la zanahoria o en el hígado? Por cada 100 g, el hígado de ternera cocinado lleva 9442 µg (RAE) y la zanahoria cruda 835 µg: unas 11 veces más. El resto de la selección: boniato cocido (787 µg), mantequilla con sal (684 µg), espinacas crudas (469 µg) y parmesano (207 µg). Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la vitamina A contribuye al mantenimiento de la visión y de la piel en condiciones normales y al funcionamiento normal del sistema inmunitario. El valor de referencia de 800 µg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, el hígado y sus derivados (como el paté) son muy ricos en vitamina A: no más de una vez por semana y, en el embarazo, aconseja evitarlos; si estás embarazada, consúltalo con tu médico. Las mujeres tras la menopausia y los hombres mayores, con más riesgo de osteoporosis, no deben pasar de 1,5 mg al día de vitamina A entre alimentos y suplementos, según el NHS británico. Si estás en ese grupo o tomas suplementos, consúltalo con tu médico.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Carottes au marché d'Orange», jean-louis zimmermann (CC BY 2.0); «Fegato alla Veneziana», Görgött, Chris Nilson (CC BY 3.0); «Treat for Daddy, Longhorn Steakhouse (4 of 4) (3374114186)», Vox Efx (CC BY 2.0); «Spinach leaves», Nillerdk (CC BY 3.0); «Parmesan, 3 Months (7005099026)», Brian Boucheron (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados.\n\n#vitaminaa #nutricion #alimentos",
+  "alt": [
+    "Letra A enorme en oliva sobre una foto, con el titular: ¿Zanahoria o hígado? Dónde hay más vitamina A por 100 g.",
+    "Lo que la UE autoriza decir de la vitamina A: La vitamina A contribuye al mantenimiento de la visión en condiciones normales. La UE autoriza decir también que contribuye al mantenimiento de la piel en condiciones normales y al funcionamiento normal del sistema inmunitario.",
+    "El número de la etiqueta: 800 µg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar. No se compara con las cifras por 100 g.",
+    "Vitamina A en seis alimentos, µg RAE por 100 g, en el estado indicado: hígado de ternera cocinado 9442 µg; zanahoria cruda 835 µg; boniato cocido 787 µg; mantequilla con sal 684 µg; espinacas crudas 469 µg; parmesano 207 µg.",
+    "Por 100 g, el hígado cocinado lleva unas 11 veces la vitamina A de la zanahoria cruda: hígado de ternera cocinado con 9442 µg frente a zanahoria cruda con 835 µg.",
+    "Ojo: Según el NHS británico, el hígado y sus derivados (como el paté) son muy ricos en vitamina A: no más de una vez por semana y, en el embarazo, se aconseja evitarlos. Si estás embarazada, consúltalo con tu médico.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "zanahoria",
+      "letra": "A",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "¿Zanahoria o {hígado}? Dónde hay más vitamina A por 100 g"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La vitamina A contribuye al",
+        "{mantenimiento de la visión}",
+        "en condiciones normales."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al mantenimiento de la piel en condiciones normales y al funcionamiento normal del sistema inmunitario.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "800",
+      "unidad": "µg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar. No se compara con las cifras por 100 g.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina A en {seis} alimentos",
+      "unidad": "µg RAE por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Hígado de ternera cocinado",
+          "valor": "9442 µg",
+          "foto": "higado_ternera"
+        },
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "835 µg",
+          "foto": "zanahoria"
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "787 µg",
+          "foto": "boniato_asado"
+        },
+        {
+          "nombre": "Mantequilla con sal",
+          "valor": "684 µg",
+          "foto": "mantequilla"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "469 µg",
+          "foto": "espinacas"
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "207 µg",
+          "foto": "parmesano"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Por 100 g, el hígado cocinado lleva unas {11 veces} la vitamina A de la zanahoria cruda",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Hígado de ternera cocinado",
+        "valor": "9442 µg",
+        "foto": "higado_ternera"
+      },
+      "der": {
+        "nombre": "Zanahoria cruda",
+        "valor": "835 µg",
+        "foto": "zanahoria"
+      },
+      "texto": "Hígado de ternera cocinado frente a zanahoria cruda. Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "higado_ternera",
+      "etiqueta": "Ojo",
+      "titulo": "Hígado y {embarazo}",
+      "texto": "Según el NHS británico, el hígado y sus derivados (como el paté) son muy ricos en vitamina A: no más de una vez por semana y, en el embarazo, se aconseja evitarlos. Si estás embarazada, consúltalo con tu médico.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina A por 100 g: {tres} verduras de la selección",
+      "fotos": [
+        {
+          "foto": "zanahoria",
+          "texto": "Zanahoria cruda · 835 µg"
+        },
+        {
+          "foto": "boniato_asado",
+          "texto": "Boniato cocido · 787 µg"
+        },
+        {
+          "foto": "espinacas",
+          "texto": "Espinacas crudas · 469 µg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitamina A"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-21",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}

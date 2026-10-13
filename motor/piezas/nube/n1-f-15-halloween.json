@@ -1,0 +1,141 @@
+{
+  "id": "n1-f-15-halloween",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Azúcar",
+  "angular": true,
+  "hechos": [
+    "ALI-019",
+    "ALI-045",
+    "AZU-001",
+    "AZU-003"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Cuánto azúcar llevan seis cosas de la despensa? Por cada 100 g, azúcares totales: azúcar blanco 99,8 g; chocolate negro 70-85 % 24,0 g; kétchup 21,3 g; uvas 15,5 g; refresco de cola con azúcar 9,9 g; zumo de naranja 8,4 g; la crema de cacao y avellanas, 54,1 g, está en la segunda hoja. La OMS recomienda reducir los azúcares libres a menos del 10 % de la energía total: es una guía poblacional, no una pauta personal, y no incluye los azúcares de la fruta fresca ni de la leche. Es composición, no una pauta.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); OMS, comunicado de prensa sobre la guía de azúcares libres (marzo de 2015).\nFotos: Wikimedia Commons, recortadas: «Legion of gummi bears», Toms Baugis (CC BY 2.0); «Sugar Cubes (7164573186) (cropped)», david pacey (CC BY 2.0); «Chocolate, stonesoup», jules (CC BY 2.0); «Ketchup 20160918 181342», Kim Holger Kelting (CC BY 4.0); «Red and green grapes in a bowl 01», domdomegg (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#azucar #nutricion #halloween",
+  "alt": [
+    "Gominolas con el titular: azúcares por 100 g, ¿cuánto llevan seis cosas de la despensa?",
+    "Por 100 g, la crema de cacao y avellanas lleva 54,1 g de azúcares totales.",
+    "Azúcares por cada 100 g en una selección de seis alimentos: azúcar blanco 99,8 g; chocolate negro 70-85 % 24,0 g; kétchup 21,3 g; uvas 15,5 g; refresco de cola con azúcar 9,9 g; zumo de naranja 8,4 g.",
+    "Refresco de cola con azúcar con 9,9 g frente a zumo de naranja con 8,4 g de azúcares por 100 g.",
+    "Azúcares totales frente a azúcares libres: los libres de la OMS son los añadidos más los de la miel, los jarabes y los zumos; la fruta fresca y la leche no cuentan.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "gominolas",
+      "etiqueta": "Halloween",
+      "sigue": "Desliza",
+      "titular": "Azúcares por 100 g: ¿cuánto llevan {seis} cosas de la despensa?"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "El dato",
+      "titulo": "Por 100 g, la crema de cacao y avellanas lleva {azúcares}",
+      "cifra": "54,1",
+      "unidad": "g",
+      "sigue": "Desliza",
+      "texto": "de azúcares totales, los de la propia fruta o leche incluidos."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Azúcares: una {selección} de seis alimentos",
+      "unidad": "Por 100 g, azúcares totales",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Azúcar blanco",
+          "valor": "99,8 g",
+          "foto": "azucar_terrones"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "24,0 g",
+          "foto": "chocolate_negro"
+        },
+        {
+          "nombre": "Kétchup",
+          "valor": "21,3 g",
+          "foto": "ketchup"
+        },
+        {
+          "nombre": "Uvas",
+          "valor": "15,5 g",
+          "foto": "uvas"
+        },
+        {
+          "nombre": "Refresco de cola con azúcar",
+          "valor": "9,9 g",
+          "foto": "refresco_cola"
+        },
+        {
+          "nombre": "Zumo de naranja",
+          "valor": "8,4 g",
+          "foto": "zumo_naranja"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "El refresco de cola con azúcar lleva más que el {zumo de naranja}",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Refresco de cola con azúcar",
+        "valor": "9,9 g",
+        "foto": "refresco_cola"
+      },
+      "der": {
+        "nombre": "Zumo de naranja",
+        "valor": "8,4 g",
+        "foto": "zumo_naranja"
+      },
+      "texto": "Azúcares por 100 g. Para la OMS, los del zumo también son libres."
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Dos cuentas",
+      "titular": [
+        "Azúcares totales.",
+        "{Azúcares libres.}"
+      ],
+      "sigue": "Desliza",
+      "texto": "La tabla suma todos. Los libres de la OMS: añadidos, miel, jarabes y zumos. La fruta fresca y la leche no cuentan."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Azúcares por 100 g: {tres} de la despensa",
+      "fotos": [
+        {
+          "foto": "azucar_terrones",
+          "texto": "Azúcar blanco · 99,8 g"
+        },
+        {
+          "foto": "ketchup",
+          "texto": "Kétchup · 21,3 g"
+        },
+        {
+          "foto": "refresco_cola",
+          "texto": "Cola con azúcar · 9,9 g"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "OMS, comunicado de prensa sobre la guía de azúcares libres (marzo de 2015)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-31",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Azúcar"
+  }
+}

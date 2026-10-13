@@ -1,0 +1,226 @@
+{
+  "id": "n1-q-03-duelos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "versus",
+  "pilar": "comparativas",
+  "serie": "Adivina",
+  "angular": true,
+  "hechos": [
+    "ALI-056",
+    "ALI-058",
+    "ALI-061",
+    "ALI-063"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Cuántos duelos has acertado? Cuatro comparaciones de alimentos por cada 100 g: desliza, adivina y compruébalo en la hoja siguiente.\n\nPor cada 100 g, proteína: pechuga de pollo asada 31,0 g frente a tofu firme crudo 17,3 g; hidratos de carbono: pan blanco 49,4 g frente a pan de trigo entero 42,7 g; calcio: sardinas en lata 382 mg frente a leche entera 113 mg; vitamina C: naranja cruda 53 mg frente a zumo de naranja crudo 50 mg. El pollo es pechuga sin piel, asada, y el tofu, firme y crudo. El calcio es la cantidad que hay en el alimento, no la que se absorbe, y las sardinas son en lata, en aceite y escurridas, con su espina. Los dos panes son de elaboración industrial. El zumo es de naranja crudo, sin añadidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018).\nFotos: Wikimedia Commons, recortadas: «Orange sliced in half», Christine Majul (CC BY 2.0); «Grilled Chicken Breasts (28905381261)», Sharon Chen (CC BY 2.0); «Wholemeal tin loaf (8370566283)», muffinn (CC BY 2.0); «Sardinky», Dezidor (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#adivina #nutricion #alimentos",
+  "alt": [
+    "Cuatro duelos más: ¿quién lleva más? Adivina antes de deslizar.",
+    "Duelo 1: ¿Más proteína: pollo o tofu?",
+    "Resultado: Más proteína: el pollo. Pechuga de pollo asada con 31,0 g frente a tofu firme crudo con 17,3 g de proteína, por cada 100 g. Pechuga sin piel, asada; tofu firme, crudo.",
+    "Duelo 2: ¿Más hidratos: pan de trigo entero o pan blanco?",
+    "Resultado: Más hidratos: el pan blanco. Pan blanco con 49,4 g frente a pan de trigo entero con 42,7 g de hidratos de carbono, por cada 100 g. Los dos panes, de elaboración industrial.",
+    "Duelo 3: ¿Más calcio: sardinas en lata o leche?",
+    "Resultado: Más calcio: las sardinas. Sardinas en lata con 382 mg frente a leche entera con 113 mg de calcio, por cada 100 g. Con espina.",
+    "Duelo 4: ¿Más vitamina C: zumo de naranja o naranja?",
+    "Resultado: Más vitamina C: la naranja. Naranja cruda con 53 mg frente a zumo de naranja crudo con 50 mg de vitamina C, por cada 100 g. Zumo de naranja sin añadidos.",
+    "Hoja final con la fuente y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "naranja",
+      "etiqueta": "Adivina",
+      "sigue": "Desliza",
+      "titular": "Cuatro duelos más: ¿{quién} lleva más?"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {proteína}: pollo o tofu?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pechuga de pollo asada",
+        "foto": "pollo",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Tofu firme crudo",
+        "foto": "tofu2",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más proteína: el {pollo}",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pechuga de pollo asada",
+        "foto": "pollo",
+        "valor": "31,0 g"
+      },
+      "der": {
+        "nombre": "Tofu firme crudo",
+        "foto": "tofu2",
+        "valor": "17,3 g"
+      },
+      "texto": "Proteína por cada 100 g. Pechuga sin piel, asada; tofu firme, crudo."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {hidratos}: pan de trigo entero o pan blanco?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pan de trigo entero",
+        "foto": "pan_integral",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Pan blanco",
+        "foto": "pan_molde",
+        "foco": [
+          52,
+          50
+        ],
+        "zoom": 1.4,
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más hidratos: el {pan blanco}",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pan de trigo entero",
+        "foto": "pan_integral",
+        "valor": "42,7 g"
+      },
+      "der": {
+        "nombre": "Pan blanco",
+        "foto": "pan_molde",
+        "foco": [
+          52,
+          50
+        ],
+        "zoom": 1.4,
+        "valor": "49,4 g"
+      },
+      "texto": "Hidratos de carbono por cada 100 g. Los dos panes, de elaboración industrial."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más {calcio}: sardinas en lata o leche?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Sardinas en lata",
+        "foto": "sardinas_lata",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Leche entera",
+        "foto": "leche",
+        "foco": [
+          32,
+          28
+        ],
+        "zoom": 1.7,
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más calcio: las {sardinas}",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Sardinas en lata",
+        "foto": "sardinas_lata",
+        "valor": "382 mg"
+      },
+      "der": {
+        "nombre": "Leche entera",
+        "foto": "leche",
+        "foco": [
+          32,
+          28
+        ],
+        "zoom": 1.7,
+        "valor": "113 mg"
+      },
+      "texto": "Calcio por cada 100 g de sardinas en aceite, escurridas: lo que hay, no lo que se absorbe. Con espina."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Más vitamina {C}: zumo de naranja o naranja?",
+      "oculto": true,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Zumo de naranja crudo",
+        "foto": "zumo_naranja",
+        "valor": "?"
+      },
+      "der": {
+        "nombre": "Naranja cruda",
+        "foto": "naranja",
+        "valor": "?"
+      },
+      "texto": "Adivina antes de deslizar."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Más vitamina C: la {naranja}",
+      "ganador": "der",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Zumo de naranja crudo",
+        "foto": "zumo_naranja",
+        "valor": "50 mg"
+      },
+      "der": {
+        "nombre": "Naranja cruda",
+        "foto": "naranja",
+        "valor": "53 mg"
+      },
+      "texto": "Vitamina C por cada 100 g. Zumo de naranja sin añadidos."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "¿Cuántos {acertaste}?",
+      "fotos": [
+        {
+          "foto": "pollo",
+          "texto": "Pechuga de pollo asada"
+        },
+        {
+          "foto": "sardinas_lata",
+          "texto": "Sardinas en lata"
+        },
+        {
+          "foto": "naranja",
+          "texto": "Naranja cruda"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-16",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Adivina"
+  }
+}

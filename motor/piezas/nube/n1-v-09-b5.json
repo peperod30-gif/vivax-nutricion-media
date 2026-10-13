@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-09-b5",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-033",
+    "VIT-034",
+    "VIT-035",
+    "VIT-036"
+  ],
+  "direccion": "f",
+  "pie_instagram": "La vitamina B5 (ácido pantoténico) está en muchos alimentos. Por cada 100 g, el hígado de ternera cocinado lleva 7,11 mg (119 % del valor de referencia), los cacahuetes crudos 1,77 mg, los champiñones crudos 1,50 mg, el salmón cocinado 1,48 mg, el huevo cocido 1,40 mg y el aguacate crudo 1,39 mg. Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que el ácido pantoténico contribuye al metabolismo energético normal y al rendimiento intelectual normal, y ayuda a disminuir el cansancio y la fatiga. El valor de referencia de 6 mg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Fegato alla Veneziana», Görgött, Chris Nilson (CC BY 3.0); «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados.\n\n#vitaminab5 #nutricion #alimentos",
+  "alt": [
+    "Letra B5 enorme en oliva sobre una foto, con el titular: La B5 va del hígado al aguacate.",
+    "Lo que la UE autoriza decir de la vitamina B5: El ácido pantoténico contribuye al metabolismo energético normal. La UE autoriza decir también que contribuye al rendimiento intelectual normal y ayuda a disminuir el cansancio y la fatiga.",
+    "El número de la etiqueta: 6 mg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+    "Vitamina B5 en seis alimentos, mg por 100 g, en el estado indicado: hígado de ternera cocinado 7,11 mg; cacahuetes crudos 1,77 mg; champiñones crudos 1,50 mg; salmón cocinado 1,48 mg; huevo cocido 1,40 mg; aguacate crudo 1,39 mg.",
+    "En vitamina B5 por 100 g, el hígado lleva unas 4 veces lo de los cacahuetes: hígado de ternera cocinado con 7,11 mg frente a cacahuetes crudos con 1,77 mg.",
+    "Ojo: Según el NHS británico, quien está embarazada debe evitar el hígado. El ácido pantoténico está en casi todas las verduras, los alimentos de grano entero y las carnes, y en el Reino Unido no se ha fijado una cantidad que haga falta.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "aguacate",
+      "letra": "B5",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "La {B5} va del hígado al aguacate"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "El ácido pantoténico contribuye al",
+        "{metabolismo energético}",
+        "normal."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al rendimiento intelectual normal y ayuda a disminuir el cansancio y la fatiga.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "6",
+      "unidad": "mg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina B5 en {seis} alimentos",
+      "unidad": "mg por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Hígado de ternera cocinado",
+          "valor": "7,11 mg",
+          "foto": "higado_ternera"
+        },
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "1,77 mg",
+          "foto": "cacahuetes"
+        },
+        {
+          "nombre": "Champiñones crudos",
+          "valor": "1,50 mg",
+          "foto": "champinones"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "valor": "1,48 mg",
+          "foto": "salmon_solo"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "1,40 mg",
+          "foto": "huevo_duro"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "valor": "1,39 mg",
+          "foto": "aguacate"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "En vitamina B5 por 100 g, el hígado lleva unas {4 veces} lo de los cacahuetes",
+      "ganador": "izq",
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Hígado de ternera cocinado",
+        "valor": "7,11 mg",
+        "foto": "higado_ternera"
+      },
+      "der": {
+        "nombre": "Cacahuetes crudos",
+        "valor": "1,77 mg",
+        "foto": "cacahuetes"
+      },
+      "texto": "Hígado de ternera cocinado frente a cacahuetes crudos. Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "aguacate",
+      "etiqueta": "Ojo",
+      "titulo": "Hígado: ojo en el {embarazo}",
+      "texto": "Según el NHS británico, quien está embarazada debe evitar el hígado. El ácido pantoténico está en casi todas las verduras, los alimentos de grano entero y las carnes, y en el Reino Unido no se ha fijado una cantidad que haga falta.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B5 por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "cacahuetes",
+          "texto": "Cacahuetes crudos · 1,77 mg"
+        },
+        {
+          "foto": "champinones",
+          "texto": "Champiñones crudos · 1,50 mg"
+        },
+        {
+          "foto": "aguacate",
+          "texto": "Aguacate crudo · 1,39 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitaminas del grupo B"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-11.parcial.json",
+    "fecha": "2026-11-01",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}

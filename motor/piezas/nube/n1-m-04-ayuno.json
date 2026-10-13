@@ -1,0 +1,86 @@
+{
+  "id": "n1-m-04-ayuno",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "respuesta",
+  "pilar": "mitos",
+  "serie": "Mitos",
+  "angular": true,
+  "hechos": [
+    "MIT-009"
+  ],
+  "direccion": "f",
+  "pie_instagram": "¿Adelgaza más comer en una ventana horaria que contar calorías? En un ensayo con 139 personas con obesidad durante 12 meses, comer solo en una ventana de 8 horas con calorías limitadas perdió 8,0 kg frente a 6,3 kg con calorías limitadas solas; la diferencia de 1,8 kg es la que estima el ensayo, no la resta de las dos medias, y no fue estadísticamente significativa. En otro ensayo de 12 semanas con 116 personas, la ventana 16:8 sin límite de calorías no superó a comer de forma regular. Esta pieza trata solo de la ventana horaria, no de otros patrones de ayuno, como los días alternos o los de restricción de calorías unos días a la semana. Si tienes diabetes tratada con medicación, estás embarazada, das el pecho o has tenido un trastorno de la conducta alimentaria, consulta antes con tu médico.\n\nFuente: Liu y colaboradores, NEJM 2022; Lowe y colaboradores, JAMA Intern Med 2020.\nFotos: Wikimedia Commons, recortadas: «Empty plate with fork», SWT666 (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 4.0: creativecommons.org/licenses/by/4.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#mitos #nutricion #ayunointermitente",
+  "alt": [
+    "Plato vacío con un tenedor sobre un mantel de cerezas, con el titular: ¿adelgaza más comer en una ventana horaria que contar calorías?",
+    "Respuesta: no. Sin pruebas a favor. A los 12 meses, sumar la ventana a contar calorías no se distinguió del azar. No descarta cierta ventaja para la ventana.",
+    "Diferencia de 1,8 kg estimada por el ensayo, no la resta de las dos cifras: perdieron 8,0 kg con la ventana de 8 horas y calorías limitadas frente a 6,3 kg solo con calorías. No se distinguió del azar.",
+    "Reloj despertador sobre una mesa de madera, con el aviso: la ventana 16:8 sin límite de calorías no superó a comer de forma regular en 12 semanas.",
+    "Hoja final con las fuentes, el aviso de contenido divulgativo y la consulta al médico en diabetes tratada con medicación, embarazo, lactancia o antecedentes de trastornos de la conducta alimentaria."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "foto": "plato_vacio",
+      "etiqueta": "Mito",
+      "sigue": "Desliza",
+      "titular": "¿Adelgaza más comer en una {ventana horaria} que contar calorías?"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Respuesta",
+      "titular": [
+        "{No.}"
+      ],
+      "sigue": "Desliza",
+      "foto": "reloj",
+      "texto": "Sin pruebas a favor. A los 12 meses, sumar la ventana a contar calorías no se distinguió del azar. No descarta cierta ventaja para la ventana."
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Resultado",
+      "titulo": "Ventana y calorías frente a solo {calorías}",
+      "cifra": "1,8",
+      "unidad": "kg",
+      "sigue": "Desliza",
+      "texto": "estima el ensayo, no es la resta: perdieron 8,0 kg frente a 6,3 kg."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "reloj",
+      "etiqueta": "Ojo",
+      "titulo": "Sin límite de {calorías}",
+      "sigue": "Desliza",
+      "texto": "En 12 semanas, la ventana 16:8 sin límite de calorías tampoco superó a comer de forma regular. Aquí se habla solo de la ventana horaria."
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Ventana, con o sin contar calorías: {sin ventaja} demostrada",
+      "fotos": [
+        {
+          "foto": "reloj",
+          "texto": "Reloj"
+        },
+        {
+          "foto": "plato_vacio",
+          "texto": "Plato"
+        }
+      ],
+      "fuentes": [
+        "Liu y colaboradores, NEJM 2022",
+        "Lowe y colaboradores, JAMA Intern Med 2020"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Si tienes diabetes tratada con medicación, estás embarazada, das el pecho o has tenido un trastorno de la conducta alimentaria, consulta antes con tu médico."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-30",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Mitos"
+  }
+}

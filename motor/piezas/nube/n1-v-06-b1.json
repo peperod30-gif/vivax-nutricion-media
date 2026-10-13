@@ -1,0 +1,153 @@
+{
+  "id": "n1-v-06-b1",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "ranking",
+  "pilar": "datos",
+  "serie": "Vitaminas",
+  "angular": true,
+  "hechos": [
+    "VIT-021",
+    "VIT-022",
+    "VIT-023",
+    "VIT-024"
+  ],
+  "direccion": "f",
+  "pie_instagram": "Por cada 100 g, las pipas de girasol peladas, secas, llevan 1,48 mg de vitamina B1 (tiamina), el 135 % del valor de referencia, y el lomo de cerdo asado, solo magro, 1,02 mg. El resto de la selección: pistachos crudos (0,87 mg), cacahuetes crudos (0,64 mg), jamón cocido (0,63 mg) y copos de avena secos, sin enriquecer (0,46 mg). Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la tiamina contribuye al metabolismo energético normal, al funcionamiento normal del sistema nervioso y al funcionamiento normal del corazón. El valor de referencia de 1,1 mg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, el cuerpo no almacena tiamina.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Pečené vepřové, bramborová kaše», Dezidor (CC BY 3.0); «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0); «13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-171», Bi-frie (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminab1 #tiamina #nutricion",
+  "alt": [
+    "Letra B1 enorme en oliva sobre una foto, con el titular: Por 100 g, las pipas de girasol llevan más vitamina B1 que el lomo de cerdo asado.",
+    "Lo que la UE autoriza decir de la vitamina B1: La tiamina contribuye al metabolismo energético normal. La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y del corazón.",
+    "El número de la etiqueta: 1,1 mg. Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+    "Vitamina B1 en seis alimentos, mg por 100 g, en el estado indicado: pipas de girasol peladas, secas 1,48 mg; lomo de cerdo asado, solo magro 1,02 mg; pistachos crudos 0,87 mg; cacahuetes crudos 0,64 mg; jamón cocido 0,63 mg; copos de avena secos, sin enriquecer 0,46 mg.",
+    "Vitamina B1 por 100 g: pipas de girasol contra lomo asado: pipas de girasol peladas, secas con 1,48 mg frente a lomo de cerdo asado, solo magro con 1,02 mg.",
+    "Ojo: Según el NHS británico, el cuerpo no puede almacenar tiamina, así que la necesita en la dieta cada día.",
+    "Hoja final con las fuentes y el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "f_letra",
+      "foto": "pipas_girasol",
+      "letra": "B1",
+      "etiqueta": "Vitaminas",
+      "sigue": "Desliza",
+      "titular": "Por 100 g, las pipas de girasol llevan más {vitamina B1} que el lomo de cerdo asado"
+    },
+    {
+      "plantilla": "f_frase",
+      "etiqueta": "Lo que la UE autoriza",
+      "titular": [
+        "La tiamina contribuye al",
+        "{metabolismo energético}",
+        "normal."
+      ],
+      "texto": "La UE autoriza decir también que contribuye al funcionamiento normal del sistema nervioso y del corazón.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_dato",
+      "etiqueta": "Etiqueta",
+      "titulo": "El número de la {etiqueta}",
+      "cifra": "1,1",
+      "unidad": "mg",
+      "texto": "Es el valor de referencia del etiquetado para adultos. No marca cuánto tomar.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Vitamina B1 en {seis} alimentos",
+      "unidad": "mg por 100 g, en el estado indicado",
+      "sigue": "Desliza",
+      "filas": [
+        {
+          "nombre": "Pipas de girasol peladas, secas",
+          "valor": "1,48 mg",
+          "foto": "pipas_girasol"
+        },
+        {
+          "nombre": "Lomo de cerdo asado, solo magro",
+          "valor": "1,02 mg",
+          "foto": "lomo_asado"
+        },
+        {
+          "nombre": "Pistachos crudos",
+          "valor": "0,87 mg",
+          "foto": "pistachos"
+        },
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "0,64 mg",
+          "foto": "cacahuetes"
+        },
+        {
+          "nombre": "Jamón cocido",
+          "valor": "0,63 mg",
+          "foto": "jamon_cocido"
+        },
+        {
+          "nombre": "Copos de avena secos, sin enriquecer",
+          "valor": "0,46 mg",
+          "foto": "avena_seca"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Vitamina B1 por 100 g: pipas de girasol contra {lomo} asado",
+      "ganador": null,
+      "sigue": "Desliza",
+      "izq": {
+        "nombre": "Pipas de girasol peladas, secas",
+        "valor": "1,48 mg",
+        "foto": "pipas_girasol"
+      },
+      "der": {
+        "nombre": "Lomo de cerdo asado, solo magro",
+        "valor": "1,02 mg",
+        "foto": "lomo_asado"
+      },
+      "texto": "Composición, no una pauta."
+    },
+    {
+      "plantilla": "f_foto_texto",
+      "foto": "avena_seca",
+      "etiqueta": "Ojo",
+      "titulo": "La B1 no se {almacena}",
+      "texto": "Según el NHS británico, el cuerpo no puede almacenar tiamina, así que la necesita en la dieta cada día.",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "f_cierre",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B1 por 100 g: {tres} de esta selección",
+      "fotos": [
+        {
+          "foto": "pipas_girasol",
+          "texto": "Pipas de girasol secas · 1,48 mg"
+        },
+        {
+          "foto": "lomo_asado",
+          "texto": "Lomo asado, magro · 1,02 mg"
+        },
+        {
+          "foto": "pistachos",
+          "texto": "Pistachos crudos · 0,87 mg"
+        }
+      ],
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)",
+        "Reglamentos (UE) 432/2012 (declaraciones) y 1169/2011 (VRN)",
+        "NHS (Reino Unido), vitaminas del grupo B"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "produccion": {
+    "plan": "2026-11.parcial.json",
+    "fecha": "2026-11-02",
+    "hueco": 2,
+    "hora": "14:00",
+    "serie": "Vitaminas"
+  }
+}
