@@ -12,6 +12,7 @@ on:
         default: true
   schedule:
     - cron: "2-57/5 * * * *"
+    - cron: "1,16,31,46 * * * *"      # segunda línea desplazada: si GitHub se salta una de las dos, la otra cubre el hueco
 
 permissions:
   contents: write
@@ -24,7 +25,7 @@ concurrency:
 jobs:
   pasada:
     runs-on: ubuntu-24.04
-    timeout-minutes: 12
+    timeout-minutes: 16          # sesión activa (hasta 9 min) + guardar el estado + la espera de la pasada encadenada
     env:
       PRUEBA: ${{ (github.event_name == 'workflow_dispatch' && inputs.prueba) && 'si' || 'no' }}
       PYTHONUTF8: "1"
@@ -67,8 +68,11 @@ jobs:
           IG_N1_TOKEN: ${{ secrets.IG_N1_TOKEN }}
           IG_N1_USER_ID: ${{ secrets.IG_N1_USER_ID }}
           GITHUB_TOKEN: ${{ github.token }}
+          VIVAX_ENCADENAR: ${{ vars.ENCADENAR == 'no' && '0' || '1' }}      # la variable del repositorio ENCADENAR=no lo apaga todo
         run: |
-          ARGS=""
+          ARGS="--activo"          # modo activo: si José pulsa algo, sigue contestando al momento (ver motor/nube/UX.md)
+          # La espera entre pasadas (antes un «sleep 235» al final) se hace escuchando Telegram: el primer toque de José se contesta en segundos.
+          if [ "$VIVAX_ENCADENAR" = "1" ]; then ARGS="$ARGS --vigilia 235"; fi
           if [ "$PRUEBA" = "si" ]; then ARGS="--simulado --sin-telegram"; fi
           cd motor
           python -X utf8 -m nube.ejecutar_nube --datos "$RUNNER_TEMP/router_datos" $ARGS
@@ -85,10 +89,14 @@ jobs:
 
       # Cadena de seguridad: el cron de GitHub no garantiza hora ni arranque, así que cada pasada real, al terminar, espera y lanza la siguiente.
       # El cron se queda como segunda red. Se puede cortar poniendo la variable del repositorio ENCADENAR en «no».
+      # La ejecución activa deja dos señales: «encadenada» (José estuvo usando Telegram y ya lanzó la siguiente al momento: aquí no se espera
+      # ni se lanza otra) y «vigilia» (ya esperó escuchando a José: se lanza la siguiente sin dormir). Si no hay ninguna (la ejecución falló
+      # antes), se hace lo de siempre: dormir 235 s y lanzar.
       - name: Encadenar la siguiente pasada
-        if: always() && env.PRUEBA != 'si' && vars.ENCADENAR != 'no'
+        if: always() && env.PRUEBA != 'si' && vars.ENCADENAR != 'no' && steps.ejecutar.outputs.encadenada != 'si'
         env:
           GH_TOKEN: ${{ github.token }}
+          VIGILIA: ${{ steps.ejecutar.outputs.vigilia }}
         run: |
-          sleep 235
+          if [ "$VIGILIA" != "si" ]; then sleep 235; fi
           gh workflow run router.yml --repo "$GITHUB_REPOSITORY" -f prueba=false

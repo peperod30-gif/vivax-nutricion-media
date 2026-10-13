@@ -122,7 +122,7 @@ def panel(hoy: date, ahora: datetime, siguiente: tuple[datetime, str] | None, pe
     elif not programadas and not pendientes:
         L.append("🧭 La cola está vacía.")
     if pasada_min is not None:
-        L.append(f"☁️ Nube: última pasada hace {pasada_min} min." if pasada_min <= 12
+        L.append("☁️ Nube: conectada." if pasada_min <= 1 else f"☁️ Nube: última pasada hace {pasada_min} min." if pasada_min <= 12
                  else f"⚠️ La nube no da señales desde hace {pasada_min} min.")
     botones = [[(f"⏳ Aprobar pendientes ({pendientes})", "pn:pe")], [("📅 Calendario", "pn:cal:0"), ("📤 Publicadas", "pn:pu")], [("⚙️ Más", "pn:mas")]]
     return "\n".join(L), botones
@@ -183,7 +183,7 @@ def resultado_lote(ok: list[dict], fallos: list[tuple[str, str]]) -> tuple[str, 
         L.append("No se ha programado ninguna pieza.")
     if fallos:
         L += ["", f"⚠️ No se {'pudo' if len(fallos) == 1 else 'pudieron'} programar {len(fallos)}:"]
-        L += [f"· {corto(t, 34)}: {corto(m, 90)}" for t, m in fallos[:8]]
+        L += [f"· {corto(t, 34)}: {motivo_aprobar(m)}" for t, m in fallos[:8]]
     return "\n".join(L), [[("📅 Calendario", "pn:cal:0")], [VOLVER]]
 
 
@@ -360,7 +360,8 @@ def numeros(datos: dict | None, publicadas_n: int, ultima: datetime | None) -> t
 
 def estado_tecnico(pasada_min: int | None, modo: str, instagram: str, token_expira: str | None, en_pausa: bool, parada: str | None) -> tuple[str, list]:
     L = ["🔧 Estado técnico", ""]
-    L.append("Nube: " + (f"última pasada hace {pasada_min} min." if pasada_min is not None else "sin datos de la última pasada."))
+    L.append("Nube: " + ("conectada." if pasada_min is not None and pasada_min <= 1 else f"última pasada hace {pasada_min} min." if pasada_min is not None
+                                else "sin datos de la última pasada."))
     L.append(f"Instagram: {instagram}.")
     L.append("Publicación automática: " + {"real": "activada", "simulacion": "en simulación (no publica de verdad)", "desactivado": "desactivada"}.get(modo, modo) + ".")
     if en_pausa:
@@ -389,9 +390,38 @@ def sin_acceso() -> str:
 
 
 # ------------------------------------------------------------------ avisos push
-def aviso_llegada(n: int, desde: datetime | None, hasta: datetime | None) -> str:
+def aviso_llegada(n: int, desde: datetime | None, hasta: datetime | None, total: int | None = None) -> tuple[str, list]:
+    """Un solo mensaje cuando entran piezas nuevas (sea 1 o 40): qué hay y tres botones. `total` = las que hay por aprobar en conjunto."""
+    total = max(total or n, n)
     rg = f", del {rango(desde, hasta)}" if desde and hasta else ""
-    return f"📥 {'Ha llegado' if n == 1 else 'Han llegado'} {plural(n, 'pieza nueva', 'piezas nuevas')} para revisar{rg}."
+    L = [f"📥 He recibido {plural(n, 'pieza nueva', 'piezas nuevas')}{rg}."]
+    if total != n:
+        L.append(f"En total hay {total} por aprobar.")
+    L.append("¿La apruebo con la hora que dice el plan?" if total == 1 else "¿Las apruebo con la hora que dice el plan?")
+    botones = [[("✅ Aprobar según el plan" if total == 1 else f"✅ Aprobar las {total} según el plan", "pn:ap")],
+               [("🔍 Revisar una a una", "pn:rv")], [("Después", "pn:p")]]
+    return "\n".join(L), botones
+
+
+def motivo_aprobar(motivo) -> str:
+    """Por qué no se pudo aprobar una pieza, en una frase sin jerga (los avisos del adaptador son largos y hablan de «candado»)."""
+    t = str(motivo or "")
+    for prefijo in ("No se puede aprobar ahora: ", "No se puede aprobar: "):
+        if t.startswith(prefijo):
+            t = t[len(prefijo):]
+    t = t.replace(" Se puede editar o rechazar.", "").strip()
+    bajo = t.lower()
+    if "no usar" in bajo:
+        return "Cita un dato que marcaste como «no usar»."
+    if "validar" in bajo or "revisar algunos hechos" in bajo:
+        return "Tiene datos sin validar. Mira /validar."
+    if "fichero" in bajo:
+        return "Falta el fichero de la pieza."
+    if "hora ya ha pasado" in bajo:
+        return "Su hora ya había pasado."
+    if "ya no está pendiente" in bajo or bajo.startswith("esa pieza ya está"):
+        return "Ya estaba decidida."
+    return corto(t, 90)
 
 
 def aviso_publicada(titulo: str, enlace: str | None, retraso_min: int | None = None) -> str:

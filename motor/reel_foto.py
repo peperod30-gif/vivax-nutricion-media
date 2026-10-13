@@ -233,10 +233,10 @@ const cam = document.getElementById('cam');
 function foto(clave, x, y, w, h, r) {
   const f = D.fotos[clave];
   const d = el('foto', null, `left:${x}px;top:${y}px;width:${w}px;height:${h}px;border-radius:${r}px`);
-  const im = new Image(); im.src = f.src; im.style.objectPosition = `${f.fx}% ${f.fy}%`; im.style.transformOrigin = `${f.fx}% ${f.fy}%`;
+  const im = new Image(); im.src = f.src; im.style.objectPosition = `${f.fx}% ${f.fy}%`; im.style.transformOrigin = `${f.fx}% ${f.fy}%`; im._z = h < 1000 ? (f.z || 1) : 1;
   d.appendChild(im); d.img = im; return d;
 }
-function zoom(f, s, dx = 0, dy = 0) { f.img.style.transform = `translate(${dx}px,${dy}px) scale(${s})`; }
+function zoom(f, s, dx = 0, dy = 0) { f.img.style.transform = `translate(${dx}px,${dy}px) scale(${s * (f.img._z || 1)})`; }   // _z: acercamiento permanente del catálogo (plato con guarnición)
 function fitW(e, maxW, mn, mx) { let lo = mn, hi = mx, best = mn; while (lo <= hi) { const m = (lo + hi) >> 1; e.style.fontSize = m + 'px'; if (e.offsetWidth <= maxW) { best = m; lo = m + 1; } else hi = m - 1; } e.style.fontSize = best + 'px'; return best; }
 function fitWH(e, maxW, maxH, mn, mx) { let lo = mn, hi = mx, best = mn; while (lo <= hi) { const m = (lo + hi) >> 1; e.style.fontSize = m + 'px'; if (e.offsetWidth <= maxW && e.offsetHeight <= maxH) { best = m; lo = m + 1; } else hi = m - 1; } e.style.fontSize = best + 'px'; return best; }
 function fitBox(e, W, H, mn, mx) { e.style.width = W + 'px'; let lo = mn, hi = mx, best = mn; while (lo <= hi) { const m = (lo + hi) >> 1; e.style.fontSize = m + 'px'; if (e.scrollHeight <= H + 1 && e.scrollWidth <= W + 1) { best = m; lo = m + 1; } else hi = m - 1; } e.style.fontSize = best + 'px'; return best; }
@@ -494,7 +494,7 @@ def datos_pagina(guion: dict, plan: dict) -> dict:
     for c in set(_fotos_de(guion)):
         f = cat[c]
         fx, fy = f.get("foco", [50, 50])
-        fotos[c] = {"src": (RAIZ / f["archivo"]).resolve().as_uri(), "fx": fx, "fy": fy}
+        fotos[c] = {"src": (RAIZ / f["archivo"]).resolve().as_uri(), "fx": fx, "fy": fy, "z": f.get("zoom") or 1}
     esc = []
     vmax = max([valor(e["valor"])["num"] for e in guion["escenas"] if e["tipo"] == "cuenta"] or [1.0])
     hook = guion["escenas"][0]
@@ -786,6 +786,8 @@ def reel_desde_pieza(pieza: dict, modo: str = "cuenta_atras", estilo: str = "hou
     esc.append({"tipo": "gancho", "pulsos": 4 + max(0, n_lineas - 4 + 1) // 2, "foto": portada["foto"], "etiqueta": portada.get("etiqueta", ""), "titular": portada["titular"],
                 "sub": "Cuenta atrás por 100 g" if modo == "cuenta_atras" else "Duelo por 100 g"})
     chip = (ranking or {}).get("unidad", "").replace("µg", "mcg")          # la cinta va en versales y «µ» en versales es una eme griega: se leería «mg»
+    if len(chip) > 32 and "por 100 g" in chip:                            # la cinta cabe en una línea: se queda con «unidad por 100 g» (sin «, en el estado indicado»)
+        chip = chip[:chip.index("por 100 g") + len("por 100 g")]
 
     def duelo(pulsos: int) -> dict:
         d = {"tipo": "vs", "pulsos": pulsos, "titulo": vs.get("titulo", ""), "izq": dict(vs["izq"]), "der": dict(vs["der"]), "texto": texto_vs}

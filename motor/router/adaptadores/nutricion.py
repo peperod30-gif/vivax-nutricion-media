@@ -621,6 +621,14 @@ class AdaptadorNutricion:
             return None
         return datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
 
+    def hora_ocupada(self, hora: datetime, margen_min: int = 5) -> bool:
+        """¿Hay ya una pieza aprobada o publicándose a menos de `margen_min` minutos de esa hora? (El panel no programa dos piezas a la vez.)"""
+        h = hora.astimezone(timezone.utc)
+        for r in self.db.execute("SELECT programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando')"):
+            if abs((datetime.fromisoformat(r["programada"]).astimezone(timezone.utc) - h).total_seconds()) < margen_min * 60:
+                return True
+        return False
+
     def filas_panel(self, estados: tuple[str, ...] | None = None) -> list[sqlite3.Row]:
         """Las piezas con lo que necesita el panel para dibujarlas (estado, horas, enlace, error, pie). Sin filtro, todas."""
         sql = "SELECT id, pieza_id, titulo, estado, programada, publicada, ig_permalink, error, intentos, formato, pie, ig_estado FROM piezas"

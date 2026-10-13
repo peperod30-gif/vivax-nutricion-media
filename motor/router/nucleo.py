@@ -46,6 +46,7 @@ ESTADO_ES = {"pendiente": "pendiente", "aprobada": "aprobada", "publicando": "pu
              "rechazada": "rechazada", "error": "con error"}
 PROGRAMAR_EJEMPLOS = "Prueba, por ejemplo:\n· " + "\n· ".join(EJEMPLOS_HORA)
 ORDENES_DE_CUENTA = {"/estado", "/cola", "/pausa", "/seguir"}      # van a la cuenta activa
+MAX_MENSAJE = 4000        # un mensaje de Telegram admite 4096 caracteres; con esto se parte en dos
 PRIVADO = "Este bot es privado. Si te han dado un enlace de invitación, ábrelo desde Telegram."
 SIN_ACCESO = "No tienes acceso a eso."
 
@@ -116,6 +117,9 @@ class Decisiones:
         return f"{self._cab(d)}\n\n{d['pregunta']}\n\n{pide}\n{cola}"
 
     def _texto_cerrada(self, d) -> str:
+        pregunta = d["pregunta"]
+        if len(pregunta) > 600:                                  # una pregunta larga (un calendario) no cabe otra vez en el mensaje que se edita
+            pregunta = pregunta.split("\n")[0][:300].rstrip() + " …"
         if d["estado"] == "respondida":
             if d["respuesta_via"] == "boton":
                 linea = f"Elegiste: {d['respuesta_texto']}."
@@ -127,7 +131,7 @@ class Decisiones:
             linea = "Caducó sin respuesta. No había ninguna opción por defecto."
         else:
             linea = "Anulada: ya no hace falta contestarla."
-        return f"{self._cab(d)}\n\n{d['pregunta']}\n\n{linea}"
+        return f"{self._cab(d)}\n\n{pregunta}\n\n{linea}"
 
     # ------------------------------------------------------------------ cada vuelta del bucle
     def vuelta(self) -> None:
@@ -150,7 +154,7 @@ class Decisiones:
             return
         for d in self.hub.sin_entregar():
             try:
-                mid = self.r.tg.enviar(admin, self._texto_pregunta(d), self._botones(d))
+                mid = self._enviar_pregunta(admin, d)
             except ErrorTelegram as exc:
                 if exc.codigo is None:                  # fallo de red: puede que Telegram ya lo haya guardado (se verá en /decisiones)
                     self.hub.marcar_dudosa(d["id"])
@@ -158,6 +162,19 @@ class Decisiones:
                 return
             self.hub.marcar_entregada(d["id"], mid)
             self.hub.auditar_decision(None, d["id"], "entregada", str(mid))
+
+    def _enviar_pregunta(self, admin: int, d) -> int:
+        """Manda la pregunta; si el texto no cabe en un mensaje de Telegram, en dos: los botones van en el último (el que se registra)."""
+        texto = self._texto_pregunta(d)
+        if len(texto) <= MAX_MENSAJE:
+            return self.r.tg.enviar(admin, texto, self._botones(d))
+        cab = self._cab(d)
+        corte = texto.rfind("\n", 0, MAX_MENSAJE - len(cab) - 20)
+        primera, resto = texto[:corte if corte > 0 else MAX_MENSAJE - len(cab) - 20], texto[(corte if corte > 0 else MAX_MENSAJE - len(cab) - 20):].lstrip("\n")
+        clave = f"decision:parte1:{d['id']}"
+        if self.hub.meta_leer(clave) is None:                     # si la segunda falla y se reintenta, la primera no se repite
+            self.hub.meta_escribir(clave, str(self.r.tg.enviar(admin, primera)))
+        return self.r.tg.enviar(admin, f"{cab}\n\n(sigue)\n{resto}", self._botones(d))
 
     def _editar_cierre(self, d) -> bool:
         """Pone cada copia del mensaje sin botones y con cómo acabó. False si Telegram no lo admite en alguna (p. ej. el mensaje ya no existe)."""
@@ -259,7 +276,7 @@ class Decisiones:
         otra = self.hub.decision_por_mensaje(mensaje_id)
         if otra is not None:
             return otra["id"] == d["id"]
-        if str(texto or "").startswith((f"Decisión n.º {d['id']}\n", f"Pregunta n.º {d['id']}\n")) and d["pregunta"] in str(texto):
+        if str(texto or "").startswith((f"Decisión n.º {d['id']}\n", f"Pregunta n.º {d['id']}\n")) and (d["pregunta"] in str(texto) or d["pregunta"].splitlines()[-1] in str(texto)):
             self.hub.registrar_copia(d["id"], mensaje_id)
             return True
         return False
@@ -909,7 +926,10 @@ class Router:
             self._mensaje(upd["message"], upd)
 
     def _decir(self, chat_id: int, texto: str, botones=None) -> int:
-        """Envía un mensaje y devuelve su número (hace falta para reconocer la respuesta a una petición de nota)."""
+        """Envía un mensaje y devuelve su número (hace falta para reconocer la respuesta a una petición de nota). Telegram rechaza los de más
+        de 4096 caracteres: uno más largo se corta con «…» en vez de perderse entero."""
+        if len(texto) > 4096:
+            texto = texto[:4090].rstrip() + "…"
         return self.tg.enviar(chat_id, texto, botones)
 
     @staticmethod

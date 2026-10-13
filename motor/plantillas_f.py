@@ -80,6 +80,7 @@ def _foto(clave: str, x: float, y: float, w: float, h: float, radio: float = 0, 
     if not ruta.is_file():
         raise ErrorFoto(f"Falta el fichero de la foto «{clave}»: {ruta}")
     fx, fy = foco or f.get("foco") or (50, 50)
+    zoom = zoom or f.get("zoom")                       # recorte permanente de la foto (plato con guarnición: se acerca al alimento)
     z = f";transform:scale({zoom});transform-origin:{fx}% {fy}%" if zoom and zoom > 1 else ""
     return (f'<div class="foto" style="left:{x:.0f}px;top:{y:.0f}px;width:{w:.0f}px;height:{h:.0f}px;border-radius:{radio:.0f}px;{extra}">'
             f'<img alt="" src="{ruta.as_uri()}" style="object-position:{fx}% {fy}%{z}"></div>')
@@ -99,8 +100,9 @@ def _pastilla(texto: str, x: int, y: int, tam: int = 46, blanca: bool = False, v
     return f'<div class="pastilla{" bl" if blanca else ""}" style="left:{x}px;top:{y}px;font-size:{tam}px;{estilo}">{t}</div>'
 
 
-def _puntos(ctx: dict) -> str:
-    return '<div class="puntosf">' + "".join(f'<i class="{"on" if k == ctx["n"] else ""}"></i>' for k in range(1, ctx["total"] + 1)) + "</div>"
+def _puntos(ctx: dict, derecha: int | None = None) -> str:
+    estilo = f' style="right:{derecha}px"' if derecha is not None else ""
+    return f'<div class="puntosf"{estilo}>' + "".join(f'<i class="{"on" if k == ctx["n"] else ""}"></i>' for k in range(1, ctx["total"] + 1)) + "</div>"
 
 
 def _marca(ctx: dict) -> str:
@@ -155,7 +157,7 @@ def f_letra(h: dict, ctx: dict) -> str:
         p.append(_pastilla(h["etiqueta"], 64, 60, 48))
     p.append(f'<div class="letra" data-fit="260,980" style="left:48px;top:100px;width:980px;height:640px"><span>{D.e(h["letra"])}</span></div>')
     p.append(_titulo(h["titular"], 64, 740, 952, 440, (70, 140), anclar="end"))
-    p.append(_marca(ctx) + _puntos(ctx) + _sigue(h))
+    p.append(_marca(ctx) + _puntos(ctx, 250 if ctx.get("angular") else None) + _sigue(h))
     return _hoja("".join(p), ctx)
 
 
@@ -190,7 +192,7 @@ def f_ranking(h: dict, ctx: dict) -> str:
         p.append(f'<div class="ft" style="left:64px;top:{cy - 26:.0f}px;width:54px;height:52px;font-size:54px;color:var(--o);align-items:center;justify-content:center"><span>{k}</span></div>')
         p.append(_foto(f["foto"], 128, cy - d / 2, d, d, d / 2, f.get("foco")))
         p.append(f'<div class="cuerpo" data-fit="24,38" style="left:232px;top:{cy - rh * .46:.0f}px;width:420px;height:{rh * .5:.0f}px;display:flex;align-items:center"><span>{D.tx(f["nombre"])}</span></div>')
-        largo = max(24.0, 330.0 * v / vmax)
+        largo = max(5.0, 330.0 * v / vmax)
         p.append(f'<div class="velo" style="left:232px;top:{cy + rh * .13:.0f}px;width:{largo:.0f}px;height:16px;border-radius:8px;background:var(--o)"></div>')
         p.append(f'<div class="num" data-fitw="40,76" style="left:700px;top:{cy - rh * .42:.0f}px;width:316px;height:{rh * .84:.0f}px;justify-content:flex-end;color:#fff">'
                  f'<span style="display:flex;align-items:flex-end;white-space:nowrap">{_valor(f["valor"])}</span></div>')
@@ -285,7 +287,7 @@ def f_cierre(h: dict, ctx: dict) -> str:
             px = 64 + k * (d + hueco)
             p.append(_foto(x["foto"], px, 590, d, d, d / 2, x.get("foco")))
             if x.get("texto"):
-                p.append(f'<div class="cuerpo" data-fit="24,34" style="left:{px - 40}px;top:{590 + d + 14}px;width:{d + 80}px;height:90px;display:flex;align-items:flex-start;justify-content:center;text-align:center"><span>{D.tx(x["texto"])}</span></div>')
+                p.append(f'<div class="cuerpo" data-fit="24,34" style="left:{px - 40}px;top:{590 + d + 14}px;width:{d + 80}px;height:90px;display:flex;align-items:flex-start;justify-content:center;text-align:center"><span>{D.tx(x["texto"]).replace(" · ", "<br>")}</span></div>')
     fu = "<br>".join(D.e(x) for x in h["fuentes"])
     p.append('<div class="velo" style="left:64px;top:985px;width:952px;height:6px;border-radius:3px;background:var(--o)"></div>')
     p.append(f'<div class="fuentes" data-fit="24,32" style="left:64px;top:1010px;width:952px;height:120px;overflow:hidden"><span style="display:block"><b>{"Fuente." if len(h["fuentes"]) == 1 else "Fuentes."}</b> {fu}</span></div>')

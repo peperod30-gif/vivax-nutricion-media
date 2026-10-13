@@ -260,7 +260,13 @@ class Panel:
             self._pantalla_pendientes(chat_id, msg_id, nota="La lista ha cambiado desde que la miraste. Revísala otra vez.")
             return self._toast(cb_id, "La lista ha cambiado: no he aprobado nada.", True)
         ok, fallos = [], []
-        for it in pend:
+        codigo, ad = self.cuenta()
+        ahora = self._ahora()
+        previstas = {it.id: ad.hora_prevista(it.id) for it in pend}
+        # primero las que llevan hora exacta del plan (por orden de hora) y después las que van al primer hueco libre: así un hueco no se
+        # lo come una pieza que no tenía hora justo antes de que otra la pida
+        con_hora = lambda it: previstas[it.id] if previstas[it.id] is not None and previstas[it.id] > ahora + MINIMO else None   # noqa: E731
+        for it in sorted(pend, key=lambda it: (con_hora(it) is None, con_hora(it) or ahora)):
             motivo, dt = self._aprobar(uid, it.id, origen="panel:lote")
             if motivo:
                 fallos.append((it.titulo, motivo))
@@ -279,6 +285,8 @@ class Panel:
         if hora is None and plan:
             prev = ad.hora_prevista(id)
             hora = prev if prev is not None and prev > ahora + MINIMO else None
+            if hora is not None and ad.hora_ocupada(hora):
+                hora = None                              # otra pieza ya sale a esa hora: esta, al primer hueco libre
         motivo = ad.aprobar(id, uid, para_admin=True, hora=hora, origen=origen)
         if motivo:
             return motivo, None
@@ -771,11 +779,11 @@ class Panel:
         administradores ha llegado."""
         codigo, ad = self.cuenta()
         prev = [p for p in (ad.hora_prevista(x.id) for x in nuevas) if p]
-        nota = T.aviso_llegada(len(nuevas), min(prev) if prev else None, max(prev) if prev else None)
+        texto, botones = T.aviso_llegada(len(nuevas), min(prev) if prev else None, max(prev) if prev else None, len(self._pendientes()))
         bien = 0
         for uid in self.r._administradores():
             try:
-                self._pantalla_panel(uid, None, nota=nota, nuevo=True)
+                self._decir(uid, texto, botones)
                 bien += 1
             except ErrorTelegram as exc:
                 self._log(f"aviso de llegada no enviado ({exc.metodo} {exc.codigo})")

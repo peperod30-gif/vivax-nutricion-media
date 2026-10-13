@@ -79,6 +79,7 @@ MAX_ID_DECISION = 999_999_999           # el número de un botón tiene 9 cifras
 MAX_OPCIONES = 8
 CADUCA_MINIMA_S, CADUCA_MAXIMA_S, CADUCA_POR_DEFECTO_S = 60, 7 * 86400, 24 * 3600
 MAX_PREGUNTA, MAX_OPCION, MAX_RESPUESTA, MAX_TEXTO_BANDEJA = 300, 40, 500, 1000
+MAX_PREGUNTA_LARGA = 3800          # preguntas con varias líneas (un calendario entero); si no caben en un mensaje de Telegram se parten en dos
 MAX_BANDEJA = 100                       # mensajes que se guardan: al pasar de aquí se borran los más antiguos
 LATIDO = "router_latido"                # cuándo dio su última vuelta el router (lo miran preguntar y respuesta)
 LATIDO_MAXIMO_S = 180                   # más de esto sin latido: el router parece parado (un sondeo largo dura unos 40 s)
@@ -128,8 +129,25 @@ def limpiar_texto(texto, maximo: int, sin_enlaces: bool = False, sin_etiquetas: 
     return t if len(t) <= maximo else t[:maximo - 1].rstrip() + "…"
 
 
-def limpiar_pregunta(texto) -> str:
-    t = limpiar_texto(texto, MAX_PREGUNTA, sin_enlaces=True, sin_etiquetas=True)
+def limpiar_pregunta(texto, larga: bool = False) -> str:
+    """Con `larga`, la pregunta conserva sus líneas (hasta MAX_PREGUNTA_LARGA caracteres); si no, una sola línea de hasta MAX_PREGUNTA."""
+    if larga:
+        lineas, hueco = [], False
+        for linea in str(texto).splitlines():
+            t = limpiar_texto(linea, MAX_PREGUNTA_LARGA, sin_enlaces=True, sin_etiquetas=True)
+            if not t:
+                hueco = bool(lineas)                      # como mucho una línea en blanco seguida, y nunca al principio
+                continue
+            if hueco:
+                lineas.append("")
+            hueco = False
+            lineas.append(t)
+        t = "\n".join(lineas)
+        if len(t) > MAX_PREGUNTA_LARGA:
+            corte = t.rfind("\n", 0, MAX_PREGUNTA_LARGA - 2)
+            t = t[:corte if corte > 0 else MAX_PREGUNTA_LARGA - 2].rstrip() + "\n…"
+    else:
+        t = limpiar_texto(texto, MAX_PREGUNTA, sin_enlaces=True, sin_etiquetas=True)
     if not t:
         raise ValueError("la pregunta está vacía")
     return t
@@ -718,11 +736,11 @@ class Hub:
         return int(r["user_id"]) if r else None
 
     def crear_decision(self, pregunta: str, opciones: list[tuple[str, str]], cuenta: str, caduca_s: int = CADUCA_POR_DEFECTO_S,
-                       defecto: str | None = None, texto_libre: bool = False, origen: str = "asistente") -> int:
+                       defecto: str | None = None, texto_libre: bool = False, origen: str = "asistente", larga: bool = False) -> int:
         """Crea una pregunta para José. Valida y limpia todo lo que irá a Telegram. Devuelve su número (el que va en los botones)."""
         if not re.fullmatch(CODIGO_CUENTA, str(cuenta or "")):
             raise ValueError(f"la cuenta {cuenta!r} no es un código válido")
-        pregunta = limpiar_pregunta(pregunta)
+        pregunta = limpiar_pregunta(pregunta, larga)
         limpias: list[dict] = []
         claves: set[str] = set()
         for clave, texto in opciones:

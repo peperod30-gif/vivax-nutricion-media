@@ -24,7 +24,7 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from router.hub import fecha_hora_es
-from router.textos_panel import corto
+from router.textos_panel import corto, plural, rango
 
 MADRID = ZoneInfo("Europe/Madrid")
 CLAVE_ORDENES = "nube_ordenes"          # meta del hub: {nombre_de_orden: {"hecha": iso, "decision": n}}
@@ -111,7 +111,7 @@ def procesar_ordenes(hub, carpeta: Path, log=print) -> int:
         else:
             try:
                 numero = hub.crear_decision(o["pregunta"], [(c, t) for c, t in o["opciones"]], cuenta, _duracion(o.get("caduca", "24h")),
-                                            defecto=o.get("defecto"), texto_libre=bool(o.get("texto_libre")), origen="nube")
+                                            defecto=o.get("defecto"), texto_libre=bool(o.get("texto_libre")), origen="nube", larga=True)
             except ValueError as exc:
                 log(f"orden {nombre}: la decisión no se pudo crear ({exc}); se marca como hecha para no repetirla")
                 hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), "error": str(exc)[:200]}
@@ -141,6 +141,9 @@ def _hacer(ad, accion: dict, admin: int, origen: str) -> str:
     ahora = ad.ahora()
     hora = _hora(accion.get("hora"))
     if accion["accion"] == "aprobar":
+        if r["estado"] in ("aprobada", "publicando", "publicada"):          # José ya la aprobó por otro camino (el panel): no es un fallo
+            quedan = "publicada" if r["estado"] == "publicada" else "aprobada"
+            return f"✅ {nombre}: ya estaba {quedan}.{ad.resumen_decision(r['id']) if quedan == 'aprobada' else ''}"
         if hora is not None and hora.astimezone(timezone.utc) <= ahora.astimezone(timezone.utc) + MINIMO_PROGRAMAR:
             hora = None                                            # la hora ya pasó (o falta nada): primer hueco libre
         motivo = ad.aprobar(r["id"], admin, para_admin=True, hora=hora, origen=origen)
@@ -148,10 +151,35 @@ def _hacer(ad, accion: dict, admin: int, origen: str) -> str:
             return f"⚠️ {nombre}: no se aprobó. {motivo}"
         return f"✅ {nombre}: aprobada.{ad.resumen_decision(r['id'])}"
     if accion["accion"] == "rechazar":
+        if r["estado"] == "rechazada":
+            return f"❌ {nombre}: ya estaba rechazada."
         motivo = ad.rechazar(r["id"], admin)
         return f"⚠️ {nombre}: no se rechazó. {motivo}" if motivo else f"❌ {nombre}: rechazada."
     motivo = ad.cambiar_hora(r["id"], hora, admin, origen=origen)
     return f"⚠️ {nombre}: la hora no cambió. {motivo}" if motivo else f"🕐 {nombre}: nueva hora.{ad.resumen_decision(r['id'])}"
+
+
+def _resumen(numero, ad, lista: list, lineas: list) -> str:
+    """Lo que se cuenta a José de una pregunta contestada. Con pocas acciones, una línea por pieza; con un lote (20 o 40 piezas) no cabría en
+    un mensaje de Telegram, así que se cuenta en una frase y solo se detallan los fallos."""
+    if len(lineas) <= 5:
+        return f"Hecho (pregunta n.º {numero}):\n" + "\n".join(lineas)
+    malas = [l for l in lineas if l.startswith("⚠️")]
+    horas = []
+    for a, l in zip(lista, lineas):
+        if not l.startswith("⚠️") and a["accion"] in ("aprobar", "cambiar_hora"):
+            r = _fila(ad, a["pieza_id"])
+            if r is not None and r["programada"]:
+                horas.append(datetime.fromisoformat(r["programada"]).astimezone(ad.zona))
+    L = [f"Hecho (pregunta n.º {numero}): {len(lineas) - len(malas)} de {len(lineas)} acciones."]
+    if horas:
+        L.append(f"✅ {plural(len(horas), 'pieza programada', 'piezas programadas')}, del {rango(min(horas), max(horas))}. "
+                 "Se publican solas aunque tu PC esté apagado.")
+    if malas:
+        L += ["", f"⚠️ No se {'pudo' if len(malas) == 1 else 'pudieron'} hacer {len(malas)}:"] + [f"· {corto(l[2:].strip(), 130)}" for l in malas[:8]]
+        if len(malas) > 8:
+            L.append(f"… y {len(malas) - 8} más.")
+    return "\n".join(L)
 
 
 def ejecutar_acciones(hub, ad, router, log=print) -> int:
@@ -174,7 +202,7 @@ def ejecutar_acciones(hub, ad, router, log=print) -> int:
         if not lista:
             continue
         lineas = [_hacer(ad, a, admin, f"nube:decision-{numero}") for a in lista]
-        router._avisar_admins(f"Hecho (pregunta n.º {numero}):\n" + "\n".join(lineas))
+        router._avisar_admins(_resumen(numero, ad, lista, lineas))
         log(f"decisión {numero}: {len(lista)} acciones ejecutadas")
     _guardar(hub, CLAVE_ACCIONES, acciones)
     return tocadas

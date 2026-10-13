@@ -21,9 +21,9 @@
   {
     "id": "VIT-002",
     "tema": "composición - vitamina A (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina A: hígado de ternera cocinado 9442 µg; zanahoria cruda 835 µg; boniato cocido 787 µg; mantequilla 684 µg; espinacas crudas 469 µg; parmesano 207 µg.",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina A: hígado de ternera cocinado 9442 µg; zanahoria cruda 835 µg; boniato cocido 787 µg; mantequilla con sal 684 µg; espinacas crudas 469 µg; parmesano 207 µg.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN porque la tabla mide actividad de retinol (RAE) y el VRN usa otra base de cálculo.",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN: la tabla da actividad de retinol (RAE) y el reglamento da 800 µg sin precisar la base.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626, 170393, 168484, 173410, 168462, 170848)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
@@ -57,7 +57,7 @@
           "fdc": 168484
         },
         {
-          "nombre": "Mantequilla",
+          "nombre": "Mantequilla con sal",
           "valor": "684 µg",
           "fdc": 173410
         },
@@ -79,7 +79,7 @@
     "tema": "composición - vitamina A (comparación)",
     "enunciado": "Por cada 100 g: hígado de ternera cocinado, 9442 µg de vitamina A; zanahoria cruda, 835 µg. El primero lleva unas 11 veces la cantidad del segundo.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (9442 entre 835), redondeado al entero. No se calcula el porcentaje del VRN porque la tabla mide actividad de retinol (RAE) y el VRN usa otra base de cálculo.",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (9442 entre 835), redondeado al entero. No se calcula el porcentaje del VRN: la tabla da actividad de retinol (RAE) y el reglamento da 800 µg sin precisar la base.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626 y 170393)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
@@ -102,9 +102,9 @@
   {
     "id": "VIT-004",
     "tema": "vitamina A (límite o aviso)",
-    "enunciado": "Según el NHS del Reino Unido, el hígado y sus derivados son una fuente muy rica de vitamina A: no conviene comerlos más de una vez por semana y, en el embarazo, lo que aconseja es evitarlos.",
+    "enunciado": "Según el NHS del Reino Unido, el hígado y sus derivados (como el paté) son una fuente muy rica de vitamina A: no conviene comerlos más de una vez por semana y, en el embarazo, lo que aconseja es evitarlos. Las mujeres tras la menopausia y los hombres mayores, que tienen más riesgo de osteoporosis, no deben pasar de 1,5 mg al día de vitamina A entre alimentos y suplementos.",
     "veredicto": "respaldado",
-    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «if you're pregnant you should avoid eating liver or liver products / Do not eat liver or liver products, such as pâté, more than once a week».",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «if you're pregnant you should avoid eating liver or liver products / Do not eat liver or liver products, such as pâté, more than once a week / Women who have been through the menopause and older men, who are more at risk of osteoporosis, should avoid having more than 1.5mg of vitamin A a day from food and supplements».",
     "fuente": "NHS (Reino Unido), Vitamins and minerals",
     "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/",
     "anio": 2020,
@@ -118,7 +118,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Página del NHS descargada y leída (nhs_vitamin-a.txt)",
-      "detalle": "if you're pregnant you should avoid eating liver or liver products / Do not eat liver or liver products, such as pâté, more than once a week"
+      "detalle": "if you're pregnant you should avoid eating liver or liver products / Do not eat liver or liver products, such as pâté, more than once a week / Women who have been through the menopause and older men, who are more at risk of osteoporosis, should avoid having more than 1.5mg of vitamin A a day from food and supplements"
     }
   },
   {
@@ -143,10 +143,10 @@
   {
     "id": "VIT-006",
     "tema": "composición - vitamina D (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina D: trucha cocinada 19,0 µg (380 % del VRN); salmón cocinado 13,1 µg (262 % del VRN); sardinas en lata 4,8 µg (96 % del VRN); huevo cocido 2,2 µg (44 % del VRN); lomo de cerdo asado 0,7 µg (14 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina D: trucha cocinada 19,0 µg (380 % del VRN); salmón cocinado 13,1 µg (262 % del VRN); sardinas en lata 4,8 µg (96 % del VRN); huevo cocido 2,2 µg (44 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 5 µg (vitamina D2 + D3) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173718, 175168, 175139, 173424, 168233)",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173718, 175168, 175139, 173424)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -156,7 +156,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Fish, trout, rainbow, farmed, cooked, dry heat (fdcId 173718) 19,0 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 13,1 µg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) 4,8 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) 2,2 µg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 0,7 µg"
+      "detalle": "Fish, trout, rainbow, farmed, cooked, dry heat (fdcId 173718) 19,0 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 13,1 µg; Fish, sardine, Atlantic, canned in oil, drained solids with bone (fdcId 175139) 4,8 µg; Egg, whole, cooked, hard-boiled (fdcId 173424) 2,2 µg"
     },
     "molde_datos": {
       "tipo": "ranking",
@@ -186,12 +186,6 @@
           "valor": "2,2 µg",
           "fdc": 173424,
           "pct": 44
-        },
-        {
-          "nombre": "Lomo de cerdo asado",
-          "valor": "0,7 µg",
-          "fdc": 168233,
-          "pct": 14
         }
       ]
     }
@@ -264,7 +258,7 @@
   {
     "id": "VIT-010",
     "tema": "composición - vitamina E (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina E: pipas de girasol 35,2 mg (293 % del VRN); almendras 25,6 mg (214 % del VRN); avellanas 15,0 mg (125 % del VRN); aceite de oliva 14,4 mg (120 % del VRN); cacahuetes 8,3 mg (69 % del VRN); aguacate 2,1 mg (17 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina E: pipas de girasol peladas 35,2 mg (293 % del VRN); almendras crudas 25,6 mg (214 % del VRN); avellanas crudas 15,0 mg (125 % del VRN); aceite de oliva 14,4 mg (120 % del VRN); cacahuetes crudos 8,3 mg (69 % del VRN); aguacate crudo 2,1 mg (17 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 12 mg (alfa-tocoferol) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 170567, 170581, 171413, 172430, 171705)",
@@ -285,19 +279,19 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Pipas de girasol",
+          "nombre": "Pipas de girasol peladas",
           "valor": "35,2 mg",
           "fdc": 170562,
           "pct": 293
         },
         {
-          "nombre": "Almendras",
+          "nombre": "Almendras crudas",
           "valor": "25,6 mg",
           "fdc": 170567,
           "pct": 214
         },
         {
-          "nombre": "Avellanas",
+          "nombre": "Avellanas crudas",
           "valor": "15,0 mg",
           "fdc": 170581,
           "pct": 125
@@ -309,13 +303,13 @@
           "pct": 120
         },
         {
-          "nombre": "Cacahuetes",
+          "nombre": "Cacahuetes crudos",
           "valor": "8,3 mg",
           "fdc": 172430,
           "pct": 69
         },
         {
-          "nombre": "Aguacate",
+          "nombre": "Aguacate crudo",
           "valor": "2,1 mg",
           "fdc": 171705,
           "pct": 17
@@ -326,7 +320,7 @@
   {
     "id": "VIT-011",
     "tema": "composición - vitamina E (comparación)",
-    "enunciado": "Por cada 100 g: pipas de girasol, 35,2 mg de vitamina E (293 % del VRN); aceite de oliva, 14,4 mg (120 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
+    "enunciado": "Por cada 100 g: pipas de girasol peladas, 35,2 mg de vitamina E (293 % del VRN); aceite de oliva, 14,4 mg (120 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (35,2 entre 14,4), redondeado al entero. El porcentaje compara con el VRN de 12 mg (alfa-tocoferol) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562 y 171413)",
@@ -518,10 +512,10 @@
   {
     "id": "VIT-018",
     "tema": "composición - vitamina C (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina C: col rizada cruda 93 mg (117 % del VRN); brócoli crudo 89 mg (112 % del VRN); coles de Bruselas crudas 85 mg (106 % del VRN); pimiento verde crudo 80 mg (101 % del VRN); coliflor cruda 48 mg (60 % del VRN); patata cocida 13 mg (16 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina C: perejil fresco 133 mg (166 % del VRN); pimiento rojo crudo 128 mg (160 % del VRN); col rizada cruda 93 mg (117 % del VRN); brócoli crudo 89 mg (112 % del VRN); coles de Bruselas crudas 85 mg (106 % del VRN); pimiento verde crudo 80 mg (101 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 80 mg (ácido ascórbico) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168421, 170379, 170383, 170427, 169986, 170438)",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170416, 170108, 168421, 170379, 170383, 170427)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -531,13 +525,25 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Kale, raw (fdcId 168421) 93 mg; Broccoli, raw (fdcId 170379) 89 mg; Brussels sprouts, raw (fdcId 170383) 85 mg; Peppers, sweet, green, raw (fdcId 170427) 80 mg; Cauliflower, raw (fdcId 169986) 48 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) 13 mg"
+      "detalle": "Parsley, fresh (fdcId 170416) 133 mg; Peppers, sweet, red, raw (fdcId 170108) 128 mg; Kale, raw (fdcId 168421) 93 mg; Broccoli, raw (fdcId 170379) 89 mg; Brussels sprouts, raw (fdcId 170383) 85 mg; Peppers, sweet, green, raw (fdcId 170427) 80 mg"
     },
     "molde_datos": {
       "tipo": "ranking",
       "titulo": "Vitamina C por cada 100 g",
       "unidad": "por 100 g",
       "filas": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "133 mg",
+          "fdc": 170416,
+          "pct": 166
+        },
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "128 mg",
+          "fdc": 170108,
+          "pct": 160
+        },
         {
           "nombre": "Col rizada cruda",
           "valor": "93 mg",
@@ -561,18 +567,6 @@
           "valor": "80 mg",
           "fdc": 170427,
           "pct": 101
-        },
-        {
-          "nombre": "Coliflor cruda",
-          "valor": "48 mg",
-          "fdc": 169986,
-          "pct": 60
-        },
-        {
-          "nombre": "Patata cocida",
-          "valor": "13 mg",
-          "fdc": 170438,
-          "pct": 16
         }
       ]
     }
@@ -580,10 +574,10 @@
   {
     "id": "VIT-019",
     "tema": "composición - vitamina C (comparación)",
-    "enunciado": "Por cada 100 g: brócoli crudo, 89 mg de vitamina C (112 % del VRN); patata cocida, 13 mg (16 % del VRN). El primero lleva unas 7 veces la cantidad del segundo.",
+    "enunciado": "Por cada 100 g: perejil fresco, 133 mg de vitamina C (166 % del VRN); pimiento verde crudo, 80 mg (101 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (89 entre 13), redondeado al entero. El porcentaje compara con el VRN de 80 mg (ácido ascórbico) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170379 y 170438)",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (133 entre 80), redondeado al entero. El porcentaje compara con el VRN de 80 mg (ácido ascórbico) y se redondea al entero.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170416 y 170427)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -593,32 +587,34 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Broccoli, raw (fdcId 170379) 89 mg; Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) 13 mg."
+      "detalle": "Parsley, fresh (fdcId 170416) 133 mg; Peppers, sweet, green, raw (fdcId 170427) 80 mg."
     },
     "molde_datos": {
       "tipo": "vs",
-      "i": 1,
+      "i": 0,
       "j": 5,
-      "ratio": 7
+      "ratio": 2
     }
   },
   {
     "id": "VIT-020",
     "tema": "vitamina C (límite o aviso)",
-    "enunciado": "Según el NHS del Reino Unido, el cuerpo no puede almacenar vitamina C, así que la necesita en la dieta cada día.",
+    "enunciado": "Según el NHS del Reino Unido, el cuerpo no puede almacenar vitamina C, así que la necesita en la dieta cada día; tomar más de 1000 mg al día de suplementos puede causar dolor de estómago, diarrea y flatulencia, y con suplementos no conviene tomar de más.",
     "veredicto": "respaldado",
-    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Vitamin C cannot be stored in the body, so you need it in your diet every day».",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Vitamin C cannot be stored in the body, so you need it in your diet every day / Taking large amounts (more than 1,000mg per day) of vitamin C can cause / If you take vitamin C supplements, do not take too much as this could be harmful».",
     "fuente": "NHS (Reino Unido), Vitamins and minerals",
     "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-c/",
     "anio": 2020,
     "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
-    "riesgo_publicar": "bajo",
-    "poblaciones_en_riesgo": [],
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman suplementos de vitamina C"
+    ],
     "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Página del NHS descargada y leída (nhs_vitamin-c.txt)",
-      "detalle": "Vitamin C cannot be stored in the body, so you need it in your diet every day"
+      "detalle": "Vitamin C cannot be stored in the body, so you need it in your diet every day / Taking large amounts (more than 1,000mg per day) of vitamin C can cause / If you take vitamin C supplements, do not take too much as this could be harmful"
     }
   },
   {
@@ -643,10 +639,10 @@
   {
     "id": "VIT-022",
     "tema": "composición - vitamina B1 (tiamina) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B1 (tiamina): pipas de girasol 1,48 mg (135 % del VRN); lomo de cerdo asado 1,02 mg (92 % del VRN); pistachos 0,87 mg (79 % del VRN); cacahuetes 0,64 mg (58 % del VRN); copos de avena 0,46 mg (42 % del VRN); lentejas cocidas 0,17 mg (15 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B1 (tiamina): pipas de girasol peladas 1,48 mg (135 % del VRN); lomo de cerdo asado, solo magro 1,02 mg (92 % del VRN); pistachos crudos 0,87 mg (79 % del VRN); cacahuetes crudos 0,64 mg (58 % del VRN); jamón cocido 0,63 mg (57 % del VRN); copos de avena secos 0,46 mg (42 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,1 mg (tiamina) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 168233, 170184, 172430, 173904, 172421)",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562, 168233, 170184, 172430, 173864, 173904)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -656,7 +652,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Seeds, sunflower seed kernels, dried (fdcId 170562) 1,48 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 1,02 mg; Nuts, pistachio nuts, raw (fdcId 170184) 0,87 mg; Peanuts, all types, raw (fdcId 172430) 0,64 mg; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) 0,46 mg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) 0,17 mg"
+      "detalle": "Seeds, sunflower seed kernels, dried (fdcId 170562) 1,48 mg; Pork, fresh, loin, whole, separable lean only, cooked, roasted (fdcId 168233) 1,02 mg; Nuts, pistachio nuts, raw (fdcId 170184) 0,87 mg; Peanuts, all types, raw (fdcId 172430) 0,64 mg; Ham, sliced, regular (approximately 11% fat) (fdcId 173864) 0,63 mg; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) 0,46 mg"
     },
     "molde_datos": {
       "tipo": "ranking",
@@ -664,40 +660,40 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Pipas de girasol",
+          "nombre": "Pipas de girasol peladas",
           "valor": "1,48 mg",
           "fdc": 170562,
           "pct": 135
         },
         {
-          "nombre": "Lomo de cerdo asado",
+          "nombre": "Lomo de cerdo asado, solo magro",
           "valor": "1,02 mg",
           "fdc": 168233,
           "pct": 92
         },
         {
-          "nombre": "Pistachos",
+          "nombre": "Pistachos crudos",
           "valor": "0,87 mg",
           "fdc": 170184,
           "pct": 79
         },
         {
-          "nombre": "Cacahuetes",
+          "nombre": "Cacahuetes crudos",
           "valor": "0,64 mg",
           "fdc": 172430,
           "pct": 58
         },
         {
-          "nombre": "Copos de avena",
+          "nombre": "Jamón cocido",
+          "valor": "0,63 mg",
+          "fdc": 173864,
+          "pct": 57
+        },
+        {
+          "nombre": "Copos de avena secos",
           "valor": "0,46 mg",
           "fdc": 173904,
           "pct": 42
-        },
-        {
-          "nombre": "Lentejas cocidas",
-          "valor": "0,17 mg",
-          "fdc": 172421,
-          "pct": 15
         }
       ]
     }
@@ -705,7 +701,7 @@
   {
     "id": "VIT-023",
     "tema": "composición - vitamina B1 (tiamina) (comparación)",
-    "enunciado": "Por cada 100 g: pipas de girasol, 1,48 mg de vitamina B1 (tiamina) (135 % del VRN); lomo de cerdo asado, 1,02 mg (92 % del VRN).",
+    "enunciado": "Por cada 100 g: pipas de girasol peladas, 1,48 mg de vitamina B1 (tiamina) (135 % del VRN); lomo de cerdo asado, solo magro, 1,02 mg (92 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,48 entre 1,02), redondeado al entero. El porcentaje compara con el VRN de 1,1 mg (tiamina) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170562 y 168233)",
@@ -768,10 +764,10 @@
   {
     "id": "VIT-026",
     "tema": "composición - vitamina B2 (riboflavina) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B2 (riboflavina): hígado de ternera cocinado 3,43 mg (245 % del VRN); almendras 1,14 mg (81 % del VRN); queso feta 0,84 mg (60 % del VRN); huevo cocido 0,51 mg (37 % del VRN); mejillones cocidos 0,42 mg (30 % del VRN); champiñones crudos 0,40 mg (29 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B2 (riboflavina): almendras crudas 1,14 mg (81 % del VRN); queso feta 0,84 mg (60 % del VRN); huevo cocido 0,51 mg (37 % del VRN); mejillones cocidos 0,42 mg (30 % del VRN); champiñones crudos 0,40 mg (29 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,4 mg (riboflavina) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626, 170567, 173420, 173424, 174217, 169251)",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170567, 173420, 173424, 174217, 169251)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -781,7 +777,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Beef, variety meats and by-products, liver, cooked, braised (fdcId 168626) 3,43 mg; Nuts, almonds (fdcId 170567) 1,14 mg; Cheese, feta (fdcId 173420) 0,84 mg; Egg, whole, cooked, hard-boiled (fdcId 173424) 0,51 mg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) 0,42 mg; Mushrooms, white, raw (fdcId 169251) 0,40 mg"
+      "detalle": "Nuts, almonds (fdcId 170567) 1,14 mg; Cheese, feta (fdcId 173420) 0,84 mg; Egg, whole, cooked, hard-boiled (fdcId 173424) 0,51 mg; Mollusks, mussel, blue, cooked, moist heat (fdcId 174217) 0,42 mg; Mushrooms, white, raw (fdcId 169251) 0,40 mg"
     },
     "molde_datos": {
       "tipo": "ranking",
@@ -789,13 +785,7 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Hígado de ternera cocinado",
-          "valor": "3,43 mg",
-          "fdc": 168626,
-          "pct": 245
-        },
-        {
-          "nombre": "Almendras",
+          "nombre": "Almendras crudas",
           "valor": "1,14 mg",
           "fdc": 170567,
           "pct": 81
@@ -830,7 +820,7 @@
   {
     "id": "VIT-027",
     "tema": "composición - vitamina B2 (riboflavina) (comparación)",
-    "enunciado": "Por cada 100 g: almendras, 1,14 mg de vitamina B2 (riboflavina) (81 % del VRN); huevo cocido, 0,51 mg (37 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
+    "enunciado": "Por cada 100 g: almendras crudas, 1,14 mg de vitamina B2 (riboflavina) (81 % del VRN); huevo cocido, 0,51 mg (37 % del VRN). El primero lleva unas 2 veces la cantidad del segundo.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,14 entre 0,51), redondeado al entero. El porcentaje compara con el VRN de 1,4 mg (riboflavina) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170567 y 173424)",
@@ -847,8 +837,8 @@
     },
     "molde_datos": {
       "tipo": "vs",
-      "i": 1,
-      "j": 3,
+      "i": 0,
+      "j": 2,
       "ratio": 2
     }
   },
@@ -893,9 +883,9 @@
   {
     "id": "VIT-030",
     "tema": "composición - vitamina B3 (niacina) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B3 (niacina): pechuga de pollo asada 13,7 mg; atún al natural 13,3 mg; cacahuetes 12,1 mg; pechuga de pavo asada 11,8 mg; salmón cocinado 8,0 mg; lomo de cerdo asado 5,9 mg.",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B3 (niacina): pechuga de pollo asada 13,7 mg; atún al natural 13,3 mg; cacahuetes crudos 12,1 mg; pechuga de pavo asada 11,8 mg; salmón cocinado 8,0 mg; lomo de cerdo asado, solo magro 5,9 mg.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN porque la tabla mide niacina preformada y el VRN usa otra base de cálculo.",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN: la tabla da niacina preformada y el reglamento da 16 mg sin precisar la base.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477, 171986, 172430, 171496, 175168, 168233)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
@@ -924,7 +914,7 @@
           "fdc": 171986
         },
         {
-          "nombre": "Cacahuetes",
+          "nombre": "Cacahuetes crudos",
           "valor": "12,1 mg",
           "fdc": 172430
         },
@@ -939,7 +929,7 @@
           "fdc": 175168
         },
         {
-          "nombre": "Lomo de cerdo asado",
+          "nombre": "Lomo de cerdo asado, solo magro",
           "valor": "5,9 mg",
           "fdc": 168233
         }
@@ -949,9 +939,9 @@
   {
     "id": "VIT-031",
     "tema": "composición - vitamina B3 (niacina) (comparación)",
-    "enunciado": "Por cada 100 g: pechuga de pollo asada, 13,7 mg de vitamina B3 (niacina); cacahuetes, 12,1 mg.",
+    "enunciado": "Por cada 100 g: pechuga de pollo asada, 13,7 mg de vitamina B3 (niacina); cacahuetes crudos, 12,1 mg.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (13,7 entre 12,1), redondeado al entero. No se calcula el porcentaje del VRN porque la tabla mide niacina preformada y el VRN usa otra base de cálculo.",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (13,7 entre 12,1), redondeado al entero. No se calcula el porcentaje del VRN: la tabla da niacina preformada y el reglamento da 16 mg sin precisar la base.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 171477 y 172430)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
@@ -1014,7 +1004,7 @@
   {
     "id": "VIT-034",
     "tema": "composición - vitamina B5 (ácido pantoténico) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B5 (ácido pantoténico): hígado de ternera cocinado 7,11 mg (119 % del VRN); cacahuetes 1,77 mg (29 % del VRN); champiñones crudos 1,50 mg (25 % del VRN); salmón cocinado 1,48 mg (25 % del VRN); huevo cocido 1,40 mg (23 % del VRN); aguacate 1,39 mg (23 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B5 (ácido pantoténico): hígado de ternera cocinado 7,11 mg (119 % del VRN); cacahuetes crudos 1,77 mg (29 % del VRN); champiñones crudos 1,50 mg (25 % del VRN); salmón cocinado 1,48 mg (25 % del VRN); huevo cocido 1,40 mg (23 % del VRN); aguacate crudo 1,39 mg (23 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 6 mg (ácido pantoténico) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626, 172430, 169251, 175168, 173424, 171705)",
@@ -1041,7 +1031,7 @@
           "pct": 119
         },
         {
-          "nombre": "Cacahuetes",
+          "nombre": "Cacahuetes crudos",
           "valor": "1,77 mg",
           "fdc": 172430,
           "pct": 29
@@ -1065,7 +1055,7 @@
           "pct": 23
         },
         {
-          "nombre": "Aguacate",
+          "nombre": "Aguacate crudo",
           "valor": "1,39 mg",
           "fdc": 171705,
           "pct": 23
@@ -1076,7 +1066,7 @@
   {
     "id": "VIT-035",
     "tema": "composición - vitamina B5 (ácido pantoténico) (comparación)",
-    "enunciado": "Por cada 100 g: hígado de ternera cocinado, 7,11 mg de vitamina B5 (ácido pantoténico) (119 % del VRN); cacahuetes, 1,77 mg (29 % del VRN). El primero lleva unas 4 veces la cantidad del segundo.",
+    "enunciado": "Por cada 100 g: hígado de ternera cocinado, 7,11 mg de vitamina B5 (ácido pantoténico) (119 % del VRN); cacahuetes crudos, 1,77 mg (29 % del VRN). El primero lleva unas 4 veces la cantidad del segundo.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (7,11 entre 1,77), redondeado al entero. El porcentaje compara con el VRN de 6 mg (ácido pantoténico) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 168626 y 172430)",
@@ -1101,20 +1091,22 @@
   {
     "id": "VIT-036",
     "tema": "vitamina B5 (ácido pantoténico) (límite o aviso)",
-    "enunciado": "Según el NHS del Reino Unido, el ácido pantoténico se encuentra en cantidades variables en casi todas las verduras, los alimentos integrales y las carnes, y en el Reino Unido no se ha fijado una cantidad que haga falta de este nutriente.",
+    "enunciado": "Según el NHS del Reino Unido, el ácido pantoténico se encuentra en cantidades variables en casi todas las verduras, los alimentos de grano entero y las carnes, y en el Reino Unido no se ha fijado una cantidad que haga falta de este nutriente; el mismo NHS avisa de que quien está embarazada debe evitar el hígado.",
     "veredicto": "respaldado",
-    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Pantothenic acid is found in varying amounts in almost all vegetables, wholegrain foods and meats / No amount has been set in the UK for how much pantothenic acid you need».",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «Pantothenic acid is found in varying amounts in almost all vegetables, wholegrain foods and meats / No amount has been set in the UK for how much pantothenic acid you need / liver and kidneys (avoid liver if you are pregnant)».",
     "fuente": "NHS (Reino Unido), Vitamins and minerals",
     "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
     "anio": 2020,
     "nivel_evidencia": "guía oficial de salud pública (Reino Unido)",
-    "riesgo_publicar": "bajo",
-    "poblaciones_en_riesgo": [],
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazo"
+    ],
     "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
-      "detalle": "Pantothenic acid is found in varying amounts in almost all vegetables, wholegrain foods and meats / No amount has been set in the UK for how much pantothenic acid you need"
+      "detalle": "Pantothenic acid is found in varying amounts in almost all vegetables, wholegrain foods and meats / No amount has been set in the UK for how much pantothenic acid you need / liver and kidneys (avoid liver if you are pregnant)"
     }
   },
   {
@@ -1139,7 +1131,7 @@
   {
     "id": "VIT-038",
     "tema": "composición - vitamina B6 (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor vitamina B6: pistachos 1,70 mg (121 % del VRN); pechuga de pavo asada 0,81 mg (58 % del VRN); salmón cocinado 0,65 mg (46 % del VRN); pechuga de pollo asada 0,60 mg (43 % del VRN); lomo de cerdo asado 0,55 mg (39 % del VRN); plátano 0,37 mg (26 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor vitamina B6: pistachos crudos 1,70 mg (121 % del VRN); pechuga de pavo asada 0,81 mg (58 % del VRN); salmón cocinado 0,65 mg (46 % del VRN); pechuga de pollo asada 0,60 mg (43 % del VRN); lomo de cerdo asado, solo magro 0,55 mg (39 % del VRN); plátano crudo 0,37 mg (26 % del VRN).",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 1,4 mg (vitamina B6) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170184, 171496, 175168, 171477, 168233, 173944)",
@@ -1160,7 +1152,7 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Pistachos",
+          "nombre": "Pistachos crudos",
           "valor": "1,70 mg",
           "fdc": 170184,
           "pct": 121
@@ -1184,13 +1176,13 @@
           "pct": 43
         },
         {
-          "nombre": "Lomo de cerdo asado",
+          "nombre": "Lomo de cerdo asado, solo magro",
           "valor": "0,55 mg",
           "fdc": 168233,
           "pct": 39
         },
         {
-          "nombre": "Plátano",
+          "nombre": "Plátano crudo",
           "valor": "0,37 mg",
           "fdc": 173944,
           "pct": 26
@@ -1201,7 +1193,7 @@
   {
     "id": "VIT-039",
     "tema": "composición - vitamina B6 (comparación)",
-    "enunciado": "Por cada 100 g: pistachos, 1,70 mg de vitamina B6 (121 % del VRN); plátano, 0,37 mg (26 % del VRN). El primero lleva unas 5 veces la cantidad del segundo.",
+    "enunciado": "Por cada 100 g: pistachos crudos, 1,70 mg de vitamina B6 (121 % del VRN); plátano crudo, 0,37 mg (26 % del VRN). El primero lleva unas 5 veces la cantidad del segundo.",
     "veredicto": "respaldado",
     "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (1,70 entre 0,37), redondeado al entero. El porcentaje compara con el VRN de 1,4 mg (vitamina B6) y se redondea al entero.",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 170184 y 173944)",
@@ -1266,10 +1258,10 @@
   {
     "id": "VIT-042",
     "tema": "composición - folato (vitamina B9) (ranking)",
-    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes 240 µg (120 % del VRN); pipas de girasol 227 µg (114 % del VRN); espinacas crudas 194 µg (97 % del VRN); lentejas cocidas 181 µg (91 % del VRN); garbanzos cocidos 172 µg (86 % del VRN); avellanas 113 µg (57 % del VRN).",
+    "enunciado": "Por cada 100 g, de mayor a menor folato (vitamina B9): cacahuetes crudos 240 µg; pipas de girasol peladas 227 µg; espinacas crudas 194 µg; perejil fresco 152 µg; avellanas crudas 113 µg; nueces 98 µg.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. El porcentaje compara con el VRN de 200 µg (folato total) y se redondea al entero.",
-    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 170562, 168462, 172421, 173757, 170581)",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es mucho más que una ración habitual de muchos de estos alimentos, y la tabla de USDA mide la cantidad del alimento, no la que se absorbe. No se calcula el porcentaje del VRN: la tabla da folato total y el reglamento da el VRN del ácido fólico (200 µg).",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430, 170562, 168462, 170416, 170581, 170187)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
     "nivel_evidencia": "tabla oficial de composición de alimentos",
@@ -1279,7 +1271,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
-      "detalle": "Peanuts, all types, raw (fdcId 172430) 240 µg; Seeds, sunflower seed kernels, dried (fdcId 170562) 227 µg; Spinach, raw (fdcId 168462) 194 µg; Lentils, mature seeds, cooked, boiled, without salt (fdcId 172421) 181 µg; Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt (fdcId 173757) 172 µg; Nuts, hazelnuts or filberts (fdcId 170581) 113 µg"
+      "detalle": "Peanuts, all types, raw (fdcId 172430) 240 µg; Seeds, sunflower seed kernels, dried (fdcId 170562) 227 µg; Spinach, raw (fdcId 168462) 194 µg; Parsley, fresh (fdcId 170416) 152 µg; Nuts, hazelnuts or filberts (fdcId 170581) 113 µg; Nuts, walnuts, english (fdcId 170187) 98 µg"
     },
     "molde_datos": {
       "tipo": "ranking",
@@ -1287,40 +1279,34 @@
       "unidad": "por 100 g",
       "filas": [
         {
-          "nombre": "Cacahuetes",
+          "nombre": "Cacahuetes crudos",
           "valor": "240 µg",
-          "fdc": 172430,
-          "pct": 120
+          "fdc": 172430
         },
         {
-          "nombre": "Pipas de girasol",
+          "nombre": "Pipas de girasol peladas",
           "valor": "227 µg",
-          "fdc": 170562,
-          "pct": 114
+          "fdc": 170562
         },
         {
           "nombre": "Espinacas crudas",
           "valor": "194 µg",
-          "fdc": 168462,
-          "pct": 97
+          "fdc": 168462
         },
         {
-          "nombre": "Lentejas cocidas",
-          "valor": "181 µg",
-          "fdc": 172421,
-          "pct": 91
+          "nombre": "Perejil fresco",
+          "valor": "152 µg",
+          "fdc": 170416
         },
         {
-          "nombre": "Garbanzos cocidos",
-          "valor": "172 µg",
-          "fdc": 173757,
-          "pct": 86
-        },
-        {
-          "nombre": "Avellanas",
+          "nombre": "Avellanas crudas",
           "valor": "113 µg",
-          "fdc": 170581,
-          "pct": 57
+          "fdc": 170581
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "98 µg",
+          "fdc": 170187
         }
       ]
     }
@@ -1328,9 +1314,9 @@
   {
     "id": "VIT-043",
     "tema": "composición - folato (vitamina B9) (comparación)",
-    "enunciado": "Por cada 100 g: cacahuetes, 240 µg de folato (vitamina B9) (120 % del VRN); espinacas crudas, 194 µg (97 % del VRN).",
+    "enunciado": "Por cada 100 g: cacahuetes crudos, 240 µg de folato (vitamina B9); espinacas crudas, 194 µg.",
     "veredicto": "respaldado",
-    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (240 entre 194), redondeado al entero. El porcentaje compara con el VRN de 200 µg (folato total) y se redondea al entero.",
+    "matiz": "Valores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. La proporción es el cociente de los dos valores de la tabla (240 entre 194), redondeado al entero. No se calcula el porcentaje del VRN: la tabla da folato total y el reglamento da el VRN del ácido fólico (200 µg).",
     "fuente": "USDA FoodData Central, SR Legacy (fdcId 172430 y 168462)",
     "url": "https://fdc.nal.usda.gov/",
     "anio": 2018,
@@ -1353,9 +1339,9 @@
   {
     "id": "VIT-044",
     "tema": "folato (vitamina B9) (límite o aviso)",
-    "enunciado": "Según el NHS del Reino Unido, el folato es la forma natural de esta vitamina B y el ácido fólico es su forma sintética; para quien está embarazada o puede quedarse embarazada, el Departamento de Sanidad británico recomienda un suplemento de ácido fólico, algo que debe hablar con su médico.",
+    "enunciado": "Según el NHS del Reino Unido, el folato es la forma natural de esta vitamina B y el ácido fólico es su forma sintética; a quien está embarazada, busca un embarazo o puede quedarse embarazada se le recomienda un suplemento de ácido fólico de 400 µg al día hasta la semana 12 de embarazo, y los adultos necesitan 200 µg de folato al día.",
     "veredicto": "respaldado",
-    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant».",
+    "matiz": "Recomendación de salud pública del Reino Unido (NHS, página revisada en agosto de 2020): puede diferir de la de otros países y no sustituye el consejo de un profesional. No es una pauta personal. Frase original: «The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant / it's recommended that you take a 400 microgram folic acid supplement daily until you're 12 weeks pregnant / Adults need 200 micrograms of folate a day».",
     "fuente": "NHS (Reino Unido), Vitamins and minerals",
     "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/",
     "anio": 2020,
@@ -1368,7 +1354,7 @@
     "verificacion_primaria": {
       "fecha": "2026-10-13",
       "via": "Página del NHS descargada y leída (nhs_vitamin-b.txt)",
-      "detalle": "The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant"
+      "detalle": "The manmade form of folate is called folic acid / The Department of Health and Social Care recommends that folic acid supplements are taken by all women who are pregnant or could get pregnant / it's recommended that you take a 400 microgram folic acid supplement daily until you're 12 weeks pregnant / Adults need 200 micrograms of folate a day"
     }
   },
   {

@@ -53,7 +53,7 @@ from router.telegram_io import ErrorTelegram, TelegramReal   # noqa: E402
 CUENTAS = MOTOR / "nube" / "cuentas.nube.json"
 CODIGO_CONFLICTO = 3
 MADRID = ZoneInfo("Europe/Madrid")
-SESION_MAX_S = 9 * 60            # una ejecución activa no pasa de 9 minutos (el job tiene 12 de margen)
+SESION_MAX_S = 9 * 60            # una ejecución activa no pasa de 9 minutos (el job tiene 16 de margen)
 SIN_ACTIVIDAD_S = 4 * 60         # y se corta tras 4 minutos sin que José toque nada
 SALIDA_PUNTUAL_S = 6 * 60        # una pieza que vence en menos de esto se espera para publicarla en punto
 SONDEO_S = 15                    # sondeo largo de Telegram en modo activo
@@ -252,6 +252,8 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log,
             if exc.codigo == 409:
                 raise ConflictoTelegram() from None
             lg(f"telegram: {exc.metodo} {exc.codigo}")
+            if espera_sondeo:
+                dormir(min(espera_sondeo, 5))                     # sin red el sondeo falla al instante: no dar vueltas a toda velocidad
     elif espera_sondeo:
         dormir(espera_sondeo)
     for etapa, fn in (("entrega de piezas", router.entregar_pendientes), ("decisiones", router.decisiones.vuelta)):
@@ -298,10 +300,17 @@ def proxima_salida_s(ad, ahora_s: float) -> float | None:
     return None if mejor is None else mejor - ahora_s
 
 
+def _publicadas(ad) -> int:
+    """Cuántas piezas de la cuenta figuran como publicadas (para saber si una pasada acaba de publicar)."""
+    return ad.db.execute("SELECT COUNT(*) FROM piezas WHERE estado='publicada'").fetchone()[0]
+
+
 def sesion_activa(router, hub, ad, tg, sondear: bool, motor: Path, lg, reloj, dormir, t0: float, primera: dict, max_s: float = SESION_MAX_S,
-                  idle_s: float = SIN_ACTIVIDAD_S, puntual_s: float = SALIDA_PUNTUAL_S, sondeo_s: int = SONDEO_S) -> dict:
+                  idle_s: float = SIN_ACTIVIDAD_S, puntual_s: float = SALIDA_PUNTUAL_S, sondeo_s: int = SONDEO_S, vigilia_s: float = 0) -> dict:
     """Sigue atendiendo mientras José esté activo (hasta `idle_s` sin que toque nada, o `max_s` en total) o mientras haya una pieza a punto de
-    salir (en menos de `puntual_s`). Devuelve {activa, tope, pasadas, fin_actividad}: `tope` es que llegó al máximo con José aún activo."""
+    salir (en menos de `puntual_s`). Devuelve {activa, tope, pasadas, fin_actividad}: `tope` es que llegó al máximo con José aún activo.
+    `vigilia_s` > 0: aunque nadie toque nada, sigue escuchando ese rato (en vez de dormir al final de la ejecución): el primer toque de José
+    se contesta en segundos y no hay que esperar a la ejecución siguiente. La vigilia no cuenta como actividad suya."""
     previa = hub.meta_leer(ACTIVA_HASTA)
     try:
         fin_act = float(previa) if previa else 0.0
@@ -313,6 +322,7 @@ def sesion_activa(router, hub, ad, tg, sondear: bool, motor: Path, lg, reloj, do
     if nuevo_toque:
         fin_act = reloj() + idle_s
     res = {"activa": fin_act > reloj(), "tope": False, "pasadas": 0, "fin_actividad": fin_act, "nuevo_toque": nuevo_toque}
+    fin_vigilia = reloj() + vigilia_s if vigilia_s > 0 else 0.0
     while True:
         ahora = reloj()
         restante = max_s - (ahora - t0)
@@ -322,18 +332,30 @@ def sesion_activa(router, hub, ad, tg, sondear: bool, motor: Path, lg, reloj, do
             break
         prox = proxima_salida_s(ad, ahora)
         esperando = prox is not None and prox <= puntual_s
-        if not (activo or esperando):
+        vigilando = ahora < fin_vigilia
+        if not (activo or esperando or vigilando):
             break
-        espera = sondeo_s if (activo or prox is None or prox < 0) else max(1, min(sondeo_s, int(prox) + 1))
+        espera = sondeo_s
+        if prox is not None and 0 <= prox < sondeo_s:
+            espera = int(prox) + 1                                # que el sondeo termine justo después de la hora de la pieza
         espera = int(max(1, min(espera, restante)))
+        antes = _publicadas(ad)
         c = pasada(router, hub, ad, tg, sondear, motor, lg, espera_sondeo=espera, dormir=dormir)
         res["pasadas"] += 1
+        if _publicadas(ad) > antes:
+            res["publicada"] = True                               # el estado solo se sube al terminar la ejecución: tras publicar se termina enseguida,
+            if c["updates"]:                                      # para que no haya minutos entre «salió en Instagram» y «quedó apuntado» (un fallo ahí duplicaría la pieza)
+                res["nuevo_toque"] = True
+                fin_act = reloj() + idle_s
+                res["activa"] = True
+                res["fin_actividad"] = fin_act
+            break
         if c["updates"]:
             res["nuevo_toque"] = True
             fin_act = reloj() + idle_s
             res["activa"] = True
         res["fin_actividad"] = fin_act
-        if prox is not None and prox < 0 and not c["updates"] and not activo:
+        if prox is not None and prox < 0 and not c["updates"] and not activo and not vigilando:
             break                                                 # vencida y no sale (en reintento, en pausa...): no se queda esperando
     return res
 
@@ -379,7 +401,7 @@ def lanzar_siguiente(env: dict, lg=log) -> bool:
 
 def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas: int = 2, espera_s: float = 20.0, motor: Path = MOTOR,
              tg=None, modo_ig: str | None = None, exigir_estado: bool = False, activo: bool = False, encadenar: bool = False, reloj=None,
-             dormir=time.sleep, lanzar=None, max_s: float = SESION_MAX_S) -> int:
+             dormir=time.sleep, lanzar=None, max_s: float = SESION_MAX_S, vigilia_s: float = 0) -> int:
     datos = Path(datos)
     datos.mkdir(parents=True, exist_ok=True)
     os.environ["VIVAX_VALIDACIONES"] = str(datos / "validaciones")        # las validaciones de José viajan con el estado cifrado
@@ -410,6 +432,8 @@ def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas
     ad = adaptadores["n1"]
     modo = ad.ig.get("modo", "desactivado")
     activo = activo and not sin_telegram                                # sin Telegram no hay a quién atender
+    if activo:
+        pasadas = 1                                                     # la sesión activa ya vuelve a mirar Telegram sin esperar 20 s
     log(f"Pasada en la nube: modo {modo}{' (publicador simulado)' if simulado else ''}{', sin Telegram' if sin_telegram else ''}"
         f"{', modo activo' if activo else ''}.")
     t0 = reloj()
@@ -430,7 +454,7 @@ def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas
                 break
         if activo:
             try:
-                s = sesion_activa(router, hub, ad, tg, True, motor, log, reloj, dormir, t0, c, max_s=max_s)
+                s = sesion_activa(router, hub, ad, tg, True, motor, log, reloj, dormir, t0, c, max_s=max_s, vigilia_s=vigilia_s)
             except ConflictoTelegram:
                 print("Telegram da 409: otro proceso está leyendo este bot. Me detengo sin publicar más.", file=sys.stderr)
                 return CODIGO_CONFLICTO
@@ -439,14 +463,19 @@ def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas
             nueva = str(int(s["fin_actividad"])) if s["fin_actividad"] > reloj() else ""
             if (hub.meta_leer(ACTIVA_HASTA) or "") != nueva:             # solo se escribe si cambia (un cambio del estado es una subida del estado)
                 hub.meta_escribir(ACTIVA_HASTA, nueva)
-            if encadenar and s["tope"]:
+            if encadenar and (s["tope"] or s["nuevo_toque"]):
+                # José ha estado usando Telegram en esta ejecución: la siguiente arranca ya (sin dormir), por si vuelve a tocar algo.
                 ok, e = _presupuesto_cadena(hub, reloj(), s["nuevo_toque"])
                 hub.meta_escribir(CADENA, json.dumps(e))
                 if ok:
                     lanzado = (lanzar or lanzar_siguiente)(env, log)
                     log("encadenada la siguiente ejecución." if lanzado else "no se pudo encadenar la siguiente ejecución.")
+                    if lanzado:
+                        _salida_del_paso("encadenada")
                 else:
-                    log("no se encadena otra ejecución: se llegó al límite de encadenadas.")
+                    log("no se encadena otra ejecución enseguida: se llegó al límite; sigue la cadena lenta del workflow.")
+            elif vigilia_s > 0 and not s["nuevo_toque"]:
+                _salida_del_paso("vigilia")                                 # ya se esperó escuchando: el workflow lanza la siguiente sin dormir
         return 0
     finally:
         for base in (hub.db, ad.db):                                    # que nada quede abierto antes de cifrar el estado
@@ -454,6 +483,19 @@ def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas
                 base.cerrar()
             except Exception:                                           # noqa: BLE001
                 pass
+
+
+def _salida_del_paso(nombre: str) -> None:
+    """Le deja una salida al paso del workflow: `encadenada=si` (ya está lanzada la siguiente ejecución: no hay que esperar ni lanzar otra)
+    o `vigilia=si` (la espera ya se hizo escuchando a José: la siguiente se lanza sin dormir)."""
+    destino = os.environ.get("GITHUB_OUTPUT")
+    if not destino:
+        return
+    try:
+        with open(destino, "a", encoding="utf-8") as f:
+            f.write(f"{nombre}=si\n")
+    except OSError:
+        pass
 
 
 def _poner_menu(hub, tg, sin_telegram: bool) -> None:
@@ -477,11 +519,14 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--sin-telegram", action="store_true", help="no leer ni escribir en Telegram")
     ap.add_argument("--pasadas", type=int, default=2)
     ap.add_argument("--activo", action="store_true", help="modo activo: sigue atendiendo a José mientras use Telegram y espera a las piezas a punto de salir")
+    ap.add_argument("--vigilia", type=int, default=0, metavar="SEGUNDOS",
+                    help="con --activo: aunque nadie toque nada, sigue escuchando Telegram este rato (en vez de dormir) para contestar al primer toque en segundos")
     a = ap.parse_args(argv)
     env = {k: os.environ.get(k, "") for k in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_USER_ID", "IG_N1_TOKEN", "IG_N1_USER_ID", "GITHUB_TOKEN")}
     activo = a.activo and os.environ.get("VIVAX_MODO_ACTIVO", "1") != "0"
     encadenar = activo and os.environ.get("VIVAX_ENCADENAR", "1") != "0"
-    return ejecutar(a.datos, env, a.simulado, a.sin_telegram, a.pasadas, exigir_estado=not a.simulado, activo=activo, encadenar=encadenar)
+    return ejecutar(a.datos, env, a.simulado, a.sin_telegram, a.pasadas, exigir_estado=not a.simulado, activo=activo, encadenar=encadenar,
+                    vigilia_s=a.vigilia if activo else 0)
 
 
 if __name__ == "__main__":
