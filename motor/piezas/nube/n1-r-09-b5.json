@@ -1,0 +1,120 @@
+{
+  "id": "n1-r-09-b5",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-v-09-b5",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "VIT-033",
+    "VIT-034",
+    "VIT-035",
+    "VIT-036"
+  ],
+  "pie_instagram": "La vitamina B5 (ácido pantoténico) está en muchos alimentos. Por cada 100 g, el hígado de ternera cocinado lleva 7,11 mg (119 % del valor de referencia), los cacahuetes crudos 1,77 mg, los champiñones crudos 1,50 mg, el salmón cocinado 1,48 mg, el huevo cocido 1,40 mg y el aguacate crudo 1,39 mg. Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que el ácido pantoténico contribuye al metabolismo energético normal y al rendimiento intelectual normal, y ayuda a disminuir el cansancio y la fatiga. El valor de referencia de 6 mg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Fegato alla Veneziana», Görgött, Chris Nilson (CC BY 3.0); «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Según el NHS británico, en el embarazo se aconseja evitar el hígado y sus derivados.\n\n#vitaminab5 #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 4,
+      "foto": "aguacate",
+      "etiqueta": "Vitaminas",
+      "titular": "La {B5} va del hígado al aguacate",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Aguacate crudo",
+      "valor": "1,39 mg",
+      "foto": "aguacate",
+      "unidad_chip": "mg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Huevo cocido",
+      "valor": "1,40 mg",
+      "foto": "huevo_duro",
+      "unidad_chip": "mg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Salmón cocinado",
+      "valor": "1,48 mg",
+      "foto": "salmon_solo",
+      "unidad_chip": "mg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Champiñones crudos",
+      "valor": "1,50 mg",
+      "foto": "champinones",
+      "unidad_chip": "mg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Cacahuetes crudos",
+      "valor": "1,77 mg",
+      "foto": "cacahuetes",
+      "unidad_chip": "mg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Hígado de ternera cocinado",
+      "valor": "7,11 mg",
+      "foto": "higado_ternera",
+      "unidad_chip": "mg por 100 g",
+      "ganador": true
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "En vitamina B5 por 100 g, el hígado lleva unas {4 veces} lo de los cacahuetes",
+      "izq": {
+        "nombre": "Cacahuetes crudos",
+        "valor": "1,77 mg",
+        "foto": "cacahuetes"
+      },
+      "der": {
+        "nombre": "Hígado de ternera cocinado",
+        "valor": "7,11 mg",
+        "foto": "higado_ternera"
+      },
+      "texto": "",
+      "ganador": "der"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "aguacate",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B5 por 100 g: {tres} de esta selección",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ],
+  "angular": true,
+  "produccion": {
+    "plan": "2026-11.parcial.json",
+    "fecha": "2026-11-02",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}

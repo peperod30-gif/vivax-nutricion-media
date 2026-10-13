@@ -1,0 +1,120 @@
+{
+  "id": "n1-r-03-e",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-v-03-e",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "VIT-009",
+    "VIT-010",
+    "VIT-011",
+    "VIT-012"
+  ],
+  "pie_instagram": "¿Dónde está la vitamina E? Por cada 100 g, las pipas de girasol peladas, secas, llevan 35,2 mg (293 % del valor de referencia), las almendras crudas 25,6 mg, las avellanas crudas 15,0 mg, el aceite de oliva 14,4 mg, los cacahuetes crudos 8,3 mg y el aguacate crudo 2,1 mg, en alfa-tocoferol. Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la vitamina E contribuye a la protección de las células frente al daño oxidativo. El valor de referencia de 12 mg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, no hay pruebas suficientes para saber qué efectos tiene tomar cada día dosis altas de suplementos de vitamina E, y con suplementos no conviene tomar demasiado: podría ser perjudicial.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Almonds macro 1», Daniel Schwen (CC BY 3.0); «Noisettes Fercoril Corabel Cl 1JWeber (23047148764)», Jean Weber / Inra Dist (CC BY 2.0); «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminae #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "pipas_girasol",
+      "etiqueta": "Vitaminas",
+      "titular": "Por 100 g, la {vitamina E} abunda en pipas, almendras y avellanas",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Aguacate crudo",
+      "valor": "2,1 mg",
+      "foto": "aguacate",
+      "unidad_chip": "mg de alfa-tocoferol por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Cacahuetes crudos",
+      "valor": "8,3 mg",
+      "foto": "cacahuetes",
+      "unidad_chip": "mg de alfa-tocoferol por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Aceite de oliva",
+      "valor": "14,4 mg",
+      "foto": "aceite_oliva",
+      "unidad_chip": "mg de alfa-tocoferol por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Avellanas crudas",
+      "valor": "15,0 mg",
+      "foto": "avellanas",
+      "unidad_chip": "mg de alfa-tocoferol por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Almendras crudas",
+      "valor": "25,6 mg",
+      "foto": "almendras",
+      "unidad_chip": "mg de alfa-tocoferol por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Pipas de girasol peladas, secas",
+      "valor": "35,2 mg",
+      "foto": "pipas_girasol",
+      "unidad_chip": "mg de alfa-tocoferol por 100 g",
+      "ganador": true
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "Por 100 g, las pipas llevan unas {2 veces} la vitamina E del aceite",
+      "izq": {
+        "nombre": "Aceite de oliva",
+        "valor": "14,4 mg",
+        "foto": "aceite_oliva"
+      },
+      "der": {
+        "nombre": "Pipas de girasol peladas, secas",
+        "valor": "35,2 mg",
+        "foto": "pipas_girasol"
+      },
+      "texto": "",
+      "ganador": "der"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "pipas_girasol",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina E por 100 g: {tres} de esta selección",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ],
+  "angular": true,
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-26",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}

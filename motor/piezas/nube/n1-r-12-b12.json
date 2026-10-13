@@ -1,0 +1,120 @@
+{
+  "id": "n1-r-12-b12",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-v-12-b12",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "VIT-045",
+    "VIT-046",
+    "VIT-047",
+    "VIT-048"
+  ],
+  "pie_instagram": "Por cada 100 g, los mejillones cocidos llevan 24,0 µg de vitamina B12 (960 % del valor de referencia) y el huevo cocido 1,1 µg (44 %): unas 22 veces más. Por delante van las almejas cocidas (98,9 µg); detrás, la caballa cocinada (19,0 µg), las sardinas en aceite, escurridas (8,9 µg) y el salmón cocinado (2,8 µg). Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la vitamina B12 contribuye a la formación normal de glóbulos rojos y al funcionamiento normal del sistema nervioso y del sistema inmunitario. El valor de referencia de 2,5 µg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, la B12 no está de forma natural en frutas, verduras ni cereales, así que las personas veganas pueden no obtener suficiente.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Moules marinières cuisinées en octobre 2019», Benoît Prieur (CC0); «Steamedclams», Flickr user: Paul Keleher (CC BY 2.0); «Gegrillte Makrele Herzogkeller Bayreuth», Benreis (CC BY 3.0); «Sardinky», Dezidor (CC BY 3.0); «Spinach leaves», Nillerdk (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminab12 #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "mejillones",
+      "etiqueta": "Vitaminas",
+      "titular": "El mejillón cocido lleva unas {22 veces} la B12 del huevo cocido, por 100 g",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Huevo cocido",
+      "valor": "1,1 µg",
+      "foto": "huevo_duro",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Salmón cocinado",
+      "valor": "2,8 µg",
+      "foto": "salmon_solo",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Sardinas en aceite, escurridas",
+      "valor": "8,9 µg",
+      "foto": "sardinas_lata",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Caballa cocinada",
+      "valor": "19,0 µg",
+      "foto": "caballa",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Mejillones cocidos",
+      "valor": "24,0 µg",
+      "foto": "mejillones",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Almejas cocidas",
+      "valor": "98,9 µg",
+      "foto": "almejas_cocidas",
+      "unidad_chip": "mcg por 100 g",
+      "ganador": true
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "El mejillón cocido lleva unas {22 veces} la B12 del huevo cocido, por 100 g",
+      "izq": {
+        "nombre": "Huevo cocido",
+        "valor": "1,1 µg",
+        "foto": "huevo_duro"
+      },
+      "der": {
+        "nombre": "Mejillones cocidos",
+        "valor": "24,0 µg",
+        "foto": "mejillones"
+      },
+      "texto": "",
+      "ganador": "der"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "mejillones",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina B12 por 100 g: {tres} de esta selección",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ],
+  "angular": true,
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-20",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}

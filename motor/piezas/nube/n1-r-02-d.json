@@ -1,0 +1,102 @@
+{
+  "id": "n1-r-02-d",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-v-02-d",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "VIT-005",
+    "VIT-006",
+    "VIT-007",
+    "VIT-008"
+  ],
+  "pie_instagram": "La vitamina D no viene solo del sol: también está en algunos alimentos. Por cada 100 g, la trucha cocinada lleva 19,0 µg (380 % del valor de referencia), el salmón cocinado 13,1 µg, las sardinas en aceite, escurridas, 4,8 µg y el huevo cocido 2,2 µg. Es una selección, no la lista completa. Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que la vitamina D contribuye al mantenimiento de los huesos en condiciones normales y al funcionamiento normal de los músculos y del sistema inmunitario. El valor de referencia de 5 µg es para etiquetar, no una cantidad que haya que tomar. Según el NHS británico, demasiados suplementos de vitamina D durante mucho tiempo pueden acumular calcio de más, debilitar los huesos y dañar los riñones y el corazón.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Trota, pan roasted butterflied trout, romesco, sage, vermentino (26340267585)», T.Tseng (CC BY 2.0); «Sardinky», Dezidor (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminad #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "salmon_solo",
+      "etiqueta": "Vitaminas",
+      "titular": "La {vitamina D} no viene solo del sol",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Huevo cocido",
+      "valor": "2,2 µg",
+      "foto": "huevo_duro",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Sardinas en aceite, escurridas",
+      "valor": "4,8 µg",
+      "foto": "sardinas_lata",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Salmón cocinado",
+      "valor": "13,1 µg",
+      "foto": "salmon_solo",
+      "unidad_chip": "mcg por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Trucha cocinada",
+      "valor": "19,0 µg",
+      "foto": "trucha",
+      "unidad_chip": "mcg por 100 g",
+      "ganador": true
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "Por 100 g, la trucha cocinada lleva el {380 %} del valor de referencia de la vitamina D",
+      "izq": {
+        "nombre": "Huevo cocido",
+        "valor": "2,2 µg",
+        "foto": "huevo_duro"
+      },
+      "der": {
+        "nombre": "Trucha cocinada",
+        "valor": "19,0 µg",
+        "foto": "trucha"
+      },
+      "texto": "",
+      "ganador": "der"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "salmon_solo",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina D por 100 g: {tres} de esta selección",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ],
+  "angular": true,
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-17",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "n1-r-11-b9",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-v-11-b9",
+  "modo": "duelo",
+  "hechos": [
+    "VIT-041",
+    "VIT-042",
+    "VIT-043",
+    "VIT-044"
+  ],
+  "pie_instagram": "¿Dónde hay más folato, en las espinacas o en los cacahuetes? Por cada 100 g, los cacahuetes crudos llevan 240 µg de folato total y las espinacas crudas 194 µg. Entre medias, las pipas de girasol peladas, secas (227 µg). El resto de la selección: perejil fresco (152 µg), avellanas crudas (113 µg) y nueces (98 µg). Son datos de composición por 100 g, no una recomendación de qué comer: 100 g es más de lo que se suele tomar de muchos de estos alimentos.\n\nLa UE autoriza decir que los folatos contribuyen a la formación normal de células sanguíneas y al crecimiento de los tejidos maternos durante el embarazo. El valor de referencia de la etiqueta es de 200 µg (ácido fólico) y no es una recomendación personal; el NHS británico da 200 µg de folato al día para adultos y recomienda a quien está embarazada, busca un embarazo o puede quedarse embarazada un suplemento de ácido fólico de 400 µg al día hasta la semana 12; algunas mujeres con más riesgo tienen otra indicación y dosis de ácido fólico superiores a 1 mg pueden enmascarar la falta de vitamina B12: consúltalo con tu médico.\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); Reglamento (UE) 432/2012 (declaraciones de salud) y 1169/2011, anexo XIII (VRN); NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Peanuts (54259077419)», Choo Yut Shing (CC BY 2.0); «Spinach leaves», Nillerdk (CC BY 3.0); «Noisettes Fercoril Corabel Cl 1JWeber (23047148764)», Jean Weber / Inra Dist (CC BY 2.0); «Whole walnut kernel and shell», Potkettle (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#folato #vitaminab9 #nutricion",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 6,
+      "foto": "cacahuetes",
+      "etiqueta": "Vitaminas",
+      "titular": "Por 100 g, los cacahuetes crudos le ganan a las espinacas crudas en {folato}",
+      "sub": "Duelo por 100 g"
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 8,
+      "titulo": "Folato por 100 g: cacahuetes crudos contra espinacas {crudas}",
+      "izq": {
+        "nombre": "Cacahuetes crudos",
+        "valor": "240 µg",
+        "foto": "cacahuetes"
+      },
+      "der": {
+        "nombre": "Espinacas crudas",
+        "valor": "194 µg",
+        "foto": "espinacas"
+      },
+      "texto": ""
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Nueces",
+      "valor": "98 µg",
+      "foto": "nueces",
+      "unidad_chip": "mcg de folato total por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Avellanas crudas",
+      "valor": "113 µg",
+      "foto": "avellanas",
+      "unidad_chip": "mcg de folato total por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Perejil fresco",
+      "valor": "152 µg",
+      "foto": "perejil",
+      "unidad_chip": "mcg de folato total por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Espinacas crudas",
+      "valor": "194 µg",
+      "foto": "espinacas",
+      "unidad_chip": "mcg de folato total por 100 g"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 4,
+      "foto": "cacahuetes",
+      "etiqueta": "Guárdalo",
+      "frase": "Folato por 100 g: {tres} de esta selección",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ],
+  "angular": true,
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-24",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}

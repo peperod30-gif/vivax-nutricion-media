@@ -1,0 +1,144 @@
+{
+ "id": "n1-r-12-b12",
+ "esquema": "foto-1",
+ "estilo": "house",
+ "pulso_s": 0.5,
+ "pulsos": 35,
+ "duracion_s": 17.5,
+ "fps": 30,
+ "avisos": [],
+ "escenas": [
+  {
+   "i": 0,
+   "tipo": "gancho",
+   "t0": 0.0,
+   "t1": 2.5,
+   "pulsos": 5
+  },
+  {
+   "i": 1,
+   "tipo": "cuenta",
+   "t0": 2.5,
+   "t1": 4.0,
+   "pulsos": 3
+  },
+  {
+   "i": 2,
+   "tipo": "cuenta",
+   "t0": 4.0,
+   "t1": 5.5,
+   "pulsos": 3
+  },
+  {
+   "i": 3,
+   "tipo": "cuenta",
+   "t0": 5.5,
+   "t1": 7.0,
+   "pulsos": 3
+  },
+  {
+   "i": 4,
+   "tipo": "cuenta",
+   "t0": 7.0,
+   "t1": 8.5,
+   "pulsos": 3
+  },
+  {
+   "i": 5,
+   "tipo": "cuenta",
+   "t0": 8.5,
+   "t1": 10.0,
+   "pulsos": 3
+  },
+  {
+   "i": 6,
+   "tipo": "cuenta",
+   "t0": 10.0,
+   "t1": 12.0,
+   "pulsos": 4
+  },
+  {
+   "i": 7,
+   "tipo": "vs",
+   "t0": 12.0,
+   "t1": 15.0,
+   "pulsos": 6
+  },
+  {
+   "i": 8,
+   "tipo": "cierre",
+   "t0": 15.0,
+   "t1": 17.5,
+   "pulsos": 5
+  }
+ ],
+ "musica": {
+  "estilo": "house",
+  "bpm": 120,
+  "semilla": 7,
+  "pulsos": 35,
+  "duracion_s": 17.5,
+  "lufs": -14.03,
+  "pico_dbtp": -2.55,
+  "recortes_muestras": 0,
+  "efectos": {
+   "entrada": 5,
+   "transicion": 8,
+   "golpe": 6,
+   "sello": 2,
+   "cierre": 1
+  }
+ },
+ "zona_segura": {
+  "zona": [
+   40,
+   250,
+   950,
+   1500
+  ],
+  "muestras": 19,
+  "fuera": []
+ },
+ "bucle": {
+  "dif_ultimo_primero": 5.52
+ },
+ "consola_navegador": [],
+ "ajustes_pico_db": [],
+ "tiempo_render_s": 105.5,
+ "salida": {
+  "con_musica": {
+   "bytes": 13934612,
+   "mb": 13.93,
+   "duracion_s": 17.52,
+   "video": {
+    "codec": "h264",
+    "pixel": "yuv420p",
+    "ancho": 1080,
+    "alto": 1920,
+    "fps": 29.96
+   },
+   "audio": {
+    "codec": "aac",
+    "hz": 48000,
+    "canales": "stereo"
+   },
+   "moov_antes_de_mdat": true,
+   "listas_de_edicion": [],
+   "atomos": [
+    "ftyp",
+    "moov",
+    "free",
+    "mdat"
+   ]
+  },
+  "sonoridad": {
+   "lufs": -14.1,
+   "pico_dbtp": -2.3
+  },
+  "listas_de_edicion": [],
+  "mudo_listas_de_edicion": [],
+  "mudo_tiene_audio": false,
+  "musica_tiene_audio": true,
+  "tamano_mb": 13.93
+ }
+}

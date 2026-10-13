@@ -1,0 +1,120 @@
+{
+  "id": "n1-r-04-k",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-v-04-k",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "VIT-013",
+    "VIT-014",
+    "VIT-015",
+    "VIT-016"
+  ],
+  "pie_instagram": "Por cada 100 g, el perejil lleva el 2187 % del valor de referencia de la vitamina K (1640 µg), unas 3 veces lo que lleva la espinaca cruda (483 µg). Siguen las acelgas (830 µg), la col rizada (390 µg), las coles de Bruselas (177 µg) y el brócoli crudo (102 µg). Es una selección, no la lista completa.\n\nLa UE autoriza decir que la vitamina K contribuye a la coagulación sanguínea normal y al mantenimiento de los huesos en condiciones normales. El valor de referencia de 75 µg es para etiquetar, no una cantidad que haya que tomar. Con warfarina, consulta al médico antes de hacer grandes cambios en la dieta (NHS).\n\nFuente: USDA FoodData Central, SR Legacy (abril de 2018); declaraciones de salud de la UE; NHS (Reino Unido).\nFotos: Wikimedia Commons, recortadas: «Spinach leaves», Nillerdk (CC BY 3.0); «Kale (6025692440)», Dwight Sipler (CC BY 2.0). El resto, dominio público o CC0.\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#vitaminak #nutricion #alimentos",
+  "musica": {
+    "estilo": "house",
+    "semilla": 7
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "perejil",
+      "etiqueta": "Vitaminas",
+      "titular": "Por 100 g, el perejil lleva el {2187 %} del valor de referencia de la vitamina K",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Brócoli crudo",
+      "valor": "102 µg",
+      "foto": "brocoli",
+      "unidad_chip": "mcg por 100 g, todos crudos"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Coles de Bruselas crudas",
+      "valor": "177 µg",
+      "foto": "coles_bruselas",
+      "unidad_chip": "mcg por 100 g, todos crudos"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Col rizada cruda",
+      "valor": "390 µg",
+      "foto": "col_rizada",
+      "unidad_chip": "mcg por 100 g, todos crudos"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Espinacas crudas",
+      "valor": "483 µg",
+      "foto": "espinacas",
+      "unidad_chip": "mcg por 100 g, todos crudos"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Acelgas crudas",
+      "valor": "830 µg",
+      "foto": "acelgas",
+      "unidad_chip": "mcg por 100 g, todos crudos"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Perejil fresco",
+      "valor": "1640 µg",
+      "foto": "perejil",
+      "unidad_chip": "mcg por 100 g, todos crudos",
+      "ganador": true
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "El perejil lleva unas {3 veces} la vitamina K de las espinacas",
+      "izq": {
+        "nombre": "Espinacas crudas",
+        "valor": "483 µg",
+        "foto": "espinacas"
+      },
+      "der": {
+        "nombre": "Perejil fresco",
+        "valor": "1640 µg",
+        "foto": "perejil"
+      },
+      "texto": "",
+      "ganador": "der"
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "perejil",
+      "etiqueta": "Guárdalo",
+      "frase": "Vitamina K por 100 g: {tres} verdes",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ],
+  "angular": true,
+  "produccion": {
+    "plan": "2026-10.desde-2026-10-13.parcial.json",
+    "fecha": "2026-10-15",
+    "hueco": 4,
+    "hora": "19:00",
+    "serie": "Vitaminas"
+  }
+}
