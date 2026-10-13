@@ -1,0 +1,351 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "📅 Los primeros 20 días están listos\n\n38 publicaciones, del jueves 15 de octubre al lunes 2 de noviembre: dos al día, a las 14:00 (carrusel) y a las 19:00 (reel o carrusel de conversación). Todas han pasado revisión de datos, legal y diseño, llevan fuentes, avisos y créditos de fotos, y salen solas a su hora aunque el ordenador esté apagado.\n\njue 15 14:00 🖼 La vitamina D no viene solo del sol\n       19:00 🎬 Por 100 g, el perejil lleva el 2187 % del valor de re…\nvie 16 14:00 🖼 ¿El desayuno es la comida más importante para adelgaz…\n       19:00 🖼 Cuatro duelos más: ¿quién lleva más?\nsáb 17 14:00 🖼 El mejillón cocido lleva unas 22 veces la B12 del hue…\n       19:00 🎬 La vitamina D no viene solo del sol\ndom 18 14:00 🖼 ¿Sabes leer una etiqueta? Cinco reglas de la UE\n       19:00 🎬 Chocolate negro: 12 mg de hierro\nlun 19 14:00 🖼 ¿La vitamina C te quita el resfriado?\n       19:00 🖼 ¿Un huevo al día es un problema para el corazón?\nmar 20 14:00 🖼 ¿Qué tiene más fibra por 100 g: garbanzo cocido, agua…\n       19:00 🎬 El mejillón cocido lleva unas 22 veces la B12 del hue…\nmié 21 14:00 🖼 ¿Zanahoria o hígado? Dónde hay más vitamina A por 100…\n       19:00 🖼 Cuatro duelos de despensa: ¿quién lleva más?\njue 22 14:00 🖼 ¿Cuánta grasa lleva el aguacate? Por 100 g\n       19:00 🎬 ¿Zanahoria o hígado? Dónde hay más vitamina A por 100…\nvie 23 14:00 🖼 Por 100 g, los cacahuetes crudos le ganan a las espin…\n       19:00 🖼 ¿Son «tóxicos» los aceites de semillas?\nsáb 24 14:00 🖼 ¿Dónde hay más zinc por 100 g: en la ternera picada o…\n       19:00 🎬 Por 100 g, los cacahuetes crudos le ganan a las espin…\ndom 25 14:00 🖼 Por 100 g, la vitamina E abunda en pipas, almendras y…\n       19:00 🖼 Otros cuatro duelos de despensa: ¿quién lleva más?\nlun 26 14:00 🖼 ¿El azúcar de la fruta fresca cuenta como azúcar libr…\n       19:00 🎬 Por 100 g, la vitamina E abunda en pipas, almendras y…\nmar 27 14:00 🖼 Por 100 g, los pistachos crudos llevan unas 5 veces l…\n       19:00 🖼 ¿Los ultraprocesados nos hacen comer más?\nmié 28 14:00 🖼 Grasa saturada por 100 g: de la mantequilla a las nue…\n       19:00 🎬 Por 100 g, los pistachos crudos llevan unas 5 veces l…\njue 29 14:00 🖼 Casi empatan en vitamina B3 por 100 g: pechuga de pol…\n       19:00 🖼 ¿Quién lleva más sodio: aceitunas negras o patatas de…\nvie 30 14:00 🖼 ¿Adelgaza más comer en una ventana horaria que contar…\n       19:00 🎬 Casi empatan en vitamina B3 por 100 g: pechuga de pol…\nsáb 31 14:00 🖼 Azúcares por 100 g: ¿cuánto llevan seis cosas de la d…\n       19:00 🎬 ¿Qué lleva más azúcar: el kétchup o el refresco de co…\ndom 1 14:00 🖼 La luz ultravioleta puede destruir la vitamina B2\n       19:00 🖼 La B5 va del hígado al aguacate\nlun 2 14:00 🖼 Por 100 g, las pipas de girasol llevan más vitamina B…\n       19:00 🎬 La B5 va del hígado al aguacate\n\n🖼 carrusel · 🎬 reel\nEstrategia, razones y lo que te toca a ti: https://claude.ai/artifact/WW6qCHuirure16Tyfm2azw\n\nLo de hoy (13:00, 16:00 y 19:00) sigue en su pregunta aparte.\n\n¿Las apruebo?",
+  "opciones": [
+    [
+      "todas",
+      "✅ Sí, aprobar las 38"
+    ],
+    [
+      "carruseles",
+      "🖼 Solo los 27 carruseles"
+    ],
+    [
+      "yo",
+      "👀 Las reviso una a una"
+    ]
+  ],
+  "caduca": "72h",
+  "cuenta": "n1",
+  "si_responde": {
+    "todas": [
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-02-d",
+        "hora": "2026-10-15T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-04-k",
+        "hora": "2026-10-15T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-m-01-desayuno",
+        "hora": "2026-10-16T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-03-duelos",
+        "hora": "2026-10-16T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-12-b12",
+        "hora": "2026-10-17T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-02-d",
+        "hora": "2026-10-17T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-e-01-etiqueta",
+        "hora": "2026-10-18T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-01-hierro",
+        "hora": "2026-10-18T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-05-c",
+        "hora": "2026-10-19T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-d-01-huevo",
+        "hora": "2026-10-19T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-11-fibra",
+        "hora": "2026-10-20T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-12-b12",
+        "hora": "2026-10-20T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-01-a",
+        "hora": "2026-10-21T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-01-duelos",
+        "hora": "2026-10-21T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-16-grasa-total",
+        "hora": "2026-10-22T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-01-a",
+        "hora": "2026-10-22T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-11-b9",
+        "hora": "2026-10-23T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-d-02-aceites",
+        "hora": "2026-10-23T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-12-zinc",
+        "hora": "2026-10-24T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-11-b9",
+        "hora": "2026-10-24T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-03-e",
+        "hora": "2026-10-25T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-02-duelos",
+        "hora": "2026-10-25T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-m-03-fruta",
+        "hora": "2026-10-26T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-03-e",
+        "hora": "2026-10-26T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-10-b6",
+        "hora": "2026-10-27T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-d-03-ultraprocesados",
+        "hora": "2026-10-27T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-13-grasa-saturada",
+        "hora": "2026-10-28T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-10-b6",
+        "hora": "2026-10-28T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-08-b3",
+        "hora": "2026-10-29T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-04-duelos",
+        "hora": "2026-10-29T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-m-04-ayuno",
+        "hora": "2026-10-30T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-08-b3",
+        "hora": "2026-10-30T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-15-halloween",
+        "hora": "2026-10-31T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-05-azucar",
+        "hora": "2026-10-31T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-07-b2",
+        "hora": "2026-11-01T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-09-b5",
+        "hora": "2026-11-01T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-06-b1",
+        "hora": "2026-11-02T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-r-09-b5",
+        "hora": "2026-11-02T19:00"
+      }
+    ],
+    "carruseles": [
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-02-d",
+        "hora": "2026-10-15T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-m-01-desayuno",
+        "hora": "2026-10-16T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-03-duelos",
+        "hora": "2026-10-16T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-12-b12",
+        "hora": "2026-10-17T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-e-01-etiqueta",
+        "hora": "2026-10-18T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-05-c",
+        "hora": "2026-10-19T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-d-01-huevo",
+        "hora": "2026-10-19T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-11-fibra",
+        "hora": "2026-10-20T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-01-a",
+        "hora": "2026-10-21T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-01-duelos",
+        "hora": "2026-10-21T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-16-grasa-total",
+        "hora": "2026-10-22T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-11-b9",
+        "hora": "2026-10-23T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-d-02-aceites",
+        "hora": "2026-10-23T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-12-zinc",
+        "hora": "2026-10-24T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-03-e",
+        "hora": "2026-10-25T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-02-duelos",
+        "hora": "2026-10-25T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-m-03-fruta",
+        "hora": "2026-10-26T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-10-b6",
+        "hora": "2026-10-27T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-d-03-ultraprocesados",
+        "hora": "2026-10-27T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-13-grasa-saturada",
+        "hora": "2026-10-28T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-08-b3",
+        "hora": "2026-10-29T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-q-04-duelos",
+        "hora": "2026-10-29T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-m-04-ayuno",
+        "hora": "2026-10-30T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-f-15-halloween",
+        "hora": "2026-10-31T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-07-b2",
+        "hora": "2026-11-01T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-09-b5",
+        "hora": "2026-11-01T19:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-v-06-b1",
+        "hora": "2026-11-02T14:00"
+      }
+    ]
+  }
+}
