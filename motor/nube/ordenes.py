@@ -18,6 +18,7 @@ Acciones (cada una se ejecuta una vez, con el mismo candado y la misma auditorí
 
 Orden que se ejecuta sola, sin pregunta (solo cambia texto de piezas que aún no han salido; no aprueba ni programa nada):
     {"tipo": "pies", "cuenta": "n1", "pies": {"n1-f-11-fibra": "texto del pie…"}, "texto": "nota opcional para el aviso a José"}
+    {"tipo": "reintentar", "cuenta": "n1", "piezas": {"n1-r-04-k": "2026-10-15T19:50"}}     # aprobadas que fallaron por un problema técnico (estado «error»)
 """
 from __future__ import annotations
 
@@ -80,6 +81,15 @@ def validar_orden(o: dict) -> None:
             if len(re.findall(r"#\w+", texto)) > 5:
                 raise ValueError(f"el pie de «{pid}» lleva más de 5 hashtags")
         return
+    if tipo == "reintentar":
+        piezas = o.get("piezas")
+        if not isinstance(piezas, dict) or not piezas:
+            raise ValueError("reintentar sin ninguna pieza")
+        for pid, hora in piezas.items():
+            if not str(pid).strip():
+                raise ValueError("reintentar con una pieza sin id")
+            _hora(hora)
+        return
     if tipo != "preguntar":
         raise ValueError(f"tipo de orden desconocido: {tipo!r}")
     if not str(o.get("pregunta") or "").strip():
@@ -118,6 +128,35 @@ def _cambiar_pies(hub, ad, nombre: str, o: dict, log) -> dict:
     return {"cambiados": cambiados, "fallos": fallos}
 
 
+def _reintentar(hub, ad, nombre: str, o: dict, log) -> dict:
+    """La orden «reintentar»: una pieza que José ya aprobó y que falló por un problema técnico (estado «error») vuelve a la cola a la hora que
+    se diga. No aprueba nada nuevo: solo repite lo aprobado. Cuenta a José qué se hizo."""
+    admin = hub.admin_id()
+    hechas, fallos = [], {}
+    for pid, hora in o["piezas"].items():
+        r = _fila(ad, str(pid))
+        if r is None:
+            fallos[str(pid)] = "no está en la cola"
+            continue
+        h = _hora(hora)
+        if h is not None and h.astimezone(timezone.utc) <= ad.ahora().astimezone(timezone.utc) + MINIMO_PROGRAMAR:
+            h = None                                               # la hora ya pasó: primer hueco libre
+        motivo = ad.reintentar(r["id"], admin, h, origen=f"nube:orden-{nombre}") if admin is not None else "sin administrador"
+        if motivo:
+            fallos[str(pid)] = motivo
+        else:
+            hechas.append(str(pid))
+    L = []
+    if hechas:
+        L.append("🔁 " + plural(len(hechas), "publicación aprobada vuelve", "publicaciones aprobadas vuelven") + " a la cola tras un fallo técnico (faltaba ffmpeg en la nube): "
+                 + ", ".join(f"{p} → {ad.resumen_decision(_fila(ad, p)['id']).strip()}" for p in hechas))
+    if fallos:
+        L.append("⚠️ No se pudo reintentar: " + "; ".join(f"{p} ({corto(m, 80)})" for p, m in fallos.items()))
+    hub.crear_aviso("\n".join(L) or "Nada que reintentar.", "info", f"reintentar-{nombre}"[:60], o.get("cuenta") or "n1", None)
+    log(f"orden {nombre}: reintentadas {len(hechas)}, fallos {len(fallos)}")
+    return {"reintentadas": hechas, "fallos": fallos}
+
+
 def procesar_ordenes(hub, carpeta: Path, log=print, ad=None) -> int:
     """Ejecuta las órdenes de `carpeta` que aún no se han hecho. Devuelve cuántas ejecutó. `ad` es el adaptador de la cuenta: sin él, las
     órdenes que tocan piezas (`pies`) se dejan para otra pasada."""
@@ -144,6 +183,10 @@ def procesar_ordenes(hub, carpeta: Path, log=print, ad=None) -> int:
             cada = _duracion(o["cada"]) if o.get("cada") else None
             hub.crear_aviso(o["texto"], o.get("nivel", "info"), o.get("clave"), cuenta, cada)
             hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        elif o["tipo"] == "reintentar":
+            if ad is None:
+                continue
+            hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), **_reintentar(hub, ad, nombre, o, log)}
         elif o["tipo"] == "pies":
             if ad is None:
                 continue                                           # sin adaptador no se puede: se queda para la siguiente pasada
