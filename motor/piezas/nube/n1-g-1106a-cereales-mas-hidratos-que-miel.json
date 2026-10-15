@@ -1,0 +1,83 @@
+{
+  "id": "n1-g-1106a-cereales-mas-hidratos-que-miel",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-084"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-06",
+    "hueco": 1
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "blanco",
+      "titulo": "Un cereal azucarado: más {hidratos} que la miel",
+      "unidad": "g de hidratos totales por 100 g · una selección",
+      "paso": 15,
+      "filas": [
+        {
+          "nombre": "Cereales azucarados",
+          "valor": "90,2 g",
+          "foto": "cereales_azucarados"
+        },
+        {
+          "nombre": "Copos de maíz",
+          "valor": "88,0 g",
+          "foto": "copos_maiz"
+        },
+        {
+          "nombre": "Miel",
+          "valor": "82,4 g",
+          "foto": "miel"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "47,9 g",
+          "foto": "donut"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "45,8 g",
+          "foto": "croissant"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Más que la miel",
+      "titular": "Copos de maíz: {88,0 g} de hidratos",
+      "texto": "La miel: 82,4 g. Por cada 100 g.",
+      "foto": "copos_maiz"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Y la bollería",
+      "titular": "El donut se queda {atrás}",
+      "texto": "Donut glaseado: 47,9 g. Cruasán de mantequilla: 45,8 g. Hidratos por cada 100 g.",
+      "foto": "donut"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Enséñaselo a quien cuenta {hidratos} en el desayuno",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Un cereal azucarado y los copos de maíz: más hidratos que la miel 🍯\n\nHidratos por cada 100 g: un cereal de desayuno azucarado 90,2 g, copos de maíz 88,0 g y miel 82,4 g 🥣\nMás abajo, donut glaseado 47,9 g y cruasán de mantequilla 45,8 g 🥐\nEs una selección, y los hidratos incluyen los azúcares y la fibra.\n\nEs composición por 100 g, no una recomendación de comer o evitar nada. Con diabetes, consulta tus cantidades con tu médico.\n\nPara la próxima caja de cereales: cada marca es distinta, mira la tabla de la tuya.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#lowcarb #hidratos #desayuno #ranking #dieta",
+  "alt": [
+    "Un cereal azucarado: más hidratos que la miel. g de hidratos totales por 100 g · una selección: Cereales azucarados 90,2 g; Copos de maíz 88,0 g; Miel 82,4 g; Donut glaseado 47,9 g; Cruasán de mantequilla 45,8 g.",
+    "Más que la miel. Copos de maíz: 88,0 g de hidratos. La miel: 82,4 g. Por cada 100 g.",
+    "Y la bollería. El donut se queda atrás. Donut glaseado: 47,9 g. Cruasán de mantequilla: 45,8 g. Hidratos por cada 100 g.",
+    "Enséñaselo a quien cuenta hidratos en el desayuno. Aviso de contenido divulgativo."
+  ]
+}

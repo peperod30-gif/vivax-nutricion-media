@@ -1,0 +1,77 @@
+{
+  "id": "n1-g-1031c-desayuno-salado-cambios",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-134",
+    "ALI-074"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-31",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Desayuno salado",
+      "titular": "Huevo cocido: {menos} grasa saturada que el bacon frito",
+      "texto": "Por cada 100 g: 3,3 g frente a 12,0 g.",
+      "foto": "huevo_duro"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes comías",
+        "nombre": "Bacon frito",
+        "foto": "bacon",
+        "valor": "468 kcal",
+        "texto": "y 12,0 g de grasa saturada por 100 g"
+      },
+      "der": {
+        "etiqueta": "Otra opción",
+        "nombre": "Huevo cocido",
+        "foto": "huevo_duro",
+        "valor": "155 kcal",
+        "texto": "y 3,3 g de grasa saturada por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes untabas",
+        "nombre": "Mantequilla",
+        "foto": "mantequilla",
+        "valor": "81,1 g",
+        "texto": "de grasa total por 100 g"
+      },
+      "der": {
+        "etiqueta": "Otra opción para untar",
+        "nombre": "Aguacate",
+        "foto": "aguacate",
+        "valor": "14,7 g",
+        "texto": "de grasa total por 100 g"
+      }
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Reenvíalo a quien desayuna {bacon y mantequilla}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Bacon frito o huevo cocido: la grasa saturada por 100 g no es la misma 🍳\n\nBacon frito: 468 kcal y 12,0 g de grasa saturada por 100 g 🥓\nHuevo cocido: 155 kcal y 3,3 g de grasa saturada por 100 g 🥚\nMantequilla: 81,1 g de grasa total por 100 g. Aguacate: 14,7 g 🥑\n\nEs composición por 100 g, no una recomendación. Con diabetes, medicación o embarazo, consulta con tu médico antes de cambiar la dieta.\n\nTen las cifras a mano para el próximo desayuno salado.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#dieta #desayuno #huevo #cambios #lowcarb",
+  "alt": [
+    "Desayuno salado. Huevo cocido: menos grasa saturada que el bacon frito. Por cada 100 g: 3,3 g frente a 12,0 g.",
+    "Bacon frito, 468 kcal y 12,0 g de grasa saturada por 100 g, frente a Huevo cocido, 155 kcal y 3,3 g de grasa saturada por 100 g.",
+    "Mantequilla, 81,1 g de grasa total por 100 g, frente a Aguacate, 14,7 g de grasa total por 100 g.",
+    "Reenvíalo a quien desayuna bacon y mantequilla. Aviso de contenido divulgativo."
+  ]
+}

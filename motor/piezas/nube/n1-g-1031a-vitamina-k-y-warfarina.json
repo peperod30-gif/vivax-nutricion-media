@@ -1,0 +1,81 @@
+{
+  "id": "n1-g-1031a-vitamina-k-y-warfarina",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "VIT-014",
+    "VIT-016"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-31",
+    "hueco": 1,
+    "revision_jose": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "oliva",
+      "titulo": "La vitamina K vive en lo {verde}",
+      "unidad": "µg de vitamina K por 100 g · una selección",
+      "paso": 250,
+      "leyenda": "cada círculo = 250 µg, redondeado; como mínimo, uno",
+      "filas": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "1640 µg",
+          "foto": "perejil"
+        },
+        {
+          "nombre": "Acelgas crudas",
+          "valor": "830 µg",
+          "foto": "acelgas"
+        },
+        {
+          "nombre": "Coles de Bruselas crudas",
+          "valor": "177 µg",
+          "foto": "coles_bruselas"
+        },
+        {
+          "nombre": "Brócoli crudo",
+          "valor": "102 µg",
+          "foto": "brocoli"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "El que gana",
+      "titular": "Perejil fresco: {1640 microgramos}",
+      "texto": "De vitamina K, por cada 100 g. Es mucho más de lo que se come de perejil de una vez.",
+      "foto": "perejil"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Si tomas warfarina",
+      "titular": "Las verduras verdes pueden cambiar cómo actúa la {warfarina}",
+      "texto": "Según el NHS del Reino Unido, habla con tu médico antes de hacer grandes cambios en la dieta.",
+      "foto": "brocoli"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Reenvíalo a quien toma {warfarina}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "El perejil gana en vitamina K entre estas verduras, y si tomas warfarina conviene saberlo 🥬\n\nVitamina K por cada 100 g: perejil fresco 1640 µg, acelgas crudas 830 µg, coles de Bruselas crudas 177 µg y brócoli crudo 102 µg 🥦\nEs una selección: también están arriba las espinacas crudas, 483 µg, y la col rizada cruda, 390 µg 🌿\nSegún el NHS del Reino Unido, la vitamina K de las verduras de hoja verde puede afectar a cómo actúa la warfarina 🩺\n\nSi tomas warfarina, habla con tu médico antes de hacer grandes cambios en la dieta. Es composición por 100 g, no una recomendación de comer o evitar nada.\n\n¿Cuál de estas verduras comes más a menudo?\nReenvíalo a quien toma warfarina.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #vitaminak #verduras #ranking #salud",
+  "alt": [
+    "La vitamina K vive en lo verde. µg de vitamina K por 100 g · una selección: Perejil fresco 1640 µg; Acelgas crudas 830 µg; Coles de Bruselas crudas 177 µg; Brócoli crudo 102 µg.",
+    "El que gana. Perejil fresco: 1640 microgramos. De vitamina K, por cada 100 g. Es mucho más de lo que se come de perejil de una vez.",
+    "Si tomas warfarina. Las verduras verdes pueden cambiar cómo actúa la warfarina. Según el NHS del Reino Unido, habla con tu médico antes de hacer grandes cambios en la dieta.",
+    "Reenvíalo a quien toma warfarina. Aviso de contenido divulgativo."
+  ]
+}

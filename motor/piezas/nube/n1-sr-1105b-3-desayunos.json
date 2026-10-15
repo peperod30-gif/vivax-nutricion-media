@@ -1,0 +1,76 @@
+{
+  "id": "n1-sr-1105b-3-desayunos",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1102c-3-desayunos-sin-cereales",
+  "molde": "menu",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-100"
+  ],
+  "pie_instagram": "Tres desayunos para no repetir siempre el mismo 🍳\n\nLunes: tortilla francesa con tomate cherry y perejil 🥚\nMiércoles: tortitas con fruta por encima 🍓\nViernes: batido verde de kiwi para el día con prisa 🥝\n\nSon ideas de desayuno, no una pauta de alimentación personal. Con diabetes, medicación o embarazo, consulta antes con tu médico.\n\n¿Cuál de los tres desayunarías mañana?\nPásaselo a quien se queda sin ideas para desayunar.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#desayunosaludable #recetasfaciles #menusemanal #dieta #desayuno",
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Menú",
+      "titular": "Tres desayunos sin {cereales azucarados}",
+      "texto": "Tortilla, tortitas y batido.",
+      "foto": "plato_tortilla_francesa"
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_tortilla_francesa",
+      "dia": "Lunes",
+      "titulo": "Tortilla francesa",
+      "texto": "Huevo, tomate cherry y perejil."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_tortitas",
+      "foco": [
+        50,
+        20
+      ],
+      "zoom": 1.5,
+      "dia": "Miércoles",
+      "titulo": "Tortitas con fruta",
+      "texto": "La fruta, por encima."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_batido_fruta",
+      "dia": "Viernes",
+      "titulo": "Batido verde de kiwi",
+      "texto": "Para el día con prisa."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Pásaselo a quien desayuna siempre {lo mismo}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "alt": [
+    "Menú. Tres desayunos sin cereales azucarados. Tortilla, tortitas y batido.",
+    "Lunes: Tortilla francesa. Huevo, tomate cherry y perejil.",
+    "Miércoles: Tortitas con fruta. La fruta, por encima.",
+    "Viernes: Batido verde de kiwi. Para el día con prisa.",
+    "Pásaselo a quien desayuna siempre lo mismo. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-05",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "menu"
+  },
+  "produccion_video": {
+    "duracion_s": 9.1,
+    "tamano_mb": 2.54
+  }
+}

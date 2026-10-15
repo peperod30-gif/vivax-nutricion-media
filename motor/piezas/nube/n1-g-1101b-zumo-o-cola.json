@@ -1,0 +1,107 @@
+{
+  "id": "n1-g-1101b-zumo-o-cola",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-080"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-01",
+    "hueco": 2
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "¿Qué tiene más {calorías}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Zumo de naranja",
+          "foto": "zumo_naranja",
+          "valor": "45 kcal"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "foto": "refresco_cola",
+          "foco": [
+            62,
+            45
+          ],
+          "zoom": 1.25,
+          "valor": "42 kcal"
+        },
+        {
+          "nombre": "Bebida de soja natural",
+          "foto": "bebida_soja",
+          "valor": "41 kcal"
+        }
+      ],
+      "texto": "Por cada 100 g. Haz tu elección y desliza."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "Gana el {zumo}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Zumo de naranja",
+          "foto": "zumo_naranja",
+          "valor": "45 kcal"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "foto": "refresco_cola",
+          "foco": [
+            62,
+            45
+          ],
+          "zoom": 1.25,
+          "valor": "42 kcal"
+        },
+        {
+          "nombre": "Bebida de soja natural",
+          "foto": "bebida_soja",
+          "valor": "41 kcal"
+        }
+      ],
+      "texto": "Kilocalorías por cada 100 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "titular": "El zumo no es la opción {ligera}",
+      "texto": "Zumo de naranja sin añadidos: 45 kcal. Refresco de cola: 42 kcal. Casi lo mismo, por cada 100 g.",
+      "foto": "zumo_naranja"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "De regalo",
+      "titular": "Cerveza: 43 kcal. Vino tinto: {85 kcal}",
+      "texto": "Por cada 100 g, cerveza normal y vino tinto de mesa. Composición, no una invitación.",
+      "foto": "vino_tinto"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Compártelo con quien pide {zumo} para cuidarse",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "¿Qué tiene más calorías: el zumo de naranja, el refresco de cola o la bebida de soja? Elige antes de pasar de hoja 🍊\n\nTres bebidas de todos los días, por cada 100 g de cada una 🥤\nLa segunda hoja dice quién gana y la cuarta suma cerveza y vino 🍷\n\nEs composición por 100 g de una selección de bebidas, no una recomendación ni una invitación a beber. Con diabetes, medicación o embarazo, consulta con tu médico.\n\nPara la próxima vez que pidas zumo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#alimentacionsaludable #azucar #bebidas #quiz #zumodenaranja",
+  "alt": [
+    "¿Qué tiene más calorías? Opciones: Zumo de naranja, Refresco de cola, Bebida de soja natural. Por cada 100 g. Haz tu elección y desliza.",
+    "Gana el zumo Opciones: Zumo de naranja 45 kcal, Refresco de cola 42 kcal, Bebida de soja natural 41 kcal. Kilocalorías por cada 100 g.",
+    "El zumo no es la opción ligera. Zumo de naranja sin añadidos: 45 kcal. Refresco de cola: 42 kcal. Casi lo mismo, por cada 100 g.",
+    "De regalo. Cerveza: 43 kcal. Vino tinto: 85 kcal. Por cada 100 g, cerveza normal y vino tinto de mesa. Composición, no una invitación.",
+    "Compártelo con quien pide zumo para cuidarse. Aviso de contenido divulgativo."
+  ]
+}

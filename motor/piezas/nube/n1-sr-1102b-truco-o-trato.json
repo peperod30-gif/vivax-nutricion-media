@@ -1,0 +1,107 @@
+{
+  "id": "n1-sr-1102b-truco-o-trato",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1031b-truco-o-trato-azucar",
+  "molde": "eleccion",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-086",
+    "AZU-002"
+  ],
+  "pie_instagram": "Truco o trato: ¿qué lleva más azúcar, un donut, un cruasán o unos cereales? 🎃\n\nPor cada 100 g de cada uno: donut glaseado, cruasán de mantequilla y cereales de desayuno azucarados 🍩\nAdivina cuántos gramos de azúcar lleva el que más, antes de ir a la segunda hoja 🥐\nY al final, una lata de refresco 🥤\n\nEs composición por 100 g de una selección, no una recomendación. La OMS dice que una lata de refresco azucarado puede llevar hasta 40 g de azúcares libres: es un máximo, no una media. Con diabetes, medicación o embarazo, consulta con tu médico.\n\nDéjame aquí abajo el número que habías puesto.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #azucar #desayuno #quiz #halloween",
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Truco o trato: ¿qué lleva más {azúcar}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Donut glaseado",
+          "foto": "donut",
+          "valor": "22,8 g"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "foto": "croissant",
+          "valor": "11,3 g"
+        },
+        {
+          "nombre": "Cereales azucarados",
+          "foto": "cereales_azucarados",
+          "valor": "39,3 g"
+        }
+      ],
+      "texto": "Por cada 100 g. Di el número en comentarios."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "blanco",
+      "titulo": "Ganan los cereales {azucarados}",
+      "ganador": 2,
+      "opciones": [
+        {
+          "nombre": "Donut glaseado",
+          "foto": "donut",
+          "valor": "22,8 g"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "foto": "croissant",
+          "valor": "11,3 g"
+        },
+        {
+          "nombre": "Cereales azucarados",
+          "foto": "cereales_azucarados",
+          "valor": "39,3 g"
+        }
+      ],
+      "texto": "Gramos de azúcares por cada 100 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "A igual peso",
+      "titular": "Los cereales azucarados llevan más {azúcar} que el donut",
+      "texto": "Según USDA: 39,3 g de azúcares por 100 g, frente a 22,8 g del donut.",
+      "foto": "cereales_azucarados"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Y para beber",
+      "titular": "Una lata de refresco azucarado: hasta unas {10 cucharaditas}",
+      "texto": "Hasta 40 g de azúcares libres, según la OMS. Es un máximo: depende de la lata.",
+      "foto": "lata_refresco"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Pásaselo a quien desayuna cereales {azucarados}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "alt": [
+    "Truco o trato: ¿qué lleva más azúcar? Opciones: Donut glaseado, Cruasán de mantequilla, Cereales azucarados. Por cada 100 g. Di el número en comentarios.",
+    "Ganan los cereales azucarados Opciones: Donut glaseado 22,8 g, Cruasán de mantequilla 11,3 g, Cereales azucarados 39,3 g. Gramos de azúcares por cada 100 g.",
+    "A igual peso. Los cereales azucarados llevan más azúcar que el donut. Según USDA: 39,3 g de azúcares por 100 g, frente a 22,8 g del donut.",
+    "Y para beber. Una lata de refresco azucarado: hasta unas 10 cucharaditas. Hasta 40 g de azúcares libres, según la OMS. Es un máximo: depende de la lata.",
+    "Pásaselo a quien desayuna cereales azucarados. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-02",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "eleccion"
+  },
+  "produccion_video": {
+    "duracion_s": 15.53,
+    "tamano_mb": 3.73
+  }
+}

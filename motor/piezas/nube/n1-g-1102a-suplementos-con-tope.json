@@ -1,0 +1,75 @@
+{
+  "id": "n1-g-1102a-suplementos-con-tope",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "lista",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-040",
+    "VIT-008",
+    "VIT-032",
+    "VIT-052"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-02",
+    "hueco": 1,
+    "revision_jose": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Suplementos",
+      "titular": "4 suplementos con {aviso}",
+      "texto": "Qué puede pasar con cada uno. Desliza.",
+      "foto": "capsulas"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Vitamina B6",
+      "titular": "Tope diario: {10 mg}",
+      "texto": "Según el NHS británico: en suplementos, salvo indicación médica. Desde 200 mg al día puede haber pérdida de sensibilidad en brazos y piernas."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Vitamina D",
+      "titular": "Demasiado suplemento, demasiado {calcio}",
+      "texto": "Demasiada vitamina D en suplementos, durante mucho tiempo, puede acumular calcio, debilitar los huesos y dañar riñones y corazón."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Niacina",
+      "titular": "Dosis altas: rubor y {hígado}",
+      "texto": "Los suplementos de ácido nicotínico (una forma de niacina) pueden causar rubor en la piel y, tomados mucho tiempo, daño en el hígado."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Biotina",
+      "titular": "Ojo con los {análisis}",
+      "texto": "En suplementos, puede alterar algunas pruebas de laboratorio, también las de tiroides."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien toma {pastillas} por su cuenta",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Hay cuatro suplementos con aviso 💊\n\nVitamina B6: el NHS pide no pasar de 10 mg al día en suplementos, salvo indicación médica 🩺\nVitamina D: demasiados suplementos durante mucho tiempo pueden acumular calcio ☀️\nNiacina: las dosis altas de ácido nicotínico pueden causar rubor en la piel y, a la larga, daño en el hígado 🥵\nBiotina: en un estudio preliminar con 6 adultos, 10 mg al día alteró algunas pruebas de laboratorio, también las de tiroides 🩸\n\nLos avisos de B6, D y niacina son del NHS británico; el de la biotina, de un estudio preliminar. No es una pauta personal. Si tomas suplementos o medicación, o estás embarazada, pregunta antes a tu médico o en la farmacia.\n\n¿Cuál de los cuatro no esperabas?\nMándaselo a quien toma pastillas por su cuenta.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #suplementos #vitaminas #salud #vitaminad",
+  "alt": [
+    "Suplementos. 4 suplementos con aviso. Qué puede pasar con cada uno. Desliza.",
+    "Vitamina B6. Tope diario: 10 mg. Según el NHS británico: en suplementos, salvo indicación médica. Desde 200 mg al día puede haber pérdida de sensibilidad en brazos y piernas.",
+    "Vitamina D. Demasiado suplemento, demasiado calcio. Demasiada vitamina D en suplementos, durante mucho tiempo, puede acumular calcio, debilitar los huesos y dañar riñones y corazón.",
+    "Niacina. Dosis altas: rubor y hígado. Los suplementos de ácido nicotínico (una forma de niacina) pueden causar rubor en la piel y, tomados mucho tiempo, daño en el hígado.",
+    "Biotina. Ojo con los análisis. En suplementos, puede alterar algunas pruebas de laboratorio, también las de tiroides.",
+    "Mándaselo a quien toma pastillas por su cuenta. Aviso de contenido divulgativo."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "n1-sr-1106b-si-dejas-la-leche",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1104c-si-dejas-la-leche",
+  "molde": "cambio",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-032",
+    "ALI-122"
+  ],
+  "pie_instagram": "Si dejas la leche, mira cuánto calcio hay en el tofu firme con sulfato de calcio: 683 mg por cada 100 g 🥛\n\nCalcio por 100 g: leche entera, 113 mg. Tofu firme, 683 mg 🥛\nBebida de soja natural: 41 kcal y 2,9 g de proteína. Leche entera: 61 kcal y 3,2 g 🌱\nEl tofu de la cifra es el crudo, preparado con sulfato de calcio 🥢\n\nEs composición por 100 g, no lo que se absorbe ni una recomendación. Con diabetes, medicación, embarazo o en niños y adolescentes, consulta con tu médico antes de cambiar la dieta.\n\n¿Qué tomas tú en lugar de leche?\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#alimentacionsaludable #calcio #proteina #cambios #sinlacteos",
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Sin lácteos",
+      "titular": "¿Sin leche? Mira el {calcio}",
+      "texto": "Tofu: su calcio. Bebida de soja: sus calorías y su proteína. Por cada 100 g.",
+      "foto": "tofu2"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes tomabas",
+        "nombre": "Leche entera",
+        "foto": "leche",
+        "foco": [
+          36,
+          20
+        ],
+        "valor": "113 mg",
+        "texto": "de calcio por 100 g"
+      },
+      "der": {
+        "etiqueta": "Otra opción",
+        "nombre": "Tofu firme",
+        "foto": "tofu2",
+        "valor": "683 mg",
+        "texto": "de calcio por 100 g de tofu crudo con sulfato de calcio"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes tomabas",
+        "nombre": "Leche entera",
+        "foto": "leche",
+        "foco": [
+          36,
+          20
+        ],
+        "valor": "61 kcal",
+        "texto": "y 3,2 g de proteína por 100 g"
+      },
+      "der": {
+        "etiqueta": "Otra opción",
+        "nombre": "Bebida de soja natural",
+        "foto": "bebida_soja",
+        "valor": "41 kcal",
+        "texto": "y 2,9 g de proteína por 100 g"
+      }
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Llévaselo a quien no toma {lácteos}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación, embarazo o en niños y adolescentes, consulta con tu médico."
+    }
+  ],
+  "alt": [
+    "Sin lácteos. ¿Sin leche? Mira el calcio. Tofu: su calcio. Bebida de soja: sus calorías y su proteína. Por cada 100 g.",
+    "Leche entera, 113 mg de calcio por 100 g, frente a Tofu firme, 683 mg de calcio por 100 g de tofu crudo con sulfato de calcio.",
+    "Leche entera, 61 kcal y 3,2 g de proteína por 100 g, frente a Bebida de soja natural, 41 kcal y 2,9 g de proteína por 100 g.",
+    "Llévaselo a quien no toma lácteos. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-06",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "cambio"
+  },
+  "produccion_video": {
+    "duracion_s": 10.44,
+    "tamano_mb": 2.16
+  }
+}
