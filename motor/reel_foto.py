@@ -720,7 +720,7 @@ def controlar_reel(guion: dict, registro: dict | None = None) -> list[tuple[str,
     import controles as C
     salida: list = []
     pieza = {"id": guion["id"], "cuenta": guion["cuenta"], "formato": "video", "hechos": guion["hechos"], "pie_instagram": guion["pie_instagram"],
-             "hojas": hojas_de_texto(guion), "estilo": "viral"}
+             "hojas": hojas_de_texto(guion), "estilo": "viral", "direccion": guion.get("direccion")}
     try:
         banco = C.cargar_banco(guion["cuenta"])
     except Exception as exc:                                                    # sin banco legible no se da nada por bueno

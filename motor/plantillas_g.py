@@ -333,9 +333,11 @@ def g_cierre(h: dict, ctx: dict) -> str:
             cx = 64 + d / 2 + k * (d + 34)
             p.append(_circulo(x["foto"], cx, 800, d, x.get("foco"), f"6px {'#fff' if fondo == 'negro' else '#000'}", x.get("zoom")))
     p.append(_subrayado(r, 66, 940, 300, c_ac, 9))
-    fu = "<br>".join(D.e(x) for x in h["fuentes"])
-    et = "Fuente." if len(h["fuentes"]) == 1 else "Fuentes."
-    p.append(f'<div class="gc" data-fit="18,26" style="left:64px;top:966px;width:952px;height:66px;color:{c_txt};font-weight:500"><span><b style="font-weight:800">{et}</b> {fu}</span></div>')
+    fuentes = [x for x in (h.get("fuentes") or []) if str(x).strip()]      # 15-oct: José pide no poner las fuentes en las publicaciones; son opcionales
+    if fuentes:
+        fu = "<br>".join(D.e(x) for x in fuentes)
+        et = "Fuente." if len(fuentes) == 1 else "Fuentes."
+        p.append(f'<div class="gc" data-fit="18,26" style="left:64px;top:966px;width:952px;height:66px;color:{c_txt};font-weight:500"><span><b style="font-weight:800">{et}</b> {fu}</span></div>')
     if h.get("creditos"):
         p.append(f'<div class="gc" data-fit="15,22" style="left:64px;top:1040px;width:952px;height:150px;color:{c_txt};font-weight:500;opacity:.9"><span>{D.e(h["creditos"])}</span></div>')
     p.append(f'<div class="gc" data-fit="20,27" style="left:64px;top:1200px;width:952px;height:66px;color:{c_txt};font-weight:700"><span>{D.e(h["aviso"])}</span></div>')

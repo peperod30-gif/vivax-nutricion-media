@@ -18,6 +18,7 @@ Acciones (cada una se ejecuta una vez, con el mismo candado y la misma auditorí
 
 Orden que se ejecuta sola, sin pregunta (solo cambia texto de piezas que aún no han salido; no aprueba ni programa nada):
     {"tipo": "pies", "cuenta": "n1", "pies": {"n1-f-11-fibra": "texto del pie…"}, "texto": "nota opcional para el aviso a José"}
+    {"tipo": "reentregar", "cuenta": "n1", "piezas": ["n1-g-01-cambios"]}           # pendientes que vuelven a mandarse enteras a Telegram
     {"tipo": "reintentar", "cuenta": "n1", "piezas": {"n1-r-04-k": "2026-10-15T19:50"}}     # aprobadas que fallaron por un problema técnico (estado «error»)
 """
 from __future__ import annotations
@@ -80,6 +81,23 @@ def validar_orden(o: dict) -> None:
                 raise ValueError(f"el pie de «{pid}» tiene {len(texto)} caracteres (el máximo de Instagram es 2200)")
             if len(re.findall(r"#\w+", texto)) > 5:
                 raise ValueError(f"el pie de «{pid}» lleva más de 5 hashtags")
+        return
+    if tipo == "acciones":
+        lista = o.get("lista")
+        if not isinstance(lista, list) or not lista:
+            raise ValueError("acciones sin ninguna acción")
+        for a in lista:
+            if a.get("accion") not in ACCIONES:
+                raise ValueError(f"acción desconocida: {a.get('accion')!r}")
+            if not a.get("pieza_id"):
+                raise ValueError("una acción no dice la pieza")
+            if a["accion"] == "cambiar_hora" and not a.get("hora"):
+                raise ValueError("cambiar_hora necesita hora")
+            _hora(a.get("hora"))
+        return
+    if tipo == "reentregar":
+        if not isinstance(o.get("piezas"), list) or not o["piezas"]:
+            raise ValueError("reentregar sin ninguna pieza")
         return
     if tipo == "reintentar":
         piezas = o.get("piezas")
@@ -157,6 +175,36 @@ def _reintentar(hub, ad, nombre: str, o: dict, log) -> dict:
     return {"reintentadas": hechas, "fallos": fallos}
 
 
+def _acciones(hub, ad, nombre: str, o: dict, log) -> dict:
+    """La orden «acciones»: las mismas acciones que una decisión (aprobar, quitar, cambiar_hora, rechazar) pero que se hacen sin pregunta.
+    Solo existe porque José lo autorizó por escrito (15-oct-2026, «aprueba en automático los cambios que consideres precisos»); la orden
+    lleva `autoriza` con quién y cuándo. Cuenta a José qué se hizo."""
+    admin = hub.admin_id()
+    lista = o["lista"]
+    if admin is None:
+        return {"fallos": ["sin administrador"]}
+    lineas = [_hacer(ad, a, admin, f"nube:acciones-{nombre}") for a in lista]
+    texto = _resumen(nombre, ad, lista, lineas)
+    nota = str(o.get("texto") or "").strip()
+    hub.crear_aviso((nota + "\n" if nota else "") + texto, "info", f"acciones-{nombre}"[:60], o.get("cuenta") or "n1", None)
+    malas = [l for l in lineas if l.startswith("⚠️")]
+    log(f"orden {nombre}: {len(lista)} acciones, {len(malas)} sin hacer")
+    return {"acciones": len(lista), "fallos": [l[:160] for l in malas]}
+
+
+def _reentregar(ad, o: dict, log) -> dict:
+    """La orden «reentregar»: las piezas pendientes vuelven a la lista de por entregar, y el router las manda otra vez a Telegram entera
+    (álbum, pie y botones). Solo toca pendientes."""
+    hechas = []
+    for pid in o["piezas"]:
+        cur = ad.db.execute("UPDATE piezas SET entregada=0 WHERE pieza_id=? AND estado='pendiente'", (str(pid),))
+        if cur.rowcount:
+            hechas.append(str(pid))
+    ad.db.commit()
+    log(f"orden reentregar: {len(hechas)} piezas")
+    return {"reentregadas": hechas}
+
+
 def procesar_ordenes(hub, carpeta: Path, log=print, ad=None) -> int:
     """Ejecuta las órdenes de `carpeta` que aún no se han hecho. Devuelve cuántas ejecutó. `ad` es el adaptador de la cuenta: sin él, las
     órdenes que tocan piezas (`pies`) se dejan para otra pasada."""
@@ -183,6 +231,14 @@ def procesar_ordenes(hub, carpeta: Path, log=print, ad=None) -> int:
             cada = _duracion(o["cada"]) if o.get("cada") else None
             hub.crear_aviso(o["texto"], o.get("nivel", "info"), o.get("clave"), cuenta, cada)
             hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        elif o["tipo"] == "acciones":
+            if ad is None:
+                continue
+            hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), **_acciones(hub, ad, nombre, o, log)}
+        elif o["tipo"] == "reentregar":
+            if ad is None:
+                continue
+            hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), **_reentregar(ad, o, log)}
         elif o["tipo"] == "reintentar":
             if ad is None:
                 continue

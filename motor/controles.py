@@ -271,8 +271,8 @@ def c_estructura(pieza: dict, salida: list) -> None:
     if not 150 <= len(cuerpo) <= 1200:
         salida.append((AVISO, "estructura", f"el pie mide {len(cuerpo)} caracteres (rango previsto: 150 a 1200)"))
     emojis = re.findall("[\U0001F000-\U0001FAFF☀-➿⬀-⯿]", pie)
-    if len(emojis) > 1:
-        salida.append((FALLO, "estructura", f"{len(emojis)} emojis en el pie: como mucho uno"))
+    if len(emojis) > 6:                                     # 15-oct: José pide pies dinámicos con emojis (antes, como mucho uno)
+        salida.append((FALLO, "estructura", f"{len(emojis)} emojis en el pie: como mucho seis"))
     etiquetas = re.findall(r"#\w+", pie)
     if len(etiquetas) > 5:                                  # Instagram admite 5 por pie desde dic-2025 (router/instagram.py: MAX_HASHTAGS)
         salida.append((FALLO, "estructura", f"{len(etiquetas)} etiquetas: como mucho 5"))
@@ -417,13 +417,13 @@ def c_descargo(pieza: dict, salida: list) -> None:
             salida.append((FALLO, "descargo", "el pie de la imagen única no lleva «no es consejo personal ni sustituye…»"))
         # las fuentes ya no hacen falta en el pie (13/15-oct: José las quita) si la propia pieza las lleva en su última hoja o escena
         en_pieza = any(("fuente" in x or "fuentes" in x) for x in (ultima, (pieza.get("escenas") or [{}])[-1]) if isinstance(x, dict))
-        if "fuente" not in pie and not en_pieza:
+        if "fuente" not in pie and not en_pieza and pieza.get("direccion") != "g":
             salida.append((FALLO, "descargo", "ni el pie ni la última hoja o escena de la pieza listan las fuentes"))
         return
     aviso = (ultima.get("aviso") or "").lower()
     if "consejo personal" not in aviso or "sustituye" not in aviso or not re.search(r"\bno es consejo\b", aviso) or not re.search(r"\bni sustituye\b|\bno sustituye\b", aviso):
         salida.append((FALLO, "descargo", "la última hoja no lleva el aviso «no es consejo personal ni sustituye…»"))
-    if not ultima.get("fuentes"):
+    if not ultima.get("fuentes") and pieza.get("direccion") != "g":      # las piezas G no llevan fuentes a la vista (decisión de José, 15-oct)
         salida.append((FALLO, "descargo", "la última hoja no lista las fuentes"))
     for i, h in enumerate(pieza["hojas"], 1):
         if h["plantilla"] in ("portada", "cierre"):

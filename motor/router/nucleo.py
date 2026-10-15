@@ -21,6 +21,7 @@ clase `Decisiones` las entrega, las cierra y guarda lo que José escribe libreme
 """
 from __future__ import annotations
 
+import os
 import json
 import re
 import sqlite3
@@ -1370,7 +1371,10 @@ class Router:
             if getattr(ad, "anfitrion", False) or not self.hub.cuenta(codigo):
                 continue
             nuevas = ad.por_entregar()
-            if self.panel.disponible() and self.panel.cuenta() and self.panel.cuenta()[0] == codigo and nuevas:
+            # 15-oct: José quiere que cada publicación le llegue entera (álbum, pie completo y botones) para validarla una a una; el aviso único
+            # con el panel solo se usa si el ajuste `entrega_panel` vale «si»
+            if (self.panel.disponible() and self.panel.cuenta() and self.panel.cuenta()[0] == codigo and nuevas
+                    and (self.hub.meta_leer("entrega_panel") == "si" or os.environ.get("VIVAX_ENTREGA_PANEL") == "si")):
                 # con el panel: UN aviso con el panel para el administrador (no un álbum y una tarjeta por pieza); los demás miembros, como siempre
                 bien_admin = self.panel.avisar_llegada(nuevas)
                 for p in nuevas:

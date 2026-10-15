@@ -3515,5 +3515,3050 @@
         "unidad": "g"
       }
     }
+  },
+  {
+    "id": "ALI-076",
+    "tema": "composición - energía (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor energía: galletas tipo maría 467 kcal; donut glaseado 421 kcal; cruasán de mantequilla 406 kcal; cereales de desayuno azucarados 389 kcal; copos de maíz 384 kcal; pan blanco tostado 290 kcal.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El pan, tostado; el cruasán, de mantequilla; el donut, glaseado; los cereales, de desayuno azucarados. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174950, 172758, 174987, 172990, 174648, 174925)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cookies, butter, commercially prepared, enriched (fdcId 174950) energía 467 kcal; Doughnuts, yeast-leavened, glazed, enriched (includes honey buns) (fdcId 172758) energía 421 kcal; Croissants, butter (fdcId 174987) energía 406 kcal; Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes (fdcId 172990) energía 389 kcal; Cereals ready-to-eat, RALSTON Corn Flakes (fdcId 174648) energía 384 kcal; Bread, white, commercially prepared, toasted (fdcId 174925) energía 290 kcal. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calorías del desayuno y la merienda",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "467 kcal",
+          "icono": "🍪"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "421 kcal",
+          "icono": "🍩"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "406 kcal",
+          "icono": "🥐"
+        },
+        {
+          "nombre": "Cereales de desayuno azucarados",
+          "valor": "389 kcal",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Copos de maíz",
+          "valor": "384 kcal",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Pan blanco tostado",
+          "valor": "290 kcal",
+          "icono": "🍞"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-077",
+    "tema": "composición - energía (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor energía: almendras 579 kcal; patatas fritas de bolsa 532 kcal; palomitas de maíz sin aceite 387 kcal; queso gouda 356 kcal; aceitunas en conserva 116 kcal; zanahoria cruda 41 kcal.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Las palomitas, sin aceite; el queso, gouda; la zanahoria, cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170567, 169677, 167959, 171241, 169094, 170393)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Nuts, almonds (fdcId 170567) energía 579 kcal; Snacks, potato chips, plain, salted (fdcId 169677) energía 532 kcal; Snacks, popcorn, air-popped (fdcId 167959) energía 387 kcal; Cheese, gouda (fdcId 171241) energía 356 kcal; Olives, ripe, canned (small-extra large) (fdcId 169094) energía 116 kcal; Carrots, raw (fdcId 170393) energía 41 kcal. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calorías del picoteo",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Almendras",
+          "valor": "579 kcal",
+          "icono": "🌰"
+        },
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "532 kcal",
+          "icono": "🥔"
+        },
+        {
+          "nombre": "Palomitas de maíz sin aceite",
+          "valor": "387 kcal",
+          "icono": "🍿"
+        },
+        {
+          "nombre": "Queso gouda",
+          "valor": "356 kcal",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Aceitunas en conserva",
+          "valor": "116 kcal",
+          "icono": "🫒"
+        },
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "41 kcal",
+          "icono": "🥕"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-078",
+    "tema": "composición - energía (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor energía: aceite de oliva 884 kcal; mayonesa 680 kcal; nata para montar 340 kcal; mermelada 278 kcal; hummus 237 kcal; kétchup 101 kcal.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Nata para montar; hummus comercial. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171413, 171009, 170859, 169641, 174289, 168556)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Oil, olive, salad or cooking (fdcId 171413) energía 884 kcal; Salad dressing, mayonnaise, regular (fdcId 171009) energía 680 kcal; Cream, fluid, heavy whipping (fdcId 170859) energía 340 kcal; Jams and preserves (fdcId 169641) energía 278 kcal; Hummus, commercial (fdcId 174289) energía 237 kcal; Catsup (fdcId 168556) energía 101 kcal. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calorías de salsas y untables",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "884 kcal",
+          "icono": "🫒"
+        },
+        {
+          "nombre": "Mayonesa",
+          "valor": "680 kcal",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Nata para montar",
+          "valor": "340 kcal",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Mermelada",
+          "valor": "278 kcal",
+          "icono": "🍓"
+        },
+        {
+          "nombre": "Hummus",
+          "valor": "237 kcal",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Kétchup",
+          "valor": "101 kcal",
+          "icono": "🍅"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-079",
+    "tema": "composición - energía (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor energía: cerezas 63 kcal; mango 60 kcal; pera 57 kcal; piña 50 kcal; melón 34 kcal; sandía 30 kcal.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171719, 169910, 169118, 169124, 169092, 167765)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cherries, sweet, raw (fdcId 171719) energía 63 kcal; Mangos, raw (fdcId 169910) energía 60 kcal; Pears, raw (fdcId 169118) energía 57 kcal; Pineapple, raw, all varieties (fdcId 169124) energía 50 kcal; Melons, cantaloupe, raw (fdcId 169092) energía 34 kcal; Watermelon, raw (fdcId 167765) energía 30 kcal. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calorías de la fruta",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Cerezas",
+          "valor": "63 kcal",
+          "icono": "🍒"
+        },
+        {
+          "nombre": "Mango",
+          "valor": "60 kcal",
+          "icono": "🥭"
+        },
+        {
+          "nombre": "Pera",
+          "valor": "57 kcal",
+          "icono": "🍐"
+        },
+        {
+          "nombre": "Piña",
+          "valor": "50 kcal",
+          "icono": "🍍"
+        },
+        {
+          "nombre": "Melón",
+          "valor": "34 kcal",
+          "icono": "🍈"
+        },
+        {
+          "nombre": "Sandía",
+          "valor": "30 kcal",
+          "icono": "🍉"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-080",
+    "tema": "composición - energía (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor energía: vino tinto 85 kcal; zumo de naranja 45 kcal; cerveza 43 kcal; refresco de cola 42 kcal; bebida de soja natural 41 kcal; leche desnatada 34 kcal.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El zumo es el de naranja sin añadidos; la cerveza, normal; el vino, tinto de mesa. Todo se mide por 100 g. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173190, 169098, 168746, 174852, 175218, 171269)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Alcoholic beverage, wine, table, red (fdcId 173190) energía 85 kcal; Orange juice, raw (Includes foods for USDA's Food Distribution Program) (fdcId 169098) energía 45 kcal; Alcoholic beverage, beer, regular, all (fdcId 168746) energía 43 kcal; Beverages, carbonated, cola, regular (fdcId 174852) energía 42 kcal; SILK Plain, soymilk (fdcId 175218) energía 41 kcal; Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim) (fdcId 171269) energía 34 kcal. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calorías de lo que se bebe",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Vino tinto",
+          "valor": "85 kcal",
+          "icono": "🍷"
+        },
+        {
+          "nombre": "Zumo de naranja",
+          "valor": "45 kcal",
+          "icono": "🧃"
+        },
+        {
+          "nombre": "Cerveza",
+          "valor": "43 kcal",
+          "icono": "🍺"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "valor": "42 kcal",
+          "icono": "🥤"
+        },
+        {
+          "nombre": "Bebida de soja natural",
+          "valor": "41 kcal",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Leche desnatada",
+          "valor": "34 kcal",
+          "icono": "🥛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-081",
+    "tema": "composición - energía (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor energía: bacon frito 468 kcal; salami curado de cerdo 407 kcal; hamburguesa de ternera cocinada (80 % magra) 270 kcal; salchicha de cerdo tipo frankfurt 269 kcal; muslo de pollo asado sin piel 179 kcal; pechuga de pollo asada 165 kcal.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El bacon, frito; el salami, curado; la hamburguesa, cocinada (80 % magra); el muslo y la pechuga, asados y sin piel. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168322, 172938, 171797, 172964, 172388, 171477)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) energía 468 kcal; Salami, dry or hard, pork (fdcId 172938) energía 407 kcal; Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled (fdcId 171797) energía 270 kcal; Frankfurter, pork (fdcId 172964) energía 269 kcal; Chicken, broilers or fryers, thigh, meat only, cooked, roasted (fdcId 172388) energía 179 kcal; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) energía 165 kcal. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Calorías de la carne y el embutido",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Bacon frito",
+          "valor": "468 kcal",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Salami curado de cerdo",
+          "valor": "407 kcal",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+          "valor": "270 kcal",
+          "icono": "🍔"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt",
+          "valor": "269 kcal",
+          "icono": "🌭"
+        },
+        {
+          "nombre": "Muslo de pollo asado sin piel",
+          "valor": "179 kcal",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "165 kcal",
+          "icono": "🍗"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-082",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: bacon frito 33,9 g; atún claro en aceite, escurrido 29,1 g; hamburguesa de ternera cocinada (80 % magra) 25,8 g; queso gouda 24,9 g; muslo de pollo asado sin piel 24,8 g; salchicha de cerdo tipo frankfurt 12,8 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Todo cocinado o escurrido; el queso, gouda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168322, 173708, 171797, 171241, 172388, 172964)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) proteína 33,9 g; Fish, tuna, light, canned in oil, drained solids (fdcId 173708) proteína 29,1 g; Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled (fdcId 171797) proteína 25,8 g; Cheese, gouda (fdcId 171241) proteína 24,9 g; Chicken, broilers or fryers, thigh, meat only, cooked, roasted (fdcId 172388) proteína 24,8 g; Frankfurter, pork (fdcId 172964) proteína 12,8 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína en el súper",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Bacon frito",
+          "valor": "33,9 g",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Atún claro en aceite, escurrido",
+          "valor": "29,1 g",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+          "valor": "25,8 g",
+          "icono": "🍔"
+        },
+        {
+          "nombre": "Queso gouda",
+          "valor": "24,9 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Muslo de pollo asado sin piel",
+          "valor": "24,8 g",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt",
+          "valor": "12,8 g",
+          "icono": "🌭"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-083",
+    "tema": "composición - proteína (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor proteína: palomitas de maíz sin aceite 12,9 g; tortitas de arroz integral 8,2 g; pasta integral cocida 6,0 g; quinoa cocida 4,4 g; cuscús cocido 3,8 g; arroz integral cocido 2,7 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Palomitas y tortitas, tal cual; pasta, quinoa, cuscús y arroz, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167959, 170250, 168910, 168917, 169700, 169704)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Snacks, popcorn, air-popped (fdcId 167959) proteína 12,9 g; Snacks, rice cakes, brown rice, plain, unsalted (fdcId 170250) proteína 8,2 g; Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 168910) proteína 6,0 g; Quinoa, cooked (fdcId 168917) proteína 4,4 g; Couscous, cooked (fdcId 169700) proteína 3,8 g; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 169704) proteína 2,7 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Proteína en cereales y snacks",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Palomitas de maíz sin aceite",
+          "valor": "12,9 g",
+          "icono": "🍿"
+        },
+        {
+          "nombre": "Tortitas de arroz integral",
+          "valor": "8,2 g",
+          "icono": "🍘"
+        },
+        {
+          "nombre": "Pasta integral cocida",
+          "valor": "6,0 g",
+          "icono": "🍝"
+        },
+        {
+          "nombre": "Quinoa cocida",
+          "valor": "4,4 g",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Cuscús cocido",
+          "valor": "3,8 g",
+          "icono": "🍚"
+        },
+        {
+          "nombre": "Arroz integral cocido",
+          "valor": "2,7 g",
+          "icono": "🍚"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-084",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: cereales de desayuno azucarados 90,2 g; copos de maíz 88,0 g; miel 82,4 g; pan blanco tostado 54,5 g; donut glaseado 47,9 g; cruasán de mantequilla 45,8 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Los hidratos incluyen los azúcares y la fibra. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172990, 174648, 169640, 174925, 172758, 174987)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes (fdcId 172990) hidratos de carbono 90,2 g; Cereals ready-to-eat, RALSTON Corn Flakes (fdcId 174648) hidratos de carbono 88,0 g; Honey (fdcId 169640) hidratos de carbono 82,4 g; Bread, white, commercially prepared, toasted (fdcId 174925) hidratos de carbono 54,5 g; Doughnuts, yeast-leavened, glazed, enriched (includes honey buns) (fdcId 172758) hidratos de carbono 47,9 g; Croissants, butter (fdcId 174987) hidratos de carbono 45,8 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hidratos del desayuno",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Cereales de desayuno azucarados",
+          "valor": "90,2 g",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Copos de maíz",
+          "valor": "88,0 g",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Miel",
+          "valor": "82,4 g",
+          "icono": "🍯"
+        },
+        {
+          "nombre": "Pan blanco tostado",
+          "valor": "54,5 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "47,9 g",
+          "icono": "🍩"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "45,8 g",
+          "icono": "🥐"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-085",
+    "tema": "composición - hidratos de carbono (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor hidratos de carbono: pasta cocida 30,9 g; pasta integral cocida 30,1 g; arroz blanco cocido 28,2 g; arroz integral cocido 25,6 g; cuscús cocido 23,2 g; quinoa cocida 21,3 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Todo cocido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169737, 168910, 168878, 169704, 169700, 168917)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pasta, cooked, enriched, without added salt (fdcId 169737) hidratos de carbono 30,9 g; Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 168910) hidratos de carbono 30,1 g; Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) hidratos de carbono 28,2 g; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 169704) hidratos de carbono 25,6 g; Couscous, cooked (fdcId 169700) hidratos de carbono 23,2 g; Quinoa, cooked (fdcId 168917) hidratos de carbono 21,3 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Hidratos de pasta y arroz",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pasta cocida",
+          "valor": "30,9 g",
+          "icono": "🍝"
+        },
+        {
+          "nombre": "Pasta integral cocida",
+          "valor": "30,1 g",
+          "icono": "🍝"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "valor": "28,2 g",
+          "icono": "🍚"
+        },
+        {
+          "nombre": "Arroz integral cocido",
+          "valor": "25,6 g",
+          "icono": "🍚"
+        },
+        {
+          "nombre": "Cuscús cocido",
+          "valor": "23,2 g",
+          "icono": "🍚"
+        },
+        {
+          "nombre": "Quinoa cocida",
+          "valor": "21,3 g",
+          "icono": "🌾"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-086",
+    "tema": "composición - azúcares (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor azúcares: miel 82,1 g; mermelada 48,5 g; cereales de desayuno azucarados 39,3 g; donut glaseado 22,8 g; cruasán de mantequilla 11,3 g; copos de maíz 7,8 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Son azúcares totales, los que lleva el producto. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169640, 169641, 172990, 172758, 174987, 174648)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Honey (fdcId 169640) azúcares 82,1 g; Jams and preserves (fdcId 169641) azúcares 48,5 g; Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes (fdcId 172990) azúcares 39,3 g; Doughnuts, yeast-leavened, glazed, enriched (includes honey buns) (fdcId 172758) azúcares 22,8 g; Croissants, butter (fdcId 174987) azúcares 11,3 g; Cereals ready-to-eat, RALSTON Corn Flakes (fdcId 174648) azúcares 7,8 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Azúcares del desayuno",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Miel",
+          "valor": "82,1 g",
+          "icono": "🍯"
+        },
+        {
+          "nombre": "Mermelada",
+          "valor": "48,5 g",
+          "icono": "🍓"
+        },
+        {
+          "nombre": "Cereales de desayuno azucarados",
+          "valor": "39,3 g",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "22,8 g",
+          "icono": "🍩"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "11,3 g",
+          "icono": "🥐"
+        },
+        {
+          "nombre": "Copos de maíz",
+          "valor": "7,8 g",
+          "icono": "🥣"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-087",
+    "tema": "composición - azúcares (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor azúcares: refresco de cola 9,9 g; zumo de naranja 8,4 g; leche desnatada 5,1 g; bebida de soja natural 2,5 g; vino tinto 0,6 g; cerveza 0,0 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El zumo es el de naranja sin añadidos; la leche trae su propio azúcar, la lactosa; la cerveza no lleva azúcares medibles. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174852, 169098, 171269, 175218, 173190, 168746)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beverages, carbonated, cola, regular (fdcId 174852) azúcares 9,9 g; Orange juice, raw (Includes foods for USDA's Food Distribution Program) (fdcId 169098) azúcares 8,4 g; Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim) (fdcId 171269) azúcares 5,1 g; SILK Plain, soymilk (fdcId 175218) azúcares 2,5 g; Alcoholic beverage, wine, table, red (fdcId 173190) azúcares 0,6 g; Alcoholic beverage, beer, regular, all (fdcId 168746) azúcares 0,0 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Azúcares de lo que se bebe",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Refresco de cola",
+          "valor": "9,9 g",
+          "icono": "🥤"
+        },
+        {
+          "nombre": "Zumo de naranja",
+          "valor": "8,4 g",
+          "icono": "🧃"
+        },
+        {
+          "nombre": "Leche desnatada",
+          "valor": "5,1 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Bebida de soja natural",
+          "valor": "2,5 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Vino tinto",
+          "valor": "0,6 g",
+          "icono": "🍷"
+        },
+        {
+          "nombre": "Cerveza",
+          "valor": "0,0 g",
+          "icono": "🍺"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-088",
+    "tema": "composición - azúcares (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor azúcares: miel 82,1 g; chocolate con leche 51,5 g; mermelada 48,5 g; chocolate negro 70-85 % 24,0 g; helado de vainilla 21,2 g; galletas tipo maría 20,2 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El helado, de vainilla; el chocolate negro, del 70 al 85 % de cacao. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169640, 167587, 169641, 170273, 167575, 174950)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Honey (fdcId 169640) azúcares 82,1 g; Candies, milk chocolate (fdcId 167587) azúcares 51,5 g; Jams and preserves (fdcId 169641) azúcares 48,5 g; Chocolate, dark, 70-85% cacao solids (fdcId 170273) azúcares 24,0 g; Ice creams, vanilla (fdcId 167575) azúcares 21,2 g; Cookies, butter, commercially prepared, enriched (fdcId 174950) azúcares 20,2 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Azúcares de los dulces",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Miel",
+          "valor": "82,1 g",
+          "icono": "🍯"
+        },
+        {
+          "nombre": "Chocolate con leche",
+          "valor": "51,5 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Mermelada",
+          "valor": "48,5 g",
+          "icono": "🍓"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "24,0 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Helado de vainilla",
+          "valor": "21,2 g",
+          "icono": "🍨"
+        },
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "20,2 g",
+          "icono": "🍪"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-089",
+    "tema": "composición - grasa (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa: mayonesa 74,9 g; nata para montar 36,1 g; bacon frito 35,1 g; chocolate con leche 29,7 g; salchicha de cerdo tipo frankfurt 23,7 g; hummus 17,8 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la grasa total; la proporción de cada tipo cambia de un alimento a otro. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171009, 170859, 168322, 167587, 172964, 174289)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Salad dressing, mayonnaise, regular (fdcId 171009) grasa 74,9 g; Cream, fluid, heavy whipping (fdcId 170859) grasa 36,1 g; Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) grasa 35,1 g; Candies, milk chocolate (fdcId 167587) grasa 29,7 g; Frankfurter, pork (fdcId 172964) grasa 23,7 g; Hummus, commercial (fdcId 174289) grasa 17,8 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa de salsas y dulces",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Mayonesa",
+          "valor": "74,9 g",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Nata para montar",
+          "valor": "36,1 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Bacon frito",
+          "valor": "35,1 g",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Chocolate con leche",
+          "valor": "29,7 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt",
+          "valor": "23,7 g",
+          "icono": "🌭"
+        },
+        {
+          "nombre": "Hummus",
+          "valor": "17,8 g",
+          "icono": "🫘"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-090",
+    "tema": "composición - grasa (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa: bacon frito 35,1 g; salami curado de cerdo 33,7 g; salchicha de cerdo tipo frankfurt 23,7 g; hamburguesa de ternera cocinada (80 % magra) 17,8 g; muslo de pollo asado sin piel 8,2 g; pechuga de pollo asada 3,6 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Es la grasa total; todo cocinado o curado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168322, 172938, 172964, 171797, 172388, 171477)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) grasa 35,1 g; Salami, dry or hard, pork (fdcId 172938) grasa 33,7 g; Frankfurter, pork (fdcId 172964) grasa 23,7 g; Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled (fdcId 171797) grasa 17,8 g; Chicken, broilers or fryers, thigh, meat only, cooked, roasted (fdcId 172388) grasa 8,2 g; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) grasa 3,6 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa de la carne y el embutido",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Bacon frito",
+          "valor": "35,1 g",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Salami curado de cerdo",
+          "valor": "33,7 g",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt",
+          "valor": "23,7 g",
+          "icono": "🌭"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+          "valor": "17,8 g",
+          "icono": "🍔"
+        },
+        {
+          "nombre": "Muslo de pollo asado sin piel",
+          "valor": "8,2 g",
+          "icono": "🍗"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "3,6 g",
+          "icono": "🍗"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-091",
+    "tema": "composición - grasa saturada (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa saturada: nata para montar 23,0 g; queso gouda 17,6 g; bacon frito 12,0 g; salami curado de cerdo 11,9 g; helado de vainilla 6,8 g; yogur natural entero 2,1 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El queso, gouda; el yogur, natural entero. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170859, 171241, 168322, 172938, 167575, 171284)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cream, fluid, heavy whipping (fdcId 170859) grasa saturada 23,0 g; Cheese, gouda (fdcId 171241) grasa saturada 17,6 g; Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) grasa saturada 12,0 g; Salami, dry or hard, pork (fdcId 172938) grasa saturada 11,9 g; Ice creams, vanilla (fdcId 167575) grasa saturada 6,8 g; Yogurt, plain, whole milk (fdcId 171284) grasa saturada 2,1 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa saturada de la nevera",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Nata para montar",
+          "valor": "23,0 g",
+          "icono": "🥛"
+        },
+        {
+          "nombre": "Queso gouda",
+          "valor": "17,6 g",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Bacon frito",
+          "valor": "12,0 g",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Salami curado de cerdo",
+          "valor": "11,9 g",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Helado de vainilla",
+          "valor": "6,8 g",
+          "icono": "🍨"
+        },
+        {
+          "nombre": "Yogur natural entero",
+          "valor": "2,1 g",
+          "icono": "🥛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-092",
+    "tema": "composición - grasa saturada (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor grasa saturada: crema de cacao y avellanas 28,4 g; chocolate negro 70-85 % 24,5 g; chocolate con leche 18,5 g; cruasán de mantequilla 11,7 g; galletas tipo maría 11,1 g; donut glaseado 9,5 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El chocolate negro es del 70 al 85 % de cacao. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168000, 170273, 167587, 174987, 174950, 172758)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chocolate-flavored hazelnut spread (fdcId 168000) grasa saturada 28,4 g; Chocolate, dark, 70-85% cacao solids (fdcId 170273) grasa saturada 24,5 g; Candies, milk chocolate (fdcId 167587) grasa saturada 18,5 g; Croissants, butter (fdcId 174987) grasa saturada 11,7 g; Cookies, butter, commercially prepared, enriched (fdcId 174950) grasa saturada 11,1 g; Doughnuts, yeast-leavened, glazed, enriched (includes honey buns) (fdcId 172758) grasa saturada 9,5 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Grasa saturada de dulces y bollería",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Crema de cacao y avellanas",
+          "valor": "28,4 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "24,5 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Chocolate con leche",
+          "valor": "18,5 g",
+          "icono": "🍫"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "11,7 g",
+          "icono": "🥐"
+        },
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "11,1 g",
+          "icono": "🍪"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "9,5 g",
+          "icono": "🍩"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-093",
+    "tema": "composición - fibra (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor fibra: palomitas de maíz sin aceite 14,5 g; copos de avena 10,1 g; pan integral 6,0 g; tortitas de arroz integral 4,2 g; pasta integral cocida 3,9 g; copos de maíz 2,7 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Palomitas sin aceite; avena en copos secos; pasta, cocida. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167959, 173904, 172688, 170250, 168910, 174648)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Snacks, popcorn, air-popped (fdcId 167959) fibra 14,5 g; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) fibra 10,1 g; Bread, whole-wheat, commercially prepared (fdcId 172688) fibra 6,0 g; Snacks, rice cakes, brown rice, plain, unsalted (fdcId 170250) fibra 4,2 g; Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 168910) fibra 3,9 g; Cereals ready-to-eat, RALSTON Corn Flakes (fdcId 174648) fibra 2,7 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Fibra de cereales, pan y snacks",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Palomitas de maíz sin aceite",
+          "valor": "14,5 g",
+          "icono": "🍿"
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "10,1 g",
+          "icono": "🌾"
+        },
+        {
+          "nombre": "Pan integral",
+          "valor": "6,0 g",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Tortitas de arroz integral",
+          "valor": "4,2 g",
+          "icono": "🍘"
+        },
+        {
+          "nombre": "Pasta integral cocida",
+          "valor": "3,9 g",
+          "icono": "🍝"
+        },
+        {
+          "nombre": "Copos de maíz",
+          "valor": "2,7 g",
+          "icono": "🥣"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-094",
+    "tema": "composición - fibra (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor fibra: pera 3,1 g; judías verdes crudas 2,7 g; espárragos crudos 2,1 g; cebolla cruda 1,7 g; lechuga iceberg cruda 1,2 g; pepino con piel, crudo 0,5 g.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Todo crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169118, 169961, 168389, 170000, 169248, 168409)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pears, raw (fdcId 169118) fibra 3,1 g; Beans, snap, green, raw (fdcId 169961) fibra 2,7 g; Asparagus, raw (fdcId 168389) fibra 2,1 g; Onions, raw (fdcId 170000) fibra 1,7 g; Lettuce, iceberg (includes crisphead types), raw (fdcId 169248) fibra 1,2 g; Cucumber, with peel, raw (fdcId 168409) fibra 0,5 g. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Fibra de verdura y fruta",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Pera",
+          "valor": "3,1 g",
+          "icono": "🍐"
+        },
+        {
+          "nombre": "Judías verdes crudas",
+          "valor": "2,7 g",
+          "icono": "🫛"
+        },
+        {
+          "nombre": "Espárragos crudos",
+          "valor": "2,1 g",
+          "icono": "🌿"
+        },
+        {
+          "nombre": "Cebolla cruda",
+          "valor": "1,7 g",
+          "icono": "🧅"
+        },
+        {
+          "nombre": "Lechuga iceberg cruda",
+          "valor": "1,2 g",
+          "icono": "🥬"
+        },
+        {
+          "nombre": "Pepino con piel, crudo",
+          "valor": "0,5 g",
+          "icono": "🥒"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-095",
+    "tema": "composición - sodio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor sodio: salami curado de cerdo 2260 mg; bacon frito 1684 mg; queso gouda 819 mg; salchicha de cerdo tipo frankfurt 816 mg; jamón cocido 814 mg; hamburguesa de ternera cocinada (80 % magra) 75 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. El jamón, cocido; la hamburguesa, cocinada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172938, 168322, 171241, 172964, 173864, 171797)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Salami, dry or hard, pork (fdcId 172938) sodio 2260 mg; Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) sodio 1684 mg; Cheese, gouda (fdcId 171241) sodio 819 mg; Frankfurter, pork (fdcId 172964) sodio 816 mg; Ham, sliced, regular (approximately 11% fat) (fdcId 173864) sodio 814 mg; Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled (fdcId 171797) sodio 75 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Sodio del embutido y el queso",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Salami curado de cerdo",
+          "valor": "2260 mg",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Bacon frito",
+          "valor": "1684 mg",
+          "icono": "🥓"
+        },
+        {
+          "nombre": "Queso gouda",
+          "valor": "819 mg",
+          "icono": "🧀"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt",
+          "valor": "816 mg",
+          "icono": "🌭"
+        },
+        {
+          "nombre": "Jamón cocido",
+          "valor": "814 mg",
+          "icono": "🍖"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+          "valor": "75 mg",
+          "icono": "🍔"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-096",
+    "tema": "composición - sodio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor sodio: copos de maíz 571 mg; pan blanco tostado 537 mg; cereales de desayuno azucarados 451 mg; cruasán de mantequilla 384 mg; donut glaseado 316 mg; galletas tipo maría 282 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174648, 174925, 172990, 174987, 172758, 174950)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals ready-to-eat, RALSTON Corn Flakes (fdcId 174648) sodio 571 mg; Bread, white, commercially prepared, toasted (fdcId 174925) sodio 537 mg; Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes (fdcId 172990) sodio 451 mg; Croissants, butter (fdcId 174987) sodio 384 mg; Doughnuts, yeast-leavened, glazed, enriched (includes honey buns) (fdcId 172758) sodio 316 mg; Cookies, butter, commercially prepared, enriched (fdcId 174950) sodio 282 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Sodio del desayuno",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Copos de maíz",
+          "valor": "571 mg",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Pan blanco tostado",
+          "valor": "537 mg",
+          "icono": "🍞"
+        },
+        {
+          "nombre": "Cereales de desayuno azucarados",
+          "valor": "451 mg",
+          "icono": "🥣"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "384 mg",
+          "icono": "🥐"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "316 mg",
+          "icono": "🍩"
+        },
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "282 mg",
+          "icono": "🍪"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-097",
+    "tema": "composición - sodio (ranking)",
+    "enunciado": "Por cada 100 g, de mayor a menor sodio: kétchup 907 mg; aceitunas en conserva 735 mg; mayonesa 635 mg; hummus 426 mg; atún claro en aceite, escurrido 416 mg; mermelada 32 mg.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. Las aceitunas, negras en conserva; el atún, en aceite y escurrido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168556, 169094, 171009, 174289, 173708, 169641)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Catsup (fdcId 168556) sodio 907 mg; Olives, ripe, canned (small-extra large) (fdcId 169094) sodio 735 mg; Salad dressing, mayonnaise, regular (fdcId 171009) sodio 635 mg; Hummus, commercial (fdcId 174289) sodio 426 mg; Fish, tuna, light, canned in oil, drained solids (fdcId 173708) sodio 416 mg; Jams and preserves (fdcId 169641) sodio 32 mg. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "ranking",
+      "titulo": "Sodio de salsas y conservas",
+      "unidad": "por 100 g",
+      "filas": [
+        {
+          "nombre": "Kétchup",
+          "valor": "907 mg",
+          "icono": "🍅"
+        },
+        {
+          "nombre": "Aceitunas en conserva",
+          "valor": "735 mg",
+          "icono": "🫒"
+        },
+        {
+          "nombre": "Mayonesa",
+          "valor": "635 mg",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Hummus",
+          "valor": "426 mg",
+          "icono": "🫘"
+        },
+        {
+          "nombre": "Atún claro en aceite, escurrido",
+          "valor": "416 mg",
+          "icono": "🥫"
+        },
+        {
+          "nombre": "Mermelada",
+          "valor": "32 mg",
+          "icono": "🍓"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ALI-098",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: helado de vainilla, 207 kcal de energía y 21,2 g de azúcares; yogur natural entero, 61 kcal de energía y 4,7 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El helado, de vainilla; el yogur, natural entero. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167575 y 171284)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Ice creams, vanilla (fdcId 167575) energía 207 kcal, 21,2 g de azúcares; Yogurt, plain, whole milk (fdcId 171284) energía 61 kcal, 4,7 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍨",
+        "nombre": "Helado de vainilla",
+        "valor": "207",
+        "unidad": "kcal",
+        "detalle": "21,2 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur natural entero",
+        "valor": "61",
+        "unidad": "kcal",
+        "detalle": "4,7 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-099",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: mayonesa, 680 kcal de energía y 74,9 g de grasa; hummus, 237 kcal de energía y 17,8 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La mayonesa, normal; el hummus, comercial. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171009 y 174289)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Salad dressing, mayonnaise, regular (fdcId 171009) energía 680 kcal, 74,9 g de grasa; Hummus, commercial (fdcId 174289) energía 237 kcal, 17,8 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥫",
+        "nombre": "Mayonesa",
+        "valor": "680",
+        "unidad": "kcal",
+        "detalle": "74,9 g de grasa"
+      },
+      "ahora": {
+        "icono": "🫘",
+        "nombre": "Hummus",
+        "valor": "237",
+        "unidad": "kcal",
+        "detalle": "17,8 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-100",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: cereales de desayuno azucarados, 39,3 g de azúcares y 389 kcal de energía; copos de avena, 1,0 g de azúcares y 379 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Los cereales, de desayuno azucarados; la avena, en copos secos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172990 y 173904)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes (fdcId 172990) azúcares 39,3 g, 389 kcal de energía; Cereals, oats, regular and quick, not fortified, dry (fdcId 173904) azúcares 1,0 g, 379 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥣",
+        "nombre": "Cereales de desayuno azucarados",
+        "valor": "39,3",
+        "unidad": "g",
+        "detalle": "389 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🌾",
+        "nombre": "Copos de avena",
+        "valor": "1,0",
+        "unidad": "g",
+        "detalle": "379 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-101",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: cereales de desayuno azucarados, 39,3 g de azúcares y 389 kcal de energía; copos de maíz, 7,8 g de azúcares y 384 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Cereales de desayuno azucarados frente a copos de maíz. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172990 y 174648)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes (fdcId 172990) azúcares 39,3 g, 389 kcal de energía; Cereals ready-to-eat, RALSTON Corn Flakes (fdcId 174648) azúcares 7,8 g, 384 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥣",
+        "nombre": "Cereales de desayuno azucarados",
+        "valor": "39,3",
+        "unidad": "g",
+        "detalle": "389 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🥣",
+        "nombre": "Copos de maíz",
+        "valor": "7,8",
+        "unidad": "g",
+        "detalle": "384 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-102",
+    "tema": "composición - sodio (comparación)",
+    "enunciado": "Por cada 100 g: patatas fritas de bolsa, 527 mg de sodio y 3,1 g de fibra; almendras, 1,0 mg de sodio y 12,5 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. Las almendras, tal cual. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169677 y 170567)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Snacks, potato chips, plain, salted (fdcId 169677) sodio 527 mg, 3,1 g de fibra; Nuts, almonds (fdcId 170567) sodio 1,0 mg, 12,5 g de fibra. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Sodio por cada 100 g",
+      "antes": {
+        "icono": "🥔",
+        "nombre": "Patatas fritas de bolsa",
+        "valor": "527",
+        "unidad": "mg",
+        "detalle": "3,1 g de fibra"
+      },
+      "ahora": {
+        "icono": "🌰",
+        "nombre": "Almendras",
+        "valor": "1,0",
+        "unidad": "mg",
+        "detalle": "12,5 g de fibra"
+      }
+    }
+  },
+  {
+    "id": "ALI-103",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: patatas fritas de bolsa, 532 kcal de energía y 3,1 g de fibra; palomitas de maíz sin aceite, 387 kcal de energía y 14,5 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Las palomitas, sin aceite. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169677 y 167959)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Snacks, potato chips, plain, salted (fdcId 169677) energía 532 kcal, 3,1 g de fibra; Snacks, popcorn, air-popped (fdcId 167959) energía 387 kcal, 14,5 g de fibra. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥔",
+        "nombre": "Patatas fritas de bolsa",
+        "valor": "532",
+        "unidad": "kcal",
+        "detalle": "3,1 g de fibra"
+      },
+      "ahora": {
+        "icono": "🍿",
+        "nombre": "Palomitas de maíz sin aceite",
+        "valor": "387",
+        "unidad": "kcal",
+        "detalle": "14,5 g de fibra"
+      }
+    }
+  },
+  {
+    "id": "ALI-104",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: galletas tipo maría, 467 kcal de energía y 20,2 g de azúcares; manzana, 52 kcal de energía y 10,4 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La manzana, cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174950 y 171688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cookies, butter, commercially prepared, enriched (fdcId 174950) energía 467 kcal, 20,2 g de azúcares; Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (fdcId 171688) energía 52 kcal, 10,4 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍪",
+        "nombre": "Galletas tipo María",
+        "valor": "467",
+        "unidad": "kcal",
+        "detalle": "20,2 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🍎",
+        "nombre": "Manzana",
+        "valor": "52",
+        "unidad": "kcal",
+        "detalle": "10,4 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-105",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: donut glaseado, 421 kcal de energía y 22,8 g de azúcares; plátano, 89 kcal de energía y 12,2 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El donut, glaseado; el plátano, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172758 y 173944)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Doughnuts, yeast-leavened, glazed, enriched (includes honey buns) (fdcId 172758) energía 421 kcal, 22,8 g de azúcares; Bananas, raw (fdcId 173944) energía 89 kcal, 12,2 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍩",
+        "nombre": "Donut glaseado",
+        "valor": "421",
+        "unidad": "kcal",
+        "detalle": "22,8 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🍌",
+        "nombre": "Plátano",
+        "valor": "89",
+        "unidad": "kcal",
+        "detalle": "12,2 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-106",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: cruasán de mantequilla, 406 kcal de energía y 21,0 g de grasa; pan blanco tostado, 290 kcal de energía y 4,0 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El cruasán, de mantequilla; el pan, blanco tostado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174987 y 174925)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Croissants, butter (fdcId 174987) energía 406 kcal, 21,0 g de grasa; Bread, white, commercially prepared, toasted (fdcId 174925) energía 290 kcal, 4,0 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥐",
+        "nombre": "Cruasán de mantequilla",
+        "valor": "406",
+        "unidad": "kcal",
+        "detalle": "21,0 g de grasa"
+      },
+      "ahora": {
+        "icono": "🍞",
+        "nombre": "Pan blanco tostado",
+        "valor": "290",
+        "unidad": "kcal",
+        "detalle": "4,0 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-107",
+    "tema": "composición - grasa saturada (comparación)",
+    "enunciado": "Por cada 100 g: cruasán de mantequilla, 11,7 g de grasa saturada y 406 kcal de energía; pan integral, 0,7 g de grasa saturada y 252 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El cruasán, de mantequilla. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174987 y 172688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Croissants, butter (fdcId 174987) grasa saturada 11,7 g, 406 kcal de energía; Bread, whole-wheat, commercially prepared (fdcId 172688) grasa saturada 0,7 g, 252 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa saturada por cada 100 g",
+      "antes": {
+        "icono": "🥐",
+        "nombre": "Cruasán de mantequilla",
+        "valor": "11,7",
+        "unidad": "g",
+        "detalle": "406 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍞",
+        "nombre": "Pan integral",
+        "valor": "0,7",
+        "unidad": "g",
+        "detalle": "252 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-108",
+    "tema": "composición - fibra (comparación)",
+    "enunciado": "Por cada 100 g: arroz blanco cocido, 0,4 g de fibra y 130 kcal de energía; arroz integral cocido, 1,6 g de fibra y 123 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Los dos, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168878 y 169704)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) fibra 0,4 g, 130 kcal de energía; Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 169704) fibra 1,6 g, 123 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Fibra por cada 100 g",
+      "antes": {
+        "icono": "🍚",
+        "nombre": "Arroz blanco cocido",
+        "valor": "0,4",
+        "unidad": "g",
+        "detalle": "130 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍚",
+        "nombre": "Arroz integral cocido",
+        "valor": "1,6",
+        "unidad": "g",
+        "detalle": "123 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-109",
+    "tema": "composición - proteína (comparación)",
+    "enunciado": "Por cada 100 g: arroz blanco cocido, 2,7 g de proteína y 0,4 g de fibra; quinoa cocida, 4,4 g de proteína y 2,8 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Los dos, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168878 y 168917)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) proteína 2,7 g, 0,4 g de fibra; Quinoa, cooked (fdcId 168917) proteína 4,4 g, 2,8 g de fibra. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Proteína por cada 100 g",
+      "antes": {
+        "icono": "🍚",
+        "nombre": "Arroz blanco cocido",
+        "valor": "2,7",
+        "unidad": "g",
+        "detalle": "0,4 g de fibra"
+      },
+      "ahora": {
+        "icono": "🌾",
+        "nombre": "Quinoa cocida",
+        "valor": "4,4",
+        "unidad": "g",
+        "detalle": "2,8 g de fibra"
+      }
+    }
+  },
+  {
+    "id": "ALI-110",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: arroz blanco cocido, 130 kcal de energía y 28,2 g de hidratos de carbono; cuscús cocido, 112 kcal de energía y 23,2 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Los dos, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168878 y 169700)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Rice, white, long-grain, regular, enriched, cooked (fdcId 168878) energía 130 kcal, 28,2 g de hidratos de carbono; Couscous, cooked (fdcId 169700) energía 112 kcal, 23,2 g de hidratos de carbono. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍚",
+        "nombre": "Arroz blanco cocido",
+        "valor": "130",
+        "unidad": "kcal",
+        "detalle": "28,2 g de hidratos de carbono"
+      },
+      "ahora": {
+        "icono": "🍚",
+        "nombre": "Cuscús cocido",
+        "valor": "112",
+        "unidad": "kcal",
+        "detalle": "23,2 g de hidratos de carbono"
+      }
+    }
+  },
+  {
+    "id": "ALI-111",
+    "tema": "composición - fibra (comparación)",
+    "enunciado": "Por cada 100 g: pasta cocida, 1,8 g de fibra y 5,8 g de proteína; pasta integral cocida, 3,9 g de fibra y 6,0 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Las dos, cocidas. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169737 y 168910)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pasta, cooked, enriched, without added salt (fdcId 169737) fibra 1,8 g, 5,8 g de proteína; Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program) (fdcId 168910) fibra 3,9 g, 6,0 g de proteína. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Fibra por cada 100 g",
+      "antes": {
+        "icono": "🍝",
+        "nombre": "Pasta cocida",
+        "valor": "1,8",
+        "unidad": "g",
+        "detalle": "5,8 g de proteína"
+      },
+      "ahora": {
+        "icono": "🍝",
+        "nombre": "Pasta integral cocida",
+        "valor": "3,9",
+        "unidad": "g",
+        "detalle": "6,0 g de proteína"
+      }
+    }
+  },
+  {
+    "id": "ALI-112",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: pasta cocida, 158 kcal de energía y 30,9 g de hidratos de carbono; cuscús cocido, 112 kcal de energía y 23,2 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La pasta y el cuscús, cocidos. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169737 y 169700)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pasta, cooked, enriched, without added salt (fdcId 169737) energía 158 kcal, 30,9 g de hidratos de carbono; Couscous, cooked (fdcId 169700) energía 112 kcal, 23,2 g de hidratos de carbono. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍝",
+        "nombre": "Pasta cocida",
+        "valor": "158",
+        "unidad": "kcal",
+        "detalle": "30,9 g de hidratos de carbono"
+      },
+      "ahora": {
+        "icono": "🍚",
+        "nombre": "Cuscús cocido",
+        "valor": "112",
+        "unidad": "kcal",
+        "detalle": "23,2 g de hidratos de carbono"
+      }
+    }
+  },
+  {
+    "id": "ALI-113",
+    "tema": "composición - grasa saturada (comparación)",
+    "enunciado": "Por cada 100 g: hamburguesa de ternera cocinada (80 % magra), 6,8 g de grasa saturada y 270 kcal de energía; pechuga de pollo asada, 1,0 g de grasa saturada y 165 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La hamburguesa, de ternera cocinada (80 % magra); la pechuga, asada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171797 y 171477)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled (fdcId 171797) grasa saturada 6,8 g, 270 kcal de energía; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) grasa saturada 1,0 g, 165 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa saturada por cada 100 g",
+      "antes": {
+        "icono": "🍔",
+        "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+        "valor": "6,8",
+        "unidad": "g",
+        "detalle": "270 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍗",
+        "nombre": "Pechuga de pollo asada",
+        "valor": "1,0",
+        "unidad": "g",
+        "detalle": "165 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-114",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: bacon frito, 468 kcal de energía y 12,0 g de grasa saturada; jamón cocido, 164 kcal de energía y 0,5 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El bacon, frito; el jamón, cocido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168322 y 173864)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) energía 468 kcal, 12,0 g de grasa saturada; Ham, sliced, regular (approximately 11% fat) (fdcId 173864) energía 164 kcal, 0,5 g de grasa saturada. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥓",
+        "nombre": "Bacon frito",
+        "valor": "468",
+        "unidad": "kcal",
+        "detalle": "12,0 g de grasa saturada"
+      },
+      "ahora": {
+        "icono": "🍖",
+        "nombre": "Jamón cocido",
+        "valor": "164",
+        "unidad": "kcal",
+        "detalle": "0,5 g de grasa saturada"
+      }
+    }
+  },
+  {
+    "id": "ALI-115",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía y 23,7 g de grasa; pechuga de pavo asada, 147 kcal de energía y 2,1 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La salchicha, de cerdo tipo frankfurt; la pechuga de pavo, asada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172964 y 171496)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Frankfurter, pork (fdcId 172964) energía 269 kcal, 23,7 g de grasa; Turkey, whole, breast, meat only, cooked, roasted (fdcId 171496) energía 147 kcal, 2,1 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🌭",
+        "nombre": "Salchicha de cerdo tipo frankfurt",
+        "valor": "269",
+        "unidad": "kcal",
+        "detalle": "23,7 g de grasa"
+      },
+      "ahora": {
+        "icono": "🦃",
+        "nombre": "Pechuga de pavo asada",
+        "valor": "147",
+        "unidad": "kcal",
+        "detalle": "2,1 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-116",
+    "tema": "composición - grasa saturada (comparación)",
+    "enunciado": "Por cada 100 g: nata para montar, 23,0 g de grasa saturada y 340 kcal de energía; yogur griego natural, 0,1 g de grasa saturada y 59 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La nata, para montar; el yogur griego, natural sin grasa. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170859 y 170894)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cream, fluid, heavy whipping (fdcId 170859) grasa saturada 23,0 g, 340 kcal de energía; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) grasa saturada 0,1 g, 59 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa saturada por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Nata para montar",
+        "valor": "23,0",
+        "unidad": "g",
+        "detalle": "340 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur griego natural",
+        "valor": "0,1",
+        "unidad": "g",
+        "detalle": "59 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-117",
+    "tema": "composición - grasa saturada (comparación)",
+    "enunciado": "Por cada 100 g: mayonesa, 11,7 g de grasa saturada y 680 kcal de energía; aguacate, 2,1 g de grasa saturada y 160 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La mayonesa, normal; el aguacate, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171009 y 171705)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Salad dressing, mayonnaise, regular (fdcId 171009) grasa saturada 11,7 g, 680 kcal de energía; Avocados, raw, all commercial varieties (fdcId 171705) grasa saturada 2,1 g, 160 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa saturada por cada 100 g",
+      "antes": {
+        "icono": "🥫",
+        "nombre": "Mayonesa",
+        "valor": "11,7",
+        "unidad": "g",
+        "detalle": "680 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🥑",
+        "nombre": "Aguacate",
+        "valor": "2,1",
+        "unidad": "g",
+        "detalle": "160 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-118",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: chocolate con leche, 51,5 g de azúcares y 18,5 g de grasa saturada; chocolate negro 70-85 %, 24,0 g de azúcares y 24,5 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El chocolate negro es del 70 al 85 % de cacao. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167587 y 170273)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Candies, milk chocolate (fdcId 167587) azúcares 51,5 g, 18,5 g de grasa saturada; Chocolate, dark, 70-85% cacao solids (fdcId 170273) azúcares 24,0 g, 24,5 g de grasa saturada. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍫",
+        "nombre": "Chocolate con leche",
+        "valor": "51,5",
+        "unidad": "g",
+        "detalle": "18,5 g de grasa saturada"
+      },
+      "ahora": {
+        "icono": "🍫",
+        "nombre": "Chocolate negro 70-85 %",
+        "valor": "24,0",
+        "unidad": "g",
+        "detalle": "24,5 g de grasa saturada"
+      }
+    }
+  },
+  {
+    "id": "ALI-119",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: azúcar blanco, 99,8 g de azúcares y 387 kcal de energía; miel, 82,1 g de azúcares y 304 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El azúcar, blanco granulado. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169655 y 169640)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Sugars, granulated (fdcId 169655) azúcares 99,8 g, 387 kcal de energía; Honey (fdcId 169640) azúcares 82,1 g, 304 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍬",
+        "nombre": "Azúcar blanco",
+        "valor": "99,8",
+        "unidad": "g",
+        "detalle": "387 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍯",
+        "nombre": "Miel",
+        "valor": "82,1",
+        "unidad": "g",
+        "detalle": "304 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-120",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: mermelada, 48,5 g de azúcares y 278 kcal de energía; fresas, 4,9 g de azúcares y 32 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Las fresas, crudas. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169641 y 167762)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Jams and preserves (fdcId 169641) azúcares 48,5 g, 278 kcal de energía; Strawberries, raw (fdcId 167762) azúcares 4,9 g, 32 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍓",
+        "nombre": "Mermelada",
+        "valor": "48,5",
+        "unidad": "g",
+        "detalle": "278 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍓",
+        "nombre": "Fresas",
+        "valor": "4,9",
+        "unidad": "g",
+        "detalle": "32 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-121",
+    "tema": "composición - grasa (comparación)",
+    "enunciado": "Por cada 100 g: leche entera, 3,3 g de grasa y 61 kcal de energía; leche desnatada, 0,1 g de grasa y 34 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La leche entera frente a la desnatada. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171265 y 171269)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Milk, whole, 3,25% milkfat, with added vitamin D (fdcId 171265) grasa 3,3 g, 61 kcal de energía; Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim) (fdcId 171269) grasa 0,1 g, 34 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Leche entera",
+        "valor": "3,3",
+        "unidad": "g",
+        "detalle": "61 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Leche desnatada",
+        "valor": "0,1",
+        "unidad": "g",
+        "detalle": "34 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-122",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: leche entera, 61 kcal de energía y 3,2 g de proteína; bebida de soja natural, 41 kcal de energía y 2,9 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La leche, entera; la bebida de soja, natural. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171265 y 175218)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Milk, whole, 3,25% milkfat, with added vitamin D (fdcId 171265) energía 61 kcal, 3,2 g de proteína; SILK Plain, soymilk (fdcId 175218) energía 41 kcal, 2,9 g de proteína. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Leche entera",
+        "valor": "61",
+        "unidad": "kcal",
+        "detalle": "3,2 g de proteína"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Bebida de soja natural",
+        "valor": "41",
+        "unidad": "kcal",
+        "detalle": "2,9 g de proteína"
+      }
+    }
+  },
+  {
+    "id": "ALI-123",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: yogur de frutas desnatado, 19,0 g de azúcares y 95 kcal de energía; yogur natural entero, 4,7 g de azúcares y 61 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El yogur de frutas, desnatado; el natural, entero. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169898 y 171284)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Yogurt, fruit variety, nonfat (fdcId 169898) azúcares 19,0 g, 95 kcal de energía; Yogurt, plain, whole milk (fdcId 171284) azúcares 4,7 g, 61 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Yogur de frutas desnatado",
+        "valor": "19,0",
+        "unidad": "g",
+        "detalle": "95 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur natural entero",
+        "valor": "4,7",
+        "unidad": "g",
+        "detalle": "61 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-124",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: yogur de frutas desnatado, 19,0 g de azúcares y 4,4 g de proteína; yogur griego natural, 3,2 g de azúcares y 10,2 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El yogur de frutas, desnatado; el griego, natural sin grasa. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169898 y 170894)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Yogurt, fruit variety, nonfat (fdcId 169898) azúcares 19,0 g, 4,4 g de proteína; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) azúcares 3,2 g, 10,2 g de proteína. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥛",
+        "nombre": "Yogur de frutas desnatado",
+        "valor": "19,0",
+        "unidad": "g",
+        "detalle": "4,4 g de proteína"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur griego natural",
+        "valor": "3,2",
+        "unidad": "g",
+        "detalle": "10,2 g de proteína"
+      }
+    }
+  },
+  {
+    "id": "ALI-125",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: queso gouda, 356 kcal de energía y 27,4 g de grasa; requesón, 98 kcal de energía y 4,3 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El queso, gouda; el requesón, con nata. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 171241 y 172179)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cheese, gouda (fdcId 171241) energía 356 kcal, 27,4 g de grasa; Cheese, cottage, creamed, large or small curd (fdcId 172179) energía 98 kcal, 4,3 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🧀",
+        "nombre": "Queso gouda",
+        "valor": "356",
+        "unidad": "kcal",
+        "detalle": "27,4 g de grasa"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Requesón",
+        "valor": "98",
+        "unidad": "kcal",
+        "detalle": "4,3 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-126",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía y 8,2 g de grasa; atún al natural, 116 kcal de energía y 0,8 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El atún en aceite, escurrido; el atún al natural, escurrido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173708 y 171986)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Fish, tuna, light, canned in oil, drained solids (fdcId 173708) energía 198 kcal, 8,2 g de grasa; Fish, tuna, light, canned in water, without salt, drained solids (fdcId 171986) energía 116 kcal, 0,8 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥫",
+        "nombre": "Atún claro en aceite, escurrido",
+        "valor": "198",
+        "unidad": "kcal",
+        "detalle": "8,2 g de grasa"
+      },
+      "ahora": {
+        "icono": "🥫",
+        "nombre": "Atún al natural",
+        "valor": "116",
+        "unidad": "kcal",
+        "detalle": "0,8 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-127",
+    "tema": "composición - grasa (comparación)",
+    "enunciado": "Por cada 100 g: muslo de pollo asado sin piel, 8,2 g de grasa y 179 kcal de energía; pechuga de pollo asada, 3,6 g de grasa y 165 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El muslo y la pechuga, asados y sin piel. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172388 y 171477)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted (fdcId 172388) grasa 8,2 g, 179 kcal de energía; Chicken, broilers or fryers, breast, meat only, cooked, roasted (fdcId 171477) grasa 3,6 g, 165 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Grasa por cada 100 g",
+      "antes": {
+        "icono": "🍗",
+        "nombre": "Muslo de pollo asado sin piel",
+        "valor": "8,2",
+        "unidad": "g",
+        "detalle": "179 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍗",
+        "nombre": "Pechuga de pollo asada",
+        "valor": "3,6",
+        "unidad": "g",
+        "detalle": "165 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-128",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: mango, 13,7 g de azúcares y 60 kcal de energía; fresas, 4,9 g de azúcares y 32 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169910 y 167762)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Mangos, raw (fdcId 169910) azúcares 13,7 g, 60 kcal de energía; Strawberries, raw (fdcId 167762) azúcares 4,9 g, 32 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥭",
+        "nombre": "Mango",
+        "valor": "13,7",
+        "unidad": "g",
+        "detalle": "60 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍓",
+        "nombre": "Fresas",
+        "valor": "4,9",
+        "unidad": "g",
+        "detalle": "32 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-129",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: patata cocida, 87 kcal de energía y 20,1 g de hidratos de carbono; coliflor cruda, 25 kcal de energía y 5,0 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La patata, cocida; la coliflor, cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170438 y 169986)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Potatoes, boiled, cooked in skin, flesh, without salt (fdcId 170438) energía 87 kcal, 20,1 g de hidratos de carbono; Cauliflower, raw (fdcId 169986) energía 25 kcal, 5,0 g de hidratos de carbono. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥔",
+        "nombre": "Patata cocida",
+        "valor": "87",
+        "unidad": "kcal",
+        "detalle": "20,1 g de hidratos de carbono"
+      },
+      "ahora": {
+        "icono": "🥦",
+        "nombre": "Coliflor cruda",
+        "valor": "25",
+        "unidad": "kcal",
+        "detalle": "5,0 g de hidratos de carbono"
+      }
+    }
+  },
+  {
+    "id": "ALI-130",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: patatas fritas de bolsa, 532 kcal de energía y 527 mg de sodio; zanahoria cruda, 41 kcal de energía y 69 mg de sodio.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La zanahoria, cruda. El sodio no es lo mismo que la sal. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169677 y 170393)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Snacks, potato chips, plain, salted (fdcId 169677) energía 532 kcal, 527 mg de sodio; Carrots, raw (fdcId 170393) energía 41 kcal, 69 mg de sodio. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥔",
+        "nombre": "Patatas fritas de bolsa",
+        "valor": "532",
+        "unidad": "kcal",
+        "detalle": "527 mg de sodio"
+      },
+      "ahora": {
+        "icono": "🥕",
+        "nombre": "Zanahoria cruda",
+        "valor": "41",
+        "unidad": "kcal",
+        "detalle": "69 mg de sodio"
+      }
+    }
+  },
+  {
+    "id": "ALI-131",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: refresco de cola, 9,9 g de azúcares y 42 kcal de energía; café solo, 0,0 g de azúcares y 1,0 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El café, solo y sin azúcar. Todo se mide por 100 g. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174852 y 171890)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beverages, carbonated, cola, regular (fdcId 174852) azúcares 9,9 g, 42 kcal de energía; Beverages, coffee, brewed, prepared with tap water (fdcId 171890) azúcares 0,0 g, 1,0 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥤",
+        "nombre": "Refresco de cola",
+        "valor": "9,9",
+        "unidad": "g",
+        "detalle": "42 kcal de energía"
+      },
+      "ahora": {
+        "icono": "☕",
+        "nombre": "Café solo",
+        "valor": "0,0",
+        "unidad": "g",
+        "detalle": "1,0 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-132",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: cerveza, 43 kcal de energía y 3,6 g de hidratos de carbono; vino tinto, 85 kcal de energía y 2,6 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. La cerveza, normal; el vino, tinto de mesa. Todo se mide por 100 g. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168746 y 173190)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Alcoholic beverage, beer, regular, all (fdcId 168746) energía 43 kcal, 3,6 g de hidratos de carbono; Alcoholic beverage, wine, table, red (fdcId 173190) energía 85 kcal, 2,6 g de hidratos de carbono. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍺",
+        "nombre": "Cerveza",
+        "valor": "43",
+        "unidad": "kcal",
+        "detalle": "3,6 g de hidratos de carbono"
+      },
+      "ahora": {
+        "icono": "🍷",
+        "nombre": "Vino tinto",
+        "valor": "85",
+        "unidad": "kcal",
+        "detalle": "2,6 g de hidratos de carbono"
+      }
+    }
+  },
+  {
+    "id": "ALI-133",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: helado de vainilla, 207 kcal de energía y 21,2 g de azúcares; fresas, 32 kcal de energía y 4,9 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El helado, de vainilla; las fresas, crudas. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167575 y 167762)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Ice creams, vanilla (fdcId 167575) energía 207 kcal, 21,2 g de azúcares; Strawberries, raw (fdcId 167762) energía 32 kcal, 4,9 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍨",
+        "nombre": "Helado de vainilla",
+        "valor": "207",
+        "unidad": "kcal",
+        "detalle": "21,2 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🍓",
+        "nombre": "Fresas",
+        "valor": "32",
+        "unidad": "kcal",
+        "detalle": "4,9 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-134",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: bacon frito, 468 kcal de energía y 12,0 g de grasa saturada; huevo cocido, 155 kcal de energía y 3,3 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El bacon, frito; el huevo, cocido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168322 y 173424)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pork, cured, bacon, pre-sliced, cooked, pan-fried (fdcId 168322) energía 468 kcal, 12,0 g de grasa saturada; Egg, whole, cooked, hard-boiled (fdcId 173424) energía 155 kcal, 3,3 g de grasa saturada. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🥓",
+        "nombre": "Bacon frito",
+        "valor": "468",
+        "unidad": "kcal",
+        "detalle": "12,0 g de grasa saturada"
+      },
+      "ahora": {
+        "icono": "🥚",
+        "nombre": "Huevo cocido",
+        "valor": "155",
+        "unidad": "kcal",
+        "detalle": "3,3 g de grasa saturada"
+      }
+    }
+  },
+  {
+    "id": "ALI-135",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: galletas tipo maría, 20,2 g de azúcares y 467 kcal de energía; tortitas de arroz integral, 0,9 g de azúcares y 387 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Las tortitas, de arroz integral sin sal. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174950 y 170250)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Cookies, butter, commercially prepared, enriched (fdcId 174950) azúcares 20,2 g, 467 kcal de energía; Snacks, rice cakes, brown rice, plain, unsalted (fdcId 170250) azúcares 0,9 g, 387 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍪",
+        "nombre": "Galletas tipo María",
+        "valor": "20,2",
+        "unidad": "g",
+        "detalle": "467 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍘",
+        "nombre": "Tortitas de arroz integral",
+        "valor": "0,9",
+        "unidad": "g",
+        "detalle": "387 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-136",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: kétchup, 21,3 g de azúcares y 101 kcal de energía; tomate crudo, 2,6 g de azúcares y 18 kcal de energía.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El tomate, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168556 y 170457)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Catsup (fdcId 168556) azúcares 21,3 g, 101 kcal de energía; Tomatoes, red, ripe, raw, year round average (fdcId 170457) azúcares 2,6 g, 18 kcal de energía. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍅",
+        "nombre": "Kétchup",
+        "valor": "21,3",
+        "unidad": "g",
+        "detalle": "101 kcal de energía"
+      },
+      "ahora": {
+        "icono": "🍅",
+        "nombre": "Tomate crudo",
+        "valor": "2,6",
+        "unidad": "g",
+        "detalle": "18 kcal de energía"
+      }
+    }
+  },
+  {
+    "id": "ALI-137",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: crema de cacao y avellanas, 54,1 g de azúcares y 28,4 g de grasa saturada; hummus, 0,6 g de azúcares y 2,6 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. El hummus, comercial. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168000 y 174289)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chocolate-flavored hazelnut spread (fdcId 168000) azúcares 54,1 g, 28,4 g de grasa saturada; Hummus, commercial (fdcId 174289) azúcares 0,6 g, 2,6 g de grasa saturada. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍫",
+        "nombre": "Crema de cacao y avellanas",
+        "valor": "54,1",
+        "unidad": "g",
+        "detalle": "28,4 g de grasa saturada"
+      },
+      "ahora": {
+        "icono": "🫘",
+        "nombre": "Hummus",
+        "valor": "0,6",
+        "unidad": "g",
+        "detalle": "2,6 g de grasa saturada"
+      }
+    }
+  },
+  {
+    "id": "ALI-138",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: chocolate con leche, 51,5 g de azúcares y 3,4 g de fibra; almendras, 4,4 g de azúcares y 12,5 g de fibra.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. Las almendras, tal cual. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167587 y 170567)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Candies, milk chocolate (fdcId 167587) azúcares 51,5 g, 3,4 g de fibra; Nuts, almonds (fdcId 170567) azúcares 4,4 g, 12,5 g de fibra. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🍫",
+        "nombre": "Chocolate con leche",
+        "valor": "51,5",
+        "unidad": "g",
+        "detalle": "3,4 g de fibra"
+      },
+      "ahora": {
+        "icono": "🌰",
+        "nombre": "Almendras",
+        "valor": "4,4",
+        "unidad": "g",
+        "detalle": "12,5 g de fibra"
+      }
+    }
+  },
+  {
+    "id": "ALI-139",
+    "tema": "composición - azúcares (comparación)",
+    "enunciado": "Por cada 100 g: refresco de cola, 9,9 g de azúcares y 0,0 g de proteína; leche desnatada, 5,1 g de azúcares y 3,4 g de proteína.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son azúcares totales, los de la propia fruta o leche incluidos. La leche, desnatada; trae su propio azúcar, la lactosa. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174852 y 171269)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Beverages, carbonated, cola, regular (fdcId 174852) azúcares 9,9 g, 0,0 g de proteína; Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim) (fdcId 171269) azúcares 5,1 g, 3,4 g de proteína. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Azúcares por cada 100 g",
+      "antes": {
+        "icono": "🥤",
+        "nombre": "Refresco de cola",
+        "valor": "9,9",
+        "unidad": "g",
+        "detalle": "0,0 g de proteína"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Leche desnatada",
+        "valor": "5,1",
+        "unidad": "g",
+        "detalle": "3,4 g de proteína"
+      }
+    }
+  },
+  {
+    "id": "ALI-140",
+    "tema": "composición - sodio (comparación)",
+    "enunciado": "Por cada 100 g: salami curado de cerdo, 2260 mg de sodio y 33,7 g de grasa; jamón cocido, 814 mg de sodio y 8,8 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. El sodio no es lo mismo que la sal. El salami, curado; el jamón, cocido. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172938 y 173864)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Salami, dry or hard, pork (fdcId 172938) sodio 2260 mg, 33,7 g de grasa; Ham, sliced, regular (approximately 11% fat) (fdcId 173864) sodio 814 mg, 8,8 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Sodio por cada 100 g",
+      "antes": {
+        "icono": "🍖",
+        "nombre": "Salami curado de cerdo",
+        "valor": "2260",
+        "unidad": "mg",
+        "detalle": "33,7 g de grasa"
+      },
+      "ahora": {
+        "icono": "🍖",
+        "nombre": "Jamón cocido",
+        "valor": "814",
+        "unidad": "mg",
+        "detalle": "8,8 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-141",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: helado de vainilla, 207 kcal de energía y 21,2 g de azúcares; yogur griego natural, 59 kcal de energía y 3,2 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El helado, de vainilla; el yogur, griego natural sin grasa. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 167575 y 170894)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Ice creams, vanilla (fdcId 167575) energía 207 kcal, 21,2 g de azúcares; Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program) (fdcId 170894) energía 59 kcal, 3,2 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍨",
+        "nombre": "Helado de vainilla",
+        "valor": "207",
+        "unidad": "kcal",
+        "detalle": "21,2 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🥛",
+        "nombre": "Yogur griego natural",
+        "valor": "59",
+        "unidad": "kcal",
+        "detalle": "3,2 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-142",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: melón, 34 kcal de energía y 7,9 g de azúcares; sandía, 30 kcal de energía y 6,2 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Fruta cruda. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169092 y 167765)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Melons, cantaloupe, raw (fdcId 169092) energía 34 kcal, 7,9 g de azúcares; Watermelon, raw (fdcId 167765) energía 30 kcal, 6,2 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍈",
+        "nombre": "Melón",
+        "valor": "34",
+        "unidad": "kcal",
+        "detalle": "7,9 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🍉",
+        "nombre": "Sandía",
+        "valor": "30",
+        "unidad": "kcal",
+        "detalle": "6,2 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-143",
+    "tema": "composición - fibra (comparación)",
+    "enunciado": "Por cada 100 g: pera, 3,1 g de fibra y 9,8 g de azúcares; manzana, 2,4 g de fibra y 10,4 g de azúcares.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Fruta cruda, con piel. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 169118 y 171688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Pears, raw (fdcId 169118) fibra 3,1 g, 9,8 g de azúcares; Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) (fdcId 171688) fibra 2,4 g, 10,4 g de azúcares. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Fibra por cada 100 g",
+      "antes": {
+        "icono": "🍐",
+        "nombre": "Pera",
+        "valor": "3,1",
+        "unidad": "g",
+        "detalle": "9,8 g de azúcares"
+      },
+      "ahora": {
+        "icono": "🍎",
+        "nombre": "Manzana",
+        "valor": "2,4",
+        "unidad": "g",
+        "detalle": "10,4 g de azúcares"
+      }
+    }
+  },
+  {
+    "id": "ALI-144",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: pan blanco, 266 kcal de energía y 49,4 g de hidratos de carbono; pan integral, 252 kcal de energía y 42,7 g de hidratos de carbono.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 174924 y 172688)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Bread, white, commercially prepared (includes soft bread crumbs) (fdcId 174924) energía 266 kcal, 49,4 g de hidratos de carbono; Bread, whole-wheat, commercially prepared (fdcId 172688) energía 252 kcal, 42,7 g de hidratos de carbono. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍞",
+        "nombre": "Pan blanco",
+        "valor": "266",
+        "unidad": "kcal",
+        "detalle": "49,4 g de hidratos de carbono"
+      },
+      "ahora": {
+        "icono": "🍞",
+        "nombre": "Pan integral",
+        "valor": "252",
+        "unidad": "kcal",
+        "detalle": "42,7 g de hidratos de carbono"
+      }
+    }
+  },
+  {
+    "id": "ALI-145",
+    "tema": "composición - proteína (comparación)",
+    "enunciado": "Por cada 100 g: salchicha de cerdo tipo frankfurt, 12,8 g de proteína y 23,7 g de grasa; muslo de pollo asado sin piel, 24,8 g de proteína y 8,2 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. La salchicha, de cerdo tipo frankfurt; el muslo, asado y sin piel. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172964 y 172388)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Frankfurter, pork (fdcId 172964) proteína 12,8 g, 23,7 g de grasa; Chicken, broilers or fryers, thigh, meat only, cooked, roasted (fdcId 172388) proteína 24,8 g, 8,2 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Proteína por cada 100 g",
+      "antes": {
+        "icono": "🌭",
+        "nombre": "Salchicha de cerdo tipo frankfurt",
+        "valor": "12,8",
+        "unidad": "g",
+        "detalle": "23,7 g de grasa"
+      },
+      "ahora": {
+        "icono": "🍗",
+        "nombre": "Muslo de pollo asado sin piel",
+        "valor": "24,8",
+        "unidad": "g",
+        "detalle": "8,2 g de grasa"
+      }
+    }
+  },
+  {
+    "id": "ALI-146",
+    "tema": "composición - energía (comparación)",
+    "enunciado": "Por cada 100 g: crema de cacao y avellanas, 539 kcal de energía y 29,7 g de grasa; aguacate, 160 kcal de energía y 14,7 g de grasa.",
+    "veredicto": "respaldado",
+    "matiz": "Valores por 100 g del alimento en el estado indicado. Son kilocalorías por 100 g del alimento, no por ración. El aguacate, crudo. Es composición, no una recomendación de cantidad ni de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168000 y 171705)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-10-11",
+      "via": "Conjunto de datos SR Legacy de USDA FoodData Central (descarga oficial FoodData_Central_sr_legacy_food_csv_2018-04: food.csv y food_nutrient.csv), leído en local",
+      "detalle": "Chocolate-flavored hazelnut spread (fdcId 168000) energía 539 kcal, 29,7 g de grasa; Avocados, raw, all commercial varieties (fdcId 171705) energía 160 kcal, 14,7 g de grasa. Los valores se escriben con una cifra decimal (g) o redondeados (mg y µg a partir de 10)."
+    },
+    "molde_datos": {
+      "tipo": "antes_ahora",
+      "titulo": "Calorías por cada 100 g",
+      "antes": {
+        "icono": "🍫",
+        "nombre": "Crema de cacao y avellanas",
+        "valor": "539",
+        "unidad": "kcal",
+        "detalle": "29,7 g de grasa"
+      },
+      "ahora": {
+        "icono": "🥑",
+        "nombre": "Aguacate",
+        "valor": "160",
+        "unidad": "kcal",
+        "detalle": "14,7 g de grasa"
+      }
+    }
   }
 ]
