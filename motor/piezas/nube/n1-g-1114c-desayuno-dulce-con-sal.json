@@ -1,0 +1,78 @@
+{
+  "id": "n1-g-1114c-desayuno-dulce-con-sal",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-096"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-14",
+    "hueco": 3
+  },
+  "alt": [
+    "Lo dulce también lleva sodio. Ranking de columnas de círculos con foto, en mg de sodio por 100 g, una selección: copos de maíz 571 mg, cereales de desayuno azucarados 451 mg, cruasán de mantequilla 384 mg y donut glaseado 316 mg.",
+    "Copos de maíz: 571 mg de sodio, el más alto de la selección. Por cada 100 g. El sodio no es lo mismo que la sal. Foto de copos de maíz.",
+    "El donut lleva menos: donut glaseado, 316 mg de sodio por 100 g, el más bajo de la selección. Menos que los otros tres. Foto de un donut glaseado.",
+    "Enséñaselo a quien vigila la sal. Al pie, el aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "Lo {dulce} también lleva sodio",
+      "unidad": "mg de sodio por 100 g · una selección",
+      "paso": 100,
+      "filas": [
+        {
+          "nombre": "Copos de maíz",
+          "valor": "571 mg",
+          "foto": "copos_maiz"
+        },
+        {
+          "nombre": "Cereales de desayuno azucarados",
+          "valor": "451 mg",
+          "foto": "cereales_azucarados"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "384 mg",
+          "foto": "croissant"
+        },
+        {
+          "nombre": "Donut glaseado",
+          "valor": "316 mg",
+          "foto": "donut"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "El más alto de la selección",
+      "titular": "Copos de maíz: {571 mg} de sodio",
+      "texto": "Por cada 100 g. El sodio no es lo mismo que la sal.",
+      "foto": "copos_maiz"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "El más bajo de la selección",
+      "titular": "El donut lleva {menos}",
+      "texto": "Donut glaseado: 316 mg de sodio por 100 g. Menos que los otros tres.",
+      "foto": "donut"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Enséñaselo a quien vigila la {sal}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Los copos de maíz llevan más sodio que un donut glaseado: 571 mg frente a 316 mg por 100 g 🥣\n\nPor cada 100 g: copos de maíz 571 mg, cereales de desayuno azucarados 451 mg, cruasán de mantequilla 384 mg y donut glaseado 316 mg 🥐\nOjo: la cifra es de sodio, y el sodio no es lo mismo que la sal 🧂\nEs una selección de cuatro desayunos, de mayor a menor sodio 🛒\n\nEs composición por 100 g, no una recomendación. Si te han pedido limitar la sal, consulta con tu médico.\n\n¿Cuál de los cuatro habrías puesto en último lugar?\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #sal #etiquetas #ranking #supermercado"
+}

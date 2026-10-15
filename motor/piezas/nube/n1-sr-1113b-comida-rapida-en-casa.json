@@ -1,0 +1,79 @@
+{
+  "id": "n1-sr-1113b-comida-rapida-en-casa",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1111c-comida-rapida-en-casa",
+  "molde": "menu",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-067"
+  ],
+  "pie_instagram": "Lo que pides a domicilio, hecho en tu cocina 🥡\n\nJueves: hamburguesa con queso, lechuga y tomate 🍔\nViernes: pizza margarita con mozzarella y albahaca 🍕\nSábado: wrap de pollo a la parrilla con rúcula 🌯\nDomingo: bol de arroz con salmón, aguacate y edamame 🍚\n\nSon ideas de platos, no una pauta personal. Si el pescado va crudo, tiene que haberse congelado antes por el anisakis, y no es para el embarazo. Con diabetes, medicación o un trastorno de la conducta alimentaria, consulta antes con tu médico.\n\n¿Qué es lo que más pides a domicilio?\nReenvíalo a quien tiene la app de reparto en la pantalla de inicio.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#recetasfaciles #comidacasera #menusemanal #dieta #fastfoodcasero",
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Menú",
+      "titular": "Comida rápida: hecha en {casa}",
+      "texto": "De jueves a domingo.",
+      "foto": "plato_hamburguesa_casera"
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_hamburguesa_casera",
+      "dia": "Jueves",
+      "titulo": "Hamburguesa casera con queso",
+      "texto": "Carne, queso, lechuga y tomate."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_pizza_casera",
+      "dia": "Viernes",
+      "titulo": "Pizza margarita",
+      "texto": "Masa, tomate, mozzarella y albahaca."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_wrap_pollo",
+      "dia": "Sábado",
+      "titulo": "Wrap de pollo a la parrilla",
+      "texto": "Con rúcula y cebolla morada."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_poke",
+      "dia": "Domingo",
+      "titulo": "Bol de arroz con salmón",
+      "texto": "Aguacate, edamame, pepino y alga."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Mándaselo a quien pide a {domicilio} cada semana",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "alt": [
+    "Menú. Comida rápida: hecha en casa. De jueves a domingo.",
+    "Jueves: Hamburguesa casera con queso. Carne, queso, lechuga y tomate.",
+    "Viernes: Pizza margarita. Masa, tomate, mozzarella y albahaca.",
+    "Sábado: Wrap de pollo a la parrilla. Con rúcula y cebolla morada.",
+    "Domingo: Bol de arroz con salmón. Aguacate, edamame, pepino y alga.",
+    "Mándaselo a quien pide a domicilio cada semana. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-13",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "menu"
+  },
+  "produccion_video": {
+    "duracion_s": 13.27,
+    "tamano_mb": 3.79
+  }
+}

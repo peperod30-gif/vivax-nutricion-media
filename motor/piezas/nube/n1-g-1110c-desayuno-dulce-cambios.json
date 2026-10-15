@@ -1,0 +1,78 @@
+{
+  "id": "n1-g-1110c-desayuno-dulce-cambios",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-100",
+    "ALI-106"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-10",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Desayuno",
+      "titular": "Casi las mismas calorías, otro {desayuno}",
+      "texto": "Cereales azucarados: 389 kcal. Copos de avena secos: 379 kcal. Por 100 g.",
+      "foto": "cereales_azucarados"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes desayunabas",
+        "nombre": "Cereales azucarados",
+        "foto": "cereales_azucarados",
+        "valor": "39,3 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "der": {
+        "etiqueta": "Ahora puedes desayunar",
+        "nombre": "Copos de avena secos",
+        "foto": "avena_seca",
+        "valor": "1,0 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes pedías",
+        "nombre": "Cruasán de mantequilla",
+        "foto": "croissant",
+        "valor": "406 kcal",
+        "texto": "por 100 g"
+      },
+      "der": {
+        "etiqueta": "Ahora puedes pedir",
+        "nombre": "Pan blanco tostado",
+        "foto": "pan_blanco",
+        "valor": "290 kcal",
+        "texto": "por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien desayuna {en el bar}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Casi las mismas calorías, pero los azúcares no se parecen en nada ☕\n\nCereales azucarados: 39,3 g de azúcares y 389 kcal por 100 g 🥣\nCopos de avena secos: 1,0 g de azúcares y 379 kcal por 100 g 🌾\nCruasán de mantequilla: 406 kcal. Pan blanco tostado: 290 kcal. Por 100 g 🥐\n\nEs composición por 100 g, no una recomendación. Con diabetes, medicación o embarazo, consulta con tu médico antes de cambiar la dieta.\n\n¿Cruasán o pan blanco tostado: qué pides más en el bar?\nMándaselo a quien desayuna en el bar.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#dieta #desayuno #azucar #cambios #comidareal",
+  "alt": [
+    "Desayuno. Casi las mismas calorías, otro desayuno. Cereales azucarados: 389 kcal. Copos de avena secos: 379 kcal. Por 100 g.",
+    "Cereales azucarados, 39,3 g de azúcares por 100 g, frente a Copos de avena secos, 1,0 g de azúcares por 100 g.",
+    "Cruasán de mantequilla, 406 kcal por 100 g, frente a Pan blanco tostado, 290 kcal por 100 g.",
+    "Mándaselo a quien desayuna en el bar. Aviso de contenido divulgativo."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "n1-sr-1111b-calorias-por-gramo",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1107a-calorias-por-gramo",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "GAN-008"
+  ],
+  "pie_instagram": "¿Qué aporta más calorías por gramo: la grasa, los hidratos o la proteína? Contesta con el número antes de deslizar 🤔\n\nGrasa, hidratos y proteína: un gramo de cada uno, sin trampa 🫒\nLa segunda hoja da la respuesta y la cuarta, de dónde sale la cifra de tu etiqueta 🏷️\n\nSon los factores de cálculo de la etiqueta, no una recomendación de cuánto comer.\n\nTenlo a mano la próxima vez que mires un envase.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #calorias #grasas #quiz #etiquetas",
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "blanco",
+      "titulo": "¿Qué aporta más {calorías} por gramo?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Grasa",
+          "foto": "aceite_oliva",
+          "valor": "9 kcal"
+        },
+        {
+          "nombre": "Hidratos",
+          "foto": "pan_molde",
+          "valor": "4 kcal"
+        },
+        {
+          "nombre": "Proteína",
+          "foto": "tofu2",
+          "valor": "4 kcal"
+        }
+      ],
+      "texto": "Un gramo de cada nutriente, no del alimento. Contesta con el número."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Gana la {grasa}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Grasa",
+          "foto": "aceite_oliva",
+          "valor": "9 kcal"
+        },
+        {
+          "nombre": "Hidratos",
+          "foto": "pan_molde",
+          "valor": "4 kcal"
+        },
+        {
+          "nombre": "Proteína",
+          "foto": "tofu2",
+          "valor": "4 kcal"
+        }
+      ],
+      "texto": "Kcal por gramo de nutriente, como en la etiqueta europea."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "titular": "Hidratos y proteína: {empate} a 4",
+      "texto": "La grasa aporta 9 kcal por gramo. Hidratos y proteína, 4 cada uno."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Así sale la cifra de la etiqueta",
+      "titular": [
+        "Grasa por 9,",
+        "hidratos y",
+        "proteína",
+        "{por 4}"
+      ],
+      "texto": "Es el cálculo que usa la Unión Europea para el valor energético."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Llévaselo a quien cuenta {calorías}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "¿Qué aporta más calorías por gramo? Opciones: Grasa, Hidratos, Proteína. Un gramo de cada nutriente, no del alimento. Contesta con el número.",
+    "Gana la grasa Opciones: Grasa 9 kcal, Hidratos 4 kcal, Proteína 4 kcal. Kcal por gramo de nutriente, como en la etiqueta europea.",
+    "Hidratos y proteína: empate a 4. La grasa aporta 9 kcal por gramo. Hidratos y proteína, 4 cada uno.",
+    "Así sale la cifra de la etiqueta. Grasa por 9, hidratos y proteína por 4. Es el cálculo que usa la Unión Europea para el valor energético.",
+    "Llévaselo a quien cuenta calorías. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-11",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "eleccion"
+  },
+  "produccion_video": {
+    "duracion_s": 13.67,
+    "tamano_mb": 2.87
+  }
+}

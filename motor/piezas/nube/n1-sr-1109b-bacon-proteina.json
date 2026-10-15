@@ -1,0 +1,105 @@
+{
+  "id": "n1-sr-1109b-bacon-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1105c-bacon-proteina",
+  "molde": "eleccion",
+  "pilar": "dieta",
+  "hechos": [
+    "ALI-082",
+    "ALI-090"
+  ],
+  "pie_instagram": "¿Qué tiene más proteína: el bacon, el atún en aceite o la hamburguesa? 🤔\n\nPor cada 100 g: atún claro en aceite escurrido, hamburguesa de ternera cocinada y bacon frito 🥓\nApuesta en comentarios y desliza para ver quién gana, y qué más trae 🍔\n\nEs composición por 100 g, no una recomendación.\n\nPara cuando alguien diga que el bacon es solo grasa.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #proteina #grasas #quiz #comidareal",
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "¿Qué tiene más {proteína}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Atún en aceite, escurrido",
+          "foto": "atun_aceite",
+          "valor": "29,1 g"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada",
+          "foto": "hamburguesa",
+          "valor": "25,8 g"
+        },
+        {
+          "nombre": "Bacon frito",
+          "foto": "bacon",
+          "valor": "33,9 g"
+        }
+      ],
+      "texto": "Por cada 100 g. Apuesta en comentarios."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "Gana el {bacon} frito",
+      "ganador": 2,
+      "opciones": [
+        {
+          "nombre": "Atún en aceite, escurrido",
+          "foto": "atun_aceite",
+          "valor": "29,1 g"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada",
+          "foto": "hamburguesa",
+          "valor": "25,8 g"
+        },
+        {
+          "nombre": "Bacon frito",
+          "foto": "bacon",
+          "valor": "33,9 g"
+        }
+      ],
+      "texto": "Gramos de proteína por cada 100 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La letra pequeña",
+      "titular": "Por 100 g: más {grasa} que la hamburguesa",
+      "texto": "Bacon frito: 35,1 g de grasa. Hamburguesa de ternera cocinada: 17,8 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "titular": "La salchicha: más {grasa} que proteína",
+      "texto": "De cerdo, tipo frankfurt: 12,8 g de proteína y 23,7 g de grasa por 100 g.",
+      "foto": "salchicha"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Pásaselo a quien dice que el bacon es {solo grasa}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "¿Qué tiene más proteína? Opciones: Atún en aceite, escurrido, Hamburguesa de ternera cocinada, Bacon frito. Por cada 100 g. Apuesta en comentarios.",
+    "Gana el bacon frito Opciones: Atún en aceite, escurrido 29,1 g, Hamburguesa de ternera cocinada 25,8 g, Bacon frito 33,9 g. Gramos de proteína por cada 100 g.",
+    "La letra pequeña. Por 100 g: más grasa que la hamburguesa. Bacon frito: 35,1 g de grasa. Hamburguesa de ternera cocinada: 17,8 g.",
+    "La salchicha: más grasa que proteína. De cerdo, tipo frankfurt: 12,8 g de proteína y 23,7 g de grasa por 100 g.",
+    "Pásaselo a quien dice que el bacon es solo grasa. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-09",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "eleccion"
+  },
+  "produccion_video": {
+    "duracion_s": 14.6,
+    "tamano_mb": 3.3
+  }
+}

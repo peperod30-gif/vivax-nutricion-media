@@ -1,0 +1,104 @@
+{
+  "id": "n1-g-1112a-fruta-mas-dulce",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-128",
+    "ALI-142",
+    "MIT-016"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-12",
+    "hueco": 1
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "blanco",
+      "titulo": "¿Qué fruta lleva más {azúcar}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Mango",
+          "foto": "mango",
+          "valor": "13,7 g"
+        },
+        {
+          "nombre": "Melón",
+          "foto": "melon",
+          "valor": "7,9 g"
+        },
+        {
+          "nombre": "Sandía",
+          "foto": "sandia",
+          "valor": "6,2 g"
+        }
+      ],
+      "texto": "Fruta cruda, por cada 100 g. Di el número."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Gana el {mango}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Mango",
+          "foto": "mango",
+          "valor": "13,7 g"
+        },
+        {
+          "nombre": "Melón",
+          "foto": "melon",
+          "valor": "7,9 g"
+        },
+        {
+          "nombre": "Sandía",
+          "foto": "sandia",
+          "valor": "6,2 g"
+        }
+      ],
+      "texto": "Gramos de azúcares por cada 100 g, fruta cruda."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Fuera del quiz",
+      "titular": [
+        "Las fresas:",
+        "{4,9 g}",
+        "por cada 100 g"
+      ],
+      "texto": "De azúcares, en fruta cruda. Energía por 100 g: mango, 60 kcal; fresas, 32 kcal.",
+      "foto": "fresas"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Lo que dice la OMS",
+      "titular": "La fruta fresca no cuenta como {azúcar libre}",
+      "texto": "Los zumos, la miel y los azúcares añadidos, sí.",
+      "foto": "sandia"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Compártelo con quien dice que la {fruta} engorda por su azúcar",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "El mango, el melón o la sandía: ¿cuál lleva más azúcar? Piénsalo antes de deslizar 🥭\n\nTres frutas crudas, por cada 100 g de fruta 🍈\nY una cuarta fuera del quiz, con sus calorías 🍓\nLo que dice la OMS del azúcar de la fruta fresca 🍉\n\nEs composición por 100 g de fruta cruda, no una recomendación de cantidad. Con diabetes, medicación o embarazo, consulta con tu médico.\n\nCompártelo con quien dice que la fruta engorda por su azúcar.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #fruta #azucar #quiz #comidareal",
+  "alt": [
+    "¿Qué fruta lleva más azúcar? Opciones: Mango, Melón, Sandía. Fruta cruda, por cada 100 g. Di el número.",
+    "Gana el mango Opciones: Mango 13,7 g, Melón 7,9 g, Sandía 6,2 g. Gramos de azúcares por cada 100 g, fruta cruda.",
+    "Fuera del quiz. Las fresas: 4,9 g por cada 100 g. De azúcares, en fruta cruda. Energía por 100 g: mango, 60 kcal; fresas, 32 kcal.",
+    "Lo que dice la OMS. La fruta fresca no cuenta como azúcar libre. Los zumos, la miel y los azúcares añadidos, sí.",
+    "Compártelo con quien dice que la fruta engorda por su azúcar. Aviso de contenido divulgativo."
+  ]
+}

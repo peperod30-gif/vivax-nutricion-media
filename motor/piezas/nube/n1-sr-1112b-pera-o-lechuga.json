@@ -1,0 +1,86 @@
+{
+  "id": "n1-sr-1112b-pera-o-lechuga",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1109a-pera-mas-fibra-que-lechuga",
+  "molde": "pictograma",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-094"
+  ],
+  "pie_instagram": "La pera tiene más fibra que la lechuga y que el pepino 🍐\n\nFibra por cada 100 g, todo crudo: pera 3,1 g, judías verdes 2,7 g, lechuga iceberg 1,2 g y pepino con piel 0,5 g 🥒\nLas judías verdes, 2,7 g, casi alcanzan a la pera, 3,1 g 🫛\nEs una selección: los espárragos crudos llevan 2,1 g y la cebolla cruda, 1,7 g 🧅\n\nEs composición por 100 g, no una recomendación.\n\nCuéntaselo a quien pide la ensalada por la fibra.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #fibra #verduras #ranking #comidareal",
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "oliva",
+      "titulo": "La pera tiene más {fibra} que la lechuga",
+      "unidad": "selección, g de fibra por 100 g",
+      "paso": 0.5,
+      "filas": [
+        {
+          "nombre": "Pera cruda",
+          "valor": "3,1 g",
+          "foto": "pera"
+        },
+        {
+          "nombre": "Judías verdes crudas",
+          "valor": "2,7 g",
+          "foto": "judias_verdes"
+        },
+        {
+          "nombre": "Lechuga iceberg cruda",
+          "valor": "1,2 g",
+          "foto": "lechuga_iceberg"
+        },
+        {
+          "nombre": "Pepino con piel, crudo",
+          "valor": "0,5 g",
+          "foto": "pepino"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Lo más bajo de la selección",
+      "titular": "Lechuga y pepino: {poca} fibra",
+      "texto": "Lechuga iceberg, 1,2 g; pepino con piel, 0,5 g. Por cada 100 g, crudos.",
+      "foto": "pepino"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La sorpresa",
+      "titular": "Las judías verdes, {casi} como la pera",
+      "texto": "2,7 g de fibra por 100 g, crudas. La pera cruda, 3,1 g.",
+      "foto": "judias_verdes"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Cuéntaselo a quien cena {solo ensalada}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "La pera tiene más fibra que la lechuga. selección, g de fibra por 100 g: Pera cruda 3,1 g; Judías verdes crudas 2,7 g; Lechuga iceberg cruda 1,2 g; Pepino con piel, crudo 0,5 g.",
+    "Lo más bajo de la selección. Lechuga y pepino: poca fibra. Lechuga iceberg, 1,2 g; pepino con piel, 0,5 g. Por cada 100 g, crudos.",
+    "La sorpresa. Las judías verdes, casi como la pera. 2,7 g de fibra por 100 g, crudas. La pera cruda, 3,1 g.",
+    "Cuéntaselo a quien cena solo ensalada. Aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-11-12",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "pictograma"
+  },
+  "produccion_video": {
+    "duracion_s": 12.47,
+    "tamano_mb": 2.62
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "n1-g-1113a-vitamina-e-pipas",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "VIT-010",
+    "VIT-012"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-13",
+    "hueco": 1,
+    "revision_jose": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "blanco",
+      "titulo": "¿Qué tiene más {vitamina E}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Aceite de oliva",
+          "foto": "aceite_oliva",
+          "valor": "14,4 mg"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "foto": "aguacate",
+          "valor": "2,1 mg"
+        },
+        {
+          "nombre": "Pipas de girasol peladas",
+          "foto": "pipas_girasol",
+          "valor": "35,2 mg"
+        }
+      ],
+      "texto": "Por cada 100 g. Di el número."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Ganan las {pipas}",
+      "ganador": 2,
+      "opciones": [
+        {
+          "nombre": "Aceite de oliva",
+          "foto": "aceite_oliva",
+          "valor": "14,4 mg"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "foto": "aguacate",
+          "valor": "2,1 mg"
+        },
+        {
+          "nombre": "Pipas de girasol peladas",
+          "foto": "pipas_girasol",
+          "valor": "35,2 mg"
+        }
+      ],
+      "texto": "Miligramos de vitamina E por cada 100 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Sorpresa",
+      "titular": "Las pipas ganan al {aceite}",
+      "texto": "Pipas peladas y secas: 35,2 mg por 100 g. Aceite de oliva: 14,4 mg. 100 g es mucho más que una ración.",
+      "foto": "pipas_girasol"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "¿Y en cápsulas?",
+      "titular": "Demasiada vitamina E en suplementos {podría perjudicar}",
+      "texto": "Según el NHS del Reino Unido, no hay pruebas suficientes sobre las dosis altas diarias y pasarse podría ser perjudicial.",
+      "foto": "capsulas",
+      "foco": [
+        53,
+        60
+      ],
+      "zoom": 1.8
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Reenvíalo a quien come {pipas} viendo el fútbol",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Si tomas suplementos o medicación, o estás embarazada, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Aceite de oliva, aguacate o pipas de girasol: ¿cuál lleva más vitamina E? 🌻\n\nPor cada 100 g: aceite de oliva, aguacate crudo y pipas de girasol peladas y secas 🥑\nLa respuesta está en la segunda hoja. En la cuarta, lo que avisa el NHS sobre los suplementos 💊\n\nEs composición por 100 g, no una recomendación: 100 g es mucho más que una ración de pipas o de aceite. El aviso sobre suplementos es del NHS del Reino Unido, no una pauta personal. Si tomas suplementos o medicación, o estás embarazada, consulta con tu médico.\n\nPásaselo a quien pela pipas en el sofá.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #vitaminas #vitaminae #quiz #semillas",
+  "alt": [
+    "¿Qué tiene más vitamina E? Opciones: Aceite de oliva, Aguacate crudo, Pipas de girasol peladas. Por cada 100 g. Di el número.",
+    "Ganan las pipas Opciones: Aceite de oliva 14,4 mg, Aguacate crudo 2,1 mg, Pipas de girasol peladas 35,2 mg. Miligramos de vitamina E por cada 100 g.",
+    "Sorpresa. Las pipas ganan al aceite. Pipas peladas y secas: 35,2 mg por 100 g. Aceite de oliva: 14,4 mg. 100 g es mucho más que una ración.",
+    "¿Y en cápsulas?. Demasiada vitamina E en suplementos podría perjudicar. Según el NHS del Reino Unido, no hay pruebas suficientes sobre las dosis altas diarias y pasarse podría ser perjudicial.",
+    "Reenvíalo a quien come pipas viendo el fútbol. Aviso de contenido divulgativo."
+  ]
+}

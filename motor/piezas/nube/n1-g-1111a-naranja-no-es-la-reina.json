@@ -1,0 +1,86 @@
+{
+  "id": "n1-g-1111a-naranja-no-es-la-reina",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-012"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-11",
+    "hueco": 1
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "La naranja no es la reina de la {vitamina C}",
+      "unidad": "mg de vitamina C por 100 g, en crudo · una selección",
+      "filas": [
+        {
+          "nombre": "Guayaba",
+          "valor": "228 mg",
+          "foto": "guayaba_comun"
+        },
+        {
+          "nombre": "Pimiento rojo crudo",
+          "valor": "128 mg",
+          "foto": "pimiento_rojo"
+        },
+        {
+          "nombre": "Kiwi",
+          "valor": "93 mg",
+          "foto": "kiwi",
+          "foco": [
+            49,
+            46
+          ],
+          "zoom": 2.2
+        },
+        {
+          "nombre": "Fresas",
+          "valor": "59 mg",
+          "foto": "fresas"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "El clásico",
+      "titular": "¿Y la naranja? {53 mg}",
+      "texto": "Por cada 100 g, cruda. El pimiento rojo crudo: 128 mg."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "El dato",
+      "titular": "El kiwi: {93 mg}",
+      "texto": "Más que la naranja, por cada 100 g. Los dos, en crudo.",
+      "foto": "kiwi",
+      "foco": [
+        49,
+        46
+      ],
+      "zoom": 2.2
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien toma naranja {por la vitamina C}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "La naranja no es la reina de la vitamina C: en esta selección, la guayaba gana 🍊\n\nPor 100 g, de mayor a menor: guayaba 228 mg, pimiento rojo crudo 128 mg, kiwi 93 mg, fresas 59 mg, naranja 53 mg. Todo, en crudo 🍓\nEl kiwi también le gana a la naranja: 93 mg frente a 53 mg 🥝\nLa naranja también aporta vitamina C. Aquí solo se compara esa cifra 🍋\n\nEs composición por 100 g de una selección, no una recomendación. La cocción y el almacenamiento bajan la vitamina C.\n\n¿Cuál de los cuatro no esperabas por encima de la naranja?\nMándaselo a quien toma naranja por la vitamina C.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #vitaminac #fruta #ranking #comidareal",
+  "alt": [
+    "La naranja no es la reina de la vitamina C. mg de vitamina C por 100 g, en crudo · una selección: Guayaba 228 mg; Pimiento rojo crudo 128 mg; Kiwi 93 mg; Fresas 59 mg.",
+    "El clásico. ¿Y la naranja? 53 mg. Por cada 100 g, cruda. El pimiento rojo crudo: 128 mg.",
+    "El dato. El kiwi: 93 mg. Más que la naranja, por cada 100 g. Los dos, en crudo.",
+    "Mándaselo a quien toma naranja por la vitamina C. Aviso de contenido divulgativo."
+  ]
+}
