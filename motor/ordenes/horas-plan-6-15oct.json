@@ -1,0 +1,38 @@
+{
+  "tipo": "acciones",
+  "lista": [
+    {
+      "accion": "cambiar_hora",
+      "pieza_id": "n1-g-01-cambios",
+      "hora": "2026-10-16T18:00"
+    },
+    {
+      "accion": "cambiar_hora",
+      "pieza_id": "n1-g-02-reyes-proteina",
+      "hora": "2026-10-17T09:00"
+    },
+    {
+      "accion": "cambiar_hora",
+      "pieza_id": "n1-g-03-cual-proteina",
+      "hora": "2026-10-17T21:00"
+    },
+    {
+      "accion": "cambiar_hora",
+      "pieza_id": "n1-g-04-keto-ldl",
+      "hora": "2026-10-18T09:00"
+    },
+    {
+      "accion": "cambiar_hora",
+      "pieza_id": "n1-g-05-verduras-pocos-hidratos",
+      "hora": "2026-10-18T18:00"
+    },
+    {
+      "accion": "cambiar_hora",
+      "pieza_id": "n1-g-06-un-dia-de-comidas",
+      "hora": "2026-10-19T18:00"
+    }
+  ],
+  "cuenta": "n1",
+  "autoriza": "José, 15-oct-2026: «aprueba en automático los cambios que consideres precisos»",
+  "texto": "Pongo tus 6 carruseles aprobados en los huecos del plan de 4 al día (no cambia nada más)."
+}
