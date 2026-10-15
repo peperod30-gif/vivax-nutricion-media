@@ -1,0 +1,110 @@
+{
+  "id": "n1-g-1016a-que-lleva-mas-azucar",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-045"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-16",
+    "hueco": 1
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "¿Qué lleva más {azúcar}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Kétchup",
+          "foto": "ketchup",
+          "valor": "21,3 g"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "foto": "refresco_cola",
+          "foco": [
+            62,
+            45
+          ],
+          "zoom": 1.25,
+          "valor": "9,9 g"
+        },
+        {
+          "nombre": "Pan blanco",
+          "foto": "pan_molde",
+          "foco": [
+            52,
+            50
+          ],
+          "zoom": 1.4,
+          "valor": "5,7 g"
+        }
+      ],
+      "texto": "Por cada 100 g. Comenta uno, dos o tres y desliza."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Gana el {kétchup}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Kétchup",
+          "foto": "ketchup",
+          "valor": "21,3 g"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "foto": "refresco_cola",
+          "foco": [
+            62,
+            45
+          ],
+          "zoom": 1.25,
+          "valor": "9,9 g"
+        },
+        {
+          "nombre": "Pan blanco",
+          "foto": "pan_molde",
+          "foco": [
+            52,
+            50
+          ],
+          "zoom": 1.4,
+          "valor": "5,7 g"
+        }
+      ],
+      "texto": "Azúcares por cada 100 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La sorpresa",
+      "titular": "A igual peso, el kétchup lleva más {azúcar} que el refresco de cola",
+      "texto": "21,3 g frente a 9,9 g por cada 100 g.",
+      "foto": "ketchup"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien le pone {kétchup} a todo",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Ketchup 20160918 181342», Kim Holger Kelting (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 4.0: creativecommons.org/licenses/by/4.0."
+    }
+  ],
+  "alt": [
+    "¿Qué lleva más azúcar? Opciones: Kétchup, Refresco de cola, Pan blanco. Por cada 100 g. Comenta uno, dos o tres y desliza.",
+    "Gana el kétchup. Opciones: Kétchup 21,3 g, Refresco de cola 9,9 g, Pan blanco 5,7 g. Azúcares por cada 100 g.",
+    "La sorpresa. A igual peso, el kétchup lleva más azúcar que el refresco de cola. 21,3 g frente a 9,9 g por cada 100 g.",
+    "Mándaselo a quien le pone kétchup a todo. Aviso de contenido divulgativo y créditos de las fotos."
+  ],
+  "pie_instagram": "El kétchup, el refresco de cola o el pan blanco: ¿cuál lleva más azúcar? Apuesta antes de deslizar 🍅\n\nTres cosas de todos los días, por cada 100 g de cada una 🥤\nLa segunda hoja dice quién gana y la tercera, la sorpresa 🍞\n\nEs composición por 100 g de una selección, no una recomendación.\n\nDime en comentarios cuál habías puesto y mándaselo a quien le pone kétchup a todo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #ketchup #nutricion #alimentacionsaludable"
+}
