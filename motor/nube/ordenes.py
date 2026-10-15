@@ -14,6 +14,7 @@ Acciones (cada una se ejecuta una vez, con el mismo candado y la misma auditorí
     aprobar       {pieza_id, hora?}  Con hora ISO (y futura, a más de 2 minutos) sale a esa hora; si no, en el primer hueco libre.
     rechazar      {pieza_id}
     cambiar_hora  {pieza_id, hora}
+    quitar        {pieza_id}         Una aprobada vuelve a «pendiente» (no se pierde): deja libre su hueco para otra pieza.
 
 Orden que se ejecuta sola, sin pregunta (solo cambia texto de piezas que aún no han salido; no aprueba ni programa nada):
     {"tipo": "pies", "cuenta": "n1", "pies": {"n1-f-11-fibra": "texto del pie…"}, "texto": "nota opcional para el aviso a José"}
@@ -33,7 +34,7 @@ MADRID = ZoneInfo("Europe/Madrid")
 CLAVE_ORDENES = "nube_ordenes"          # meta del hub: {nombre_de_orden: {"hecha": iso, "decision": n}}
 CLAVE_ACCIONES = "nube_acciones"        # meta del hub: {numero_de_decision: {"orden": nombre, "si_responde": {...}, "hecha": bool}}
 MINIMO_PROGRAMAR = timedelta(minutes=2)
-ACCIONES = ("aprobar", "rechazar", "cambiar_hora")
+ACCIONES = ("aprobar", "rechazar", "cambiar_hora", "quitar")
 HUMANAS = ("boton", "texto")           # «via» de una respuesta de José; «defecto» es una caducidad, no una respuesta
 
 
@@ -189,6 +190,11 @@ def _hacer(ad, accion: dict, admin: int, origen: str) -> str:
         if motivo:
             return f"⚠️ {nombre}: no se aprobó. {motivo}"
         return f"✅ {nombre}: aprobada.{ad.resumen_decision(r['id'])}"
+    if accion["accion"] == "quitar":
+        if r["estado"] == "pendiente":
+            return f"↩️ {nombre}: ya estaba fuera de la cola."
+        motivo = ad.quitar_de_cola(r["id"], admin, origen=origen)
+        return f"⚠️ {nombre}: no se quitó de la cola. {motivo}" if motivo else f"↩️ {nombre}: fuera de la cola (queda pendiente, no se pierde)."
     if accion["accion"] == "rechazar":
         if r["estado"] == "rechazada":
             return f"❌ {nombre}: ya estaba rechazada."

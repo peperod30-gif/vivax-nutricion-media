@@ -182,7 +182,8 @@ def _texto_hecho(h: dict) -> str:
 CLAVES_DE_TEXTO = ("cab", "texto", "nombre", "valor", "unidad", "detalle")        # lo que se lee dentro de un diccionario de una hoja (el icono, no)
 CAMPOS_TEXTO = ("titulo", "titular", "dice", "antes", "cifra", "signo", "unidad", "texto", "frase", "dato", "sigue", "items",
                 "izq", "der", "parrafos", "resalte", "franja", "filas", "voz", "cita", "quien",
-                "respuesta", "si", "no", "ahora", "etiqueta_si", "etiqueta_no")
+                "respuesta", "si", "no", "ahora", "etiqueta_si", "etiqueta_no",
+                "kicker", "dia", "opciones")        # dirección G; «creditos» no entra: lleva licencias («CC BY 3.0») que no son cifras de la pieza
 
 
 def _lim(t) -> str:
@@ -258,6 +259,11 @@ def c_estructura(pieza: dict, salida: list) -> None:
     elif pieza.get("formato") == "unica":
         if n != 1:
             salida.append((FALLO, "estructura", f"imagen única con {n} hojas: tiene que ser 1"))
+    elif pieza.get("direccion") == "g":                  # dirección G (15-oct-2026): carruseles más cortos, de 3 a 10 hojas
+        if not 3 <= n <= 10:
+            salida.append((FALLO, "estructura", f"{n} hojas: tiene que haber de 3 a 10"))
+        elif n == 3:
+            salida.append((AVISO, "estructura", "3 hojas: es lo mínimo; lo habitual son de 4 a 6"))
     elif not 5 <= n <= 10:
         salida.append((FALLO, "estructura", f"{n} hojas: tiene que haber de 5 a 10"))
     pie = pieza.get("pie_instagram", "")
@@ -483,7 +489,9 @@ def c_voces(pieza: dict, banco: dict, salida: list) -> None:
 # ---------------------------------------------------------------------------------------------- 7 densidad
 TOPE_PALABRAS = {"voz": 60, "video": 24, "portada": 14, "dice": 18, "cifra": 26, "versus": 24, "lista": 36, "frase": 20, "cierre": 18, "unica": 26,
                  "respuesta": 22, "ranking": 40, "sino": 40, "antes_ahora": 36,
-                 "f_portada": 14, "f_letra": 16, "f_frase": 30, "f_ranking": 52, "f_vs": 32, "f_dato": 28, "f_foto_texto": 40, "f_cierre": 18}
+                 "f_portada": 14, "f_letra": 16, "f_frase": 30, "f_ranking": 52, "f_vs": 32, "f_dato": 28, "f_foto_texto": 40, "f_cierre": 18,
+                 # dirección G (15-oct-2026): menos texto por hoja que en F; el cierre cuenta solo la frase (fuentes y aviso no entran)
+                 "g_cambio": 26, "g_pictograma": 44, "g_eleccion": 30, "g_afirmacion": 30, "g_dia": 16, "g_cierre": 16}
 
 
 def c_densidad(pieza: dict, salida: list) -> None:
@@ -941,7 +949,7 @@ def controlar(pieza: dict, imagenes: Path | None = None, cuenta: str | None = No
         c_video(pieza, imagenes, salida)
     if imagenes and imagenes.exists():
         # dirección F (fotos reales): la paleta se mide sobre la versión sin fotos (_sinfoto/), que dibuja render.py; sin ella, no se da por buena
-        if pieza.get("direccion") == "f":
+        if pieza.get("direccion") in ("f", "g"):
             if (imagenes / "_sinfoto").exists():
                 c_paleta(imagenes / "_sinfoto", salida, T.cargar(pieza.get("cuenta")))
             else:

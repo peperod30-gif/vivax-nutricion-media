@@ -31,7 +31,8 @@ NBSP = chr(160)
 WJ = chr(0x2060)   # unión de palabras: invisible, impide el salto de línea
 TEXTOS = ("etiqueta", "titular", "titulo", "dice", "sello", "antes", "cifra", "signo", "unidad", "texto", "frase", "dato",
           "fuente", "sigue", "aviso", "items", "fuentes", "izq", "der", "cita", "quien", "estudio",
-          "respuesta", "filas", "si", "no", "ahora", "etiqueta_si", "etiqueta_no")
+          "respuesta", "filas", "si", "no", "ahora", "etiqueta_si", "etiqueta_no",
+          "kicker", "dia", "opciones", "creditos")
 
 
 def e(t) -> str:
@@ -484,8 +485,9 @@ PLANTILLAS = {"voz": voz, "portada": portada, "dice": dice, "cifra": cifra, "ver
 
 def _css_virales() -> str:
     import plantillas_f
+    import plantillas_g
     import plantillas_v
-    return plantillas_v.CSS + plantillas_f.CSS
+    return plantillas_v.CSS + plantillas_f.CSS + plantillas_g.CSS
 
 
 import plantillas_v as _pv  # noqa: E402  (plantillas virales: respuesta, ranking, sino, antes_ahora; usan los ayudantes de arriba)
@@ -493,6 +495,9 @@ PLANTILLAS.update(_pv.registrar(sys.modules[__name__]))
 
 import plantillas_f as _pf  # noqa: E402  (dirección F, 12-oct-2026: fotos reales de comida; mismas reglas de registro que las virales)
 PLANTILLAS.update(_pf.registrar(sys.modules[__name__]))
+
+import plantillas_g as _pg  # noqa: E402  (dirección G, 15-oct-2026: tres fondos de la marca, cambios, pictogramas y afirmaciones; sin tics de plantilla)
+PLANTILLAS.update(_pg.registrar(sys.modules[__name__]))
 
 
 # ------------------------------------------------------------------ marcador y círculo a mano (después de ajustar el texto)
@@ -563,7 +568,7 @@ def pagina(pieza: dict, i: int, carpeta_fuentes: Path, tema: dict | None = None)
     if h.get("fuente") and h["plantilla"] not in ("unica", "cierre"):
         cuerpo = cuerpo[:-len("</div>")] + f'<div class="fm">{e(h["fuente"])}</div></div>'
     # las hojas de la dirección F (fotos reales) no llevan el grano de papel: lo pone el dibujo a mano, no la fotografía
-    grano = "" if h["plantilla"].startswith("f_") else (
+    grano = "" if h["plantilla"].startswith(("f_", "g_")) else (
         f'<div class="grano" style="position:absolute;inset:0;background-image:url(\'{_grano(ctx["sem"])}\')"></div>')
     return (f'<!doctype html><html lang="es"><head><meta charset="utf-8"><style>{css(carpeta_fuentes, tema)}</style></head><body>'
             f'{_defs(ctx["sem"])}{cuerpo}{grano}'
