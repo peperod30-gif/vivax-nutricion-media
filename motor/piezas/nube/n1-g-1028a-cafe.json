@@ -1,0 +1,65 @@
+{
+  "id": "n1-g-1028a-cafe",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "debate",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "DEB-020",
+    "DEB-021"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-28",
+    "hueco": 1,
+    "revision_jose": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "¿El café es bueno para la salud?",
+      "respuesta": "Depende",
+      "texto": "De cuánto tomes y de quién seas.",
+      "foto": "cafe"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Los que dicen que sí",
+      "titular": "Menos mortalidad con {tres o cuatro tazas} al día",
+      "texto": "Frente a no tomarlo, en los datos de muchas poblaciones. Es asociación, no prueba."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Los que piden cuidado",
+      "titular": "{36 minutos} menos de sueño los días con café",
+      "texto": "Solo 14 días. Ventrículo: 154 frente a 102 latidos de más al día. Aurícula, lo principal: sin diferencia clara."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "La excepción",
+      "titular": "Mucho café en el {embarazo} se asocia a bajo peso al nacer",
+      "texto": "Y a pérdida del embarazo. En mujeres, también hubo asociación con fracturas."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Mándaselo a quien va por el {tercer} café",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con embarazo, arritmias o riesgo de fractura, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Café: se asocia a menos mortalidad, pero los días con café se duerme 36 minutos menos ☕\n\nCon tres o cuatro tazas al día, menos mortalidad que sin café. Son datos observacionales: asociación, no prueba 📉\nLos días con café, 36 minutos menos de sueño por noche y más latidos de más en el ventrículo (154 frente a 102 al día) 😴\nLos latidos de más en la aurícula, lo principal que se medía, no cambiaron de forma clara, y la prueba solo duró 14 días 🫀\nEn el embarazo, mucho café se asoció a bajo peso al nacer y a pérdida del embarazo; en mujeres, también a fracturas 🤰\n\nCon embarazo, arritmias, ansiedad, problemas de sueño o riesgo de fractura, habla con tu médico sobre cuánto café tomar.\n\nMándaselo a quien va por el tercer café.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#cafe #debate #nutricion #salud #alimentacionsaludable",
+  "alt": [
+    "¿El café es bueno para la salud?. Depende. De cuánto tomes y de quién seas.",
+    "Los que dicen que sí. Menos mortalidad con tres o cuatro tazas al día. Frente a no tomarlo, en los datos de muchas poblaciones. Es asociación, no prueba.",
+    "Los que piden cuidado. 36 minutos menos de sueño los días con café. Solo 14 días. Ventrículo: 154 frente a 102 latidos de más al día. Aurícula, lo principal: sin diferencia clara.",
+    "La excepción. Mucho café en el embarazo se asocia a bajo peso al nacer. Y a pérdida del embarazo. En mujeres, también hubo asociación con fracturas.",
+    "Mándaselo a quien va por el tercer café. Aviso de contenido divulgativo."
+  ]
+}

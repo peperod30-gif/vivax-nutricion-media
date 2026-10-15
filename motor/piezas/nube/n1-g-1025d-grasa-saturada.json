@@ -1,0 +1,67 @@
+{
+  "id": "n1-g-1025d-grasa-saturada",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "debate",
+  "pilar": "debate",
+  "hechos": [
+    "DEB-009",
+    "DEB-010",
+    "DEB-011"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-25",
+    "hueco": 4,
+    "revision_jose": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "¿La grasa saturada es mala?",
+      "respuesta": "Depende",
+      "texto": "Sobre todo, de con qué la cambies.",
+      "foto": "mantequilla"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Los que dicen que sí",
+      "titular": "Reducirla bajó un {17 %} los eventos cardiovasculares combinados",
+      "texto": "Reducción relativa, en personas asignadas al azar y con evidencia moderada. La mortalidad total apenas cambió."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Los que dicen que no",
+      "titular": "Por sí sola {no} se asoció a más mortalidad",
+      "texto": "Ni total ni cardiovascular, al observar a grandes poblaciones. Certeza muy baja, según sus propios autores.",
+      "foto": "plato_queso_nueces"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Si la cambias",
+      "titular": "Por {azúcares e hidratos refinados} el riesgo no baja",
+      "texto": "Con aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %, según la Asociación Americana del Corazón."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Reenvíalo al {grupo} de la familia",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación, embarazo, colesterol alto o enfermedad cardiovascular, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "¿La grasa saturada es mala? Depende, sobre todo, de con qué la cambies 🧈\n\nSegún Cochrane, reducirla rebajó un 17 % el riesgo relativo de eventos cardiovasculares combinados, pero la mortalidad total apenas cambió 📉\nEn estudios observacionales, no se asoció con más mortalidad total ni cardiovascular, con certeza muy baja 🧀\nCambiarla por azúcares e hidratos refinados no redujo la enfermedad cardiovascular; por aceite vegetal poliinsaturado, en torno a un 30 % 🌻\nEsto último lo dice un informe de la Asociación Americana del Corazón (2017); Cochrane no halló diferencias significativas entre cambiarla por hidratos o por poliinsaturada 🤔\n\nCon colesterol alto o enfermedad cardiovascular, habla antes con tu médico.\n\nReenvíalo al grupo de la familia.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #colesterol #debate #mantequilla #nutricion",
+  "alt": [
+    "¿La grasa saturada es mala?. Depende. Sobre todo, de con qué la cambies.",
+    "Los que dicen que sí. Reducirla bajó un 17 % los eventos cardiovasculares combinados. Reducción relativa, en personas asignadas al azar y con evidencia moderada. La mortalidad total apenas cambió.",
+    "Los que dicen que no. Por sí sola no se asoció a más mortalidad. Ni total ni cardiovascular, al observar a grandes poblaciones. Certeza muy baja, según sus propios autores.",
+    "Si la cambias. Por azúcares e hidratos refinados el riesgo no baja. Con aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %, según la Asociación Americana del Corazón.",
+    "Reenvíalo al grupo de la familia. Aviso de contenido divulgativo."
+  ]
+}

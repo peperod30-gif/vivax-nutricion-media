@@ -1,0 +1,82 @@
+{
+  "id": "n1-g-1027c-reyes-fibra",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-007"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-27",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "Cuatro alimentos con {fibra} y uno que sorprende",
+      "unidad": "Una selección, no el ranking completo. Fibra por 100 g",
+      "paso": 1,
+      "filas": [
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "7,9 g",
+          "foto": "plato_lentejas"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "valor": "6,7 g",
+          "foto": "aguacate"
+        },
+        {
+          "nombre": "Guayaba cruda",
+          "valor": "5,4 g",
+          "foto": "guayaba_comun"
+        },
+        {
+          "nombre": "Kiwi crudo",
+          "valor": "3,0 g",
+          "foto": "kiwi"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "La sorpresa",
+      "titular": "El {aguacate}: 6,7 g de fibra",
+      "texto": "Crudo, casi como las lentejas cocidas, 7,9 g. Por 100 g.",
+      "foto": "aguacate"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "¿Y la fruta?",
+      "titular": [
+        "La guayaba, {5,4 g}",
+        "el kiwi, 3,0 g"
+      ],
+      "texto": "Fibra de fruta cruda, por 100 g.",
+      "foto": "guayaba_comun"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Envíaselo a quien no sabe dónde está la {fibra}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «French Lentil Soup (140491423)», J Doll (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "alt": [
+    "Cuatro alimentos con fibra y uno que sorprende. Una selección, no el ranking completo. Fibra por 100 g: lentejas cocidas 7,9 g; aguacate crudo 6,7 g; guayaba cruda 5,4 g; kiwi crudo 3,0 g.",
+    "La sorpresa. El aguacate: 6,7 g de fibra. Crudo, casi como las lentejas cocidas, 7,9 g. Por 100 g.",
+    "¿Y la fruta? La guayaba, 5,4 g; el kiwi, 3,0 g. Fibra de fruta cruda, por 100 g.",
+    "Envíaselo a quien no sabe dónde está la fibra. Créditos de las fotos y aviso de contenido divulgativo."
+  ],
+  "pie_instagram": "Cuatro alimentos con fibra, de las lentejas al kiwi 🥑\n\nFibra por cada 100 g: lentejas cocidas 7,9 g, aguacate crudo 6,7 g, guayaba cruda 5,4 g y kiwi crudo 3,0 g 🥝\nLa sorpresa es el aguacate: casi tanta fibra como las lentejas cocidas 🥑\nEs una selección. También llevan fibra y no salen aquí: garbanzos cocidos 7,6 g y alubias blancas cocidas 6,3 g 🥗\n\nEs composición por 100 g de una selección, no una recomendación.\n\nEnvíaselo a quien no sabe dónde está la fibra.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #ranking #legumbres #nutricion #comidareal"
+}

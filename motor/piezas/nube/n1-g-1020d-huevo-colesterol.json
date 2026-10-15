@@ -1,0 +1,75 @@
+{
+  "id": "n1-g-1020d-huevo-colesterol",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "debate",
+  "pilar": "debate",
+  "hechos": [
+    "DEB-001",
+    "DEB-002",
+    "DEB-003",
+    "DEB-005"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-20",
+    "hueco": 4,
+    "revision_jose": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "¿El huevo sube el colesterol?",
+      "respuesta": "Depende",
+      "texto": "De lo que mires: el LDL, el corazón o si tienes diabetes.",
+      "foto": "huevo_duro"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "En la sangre",
+      "titular": "Comer más huevo {sube algo} el LDL",
+      "texto": "Visto en personas sanas, frente a un grupo de control. Mide el LDL, no infartos."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "En el corazón",
+      "titular": "Hasta {un huevo al día}: sin más riesgo cardiovascular",
+      "texto": "En grandes poblaciones de EE. UU. y Europa, seguidas durante años. Es asociación, no causa."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La otra corriente",
+      "titular": "Lo que cuenta: el {colesterol} de la dieta",
+      "texto": "Más colesterol al día se asoció a más enfermedad cardiovascular. Asociación, no causa. El huevo es una fuente principal."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Con diabetes",
+      "titular": "Ahí la cosa {podría cambiar}",
+      "texto": "Comer más huevo se asoció a más cardiopatía coronaria. Viene de un subgrupo y falta confirmarlo."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Etiqueta a quien cuenta los {huevos} de la semana",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación, embarazo, colesterol alto o enfermedad cardiovascular, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Huevo y colesterol: la respuesta depende de si miras el LDL, el corazón o la diabetes 🥚\n\nCon más huevo, personas sanas tuvieron algo más de LDL que el grupo de control 🍳\nHasta un huevo al día no se asoció a más riesgo cardiovascular en grandes poblaciones 🥚\nLa otra corriente mira el colesterol de toda la dieta, y el huevo es una fuente principal 🍽️\nCon diabetes, en un subgrupo, más huevo se asoció a más cardiopatía coronaria 🤔\n\nCon colesterol alto, diabetes o enfermedad cardiovascular, habla con tu médico antes de cambiar lo que comes.\n\nReenvíalo a quien tiene una opinión firme sobre el huevo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#huevo #colesterol #debate #nutricion #alimentacionsaludable",
+  "alt": [
+    "¿El huevo sube el colesterol?. Depende. De lo que mires: el LDL, el corazón o si tienes diabetes.",
+    "En la sangre. Comer más huevo sube algo el LDL. Visto en personas sanas, frente a un grupo de control. Mide el LDL, no infartos.",
+    "En el corazón. Hasta un huevo al día: sin más riesgo cardiovascular. En grandes poblaciones de EE. UU. y Europa, seguidas durante años. Es asociación, no causa.",
+    "La otra corriente. Lo que cuenta: el colesterol de la dieta. Más colesterol al día se asoció a más enfermedad cardiovascular. Asociación, no causa. El huevo es una fuente principal.",
+    "Con diabetes. Ahí la cosa podría cambiar. Comer más huevo se asoció a más cardiopatía coronaria. Viene de un subgrupo y falta confirmarlo.",
+    "Etiqueta a quien cuenta los huevos de la semana. Aviso de contenido divulgativo."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "n1-sr-1028b-cambios-merienda",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1025c-cambios-merienda",
+  "molde": "cambio",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-103",
+    "ALI-105"
+  ],
+  "pie_instagram": "Dos cambios para la merienda de sofá, con su cifra por 100 g 🍿\n\nPatatas fritas de bolsa: 532 kcal y 3,1 g de fibra. Palomitas de maíz sin aceite: 387 kcal y 14,5 g 🥔\nDonut glaseado: 421 kcal y 22,8 g de azúcares. Plátano crudo: 89 kcal y 12,2 g 🍌\n\nEs composición por 100 g, no una recomendación.\n\nEnséñaselo a quien pica con la tele puesta.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#merienda #cambios #snacks #dieta #alimentacionsaludable",
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Merienda",
+      "titular": "Dos cambios para la {merienda} de sofá",
+      "texto": "Por cada 100 g.",
+      "foto": "palomitas"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes picabas",
+        "nombre": "Patatas fritas de bolsa",
+        "foto": "patatas_fritas",
+        "valor": "532 kcal",
+        "texto": "por 100 g; 3,1 g de fibra"
+      },
+      "der": {
+        "etiqueta": "Y ahora picas",
+        "nombre": "Palomitas sin aceite",
+        "foto": "palomitas",
+        "valor": "387 kcal",
+        "texto": "por 100 g; 14,5 g de fibra"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes merendabas",
+        "nombre": "Donut glaseado",
+        "foto": "donut",
+        "valor": "421 kcal",
+        "texto": "por 100 g; 22,8 g de azúcares"
+      },
+      "der": {
+        "etiqueta": "Y ahora meriendas",
+        "nombre": "Plátano crudo",
+        "foto": "platano",
+        "valor": "89 kcal",
+        "texto": "por 100 g; 12,2 g de azúcares"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien merienda en el {sofá}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0); «Banana bunch», NW Indian Language Institute (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "alt": [
+    "Merienda. Dos cambios para la merienda de sofá. Por cada 100 g.",
+    "Patatas fritas de bolsa, 532 kcal por 100 g; 3,1 g de fibra, frente a Palomitas sin aceite, 387 kcal por 100 g; 14,5 g de fibra.",
+    "Donut glaseado, 421 kcal por 100 g; 22,8 g de azúcares, frente a Plátano crudo, 89 kcal por 100 g; 12,2 g de azúcares.",
+    "Mándaselo a quien merienda en el sofá. Créditos de las fotos y aviso de contenido divulgativo."
+  ],
+  "produccion": {
+    "fecha": "2026-10-28",
+    "hueco": 2,
+    "rol": "VIRAL",
+    "familia": "cambio"
+  },
+  "produccion_video": {
+    "duracion_s": 9.89,
+    "tamano_mb": 2.5
+  }
+}

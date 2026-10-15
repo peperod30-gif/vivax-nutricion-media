@@ -1,0 +1,97 @@
+{
+  "id": "n1-g-1026a-cambios-carne",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-145",
+    "ALI-113"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-26",
+    "hueco": 1
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Carne",
+      "titular": "¿Salchichas por la {proteína}? Compáralas con el muslo",
+      "texto": "Dos cambios, por cada 100 g.",
+      "foto": "salchicha"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes comías",
+        "nombre": "Salchicha tipo frankfurt",
+        "foto": "salchicha",
+        "valor": "12,8 g",
+        "texto": "de proteína por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora comes",
+        "nombre": "Muslo de pollo asado sin piel",
+        "foto": "plato_pollo_arroz",
+        "foco": [
+          55,
+          38
+        ],
+        "zoom": 1.5,
+        "valor": "24,8 g",
+        "texto": "de proteína por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes pedías",
+        "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+        "foto": "hamburguesa",
+        "valor": "6,8 g",
+        "texto": "de grasa saturada por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora pides",
+        "nombre": "Pechuga de pollo asada",
+        "foto": "pollo",
+        "foco": [
+          50,
+          55
+        ],
+        "zoom": 1.1,
+        "valor": "1,0 g",
+        "texto": "de grasa saturada por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Y la grasa",
+      "titular": "Salchicha: {23,7 g} de grasa. Muslo: 8,2 g",
+      "texto": "Por cada 100 g: salchicha tipo frankfurt y muslo de pollo asado sin piel."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Llévatelo a la próxima compra de {carne}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación, colesterol alto o enfermedad renal o cardiovascular, consulta con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Grilled Chicken Breasts (28905381261)», Sharon Chen (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0."
+    }
+  ],
+  "pie_instagram": "Salchichas por la proteína: 12,8 g por 100 g. El muslo de pollo asado sin piel, 24,8 g 🍗\n\nLa salchicha es de cerdo tipo frankfurt y el muslo de pollo va asado y sin piel, aunque en la foto lleva piel 🌭\nGrasa saturada por 100 g: hamburguesa de ternera cocinada (80 % magra), 6,8 g; pechuga de pollo asada, 1,0 g 🍔\nY de grasa por 100 g: salchicha, 23,7 g; muslo, 8,2 g 🥩\n\nEs composición por 100 g, no una recomendación. Con colesterol alto o enfermedad renal o cardiovascular, consulta con tu médico antes de cambiar lo que comes.\n\nCuéntaselo a quien hace la compra de la carne.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #cambios #pollo #dieta #nutricion",
+  "alt": [
+    "Carne. ¿Salchichas por la proteína? Compáralas con el muslo. Dos cambios, por cada 100 g.",
+    "Salchicha tipo frankfurt, 12,8 g de proteína por 100 g, frente a Muslo de pollo asado sin piel, 24,8 g de proteína por 100 g.",
+    "Hamburguesa de ternera cocinada (80 % magra), 6,8 g de grasa saturada por 100 g, frente a Pechuga de pollo asada, 1,0 g de grasa saturada por 100 g.",
+    "Y la grasa. Salchicha: 23,7 g de grasa. Muslo: 8,2 g. Por cada 100 g: salchicha tipo frankfurt y muslo de pollo asado sin piel.",
+    "Llévatelo a la próxima compra de carne. Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}

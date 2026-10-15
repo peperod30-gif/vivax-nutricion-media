@@ -1,0 +1,87 @@
+{
+  "id": "n1-g-1021c-cambios-desayuno",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-101",
+    "ALI-107"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-21",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Desayuno",
+      "titular": "Casi las mismas calorías y mucho menos {azúcar}",
+      "texto": "Cereales azucarados y copos de maíz, por cada 100 g.",
+      "foto": "cereales_azucarados"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes desayunabas",
+        "nombre": "Cereales azucarados",
+        "foto": "cereales_azucarados",
+        "valor": "39,3 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora desayunas",
+        "nombre": "Copos de maíz",
+        "foto": "copos_maiz",
+        "valor": "7,8 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes mojabas",
+        "nombre": "Cruasán de mantequilla",
+        "foto": "croissant",
+        "valor": "11,7 g",
+        "texto": "de grasa saturada por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora tuestas",
+        "nombre": "Pan de trigo entero",
+        "foto": "pan_integral",
+        "valor": "0,7 g",
+        "texto": "de grasa saturada por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "El dato",
+      "titular": "Los dos cereales: casi las mismas {calorías}",
+      "texto": "389 kcal los azucarados y 384 kcal los copos de maíz, por 100 g. Lo que cambia es el azúcar."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien desayuna cereales {con dibujos}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Wholemeal tin loaf (8370566283)», muffinn (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0."
+    }
+  ],
+  "pie_instagram": "Dos cambios en el desayuno y un dato: los dos cereales tienen casi las mismas calorías 🥣\n\nCereales azucarados: 39,3 g de azúcares por 100 g. Copos de maíz: 7,8 g 🥣\nCruasán de mantequilla: 11,7 g de grasa saturada por 100 g. Pan de trigo entero: 0,7 g 🥐\nLas calorías de los dos cereales: 389 kcal y 384 kcal por 100 g 🔥\n\nEs composición por 100 g, no una recomendación.\n\nReenvíalo a quien moja el cruasán en el café.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#desayuno #cambios #azucar #dieta #alimentacionsaludable",
+  "alt": [
+    "Desayuno. Casi las mismas calorías y mucho menos azúcar. Cereales azucarados y copos de maíz, por cada 100 g.",
+    "Cereales azucarados, 39,3 g de azúcares por 100 g, frente a Copos de maíz, 7,8 g de azúcares por 100 g.",
+    "Cruasán de mantequilla, 11,7 g de grasa saturada por 100 g, frente a Pan de trigo entero, 0,7 g de grasa saturada por 100 g.",
+    "El dato. Los dos cereales: casi las mismas calorías. 389 kcal los azucarados y 384 kcal los copos de maíz, por 100 g. Lo que cambia es el azúcar.",
+    "Mándaselo a quien desayuna cereales con dibujos. Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}

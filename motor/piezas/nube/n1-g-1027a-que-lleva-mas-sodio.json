@@ -1,0 +1,90 @@
+{
+  "id": "n1-g-1027a-que-lleva-mas-sodio",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-097",
+    "ETI-004"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-27",
+    "hueco": 1
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "¿Qué lleva más {sodio}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Hummus",
+          "foto": "hummus",
+          "valor": "426 mg"
+        },
+        {
+          "nombre": "Aceitunas negras en conserva",
+          "foto": "aceitunas_negras",
+          "valor": "735 mg"
+        },
+        {
+          "nombre": "Atún en aceite, escurrido",
+          "foto": "atun_aceite",
+          "valor": "416 mg"
+        }
+      ],
+      "texto": "Por cada 100 g. Apuesta en comentarios."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Ganan las {aceitunas negras}",
+      "ganador": 1,
+      "opciones": [
+        {
+          "nombre": "Hummus",
+          "foto": "hummus",
+          "valor": "426 mg"
+        },
+        {
+          "nombre": "Aceitunas negras en conserva",
+          "foto": "aceitunas_negras",
+          "valor": "735 mg"
+        },
+        {
+          "nombre": "Atún en aceite, escurrido",
+          "foto": "atun_aceite",
+          "valor": "416 mg"
+        }
+      ],
+      "texto": "Sodio por 100 g. En la etiqueta, sal = sodio × 2,5."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Casi empate",
+      "titular": "El hummus y el atún en aceite llevan un {sodio} muy parecido",
+      "texto": "426 mg frente a 416 mg por 100 g. Las aceitunas negras en conserva, 735 mg.",
+      "foto": "hummus"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Pásaselo a quien no para de picar {aceitunas}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con tensión alta, enfermedad renal o cardiaca, o si te han pedido limitar la sal, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Hummus, aceitunas negras o atún en aceite: ¿qué lleva más sodio? 🧂\n\nHummus, aceitunas negras en conserva y atún en aceite escurrido, por cada 100 g 🥫\nLas aceitunas verdes en salmuera no entran en este dato 🫒\n\nEs composición por 100 g, no una recomendación. Si tienes la tensión alta o te han pedido limitar la sal, consulta con tu médico.\n\nApuesta en comentarios antes de deslizar.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sal #quiz #supermercado #nutricion #alimentacionsaludable",
+  "alt": [
+    "¿Qué lleva más sodio? Opciones: Hummus, Aceitunas negras en conserva, Atún en aceite, escurrido. Por cada 100 g. Apuesta en comentarios.",
+    "Ganan las aceitunas negras Opciones: Hummus 426 mg, Aceitunas negras en conserva 735 mg, Atún en aceite, escurrido 416 mg. Sodio por 100 g. En la etiqueta, sal = sodio × 2,5.",
+    "Casi empate. El hummus y el atún en aceite llevan un sodio muy parecido. 426 mg frente a 416 mg por 100 g. Las aceitunas negras en conserva, 735 mg.",
+    "Pásaselo a quien no para de picar aceitunas. Aviso de contenido divulgativo."
+  ]
+}

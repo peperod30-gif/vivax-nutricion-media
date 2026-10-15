@@ -1,0 +1,99 @@
+{
+  "id": "n1-g-1026c-que-lleva-mas-hidratos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-021"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-26",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "¿Qué lleva más {hidratos}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Pasta cocida",
+          "foto": "pasta",
+          "foco": [
+            52,
+            86
+          ],
+          "zoom": 7.5,
+          "valor": "30,9 g"
+        },
+        {
+          "nombre": "Pan blanco",
+          "foto": "pan_molde",
+          "valor": "49,4 g"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "foto": "arroz",
+          "valor": "28,2 g"
+        }
+      ],
+      "texto": "Por cada 100 g. Di el número antes de deslizar."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "Gana el {pan blanco}",
+      "ganador": 1,
+      "opciones": [
+        {
+          "nombre": "Pasta cocida",
+          "foto": "pasta",
+          "foco": [
+            52,
+            86
+          ],
+          "zoom": 7.5,
+          "valor": "30,9 g"
+        },
+        {
+          "nombre": "Pan blanco",
+          "foto": "pan_molde",
+          "valor": "49,4 g"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "foto": "arroz",
+          "valor": "28,2 g"
+        }
+      ],
+      "texto": "Hidratos por cada 100 g."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La sorpresa",
+      "titular": "El pan blanco lleva más {hidratos} que la pasta cocida",
+      "texto": "49,4 g frente a 30,9 g por cada 100 g.",
+      "foto": "pan_molde"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Mándaselo a quien quita la pasta {y no el pan}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Pasta, pan blanco o arroz: ¿qué lleva más hidratos por 100 g? 🍞\n\nPasta cocida, pan blanco y arroz blanco cocido, por cada 100 g 🍝\nApunta tu número antes de pasar a la segunda hoja 🤔\n\nEs composición por 100 g, no una recomendación. Con diabetes, consulta tus cantidades con tu médico.\n\nEscribe en comentarios el número que habías puesto.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #quiz #pan #lowcarb #dieta",
+  "alt": [
+    "¿Qué lleva más hidratos? Opciones: Pasta cocida, Pan blanco, Arroz blanco cocido. Por cada 100 g. Di el número antes de deslizar.",
+    "Gana el pan blanco Opciones: Pasta cocida 30,9 g, Pan blanco 49,4 g, Arroz blanco cocido 28,2 g. Hidratos por cada 100 g.",
+    "La sorpresa. El pan blanco lleva más hidratos que la pasta cocida. 49,4 g frente a 30,9 g por cada 100 g.",
+    "Mándaselo a quien quita la pasta y no el pan. Aviso de contenido divulgativo."
+  ]
+}
