@@ -1,0 +1,88 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "Feed nuevo: 8 publicaciones en 6 formatos distintos (te las acabo de mandar con su foto).\n\nQué he cambiado, en corto:\n· Los pies ya no llevan «Fuente:»: gancho, líneas cortas, una pregunta y 5 hashtags. Ya está hecho en las 37 que tenías en cola.\n· Formatos nuevos con los mismos colores: cambios («si antes comías… y ahora comes…»), rankings hechos de comida, ¿cuál lleva más?, debate con las dos corrientes, un día de comidas y reels. Sin «Desliza», sin puntos, y alternando fondo negro, oliva y blanco.\n\nLas 8 nuevas y cuándo saldrían:\n· vie 16, 14:00: cambios en el plato (carrusel)\n· sáb 17, 14:00: los reyes de la proteína (carrusel)\n· sáb 17, 19:00: reel de cambios\n· dom 18, 14:00: ¿qué lleva más proteína? (quiz)\n· dom 18, 19:00: un día de comidas (hueco libre)\n· lun 19, 14:00: verduras con pocos hidratos\n· mar 20, 19:00: reel de los reyes de la proteína\n· mié 21, 14:00: dieta cetogénica y LDL, las dos caras\n\nPara hacerles sitio, 7 de las viejas salen de la cola y quedan pendientes (no se borran): mito del desayuno (vie 14:00), vitamina B12 (sáb 14:00), reel vitamina D (sáb 19:00), etiquetas (dom 14:00), vitamina C y resfriado (lun 14:00), reel B12 (mar 19:00) y vitamina A (mié 14:00).\n\n¿Lo hago? Si pulsas «Sí», las 8 se aprueban a esas horas y las 7 viejas salen de la cola. Con «Las miro yo» no cambia nada.",
+  "opciones": [
+    [
+      "si",
+      "Sí, cámbialas"
+    ],
+    [
+      "yo",
+      "Las miro yo"
+    ]
+  ],
+  "caduca": "24h",
+  "cuenta": "n1",
+  "si_responde": {
+    "si": [
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-m-01-desayuno"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-g-01-cambios",
+        "hora": "2026-10-16T14:00"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-12-b12"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-g-02-reyes-proteina",
+        "hora": "2026-10-17T14:00"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-r-02-d"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-rg-01-cambios",
+        "hora": "2026-10-17T19:00"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-e-01-etiqueta"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-g-03-cual-proteina",
+        "hora": "2026-10-18T14:00"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-g-06-un-dia-de-comidas",
+        "hora": "2026-10-18T19:00"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-05-c"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-g-05-verduras-pocos-hidratos",
+        "hora": "2026-10-19T14:00"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-r-12-b12"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-rg-02-reyes-proteina",
+        "hora": "2026-10-20T19:00"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-01-a"
+      },
+      {
+        "accion": "aprobar",
+        "pieza_id": "n1-g-04-keto-ldl",
+        "hora": "2026-10-21T14:00"
+      }
+    ]
+  }
+}
