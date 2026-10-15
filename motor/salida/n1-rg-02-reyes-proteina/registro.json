@@ -1,0 +1,137 @@
+{
+ "id": "n1-rg-02-reyes-proteina",
+ "esquema": "foto-1",
+ "estilo": "hiphop",
+ "pulso_s": 0.631578947368421,
+ "pulsos": 29,
+ "duracion_s": 18.316,
+ "fps": 30,
+ "avisos": [],
+ "escenas": [
+  {
+   "i": 0,
+   "tipo": "gancho",
+   "t0": 0.0,
+   "t1": 3.157895,
+   "pulsos": 5
+  },
+  {
+   "i": 1,
+   "tipo": "cuenta",
+   "t0": 3.157895,
+   "t1": 5.052632,
+   "pulsos": 3
+  },
+  {
+   "i": 2,
+   "tipo": "cuenta",
+   "t0": 5.052632,
+   "t1": 6.947368,
+   "pulsos": 3
+  },
+  {
+   "i": 3,
+   "tipo": "cuenta",
+   "t0": 6.947368,
+   "t1": 8.842105,
+   "pulsos": 3
+  },
+  {
+   "i": 4,
+   "tipo": "cuenta",
+   "t0": 8.842105,
+   "t1": 10.736842,
+   "pulsos": 3
+  },
+  {
+   "i": 5,
+   "tipo": "cuenta",
+   "t0": 10.736842,
+   "t1": 12.631579,
+   "pulsos": 3
+  },
+  {
+   "i": 6,
+   "tipo": "cuenta",
+   "t0": 12.631579,
+   "t1": 15.157895,
+   "pulsos": 4
+  },
+  {
+   "i": 7,
+   "tipo": "cierre",
+   "t0": 15.157895,
+   "t1": 18.315789,
+   "pulsos": 5
+  }
+ ],
+ "musica": {
+  "estilo": "hiphop",
+  "bpm": 95,
+  "semilla": 5,
+  "pulsos": 29,
+  "duracion_s": 18.316,
+  "lufs": -14.01,
+  "pico_dbtp": -4.55,
+  "recortes_muestras": 0,
+  "efectos": {
+   "entrada": 3,
+   "transicion": 7,
+   "golpe": 5,
+   "sello": 1,
+   "cierre": 1
+  }
+ },
+ "zona_segura": {
+  "zona": [
+   40,
+   250,
+   950,
+   1500
+  ],
+  "muestras": 18,
+  "fuera": []
+ },
+ "bucle": {
+  "dif_ultimo_primero": 3.81
+ },
+ "consola_navegador": [],
+ "ajustes_pico_db": [],
+ "tiempo_render_s": 99.6,
+ "salida": {
+  "con_musica": {
+   "bytes": 14660890,
+   "mb": 14.66,
+   "duracion_s": 18.34,
+   "video": {
+    "codec": "h264",
+    "pixel": "yuv420p",
+    "ancho": 1080,
+    "alto": 1920,
+    "fps": 29.97
+   },
+   "audio": {
+    "codec": "aac",
+    "hz": 48000,
+    "canales": "stereo"
+   },
+   "moov_antes_de_mdat": true,
+   "listas_de_edicion": [],
+   "atomos": [
+    "ftyp",
+    "moov",
+    "free",
+    "mdat"
+   ]
+  },
+  "sonoridad": {
+   "lufs": -14.0,
+   "pico_dbtp": -2.4
+  },
+  "listas_de_edicion": [],
+  "mudo_listas_de_edicion": [],
+  "mudo_tiene_audio": false,
+  "musica_tiene_audio": true,
+  "tamano_mb": 14.66
+ }
+}

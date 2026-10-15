@@ -1,0 +1,63 @@
+{
+  "id": "n1-g-06-un-dia-de-comidas",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "dia",
+  "pilar": "menu",
+  "hechos": [
+    "ALI-003",
+    "ALI-004"
+  ],
+  "direccion": "g",
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Tres platos",
+      "titular": "¿Qué comerías en {un día entero}?",
+      "texto": "Desayuno, comida y cena.",
+      "foto": "plato_pollo_ensalada"
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_huevos_revueltos_salmon_aguacate",
+      "dia": "Desayuno",
+      "titulo": "Huevos revueltos con salmón",
+      "texto": "Huevo, salmón ahumado y aguacate."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_pollo_ensalada",
+      "dia": "Comida",
+      "titulo": "Ensalada de pollo a la plancha",
+      "texto": "Pollo, rúcula y pimiento."
+    },
+    {
+      "plantilla": "g_dia",
+      "foto": "plato_tortilla_espinacas",
+      "dia": "Cena",
+      "titulo": "Tortilla de espinacas",
+      "texto": "Huevo, espinacas y cebolla."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Mándaselo a quien no sabe qué {cenar}",
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Frittata2», Dedda 71 (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "Un día de comidas en tres platos: huevos con salmón, ensalada de pollo y tortilla de espinacas.\n\nDesayuno: huevo, salmón ahumado y aguacate.\nComida: pollo a la plancha, rúcula y pimiento.\nCena: tortilla de espinacas.\n\nSon ideas de platos, no una pauta de alimentación personal. Con diabetes, medicación, embarazo o lactancia, un trastorno de la conducta alimentaria o enfermedad cardiovascular, consulta antes con tu médico.\n\n¿Cuál de los tres harías primero?\nMándaselo a quien no sabe qué cenar.\n\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#recetasfaciles #comidareal #cenas #nutricion #comidasaludable",
+  "alt": [
+    "Tres platos. ¿Qué comerías en un día entero?. Desayuno, comida y cena.",
+    "Desayuno: Huevos revueltos con salmón. Huevo, salmón ahumado y aguacate.",
+    "Comida: Ensalada de pollo a la plancha. Pollo, rúcula y pimiento.",
+    "Cena: Tortilla de espinacas. Huevo, espinacas y cebolla.",
+    "Mándaselo a quien no sabe qué cenar. Fuentes y aviso de contenido divulgativo."
+  ]
+}

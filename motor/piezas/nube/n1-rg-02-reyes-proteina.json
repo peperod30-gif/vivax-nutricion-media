@@ -1,0 +1,92 @@
+{
+  "id": "n1-rg-02-reyes-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-g-02-reyes-proteina",
+  "modo": "cuenta_atras",
+  "hechos": [
+    "ALI-003"
+  ],
+  "pie_instagram": "Los reyes de la proteína, en cuenta atrás: del salmón al pollo, por cada 100 g.\n\nPechuga de pollo asada, 31,0 g.\nPechuga de pavo asada, 30,1 g.\nLomo de cerdo asado, 28,6 g.\nAtún al natural, 25,5 g.\nTernera picada cocinada, 24,6 g.\nSalmón cocinado, 22,1 g.\n\nEs una selección y es composición por 100 g, no una recomendación de cantidad.\n¿Cuál de los seis comes más? Mándaselo a quien cuenta los gramos de proteína.\n\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\nFotos: Wikimedia Commons, recortadas: «Grilled Chicken Breasts (28905381261)», Sharon Chen (CC BY 2.0); «Meat rissoles. Easy as 1-2-3 (2179666929)», Tanya Dropbear (CC BY 2.0); «Pečené vepřové, bramborová kaše», Dezidor (CC BY 3.0); «Cooked turkey breast, November 2023, Sarah Stierch», Sarah Stierch (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0; CC BY 4.0: creativecommons.org/licenses/by/4.0.\n\n#proteina #dieta #nutricion #alimentacionsaludable #comidareal",
+  "musica": {
+    "estilo": "hiphop",
+    "semilla": 5
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "pollo",
+      "etiqueta": "Proteína",
+      "titular": "Los {reyes} de la {proteína}",
+      "sub": "Cuenta atrás por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 6,
+      "nombre": "Salmón cocinado",
+      "valor": "22,1 g",
+      "foto": "salmon",
+      "unidad_chip": "g de proteína por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 5,
+      "nombre": "Ternera picada",
+      "valor": "24,6 g",
+      "foto": "ternera",
+      "unidad_chip": "g de proteína por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 4,
+      "nombre": "Atún al natural",
+      "valor": "25,5 g",
+      "foto": "atun",
+      "unidad_chip": "g de proteína por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 3,
+      "nombre": "Lomo de cerdo asado",
+      "valor": "28,6 g",
+      "foto": "lomo_asado",
+      "unidad_chip": "g de proteína por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 3,
+      "pos": 2,
+      "nombre": "Pechuga de pavo asada",
+      "valor": "30,1 g",
+      "foto": "pavo",
+      "unidad_chip": "g de proteína por 100 g"
+    },
+    {
+      "tipo": "cuenta",
+      "pulsos": 4,
+      "pos": 1,
+      "nombre": "Pechuga de pollo asada",
+      "valor": "31,0 g",
+      "foto": "pollo",
+      "unidad_chip": "g de proteína por 100 g",
+      "ganador": true
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 5,
+      "foto": "pollo",
+      "etiqueta": "Para enviar",
+      "frase": "Mándaselo a quien cuenta los {gramos}",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ]
+}

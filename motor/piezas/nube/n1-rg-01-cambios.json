@@ -1,0 +1,93 @@
+{
+  "id": "n1-rg-01-cambios",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "foto-1",
+  "estilo": "viral",
+  "diseno": "foto",
+  "origen": "n1-g-01-cambios",
+  "modo": "cambios",
+  "hechos": [
+    "ALI-024",
+    "ALI-025",
+    "ALI-029"
+  ],
+  "pie_instagram": "Pasta, calabacín, arroz, coliflor, mantequilla y aceite de oliva: lo que lleva cada uno por cada 100 g.\n\nPasta cocida, 30,9 g de hidratos; calabacín crudo, 3,1 g.\nArroz blanco cocido, 28,2 g; coliflor cruda, 5,0 g.\nMantequilla, 51,4 g de grasa saturada; aceite de oliva, 13,8 g.\n\nEs composición por 100 g de cada alimento, no una recomendación de qué comer. Con diabetes, medicación, embarazo, colesterol alto o enfermedad cardiovascular, consulta con tu médico antes de cambiar la dieta.\n¿Cuál de estas cifras te sorprende? Mándaselo a quien no se lo va a creer.\n\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\nFotos: Wikimedia Commons, recortadas: «Cauliflowers, 20051021», Calliope (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0.\n\n#lowcarb #dieta #hidratos #nutricion #alimentacionsaludable",
+  "musica": {
+    "estilo": "house",
+    "semilla": 21
+  },
+  "fps": 30,
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "pulsos": 5,
+      "foto": "pasta",
+      "etiqueta": "Cambios",
+      "titular": "¿Cuántos hidratos lleva la {pasta}? ¿Y el {calabacín}?",
+      "sub": "Por 100 g, composición"
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "Hidratos: pasta contra {calabacín}",
+      "izq": {
+        "nombre": "Pasta cocida",
+        "valor": "30,9 g",
+        "foto": "pasta"
+      },
+      "der": {
+        "nombre": "Calabacín crudo",
+        "valor": "3,1 g",
+        "foto": "calabacin"
+      },
+      "texto": "",
+      "ganador": "der",
+      "nota": "Hidratos por 100 g."
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "Hidratos: arroz contra {coliflor}",
+      "izq": {
+        "nombre": "Arroz blanco cocido",
+        "valor": "28,2 g",
+        "foto": "arroz"
+      },
+      "der": {
+        "nombre": "Coliflor cruda",
+        "valor": "5,0 g",
+        "foto": "coliflor"
+      },
+      "texto": "",
+      "ganador": "der",
+      "nota": "Hidratos por 100 g."
+    },
+    {
+      "tipo": "vs",
+      "pulsos": 6,
+      "titulo": "Grasa saturada: mantequilla contra {aceite}",
+      "izq": {
+        "nombre": "Mantequilla",
+        "valor": "51,4 g",
+        "foto": "mantequilla"
+      },
+      "der": {
+        "nombre": "Aceite de oliva",
+        "valor": "13,8 g",
+        "foto": "aceite_oliva"
+      },
+      "texto": "",
+      "ganador": "der",
+      "nota": "Grasa saturada por 100 g."
+    },
+    {
+      "tipo": "cierre",
+      "pulsos": 4,
+      "foto": "pasta",
+      "etiqueta": "Para enviar",
+      "frase": "Mándaselo a quien no se lo va a {creer}",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy (abril de 2018)"
+    }
+  ]
+}

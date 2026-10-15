@@ -1,0 +1,89 @@
+{
+  "id": "n1-g-03-cual-proteina",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-056",
+    "ALI-075"
+  ],
+  "direccion": "g",
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "¿Qué lleva más {proteína}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Pechuga de pollo",
+          "foto": "pollo",
+          "valor": "31,0 g"
+        },
+        {
+          "nombre": "Tofu firme",
+          "foto": "tofu2",
+          "valor": "17,3 g"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "foto": "huevo_duro",
+          "valor": "12,6 g"
+        }
+      ],
+      "texto": "Por cada 100 g. Apuesta antes de deslizar."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "El que gana: la {pechuga}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Pechuga de pollo",
+          "foto": "pollo",
+          "valor": "31,0 g"
+        },
+        {
+          "nombre": "Tofu firme",
+          "foto": "tofu2",
+          "valor": "?"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "foto": "huevo_duro",
+          "valor": "?"
+        }
+      ],
+      "texto": "Pechuga asada, por cada 100 g. ¿Y los otros dos?"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La sorpresa",
+      "titular": "El {tofu firme} lleva más proteína que el huevo cocido",
+      "texto": "17,3 g frente a 12,6 g por cada 100 g.",
+      "foto": "tofu2"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien {siempre} acierta",
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Grilled Chicken Breasts (28905381261)», Sharon Chen (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0."
+    }
+  ],
+  "pie_instagram": "¿Qué lleva más proteína, el pollo, el tofu o el huevo? Apuesta antes de deslizar.\n\nPor cada 100 g: pechuga de pollo asada, tofu firme y huevo cocido. En la segunda hoja, el que gana. En la tercera, la sorpresa.\n\nEs composición por 100 g, no una recomendación de cantidad ni de qué comer.\n\nDime en comentarios cuál habías puesto y mándaselo a quien siempre acierta.\n\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#proteina #quiz #tofu #nutricion #alimentacionsaludable",
+  "alt": [
+    "¿Qué lleva más proteína? Opciones: Pechuga de pollo, Tofu firme, Huevo cocido. Por cada 100 g. Apuesta antes de deslizar.",
+    "El que gana: la pechuga Opciones: Pechuga de pollo 31,0 g, Tofu firme ?, Huevo cocido ?. Pechuga asada, por cada 100 g. ¿Y los otros dos?",
+    "La sorpresa. El tofu firme lleva más proteína que el huevo cocido. 17,3 g frente a 12,6 g por cada 100 g.",
+    "Mándaselo a quien siempre acierta. Fuentes y aviso de contenido divulgativo."
+  ]
+}

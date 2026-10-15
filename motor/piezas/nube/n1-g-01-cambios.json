@@ -1,0 +1,117 @@
+{
+  "id": "n1-g-01-cambios",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "datos",
+  "hechos": [
+    "ALI-024",
+    "ALI-025",
+    "ALI-027",
+    "ALI-029"
+  ],
+  "direccion": "g",
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Cuatro cambios",
+      "titular": "Lo que {cambia} en el plato, por 100 g",
+      "texto": "Pasta, arroz, pan y mantequilla frente a sus alternativas.",
+      "foto": "pasta"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes comías",
+        "nombre": "Pasta cocida",
+        "foto": "pasta",
+        "valor": "30,9 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora comes",
+        "nombre": "Calabacín crudo",
+        "foto": "calabacin",
+        "valor": "3,1 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes comías",
+        "nombre": "Arroz blanco cocido",
+        "foto": "arroz",
+        "valor": "28,2 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora comes",
+        "nombre": "Coliflor cruda",
+        "foto": "coliflor",
+        "valor": "5,0 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes comías",
+        "nombre": "Pan blanco",
+        "foto": "pan_blanco",
+        "valor": "2,7 g",
+        "texto": "de fibra por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora comes",
+        "nombre": "Pan de trigo entero",
+        "foto": "pan_integral",
+        "valor": "6,0 g",
+        "texto": "de fibra por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes untabas",
+        "nombre": "Mantequilla",
+        "foto": "mantequilla",
+        "valor": "51,4 g",
+        "texto": "de grasa saturada por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora aliñas",
+        "nombre": "Aceite de oliva",
+        "foto": "aceite_oliva",
+        "valor": "13,8 g",
+        "texto": "de grasa saturada por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien cuenta los {gramos} de hidratos",
+      "fuentes": [
+        "USDA FoodData Central, SR Legacy (abril de 2018)"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta antes de cambiar la dieta.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Cauliflowers, 20051021», Calliope (CC BY 2.0); «Wholemeal tin loaf (8370566283)», muffinn (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0."
+    }
+  ],
+  "pie_instagram": "Cuatro alimentos y sus alternativas, comparados por cada 100 g: hidratos, fibra y grasa saturada.\n\nPasta cocida, 30,9 g de hidratos; calabacín crudo, 3,1 g.\nArroz blanco cocido, 28,2 g; coliflor cruda, 5,0 g.\nPan blanco, 2,7 g de fibra; pan de trigo entero, 6,0 g.\nMantequilla, 51,4 g de grasa saturada; aceite de oliva, 13,8 g.\n\nEs composición por 100 g de cada alimento, no una recomendación de qué comer. Con diabetes, medicación, embarazo, colesterol alto, enfermedad cardiovascular o un trastorno de la conducta alimentaria, consulta con tu médico antes de cambiar la dieta.\n\n¿Cuál de estas cifras te sorprende?\nMándaselo a quien cuenta los gramos de hidratos.\n\nContenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.\n\n#lowcarb #dieta #hidratos #nutricion #alimentacionsaludable",
+  "alt": [
+    "Cuatro cambios. Lo que cambia en el plato, por 100 g. Pasta, arroz, pan y mantequilla frente a sus alternativas.",
+    "Pasta cocida, 30,9 g de hidratos por 100 g, frente a Calabacín crudo, 3,1 g de hidratos por 100 g.",
+    "Arroz blanco cocido, 28,2 g de hidratos por 100 g, frente a Coliflor cruda, 5,0 g de hidratos por 100 g.",
+    "Pan blanco, 2,7 g de fibra por 100 g, frente a Pan de trigo entero, 6,0 g de fibra por 100 g.",
+    "Mantequilla, 51,4 g de grasa saturada por 100 g, frente a Aceite de oliva, 13,8 g de grasa saturada por 100 g.",
+    "Mándaselo a quien cuenta los gramos de hidratos. Fuentes y aviso de contenido divulgativo."
+  ]
+}

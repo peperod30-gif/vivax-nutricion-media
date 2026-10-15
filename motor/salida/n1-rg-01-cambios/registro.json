@@ -1,0 +1,116 @@
+{
+ "id": "n1-rg-01-cambios",
+ "esquema": "foto-1",
+ "estilo": "house",
+ "pulso_s": 0.5,
+ "pulsos": 27,
+ "duracion_s": 13.5,
+ "fps": 30,
+ "avisos": [],
+ "escenas": [
+  {
+   "i": 0,
+   "tipo": "gancho",
+   "t0": 0.0,
+   "t1": 2.5,
+   "pulsos": 5
+  },
+  {
+   "i": 1,
+   "tipo": "vs",
+   "t0": 2.5,
+   "t1": 5.5,
+   "pulsos": 6
+  },
+  {
+   "i": 2,
+   "tipo": "vs",
+   "t0": 5.5,
+   "t1": 8.5,
+   "pulsos": 6
+  },
+  {
+   "i": 3,
+   "tipo": "vs",
+   "t0": 8.5,
+   "t1": 11.5,
+   "pulsos": 6
+  },
+  {
+   "i": 4,
+   "tipo": "cierre",
+   "t0": 11.5,
+   "t1": 13.5,
+   "pulsos": 4
+  }
+ ],
+ "musica": {
+  "estilo": "house",
+  "bpm": 120,
+  "semilla": 21,
+  "pulsos": 27,
+  "duracion_s": 13.5,
+  "lufs": -14.01,
+  "pico_dbtp": -2.55,
+  "recortes_muestras": 0,
+  "efectos": {
+   "entrada": 5,
+   "transicion": 4,
+   "golpe": 3,
+   "sello": 3,
+   "cierre": 1
+  }
+ },
+ "zona_segura": {
+  "zona": [
+   40,
+   250,
+   950,
+   1500
+  ],
+  "muestras": 11,
+  "fuera": []
+ },
+ "bucle": {
+  "dif_ultimo_primero": 3.98
+ },
+ "consola_navegador": [],
+ "ajustes_pico_db": [],
+ "tiempo_render_s": 56.6,
+ "salida": {
+  "con_musica": {
+   "bytes": 10981984,
+   "mb": 10.98,
+   "duracion_s": 13.52,
+   "video": {
+    "codec": "h264",
+    "pixel": "yuv420p",
+    "ancho": 1080,
+    "alto": 1920,
+    "fps": 29.95
+   },
+   "audio": {
+    "codec": "aac",
+    "hz": 48000,
+    "canales": "stereo"
+   },
+   "moov_antes_de_mdat": true,
+   "listas_de_edicion": [],
+   "atomos": [
+    "ftyp",
+    "moov",
+    "free",
+    "mdat"
+   ]
+  },
+  "sonoridad": {
+   "lufs": -14.0,
+   "pico_dbtp": -2.5
+  },
+  "listas_de_edicion": [],
+  "mudo_listas_de_edicion": [],
+  "mudo_tiene_audio": false,
+  "musica_tiene_audio": true,
+  "tamano_mb": 10.98
+ }
+}
