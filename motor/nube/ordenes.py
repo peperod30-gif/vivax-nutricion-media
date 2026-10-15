@@ -20,6 +20,7 @@ Orden que se ejecuta sola, sin pregunta (solo cambia texto de piezas que aún no
     {"tipo": "pies", "cuenta": "n1", "pies": {"n1-f-11-fibra": "texto del pie…"}, "texto": "nota opcional para el aviso a José"}
     {"tipo": "reentregar", "cuenta": "n1", "piezas": ["n1-g-01-cambios"]}           # pendientes que vuelven a mandarse enteras a Telegram
     {"tipo": "reintentar", "cuenta": "n1", "piezas": {"n1-r-04-k": "2026-10-15T19:50"}}     # aprobadas que fallaron por un problema técnico (estado «error»)
+    {"tipo": "anular", "cuenta": "n1", "decisiones": [10]}                       # preguntas que ya no valen: se cierran sin ejecutar nada
 """
 from __future__ import annotations
 
@@ -98,6 +99,10 @@ def validar_orden(o: dict) -> None:
     if tipo == "reentregar":
         if not isinstance(o.get("piezas"), list) or not o["piezas"]:
             raise ValueError("reentregar sin ninguna pieza")
+        return
+    if tipo == "anular":
+        if not isinstance(o.get("decisiones"), list) or not o["decisiones"] or not all(isinstance(n, int) for n in o["decisiones"]):
+            raise ValueError("anular necesita la lista de números de decisión")
         return
     if tipo == "reintentar":
         piezas = o.get("piezas")
@@ -235,6 +240,14 @@ def procesar_ordenes(hub, carpeta: Path, log=print, ad=None) -> int:
             if ad is None:
                 continue
             hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), **_acciones(hub, ad, nombre, o, log)}
+        elif o["tipo"] == "anular":
+            anuladas = []
+            for n in o["decisiones"]:
+                if hub.anular_decision(int(n)):
+                    anuladas.append(int(n))
+                    if str(n) in acciones:
+                        acciones[str(n)]["hecha"] = True           # una pregunta anulada no ejecuta nada si alguien pulsa un botón viejo
+            hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), "anuladas": anuladas}
         elif o["tipo"] == "reentregar":
             if ad is None:
                 continue
