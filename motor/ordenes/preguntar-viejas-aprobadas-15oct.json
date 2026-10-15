@@ -1,0 +1,163 @@
+{
+  "tipo": "preguntar",
+  "cuenta": "n1",
+  "pregunta": "Esta noche aprobaste 15 piezas del estilo antiguo (nutrientes por 100 g, duelos, mitos…) a las 14:00 y a las 19:00. El plan nuevo de 4 al día usa las 09:00, 13:00, 18:00 y 21:00, así que esos días saldrían hasta 6 publicaciones, mezcladas con las nuevas.\n\nLas que aprobaste:\n· vie 16, 19:00: cuatro duelos\n· sáb 17, 14:00: B12 del mejillón\n· dom 18, 14:00: cinco reglas de la etiqueta\n· lun 19, 14:00: vitamina C y resfriado\n· jue 22, 14:00: grasa del aguacate\n· vie 23, 19:00: aceites de semillas\n· dom 25, 19:00: otros cuatro duelos\n· lun 26, 14:00: azúcar de la fruta\n· mar 27, 14:00: B6 de los pistachos y 19:00 ultraprocesados\n· mié 28, 14:00: grasa saturada\n· vie 30, 14:00: ventana horaria y calorías\n· sáb 31, 14:00: azúcares de la despensa\n· dom 1-nov, 14:00: B2 y 19:00 B5\n\n¿Qué hago con ellas?\n· Dejarlas: salen donde las pusiste.\n· Pasarlas al 16-30 de noviembre, una al día a las 14:00 y en el mismo orden.\n· Quitarlas de la cola: quedan pendientes, no se borran.",
+  "caduca": "24h",
+  "defecto": "dejar",
+  "opciones": [
+    [
+      "dejar",
+      "Dejarlas donde están"
+    ],
+    [
+      "despues",
+      "Pasarlas al 16-30 de nov"
+    ],
+    [
+      "quitar",
+      "Quitarlas de la cola"
+    ]
+  ],
+  "si_responde": {
+    "dejar": [],
+    "despues": [
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-q-03-duelos",
+        "hora": "2026-11-16T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-v-12-b12",
+        "hora": "2026-11-17T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-e-01-etiqueta",
+        "hora": "2026-11-18T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-v-05-c",
+        "hora": "2026-11-19T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-f-16-grasa-total",
+        "hora": "2026-11-20T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-d-02-aceites",
+        "hora": "2026-11-21T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-q-02-duelos",
+        "hora": "2026-11-22T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-m-03-fruta",
+        "hora": "2026-11-23T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-v-10-b6",
+        "hora": "2026-11-24T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-d-03-ultraprocesados",
+        "hora": "2026-11-25T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-f-13-grasa-saturada",
+        "hora": "2026-11-26T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-m-04-ayuno",
+        "hora": "2026-11-27T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-f-15-halloween",
+        "hora": "2026-11-28T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-v-07-b2",
+        "hora": "2026-11-29T14:00"
+      },
+      {
+        "accion": "cambiar_hora",
+        "pieza_id": "n1-v-09-b5",
+        "hora": "2026-11-30T14:00"
+      }
+    ],
+    "quitar": [
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-q-03-duelos"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-12-b12"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-e-01-etiqueta"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-05-c"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-f-16-grasa-total"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-d-02-aceites"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-q-02-duelos"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-m-03-fruta"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-10-b6"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-d-03-ultraprocesados"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-f-13-grasa-saturada"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-m-04-ayuno"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-f-15-halloween"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-07-b2"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v-09-b5"
+      }
+    ]
+  }
+}
