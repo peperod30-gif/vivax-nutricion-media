@@ -46,8 +46,8 @@ def limpiar(t: str) -> str:
 
 def tx(t: str) -> str:
     """Texto escapado con sus marcas de énfasis convertidas en <mark>. Las unidades (10 g) van pegadas a la cifra y en minúscula."""
-    s = re.sub(r"(\d) (g|kg|mg|ml|kcal|h|min)(?![\wáéíóúñ])", lambda m: m.group(1) + NBSP + '<span class="u">' + m.group(2) + "</span>", e(t))
-    s = re.sub(r"^(kg|kcal|mg|ml)(?![\wáéíóúñ])", r'<span class="u">\1</span>', s)       # una unidad al empezar (kg: muy poco) también en minúscula
+    s = re.sub(r"(\d) (g|kg|mg|µg|mcg|ml|kcal|h|min)(?![\wáéíóúñ])", lambda m: m.group(1) + NBSP + '<span class="u">' + m.group(2) + "</span>", e(t))
+    s = re.sub(r"^(kg|kcal|mg|µg|mcg|ml)(?![\wáéíóúñ])", r'<span class="u">\1</span>', s)       # una unidad al empezar (kg: muy poco) también en minúscula
     s = re.sub(r"(\d) (?=%)", lambda m: m.group(1) + NBSP, s)
     s = re.sub(r"(?<=\w)-(?=\w)", "-" + WJ, s)   # que «low-carb» no se parta en dos líneas
     s = re.sub(r"\{\{(.+?)\}\}", r'<mark class="c">\1</mark>', s)

@@ -35,7 +35,7 @@ CSS = """
 .gf .foto{position:absolute;overflow:hidden;background:#222}
 .gf .foto img{position:absolute;left:0;top:0;width:100%;height:100%;object-fit:cover}
 .gf .velo{position:absolute;pointer-events:none}
-.gf .gt{position:absolute;font-family:var(--ft);font-weight:900;text-transform:uppercase;line-height:.88;letter-spacing:-.004em;display:flex;
+.gf .gt{position:absolute;font-family:var(--ft);font-weight:900;text-transform:uppercase;line-height:.94;letter-spacing:-.004em;display:flex;
         padding:0 0 .16em 0;overflow:visible}
 .gf .gt > span{display:block;width:100%}
 .gf .gt.fin{flex-direction:column;align-items:stretch}
@@ -291,7 +291,8 @@ def g_afirmacion(h: dict, ctx: dict) -> str:
     ancho = 600 if hay_foto and h.get("texto") else 952
     base_texto = 1002
     if h.get("respuesta"):
-        p.append(_gt("{" + _l_marca(h["respuesta"]) + "}", 56, top + 20, 968, 620, (200, 470), color=c_txt, extra="align-items:center;"))
+        bajar = 60 if h.get("kicker") else 0          # con etiqueta, la mancha de la respuesta no tiene que tocar la píldora (revisión del 15-oct)
+        p.append(_gt("{" + _l_marca(h["respuesta"]) + "}", 56, top + 20 + bajar, 968, 620, (200, 470), color=c_txt, extra="align-items:center;"))
         yt = top + 700
     else:
         alto_t = (base_texto - 40 - top) if h.get("texto") else (1230 - top)
