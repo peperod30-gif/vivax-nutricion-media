@@ -283,11 +283,13 @@ def f_cierre(h: dict, ctx: dict) -> str:
     if fotos:
         d = 270
         hueco = (952 - d * len(fotos)) // max(len(fotos) - 1, 1) if len(fotos) > 1 else 0
+        # el rótulo no puede invadir el del vecino: con tres fotos el paso es 341 px y los rótulos de 350 px se pisaban («secasSemillas»); ahora miden el paso menos 16 px, pueden envolver y la letra baja si tres líneas no caben
+        ancho = min(d + 80, (d + hueco) - 16) // 2 * 2 if len(fotos) > 1 else d + 80
         for k, x in enumerate(fotos):
             px = 64 + k * (d + hueco)
             p.append(_foto(x["foto"], px, 590, d, d, d / 2, x.get("foco")))
             if x.get("texto"):
-                p.append(f'<div class="cuerpo" data-fit="24,34" style="left:{px - 40}px;top:{590 + d + 14}px;width:{d + 80}px;height:90px;display:flex;align-items:flex-start;justify-content:center;text-align:center"><span>{D.tx(x["texto"]).replace(" · ", "<br>")}</span></div>')
+                p.append(f'<div class="cuerpo" data-fit="24,34" style="left:{px + d // 2 - ancho // 2}px;top:{590 + d + 14}px;width:{ancho}px;height:108px;display:flex;align-items:flex-start;justify-content:center;text-align:center"><span>{D.tx(x["texto"]).replace(" · ", "<br>")}</span></div>')
     fu = "<br>".join(D.e(x) for x in h["fuentes"])
     p.append('<div class="velo" style="left:64px;top:985px;width:952px;height:6px;border-radius:3px;background:var(--o)"></div>')
     p.append(f'<div class="fuentes" data-fit="24,32" style="left:64px;top:1010px;width:952px;height:120px;overflow:hidden"><span style="display:block"><b>{"Fuente." if len(h["fuentes"]) == 1 else "Fuentes."}</b> {fu}</span></div>')

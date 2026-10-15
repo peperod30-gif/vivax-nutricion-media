@@ -14,6 +14,9 @@ Acciones (cada una se ejecuta una vez, con el mismo candado y la misma auditorí
     aprobar       {pieza_id, hora?}  Con hora ISO (y futura, a más de 2 minutos) sale a esa hora; si no, en el primer hueco libre.
     rechazar      {pieza_id}
     cambiar_hora  {pieza_id, hora}
+
+Orden que se ejecuta sola, sin pregunta (solo cambia texto de piezas que aún no han salido; no aprueba ni programa nada):
+    {"tipo": "pies", "cuenta": "n1", "pies": {"n1-f-11-fibra": "texto del pie…"}, "texto": "nota opcional para el aviso a José"}
 """
 from __future__ import annotations
 
@@ -64,6 +67,18 @@ def validar_orden(o: dict) -> None:
         if not str(o.get("texto") or "").strip():
             raise ValueError("avisar sin texto")
         return
+    if tipo == "pies":
+        pies = o.get("pies")
+        if not isinstance(pies, dict) or not pies:
+            raise ValueError("pies sin ningún pie")
+        for pid, texto in pies.items():
+            if not str(pid).strip() or not isinstance(texto, str) or not texto.strip():
+                raise ValueError(f"el pie de «{pid}» está vacío")
+            if len(texto) > 2200:
+                raise ValueError(f"el pie de «{pid}» tiene {len(texto)} caracteres (el máximo de Instagram es 2200)")
+            if len(re.findall(r"#\w+", texto)) > 5:
+                raise ValueError(f"el pie de «{pid}» lleva más de 5 hashtags")
+        return
     if tipo != "preguntar":
         raise ValueError(f"tipo de orden desconocido: {tipo!r}")
     if not str(o.get("pregunta") or "").strip():
@@ -83,8 +98,28 @@ def validar_orden(o: dict) -> None:
             _hora(a.get("hora"))
 
 
-def procesar_ordenes(hub, carpeta: Path, log=print) -> int:
-    """Ejecuta las órdenes de `carpeta` que aún no se han hecho. Devuelve cuántas ejecutó."""
+def _cambiar_pies(hub, ad, nombre: str, o: dict, log) -> dict:
+    """La orden «pies»: cambia el pie de piezas que aún no han salido y cuenta a José qué se hizo. Devuelve lo que se anota como hecho."""
+    cambiados, fallos = [], {}
+    for pid, texto in o["pies"].items():
+        motivo = ad.cambiar_pie_en_cola(str(pid), texto, origen=f"nube:orden-{nombre}")
+        if motivo is None:
+            cambiados.append(str(pid))
+        else:
+            fallos[str(pid)] = motivo
+    L = [f"✍️ He renovado el pie de {plural(len(cambiados), 'publicación', 'publicaciones')} (gancho, pregunta, hashtags; sin la línea de fuentes)."]
+    if o.get("texto"):
+        L.append(str(o["texto"]))
+    if fallos:
+        L.append(f"⚠️ No se pudo en {len(fallos)}: " + "; ".join(f"{p} ({corto(m, 70)})" for p, m in list(fallos.items())[:6]))
+    hub.crear_aviso("\n".join(L), "info", f"pies-{nombre}"[:60], o.get("cuenta") or "n1", None)
+    log(f"orden {nombre}: pies cambiados {len(cambiados)}, fallos {len(fallos)}")
+    return {"cambiados": cambiados, "fallos": fallos}
+
+
+def procesar_ordenes(hub, carpeta: Path, log=print, ad=None) -> int:
+    """Ejecuta las órdenes de `carpeta` que aún no se han hecho. Devuelve cuántas ejecutó. `ad` es el adaptador de la cuenta: sin él, las
+    órdenes que tocan piezas (`pies`) se dejan para otra pasada."""
     carpeta = Path(carpeta)
     if not carpeta.is_dir():
         return 0
@@ -108,6 +143,10 @@ def procesar_ordenes(hub, carpeta: Path, log=print) -> int:
             cada = _duracion(o["cada"]) if o.get("cada") else None
             hub.crear_aviso(o["texto"], o.get("nivel", "info"), o.get("clave"), cuenta, cada)
             hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        elif o["tipo"] == "pies":
+            if ad is None:
+                continue                                           # sin adaptador no se puede: se queda para la siguiente pasada
+            hechas[nombre] = {"hecha": datetime.now(timezone.utc).isoformat(timespec="seconds"), **_cambiar_pies(hub, ad, nombre, o, log)}
         else:
             try:
                 numero = hub.crear_decision(o["pregunta"], [(c, t) for c, t in o["opciones"]], cuenta, _duracion(o.get("caduca", "24h")),

@@ -542,6 +542,35 @@ class AdaptadorNutricion:
         self.db.commit()
         return []
 
+    def cambiar_pie_en_cola(self, pieza_id: str, texto: str, origen: str = "orden") -> str | None:
+        """Cambia el pie de una pieza que aún no ha salido (pendiente o aprobada) por una orden del PC: «Editar pie» solo vale para las
+        pendientes. Pasa por los mismos controles. Devuelve None si lo hizo y el motivo si no (nunca toca una pieza que Instagram ya recibió)."""
+        r = self.db.execute("SELECT * FROM piezas WHERE pieza_id=?", (pieza_id,)).fetchone()
+        if r is None:
+            return "no está en la cola"
+        if r["estado"] not in ("pendiente", "aprobada"):
+            return f"ya está {r['estado']}"
+        if _estado_ig(r).get("fase") in FASES_ENVIADAS:
+            return "Instagram ya ha empezado a publicarla"
+        texto = texto.strip()
+        if not texto or len(texto) > MAX_PIE:
+            return f"el pie tiene que tener entre 1 y {MAX_PIE} caracteres"
+        try:
+            pieza = self._json_de(r)
+        except (OSError, ValueError, TypeError):
+            return "falta el fichero de la pieza"
+        pieza["pie_instagram"] = texto
+        problemas = [f"{q}: {m}" for n, q, m in C.controlar(pieza, cuenta=self.cuenta) if n == C.FALLO]
+        if problemas:
+            return "; ".join(problemas[:3])[:300]
+        with self.db.transaccion() as c:
+            cur = c.execute("UPDATE piezas SET pie=? WHERE id=? AND estado IN ('pendiente','aprobada') AND ig_estado IS ?",
+                            (texto, r["id"], r["ig_estado"]))
+            if cur.rowcount != 1:
+                return "cambió mientras tanto: no la he tocado"
+            self._auditar(c, r["id"], None, "pie_cambiado", None, None, origen, f"{len(r['pie'] or '')} -> {len(texto)} caracteres")
+        return None
+
     # ------------------------------------------------------------------ horas de salida
     def siguiente_hueco(self, desde: datetime | None = None) -> str:
         """La primera hora de salida libre: uno de los huecos del día, separada de las demás y con margen para poder cambiar de idea.

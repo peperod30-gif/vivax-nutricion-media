@@ -238,7 +238,7 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log,
     except Exception:                                             # noqa: BLE001
         pass
     cuenta["importadas"] = importar_nuevas(ad, hub, motor / "piezas" / "nube", lg)
-    cuenta["ordenes"] = O.procesar_ordenes(hub, motor / "ordenes", lg)
+    cuenta["ordenes"] = O.procesar_ordenes(hub, motor / "ordenes", lg, ad=ad)
     if sondear:
         try:
             for upd in tg.actualizaciones(hub.ultimo_update() + 1, espera_sondeo):
