@@ -99,4 +99,10 @@ jobs:
           VIGILIA: ${{ steps.ejecutar.outputs.vigilia }}
         run: |
           if [ "$VIGILIA" != "si" ]; then sleep 235; fi
-          gh workflow run router.yml --repo "$GITHUB_REPOSITORY" -f prueba=false
+          # la API de GitHub devuelve de vez en cuando un 500: sin reintentos, la cadena de pasadas se rompía (15-oct-2026, 21:21)
+          for intento in 1 2 3 4 5 6; do
+            if gh workflow run router.yml --repo "$GITHUB_REPOSITORY" -f prueba=false; then exit 0; fi
+            echo "no se pudo lanzar la siguiente pasada (intento $intento de 6); espero y reintento"
+            sleep 20
+          done
+          exit 1
