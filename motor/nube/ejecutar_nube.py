@@ -239,6 +239,11 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log,
         pass
     cuenta["importadas"] = importar_nuevas(ad, hub, motor / "piezas" / "nube", lg)
     cuenta["ordenes"] = O.procesar_ordenes(hub, motor / "ordenes", lg, ad=ad)
+    try:                                                          # informe diario de números (solo lectura de la API de Instagram)
+        from nube import informe as _informe
+        _informe.informe_diario(hub, log=lg, ad=ad)
+    except Exception as exc:                                      # noqa: BLE001
+        lg(f"informe diario: {type(exc).__name__}")
     if sondear:
         try:
             for upd in tg.actualizaciones(hub.ultimo_update() + 1, espera_sondeo):

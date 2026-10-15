@@ -104,6 +104,7 @@ RUTA_COMPOSICION = RAIZ / "datos" / "composicion_alimentos_2026-10.json"        
 RUTA_DEBATES = RAIZ / "datos" / "debates_polemicos.json"                         # DEB-...: hechos de los debates (corrientes), verificados en Europe PMC
 RUTA_VITAMINAS = RAIZ / "datos" / "vitaminas_2026-10.json"                      # VIT-...: declaraciones autorizadas, VRN, composición (USDA) y límites del NHS (13-oct-2026)
 RUTA_ETIQUETAS = RAIZ / "datos" / "etiquetas_2026-10.json"                      # ETI-...: cómo leer una etiqueta (Reglamento UE 1169/2011), frase a frase comprobada
+RUTA_CAPTACION = RAIZ / "datos" / "captacion_2026-10.json"      # lo que se cuenta a nutricionistas: mecánica de Instagram y límites de la publicidad sanitaria (15-oct-2026)
 RUTA_AZUCAR = RAIZ / "datos" / "azucar_2026-10.json"                            # AZU-...: guía de la OMS y estudios sobre el azúcar, verificados en Europe PMC
 
 
@@ -134,7 +135,7 @@ def cargar_banco(cuenta: str) -> dict[str, dict]:
         hechos += json.loads(RUTA_NOVEDADES.read_text(encoding="utf-8-sig"))
     if RUTA_AMPLIACION.is_file():
         hechos += json.loads(RUTA_AMPLIACION.read_text(encoding="utf-8-sig"))
-    for ruta in (RUTA_COMPOSICION, RUTA_DEBATES, RUTA_VITAMINAS, RUTA_AZUCAR, RUTA_ETIQUETAS):   # composición de alimentos (USDA), debates con sus corrientes (11-oct-2026), vitaminas y azúcar (13-oct-2026)
+    for ruta in (RUTA_COMPOSICION, RUTA_DEBATES, RUTA_VITAMINAS, RUTA_AZUCAR, RUTA_ETIQUETAS, RUTA_CAPTACION):   # composición de alimentos (USDA), debates con sus corrientes (11-oct-2026), vitaminas y azúcar (13-oct-2026)
         if ruta.is_file():
             hechos += json.loads(ruta.read_text(encoding="utf-8-sig"))
     if RUTA_VOCES.is_file():
@@ -919,6 +920,33 @@ def controlar(pieza: dict, imagenes: Path | None = None, cuenta: str | None = No
         if imagenes and (imagenes / "registro.json").is_file():
             registro = json.loads((imagenes / "registro.json").read_text(encoding="utf-8"))
         return RF.controlar_reel(pieza, registro)
+    if pieza.get("formato") == "video" and pieza.get("esquema") == "slides-1":    # reel de hojas (reel_slides.py): textos de las hojas y el registro del vídeo
+        salida_s: list = []
+        try:
+            banco_s = cargar_banco(cuenta or cuenta_de(pieza))
+        except V.ErrorValidaciones as exc:
+            return [(FALLO, "validación", str(exc))]
+        pz = dict(pieza, _citas=citas_de(pieza, banco_s))
+        c_estructura(pz, salida_s)
+        c_cifras(pz, banco_s, salida_s)
+        c_lineas_rojas(pz, salida_s)
+        c_texto_ia(pz, salida_s)
+        c_descargo(pz, salida_s)
+        c_densidad(pz, salida_s)
+        reg = imagenes / "registro.json" if imagenes else None
+        if not reg or not reg.is_file():
+            salida_s.append((FALLO, "vídeo", "falta registro.json del reel"))
+        else:
+            r = json.loads(reg.read_text(encoding="utf-8"))
+            if not 5 <= r.get("duracion_s", 0) <= 45:
+                salida_s.append((AVISO, "vídeo", f"dura {r.get('duracion_s')} s: lo previsto es de 5 a 45 s"))
+            if (r.get("ancho"), r.get("alto")) != (1080, 1920) or r.get("codec") != "h264":
+                salida_s.append((FALLO, "vídeo", f"formato {r.get('ancho')}x{r.get('alto')} {r.get('codec')}: tiene que ser 1080x1920 h264"))
+            if r.get("tamano_mb", 0) > 18:
+                salida_s.append((FALLO, "vídeo", f"pesa {r.get('tamano_mb')} MB (el tope es 18)"))
+            if not r.get("tiene_audio"):
+                salida_s.append((FALLO, "vídeo", "el vídeo no lleva pista de audio (ni siquiera en silencio)"))
+        return salida_s
     if pieza.get("formato") == "video" and pieza.get("esquema") == 3:      # reel mudo: los textos se miran en su traducción
         import reel_mudo as RM
         try:
