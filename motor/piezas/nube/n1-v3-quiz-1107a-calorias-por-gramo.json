@@ -1,0 +1,87 @@
+{
+  "id": "n1-v3-quiz-1107a-calorias-por-gramo",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1107a-calorias-por-gramo",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "GAN-008"
+  ],
+  "pie_instagram": "¿Qué aporta más calorías por gramo: la grasa, los hidratos o la proteína? Contesta con el número antes del final 🤔\n\nGrasa, hidratos y proteína: un gramo de cada uno, sin trampa 🫒\n\nSon los factores de cálculo de la etiqueta, no una recomendación de cuánto comer.\n\nTenlo a mano la próxima vez que mires un envase.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #calorias #grasas #quiz #etiquetas",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué aporta más {calorías} por gramo?",
+      "opciones": [
+        {
+          "nombre": "Grasa"
+        },
+        {
+          "nombre": "Hidratos"
+        },
+        {
+          "nombre": "Proteína"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Grasa",
+          "valor": "9 kcal"
+        },
+        {
+          "nombre": "Hidratos",
+          "valor": "4 kcal"
+        },
+        {
+          "nombre": "Proteína",
+          "valor": "4 kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Gana la {grasa}",
+      "opciones": [
+        {
+          "valor": "9 kcal"
+        }
+      ],
+      "texto": "Kcal por gramo de nutriente, como en la etiqueta europea"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Llévaselo a quien cuenta {calorías}"
+    }
+  ],
+  "alt": [
+    "¿Qué aporta más calorías por gramo?. Grasa. Hidratos. Proteína.",
+    "Comenta uno, dos o tres.",
+    "Grasa 9 kcal. Hidratos 4 kcal. Proteína 4 kcal.",
+    "Gana la grasa. 9 kcal. Kcal por gramo de nutriente, como en la etiqueta europea.",
+    "Llévaselo a quien cuenta calorías."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-1107a-calorias-por-gramo",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.37
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "n1-v3-quiz-1112a-fruta-mas-dulce",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1112a-fruta-mas-dulce",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-128",
+    "ALI-142",
+    "MIT-016"
+  ],
+  "pie_instagram": "El mango, el melón o la sandía: ¿cuál lleva más azúcar? Piénsalo antes del final 🥭\n\nTres frutas crudas, por cada 100 g de fruta 🍈\nY una cuarta fuera del quiz, con sus calorías 🍓\nLo que dice la OMS del azúcar de la fruta fresca 🍉\n\nEs composición por 100 g de fruta cruda, no una recomendación de cantidad. Con diabetes, medicación o embarazo, consulta con tu médico.\n\nCompártelo con quien dice que la fruta engorda por su azúcar.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #fruta #azucar #quiz #comidareal",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué fruta lleva más {azúcar}?",
+      "opciones": [
+        {
+          "nombre": "Mango"
+        },
+        {
+          "nombre": "Melón"
+        },
+        {
+          "nombre": "Sandía"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Mango",
+          "valor": "13,7 g"
+        },
+        {
+          "nombre": "Melón",
+          "valor": "7,9 g"
+        },
+        {
+          "nombre": "Sandía",
+          "valor": "6,2 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Gana el {mango}",
+      "opciones": [
+        {
+          "valor": "13,7 g"
+        }
+      ],
+      "texto": "Gramos de azúcares por cada 100 g, fruta cruda"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Compártelo con quien dice que la {fruta} engorda por su azúcar"
+    }
+  ],
+  "alt": [
+    "¿Qué fruta lleva más azúcar?. Mango. Melón. Sandía.",
+    "Comenta uno, dos o tres.",
+    "Mango 13,7 g. Melón 7,9 g. Sandía 6,2 g.",
+    "Gana el mango. 13,7 g. Gramos de azúcares por cada 100 g, fruta cruda.",
+    "Compártelo con quien dice que la fruta engorda por su azúcar."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-1112a-fruta-mas-dulce",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 6.99
+  }
+}

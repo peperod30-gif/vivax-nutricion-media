@@ -1,0 +1,88 @@
+{
+  "id": "n1-v3-quiz-1021a-que-lleva-mas-calcio",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1021a-que-lleva-mas-calcio",
+  "molde": "eleccion",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-009",
+    "ALI-061"
+  ],
+  "pie_instagram": "¿Qué lleva más calcio: la leche, el tofu o las sardinas? Apuesta antes del final 🥛\n\nLeche entera, tofu firme y sardinas en lata, por cada 100 g 🐟\n\nEs composición por 100 g de una selección, no una recomendación. Es lo que lleva el alimento, no lo que se absorbe.\n\nDime en comentarios cuál habías puesto y reenvíalo a quien apostaría por la leche.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFotos: Wikimedia Commons, recortadas: «Sardinky», Dezidor (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0.\n\n#calcio #quiz #tofu #nutricion #comidareal",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué lleva más {calcio}?",
+      "opciones": [
+        {
+          "nombre": "Leche entera"
+        },
+        {
+          "nombre": "Tofu firme"
+        },
+        {
+          "nombre": "Sardinas en lata"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Leche entera",
+          "valor": "113 mg"
+        },
+        {
+          "nombre": "Tofu firme",
+          "valor": "683 mg"
+        },
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "382 mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Gana el {tofu firme}",
+      "opciones": [
+        {
+          "valor": "683 mg"
+        }
+      ],
+      "texto": "Por 100 g, de estos tres. Tofu con sulfato de calcio; sardinas con espina"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Pásaselo a quien cree que la leche es la reina del {calcio}"
+    }
+  ],
+  "alt": [
+    "¿Qué lleva más calcio?. Leche entera. Tofu firme. Sardinas en lata.",
+    "Comenta uno, dos o tres.",
+    "Leche entera 113 mg. Tofu firme 683 mg. Sardinas en lata 382 mg.",
+    "Gana el tofu firme. 683 mg. Por 100 g, de estos tres. Tofu con sulfato de calcio; sardinas con espina.",
+    "Pásaselo a quien cree que la leche es la reina del calcio."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-1021a-que-lleva-mas-calcio",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.88
+  }
+}
