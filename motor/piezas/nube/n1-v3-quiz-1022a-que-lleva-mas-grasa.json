@@ -1,0 +1,86 @@
+{
+  "id": "n1-v3-quiz-1022a-que-lleva-mas-grasa",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1022a-que-lleva-mas-grasa",
+  "molde": "eleccion",
+  "pilar": "ENSEÑAR",
+  "hechos": [
+    "ALI-053"
+  ],
+  "pie_instagram": "Mantequilla, aceite de oliva o aguacate: ¿qué lleva más grasa? Apuesta antes del final 🫒\n\nGrasa total de cada uno, por cada 100 g 🥑\n\nEs composición por 100 g, no una recomendación.\n\nDime en comentarios cuál habías puesto y reenvíalo a quien unta mantequilla en todo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #aceitedeoliva #quiz #nutricion #alimentacionsaludable",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué lleva más {grasa}?",
+      "opciones": [
+        {
+          "nombre": "Mantequilla"
+        },
+        {
+          "nombre": "Aceite de oliva"
+        },
+        {
+          "nombre": "Aguacate"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Mantequilla",
+          "valor": "81,1 g"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "100,0 g"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "14,7 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Gana el {aceite de oliva}",
+      "opciones": [
+        {
+          "valor": "100,0 g"
+        }
+      ],
+      "texto": "Grasa por cada 100 g"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Reenvíalo a quien unta {mantequilla} en todo"
+    }
+  ],
+  "alt": [
+    "¿Qué lleva más grasa?. Mantequilla. Aceite de oliva. Aguacate.",
+    "Comenta uno, dos o tres.",
+    "Mantequilla 81,1 g. Aceite de oliva 100,0 g. Aguacate 14,7 g.",
+    "Gana el aceite de oliva. 100,0 g. Grasa por cada 100 g.",
+    "Reenvíalo a quien unta mantequilla en todo."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-1022a-que-lleva-mas-grasa"
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.38
+  }
+}

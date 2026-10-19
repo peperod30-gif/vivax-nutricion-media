@@ -1,0 +1,86 @@
+{
+  "id": "n1-v3-quiz-1026c-que-lleva-mas-hidratos",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1026c-que-lleva-mas-hidratos",
+  "molde": "eleccion",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-021"
+  ],
+  "pie_instagram": "Pasta, pan blanco o arroz: ¿qué lleva más hidratos por 100 g? 🍞\n\nPasta cocida, pan blanco y arroz blanco cocido, por cada 100 g 🍝\n\nEs composición por 100 g, no una recomendación. Con diabetes, consulta tus cantidades con tu médico.\n\nEscribe en comentarios el número que habías puesto.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #quiz #pan #lowcarb #dieta",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué lleva más {hidratos}?",
+      "opciones": [
+        {
+          "nombre": "Pasta cocida"
+        },
+        {
+          "nombre": "Pan blanco"
+        },
+        {
+          "nombre": "Arroz blanco cocido"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Pasta cocida",
+          "valor": "30,9 g"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "49,4 g"
+        },
+        {
+          "nombre": "Arroz blanco cocido",
+          "valor": "28,2 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Gana el {pan blanco}",
+      "opciones": [
+        {
+          "valor": "49,4 g"
+        }
+      ],
+      "texto": "Hidratos por cada 100 g"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Mándaselo a quien quita la pasta {y no el pan}"
+    }
+  ],
+  "alt": [
+    "¿Qué lleva más hidratos?. Pasta cocida. Pan blanco. Arroz blanco cocido.",
+    "Comenta uno, dos o tres.",
+    "Pasta cocida 30,9 g. Pan blanco 49,4 g. Arroz blanco cocido 28,2 g.",
+    "Gana el pan blanco. 49,4 g. Hidratos por cada 100 g.",
+    "Mándaselo a quien quita la pasta y no el pan."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-1026c-que-lleva-mas-hidratos"
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 3.95
+  }
+}

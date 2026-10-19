@@ -1,0 +1,108 @@
+{
+  "id": "n1-v3-cambio-1020a-cambios-fruta",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "cambio",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1020a-cambios-fruta",
+  "molde": "cambio",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-065",
+    "ALI-143"
+  ],
+  "pie_instagram": "Si siempre comes manzana, mira lo que cambia con el kiwi y la pera 🍐\n\nManzana cruda: 2,4 g de fibra. Kiwi crudo: 3,0 g 🥝\nPera cruda: 3,1 g de fibra y 9,8 g de azúcares 🍐\nManzana cruda: 2,4 g de fibra y 10,4 g de azúcares 🍎\n\nEs composición por 100 g, no una recomendación.\n\n¿Qué fruta no falta en tu casa?\nMándaselo a quien lleva una manzana en el bolso.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fruta #fibra #cambios #nutricion #comidareal",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titular": "Si siempre comes {manzana}",
+      "texto": "Mira esto"
+    },
+    {
+      "plantilla": "v3_cambio",
+      "kicker": "Si antes comías",
+      "texto": "Y ahora comes",
+      "izq": {
+        "nombre": "Manzana cruda",
+        "valor": "2,4 g",
+        "texto": "de fibra por 100 g"
+      },
+      "der": {
+        "nombre": "Kiwi crudo",
+        "valor": "3,0 g",
+        "texto": "de fibra por 100 g"
+      }
+    },
+    {
+      "plantilla": "v3_cambio",
+      "kicker": "Si antes comías",
+      "texto": "Y ahora comes",
+      "izq": {
+        "nombre": "Manzana cruda",
+        "valor": "2,4 g",
+        "texto": "de fibra por 100 g"
+      },
+      "der": {
+        "nombre": "Pera cruda",
+        "valor": "3,1 g",
+        "texto": "de fibra por 100 g"
+      }
+    },
+    {
+      "plantilla": "v3_participa",
+      "titulo": "¿Kiwi o pera? Comenta",
+      "opciones": [
+        {
+          "nombre": "Kiwi crudo",
+          "valor": "3,0 g"
+        },
+        {
+          "nombre": "Pera cruda",
+          "valor": "3,1 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "kicker": "La pera",
+      "titular": "Más {fibra} y menos azúcares",
+      "filas": [
+        {
+          "nombre": "Fibra",
+          "valor": "3,1 g",
+          "detalle": "Manzana: 2,4 g"
+        },
+        {
+          "nombre": "Azúcares",
+          "valor": "9,8 g",
+          "detalle": "Manzana: 10,4 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Mándaselo a quien lleva una {manzana} en el bolso"
+    }
+  ],
+  "alt": [
+    "Si siempre comes manzana. Mira esto.",
+    "Si antes comías. Y ahora comes. Manzana cruda 2,4 g de fibra por 100 g. Kiwi crudo 3,0 g de fibra por 100 g.",
+    "Si antes comías. Y ahora comes. Manzana cruda 2,4 g de fibra por 100 g. Pera cruda 3,1 g de fibra por 100 g.",
+    "¿Kiwi o pera? Comenta. Kiwi crudo 3,0 g. Pera cruda 3,1 g.",
+    "La pera. Más fibra y menos azúcares. Fibra 3,1 g Manzana: 2,4 g. Azúcares 9,8 g Manzana: 10,4 g.",
+    "Mándaselo a quien lleva una manzana en el bolso."
+  ],
+  "produccion": {
+    "familia": "cambio",
+    "rol": "VIRAL",
+    "origen": "n1-g-1020a-cambios-fruta"
+  },
+  "produccion_video": {
+    "duracion_s": 10.65,
+    "tamano_mb": 6.66
+  }
+}
