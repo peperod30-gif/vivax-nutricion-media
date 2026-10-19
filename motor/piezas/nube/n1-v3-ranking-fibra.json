@@ -1,0 +1,92 @@
+{
+  "id": "n1-v3-ranking-fibra",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "ranking",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1027c-reyes-fibra",
+  "molde": "pictograma",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-007"
+  ],
+  "pie_instagram": "Cuatro alimentos con fibra, de las lentejas al kiwi 🥑\n\nFibra por cada 100 g: lentejas cocidas 7,9 g, aguacate crudo 6,7 g, guayaba cruda 5,4 g y kiwi crudo 3,0 g 🥝\nLa sorpresa es el aguacate: casi tanta fibra como las lentejas cocidas 🥑\nEs una selección. También llevan fibra y no salen aquí: garbanzos cocidos 7,6 g y alubias blancas cocidas 6,3 g 🥗\n\nEs composición por 100 g de una selección, no una recomendación.\n\nEnvíaselo a quien no sabe dónde está la fibra.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFotos: Wikimedia Commons, recortadas: «French Lentil Soup (140491423)», J Doll (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0.\n\n#fibra #ranking #legumbres #nutricion #comidareal",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué tiene más {fibra}?",
+      "filas": [
+        {
+          "nombre": "Aguacate crudo"
+        },
+        {
+          "nombre": "Guayaba cruda"
+        },
+        {
+          "nombre": "Kiwi crudo"
+        },
+        {
+          "nombre": "Lentejas cocidas"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta tu apuesta"
+    },
+    {
+      "plantilla": "v3_ranking",
+      "titulo": "{fibra} por 100 g",
+      "texto": "Una selección, no el ranking completo",
+      "kicker": "La sorpresa",
+      "filas": [
+        {
+          "nombre": "Kiwi crudo",
+          "valor": "3,0 g"
+        },
+        {
+          "nombre": "Guayaba cruda",
+          "valor": "5,4 g"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "valor": "6,7 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "filas": [
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "7,9 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Envíaselo a quien no sabe dónde está la {fibra}"
+    }
+  ],
+  "alt": [
+    "¿Qué tiene más fibra?. Aguacate crudo. Guayaba cruda. Kiwi crudo. Lentejas cocidas.",
+    "Comenta tu apuesta.",
+    "fibra por 100 g. Una selección, no el ranking completo. La sorpresa. Kiwi crudo 3,0 g. Guayaba cruda 5,4 g. Aguacate crudo 6,7 g.",
+    "Lentejas cocidas 7,9 g.",
+    "Envíaselo a quien no sabe dónde está la fibra."
+  ],
+  "produccion": {
+    "revision_jose": true,
+    "muestra": "reel_v3",
+    "familia": "pictograma",
+    "nota": "muestra del formato v3: sin fecha ni hueco; ensamblar.py le pone los del plan"
+  },
+  "produccion_video": {
+    "duracion_s": 11.09,
+    "tamano_mb": 5.16
+  }
+}

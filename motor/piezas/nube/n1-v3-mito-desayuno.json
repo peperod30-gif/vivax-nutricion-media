@@ -1,0 +1,68 @@
+{
+  "id": "n1-v3-mito-desayuno",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "mito",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1018d-mito-desayuno",
+  "molde": "mito",
+  "pilar": "mito",
+  "hechos": [
+    "MIT-007"
+  ],
+  "pie_instagram": "«El desayuno es la comida más importante del día». Para el peso, los datos no lo dicen ☕\n\nEn adultos, quien se saltaba el desayuno perdió, de media, 0,44 kg más que quien desayunaba 🥐\nY quien desayunaba comía, de media, unas 260 kcal más al día 🍳\nSon diferencias pequeñas, en pocas semanas y con ensayos de calidad mayormente baja, así que ni obligatorio ni prohibido 🥣\n\nCon diabetes, medicación que baja la glucosa, embarazo o un trastorno de la conducta alimentaria, no cambies tus horarios de comida sin hablarlo con tu médico.\n\nReenvíalo a quien jura que sin desayuno no se empieza el día.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#desayuno #mitos #dieta #nutricion #habitos",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "kicker": "¿Cierto?",
+      "titular": "El desayuno es la comida {más importante} para adelgazar"
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta cierto o mito"
+    },
+    {
+      "plantilla": "v3_dato",
+      "kicker": "Lo que dicen los datos",
+      "titular": "Saltárselo {no} hizo ganar peso",
+      "texto": "En adultos y de media"
+    },
+    {
+      "plantilla": "v3_dato",
+      "kicker": "Y otra cifra",
+      "titular": "Quien desayunaba comía unas {260 kcal} más",
+      "texto": "Al día y de media"
+    },
+    {
+      "plantilla": "v3_veredicto",
+      "kicker": "Mito",
+      "texto": "Para el peso, los datos no lo respaldan"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Reenvíalo a quien jura que sin {desayuno} no se empieza el día"
+    }
+  ],
+  "alt": [
+    "¿Cierto?. El desayuno es la comida más importante para adelgazar.",
+    "Comenta cierto o mito.",
+    "Lo que dicen los datos. Saltárselo no hizo ganar peso. En adultos y de media.",
+    "Y otra cifra. Quien desayunaba comía unas 260 kcal más. Al día y de media.",
+    "Mito. Para el peso, los datos no lo respaldan.",
+    "Reenvíalo a quien jura que sin desayuno no se empieza el día."
+  ],
+  "produccion": {
+    "revision_jose": true,
+    "muestra": "reel_v3",
+    "familia": "mito",
+    "nota": "muestra del formato v3: sin fecha ni hueco; ensamblar.py le pone los del plan"
+  },
+  "produccion_video": {
+    "duracion_s": 11.39,
+    "tamano_mb": 8.53
+  }
+}
