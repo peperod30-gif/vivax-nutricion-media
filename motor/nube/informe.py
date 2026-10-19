@@ -13,25 +13,47 @@ MADRID = ZoneInfo("Europe/Madrid")
 HORA_MIN = 10
 
 
+def _cuentas(n: float) -> str:
+    return f"{n:.0f} {'cuenta' if round(n) == 1 else 'cuentas'}"
+
+
 def _texto(foto: dict, previa: dict | None) -> str:
+    """El parte de la mañana (20-oct): 5 líneas que se leen en 10 segundos, con lo que importa para crecer y una sola conclusión."""
     p = foto["perfil"]
     seg = p.get("followers_count")
-    delta = f" ({seg - previa['seguidores']:+d} desde ayer)" if previa and previa.get("seguidores") is not None and seg is not None else ""
+    delta = f" ({seg - previa['seguidores']:+d})" if previa and previa.get("seguidores") is not None and seg is not None else ""
+    c = foto.get("cuenta_hoy", {}) or {}
     pubs = sorted(foto["publicaciones"], key=lambda x: x["fecha"], reverse=True)
+    desde = datetime.now(ZoneInfo("UTC")).timestamp() - 36 * 3600
+    recientes = [x for x in pubs if datetime.fromisoformat(x["fecha"].replace("+0000", "+00:00")).timestamp() >= desde] or pubs[:4]
 
     def val(x, k):
         return x["insights"].get(k) or 0
-    L = [f"📊 @{p['username']}: {seg} seguidores{delta}, {p['media_count']} publicaciones."]
-    c = foto.get("cuenta_hoy", {})
-    if c:
-        L.append(f"Hoy: alcance {c.get('reach', '—')} cuentas ({c.get('reach_non_follower', '—')} no te siguen), vistas {c.get('views', '—')}, visitas al perfil {c.get('profile_views', '—')}.")
-    ult = pubs[:8]
-    if ult:
-        n = len(ult)
-        L.append(f"Últimas {n}: alcance medio {sum(val(x, 'reach') for x in ult) / n:.0f}, guardados {sum(val(x, 'saved') for x in ult)}, "
-                 f"envíos {sum(val(x, 'shares') for x in ult)}, me gusta {sum((x.get('me_gusta') or 0) for x in ult)}.")
-        mejor = max(ult, key=lambda x: val(x, "reach") + 5 * val(x, "shares") + 3 * val(x, "saved"))
-        L.append(f"La que mejor va: «{mejor['pie'][:60]}» ({mejor['tipo']}): alcance {val(mejor, 'reach')}, guardados {val(mejor, 'saved')}, envíos {val(mejor, 'shares')}.")
+
+    def media(xs, k):
+        return sum(val(x, k) for x in xs) / len(xs) if xs else 0
+    reels = [x for x in recientes if x["tipo"] == "REELS"]
+    carr = [x for x in recientes if x["tipo"] != "REELS"]
+    L = [f"📊 @{p['username']}: {seg} seguidores{delta}"
+         + (f" · {c['profile_views']} visitas al perfil" if c.get("profile_views") is not None else "")]
+    vistas = []
+    for x in reels:
+        ms = x["insights"].get("ig_reels_avg_watch_time")
+        if ms:
+            vistas.append(ms / 1000)
+    if reels:
+        L.append(f"Reels ({len(reels)}): llegan a {_cuentas(media(reels, 'reach'))} de media" + (f" y se ven {sum(vistas) / len(vistas):.1f} s" if vistas else "") + ".")
+    if carr:
+        L.append(f"Carruseles ({len(carr)}): llegan a {_cuentas(media(carr, 'reach'))} de media.")
+    L.append(f"Interacción: {sum((x.get('comentarios') or 0) for x in recientes)} comentarios, {sum(val(x, 'saved') for x in recientes)} guardados, "
+             f"{sum(val(x, 'shares') for x in recientes)} envíos.")
+    if recientes:
+        mejor = max(recientes, key=lambda x: val(x, "reach") + 5 * val(x, "shares") + 3 * val(x, "saved"))
+        L.append(f"La que mejor va: «{mejor['pie'][:48].rstrip()}…» ({'Reel' if mejor['tipo'] == 'REELS' else 'carrusel'}, {_cuentas(val(mejor, 'reach'))}).")
+    if vistas and sum(vistas) / len(vistas) < 5:
+        L.append("👉 Los Reels se abandonan en los primeros segundos: sigo afinando el gancho.")
+    elif reels and media(reels, "reach") >= 100 and sum(val(x, "shares") for x in reels) == 0:
+        L.append("👉 Llegan, pero nadie los envía: toca mejorar la razón para compartirlos.")
     return "\n".join(L)
 
 

@@ -450,6 +450,34 @@ def aviso_resumen_hoy(salidas: list[tuple[datetime, str]]) -> tuple[str, list]:
     return "\n".join(L), [[("📅 Calendario", "pn:cal:0")]]
 
 
+def resumen_noche(manana: date, salidas: list[dict]) -> tuple[str, list]:
+    """El único mensaje que José recibe cada noche (20-oct-2026): qué sale mañana, con una imagen resumen. Si no toca nada, sale así.
+    salidas: lista de {id, hora (datetime), titulo, reel (bool)} ordenada por hora."""
+    n = len(salidas)
+    L = [f"🌙 Mañana, {dia_de(manana)}: {plural(n, 'publicación', 'publicaciones')}"]
+    for x in salidas:
+        L.append(f"· {hora(x['hora'])} {'Reel' if x.get('reel') else 'Carrusel'} · {corto(x['titulo'], 52)}")
+    L += ["", "Si no tocas nada, sale así."]
+    b = [[("👍 Todo bien", f"pn:nd:ok:{manana.isoformat()}")]]
+    fila = [(f"✏️ {hora(x['hora'])}", f"pn:f:{x['id']}:a") for x in salidas[:4]]
+    if fila:
+        b.append(fila)
+    b.append([("📅 Calendario", "pn:cal:0")])
+    return "\n".join(L), b
+
+
+def resumen_noche_hecho(texto: str) -> str:
+    """El mismo resumen, ya aceptado: se quitan los botones y la última línea dice que está visto."""
+    L = texto.split("\n")
+    while L and not L[-1].strip():
+        L.pop()
+    if L and L[-1].startswith("Si no tocas nada"):
+        L.pop()
+    while L and not L[-1].strip():
+        L.pop()
+    return "\n".join(L) + "\n\n👍 Visto: sale así."
+
+
 def aviso_cola_corta(dias_cola: int, hasta: datetime | None) -> str:
     if not dias_cola:
         return "🧭 La cola de publicaciones se ha quedado vacía. Hay que preparar más piezas desde el PC."

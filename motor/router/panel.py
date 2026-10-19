@@ -28,6 +28,7 @@ SIN_ACCESO = "No tienes acceso a eso."
 METRICAS = Path(__file__).resolve().parents[1] / "datos" / "metricas"
 HORA_RESUMEN = 8                # el resumen de «hoy salen» no sale antes de las 08:00
 HORA_COLA = 10                  # ni el aviso de cola corta antes de las 10:00
+HORA_NOCHE = (21, 30)           # el resumen de «mañana sale esto» (20-oct): un único mensaje al día, con imagen
 DIAS_COLA_CORTA = 3
 MINIMO = timedelta(minutes=2)   # una hora programada queda al menos dos minutos por delante
 
@@ -80,7 +81,7 @@ class Panel:
             "p": self._b_p, "pe": self._b_pe, "ap": self._b_ap, "ao": self._b_ao, "rv": self._b_rv, "rf": self._b_rf, "sk": self._b_sk,
             "f": self._b_f, "ok": self._b_ok, "no": self._b_no, "ch": self._b_ch, "hv": self._b_hv, "ht": self._b_ht, "qu": self._b_qu,
             "rt": self._b_rt, "vh": self._b_vh, "vp": self._b_vp, "cal": self._b_cal, "pu": self._b_pu, "mas": self._b_mas,
-            "num": self._b_num, "te": self._b_te, "pa": self._b_pa, "ay": self._b_ay,
+            "num": self._b_num, "te": self._b_te, "pa": self._b_pa, "ay": self._b_ay, "nd": self._b_nd,
         }
 
     # ------------------------------------------------------------------ base
@@ -796,6 +797,11 @@ class Panel:
         ahora = self._ahora()
         hoy = ahora.date().isoformat()
         items = self._items()
+        ayer = (ahora.date() - timedelta(days=1)).isoformat()
+        if (ahora.hour, ahora.minute) >= HORA_NOCHE and self.hub.meta_leer(f"panel:push:noche:{hoy}") is None:
+            self._resumen_noche(ahora, items, hoy)
+        if self.hub.meta_leer(f"panel:push:noche:{ayer}") is not None:
+            self._una_vez(f"resumen:{hoy}")                  # ya se contó anoche qué sale hoy: no se repite por la mañana
         if ahora.hour >= HORA_RESUMEN and ahora.hour < 20 and self.hub.meta_leer(f"panel:push:resumen:{hoy}") is None:
             salidas = sorted([(i.programada, i.titulo) for i in items if i.estado == "aprobada" and i.programada and i.programada.date() == ahora.date()
                               and i.programada > ahora])
@@ -815,6 +821,112 @@ class Panel:
                     self._una_vez(f"cola:{hoy}")
             else:
                 self._una_vez(f"cola:{hoy}")
+
+    # ------------------------------------------------------------------ el resumen de la noche (20-oct-2026)
+    def pieza_sensible(self, id: int) -> bool:
+        """True si la pieza pide que la vea José antes de salir (`produccion.revision_jose`): es lo único que se le manda pieza a pieza."""
+        try:
+            codigo, ad = self.cuenta()
+            r = ad.fila(id)
+            if r is None:
+                return False
+            return bool((ad._json_de(r).get("produccion") or {}).get("revision_jose"))
+        except Exception:                                      # noqa: BLE001 (ante la duda, no se esconde: se manda como siempre)
+            return True
+
+    def _portada_de(self, id: int) -> Path | None:
+        """Una imagen que represente la pieza: su primera hoja o, si es un Reel, un fotograma del vídeo (cerca del segundo 0,6)."""
+        codigo, ad = self.cuenta()
+        p = ad.pieza(id)
+        if p is None:
+            return None
+        for f in p.archivos:
+            f = Path(f)
+            if f.suffix.lower() in (".jpg", ".jpeg", ".png") and f.is_file():
+                return f
+        for f in p.archivos:
+            f = Path(f)
+            if f.suffix.lower() == ".mp4" and f.is_file():
+                try:
+                    import subprocess
+                    import tempfile
+                    import imageio_ffmpeg
+                    out = Path(tempfile.gettempdir()) / f"vivax_noche_{f.parent.name}.jpg"
+                    subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(), "-y", "-ss", "0.6", "-i", str(f), "-frames:v", "1", "-vf", "scale=540:-2", str(out)],
+                                   capture_output=True, timeout=60)
+                    if out.is_file():
+                        return out
+                except Exception as exc:                       # noqa: BLE001 (sin fotograma, el resumen sale con un recuadro)
+                    self._log(f"no pude sacar un fotograma de {f.name}: {type(exc).__name__}")
+        return None
+
+    def _montaje(self, salidas: list[dict], destino: Path) -> Path | None:
+        """Una sola imagen con las portadas de lo que sale mañana (hasta 4), cada una con su hora. None si no se puede dibujar."""
+        try:
+            from PIL import Image, ImageDraw, ImageFont
+        except ImportError:
+            return None
+        n = len(salidas[:4])
+        if n == 0:
+            return None
+        w, h, hueco = 360, 450, 18
+        lienzo = Image.new("RGB", (hueco + n * (w + hueco), h + 2 * hueco), (12, 12, 12))
+        d = ImageDraw.Draw(lienzo)
+        try:
+            letra = ImageFont.load_default(size=34)
+        except TypeError:
+            letra = ImageFont.load_default()
+        for k, x in enumerate(salidas[:4]):
+            x0 = hueco + k * (w + hueco)
+            ruta = self._portada_de(x["id"])
+            if ruta is not None:
+                try:
+                    im = Image.open(ruta).convert("RGB")
+                    escala = max(w / im.width, h / im.height)
+                    im = im.resize((int(im.width * escala) + 1, int(im.height * escala) + 1))
+                    izq, arr = (im.width - w) // 2, (im.height - h) // 2
+                    lienzo.paste(im.crop((izq, arr, izq + w, arr + h)), (x0, hueco))
+                except Exception:                              # noqa: BLE001
+                    d.rectangle((x0, hueco, x0 + w, hueco + h), fill=(40, 40, 40))
+            else:
+                d.rectangle((x0, hueco, x0 + w, hueco + h), fill=(40, 40, 40))
+            etiqueta = f"{T.hora(x['hora'])}" + ("  REEL" if x.get("reel") else "")
+            d.rectangle((x0, hueco, x0 + 12 * len(etiqueta) + 36, hueco + 52), fill=(176, 189, 107))
+            d.text((x0 + 14, hueco + 8), etiqueta, fill=(0, 0, 0), font=letra)
+        lienzo.save(destino, "JPEG", quality=88)
+        return destino
+
+    def _resumen_noche(self, ahora: datetime, items: list, hoy: str) -> None:
+        """A partir de las 21:30, UNA vez al día: qué sale mañana, con una imagen y botones. Sin nada previsto no manda nada."""
+        manana = ahora.date() + timedelta(days=1)
+        sale = sorted([i for i in items if i.estado == "aprobada" and i.programada and i.programada.date() == manana], key=lambda i: i.programada)
+        if not sale:
+            self._una_vez(f"noche:{hoy}")
+            return
+        salidas = [{"id": i.id, "hora": i.programada, "titulo": i.titulo, "reel": i.formato == "video"} for i in sale]
+        texto, botones = T.resumen_noche(manana, salidas)
+        import tempfile
+        imagen = self._montaje(salidas, Path(tempfile.gettempdir()) / f"vivax_noche_{manana.isoformat()}.jpg")
+        bien = False
+        for uid in self.r._administradores():
+            try:
+                if imagen is not None:
+                    self.r.tg.enviar_foto(uid, imagen, texto, botones)
+                else:
+                    self._decir(uid, texto, botones)
+                bien = True
+            except ErrorTelegram as exc:
+                self._log(f"resumen de la noche no enviado ({exc.metodo} {exc.codigo})")
+        if bien:
+            self._una_vez(f"noche:{hoy}")
+            self.hub.meta_escribir(f"panel:noche:{manana.isoformat()}", texto)
+
+    def _b_nd(self, cb_id, chat_id, msg_id, uid, args):
+        """«👍 Todo bien» del resumen de la noche: se queda el resumen sin botones y se dice que está visto."""
+        fecha = args[1] if len(args) > 1 else ""
+        texto = self.hub.meta_leer(f"panel:noche:{fecha}") or "🌙 Resumen de mañana"
+        self._editar(chat_id, msg_id, T.resumen_noche_hecho(texto), [[("📅 Calendario", "pn:cal:0")]], foto=True)
+        self._toast(cb_id, "Perfecto, sale así")
 
     def _enviar_admins(self, texto: str, botones=None) -> bool:
         """Lo manda a los administradores; True si llegó a alguno. Un fallo de Telegram no tumba nada: se reintenta en la siguiente vuelta."""

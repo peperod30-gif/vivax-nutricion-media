@@ -1371,6 +1371,19 @@ class Router:
             if getattr(ad, "anfitrion", False) or not self.hub.cuenta(codigo):
                 continue
             nuevas = ad.por_entregar()
+            # 20-oct, MODO TRANQUILO (por defecto en la nube): en dos días llegaron más de 60 tarjetas seguidas y José las aprobó todas en 4 minutos
+            # sin mirarlas. Ahora una pieza nueva NO manda nada; lo que sale mañana le llega UNA vez al día en el resumen de la noche
+            # (panel.py), y solo las piezas que piden su revisión (`produccion.revision_jose`) llegan enteras, una a una. Con el ajuste
+            # `entrega_modo` = «individual» se vuelve a mandar todo pieza a pieza.
+            if (nuevas and (self.hub.meta_leer("entrega_modo") or os.environ.get("VIVAX_ENTREGA_MODO") or "tranquilo") == "tranquilo"
+                    and self.panel.disponible() and self.panel.cuenta() and self.panel.cuenta()[0] == codigo):
+                resto = []
+                for p in nuevas:
+                    if self.panel.pieza_sensible(p.id):
+                        resto.append(p)
+                    else:
+                        ad.marcar_entregada(p.id)
+                nuevas = resto
             # 15-oct: José quiere que cada publicación le llegue entera (álbum, pie completo y botones) para validarla una a una; el aviso único
             # con el panel solo se usa si el ajuste `entrega_panel` vale «si»
             if (self.panel.disponible() and self.panel.cuenta() and self.panel.cuenta()[0] == codigo and nuevas
