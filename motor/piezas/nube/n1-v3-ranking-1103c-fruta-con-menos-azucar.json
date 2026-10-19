@@ -1,0 +1,90 @@
+{
+  "id": "n1-v3-ranking-1103c-fruta-con-menos-azucar",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "ranking",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-1103c-fruta-con-menos-azucar",
+  "molde": "pictograma",
+  "pilar": "DIETA",
+  "hechos": [
+    "ALI-044"
+  ],
+  "pie_instagram": "El aguacate es fruta y lleva 0,7 g de azúcares por cada 100 g 🥑\n\nAzúcares por cada 100 g, fruta cruda: aguacate 0,7 g · fresas 4,9 g · piña 9,9 g · manzana 10,4 g 🍓\nManzana y piña, casi lo mismo: 10,4 g y 9,9 g 🍎\n\nEs composición por 100 g de una selección, no una recomendación. Con diabetes, medicación o embarazo, consulta con tu médico antes de cambiar la dieta.\n\n¿Qué fruta añadirías a esta selección?\nEnséñaselo a quien mira el azúcar de la fruta.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #fruta #azucar #ranking #lowcarb",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué tiene más {cuatro}?",
+      "filas": [
+        {
+          "nombre": "Aguacate"
+        },
+        {
+          "nombre": "Fresas"
+        },
+        {
+          "nombre": "Manzana"
+        },
+        {
+          "nombre": "Piña"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta tu apuesta"
+    },
+    {
+      "plantilla": "v3_ranking",
+      "titulo": "Gramos de azúcares por 100 g",
+      "texto": "Selección de cuatro frutas crudas",
+      "filas": [
+        {
+          "nombre": "Aguacate",
+          "valor": "0,7 g"
+        },
+        {
+          "nombre": "Fresas",
+          "valor": "4,9 g"
+        },
+        {
+          "nombre": "Piña",
+          "valor": "9,9 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "filas": [
+        {
+          "nombre": "Manzana",
+          "valor": "10,4 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Para comparar por {100 g}"
+    }
+  ],
+  "alt": [
+    "¿Qué tiene más cuatro?. Aguacate. Fresas. Manzana. Piña.",
+    "Comenta tu apuesta.",
+    "Gramos de azúcares por 100 g. Selección de cuatro frutas crudas. Aguacate 0,7 g. Fresas 4,9 g. Piña 9,9 g.",
+    "Manzana 10,4 g.",
+    "Para comparar por 100 g."
+  ],
+  "produccion": {
+    "familia": "pictograma",
+    "rol": "VIRAL",
+    "origen": "n1-g-1103c-fruta-con-menos-azucar"
+  },
+  "produccion_video": {
+    "duracion_s": 11.05,
+    "tamano_mb": 5.52
+  }
+}

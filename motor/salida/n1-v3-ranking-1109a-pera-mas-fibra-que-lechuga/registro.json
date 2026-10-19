@@ -1,0 +1,503 @@
+{
+ "esquema": "slides-1",
+ "version": "v3",
+ "tipo": "ranking",
+ "duracion_s": 11.05,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.94,
+ "pixel": "yuv420p",
+ "tamano_mb": 5.6,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "revelacion_s": 8.0333,
+ "revelacion_pct": 72.8,
+ "hueco_max_s": 0.733,
+ "n_cambios_visuales": 23,
+ "bucle_dif_ultimo_primero": 6.77,
+ "zona_segura": {
+  "zona": [
+   60,
+   250,
+   950,
+   1500
+  ],
+  "fuera": []
+ },
+ "textos_sin_hoja": [],
+ "solapes": [],
+ "sonido": {
+  "lufs": -16.07,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 4.2,
+  "tiempo_reduccion_mas_1db_pct": 0.13,
+  "efectos_por_tipo": {
+   "golpe": 1,
+   "pop": 9,
+   "sello": 2,
+   "tic": 3,
+   "tac": 1,
+   "whoosh": 7,
+   "contador": 41,
+   "subida": 1,
+   "ding": 1
+  },
+  "descartados": 0,
+  "duracion_s": 11.012,
+  "cama": false,
+  "sala": true,
+  "mp4_lufs": -16.1,
+  "mp4_pico_dbtp": -2.0,
+  "adelanto_s": 0.02133,
+  "desfase_con_el_video_s": -0.0
+ },
+ "efectos": [
+  {
+   "t": 0.0,
+   "tipo": "golpe",
+   "intensidad": 0.8
+  },
+  {
+   "t": 0.4667,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.7,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.9333,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.2,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.5,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.8,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.2667,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.7,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.9333,
+   "tipo": "whoosh",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.1333,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.3333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.4,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.4667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.5333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.6,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.6667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.7667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.8333,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 4.0667,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 4.2667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.3333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.4,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.4667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.5333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.6333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.7,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.7667,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 5.0333,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.2333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.3,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.3667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.4333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.5,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.5667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.6667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.7333,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 6.2667,
+   "tipo": "whoosh",
+   "intensidad": 0.55
+  },
+  {
+   "t": 6.4667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.5667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.6667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.7667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.8333,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.8667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.9667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.0667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.1667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.2667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.3667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.4333,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.5,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.5667,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.6,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.6667,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.7333,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.8,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.8667,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.9,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.9667,
+   "tipo": "contador",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.0333,
+   "tipo": "subida",
+   "intensidad": 0.8
+  },
+  {
+   "t": 8.0333,
+   "tipo": "sello",
+   "intensidad": 1.0
+  },
+  {
+   "t": 8.0333,
+   "tipo": "ding",
+   "intensidad": 0.9
+  },
+  {
+   "t": 8.6667,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.3333,
+   "tipo": "whoosh",
+   "intensidad": 0.55
+  },
+  {
+   "t": 10.0667,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.6333,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  }
+ ],
+ "eventos_visuales": [
+  [
+   0.0,
+   "gancho"
+  ],
+  [
+   0.4667,
+   "foto 1"
+  ],
+  [
+   0.7,
+   "foto 2"
+  ],
+  [
+   0.9333,
+   "foto 3"
+  ],
+  [
+   1.2,
+   "foto 4"
+  ],
+  [
+   1.5,
+   "invitación"
+  ],
+  [
+   1.8,
+   "cuenta atrás"
+  ],
+  [
+   2.2667,
+   "cuenta atrás"
+  ],
+  [
+   2.7,
+   "cuenta atrás"
+  ],
+  [
+   2.9333,
+   "tablero"
+  ],
+  [
+   3.1333,
+   "entra Pepino con piel, crudo"
+  ],
+  [
+   3.8333,
+   "se para Pepino con piel, crudo"
+  ],
+  [
+   4.0667,
+   "entra Lechuga iceberg cruda"
+  ],
+  [
+   4.7667,
+   "se para Lechuga iceberg cruda"
+  ],
+  [
+   5.0333,
+   "entra Judías verdes crudas"
+  ],
+  [
+   5.7333,
+   "se para Judías verdes crudas"
+  ],
+  [
+   6.2667,
+   "entra la última (oculta)"
+  ],
+  [
+   6.8333,
+   "pulso"
+  ],
+  [
+   7.4,
+   "subida"
+  ],
+  [
+   8.0333,
+   "REVELACIÓN"
+  ],
+  [
+   8.6667,
+   "subrayado"
+  ],
+  [
+   9.3333,
+   "llamada"
+  ],
+  [
+   10.0667,
+   "subrayado"
+  ],
+  [
+   10.6333,
+   "vuelta al inicio"
+  ]
+ ],
+ "tiempo_render_s": 25.6,
+ "tiempos_s": {
+  "preparar": 0.68,
+  "comprobar": 0.71,
+  "dibujar_y_codificar": 22.02
+ },
+ "memoria": {
+  "pico_privada_mb": 889,
+  "pico_conjunto_trabajo_mb": 1018
+ },
+ "fotogramas": 331,
+ "consola_navegador": []
+}

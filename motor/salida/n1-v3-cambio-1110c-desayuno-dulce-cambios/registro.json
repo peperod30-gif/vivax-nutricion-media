@@ -1,0 +1,374 @@
+{
+ "esquema": "slides-1",
+ "version": "v3",
+ "tipo": "cambio",
+ "duracion_s": 10.65,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.94,
+ "pixel": "yuv420p",
+ "tamano_mb": 7.36,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -15.9,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "revelacion_s": 7.6333,
+ "revelacion_pct": 71.8,
+ "hueco_max_s": 0.833,
+ "n_cambios_visuales": 18,
+ "bucle_dif_ultimo_primero": 5.1,
+ "zona_segura": {
+  "zona": [
+   60,
+   250,
+   950,
+   1500
+  ],
+  "fuera": []
+ },
+ "textos_sin_hoja": [],
+ "solapes": [
+  {
+   "t": 8.4333,
+   "a": "Por 100 g",
+   "b": "290 kcal"
+  }
+ ],
+ "sonido": {
+  "lufs": -16.07,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 4.11,
+  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "efectos_por_tipo": {
+   "golpe": 1,
+   "pop": 6,
+   "whoosh": 6,
+   "contador": 23,
+   "sello": 2,
+   "tic": 2,
+   "tac": 1,
+   "subida": 1,
+   "ding": 1
+  },
+  "descartados": 0,
+  "duracion_s": 10.612,
+  "cama": false,
+  "sala": true,
+  "mp4_lufs": -15.9,
+  "mp4_pico_dbtp": -2.0,
+  "adelanto_s": 0.02133,
+  "desfase_con_el_video_s": -0.0
+ },
+ "efectos": [
+  {
+   "t": 0.0,
+   "tipo": "golpe",
+   "intensidad": 0.8
+  },
+  {
+   "t": 0.5333,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 1.3,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 1.3333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.4333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.5,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.6,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.6667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.7333,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.0333,
+   "tipo": "whoosh",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.2667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.3667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.4333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.5333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.6,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.6667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.8,
+   "tipo": "pop",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.4333,
+   "tipo": "whoosh",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.6667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.7667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.8333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.9333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.0,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.0667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.2,
+   "tipo": "pop",
+   "intensidad": 0.6
+  },
+  {
+   "t": 4.8667,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.1667,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 5.6667,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 6.1667,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 6.4667,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.6333,
+   "tipo": "subida",
+   "intensidad": 0.8
+  },
+  {
+   "t": 7.6333,
+   "tipo": "sello",
+   "intensidad": 1.0
+  },
+  {
+   "t": 7.6333,
+   "tipo": "ding",
+   "intensidad": 0.9
+  },
+  {
+   "t": 7.7667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.8333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.9,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.9667,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.0333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.1333,
+   "tipo": "contador",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.2,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 9.0333,
+   "tipo": "whoosh",
+   "intensidad": 0.55
+  },
+  {
+   "t": 9.7333,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.2333,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  }
+ ],
+ "eventos_visuales": [
+  [
+   0.0,
+   "gancho"
+  ],
+  [
+   0.5333,
+   "pegatina"
+  ],
+  [
+   1.3,
+   "antes"
+  ],
+  [
+   1.7333,
+   "cifra de antes"
+  ],
+  [
+   2.0333,
+   "cambio 1"
+  ],
+  [
+   2.8,
+   "cifra 1"
+  ],
+  [
+   3.4333,
+   "cambio 2"
+  ],
+  [
+   4.2,
+   "cifra 2"
+  ],
+  [
+   4.8667,
+   "invitación"
+  ],
+  [
+   5.1667,
+   "cuenta atrás"
+  ],
+  [
+   5.6667,
+   "cuenta atrás"
+  ],
+  [
+   6.1667,
+   "cuenta atrás"
+  ],
+  [
+   6.4667,
+   "tensión"
+  ],
+  [
+   7.0,
+   "subida"
+  ],
+  [
+   7.6333,
+   "REVELACIÓN"
+  ],
+  [
+   8.2,
+   "fila 1"
+  ],
+  [
+   9.0333,
+   "llamada"
+  ],
+  [
+   9.7333,
+   "subrayado"
+  ],
+  [
+   10.2333,
+   "vuelta al inicio"
+  ]
+ ],
+ "tiempo_render_s": 30.7,
+ "tiempos_s": {
+  "preparar": 0.69,
+  "comprobar": 0.72,
+  "dibujar_y_codificar": 26.94
+ },
+ "memoria": {
+  "pico_privada_mb": 921,
+  "pico_conjunto_trabajo_mb": 1009
+ },
+ "fotogramas": 319,
+ "consola_navegador": []
+}
