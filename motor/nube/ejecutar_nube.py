@@ -225,7 +225,17 @@ def importar_nuevas(ad, hub, carpeta: Path, lg=log) -> int:
         except Exception as exc:                                  # noqa: BLE001 (se cuenta, no se esconde)
             lg(f"no se pudo importar {pid}: {type(exc).__name__}")
             clave = "nube-import-" + "".join(ch if ch.isalnum() else "-" for ch in pid.lower())[:60]
-            hub.crear_aviso(f"La pieza {pid} no se ha podido importar en la nube: {str(exc)[:300] or type(exc).__name__}", "atencion", clave, "n1", 6 * 3600)
+            # 19-oct: una pieza que no pasa los controles se intentaba importar en cada pasada y llenó el Telegram de José de avisos iguales
+            # (80 en una hora, que además gastaron el cupo del día). Ahora se avisa UNA vez cada 24 h por pieza, y sin tocar el cupo si ya se avisó.
+            ultimo = hub.meta_leer("aviso_" + clave)
+            ahora = time.time()
+            try:
+                reciente = ultimo is not None and ahora - float(ultimo) < 24 * 3600
+            except ValueError:
+                reciente = False
+            if not reciente:
+                hub.meta_escribir("aviso_" + clave, str(ahora))
+                hub.crear_aviso(f"La pieza {pid} no se ha subido: {str(exc)[:300] or type(exc).__name__}", "atencion", clave, "n1", 24 * 3600)
     return n
 
 
