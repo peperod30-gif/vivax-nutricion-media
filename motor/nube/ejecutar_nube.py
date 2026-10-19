@@ -189,6 +189,7 @@ def montar(datos: Path, env: dict, simulado: bool, motor: Path = MOTOR, modo_ig:
         ad = AdaptadorNutricion(c["codigo"], datos / "cuentas", salida=Path(motor) / "salida", politica=c.get("politica_aprobacion", "validado"),
                                 horas=c.get("horas"), ig=ig, publicador=construir_publicador({**c, "instagram": ig}, env, datos, simulado), **extra)
         ad.guardar_token = lambda tok, datos=datos: _guardar_token(datos, tok)
+        ad.pauta = c.get("pauta")                                       # huecos del autopiloto (nube/autopiloto.py): [["13:00", "reel"], ...]
         ad.estilo_panel = True                                          # avisos de publicación en llano y con los botones del panel
         adaptadores[c["codigo"]] = ad
     return hub, adaptadores
@@ -249,6 +250,11 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log,
         pass
     cuenta["importadas"] = importar_nuevas(ad, hub, motor / "piezas" / "nube", lg)
     cuenta["ordenes"] = O.procesar_ordenes(hub, motor / "ordenes", lg, ad=ad)
+    try:                                                          # autopiloto: programa solo las piezas marcadas `autoaprobar` (nunca las delicadas)
+        from nube import autopiloto as _auto
+        _auto.programar(ad, hub, getattr(ad, "pauta", None), lg)
+    except Exception as exc:                                      # noqa: BLE001
+        lg(f"autopiloto: {type(exc).__name__}")
     try:                                                          # informe diario de números (solo lectura de la API de Instagram)
         from nube import informe as _informe
         _informe.informe_diario(hub, log=lg, ad=ad)

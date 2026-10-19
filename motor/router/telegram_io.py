@@ -71,6 +71,15 @@ class TelegramReal:
             datos["reply_markup"] = t
         return self._llamar("sendMessage", data=datos)["message_id"]
 
+    def enviar_silencioso(self, chat_id: int, texto: str, botones=None) -> int:
+        """Igual que enviar, pero sin sonido ni vibración (disable_notification): el mensaje llega igual y cuenta como mensaje nuevo, pero no
+        suena. Para lo que puede esperar: informes y «publicada»."""
+        datos = {"chat_id": chat_id, "text": texto[:4000], "disable_web_page_preview": "true", "disable_notification": "true"}
+        t = self._teclado(botones)
+        if t:
+            datos["reply_markup"] = t
+        return self._llamar("sendMessage", data=datos)["message_id"]
+
     def editar(self, chat_id: int, message_id: int, texto: str, botones=None) -> None:
         datos = {"chat_id": chat_id, "message_id": message_id, "text": texto[:4000]}
         t = self._teclado(botones)

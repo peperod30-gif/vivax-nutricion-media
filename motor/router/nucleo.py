@@ -485,7 +485,8 @@ class Avisos:
             return
         for a in self.hub.avisos_pendientes(LOTE_AVISOS):
             try:
-                mid = self.r.tg.enviar(admin, self.texto(a))
+                envia = getattr(self.r.tg, "enviar_silencioso", None) if a["nivel"] == "info" else None      # los informativos no suenan (20-oct)
+                mid = (envia or self.r.tg.enviar)(admin, self.texto(a))
             except ErrorTelegram as exc:
                 permanente = exc.codigo in ERRORES_PERMANENTES
                 self.hub.aviso_fallido(a["id"], f"{exc.metodo} {exc.codigo}", definitivo=permanente)
@@ -1446,11 +1447,12 @@ class Router:
     def _administradores(self) -> list[int]:
         return [u["user_id"] for u in self.hub.usuarios() if u["rol"] == "admin" and not u["revocado"]]
 
-    def _enviar_a_admins(self, texto: str, botones=None) -> None:
+    def _enviar_a_admins(self, texto: str, botones=None, silencioso: bool = False) -> None:
         """Lo manda a cada administrador (con sus botones, si los lleva). Un fallo de Telegram sale (ErrorTelegram): quien llama decide si
-        el aviso queda pendiente."""
+        el aviso queda pendiente. `silencioso`: sin sonido (si el Telegram usado lo sabe)."""
+        envia = getattr(self.tg, "enviar_silencioso", None) if silencioso else None
         for uid in self._administradores():
-            self.tg.enviar(uid, texto, botones)
+            (envia or self.tg.enviar)(uid, texto, botones)
 
     def _entregar_avisos_publicacion(self, ad) -> None:
         """Los avisos de publicación de una cuenta (tabla `avisos_publicacion` de su base): cada uno se marca como enviado solo cuando
@@ -1461,7 +1463,7 @@ class Router:
             return
         for a in ad.avisos_publicacion_pendientes():
             try:
-                self._enviar_a_admins(a["texto"], _botones_de(a["botones"]))
+                self._enviar_a_admins(a["texto"], _botones_de(a["botones"]), silencioso=str(a["texto"]).startswith("📤"))   # «Publicada» no suena
             except ErrorTelegram as exc:
                 permanente = exc.codigo in ERRORES_PERMANENTES
                 ad.aviso_publicacion_fallido(a["id"], f"{exc.metodo} {exc.codigo}", definitivo=permanente)
