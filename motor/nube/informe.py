@@ -89,6 +89,50 @@ def _por_formato(foto: dict, ad) -> str:
     return "Por formato (alcance medio · guardados · envíos): " + "; ".join(f"{m} {a:.0f} · {g} · {e} ({n})" for a, m, n, g, e in filas[:6])
 
 
+def _mediana(xs: list) -> float:
+    xs = sorted(xs)
+    n = len(xs)
+    return 0.0 if n == 0 else (xs[n // 2] if n % 2 else (xs[n // 2 - 1] + xs[n // 2]) / 2)
+
+
+def _texto_semana(foto: dict, previa: dict | None) -> str:
+    """El informe del lunes (20-oct): lo mismo que se mira a mano en el plan, con una sola conclusión según reglas simples. Solo cuentan las
+    piezas con más de 24 h de vida y de los últimos 7 días; con tan poco alcance, una pieza suelta no dice nada y por eso se usan medianas."""
+    p = foto["perfil"]
+    ahora = datetime.now(ZoneInfo("UTC")).timestamp()
+    fechas = {x["id"]: datetime.fromisoformat(x["fecha"].replace("+0000", "+00:00")).timestamp() for x in foto["publicaciones"]}
+    sem = [x for x in foto["publicaciones"] if 24 * 3600 <= ahora - fechas[x["id"]] <= 7 * 86400]
+    reels = [x for x in sem if x["tipo"] == "REELS"]
+
+    def val(x, k):
+        return x["insights"].get(k) or 0
+    seg = p.get("followers_count")
+    delta = f" ({seg - previa['seguidores']:+d} en la semana)" if previa and previa.get("seguidores") is not None and seg is not None else ""
+    alcance_tot = sum(val(x, "reach") for x in sem) or 1
+    por_mil = lambda k: 1000 * sum(val(x, k) for x in sem) / alcance_tot          # noqa: E731
+    L = [f"📈 Semana de @{p['username']}: {seg} seguidores{delta}. Piezas con 24 h o más: {len(sem)} ({len(reels)} Reels)."]
+    saltos = [x["insights"]["reels_skip_rate"] for x in reels if x["insights"].get("reels_skip_rate") is not None]
+    vistos = [x["insights"]["ig_reels_avg_watch_time"] / 1000 for x in reels if x["insights"].get("ig_reels_avg_watch_time")]
+    alc_r = [val(x, "reach") for x in reels]
+    if reels:
+        L.append(f"Reels: alcance mediano {_mediana(alc_r):.0f}" + (f", salto en 3 s {_mediana(saltos):.0f} %" if saltos else "")
+                 + (f", {_mediana(vistos):.1f} s vistos" if vistos else "") + ".")
+    L.append(f"Por cada 1.000 de alcance: {por_mil('shares'):.1f} envíos, {por_mil('saved'):.1f} guardados, "
+             f"{1000 * sum((x.get('comentarios') or 0) for x in sem) / alcance_tot:.1f} comentarios.")
+    if reels:
+        mejor = max(reels, key=lambda x: val(x, "reach") + 5 * val(x, "shares"))
+        L.append(f"El mejor Reel: «{mejor['pie'][:48].rstrip()}…» ({_cuentas(val(mejor, 'reach'))}).")
+    if saltos and _mediana(saltos) > 65:
+        L.append("👉 Decisión: el primer segundo sigue sin retener. Pruebo otro gancho y más comida real en el primer fotograma.")
+    elif reels and _mediana(alc_r) < 150:
+        L.append("👉 Decisión: retiene pero llega poco. Miro Estado de la cuenta y subo la cadencia de Reels.")
+    elif por_mil("shares") < 2:
+        L.append("👉 Decisión: llega pero casi nadie lo envía. Más piezas con motivo para enviar (retos, listas útiles).")
+    elif reels:
+        L.append("👉 Decisión: va en buena dirección. Repito lo que más funciona.")
+    return "\n".join(L)
+
+
 def informe_diario(hub, ahora: datetime | None = None, log=print, ad=None) -> bool:
     ahora = (ahora or datetime.now(MADRID)).astimezone(MADRID)
     if ahora.hour < HORA_MIN:
@@ -106,13 +150,21 @@ def informe_diario(hub, ahora: datetime | None = None, log=print, ad=None) -> bo
         previa = json.loads(hub.meta_leer("informe_ultimo") or "null")
     except ValueError:
         previa = None
-    texto = _texto(foto, previa)
-    try:
-        extra = _por_formato(foto, ad)
-    except Exception:                                             # noqa: BLE001
-        extra = ""
-    if extra:
-        texto += "\n" + extra
+    if ahora.weekday() == 0:                                      # los lunes, el informe de la semana en lugar del parte diario
+        try:
+            previa_sem = json.loads(hub.meta_leer("informe_semana") or "null")
+        except ValueError:
+            previa_sem = None
+        texto = _texto_semana(foto, previa_sem)
+        try:
+            extra = _por_formato(foto, ad)
+        except Exception:                                         # noqa: BLE001
+            extra = ""
+        if extra:
+            texto += "\n" + extra
+        hub.meta_escribir("informe_semana", json.dumps({"seguidores": foto["perfil"].get("followers_count"), "fecha": ahora.isoformat()}))
+    else:
+        texto = _texto(foto, previa)
     hub.crear_aviso(texto, "info", f"informe-{ahora.date().isoformat()}", "n1", None)
     hub.meta_escribir("informe_ultimo", json.dumps({"seguidores": foto["perfil"].get("followers_count"), "fecha": ahora.isoformat()}))
     hub.meta_escribir(clave, "hecho")
