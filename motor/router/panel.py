@@ -873,7 +873,8 @@ class Panel:
         if n == 0:
             return None
         w, h, hueco = 360, 450, 18
-        lienzo = Image.new("RGB", (hueco + n * (w + hueco), h + 2 * hueco), (12, 12, 12))
+        barra = 58                                           # la hora va en una franja debajo de la portada: no tapa el gancho
+        lienzo = Image.new("RGB", (hueco + n * (w + hueco), h + barra + 2 * hueco), (12, 12, 12))
         d = ImageDraw.Draw(lienzo)
         try:
             letra = ImageFont.load_default(size=34)
@@ -894,8 +895,12 @@ class Panel:
             else:
                 d.rectangle((x0, hueco, x0 + w, hueco + h), fill=(40, 40, 40))
             etiqueta = f"{T.hora(x['hora'])}" + ("  REEL" if x.get("reel") else "")
-            d.rectangle((x0, hueco, x0 + 12 * len(etiqueta) + 36, hueco + 52), fill=(176, 189, 107))
-            d.text((x0 + 14, hueco + 8), etiqueta, fill=(0, 0, 0), font=letra)
+            try:
+                ancho_txt = int(d.textlength(etiqueta, font=letra))
+            except Exception:                                  # noqa: BLE001 (una fuente sin textlength: se calcula a ojo)
+                ancho_txt = 16 * len(etiqueta)
+            d.rectangle((x0, hueco + h, x0 + w, hueco + h + barra), fill=(176, 189, 107))
+            d.text((x0 + (w - ancho_txt) // 2, hueco + h + 10), etiqueta, fill=(0, 0, 0), font=letra)
         lienzo.save(destino, "JPEG", quality=88)
         return destino
 
