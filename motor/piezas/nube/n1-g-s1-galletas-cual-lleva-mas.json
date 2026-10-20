@@ -1,0 +1,124 @@
+{
+  "id": "n1-g-s1-galletas-cual-lleva-mas",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-047",
+    "SUP-048",
+    "SUP-087"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-27",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "blanco",
+      "titulo": "¿Qué galleta lleva más {azúcar} por 100 g?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Mini Oreo",
+          "foto": "galletas_pepitas",
+          "foco": [
+            62,
+            50
+          ],
+          "zoom": 1.2,
+          "valor": "37 g"
+        },
+        {
+          "nombre": "Cookies 40 % pepitas de chocolate Hacendado",
+          "foto": "galletas_pepitas",
+          "foco": [
+            60,
+            32
+          ],
+          "zoom": 2.2,
+          "valor": "33 g"
+        },
+        {
+          "nombre": "Digestive avena Hacendado",
+          "foto": "galletas_pepitas",
+          "foco": [
+            55,
+            75
+          ],
+          "zoom": 2,
+          "valor": "18 g"
+        }
+      ],
+      "texto": "Azúcares totales por cada 100 g. Fotos de ejemplo."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "La que más declara por 100 g: {Mini Oreo}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Mini Oreo",
+          "foto": "galletas_pepitas",
+          "foco": [
+            62,
+            50
+          ],
+          "zoom": 1.2,
+          "valor": "37 g"
+        },
+        {
+          "nombre": "Cookies 40 % pepitas de chocolate Hacendado",
+          "foto": "galletas_pepitas",
+          "foco": [
+            60,
+            32
+          ],
+          "zoom": 2.2,
+          "valor": "33 g"
+        },
+        {
+          "nombre": "Digestive avena Hacendado",
+          "foto": "galletas_pepitas",
+          "foco": [
+            55,
+            75
+          ],
+          "zoom": 2,
+          "valor": "18 g"
+        }
+      ],
+      "texto": "Azúcares totales en esta selección, según su etiqueta."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Lo que dice la etiqueta",
+      "titular": "Son azúcares {totales}",
+      "texto": "Incluyen los propios de los ingredientes y la etiqueta no separa los añadidos."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien moja {galletas} en la leche",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "Fondo blanco. ¿Qué galleta lleva más azúcar por 100 g? Tres círculos con fotos de cerca de una pila de galletas con pepitas de chocolate sin marca, como ilustración genérica, numerados: 1 Mini Oreo, 2 Cookies 40 % pepitas de chocolate Hacendado y 3 Digestive avena Hacendado, cada uno con un interrogante debajo. Azúcares totales por cada 100 g. Fotos de ejemplo.",
+    "Fondo negro. La que más declara por 100 g: Mini Oreo. Los mismos tres círculos con su cifra debajo: Mini Oreo 37 g, marcada; Cookies 40 % pepitas de chocolate Hacendado 33 g; Digestive avena Hacendado 18 g. Azúcares totales en esta selección, según su etiqueta.",
+    "Fondo oliva. Lo que dice la etiqueta. Son azúcares totales. Incluyen los propios de los ingredientes y la etiqueta no separa los añadidos.",
+    "Fondo negro. Mándaselo a quien moja galletas en la leche. Fuente: según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts. Aviso de contenido divulgativo."
+  ],
+  "pie_instagram": "Mini Oreo, Cookies 40 % pepitas de chocolate Hacendado o Digestive avena Hacendado: una declara 37 g de azúcares totales por cada 100 g. Adivina cuál 🍪\n\nTres galletas del súper, todo por cada 100 g. Las fotos son de ejemplo 🍪\nSon azúcares totales: la etiqueta no separa los añadidos. La que menos declara de esta selección es Digestive avena Hacendado, con 18 g 🔎\nLas recetas cambian: manda la etiqueta del paquete que tengas en casa 🛒\n\nEs lo que dice la etiqueta de cada paquete, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\n¿Cuál habrías dicho tú?\nReenvíalo a quien siempre tiene un paquete de galletas abierto.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #galletas #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

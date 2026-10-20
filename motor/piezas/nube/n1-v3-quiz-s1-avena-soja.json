@@ -1,0 +1,82 @@
+{
+  "id": "n1-v3-quiz-s1-avena-soja",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-s1-avena-soja",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-088"
+  ],
+  "pie_instagram": "Bebida de avena Alitey o Bebida de soja 0 % azúcares Hacendado: 5,4 g de azúcares totales por cada 100 ml frente a 0 g 🥛\n\nUna selección de dos bebidas de la misma subcategoría de la AESAN, bebidas vegetales, con la misma base: 100 ml 🛒\nSon azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos 🌾\nLas recetas cambian, así que manda la etiqueta del brik que tengas en casa 🔎\n\nEs lo que dice la etiqueta de cada bebida, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nPásaselo a quien se toma un vaso en el desayuno.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #bebidavegetal #supermercado #etiquetas #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué bebida vegetal lleva más {azúcar}?",
+      "opciones": [
+        {
+          "nombre": "Bebida de avena Alitey"
+        },
+        {
+          "nombre": "Bebida de soja 0 % azúcares Hacendado"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno o dos"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Bebida de avena Alitey",
+          "valor": "5,4 g"
+        },
+        {
+          "nombre": "Bebida de soja 0 % azúcares Hacendado",
+          "valor": "0 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "La que más declara: {Bebida de avena Alitey}",
+      "opciones": [
+        {
+          "valor": "5,4 g"
+        }
+      ],
+      "texto": "Azúcares totales por cada 100 ml, según su etiqueta"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Pásaselo a quien se toma un {vaso} en el desayuno"
+    }
+  ],
+  "alt": [
+    "¿Qué bebida vegetal lleva más azúcar?. Bebida de avena Alitey. Bebida de soja 0 % azúcares Hacendado.",
+    "Comenta uno o dos.",
+    "Bebida de avena Alitey 5,4 g. Bebida de soja 0 % azúcares Hacendado 0 g.",
+    "La que más declara: Bebida de avena Alitey. 5,4 g. Azúcares totales por cada 100 ml, según su etiqueta.",
+    "Pásaselo a quien se toma un vaso en el desayuno."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-s1-avena-soja",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 3.46
+  },
+  "titulo": "Bebida de avena Alitey o Bebida de soja 0 % azúcares Hacendado: 5,4 g…",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

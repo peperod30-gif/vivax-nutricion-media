@@ -1,0 +1,130 @@
+{
+  "id": "n1-g-s1-cremas-cacao-cual",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-040",
+    "SUP-041",
+    "SUP-042",
+    "SUP-084"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-25",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "¿Qué crema de cacao lleva más {azúcar}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Nutella",
+          "foto": "crema_cacao_generica",
+          "foco": [
+            52,
+            66
+          ],
+          "zoom": 1.6,
+          "valor": "56,3 g"
+        },
+        {
+          "nombre": "Nocilla ChocoMix",
+          "foto": "crema_cacao_generica",
+          "foco": [
+            47,
+            60
+          ],
+          "zoom": 2.2,
+          "valor": "59 g"
+        },
+        {
+          "nombre": "Crema al cacao Hacendado",
+          "foto": "crema_cacao_generica",
+          "foco": [
+            58,
+            70
+          ],
+          "zoom": 2.0,
+          "valor": "55 g"
+        }
+      ],
+      "texto": "Por cada 100 g. ¿Cuál dirías tú?"
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "La que más declara por 100 g: {Nocilla ChocoMix}",
+      "ganador": 1,
+      "opciones": [
+        {
+          "nombre": "Nutella",
+          "foto": "crema_cacao_generica",
+          "foco": [
+            52,
+            66
+          ],
+          "zoom": 1.6,
+          "valor": "56,3 g"
+        },
+        {
+          "nombre": "Nocilla ChocoMix",
+          "foto": "crema_cacao_generica",
+          "foco": [
+            47,
+            60
+          ],
+          "zoom": 2.2,
+          "valor": "59 g"
+        },
+        {
+          "nombre": "Crema al cacao Hacendado",
+          "foto": "crema_cacao_generica",
+          "foco": [
+            58,
+            70
+          ],
+          "zoom": 2.0,
+          "valor": "55 g"
+        }
+      ],
+      "texto": "Azúcares totales en esta selección."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La de en medio y la que menos",
+      "titular": [
+        "Nutella: {56,3 g}",
+        "Crema al cacao Hacendado: {55 g}"
+      ],
+      "texto": "Azúcares totales por cada 100 g, según su etiqueta.",
+      "foto": "crema_cacao_generica"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Reenvíalo a quien unta {crema de cacao} sin mirar la etiqueta",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "creditos": "Foto de ejemplo, la misma en todas las hojas, no de cada producto. Wikimedia Commons, recortada: «Child holds a piece of bread with chocolate spread at the table during snack time», Shixart1985 (CC BY 2.0). Licencia: creativecommons.org/licenses/by/2.0.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "¿Qué crema de cacao lleva más azúcar? Opciones, con la misma foto de pan untado con crema de cacao: Nutella, Nocilla ChocoMix, Crema al cacao Hacendado. Por cada 100 g. ¿Cuál dirías tú?",
+    "La que más declara por 100 g: Nocilla ChocoMix. Opciones: Nutella 56,3 g, Nocilla ChocoMix 59 g, Crema al cacao Hacendado 55 g. Azúcares totales en esta selección.",
+    "La de en medio y la que menos. Nutella: 56,3 g. Crema al cacao Hacendado: 55 g. Azúcares totales por cada 100 g, según su etiqueta. Foto de pan untado con crema de cacao.",
+    "Reenvíalo a quien unta crema de cacao sin mirar la etiqueta. Fuentes, créditos de la foto y aviso de contenido divulgativo."
+  ],
+  "pie_instagram": "Nutella, Nocilla ChocoMix o Crema al cacao Hacendado: ¿cuál lleva más azúcar por cada 100 g? 🍫\n\nUna selección de tres cremas de cacao del súper, con la etiqueta delante y la misma base 🍞\nSon azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos 🔎\nLas recetas cambian: lo que vale es la etiqueta del tarro que tengas en casa 🛒\n\nEs lo que dice la etiqueta de cada crema, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nCompártelo en tu historia si hay un tarro de crema de cacao en tu despensa.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #cremadecacao #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

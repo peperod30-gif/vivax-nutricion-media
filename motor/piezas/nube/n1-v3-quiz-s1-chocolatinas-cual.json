@@ -1,0 +1,91 @@
+{
+  "id": "n1-v3-quiz-s1-chocolatinas-cual",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-s1-chocolatinas-cual",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-043",
+    "SUP-044",
+    "SUP-046"
+  ],
+  "pie_instagram": "Kinder Chocolate, Kit Kat o Kinder Bueno: ¿qué chocolatina lleva más azúcar por cada 100 g? 🍫\n\nApuesta por una antes del final 🤔\nUna selección de tres chocolatinas del súper, con lo que declara su etiqueta\nSon azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos 🔎\nLas recetas cambian: manda la etiqueta de la que tengas en la mano 🛒\n\nEs lo que dice la etiqueta de cada chocolatina, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nPásaselo a quien se compra una chocolatina a media tarde.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #chocolate #etiquetas #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué chocolatina lleva más {azúcar} por 100 g?",
+      "opciones": [
+        {
+          "nombre": "Kinder Chocolate"
+        },
+        {
+          "nombre": "Kit Kat"
+        },
+        {
+          "nombre": "Kinder Bueno"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Kinder Chocolate",
+          "valor": "53,3 g"
+        },
+        {
+          "nombre": "Kit Kat",
+          "valor": "45,7 g"
+        },
+        {
+          "nombre": "Kinder Bueno",
+          "valor": "41,2 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "La que más declara por 100 g: {Kinder Chocolate}",
+      "opciones": [
+        {
+          "valor": "53,3 g"
+        }
+      ],
+      "texto": "Azúcares totales en esta selección, según su etiqueta"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Pásaselo a quien se compra una {chocolatina} a media tarde"
+    }
+  ],
+  "alt": [
+    "¿Qué chocolatina lleva más azúcar por 100 g?. Kinder Chocolate. Kit Kat. Kinder Bueno.",
+    "Comenta uno, dos o tres.",
+    "Kinder Chocolate 53,3 g. Kit Kat 45,7 g. Kinder Bueno 41,2 g.",
+    "La que más declara por 100 g: Kinder Chocolate. 53,3 g. Azúcares totales en esta selección, según su etiqueta.",
+    "Pásaselo a quien se compra una chocolatina a media tarde."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-s1-chocolatinas-cual",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 5.66
+  },
+  "titulo": "Kinder Chocolate, Kit Kat o Kinder Bueno: ¿qué chocolatina lleva más…",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

@@ -1,0 +1,68 @@
+{
+  "id": "n1-g-s1-cola-zero",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-082",
+    "SUP-061"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-02",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "alt": [
+    "Etiqueta. ¿Cuánto azúcar lleva una Coca-Cola? Una lata de 330 ml, según su etiqueta. Foto genérica de un vaso de refresco de cola con hielo y limón, sin marca.",
+    "Por cada 100 ml. Coca-Cola Original: 10,6 g; Coca-Cola Zero Azúcar: 0 g. De azúcares totales, según la etiqueta de cada una.",
+    "Coca-Cola Original. Lata de 330 ml: 35 g de azúcares totales. El 70 % del límite diario de la OMS: 50 g de azúcares libres con 2.000 kcal.",
+    "Pásaselo a quien se bebe la lata de golpe. Fuentes y aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Etiqueta",
+      "titular": "¿Cuánto azúcar lleva una {Coca-Cola}?",
+      "texto": "Una lata de 330 ml, según su etiqueta.",
+      "foto": "refresco_cola",
+      "foco": [
+        64,
+        50
+      ],
+      "zoom": 1.1
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Por cada 100 ml",
+      "titular": [
+        "Coca-Cola Original: {10,6 g}",
+        "Coca-Cola Zero Azúcar: 0 g"
+      ],
+      "texto": "De azúcares totales, según la etiqueta de cada una."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Coca-Cola Original",
+      "titular": "Lata de 330 ml: {35 g} de azúcares totales",
+      "texto": "El 70 % del límite diario de la OMS: 50 g de azúcares libres con 2.000 kcal."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Pásaselo a quien se bebe la {lata} de golpe",
+      "fuentes": [
+        "Según la etiqueta, consultada el 20/10/2026 en Open Food Facts. Límite: OMS, Healthy diet, 26-ene-2026."
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Coca-Cola Original declara 10,6 g de azúcares totales por cada 100 ml; Coca-Cola Zero Azúcar, 0 g 🥤\n\nUna lata de 330 ml de Coca-Cola Original: 35 g de azúcares totales 🥫\nSon el 70 % del límite diario de azúcares libres de la OMS: 50 g con 2.000 kcal ⚖️\nLa OMS equipara esos 50 g a unas 12 cucharaditas rasas; con esa equivalencia, la lata son unas 8 🥄\n\nEs lo que dice la etiqueta de cada bebida, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #cocacola #supermercado #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022; OMS, hoja Healthy diet."
+}

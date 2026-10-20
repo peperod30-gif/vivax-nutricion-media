@@ -190,8 +190,8 @@ def g_pictograma(h: dict, ctx: dict) -> str:
     vals = [F._num(f["valor"]) for f in filas]
     vmax = max(vals) or 1.0
     paso = float(h.get("paso") or _paso_auto(vmax))
-    cuenta = [max(1, round(v / paso)) for v in vals]
-    kmax = max(cuenta)
+    cuenta = [0 if v <= 0 else max(1, int(v / paso + .5)) for v in vals]       # mitades hacia arriba (round() de Python las lleva al par: 2,5 daba 2); un 0 no dibuja círculos
+    kmax = max(cuenta) or 1
     um = re.match(r"^\s*[\d.,]+\s*(\S+)", filas[0]["valor"])
     unidad = um.group(1) if um else ""
     c_txt = "#fff" if fondo == "negro" else "#000"
@@ -216,7 +216,7 @@ def g_pictograma(h: dict, ctx: dict) -> str:
             cy = base - d / 2 - j * pc
             anillo = f"5px {anillo_ganador}" if gana else f"5px {aro}"
             p.append(_circulo(f["foto"], cx, cy, d, f.get("foco"), anillo, f.get("zoom")))
-        alto_pila = (c - 1) * pc + d
+        alto_pila = (c - 1) * pc + d if c else 0
         val = F._valor(f["valor"], .46)
         if gana and n <= 5:                      # con 6 columnas el trazo a mano de la marca invade la cifra del vecino
             val = f'<mark class="c">{val}</mark>'

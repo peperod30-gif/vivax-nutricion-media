@@ -1,0 +1,69 @@
+{
+  "id": "n1-g-s1-avena-soja",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-088"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-03",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "alt": [
+    "Selección de bebidas vegetales. Bebida de avena Alitey: 5,4 g. Bebida de soja 0 % azúcares Hacendado: 0 g. Azúcares totales por cada 100 ml, según su etiqueta. Foto genérica de un vaso de bebida de avena con copos de avena.",
+    "Lo que declara cada bebida. g de azúcares totales por cada 100 ml: Bebida de avena Alitey 5,4 g; Bebida de soja 0 % azúcares Hacendado 0 g. Una columna de círculos con fotos genéricas de un vaso de bebida de avena sobre la Bebida de avena Alitey; la Bebida de soja 0 % azúcares Hacendado, sin círculos, solo con su cifra y su nombre. Cada círculo, 1 g, redondeado; 0 g, sin círculos.",
+    "Pásaselo a quien se toma un vaso en el desayuno. Fuentes y aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Selección de bebidas vegetales",
+      "titular": [
+        "Bebida de avena Alitey:",
+        "{5,4 g}",
+        "Bebida de soja 0 % azúcares Hacendado:",
+        "0 g"
+      ],
+      "texto": "Azúcares totales por cada 100 ml, según su etiqueta.",
+      "foto": "bebida_avena"
+    },
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "oliva",
+      "titulo": "Lo que declara cada {bebida}",
+      "unidad": "g de azúcares totales por cada 100 ml",
+      "paso": 1,
+      "leyenda": "cada círculo = 1 g, redondeado; 0 g, sin círculos",
+      "filas": [
+        {
+          "nombre": "Bebida de avena Alitey",
+          "valor": "5,4 g",
+          "foto": "bebida_avena"
+        },
+        {
+          "nombre": "Bebida de soja 0 % azúcares Hacendado",
+          "valor": "0 g",
+          "foto": "bebida_soja"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "blanco",
+      "frase": "Pásaselo a quien se toma un {vaso} en el desayuno",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Bebida de avena Alitey o Bebida de soja 0 % azúcares Hacendado: 5,4 g de azúcares totales por cada 100 ml frente a 0 g 🥛\n\nUna selección de dos bebidas de la misma subcategoría de la AESAN, bebidas vegetales, con la misma base: 100 ml 🛒\nSon azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos 🌾\nLas recetas cambian, así que manda la etiqueta del brik que tengas en casa 🔎\n\nEs lo que dice la etiqueta de cada bebida, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nReenvíalo a quien echa bebida vegetal al café.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #bebidavegetal #supermercado #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

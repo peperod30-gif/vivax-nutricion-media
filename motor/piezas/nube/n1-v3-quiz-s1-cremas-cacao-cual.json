@@ -1,0 +1,92 @@
+{
+  "id": "n1-v3-quiz-s1-cremas-cacao-cual",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-s1-cremas-cacao-cual",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-040",
+    "SUP-041",
+    "SUP-042",
+    "SUP-084"
+  ],
+  "pie_instagram": "Nutella, Nocilla ChocoMix o Crema al cacao Hacendado: ¿cuál lleva más azúcar por cada 100 g? 🍫\n\nUna selección de tres cremas de cacao del súper, con la etiqueta delante y la misma base 🍞\nSon azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos 🔎\nLas recetas cambian: lo que vale es la etiqueta del tarro que tengas en casa 🛒\n\nEs lo que dice la etiqueta de cada crema, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nReenvíalo a quien unta crema de cacao sin mirar la etiqueta.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFoto de ejemplo, la misma en todas las hojas, no de cada producto. Wikimedia Commons, recortada: «Child holds a piece of bread with chocolate spread at the table during snack time», Shixart1985 (CC BY 2.0). Licencia: creativecommons.org/licenses/by/2.0.\n\n#azucar #quiz #cremadecacao #etiquetas #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué crema de cacao lleva más {azúcar}?",
+      "opciones": [
+        {
+          "nombre": "Nutella"
+        },
+        {
+          "nombre": "Nocilla ChocoMix"
+        },
+        {
+          "nombre": "Crema al cacao Hacendado"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Nutella",
+          "valor": "56,3 g"
+        },
+        {
+          "nombre": "Nocilla ChocoMix",
+          "valor": "59 g"
+        },
+        {
+          "nombre": "Crema al cacao Hacendado",
+          "valor": "55 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "La que más declara por 100 g: {Nocilla ChocoMix}",
+      "opciones": [
+        {
+          "valor": "59 g"
+        }
+      ],
+      "texto": "Azúcares totales en esta selección"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Reenvíalo a quien unta {crema de cacao} sin mirar la etiqueta"
+    }
+  ],
+  "alt": [
+    "¿Qué crema de cacao lleva más azúcar?. Nutella. Nocilla ChocoMix. Crema al cacao Hacendado.",
+    "Comenta uno, dos o tres.",
+    "Nutella 56,3 g. Nocilla ChocoMix 59 g. Crema al cacao Hacendado 55 g.",
+    "La que más declara por 100 g: Nocilla ChocoMix. 59 g. Azúcares totales en esta selección.",
+    "Reenvíalo a quien unta crema de cacao sin mirar la etiqueta."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-s1-cremas-cacao-cual",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.75
+  },
+  "titulo": "Nutella, Nocilla ChocoMix o Crema al cacao Hacendado: ¿cuál lleva más…",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

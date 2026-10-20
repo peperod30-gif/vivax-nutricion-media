@@ -1,0 +1,64 @@
+{
+  "id": "n1-g-s1-yogur-proteinas-griego",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-053",
+    "SUP-056"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-01",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Lácteos",
+      "titular": "Dos lácteos de Hacendado: dos etiquetas muy {distintas}",
+      "texto": "Azúcares totales por cada 100 g, según su etiqueta. La AESAN los clasifica en categorías distintas: yogures y postres.",
+      "foto": "yogur"
+    },
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "oliva",
+      "titulo": "Lo que declara cada {etiqueta}",
+      "unidad": "g de azúcares totales por cada 100 g",
+      "paso": 2,
+      "filas": [
+        {
+          "nombre": "Yogur al estilo griego con limón Hacendado",
+          "valor": "12,4 g",
+          "foto": "yogur"
+        },
+        {
+          "nombre": "+Proteínas con fresa 0 % materia grasa Hacendado",
+          "valor": "4,6 g",
+          "foto": "yogur"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "blanco",
+      "frase": "Mándaselo a quien compra {lácteos} sin leer la etiqueta",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Misma marca, dos lácteos y dos etiquetas muy distintas 🥛\n\nYogur al estilo griego con limón Hacendado: 12,4 g de azúcares totales por cada 100 g, según su etiqueta 🍋\n+Proteínas con fresa 0 % materia grasa Hacendado: 4,6 g de azúcares totales por cada 100 g, según su etiqueta 🍓\nEl segundo no es un yogur: su envase lo llama especialidad láctea y la AESAN lo clasifica en postres 🥄\nSon azúcares totales: incluyen los de todos sus ingredientes y la etiqueta no separa los añadidos.\n\nEs lo que dice la etiqueta de cada producto, no una recomendación de consumo. En los lácteos, parte de los azúcares es lactosa.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nLa próxima vez que abras la nevera, busca en la tabla la línea de azúcares.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#yogur #azucar #lacteos #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022.",
+  "alt": [
+    "Lácteos. Dos lácteos de Hacendado: dos etiquetas muy distintas. Azúcares totales por cada 100 g, según su etiqueta. La AESAN los clasifica en categorías distintas: yogures y postres.",
+    "Lo que declara cada etiqueta. g de azúcares totales por cada 100 g: Yogur al estilo griego con limón Hacendado 12,4 g; +Proteínas con fresa 0 % materia grasa Hacendado 4,6 g.",
+    "Mándaselo a quien compra lácteos sin leer la etiqueta. Fuentes y aviso de contenido divulgativo."
+  ]
+}

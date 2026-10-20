@@ -1,0 +1,91 @@
+{
+  "id": "n1-v3-quiz-s1-galletas-cual-lleva-mas",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-s1-galletas-cual-lleva-mas",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-047",
+    "SUP-048",
+    "SUP-087"
+  ],
+  "pie_instagram": "Mini Oreo, Cookies 40 % pepitas de chocolate Hacendado o Digestive avena Hacendado: una declara 37 g de azúcares totales por cada 100 g. Adivina cuál 🍪\n\nTres galletas del súper, todo por cada 100 g. Las fotos son de ejemplo 🍪\nSon azúcares totales: la etiqueta no separa los añadidos. La que menos declara de esta selección es Digestive avena Hacendado, con 18 g 🔎\nLas recetas cambian: manda la etiqueta del paquete que tengas en casa 🛒\n\nEs lo que dice la etiqueta de cada paquete, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\n¿Cuál habrías dicho tú?\nMándaselo a quien moja galletas en la leche.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #galletas #etiquetas #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué galleta lleva más {azúcar} por 100 g?",
+      "opciones": [
+        {
+          "nombre": "Mini Oreo"
+        },
+        {
+          "nombre": "Cookies 40 % pepitas de chocolate Hacendado"
+        },
+        {
+          "nombre": "Digestive avena Hacendado"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Mini Oreo",
+          "valor": "37 g"
+        },
+        {
+          "nombre": "Cookies 40 % pepitas de chocolate Hacendado",
+          "valor": "33 g"
+        },
+        {
+          "nombre": "Digestive avena Hacendado",
+          "valor": "18 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "La que más declara por 100 g: {Mini Oreo}",
+      "opciones": [
+        {
+          "valor": "37 g"
+        }
+      ],
+      "texto": "Azúcares totales en esta selección, según su etiqueta"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Mándaselo a quien moja {galletas} en la leche"
+    }
+  ],
+  "alt": [
+    "¿Qué galleta lleva más azúcar por 100 g?. Mini Oreo. Cookies 40 % pepitas de chocolate Hacendado. Digestive avena Hacendado.",
+    "Comenta uno, dos o tres.",
+    "Mini Oreo 37 g. Cookies 40 % pepitas de chocolate Hacendado 33 g. Digestive avena Hacendado 18 g.",
+    "La que más declara por 100 g: Mini Oreo. 37 g. Azúcares totales en esta selección, según su etiqueta.",
+    "Mándaselo a quien moja galletas en la leche."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-s1-galletas-cual-lleva-mas",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.52
+  },
+  "titulo": "Mini Oreo, Cookies 40 % pepitas de chocolate Hacendado o Digestive…",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

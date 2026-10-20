@@ -1,0 +1,95 @@
+{
+  "id": "n1-g-s1-latas-limite-oms",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-061",
+    "SUP-062",
+    "SUP-065",
+    "SUP-068",
+    "SUP-069"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-24",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "alt": [
+    "Azúcar por envase. Un solo envase puede pasar el límite del día. Azúcares totales del envase entero. La OMS fija 50 g de azúcares libres al día (2.000 kcal). Foto genérica de latas de refresco vistas desde arriba, sin marca.",
+    "Azúcar del envase entero. g de azúcares totales por envase (selección de 5): Monster Mango Loco 500 ml 56 g; Coca-Cola Original 330 ml 35 g; Iso On Blue Hacendado 500 ml 24,5 g; Fanta Naranja 330 ml 15 g; Aquarius naranja 330 ml 15 g. Columnas de círculos con una foto genérica de terrones de azúcar, cada círculo 5 g, redondeado. Tope OMS: 50 g de azúcares libres al día.",
+    "Según la etiqueta. Monster Mango Loco 500 ml: 56 g. Fanta Naranja 330 ml y Aquarius naranja 330 ml: 15 g. Azúcares totales por envase. Máximo y mínimo de la selección.",
+    "Pásaselo a quien cuenta los gramos. Fuentes, crédito de la foto y aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Azúcar por envase",
+      "titular": "Un solo envase puede pasar el {límite} del día",
+      "texto": "Azúcares totales del envase entero. La OMS fija 50 g de azúcares libres al día (2.000 kcal).",
+      "foto": "lata_refresco"
+    },
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "Azúcar del envase {entero}",
+      "unidad": "g de azúcares totales por envase (selección de 5)",
+      "paso": 5,
+      "leyenda": "cada círculo = 5 g, redondeado. Tope OMS: 50 g de azúcares libres al día",
+      "filas": [
+        {
+          "nombre": "Monster Mango Loco 500 ml",
+          "valor": "56 g",
+          "foto": "azucar_terrones"
+        },
+        {
+          "nombre": "Coca-Cola Original 330 ml",
+          "valor": "35 g",
+          "foto": "azucar_terrones"
+        },
+        {
+          "nombre": "Iso On Blue Hacendado 500 ml",
+          "valor": "24,5 g",
+          "foto": "azucar_terrones"
+        },
+        {
+          "nombre": "Fanta Naranja 330 ml",
+          "valor": "15 g",
+          "foto": "azucar_terrones"
+        },
+        {
+          "nombre": "Aquarius naranja 330 ml",
+          "valor": "15 g",
+          "foto": "azucar_terrones"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Según la etiqueta",
+      "titular": [
+        "Monster Mango Loco 500 ml: {56 g}",
+        "Fanta Naranja 330 ml y Aquarius naranja 330 ml: 15 g"
+      ],
+      "texto": "Azúcares totales por envase. Máximo y mínimo de la selección."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "blanco",
+      "frase": "Pásaselo a quien cuenta los {gramos}",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts. Límite: OMS, Healthy diet, 26-ene-2026"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Sugar Cubes (7164573186) (cropped)», david pacey (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0."
+    }
+  ],
+  "pie_instagram": "Un solo envase puede llevar más azúcar del que la OMS pone de límite para todo el día 🥤\n\nPor envase, según su etiqueta: Monster Mango Loco (500 ml) 56 g y Coca-Cola Original (330 ml) 35 g de azúcares totales 🏷️\nIso On Blue Hacendado (500 ml) 24,5 g. Fanta Naranja y Aquarius naranja (330 ml) 15 g cada uno 🍊\nLa OMS pone el tope en 50 g de azúcares libres al día para una dieta de 2.000 kcal 🍬\n\nEs lo que dice la etiqueta de cada envase, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nReenvíalo a quien se bebe uno cada tarde.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #ranking #supermercado #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; OMS, hoja Healthy diet."
+}

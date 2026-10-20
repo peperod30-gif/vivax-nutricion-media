@@ -1,0 +1,130 @@
+{
+  "id": "n1-g-s1-latas-cual-lleva-mas",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-061",
+    "SUP-062",
+    "SUP-065"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-23",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "¿Cuál de estas latas lleva más {azúcar}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Coca-Cola Original 330 ml",
+          "foto": "refresco_cola",
+          "foco": [
+            62,
+            50
+          ],
+          "zoom": 1.3,
+          "valor": "35 g"
+        },
+        {
+          "nombre": "Fanta Naranja 330 ml",
+          "foto": "lata_refresco",
+          "foco": [
+            71,
+            40
+          ],
+          "zoom": 1.75,
+          "valor": "15 g"
+        },
+        {
+          "nombre": "Monster Mango Loco 500 ml",
+          "foto": "lata_refresco",
+          "foco": [
+            14,
+            0
+          ],
+          "zoom": 1.75,
+          "valor": "56 g"
+        }
+      ],
+      "texto": "Azúcares totales por lata entera."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Por lata gana la de {500 ml}",
+      "ganador": 2,
+      "opciones": [
+        {
+          "nombre": "Coca-Cola Original 330 ml",
+          "foto": "refresco_cola",
+          "foco": [
+            62,
+            50
+          ],
+          "zoom": 1.3,
+          "valor": "35 g"
+        },
+        {
+          "nombre": "Fanta Naranja 330 ml",
+          "foto": "lata_refresco",
+          "foco": [
+            71,
+            40
+          ],
+          "zoom": 1.75,
+          "valor": "15 g"
+        },
+        {
+          "nombre": "Monster Mango Loco 500 ml",
+          "foto": "lata_refresco",
+          "foco": [
+            14,
+            0
+          ],
+          "zoom": 1.75,
+          "valor": "56 g"
+        }
+      ],
+      "texto": "Azúcares totales de esta selección, según su etiqueta."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "El límite de la OMS",
+      "titular": "Azúcares libres al día: {50 g}",
+      "texto": "Para una dieta de 2.000 kcal. Monster Mango Loco 500 ml: 56 g de azúcares totales por lata, según su etiqueta.",
+      "foto": "lata_refresco",
+      "foco": [
+        14,
+        0
+      ],
+      "zoom": 1.75
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien lleva una {lata} en la mochila",
+      "fuentes": [
+        "Según la etiqueta, consultada el 20/10/2026 en Open Food Facts. Límite: OMS, Healthy diet, 26-ene-2026"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "¿Cuál de estas latas lleva más azúcar? Opciones: Coca-Cola Original 330 ml, Fanta Naranja 330 ml, Monster Mango Loco 500 ml. Azúcares totales por lata entera.",
+    "Por lata gana la de 500 ml. Opciones: Coca-Cola Original 330 ml 35 g, Fanta Naranja 330 ml 15 g, Monster Mango Loco 500 ml 56 g. Azúcares totales de esta selección, según su etiqueta.",
+    "El límite de la OMS. Azúcares libres al día: 50 g. Para una dieta de 2.000 kcal. Monster Mango Loco 500 ml: 56 g de azúcares totales por lata, según su etiqueta.",
+    "Mándaselo a quien lleva una lata en la mochila. Fuentes y aviso de contenido divulgativo."
+  ],
+  "pie_instagram": "Coca-Cola Original, Fanta Naranja o Monster Mango Loco: ¿qué lata lleva más azúcar? Apuesta antes de deslizar 🥤\n\nUna selección de tres latas del súper, con lo que declara su etiqueta 🛒\nLa cifra es por lata entera, no por 100 ml: dos son de 330 ml y una de 500 ml 🔎\nLa OMS pone el límite en 50 g de azúcares libres al día, unas 12 cucharaditas rasas, para una dieta de 2.000 kcal 🥄\n\nEs lo que dice la etiqueta de cada lata, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nReenvíalo a quien tiene la nevera llena de latas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #supermercado #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; OMS, hoja Healthy diet."
+}

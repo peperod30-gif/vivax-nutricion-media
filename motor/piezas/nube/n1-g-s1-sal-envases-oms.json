@@ -1,0 +1,100 @@
+{
+  "id": "n1-g-s1-sal-envases-oms",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-072",
+    "SUP-073",
+    "SUP-075",
+    "SUP-076",
+    "SUP-079",
+    "SUP-081"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-29",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "comentario": "Fuentes: etiquetas en Open Food Facts, consultadas el 20/10/2026 (Campofrío, Casa Tarradellas, Incarlopsa, Hacendado, Navidul y Pringles). Tope de sal: OMS, hoja «Healthy diet», 26-ene-2026.",
+  "alt": [
+    "Sal por envase. Hay envases con toda la sal del día. Gramos de sal de todo el envase. Tope de la OMS en adultos: 5 g al día. Foto genérica de una pizza de queso con setas.",
+    "Sal del envase entero: una selección, según su etiqueta. Pizza & Salsa barbacoa Campofrío 410 g: 8,2 g; Espetec Casa Tarradellas 180 g: 6,8 g; Jamón serrano Incarlopsa 120 g: 4,3 g; Patatas light Hacendado 150 g: 4,1 g; Jamón curado clásico Navidul 50 g: 2,5 g; Pringles Original 165 g: 1,7 g. Columnas de círculos con fotos genéricas de pizza, fuet en rodajas, jamón en lonchas y patatas fritas de bolsa; cada círculo, 1 g, redondeado.",
+    "Máximo y mínimo. Pizza & Salsa barbacoa Campofrío 410 g: 8,2 g. Pringles Original 165 g: 1,7 g. Envase entero, según su etiqueta. Selección de categorías distintas.",
+    "Llévaselo a quien se come el paquete entero. Fuentes, créditos de las fotos y aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Sal por envase",
+      "titular": "Hay envases con toda la {sal} del día",
+      "texto": "Gramos de sal de todo el envase. Tope de la OMS en adultos: 5 g al día.",
+      "foto": "pizza"
+    },
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "{Sal} del envase entero: una selección",
+      "paso": 1,
+      "leyenda": "cada círculo = 1 g, redondeado. Según su etiqueta",
+      "filas": [
+        {
+          "nombre": "Pizza & Salsa barbacoa Campofrío 410 g",
+          "valor": "8,2 g",
+          "foto": "pizza"
+        },
+        {
+          "nombre": "Espetec Casa Tarradellas 180 g",
+          "valor": "6,8 g",
+          "foto": "embutido_fuet"
+        },
+        {
+          "nombre": "Jamón serrano Incarlopsa 120 g",
+          "valor": "4,3 g",
+          "foto": "jamon_serrano"
+        },
+        {
+          "nombre": "Patatas light Hacendado 150 g",
+          "valor": "4,1 g",
+          "foto": "patatas_fritas"
+        },
+        {
+          "nombre": "Jamón curado clásico Navidul 50 g",
+          "valor": "2,5 g",
+          "foto": "jamon_serrano"
+        },
+        {
+          "nombre": "Pringles Original 165 g",
+          "valor": "1,7 g",
+          "foto": "patatas_fritas"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Máximo y mínimo",
+      "titular": [
+        "Pizza & Salsa barbacoa Campofrío 410 g: 8,2 g",
+        "Pringles Original 165 g: 1,7 g"
+      ],
+      "texto": "Envase entero, según su etiqueta. Selección de categorías distintas."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "blanco",
+      "frase": "Llévaselo a quien se come el paquete {entero}",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts. Tope: OMS, Healthy diet, 26-ene-2026"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con hipertensión o enfermedad renal, consulta con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Fuet, photo from Flickr», Josep Mª Rosell (CC BY 2.0); «Jamón serrano (by Awersowy)», Nostrix (CC BY 3.0); «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0; CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "De una pizza entera a un paquete de patatas: cuánta sal lleva cada envase, y el tope de la OMS para un día 🧂\n\nPizza & Salsa barbacoa Campofrío, unidad entera de 410 g: 8,2 g de sal 🍕\nEspetec Casa Tarradellas, 180 g: 6,8 g. Jamón serrano Incarlopsa, 120 g: 4,3 g. Jamón curado clásico Navidul, 50 g: 2,5 g 🍖\nPatatas light Hacendado, 150 g: 4,1 g. Pringles Original, 165 g: 1,7 g 🥔\n\nEs una selección y es lo que dice cada etiqueta, no una recomendación de consumo. La OMS recomienda a los adultos menos de 5 g de sal al día. Con hipertensión o enfermedad renal, habla con tu médico.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nLlévaselo a quien abre una bolsa y no para.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sal #embutidos #supermercado #etiquetas #nutricion"
+}

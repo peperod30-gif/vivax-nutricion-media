@@ -1,0 +1,65 @@
+{
+  "id": "n1-g-s1-cacao-soluble-77",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-039",
+    "SUP-083"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-26",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "alt": [
+    "Cacao soluble. Cacao Instant Hacendado: 77 g de azúcares totales por 100 g. Bolsa de 1 kg, según su etiqueta. Es el polvo, sin preparar. Foto genérica de cacao en polvo en un cuenco de cristal.",
+    "Un cacao instantáneo y uno puro: misma categoría de la AESAN. g de azúcares totales por cada 100 g de polvo: Cacao Instant Hacendado 77 g; Cacao puro natural Valor 1 g. Columnas de círculos con una foto genérica de cacao en polvo, cada círculo 10 g, redondeado.",
+    "Pásaselo a quien se toma un cacao cada mañana. Fuentes y aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Cacao soluble",
+      "titular": "Cacao Instant Hacendado: {77 g} de azúcares totales por 100 g",
+      "texto": "Bolsa de 1 kg, según su etiqueta. Es el polvo, sin preparar.",
+      "foto": "cacao_polvo"
+    },
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "Un cacao instantáneo y uno puro: misma {categoría} de la AESAN",
+      "unidad": "g de azúcares totales por cada 100 g de polvo",
+      "paso": 10,
+      "leyenda": "cada círculo = 10 g, redondeado; por debajo de 10 g, un círculo",
+      "filas": [
+        {
+          "nombre": "Cacao Instant Hacendado",
+          "valor": "77 g",
+          "foto": "cacao_polvo"
+        },
+        {
+          "nombre": "Cacao puro natural Valor",
+          "valor": "1 g",
+          "foto": "cacao_polvo"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "blanco",
+      "frase": "Pásaselo a quien se toma un {cacao} cada mañana",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Cacao Instant Hacendado declara 77 g de azúcares totales por cada 100 g; Cacao puro natural Valor, 1 g 🍫\n\nEs una selección de dos, uno instantáneo y uno puro, de la misma categoría de la AESAN: cacao soluble y a la taza ☕\nEl de Hacendado es la bolsa de 1 kg; el bote de la marca es otro producto.\nLa cifra va por cada 100 g de polvo, antes de preparar la taza 🥛\nSon azúcares totales y las recetas cambian: la tabla de tu envase es la que manda 🏷️\n\nEs lo que dice la etiqueta, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nReenvíalo a quien desayuna con cacao en polvo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #cacao #cacaosoluble #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

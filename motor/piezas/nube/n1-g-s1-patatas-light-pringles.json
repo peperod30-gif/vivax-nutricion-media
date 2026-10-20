@@ -1,0 +1,58 @@
+{
+  "id": "n1-g-s1-patatas-light-pringles",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "etiqueta",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-091",
+    "SUP-079"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-30",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "alt": [
+    "Etiqueta. Patatas light Hacendado o Pringles Original: ¿cuál declara más sal por cada 100 g? Según su etiqueta. Piénsalo antes de deslizar.",
+    "Lo que dice la etiqueta. Patatas light Hacendado: 2,7 g; Pringles Original: 1 g. Sal por cada 100 g, según la etiqueta de cada uno.",
+    "Díselo a quien siempre echa patatas al carro. Fuentes, créditos de las fotos y aviso de contenido divulgativo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Etiqueta",
+      "titular": "Patatas light Hacendado o Pringles Original: ¿cuál declara más {sal} por cada 100 g?",
+      "texto": "Según su etiqueta. Piénsalo antes de deslizar.",
+      "foto": "patatas_fritas"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Lo que dice la etiqueta",
+      "titular": [
+        "Patatas light Hacendado: {2,7 g}",
+        "Pringles Original: {1 g}"
+      ],
+      "texto": "Sal por cada 100 g, según la etiqueta de cada uno.",
+      "foto": "patatas_fritas",
+      "zoom": 1.5
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Díselo a quien siempre echa {patatas} al carro",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con hipertensión o enfermedad renal, habla con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0). Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "Patatas light Hacendado o Pringles Original: ¿cuál declara más sal por cada 100 g? 🧂\n\nDe esta selección, Patatas light Hacendado declara 2,7 g de sal por cada 100 g y Pringles Original, 1 g 🥔\nLa cifra de sal de la etiqueta sale de todo el sodio que lleva el producto 🧂\nLas recetas cambian: la que vale es la etiqueta del paquete que tengas en casa 🛒\n\nEs lo que dice la etiqueta, no una recomendación de consumo. La OMS pone el tope de sal para un adulto en menos de 5 g al día. Con hipertensión o enfermedad renal, habla con tu médico.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nDíselo a quien tiene una bolsa de patatas abierta ahora mismo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sal #quiz #snacks #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022; OMS, hoja Healthy diet."
+}

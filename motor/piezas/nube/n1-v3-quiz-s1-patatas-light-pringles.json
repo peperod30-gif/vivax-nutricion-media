@@ -1,0 +1,83 @@
+{
+  "id": "n1-v3-quiz-s1-patatas-light-pringles",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-s1-patatas-light-pringles",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-091",
+    "SUP-079"
+  ],
+  "pie_instagram": "Patatas light Hacendado o Pringles Original: ¿cuál declara más sal por cada 100 g? 🧂\n\nDe esta selección, Patatas light Hacendado declara 2,7 g de sal por cada 100 g y Pringles Original, 1 g 🥔\nLa cifra de sal de la etiqueta sale de todo el sodio que lleva el producto 🧂\nLas recetas cambian: la que vale es la etiqueta del paquete que tengas en casa 🛒\n\nEs lo que dice la etiqueta, no una recomendación de consumo. La OMS pone el tope de sal para un adulto en menos de 5 g al día. Con hipertensión o enfermedad renal, habla con tu médico.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nDíselo a quien tiene una bolsa de patatas abierta ahora mismo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFotos: Wikimedia Commons, recortadas: «Traditionelle kartoffelchips», GeoTrinity (CC BY 3.0). Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0.\n\n#sal #quiz #snacks #etiquetas #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué patatas llevan más {sal}?",
+      "opciones": [
+        {
+          "nombre": "Patatas light Hacendado"
+        },
+        {
+          "nombre": "Pringles Original"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno o dos"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Patatas light Hacendado",
+          "valor": "2,7 g"
+        },
+        {
+          "nombre": "Pringles Original",
+          "valor": "1 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Las que más declaran: {Patatas light Hacendado}",
+      "opciones": [
+        {
+          "valor": "2,7 g"
+        }
+      ],
+      "texto": "Sal por cada 100 g, según su etiqueta"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Díselo a quien siempre echa {patatas} al carro"
+    }
+  ],
+  "alt": [
+    "¿Qué patatas llevan más sal?. Patatas light Hacendado. Pringles Original.",
+    "Comenta uno o dos.",
+    "Patatas light Hacendado 2,7 g. Pringles Original 1 g.",
+    "Las que más declaran: Patatas light Hacendado. 2,7 g. Sal por cada 100 g, según su etiqueta.",
+    "Díselo a quien siempre echa patatas al carro."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-s1-patatas-light-pringles",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.19
+  },
+  "titulo": "Patatas light Hacendado o Pringles Original: ¿cuál declara más sal…",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022; OMS, hoja Healthy diet."
+}

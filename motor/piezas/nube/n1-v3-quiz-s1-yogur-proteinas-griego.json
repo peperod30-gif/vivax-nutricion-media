@@ -1,0 +1,83 @@
+{
+  "id": "n1-v3-quiz-s1-yogur-proteinas-griego",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-s1-yogur-proteinas-griego",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-053",
+    "SUP-056"
+  ],
+  "pie_instagram": "Misma marca, dos lácteos y dos etiquetas muy distintas 🥛\n\nYogur al estilo griego con limón Hacendado: 12,4 g de azúcares totales por cada 100 g, según su etiqueta 🍋\n+Proteínas con fresa 0 % materia grasa Hacendado: 4,6 g de azúcares totales por cada 100 g, según su etiqueta 🍓\nEl segundo no es un yogur: su envase lo llama especialidad láctea y la AESAN lo clasifica en postres 🥄\nSon azúcares totales: incluyen los de todos sus ingredientes y la etiqueta no separa los añadidos.\n\nEs lo que dice la etiqueta de cada producto, no una recomendación de consumo. En los lácteos, parte de los azúcares es lactosa.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nLa próxima vez que abras la nevera, busca en la tabla la línea de azúcares.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#yogur #azucar #lacteos #etiquetas #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué lácteo lleva más {azúcar}?",
+      "opciones": [
+        {
+          "nombre": "Yogur al estilo griego con limón Hacendado"
+        },
+        {
+          "nombre": "+Proteínas con fresa 0 % materia grasa Hacendado"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno o dos"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Yogur al estilo griego con limón Hacendado",
+          "valor": "12,4 g"
+        },
+        {
+          "nombre": "+Proteínas con fresa 0 % materia grasa Hacendado",
+          "valor": "4,6 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "El que más declara: {Yogur al estilo griego con limón Hacendado}",
+      "opciones": [
+        {
+          "valor": "12,4 g"
+        }
+      ],
+      "texto": "Azúcares totales por cada 100 g, según su etiqueta"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Mándaselo a quien compra {lácteos} sin leer la etiqueta"
+    }
+  ],
+  "alt": [
+    "¿Qué lácteo lleva más azúcar?. Yogur al estilo griego con limón Hacendado. +Proteínas con fresa 0 % materia grasa Hacendado.",
+    "Comenta uno o dos.",
+    "Yogur al estilo griego con limón Hacendado 12,4 g. +Proteínas con fresa 0 % materia grasa Hacendado 4,6 g.",
+    "El que más declara: Yogur al estilo griego con limón Hacendado. 12,4 g. Azúcares totales por cada 100 g, según su etiqueta.",
+    "Mándaselo a quien compra lácteos sin leer la etiqueta."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-s1-yogur-proteinas-griego",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 4.36
+  },
+  "titulo": "Misma marca, dos lácteos y dos etiquetas muy distintas",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}

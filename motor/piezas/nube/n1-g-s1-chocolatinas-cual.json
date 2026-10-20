@@ -1,0 +1,116 @@
+{
+  "id": "n1-g-s1-chocolatinas-cual",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "SUPER",
+  "hechos": [
+    "SUP-043",
+    "SUP-044",
+    "SUP-046"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-10-28",
+    "hueco": 3,
+    "autoaprobar": true
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "¿Qué chocolatina lleva más {azúcar} por 100 g?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Kinder Chocolate",
+          "foto": "chocolate_onzas",
+          "foco": [
+            62,
+            55
+          ],
+          "zoom": 3,
+          "valor": "53,3 g"
+        },
+        {
+          "nombre": "Kit Kat",
+          "foto": "chocolate_onzas",
+          "foco": [
+            76,
+            44
+          ],
+          "zoom": 3.4,
+          "valor": "45,7 g"
+        },
+        {
+          "nombre": "Kinder Bueno",
+          "foto": "chocolate_onzas",
+          "foco": [
+            80,
+            66
+          ],
+          "zoom": 2.6,
+          "valor": "41,2 g"
+        }
+      ],
+      "texto": "Azúcares totales. Piénsalo antes de seguir."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "La que más declara por 100 g: {Kinder Chocolate}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Kinder Chocolate",
+          "foto": "chocolate_onzas",
+          "foco": [
+            62,
+            55
+          ],
+          "zoom": 3,
+          "valor": "53,3 g"
+        },
+        {
+          "nombre": "Kit Kat",
+          "foto": "chocolate_onzas",
+          "foco": [
+            76,
+            44
+          ],
+          "zoom": 3.4,
+          "valor": "45,7 g"
+        },
+        {
+          "nombre": "Kinder Bueno",
+          "foto": "chocolate_onzas",
+          "foco": [
+            80,
+            66
+          ],
+          "zoom": 2.6,
+          "valor": "41,2 g"
+        }
+      ],
+      "texto": "Azúcares totales en esta selección, según su etiqueta."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "blanco",
+      "frase": "Pásaselo a quien se compra una {chocolatina} a media tarde",
+      "fuentes": [
+        "Según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts"
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "alt": [
+    "Fondo oliva. ¿Qué chocolatina lleva más azúcar por 100 g? Tres círculos con fotos de cerca de unas onzas de chocolate sin marca sobre papel de aluminio, como ilustración genérica, numerados: 1 Kinder Chocolate, 2 Kit Kat y 3 Kinder Bueno, cada uno con un interrogante debajo. Azúcares totales. Piénsalo antes de seguir.",
+    "Fondo negro. La que más declara por 100 g: Kinder Chocolate. Los mismos tres círculos con su cifra debajo: Kinder Chocolate 53,3 g, marcada; Kit Kat 45,7 g; Kinder Bueno 41,2 g. Azúcares totales en esta selección, según su etiqueta.",
+    "Fondo blanco. Pásaselo a quien se compra una chocolatina a media tarde. Fuente: según sus etiquetas, consultadas el 20/10/2026 en Open Food Facts. Aviso de contenido divulgativo."
+  ],
+  "pie_instagram": "Kinder Chocolate, Kit Kat o Kinder Bueno: ¿qué chocolatina lleva más azúcar por cada 100 g? 🍫\n\nApuesta por una antes de deslizar 🤔\nUna selección de tres chocolatinas del súper, con lo que declara su etiqueta\nSon azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos 🔎\nLas recetas cambian: manda la etiqueta de la que tengas en la mano 🛒\n\nEs lo que dice la etiqueta de cada chocolatina, no una recomendación de consumo.\nSin colaboración ni relación con ninguna de las marcas citadas.\n\nCompártelo con quien crea que lo sabe y mira si acierta.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #quiz #chocolate #etiquetas #nutricion",
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022."
+}
