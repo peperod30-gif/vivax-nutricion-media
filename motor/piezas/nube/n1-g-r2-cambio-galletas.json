@@ -1,0 +1,88 @@
+{
+  "id": "n1-g-r2-cambio-galletas",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-104",
+    "ALI-098"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-08",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Merienda",
+      "titular": "Si meriendas {galletas}: mira esto",
+      "texto": "Dos cambios. Azúcares totales por cada 100 g.",
+      "foto": "galletas_mantequilla"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes merendabas",
+        "nombre": "Galletas de mantequilla",
+        "foto": "galletas_mantequilla",
+        "valor": "20,2 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora meriendas",
+        "nombre": "Manzana cruda",
+        "foto": "manzana",
+        "valor": "10,4 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes merendabas",
+        "nombre": "Galletas de mantequilla",
+        "foto": "galletas_mantequilla",
+        "valor": "20,2 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora meriendas",
+        "nombre": "Yogur natural entero",
+        "foto": "yogur",
+        "valor": "4,7 g",
+        "texto": "de azúcares por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Por 100 g",
+      "titular": "El yogur: menos {azúcares} y calorías que las galletas",
+      "texto": "Yogur natural entero: 4,7 g de azúcares, 61 kcal. Galletas de mantequilla: 20,2 g, 467 kcal.",
+      "foto": "yogur"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Mándaselo a quien tiene siempre {galletas} en el cajón",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico."
+    }
+  ],
+  "pie_instagram": "Dos meriendas con menos azúcares que las galletas de mantequilla, por cada 100 g 🍎\n\nGalletas de mantequilla: 20,2 g de azúcares por cada 100 g 🍪\nManzana cruda: 10,4 g por cada 100 g 🍏\nYogur natural entero: 4,7 g por cada 100 g, con 61 kcal frente a 467 kcal de las galletas 🥛\n\nEs composición por 100 g, no una recomendación. Son azúcares totales: en el yogur, parte es lactosa, y en la manzana, el de la propia fruta. Con diabetes, medicación o embarazo, consulta con tu médico antes de cambiar la dieta.\n\nPásalo al grupo de la familia si en casa se merienda con galletas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#merienda #azucar #cambios #galletas #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "Merienda. Si meriendas galletas: mira esto. Dos cambios. Azúcares totales por cada 100 g.",
+    "Galletas de mantequilla, 20,2 g de azúcares por 100 g, frente a Manzana cruda, 10,4 g de azúcares por 100 g.",
+    "Galletas de mantequilla, 20,2 g de azúcares por 100 g, frente a Yogur natural entero, 4,7 g de azúcares por 100 g.",
+    "Por 100 g. El yogur: menos azúcares y calorías que las galletas. Yogur natural entero: 4,7 g de azúcares, 61 kcal. Galletas de mantequilla: 20,2 g, 467 kcal.",
+    "Mándaselo a quien tiene siempre galletas en el cajón. Aviso de contenido divulgativo."
+  ]
+}

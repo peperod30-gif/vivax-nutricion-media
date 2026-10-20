@@ -1,0 +1,90 @@
+{
+  "id": "n1-v3-quiz-r2-proteina-desayuno",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "quiz",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-r2-proteina-desayuno",
+  "molde": "eleccion",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-004",
+    "ALI-028"
+  ],
+  "pie_instagram": "Huevo, yogur griego o leche: ¿qué lleva más proteína en el desayuno? 🥚\n\nPor cada 100 g: huevo cocido, yogur griego natural sin grasa y leche entera 🥛\nUno gana por poco y otro se queda muy atrás 🥣\n\nEs composición por 100 g, no una recomendación de cantidad. El yogur griego, natural y sin grasa.\n\nMándaselo a quien desayuna huevo cocido cada mañana.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #desayuno #yogur #huevo #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "Desayuno: ¿qué lleva más {proteína} por 100 g?",
+      "opciones": [
+        {
+          "nombre": "Huevo cocido"
+        },
+        {
+          "nombre": "Yogur griego natural sin grasa"
+        },
+        {
+          "nombre": "Leche entera"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta uno, dos o tres"
+    },
+    {
+      "plantilla": "v3_carrera",
+      "opciones": [
+        {
+          "nombre": "Huevo cocido",
+          "valor": "12,6 g"
+        },
+        {
+          "nombre": "Yogur griego natural sin grasa",
+          "valor": "10,2 g"
+        },
+        {
+          "nombre": "Leche entera",
+          "valor": "3,2 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "titulo": "Gana el {huevo cocido}",
+      "opciones": [
+        {
+          "valor": "12,6 g"
+        }
+      ],
+      "texto": "Por cada 100 g. El yogur, sin grasa"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Mándaselo a quien desayuna {huevo cocido} cada mañana"
+    }
+  ],
+  "alt": [
+    "Desayuno: ¿qué lleva más proteína por 100 g?. Huevo cocido. Yogur griego natural sin grasa. Leche entera.",
+    "Comenta uno, dos o tres.",
+    "Huevo cocido 12,6 g. Yogur griego natural sin grasa 10,2 g. Leche entera 3,2 g.",
+    "Gana el huevo cocido. 12,6 g. Por cada 100 g. El yogur, sin grasa.",
+    "Mándaselo a quien desayuna huevo cocido cada mañana."
+  ],
+  "produccion": {
+    "familia": "eleccion",
+    "rol": "VIRAL",
+    "origen": "n1-g-r2-proteina-desayuno",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 10.49,
+    "tamano_mb": 3.86
+  },
+  "titulo": "Huevo, yogur griego o leche: ¿qué lleva más proteína en el desayuno?",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019)."
+}

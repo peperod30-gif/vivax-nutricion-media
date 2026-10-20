@@ -1,0 +1,96 @@
+{
+  "id": "n1-g-r2-tostada-calorias",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "viral",
+  "hechos": [
+    "ALI-114",
+    "ALI-117",
+    "ALI-134"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-09",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "Tostada: ¿cuál suma más {calorías} por 100 g?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Jamón cocido",
+          "foto": "jamon_cocido",
+          "valor": "164 kcal"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "foto": "aguacate",
+          "valor": "160 kcal",
+          "zoom": 1.25
+        },
+        {
+          "nombre": "Huevo cocido",
+          "foto": "huevo_duro",
+          "valor": "155 kcal"
+        }
+      ],
+      "texto": "Elige antes de deslizar."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Gana el {jamón cocido}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Jamón cocido",
+          "foto": "jamon_cocido",
+          "valor": "164 kcal"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "foto": "aguacate",
+          "valor": "160 kcal",
+          "zoom": 1.25
+        },
+        {
+          "nombre": "Huevo cocido",
+          "foto": "huevo_duro",
+          "valor": "155 kcal"
+        }
+      ],
+      "texto": "Por cada 100 g de cada uno."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Muy juntos",
+      "titular": "Los tres quedan {casi} empatados",
+      "texto": "Jamón cocido 164 kcal, aguacate crudo 160 kcal y huevo cocido 155 kcal, por cada 100 g.",
+      "foto": "aguacate",
+      "zoom": 1.25
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "¿Quién en tu casa pide la tostada {con aguacate}?",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «13-08-31-wien-redaktionstreffen-EuT-by-Bi-frie-171», Bi-frie (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "Jamón cocido, aguacate o huevo cocido: ¿cuál suma más calorías por 100 g? 🥑\n\nTres clásicos de la tostada del desayuno, puestos frente a frente 🍞\nCuentan 100 g de cada alimento; en tu tostada la cantidad será otra 🍽️\n\nEs composición por 100 g, no una recomendación.\n\nEnséñaselo a quien te prepara la tostada por las mañanas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#desayuno #calorias #quiz #aguacate #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "Tostada: ¿cuál suma más calorías por 100 g? Opciones: Jamón cocido, Aguacate crudo, Huevo cocido. Elige antes de deslizar.",
+    "Gana el jamón cocido. Opciones: Jamón cocido 164 kcal, Aguacate crudo 160 kcal, Huevo cocido 155 kcal. Por cada 100 g de cada uno.",
+    "Muy juntos. Los tres quedan casi empatados. Jamón cocido 164 kcal, aguacate crudo 160 kcal y huevo cocido 155 kcal, por cada 100 g.",
+    "¿Quién en tu casa pide la tostada con aguacate? Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}

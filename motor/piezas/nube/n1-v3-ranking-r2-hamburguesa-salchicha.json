@@ -1,0 +1,94 @@
+{
+  "id": "n1-v3-ranking-r2-hamburguesa-salchicha",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "ranking",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-r2-hamburguesa-salchicha",
+  "molde": "pictograma",
+  "pilar": "viral",
+  "hechos": [
+    "ALI-081",
+    "ALI-115"
+  ],
+  "pie_instagram": "Hamburguesa de ternera y salchicha tipo frankfurt casi empatan en calorías por cada 100 g ⚖️\n\nBacon frito: 468 kcal 🥓\nHamburguesa de ternera cocinada (80 % magra): 270 kcal 🍔\nSalchicha de cerdo tipo frankfurt: 269 kcal 🌭\nPechuga de pavo asada: 147 kcal 🦃\n\nEs composición por 100 g de una selección, no una recomendación. La ración que comas puede pesar otra cosa.\n\n¿Cuál creías que tenía más calorías, la hamburguesa o la salchicha?\nQue lo vea quien hace la compra de la semana.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFotos: Wikimedia Commons, recortadas: «Cooked turkey breast, November 2023, Sarah Stierch», Sarah Stierch (CC BY 4.0). El resto, dominio público o CC0. Licencias: CC BY 4.0: creativecommons.org/licenses/by/4.0.\n\n#calorias #ranking #carne #embutidos #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "titulo": "¿Qué tiene más {empatan}?",
+      "filas": [
+        {
+          "nombre": "Bacon frito"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada (80 % magra)"
+        },
+        {
+          "nombre": "Pechuga de pavo asada"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta tu apuesta"
+    },
+    {
+      "plantilla": "v3_ranking",
+      "titulo": "kcal por cada 100 g",
+      "texto": "Selección",
+      "filas": [
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "147 kcal"
+        },
+        {
+          "nombre": "Salchicha de cerdo tipo frankfurt",
+          "valor": "269 kcal"
+        },
+        {
+          "nombre": "Hamburguesa de ternera cocinada (80 % magra)",
+          "valor": "270 kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_revelacion",
+      "filas": [
+        {
+          "nombre": "Bacon frito",
+          "valor": "468 kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Reenvíalo a quien cambia la salchicha por la {hamburguesa}"
+    }
+  ],
+  "alt": [
+    "¿Qué tiene más empatan?. Bacon frito. Hamburguesa de ternera cocinada (80 % magra). Pechuga de pavo asada. Salchicha de cerdo tipo frankfurt.",
+    "Comenta tu apuesta.",
+    "kcal por cada 100 g. Selección. Pechuga de pavo asada 147 kcal. Salchicha de cerdo tipo frankfurt 269 kcal. Hamburguesa de ternera cocinada (80 % magra) 270 kcal.",
+    "Bacon frito 468 kcal.",
+    "Reenvíalo a quien cambia la salchicha por la hamburguesa."
+  ],
+  "produccion": {
+    "familia": "pictograma",
+    "rol": "VIRAL",
+    "origen": "n1-g-r2-hamburguesa-salchicha",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 11.05,
+    "tamano_mb": 6.18
+  },
+  "titulo": "Hamburguesa de ternera y salchicha tipo frankfurt casi empatan en…",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019)."
+}

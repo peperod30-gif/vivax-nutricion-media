@@ -1,0 +1,89 @@
+{
+  "id": "n1-g-r2-cambio-pistachos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "cambio",
+  "pilar": "viral",
+  "hechos": [
+    "ALI-054",
+    "ALI-005"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-13",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Para picar",
+      "titular": "Los {pistachos} llevan más hidratos que los otros dos",
+      "texto": "Pistachos crudos, pipas de calabaza peladas y nueces. Por cada 100 g, con la fibra incluida.",
+      "foto": "pistachos"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes picabas",
+        "nombre": "Pistachos crudos",
+        "foto": "pistachos",
+        "valor": "27,2 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora picas",
+        "nombre": "Pipas de calabaza peladas",
+        "foto": "pipas_calabaza",
+        "valor": "10,7 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_cambio",
+      "izq": {
+        "etiqueta": "Si antes picabas",
+        "nombre": "Pistachos crudos",
+        "foto": "pistachos",
+        "valor": "27,2 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "der": {
+        "etiqueta": "Y ahora picas",
+        "nombre": "Nueces",
+        "foto": "nueces",
+        "valor": "13,7 g",
+        "texto": "de hidratos por 100 g"
+      },
+      "ganador": "der"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "Y además",
+      "titular": "Pipas de calabaza: más {proteína} por 100 g",
+      "texto": "Pipas de calabaza peladas: 30,2 g de proteína. Pistachos crudos: 20,2 g.",
+      "foto": "pipas_calabaza"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Esto va para quien baja hidratos y pica {pistachos}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista. Con diabetes, medicación o embarazo, consulta con tu médico.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Whole walnut kernel and shell», Potkettle (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "Pistachos crudos: 27,2 g de hidratos por cada 100 g. Pipas de calabaza peladas: 10,7 g 🥜\n\nNueces: 13,7 g de hidratos por cada 100 g 🌰\nEn proteína ganan las pipas de calabaza peladas: 30,2 g frente a 20,2 g de los pistachos crudos 🌱\n\nEs composición por 100 g, no una recomendación. Los hidratos incluyen la fibra. Con diabetes, medicación o embarazo, consulta con tu médico antes de cambiar la dieta.\n\n¿Con cuál te quedas para picar entre horas?\nSi tu compañero de picoteo es de pistachos, enséñaselo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#lowcarb #frutossecos #cambios #hidratos #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "Para picar. Los pistachos llevan más hidratos que los otros dos. Pistachos crudos, pipas de calabaza peladas y nueces. Por cada 100 g, con la fibra incluida.",
+    "Pistachos crudos, 27,2 g de hidratos por 100 g, frente a Pipas de calabaza peladas, 10,7 g de hidratos por 100 g.",
+    "Pistachos crudos, 27,2 g de hidratos por 100 g, frente a Nueces, 13,7 g de hidratos por 100 g.",
+    "Y además. Pipas de calabaza: más proteína por 100 g. Pipas de calabaza peladas: 30,2 g de proteína. Pistachos crudos: 20,2 g.",
+    "Esto va para quien baja hidratos y pica pistachos. Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}

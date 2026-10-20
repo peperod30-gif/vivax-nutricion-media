@@ -1,0 +1,80 @@
+{
+  "id": "n1-g-r2-palomitas-fibra",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-093"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-07",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "Palomitas sin aceite: más {fibra} que la avena",
+      "unidad": "Selección. g de fibra por cada 100 g",
+      "paso": 2,
+      "leyenda": "cada círculo = 2 g, redondeado",
+      "filas": [
+        {
+          "nombre": "Palomitas sin aceite",
+          "valor": "14,5 g",
+          "foto": "palomitas"
+        },
+        {
+          "nombre": "Avena en copos secos",
+          "valor": "10,1 g",
+          "foto": "avena_seca"
+        },
+        {
+          "nombre": "Tortitas de arroz de grano entero",
+          "valor": "4,2 g",
+          "foto": "tortita_arroz"
+        },
+        {
+          "nombre": "Copos de maíz",
+          "valor": "2,7 g",
+          "foto": "copos_maiz"
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Las de abajo",
+      "titular": "Las {tortitas} de arroz: 4,2 g de fibra",
+      "texto": "De grano entero, por cada 100 g. Los copos de maíz, 2,7 g.",
+      "foto": "tortita_arroz"
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Sin aceite",
+      "titular": "Son palomitas {sin aceite}",
+      "texto": "14,5 g de fibra por cada 100 g, hechas sin aceite. No es la cifra de las de cine ni de las de microondas.",
+      "foto": "palomitas"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Para quien hace {palomitas} sin aceite en casa",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Las palomitas sin aceite llevan más fibra que la avena en copos, por cada 100 g 🍿\n\nPor cada 100 g: palomitas sin aceite 14,5 g de fibra · avena en copos 10,1 g · tortitas de arroz de grano entero 4,2 g · copos de maíz 2,7 g 🌾\nLa avena, en copos secos, tal cual sale del paquete 🥣\nLas palomitas, hechas sin aceite: no es la cifra de las de cine ni de las de microondas 🌽\n\nEs composición por 100 g de una selección, no una recomendación.\n\n¿Cuál de las cuatro no esperabas?\nCuéntaselo a quien cree que la avena gana en fibra.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #ranking #palomitas #desayuno #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "Palomitas sin aceite: más fibra que la avena. Selección. g de fibra por cada 100 g: Palomitas sin aceite 14,5 g; Avena en copos secos 10,1 g; Tortitas de arroz de grano entero 4,2 g; Copos de maíz 2,7 g.",
+    "Las de abajo. Las tortitas de arroz: 4,2 g de fibra. De grano entero, por cada 100 g. Los copos de maíz, 2,7 g.",
+    "Sin aceite. Son palomitas sin aceite. 14,5 g de fibra por cada 100 g, hechas sin aceite. No es la cifra de las de cine ni de las de microondas.",
+    "Para quien hace palomitas sin aceite en casa. Aviso de contenido divulgativo."
+  ]
+}

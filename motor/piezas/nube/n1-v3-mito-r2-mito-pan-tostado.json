@@ -1,0 +1,70 @@
+{
+  "id": "n1-v3-mito-r2-mito-pan-tostado",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v3",
+  "tipo_reel": "mito",
+  "estilo": "viral",
+  "diseno": "foto",
+  "direccion": "g",
+  "origen": "n1-g-r2-mito-pan-tostado",
+  "molde": "mito",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-076",
+    "ALI-144"
+  ],
+  "pie_instagram": "Tostar el pan no le quita calorías: mira las cifras de cada 100 g 🍞\n\nPan blanco tostado: 290 kcal por cada 100 g 🔥\nPan blanco, sin tostar: 266 kcal por cada 100 g 🥪\nNinguna de las dos cifras habla de rebanadas ni dice que tostar sume calorías ⚖️\n\nEs composición por 100 g, no una recomendación.\n\n¿Qué otro mito del pan has oído?\nSi en tu casa la tostadora no descansa, compártelo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#pan #mitos #calorias #desayuno #nutricion",
+  "hojas": [
+    {
+      "plantilla": "v3_gancho",
+      "kicker": "¿Cierto?",
+      "titular": "Tostar el pan le {quita} calorías"
+    },
+    {
+      "plantilla": "v3_participa",
+      "texto": "Comenta cierto o mito"
+    },
+    {
+      "plantilla": "v3_dato",
+      "kicker": "Lo que dicen las cifras",
+      "titular": "Pan blanco tostado: {290 kcal} por 100 g",
+      "texto": "Sin tostar"
+    },
+    {
+      "plantilla": "v3_dato",
+      "kicker": "Lo que cuenta",
+      "titular": "La {cantidad} de pan y no la tostadora"
+    },
+    {
+      "plantilla": "v3_veredicto",
+      "kicker": "Mito",
+      "texto": "Pan blanco, tostado o sin tostar, por cada 100 g"
+    },
+    {
+      "plantilla": "v3_cierre",
+      "frase": "Pásaselo a quien pide el pan {bien tostado} para cuidarse"
+    }
+  ],
+  "alt": [
+    "¿Cierto?. Tostar el pan le quita calorías.",
+    "Comenta cierto o mito.",
+    "Lo que dicen las cifras. Pan blanco tostado: 290 kcal por 100 g. Sin tostar.",
+    "Lo que cuenta. La cantidad de pan y no la tostadora.",
+    "Mito. Pan blanco, tostado o sin tostar, por cada 100 g.",
+    "Pásaselo a quien pide el pan bien tostado para cuidarse."
+  ],
+  "produccion": {
+    "familia": "mito",
+    "rol": "VIRAL",
+    "origen": "n1-g-r2-mito-pan-tostado",
+    "autoaprobar": true
+  },
+  "produccion_video": {
+    "duracion_s": 11.39,
+    "tamano_mb": 3.88
+  },
+  "titulo": "Tostar el pan no le quita calorías: mira las cifras de cada 100 g",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019)."
+}

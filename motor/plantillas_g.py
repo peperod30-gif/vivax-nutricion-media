@@ -244,8 +244,10 @@ def g_eleccion(h: dict, ctx: dict) -> str:
     gana = h.get("ganador")
     p = [_gt(h["titulo"], 64, 60, 952, 330, (76, 210), color=c_txt)]
     d, y0 = 296, 470
+    # con dos opciones (duelo) la fila se centra; con tres el margen es 0 y no cambia nada (20-oct-2026)
+    x0 = 64 + (952 - (len(ops) * d + (len(ops) - 1) * 32)) // 2
     for k, o in enumerate(ops):
-        x = 64 + k * (d + 32)
+        x = x0 + k * (d + 32)
         cx, cy = x + d / 2, y0 + d / 2 + (-14 if k == 1 else (10 if k == 2 else 0))
         es_ganador = gana == k and not oculto
         anillo = f"9px {c_ac}" if es_ganador else f"9px {'#fff' if fondo == 'negro' else '#000'}"

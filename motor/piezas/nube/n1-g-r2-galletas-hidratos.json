@@ -1,0 +1,82 @@
+{
+  "id": "n1-g-r2-galletas-hidratos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-055"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-15",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "oliva",
+      "titulo": "Galletas de mantequilla o pan: ¿cuál lleva más {hidratos}?",
+      "unidad": "Selección. g de hidratos por cada 100 g",
+      "paso": 10,
+      "leyenda": "cada círculo = 10 g, redondeado",
+      "filas": [
+        {
+          "nombre": "Galletas de mantequilla",
+          "valor": "68,9 g",
+          "foto": "galletas_mantequilla"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "49,4 g",
+          "foto": "pan_molde"
+        },
+        {
+          "nombre": "Pizza de queso cocinada",
+          "valor": "29,0 g",
+          "foto": "plato_pizza_casera",
+          "foco": [
+            38,
+            50
+          ]
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La sorpresa",
+      "titular": "La {pizza} de queso lleva menos hidratos que el pan blanco por 100 g",
+      "texto": "Pizza de queso cocinada: 29,0 g. Pan blanco: 49,4 g.",
+      "foto": "plato_pizza_casera",
+      "foco": [
+        38,
+        50
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "negro",
+      "kicker": "Y uno más",
+      "titular": "El boniato cocido: {17,7 g} de hidratos",
+      "texto": "Por cada 100 g. El pan blanco, 49,4 g."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "oliva",
+      "frase": "Mándaselo a quien quita el pan pero no las {galletas}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Las galletas de mantequilla llevan más hidratos que el pan blanco por cada 100 g. Y la pizza de queso, menos 🍪\n\nPor cada 100 g: galletas de mantequilla 68,9 g de hidratos · pan blanco 49,4 g · pizza de queso cocinada 29,0 g 🍞\nLa pizza, de queso y cocinada, queda por debajo del pan 🍕\nY el boniato cocido, 17,7 g por cada 100 g 🍠\n\nEs composición por 100 g de una selección, no una recomendación. Son 100 g de cada uno, no una ración.\n\n¿Cuál habrías puesto arriba: galletas, pan o pizza?\nCompártelo con el grupo de la oficina, donde nunca faltan galletas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #ranking #galletas #pan #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "Galletas de mantequilla o pan: ¿cuál lleva más hidratos? Selección. g de hidratos por cada 100 g: Galletas de mantequilla 68,9 g; Pan blanco 49,4 g; Pizza de queso cocinada 29,0 g.",
+    "La sorpresa. La pizza de queso lleva menos hidratos que el pan blanco por 100 g. Pizza de queso cocinada: 29,0 g. Pan blanco: 49,4 g.",
+    "Y uno más. El boniato cocido: 17,7 g de hidratos. Por cada 100 g. El pan blanco, 49,4 g.",
+    "Mándaselo a quien quita el pan pero no las galletas. Aviso de contenido divulgativo."
+  ]
+}

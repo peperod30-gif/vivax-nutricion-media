@@ -1,0 +1,91 @@
+{
+  "id": "n1-g-r2-aperitivo-calorias",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "viral",
+  "hechos": [
+    "ALI-077"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-16",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "blanco",
+      "titulo": "¿Qué picoteo lleva más {calorías} por 100 g?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Almendras",
+          "foto": "almendras",
+          "valor": "579 kcal"
+        },
+        {
+          "nombre": "Palomitas de maíz sin aceite",
+          "foto": "palomitas",
+          "valor": "387 kcal"
+        },
+        {
+          "nombre": "Aceitunas negras en conserva",
+          "foto": "aceitunas_negras",
+          "valor": "116 kcal"
+        }
+      ],
+      "texto": "Elige antes de deslizar."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Ganan las {almendras}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Almendras",
+          "foto": "almendras",
+          "valor": "579 kcal"
+        },
+        {
+          "nombre": "Palomitas de maíz sin aceite",
+          "foto": "palomitas",
+          "valor": "387 kcal"
+        },
+        {
+          "nombre": "Aceitunas negras en conserva",
+          "foto": "aceitunas_negras",
+          "valor": "116 kcal"
+        }
+      ],
+      "texto": "Por cada 100 g. Las palomitas, sin aceite."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "La que menos",
+      "titular": "Las {aceitunas} suman 116 kcal por 100 g",
+      "texto": "Negras y en conserva. Las verdes en salmuera no entran en este dato.",
+      "foto": "aceitunas_negras"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "¿Quién en tu casa saca las {almendras} antes de comer?",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Almonds macro 1», Daniel Schwen (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "Almendras, palomitas o aceitunas: ¿qué suma más calorías por 100 g? 🫒\n\nLas palomitas, sin aceite; las aceitunas, negras y en conserva 🥫\nHaz tu apuesta en comentarios y luego desliza 🍿\n\nEs composición por 100 g, no una recomendación, y la ración es otra cuenta.\n\nPonlo de adivinanza en la próxima comida con amigos.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#aperitivo #calorias #frutossecos #dietamediterranea #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "¿Qué picoteo lleva más calorías por 100 g? Opciones: Almendras, Palomitas de maíz sin aceite, Aceitunas negras en conserva. Elige antes de deslizar.",
+    "Ganan las almendras. Opciones: Almendras 579 kcal, Palomitas de maíz sin aceite 387 kcal, Aceitunas negras en conserva 116 kcal. Por cada 100 g. Las palomitas, sin aceite.",
+    "La que menos. Las aceitunas suman 116 kcal por 100 g. Negras y en conserva. Las verdes en salmuera no entran en este dato.",
+    "¿Quién en tu casa saca las almendras antes de comer? Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}

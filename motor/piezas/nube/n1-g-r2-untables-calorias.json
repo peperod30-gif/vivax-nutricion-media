@@ -1,0 +1,76 @@
+{
+  "id": "n1-g-r2-untables-calorias",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "pictograma",
+  "pilar": "viral",
+  "hechos": [
+    "ALI-078"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-19",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_pictograma",
+      "fondo": "negro",
+      "titulo": "Untables por 100 g: el aceite gana en {calorías}",
+      "unidad": "Selección, kcal por cada 100 g",
+      "paso": 100,
+      "filas": [
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "884 kcal",
+          "foto": "aceite_oliva"
+        },
+        {
+          "nombre": "Mermelada",
+          "valor": "278 kcal",
+          "foto": "mermelada"
+        },
+        {
+          "nombre": "Hummus comercial",
+          "valor": "237 kcal",
+          "foto": "hummus",
+          "zoom": 1.35
+        }
+      ]
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "La sorpresa",
+      "titular": "En 100 g el {hummus} suma menos que la mermelada",
+      "texto": "Hummus comercial 237 kcal; mermelada 278 kcal.",
+      "foto": "hummus",
+      "zoom": 1.35
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "oliva",
+      "kicker": "La cuenta",
+      "titular": "Son 100 g y no una {ración}",
+      "texto": "Son kilocalorías de cada 100 g del alimento; lo que pones en el pan es otra cuenta."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Pásaselo a quien riega la tostada con {aceite}",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «Many jars of raspberry jam (19778995921)», Ruth Hartnup (CC BY 2.0). El resto, dominio público o CC0. Licencias: CC BY 2.0: creativecommons.org/licenses/by/2.0."
+    }
+  ],
+  "pie_instagram": "Aceite de oliva, mermelada o hummus: lo que suman 100 g de cada uno 🫒\n\nAceite de oliva 884 kcal, mermelada 278 kcal y hummus comercial 237 kcal, por cada 100 g 🍞\nY la sorpresa: el hummus comercial suma menos que la mermelada 🫘\n\nEs composición por 100 g de una selección, no una recomendación. Son kilocalorías de cada 100 g del alimento y la ración es otra cuenta.\n\nSeguro que conoces a alguien que no desayuna sin mermelada.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#aceitedeoliva #hummus #ranking #desayuno #nutricion",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "Untables por 100 g: el aceite gana en calorías. Selección, kcal por cada 100 g: Aceite de oliva 884 kcal; Mermelada 278 kcal; Hummus comercial 237 kcal.",
+    "La sorpresa. En 100 g el hummus suma menos que la mermelada. Hummus comercial 237 kcal; mermelada 278 kcal.",
+    "La cuenta. Son 100 g y no una ración. Son kilocalorías de cada 100 g del alimento; lo que pones en el pan es otra cuenta.",
+    "Pásaselo a quien riega la tostada con aceite. Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}

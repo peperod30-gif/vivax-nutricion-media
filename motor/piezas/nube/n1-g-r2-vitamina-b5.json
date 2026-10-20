@@ -1,0 +1,90 @@
+{
+  "id": "n1-g-r2-vitamina-b5",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "VIRAL",
+  "hechos": [
+    "VIT-034"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-12",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "Champiñones, salmón o aguacate: ¿más {vitamina B5}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Champiñones crudos",
+          "foto": "champinones",
+          "valor": "1,50 mg"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "foto": "salmon",
+          "valor": "1,48 mg"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "foto": "aguacate",
+          "valor": "1,39 mg"
+        }
+      ],
+      "texto": "Por cada 100 g. Elige antes de deslizar."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "Ganan los {champiñones}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Champiñones crudos",
+          "foto": "champinones",
+          "valor": "1,50 mg"
+        },
+        {
+          "nombre": "Salmón cocinado",
+          "foto": "salmon",
+          "valor": "1,48 mg"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "foto": "aguacate",
+          "valor": "1,39 mg"
+        }
+      ],
+      "texto": "Por cada 100 g, de estos tres."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Por la mínima",
+      "titular": "{1,50 mg} frente a 1,48 mg",
+      "texto": "Champiñones crudos y salmón cocinado, por 100 g. Es una selección: el hígado de ternera cocinado y los cacahuetes crudos llevan más.",
+      "foto": "champinones"
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Pásaselo a quien aparta los {champiñones} del plato",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "¿Qué lleva más vitamina B5: champiñones, salmón o aguacate? 🍄\n\nTodo por cada 100 g de alimento 🥑\nEl salmón, cocinado; los champiñones y el aguacate, crudos 🐟\nEs una selección: el hígado de ternera cocinado y los cacahuetes crudos llevan más 🥜\n\nEs composición por 100 g, no una recomendación: 100 g es mucho más que una ración habitual de muchos de estos alimentos. Es lo que lleva el alimento, no lo que se absorbe.\n\nReta a alguien a acertarlo sin mirar la segunda hoja.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminas #quiz #champinones #nutricion #comidareal",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2018).",
+  "alt": [
+    "Champiñones, salmón o aguacate: ¿más vitamina B5? Opciones: Champiñones crudos, Salmón cocinado, Aguacate crudo. Por cada 100 g. Elige antes de deslizar.",
+    "Ganan los champiñones. Opciones: Champiñones crudos 1,50 mg, Salmón cocinado 1,48 mg, Aguacate crudo 1,39 mg. Por cada 100 g, de estos tres.",
+    "Por la mínima. 1,50 mg frente a 1,48 mg. Champiñones crudos y salmón cocinado, por 100 g. Es una selección: el hígado de ternera cocinado y los cacahuetes crudos llevan más.",
+    "Pásaselo a quien aparta los champiñones del plato. Aviso de contenido divulgativo."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "n1-g-r2-hierro-lentejas-ternera",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "estilo": "viral",
+  "diseno": "foto",
+  "molde": "eleccion",
+  "pilar": "VIRAL",
+  "hechos": [
+    "ALI-062"
+  ],
+  "direccion": "g",
+  "produccion": {
+    "fecha": "2026-11-05",
+    "hueco": 3
+  },
+  "hojas": [
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "negro",
+      "titulo": "¿Lentejas o ternera: qué lleva más {hierro}?",
+      "oculto": true,
+      "opciones": [
+        {
+          "nombre": "Lentejas cocidas",
+          "foto": "plato_lentejas",
+          "valor": "3,3 mg"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "foto": "hamburguesa",
+          "valor": "2,7 mg"
+        }
+      ],
+      "texto": "Por cada 100 g. Elige antes de deslizar."
+    },
+    {
+      "plantilla": "g_eleccion",
+      "fondo": "oliva",
+      "titulo": "Ganan las {lentejas}",
+      "ganador": 0,
+      "opciones": [
+        {
+          "nombre": "Lentejas cocidas",
+          "foto": "plato_lentejas",
+          "valor": "3,3 mg"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "foto": "hamburguesa",
+          "valor": "2,7 mg"
+        }
+      ],
+      "texto": "Cocidas, 3,3 mg por cada 100 g. La ternera picada cocinada, 2,7 mg."
+    },
+    {
+      "plantilla": "g_afirmacion",
+      "fondo": "blanco",
+      "kicker": "Lo que mide",
+      "titular": "Es lo que {lleva}: no lo que se absorbe",
+      "texto": "Cantidad de hierro presente en 100 g de cada alimento, cocinado."
+    },
+    {
+      "plantilla": "g_cierre",
+      "fondo": "negro",
+      "frase": "Esto va para quien jura que la {ternera} gana en hierro",
+      "fuentes": [],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "creditos": "Fotos: Wikimedia Commons, recortadas: «French Lentil Soup (140491423)», J Doll (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0."
+    }
+  ],
+  "pie_instagram": "Lentejas o ternera: ¿cuál lleva más hierro? Apuesta antes de deslizar 🫘\n\nDos clásicos de diario, por cada 100 g: lentejas cocidas y ternera picada cocinada 🍲\nLa segunda hoja dice cuál gana y la tercera, qué mide de verdad esa cifra 🥩\n\nEs composición por 100 g, no una recomendación. Es la cantidad de hierro que hay en el alimento, no la que se absorbe.\n\nSi en tu casa hay alguien que hace lentejas cada semana, enséñaselo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #lentejas #quiz #nutricion #comidareal",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019).",
+  "alt": [
+    "¿Lentejas o ternera: qué lleva más hierro? Opciones: Lentejas cocidas, Ternera picada cocinada. Por cada 100 g. Elige antes de deslizar.",
+    "Ganan las lentejas. Opciones: Lentejas cocidas 3,3 mg, Ternera picada cocinada 2,7 mg. Cocidas, 3,3 mg por cada 100 g. La ternera picada cocinada, 2,7 mg.",
+    "Lo que mide. Es lo que lleva: no lo que se absorbe. Cantidad de hierro presente en 100 g de cada alimento, cocinado.",
+    "Esto va para quien jura que la ternera gana en hierro. Créditos de las fotos y aviso de contenido divulgativo."
+  ]
+}
