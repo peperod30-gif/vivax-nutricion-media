@@ -191,8 +191,9 @@ def _acciones(hub, ad, nombre: str, o: dict, log) -> dict:
     lineas = [_hacer(ad, a, admin, f"nube:acciones-{nombre}") for a in lista]
     texto = _resumen(nombre, ad, lista, lineas)
     nota = str(o.get("texto") or "").strip()
-    hub.crear_aviso((nota + "\n" if nota else "") + texto, "info", f"acciones-{nombre}"[:60], o.get("cuenta") or "n1", None)
     malas = [l for l in lineas if l.startswith("⚠️")]
+    if not o.get("silencio") or malas:          # una recolocación rutinaria (`silencio: true`) no avisa a José salvo que algo haya fallado (20-oct)
+        hub.crear_aviso((nota + "\n" if nota else "") + texto, "info", f"acciones-{nombre}"[:60], o.get("cuenta") or "n1", None)
     log(f"orden {nombre}: {len(lista)} acciones, {len(malas)} sin hacer")
     return {"acciones": len(lista), "fallos": [l[:160] for l in malas]}
 
