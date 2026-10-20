@@ -356,6 +356,18 @@ def c_lineas_rojas(pieza: dict, salida: list) -> None:
     for enf, donde in sorted(vistas.items()):
         salida.append((AVISO, "salud", f"menciona «{enf}» en {', '.join(sorted(donde))}: solo vale como límite o riesgo, nunca como promesa"
                        + (" (RD 1907/1996, art. 4.2: nada de atribuir propiedades adelgazantes)" if enf == "adelgazamiento" else "")))
+    # filtro legal de la investigación del 20-oct (filtro_legal.py): promesas, curaciones, adelgazar, «soy nutricionista», marca + juicio.
+    # BLOQUEAR es un fallo; REVISAR, un aviso (casi siempre un desmentido o la palabra «natural»). Probado contra las 143 piezas G: 0 bloqueos.
+    try:
+        import filtro_legal as _FL
+    except ImportError:
+        return
+    texto = "\n".join([str(pieza.get("pie_instagram") or "")] + [t for _, _, t in textos_visibles(pieza)])
+    veredicto, motivos = _FL.revisar(texto)
+    if veredicto == "BLOQUEAR":
+        salida.append((FALLO, "filtro legal", "; ".join(str(m)[:70] for m in motivos[:3])))
+    elif veredicto == "REVISAR":
+        salida.append((AVISO, "filtro legal", "a revisar: " + "; ".join(str(m)[:50] for m in motivos[:3])))
 
 
 # ---------------------------------------------------------------------------------------------- 4 texto de IA
