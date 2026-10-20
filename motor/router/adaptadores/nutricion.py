@@ -84,6 +84,8 @@ class ErrorImportar(Exception):
 
 def _titulo(pieza: dict) -> str:
     """Nombre corto de la pieza para las listas: el titular de la primera hoja o de la escena, sin marcas."""
+    if isinstance(pieza.get("titulo"), str) and pieza["titulo"].strip():     # un título puesto a mano (20-oct): los Reels v3 lo traen del pie
+        return C._lim(pieza["titulo"])
     h = (pieza.get("hojas") or [{}])[0]
     for k in ("titular", "titulo", "frase", "dato"):
         if h.get(k):

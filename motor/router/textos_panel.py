@@ -478,6 +478,27 @@ def resumen_noche_hecho(texto: str) -> str:
     return "\n".join(L) + "\n\n👍 Visto: sale así."
 
 
+def respuesta_sugerida(texto: str, n: int = 0) -> str:
+    """Una respuesta corta y humana para el comentario de alguien, sin inventar datos (20-oct): da las gracias y devuelve una pregunta."""
+    t = str(texto or "").strip()
+    if "?" in t or "¿" in t:
+        return "Buena pregunta. La miramos con datos y la contamos pronto. Gracias por comentar."
+    variantes = ("¡Gracias por jugar! ¿Qué duelo quieres ver la próxima vez?",
+                 "¡Gracias! ¿Qué alimento quieres que comparemos?",
+                 "Me alegra que te guste. ¿Qué producto del súper quieres que miremos?")
+    return variantes[n % len(variantes)]
+
+
+def comentario_nuevo(n: int, usuario: str, titulo: str, texto: str, respuesta: str) -> tuple[str, list]:
+    quien = f"@{usuario}" if usuario else "Alguien"
+    L = [f"💬 {quien} en «{corto(titulo, 40)}»:", f"«{corto(texto, 220)}»", "", f"Puedo contestar: «{respuesta}»"]
+    return "\n".join(L), [[("✅ Responder así", f"pn:cr:{n}"), ("Dejar", f"pn:ci:{n}")]]
+
+
+def comentario_respondido(usuario: str, respuesta: str) -> str:
+    return f"✅ Respondido a @{usuario}: «{corto(respuesta, 160)}»" if usuario else f"✅ Respondido: «{corto(respuesta, 160)}»"
+
+
 def aviso_cola_corta(dias_cola: int, hasta: datetime | None) -> str:
     if not dias_cola:
         return "🧭 La cola de publicaciones se ha quedado vacía. Hay que preparar más piezas desde el PC."

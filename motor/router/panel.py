@@ -28,6 +28,7 @@ SIN_ACCESO = "No tienes acceso a eso."
 METRICAS = Path(__file__).resolve().parents[1] / "datos" / "metricas"
 HORA_RESUMEN = 8                # el resumen de «hoy salen» no sale antes de las 08:00
 HORA_COLA = 10                  # ni el aviso de cola corta antes de las 10:00
+HORA_COMENTARIOS = (9, 22)       # los comentarios nuevos solo se cuentan entre las 09:00 y las 22:00, cada 30 minutos y como mucho 6 al día
 HORA_NOCHE = (21, 30)           # el resumen de «mañana sale esto» (20-oct): un único mensaje al día, con imagen
 DIAS_COLA_CORTA = 3
 MINIMO = timedelta(minutes=2)   # una hora programada queda al menos dos minutos por delante
@@ -81,7 +82,7 @@ class Panel:
             "p": self._b_p, "pe": self._b_pe, "ap": self._b_ap, "ao": self._b_ao, "rv": self._b_rv, "rf": self._b_rf, "sk": self._b_sk,
             "f": self._b_f, "ok": self._b_ok, "no": self._b_no, "ch": self._b_ch, "hv": self._b_hv, "ht": self._b_ht, "qu": self._b_qu,
             "rt": self._b_rt, "vh": self._b_vh, "vp": self._b_vp, "cal": self._b_cal, "pu": self._b_pu, "mas": self._b_mas,
-            "num": self._b_num, "te": self._b_te, "pa": self._b_pa, "ay": self._b_ay, "nd": self._b_nd,
+            "num": self._b_num, "te": self._b_te, "pa": self._b_pa, "ay": self._b_ay, "nd": self._b_nd, "cr": self._b_cr, "ci": self._b_ci,
         }
 
     # ------------------------------------------------------------------ base
@@ -798,6 +799,8 @@ class Panel:
         hoy = ahora.date().isoformat()
         items = self._items()
         ayer = (ahora.date() - timedelta(days=1)).isoformat()
+        if HORA_COMENTARIOS[0] <= ahora.hour < HORA_COMENTARIOS[1]:
+            self._comentarios_nuevos(ahora, items, hoy)
         if (ahora.hour, ahora.minute) >= HORA_NOCHE and self.hub.meta_leer(f"panel:push:noche:{hoy}") is None:
             self._resumen_noche(ahora, items, hoy)
         if self.hub.meta_leer(f"panel:push:noche:{ayer}") is not None:
@@ -920,6 +923,80 @@ class Panel:
         if bien:
             self._una_vez(f"noche:{hoy}")
             self.hub.meta_escribir(f"panel:noche:{manana.isoformat()}", texto)
+
+    # ------------------------------------------------------------------ comentarios nuevos (20-oct-2026)
+    def _comentarios_nuevos(self, ahora: datetime, items: list, hoy: str) -> None:
+        """Cada 30 minutos mira los comentarios de lo publicado en las últimas 72 h y manda a José los nuevos, con una respuesta propuesta y dos
+        botones (como mucho 6 al día; el resto espera a mañana). Responder en menos de una hora es lo que más mueve la conversación."""
+        ultima = self.hub.meta_leer("panel:cm:ultima")
+        try:
+            if ultima and self.r.ahora() - float(ultima) < 30 * 60:
+                return
+        except ValueError:
+            pass
+        self.hub.meta_escribir("panel:cm:ultima", str(self.r.ahora()))
+        cuenta = self.cuenta()
+        pub = getattr(cuenta[1], "publicador", None) if cuenta else None
+        if pub is None or not hasattr(pub, "comentarios_de"):
+            return
+        codigo, ad = cuenta
+        mio = pub.mi_usuario() if hasattr(pub, "mi_usuario") else ""
+        enviados_hoy = int(self.hub.meta_leer(f"panel:cm:dia:{hoy}") or 0)
+        for it in items:
+            if it.estado != "publicada" or not it.publicada or ahora - it.publicada > timedelta(hours=72):
+                continue
+            fila = ad.fila(it.id)
+            media = fila["ig_media_id"] if fila is not None else None
+            if not media:
+                continue
+            for c in pub.comentarios_de(str(media)):
+                if (mio and c["usuario"] == mio) or self.hub.meta_leer(f"panel:cm:v:{c['id']}"):
+                    continue
+                if enviados_hoy >= 6:
+                    return
+                n = int(self.hub.meta_leer("panel:cm:n") or 0) + 1
+                self.hub.meta_escribir("panel:cm:n", str(n))
+                resp = T.respuesta_sugerida(c["texto"], n)
+                self.hub.meta_escribir(f"panel:cm:{n}", json.dumps({"comentario": c["id"], "usuario": c["usuario"], "titulo": it.titulo,
+                                                                    "texto": c["texto"], "respuesta": resp}, ensure_ascii=False))
+                texto, botones = T.comentario_nuevo(n, c["usuario"], it.titulo, c["texto"], resp)
+                if self._enviar_admins(texto, botones):
+                    self.hub.meta_escribir(f"panel:cm:v:{c['id']}", str(n))
+                    enviados_hoy += 1
+                    self.hub.meta_escribir(f"panel:cm:dia:{hoy}", str(enviados_hoy))
+
+    def _datos_comentario(self, args) -> tuple[int, dict | None]:
+        n = int(args[0]) if args and args[0].isdigit() else 0
+        crudo = self.hub.meta_leer(f"panel:cm:{n}") if n else None
+        try:
+            return n, (json.loads(crudo) if crudo else None)
+        except ValueError:
+            return n, None
+
+    def _b_cr(self, cb_id, chat_id, msg_id, uid, args):
+        """«✅ Responder así»: el perfil contesta al comentario con la respuesta propuesta."""
+        n, d = self._datos_comentario(args)
+        if d is None:
+            return self._toast(cb_id, "Ese comentario ya no está.", True)
+        if d.get("hecho"):
+            return self._toast(cb_id, "Ya estaba contestado.")
+        codigo, ad = self.cuenta()
+        pub = getattr(ad, "publicador", None)
+        if pub is None or not hasattr(pub, "responder") or not pub.responder(d["comentario"], d["respuesta"]):
+            return self._toast(cb_id, "No he podido contestar. Hazlo a mano desde Instagram.", True)
+        d["hecho"] = True
+        self.hub.meta_escribir(f"panel:cm:{n}", json.dumps(d, ensure_ascii=False))
+        self._editar(chat_id, msg_id, T.comentario_respondido(d.get("usuario", ""), d["respuesta"]), None)
+        self._toast(cb_id, "Contestado")
+
+    def _b_ci(self, cb_id, chat_id, msg_id, uid, args):
+        """«Dejar»: el comentario queda como visto y no se vuelve a proponer."""
+        n, d = self._datos_comentario(args)
+        if d is not None:
+            d["hecho"] = True
+            self.hub.meta_escribir(f"panel:cm:{n}", json.dumps(d, ensure_ascii=False))
+            self._editar(chat_id, msg_id, f"Dejado: «{T.corto(d.get('texto', ''), 120)}»", None)
+        self._toast(cb_id, "Vale")
 
     def _b_nd(self, cb_id, chat_id, msg_id, uid, args):
         """«👍 Todo bien» del resumen de la noche: se queda el resumen sin botones y se dice que está visto."""

@@ -1058,6 +1058,40 @@ class Publicador:
             return None
         return str(datos.get("id") or "") or None
 
+    def mi_usuario(self) -> str:
+        """El @ de la cuenta (para no contestarse a uno mismo); se pide una vez. Vacío si no se puede saber."""
+        if not getattr(self, "_usuario", None):
+            try:
+                self._usuario = str(self.comprobar().get("username") or "")
+            except Exception:                                       # noqa: BLE001
+                return ""
+        return self._usuario
+
+    def comentarios_de(self, media_id: str) -> list[dict]:
+        """Los comentarios (de otras cuentas y propios) de una publicación: [{id, texto, usuario, fecha}]. Nunca lanza: sin red o sin permiso, []."""
+        if self.cfg.modo != "real" or not media_id or str(media_id).startswith("simulado"):
+            return []
+        try:
+            datos = self._llamar("GET", f"{media_id}/comments", params={"fields": "id,text,username,timestamp", "limit": 50}, reintentar=False)
+        except Exception:                                           # noqa: BLE001
+            return []
+        sal = []
+        for c in datos.get("data") or []:
+            if isinstance(c, dict) and c.get("id") and c.get("text"):
+                sal.append({"id": str(c["id"]), "texto": str(c["text"]), "usuario": str(c.get("username") or ""), "fecha": c.get("timestamp")})
+        return sal
+
+    def responder(self, comment_id: str, texto: str) -> str | None:
+        """Responde a un comentario ajeno desde el propio perfil. Devuelve el id de la respuesta o None si no salió (nunca lanza)."""
+        texto = (texto or "").strip()
+        if not texto or self.cfg.modo != "real" or not comment_id:
+            return None
+        try:
+            datos = self._llamar("POST", f"{comment_id}/replies", params={"message": texto[:2200]}, reintentar=False)
+        except Exception:                                           # noqa: BLE001
+            return None
+        return str(datos.get("id") or "") or None
+
     def _validar(self, formato, archivos, pie: str, alt):
         if formato not in FORMATOS:
             raise ErrorInstagram("formato", f"Formato {formato!r} no válido. Usa «unica», «carrusel» o «video».")
