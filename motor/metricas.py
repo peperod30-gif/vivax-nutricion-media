@@ -94,6 +94,10 @@ def foto_de_hoy(limite: int = 50) -> dict:
         s2, ins = c.get(f"{m['id']}/insights", metric=",".join(lista))
         if s2 != 200:                                       # si una métrica no existe para ese tipo, se piden las básicas
             s2, ins = c.get(f"{m['id']}/insights", metric="reach,saved,shares,total_interactions")
+        if m.get("media_product_type") == "REELS" and s2 == 200:      # la tasa de omisión (3 primeros segundos) va aparte: si no existe, no se pierde lo demás
+            s5, om = c.get(f"{m['id']}/insights", metric="reels_skip_rate")
+            if s5 == 200:
+                ins = {"data": (ins.get("data") or []) + (om.get("data") or [])}
         pubs.append({"id": m["id"], "fecha": m["timestamp"], "tipo": m.get("media_product_type") or m.get("media_type"),
                      "permalink": m["permalink"], "pie": (m.get("caption") or "").replace("\n", " ")[:80],
                      "me_gusta": m.get("like_count"), "comentarios": m.get("comments_count"),

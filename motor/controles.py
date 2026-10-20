@@ -106,6 +106,7 @@ RUTA_VITAMINAS = RAIZ / "datos" / "vitaminas_2026-10.json"                      
 RUTA_ETIQUETAS = RAIZ / "datos" / "etiquetas_2026-10.json"                      # ETI-...: cómo leer una etiqueta (Reglamento UE 1169/2011), frase a frase comprobada
 RUTA_CAPTACION = RAIZ / "datos" / "captacion_2026-10.json"      # lo que se cuenta a nutricionistas: mecánica de Instagram y límites de la publicidad sanitaria (15-oct-2026)
 RUTA_AZUCAR = RAIZ / "datos" / "azucar_2026-10.json"                            # AZU-...: guía de la OMS y estudios sobre el azúcar, verificados en Europe PMC
+RUTA_SUPERMERCADO = RAIZ / "datos" / "supermercado_2026-10.json"                # SUP-...: productos de supermercado (AESAN 2022 + etiqueta en Open Food Facts, 20-oct-2026)
 
 
 def hecho_de_voz(v: dict) -> dict:
@@ -135,7 +136,7 @@ def cargar_banco(cuenta: str) -> dict[str, dict]:
         hechos += json.loads(RUTA_NOVEDADES.read_text(encoding="utf-8-sig"))
     if RUTA_AMPLIACION.is_file():
         hechos += json.loads(RUTA_AMPLIACION.read_text(encoding="utf-8-sig"))
-    for ruta in (RUTA_COMPOSICION, RUTA_DEBATES, RUTA_VITAMINAS, RUTA_AZUCAR, RUTA_ETIQUETAS, RUTA_CAPTACION):   # composición de alimentos (USDA), debates con sus corrientes (11-oct-2026), vitaminas y azúcar (13-oct-2026)
+    for ruta in (RUTA_COMPOSICION, RUTA_DEBATES, RUTA_VITAMINAS, RUTA_AZUCAR, RUTA_ETIQUETAS, RUTA_CAPTACION, RUTA_SUPERMERCADO):   # composición de alimentos (USDA), debates con sus corrientes (11-oct-2026), vitaminas y azúcar (13-oct-2026), supermercado (20-oct-2026)
         if ruta.is_file():
             hechos += json.loads(ruta.read_text(encoding="utf-8-sig"))
     if RUTA_VOCES.is_file():

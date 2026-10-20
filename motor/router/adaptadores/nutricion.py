@@ -912,7 +912,19 @@ class AdaptadorNutricion:
                 self._encolar(c, aviso_publicada(r["titulo"], res.permalink, int(retraso.total_seconds() // 60)))
             else:
                 self._encolar(c, texto_publicada(r["id"], self.cuenta, r["titulo"], res.permalink, retraso))
+        self._comentar_inicial(pieza, res)
         return []
+
+    def _comentar_inicial(self, pieza: dict, res) -> None:
+        """Tras publicar, el propio perfil deja el primer comentario de la pieza (`comentario`: las fuentes) si lo trae. Nunca da error."""
+        texto = pieza.get("comentario") if isinstance(pieza, dict) else None
+        comentar = getattr(self.publicador, "comentar", None)
+        if not texto or comentar is None:
+            return
+        try:
+            comentar(res.media_id, texto)
+        except Exception:                                           # noqa: BLE001 (la pieza ya salió: el comentario no puede romper nada)
+            pass
 
     def _fallo(self, r: sqlite3.Row, exc, ahora: datetime) -> list[str]:
         n = r["intentos"] + 1

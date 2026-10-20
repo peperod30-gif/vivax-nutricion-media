@@ -41,8 +41,10 @@ def _texto(foto: dict, previa: dict | None) -> str:
         ms = x["insights"].get("ig_reels_avg_watch_time")
         if ms:
             vistas.append(ms / 1000)
+    saltos = [x["insights"]["reels_skip_rate"] for x in reels if x["insights"].get("reels_skip_rate") is not None]
     if reels:
-        L.append(f"Reels ({len(reels)}): llegan a {_cuentas(media(reels, 'reach'))} de media" + (f" y se ven {sum(vistas) / len(vistas):.1f} s" if vistas else "") + ".")
+        L.append(f"Reels ({len(reels)}): llegan a {_cuentas(media(reels, 'reach'))} de media" + (f", se ven {sum(vistas) / len(vistas):.1f} s" if vistas else "")
+                 + (f" y el {sum(saltos) / len(saltos):.0f} % se va en los 3 primeros segundos" if saltos else "") + ".")
     if carr:
         L.append(f"Carruseles ({len(carr)}): llegan a {_cuentas(media(carr, 'reach'))} de media.")
     L.append(f"Interacción: {sum((x.get('comentarios') or 0) for x in recientes)} comentarios, {sum(val(x, 'saved') for x in recientes)} guardados, "

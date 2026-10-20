@@ -1,0 +1,578 @@
+[
+ {
+  "id": "SUP-001",
+  "tema": "supermercado: cereales de desayuno infantiles (azúcares totales), ranking",
+  "enunciado": "De los 15 cereales de desayuno infantiles más vendidos en 2022 según la AESAN (datos de Kantar), entre los 12 cuya etiqueta actual se pudo comprobar, el que más azúcares totales declara en su etiqueta es Chocolate y avellana Hacendado, con 39 g por cada 100 g, y el que menos, Choco Krispies, con 17 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 g: Chocolate y avellana Hacendado, 39 g; Frosties, 37 g; Rellenos chocolate negro Hacendado, 36 g; Minis leche Hacendado, 35 g; Kellogg's Smacks With Sugar, 34 g; Coco Krispies Kllgg'S Chocos Choco Krispies, 27 g; Peanuts balls Hacendado, 27 g; Oreo O'S Oreo'S, 27 g; Chocodays Hacendado, 25 g; Cereales rellenos de crema de cacao y avellana sin gluten Hacendado, 24,4 g; Choco rice Hacendado, 24 g; Choco Krispies, 17 g. Misma subcategoría de la AESAN («Cereales niños») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. Quedan fuera por no poder comprobar hoy su etiqueta: Cereales rellenos de leche Hacendado; Cereales de chocolate y avellana Hacendado; Choco Curlz Carrefour. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8480000095084, Chocodays Hacendado (AESAN: «HACENDADO CHOCODAYS COPO TRIGO CHOCOLATE Y FIBRA», puesto 3 por cuota): azúcares totales OFF 25 g (ficha editada el 2026-03-27), AESAN 2022 23 g (diferencia +8,7 %); EAN 8480000093332, Minis leche Hacendado (AESAN: «HACENDADO CEREALES RELLENOS LECHE», puesto 4 por cuota): azúcares totales OFF 35 g (ficha editada el 2026-10-05), AESAN 2022 33 g (diferencia +6,1 %); EAN 5053827207621, Choco Krispies (AESAN: «CHOCO KRISPIES PEPITA ARROZ CHOCOLATE», puesto 5 por cuota): azúcares totales OFF 17 g (ficha editada el 2026-03-09), AESAN 2022 17 g (igual); EAN 8480000095923, Choco rice Hacendado (AESAN: «HACENDADO PEPITA ARROZ INFLADO CHOCOLATE», puesto 6 por cuota): azúcares totales OFF 24 g (ficha editada el 2026-03-27), AESAN 2022 24 g (igual); EAN 8480000093516, Rellenos chocolate negro Hacendado (AESAN: «HACENDADO ALMOHADILLA TRIGO CHOCOLATE NEGRO», puesto 7 por cuota): azúcares totales OFF 36 g (ficha editada el 2026-03-27), AESAN 2022 36 g (igual); EAN 5053827185615, Frosties (AESAN: «FROSTIES COPO MAIZ AZUCARADO», puesto 8 por cuota): azúcares totales OFF 37 g (ficha editada el 2026-06-09), AESAN 2022 37 g (igual); EAN 5050083560262, Kellogg's Smacks With Sugar (AESAN: «SMACKS GRANO DE CAFE TRIGO INFLADO MIEL», puesto 9 por cuota): azúcares totales OFF 34 g (ficha editada el 2026-03-09), AESAN 2022 34 g (igual); EAN 5053827201124, Coco Krispies Kllgg'S Chocos Choco Krispies (AESAN: «KLLGG'S CHOCOS CHOCO KRISPIES CONCHA TRIGO CHOCOLATE», puesto 10 por cuota): azúcares totales OFF 27 g (ficha editada el 2026-03-27), AESAN 2022 27 g (igual); EAN 8480000095473, Cereales rellenos de crema de cacao y avellana sin gluten Hacendado (AESAN: «HACENDADO ALMOHADILLA MAIZ Y ARROZ CREMA DE CACA Y AVLN», puesto 12 por cuota): azúcares totales OFF 24,4 g (ficha editada el 2026-09-30), AESAN 2022 24,4 g (igual); EAN 8480000608758, Peanuts balls Hacendado (AESAN: «HACENDADO BOLA MAIZ CACAHUETE», puesto 13 por cuota): azúcares totales OFF 27 g (ficha editada el 2026-03-28), AESAN 2022 27 g (igual); EAN 8480000707161, Chocolate y avellana Hacendado (AESAN: «HACENDADO ALMOHADILLA ARROZ AVENA TRIGO INTEGRL CHOCOLATE Y AVELLANA», puesto 14 por cuota): azúcares totales OFF 39 g (ficha editada el 2026-08-16), AESAN 2022 39 g (igual); EAN 5010029227062, Oreo O'S Oreo'S (AESAN: «OREO'S ARO ARROZ Y TRIGO CACAO Y VAINILLA», puesto 15 por cuota): azúcares totales OFF 27 g (ficha editada el 2026-03-09), AESAN 2022 27 g (igual)"
+  },
+  "eans": [
+   "8480000095084",
+   "8480000093332",
+   "5053827207621",
+   "8480000095923",
+   "8480000093516",
+   "5053827185615",
+   "5050083560262",
+   "5053827201124",
+   "8480000095473",
+   "8480000608758",
+   "8480000707161",
+   "5010029227062"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: los que más y los que menos de cereales de desayuno infantiles",
+   "unidad": "por 100 g",
+   "filas": [
+    {
+     "nombre": "Chocolate y avellana Hacendado",
+     "valor": "39 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Frosties",
+     "valor": "37 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Rellenos chocolate negro Hacendado",
+     "valor": "36 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Minis leche Hacendado",
+     "valor": "35 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Cereales rellenos de crema de cacao y avellana sin gluten Hacendado",
+     "valor": "24,4 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Choco rice Hacendado",
+     "valor": "24 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Choco Krispies",
+     "valor": "17 g",
+     "icono": "🥣"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-002",
+  "tema": "supermercado: cereales de desayuno para adultos (azúcares totales), ranking",
+  "enunciado": "De los 12 cereales de desayuno para adultos más vendidos en 2022 según la AESAN (datos de Kantar), entre los 10 cuya etiqueta actual se pudo comprobar, el que más azúcares totales declara en su etiqueta es Muesli Crunchy Chocolate Hacendado, con 24 g por cada 100 g, y el que menos, Copos de trigo espelta integral 0% Hacendado, con 1,9 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 g: Muesli Crunchy Chocolate Hacendado, 24 g; Muesli crunchy frutos secos Hacendado, 22 g; Cereales chocolate Linnea V Hacendado, 20 g; All-bran choco Kellogg's, 19 g; Muesli con quinoa, chía y chocolate negro Hacendado, 18 g; Muesli Frutas Hacendado, 15 g; Cereales Classic Hacendado, 15 g; Avena crunchy Hacendado, 4,6 g; Muesli Crunchy Hacendado, 2,3 g; Copos de trigo espelta integral 0% Hacendado, 1,9 g. Misma subcategoría de la AESAN («Cereales adultos») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. Quedan fuera por no poder comprobar hoy su etiqueta: Copos de trigo integral y arroz 0% azúcares añadidos Hacendado; Dark Chocolate Special K Chocolate. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8480000156112, Avena crunchy Hacendado (AESAN: «HACENDADO ARO AVENA INTEGRAL NATURAL», puesto 1 por cuota): azúcares totales OFF 4,6 g (ficha editada el 2026-09-29), AESAN 2022 4,6 g (igual); EAN 8480000093554, Muesli Crunchy Chocolate Hacendado (AESAN: «HACENDADO PETALO Y PEPITA CRUESLI CHOCOLATE Y FIBRA», puesto 2 por cuota): azúcares totales OFF 24 g (ficha editada el 2026-09-22), AESAN 2022 24 g (igual); EAN 8480000095718, Copos de trigo espelta integral 0% Hacendado (AESAN: «HACENDADO COPO TRIGO ESPELTA INTEGRAL NATURAL», puesto 3 por cuota): azúcares totales OFF 1,9 g (ficha editada el 2026-09-29), AESAN 2022 1,9 g (igual); EAN 8480000156099, Cereales chocolate Linnea V Hacendado (AESAN: «HACENDADO LINNEA V COPO ARROZ Y TRIGO INTGRL CHOCOLATE», puesto 4 por cuota): azúcares totales OFF 20 g (ficha editada el 2026-03-28), AESAN 2022 20 g (igual); EAN 8480000095367, Muesli con quinoa, chía y chocolate negro Hacendado (AESAN: «HACENDADO COPO Y PETALO MUESLI QUINOA CHIA CHOCOLATE NEGRO», puesto 6 por cuota): azúcares totales OFF 18 g (ficha editada el 2026-09-22), AESAN 2022 18 g (igual); EAN 8480000094919, Muesli Frutas Hacendado (AESAN: «HACENDADO COPO Y PETALO MUESLI FRUTA», puesto 8 por cuota): azúcares totales OFF 15 g (ficha editada el 2026-09-22), AESAN 2022 15 g (igual); EAN 8480000094513, Muesli Crunchy Hacendado (AESAN: «HACENDADO PETALO Y PEPITA CRUESLI NATURAL», puesto 9 por cuota): azúcares totales OFF 2,3 g (ficha editada el 2026-03-27), AESAN 2022 2,3 g (igual); EAN 5053827139335, All-bran choco Kellogg's (AESAN: «KELLOGG'S ALL BRAN ALMOHADILLA SALVADO DE TRIGO CHOCOLATE Y FIBRA», puesto 10 por cuota): azúcares totales OFF 19 g (ficha editada el 2026-09-28), AESAN 2022 19 g (igual); EAN 8480000156082, Cereales Classic Hacendado (AESAN: «HACENDADO LINNEA V CLASSIC COPO ARRZ TRG INTGRL CBD INTGR NATURAL», puesto 11 por cuota): azúcares totales OFF 15 g (ficha editada el 2026-03-28), AESAN 2022 15 g (igual); EAN 8480000093578, Muesli crunchy frutos secos Hacendado (AESAN: «HACENDADO PETALO Y PEPITA CRUESLI FRUTO SECO Y FIBRA», puesto 12 por cuota): azúcares totales OFF 22 g (ficha editada el 2026-09-22), AESAN 2022 22 g (igual)"
+  },
+  "eans": [
+   "8480000156112",
+   "8480000093554",
+   "8480000095718",
+   "8480000156099",
+   "8480000095367",
+   "8480000094919",
+   "8480000094513",
+   "5053827139335",
+   "8480000156082",
+   "8480000093578"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: los que más y los que menos de cereales de desayuno para adultos",
+   "unidad": "por 100 g",
+   "filas": [
+    {
+     "nombre": "Muesli Crunchy Chocolate Hacendado",
+     "valor": "24 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Muesli crunchy frutos secos Hacendado",
+     "valor": "22 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Cereales chocolate Linnea V Hacendado",
+     "valor": "20 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "All-bran choco Kellogg's",
+     "valor": "19 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Avena crunchy Hacendado",
+     "valor": "4,6 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Muesli Crunchy Hacendado",
+     "valor": "2,3 g",
+     "icono": "🥣"
+    },
+    {
+     "nombre": "Copos de trigo espelta integral 0% Hacendado",
+     "valor": "1,9 g",
+     "icono": "🥣"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-003",
+  "tema": "supermercado: yogures (azúcares totales), ranking",
+  "enunciado": "De los 15 yogures más vendidos en 2022 según la AESAN (datos de Kantar), entre los 13 cuya etiqueta actual se pudo comprobar, el que más azúcares totales declara en su etiqueta es Yogur al estilo griego Stracciatella Hacendado, con 15 g por cada 100 g, y el que menos, Yogur natural al estilo griego Hacendado, con 3,9 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 g: Yogur al estilo griego Stracciatella Hacendado, 15 g; Yogur líquido fresa Hacendado, 12,5 g; Griego limón Hacendado, 12,4 g; Yogur natural con azucar de caña Hacendado, 11,6 g; Sabores Hacendado, 11,4 g; Yogur al estilo griego natural azucarado Hacendado, 11,1 g; L Casei fresa plátano y piña coco Hacendado, 10,1 g; Com fruta Hacendado, 5,3 g; Activia 0% natural Danone, 5 g; Yogur natural edulcorado 0% Hacendado, 4,9 g; Yogur natural Danone, 4,3 g; Yogur natural Hacendado, 4,1 g; Yogur natural al estilo griego Hacendado, 3,9 g. Misma subcategoría de la AESAN («Yogures (con sabores, líquido, con frutas, azucarados, naturales, griego)») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. En los lácteos, parte de esos azúcares es lactosa de la leche. Quedan fuera por no poder comprobar hoy su etiqueta: Yogur natural con azúcar moreno de caña Milbona; Activia por ocho natural edulcorado Danone. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8480000205841, Yogur natural con azucar de caña Hacendado (AESAN: «HACENDADO YOGUR NATURAL NATURAL», puesto 1 por cuota): azúcares totales OFF 11,6 g (ficha editada el 2026-09-29), AESAN 2022 11,6 g (igual); EAN 8480000205599, Yogur natural al estilo griego Hacendado (AESAN: «HACENDADO YOGUR ETNICO NATURAL», puesto 2 por cuota): azúcares totales OFF 3,9 g (ficha editada el 2026-09-29), AESAN 2022 3,9 g (igual); EAN 8480000223135, Yogur natural Hacendado (AESAN: «HACENDADO YOGUR NATURAL NATURAL», puesto 3 por cuota): azúcares totales OFF 4,1 g (ficha editada el 2026-09-29), AESAN 2022 4,1 g (igual); EAN 8480000205711, Yogur al estilo griego Stracciatella Hacendado (AESAN: «HACENDADO YOGUR ETNICO STRACCIATELLA», puesto 4 por cuota): azúcares totales OFF 15 g (ficha editada el 2026-09-30), AESAN 2022 15 g (igual); EAN 8480000200013, Sabores Hacendado (AESAN: «HACENDADO YOGUR SABORES SURTIDO», puesto 5 por cuota): azúcares totales OFF 11,4 g (ficha editada el 2026-03-12), AESAN 2022 11,4 g (igual); EAN 8480000204301, Yogur líquido fresa Hacendado (AESAN: «HACENDADO YOGUR LIQUIDO SABORES REGULAR FRESA», puesto 7 por cuota): azúcares totales OFF 12,5 g (ficha editada el 2026-03-12), AESAN 2022 12,2 g (diferencia +2,5 %); EAN 8410500001360, Yogur natural Danone (AESAN: «DANONE YOGUR NATURAL NATURAL», puesto 8 por cuota): azúcares totales OFF 4,3 g (ficha editada el 2026-10-09), AESAN 2022 4,3 g (igual); EAN 8480000205582, Yogur al estilo griego natural azucarado Hacendado (AESAN: «HACENDADO YOGUR ETNICO NATURAL», puesto 9 por cuota): azúcares totales OFF 11,1 g (ficha editada el 2026-03-12), AESAN 2022 11,1 g (igual); EAN 8410500008871, Activia 0% natural Danone (AESAN: «DANONE ACTIVIA YOGUR NATURAL NATURAL», puesto 10 por cuota): azúcares totales OFF 5 g (ficha editada el 2026-10-18), AESAN 2022 5 g (igual); EAN 8480000224880, Yogur natural edulcorado 0% Hacendado (AESAN: «HACENDADO LINNEA V YOGUR NATURAL NATURAL», puesto 11 por cuota): azúcares totales OFF 4,9 g (ficha editada el 2026-09-30), AESAN 2022 4,9 g (igual); EAN 8480000227027, Com fruta Hacendado (AESAN: «HACENDADO LINNEA V YOGUR CON FRUTAS SURTIDO», puesto 13 por cuota): azúcares totales OFF 5,3 g (ficha editada el 2026-03-12), AESAN 2022 5,3 g (igual); EAN 8480000206404, L Casei fresa plátano y piña coco Hacendado (AESAN: «HACENDADO YOGUR LIQUIDO SABORES REGULAR PIÑA COCO/FRESA PLATANO», puesto 14 por cuota): azúcares totales OFF 10,1 g (ficha editada el 2026-09-30), AESAN 2022 10,1 g (igual); EAN 8480000226518, Griego limón Hacendado (AESAN: «HACENDADO YOGUR ETNICO LIMON», puesto 15 por cuota): azúcares totales OFF 12,4 g (ficha editada el 2026-09-30), AESAN 2022 12,4 g (igual)"
+  },
+  "eans": [
+   "8480000205841",
+   "8480000205599",
+   "8480000223135",
+   "8480000205711",
+   "8480000200013",
+   "8480000204301",
+   "8410500001360",
+   "8480000205582",
+   "8410500008871",
+   "8480000224880",
+   "8480000227027",
+   "8480000206404",
+   "8480000226518"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: los que más y los que menos de yogures",
+   "unidad": "por 100 g",
+   "filas": [
+    {
+     "nombre": "Yogur al estilo griego Stracciatella Hacendado",
+     "valor": "15 g",
+     "icono": "🥛"
+    },
+    {
+     "nombre": "Yogur líquido fresa Hacendado",
+     "valor": "12,5 g",
+     "icono": "🥛"
+    },
+    {
+     "nombre": "Griego limón Hacendado",
+     "valor": "12,4 g",
+     "icono": "🥛"
+    },
+    {
+     "nombre": "Yogur natural con azucar de caña Hacendado",
+     "valor": "11,6 g",
+     "icono": "🥛"
+    },
+    {
+     "nombre": "Yogur natural Danone",
+     "valor": "4,3 g",
+     "icono": "🥛"
+    },
+    {
+     "nombre": "Yogur natural Hacendado",
+     "valor": "4,1 g",
+     "icono": "🥛"
+    },
+    {
+     "nombre": "Yogur natural al estilo griego Hacendado",
+     "valor": "3,9 g",
+     "icono": "🥛"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-004",
+  "tema": "supermercado: petit suisse (queso fresco tipo petit) (azúcares totales), ranking",
+  "enunciado": "De los 6 petit suisse (queso fresco tipo petit) más vendidos en 2022 según la AESAN (datos de Kantar), el que más azúcares totales declara en su etiqueta es Petit chocolate con leche Hacendado, con 21 g por cada 100 g, y el que menos, Danonino fresa Danone, con 9,9 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 g: Petit chocolate con leche Hacendado, 21 g; Petit Nesquik Petit, 17,8 g; Petit fresa plátano Hacendado, 11 g; Petit de bolsillo fresa Hacendado, 11 g; Petit Milbona, 11 g; Danonino fresa Danone, 9,9 g. Misma subcategoría de la AESAN («Queso fresco tipo petit») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. En los lácteos, parte de esos azúcares es lactosa de la leche. Cuentan una vez los formatos repetidos del mismo producto (EAN 8410500015794). Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8410500015787, Danonino fresa Danone (AESAN: «DANONE DANONINO PAW PATROL QUESO FRESCO SUISSE FRESA», puesto 1 por cuota): azúcares totales OFF 9,9 g (ficha editada el 2026-10-14), AESAN 2022 10 g (diferencia -1,0 %); EAN 8480000205360, Petit fresa plátano Hacendado (AESAN: «HACENDADO PETIT QUESO FRESCO SUISSE FRESA Y PLATAN O FRS», puesto 3 por cuota): azúcares totales OFF 11 g (ficha editada el 2026-09-30), AESAN 2022 11 g (igual); EAN 8410100059839, Petit Nesquik Petit (AESAN: «NESQUIK PETIT QUESO FRESCO SUISSE CHOCOLATE», puesto 4 por cuota): azúcares totales OFF 17,8 g (ficha editada el 2026-10-15), AESAN 2022 19 g (diferencia -6,3 %); EAN 8480000680891, Petit de bolsillo fresa Hacendado (AESAN: «HACENDADO PETIT DE BOLSILLO QUESO FRESCO SUISSE LIQUIDO FRESA», puesto 5 por cuota): azúcares totales OFF 11 g (ficha editada el 2026-04-21), AESAN 2022 11 g (igual); EAN 4056489023753, Petit Milbona (AESAN: «MILBONA QUESO FRESCO SUISSE FRESA PLATANO», puesto 6 por cuota): azúcares totales OFF 11 g (ficha editada el 2026-03-12), AESAN 2022 10 g (diferencia +10,0 %); EAN 8480000683069, Petit chocolate con leche Hacendado (AESAN: «HACENDADO QUESO FRESCO SUISSE CHOCOLATE», puesto 7 por cuota): azúcares totales OFF 21 g (ficha editada el 2026-03-27), AESAN 2022 21 g (igual)"
+  },
+  "eans": [
+   "8410500015787",
+   "8480000205360",
+   "8410100059839",
+   "8480000680891",
+   "4056489023753",
+   "8480000683069"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: petit suisse (queso fresco tipo petit)",
+   "unidad": "por 100 g",
+   "filas": [
+    {
+     "nombre": "Petit chocolate con leche Hacendado",
+     "valor": "21 g",
+     "icono": "🍓"
+    },
+    {
+     "nombre": "Petit Nesquik Petit",
+     "valor": "17,8 g",
+     "icono": "🍓"
+    },
+    {
+     "nombre": "Petit fresa plátano Hacendado",
+     "valor": "11 g",
+     "icono": "🍓"
+    },
+    {
+     "nombre": "Petit de bolsillo fresa Hacendado",
+     "valor": "11 g",
+     "icono": "🍓"
+    },
+    {
+     "nombre": "Petit Milbona",
+     "valor": "11 g",
+     "icono": "🍓"
+    },
+    {
+     "nombre": "Danonino fresa Danone",
+     "valor": "9,9 g",
+     "icono": "🍓"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-005",
+  "tema": "supermercado: batidos (azúcares totales), ranking",
+  "enunciado": "De los 11 batidos más vendidos en 2022 según la AESAN (datos de Kantar), entre los 9 cuya etiqueta actual se pudo comprobar, el que más azúcares totales declara en su etiqueta es Cacaolat original + 50%, con 12,7 g por cada 100 ml, y el que menos, Batido de chocolate 90% leche Puleva y 4579 BATIDO CHOCOLATE PULEVA PET 1L (empatados), con 9,5 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 ml: Cacaolat original + 50%, 12,7 g; Batido sabor chocolate Hacendado, 11 g; Milka shake sur, 11 g; Batido cacao Carrefour, 10,5 g; Batido chocolate 90% leche Hacendado, 10 g; Batido vainilla Hacendado, 10 g; Batido de chocolate UTH Milbona, 10 g; Batido de chocolate 90% leche Puleva, 9,5 g; 4579 BATIDO CHOCOLATE PULEVA PET 1L, 9,5 g. Misma subcategoría de la AESAN («Batidos») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. En los lácteos, parte de esos azúcares es lactosa de la leche. Quedan fuera por no poder comprobar hoy su etiqueta: Cacaolat Original; Cola Cao Energy Batido Cacao. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8402001000850, Batido sabor chocolate Hacendado (AESAN: «HACENDADO BATIDO CHOCOLATE», puesto 1 por cuota): azúcares totales OFF 11 g (ficha editada el 2026-09-30), AESAN 2022 11 g (igual); EAN 8402001000843, Batido chocolate 90% leche Hacendado (AESAN: «HACENDADO BATIDO CHOCOLATE Y LECHE», puesto 2 por cuota): azúcares totales OFF 10 g (ficha editada el 2026-09-30), AESAN 2022 10 g (igual); EAN 8411700005837, Batido de chocolate 90% leche Puleva (AESAN: «PULEVA BATIDO CHOCOLATE Y LECHE», puesto 3 por cuota): azúcares totales OFF 9,5 g (ficha editada el 2026-10-08), AESAN 2022 10 g (diferencia -5,0 %); EAN 8480000230522, Batido vainilla Hacendado (AESAN: «HACENDADO BATIDO VAINILLA», puesto 5 por cuota): azúcares totales OFF 10 g (ficha editada el 2026-03-28), AESAN 2022 10 g (igual); EAN 20527488, Batido de chocolate UTH Milbona (AESAN: «MILBONA BATIDO CACAO», puesto 6 por cuota): azúcares totales OFF 10 g (ficha editada el 2026-09-29), AESAN 2022 10 g (igual); EAN 8431876244861, Batido cacao Carrefour (AESAN: «CARREFOUR BATIDO CACAO», puesto 8 por cuota): azúcares totales OFF 10,5 g (ficha editada el 2026-03-07), AESAN 2022 10,5 g (igual); EAN 8412700620624, Cacaolat original + 50% (AESAN: «CACAOLAT ORIGINAL BATIDO CACAO», puesto 9 por cuota): azúcares totales OFF 12,7 g (ficha editada el 2026-03-27), AESAN 2022 13,4 g (diferencia -5,2 %); EAN 8411700002386, 4579 BATIDO CHOCOLATE PULEVA PET 1L (AESAN: «PULEVA BATIDO CHOCOLATE Y LECHE», puesto 10 por cuota): azúcares totales OFF 9,5 g (ficha editada el 2026-09-21), AESAN 2022 9,1 g (diferencia +4,4 %); EAN 8410128670672, Milka shake sur (AESAN: «MILKA SHAKE BATIDO CHOCOLATE Y LECHE», puesto 11 por cuota): azúcares totales OFF 11 g (ficha editada el 2026-03-21), AESAN 2022 11 g (igual)"
+  },
+  "eans": [
+   "8402001000850",
+   "8402001000843",
+   "8411700005837",
+   "8480000230522",
+   "20527488",
+   "8431876244861",
+   "8412700620624",
+   "8411700002386",
+   "8410128670672"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: los que más y los que menos de batidos",
+   "unidad": "por 100 ml",
+   "filas": [
+    {
+     "nombre": "Cacaolat original + 50%",
+     "valor": "12,7 g",
+     "icono": "🥤"
+    },
+    {
+     "nombre": "Batido sabor chocolate Hacendado",
+     "valor": "11 g",
+     "icono": "🥤"
+    },
+    {
+     "nombre": "Milka shake sur",
+     "valor": "11 g",
+     "icono": "🥤"
+    },
+    {
+     "nombre": "Batido cacao Carrefour",
+     "valor": "10,5 g",
+     "icono": "🥤"
+    },
+    {
+     "nombre": "Batido de chocolate UTH Milbona",
+     "valor": "10 g",
+     "icono": "🥤"
+    },
+    {
+     "nombre": "Batido de chocolate 90% leche Puleva",
+     "valor": "9,5 g",
+     "icono": "🥤"
+    },
+    {
+     "nombre": "4579 BATIDO CHOCOLATE PULEVA PET 1L",
+     "valor": "9,5 g",
+     "icono": "🥤"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-006",
+  "tema": "supermercado: bebidas vegetales (azúcares totales), ranking",
+  "enunciado": "De los 12 bebidas vegetales más vendidos en 2022 según la AESAN (datos de Kantar), entre los 9 cuya etiqueta actual se pudo comprobar, el que más azúcares totales declara en su etiqueta es Bebida de avena Milbona, con 5,8 g por cada 100 ml, y el que menos, Bebida vegetal de soja 0% azúcares Hacendado y Bebida de almendra 0% azúcares Hacendado (empatados), con 0 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 ml: Bebida de avena Milbona, 5,8 g; Bebida de Avena Alitey, 5,4 g; Bebida de Avena Yosoy, 5,4 g; Bebida de avellanas y arroz Hacendado, 3,8 g; Bebida de Almendras Enriquecida con Calcio Hacendado, 3,5 g; Bebida de soja con calcio Hacendado, 2,8 g; Bebida de chufa Hacendado, 1,6 g; Bebida vegetal de soja 0% azúcares Hacendado, 0 g; Bebida de almendra 0% azúcares Hacendado, 0 g. Misma subcategoría de la AESAN («Bebidas vegetales») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. Quedan fuera por no poder comprobar hoy su etiqueta: Bebida de avena calcio Vemondo; BEBIDA DE SOJA CALCIO Vemondo; Bebida de Soja Hacendado. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8423352861402, Bebida de Avena Alitey (AESAN: «ALITEY BEBIDA DE AVENA», puesto 1 por cuota): azúcares totales OFF 5,4 g (ficha editada el 2026-09-29), AESAN 2022 5,4 g (igual); EAN 8480000293145, Bebida vegetal de soja 0% azúcares Hacendado (AESAN: «HACENDADO BEBIDA SOJA», puesto 3 por cuota): azúcares totales OFF 0 g (ficha editada el 2026-09-29), AESAN 2022 0 g (igual); EAN 8480000239266, Bebida de almendra 0% azúcares Hacendado (AESAN: «HACENDADO ZERO BEBIDA DE ALMENDRA», puesto 4 por cuota): azúcares totales OFF 0 g (ficha editada el 2026-09-22), AESAN 2022 0 g (igual); EAN 8480000293138, Bebida de soja con calcio Hacendado (AESAN: «HACENDADO BEBIDA SOJA», puesto 5 por cuota): azúcares totales OFF 2,8 g (ficha editada el 2026-03-27), AESAN 2022 2,6 g (diferencia +7,7 %); EAN 8423352100143, Bebida de Avena Yosoy (AESAN: «YOSOY BEBIDA DE AVENA SIN LACTOSA», puesto 6 por cuota): azúcares totales OFF 5,4 g (ficha editada el 2026-10-07), AESAN 2022 5,4 g (igual); EAN 8480000138484, Bebida de avellanas y arroz Hacendado (AESAN: «HACENDADO BEBIDA ARROZ Y AVELLANA», puesto 8 por cuota): azúcares totales OFF 3,8 g (ficha editada el 2026-09-29), AESAN 2022 3,8 g (igual); EAN 20879082, Bebida de avena Milbona (AESAN: «MILBONA BEBIDA DE AVENA SIN LACTOSA», puesto 9 por cuota): azúcares totales OFF 5,8 g (ficha editada el 2026-09-28), AESAN 2022 6,3 g (diferencia -7,9 %); EAN 8480000237545, Bebida de chufa Hacendado (AESAN: «HACENDADO HORCHATA», puesto 10 por cuota): azúcares totales OFF 1,6 g (ficha editada el 2026-03-28), AESAN 2022 1,6 g (igual); EAN 8480000156488, Bebida de Almendras Enriquecida con Calcio Hacendado (AESAN: «HACENDADO BEBIDA DE ALMENDRA», puesto 12 por cuota): azúcares totales OFF 3,5 g (ficha editada el 2026-09-22), AESAN 2022 3,5 g (igual)"
+  },
+  "eans": [
+   "8423352861402",
+   "8480000293145",
+   "8480000239266",
+   "8480000293138",
+   "8423352100143",
+   "8480000138484",
+   "20879082",
+   "8480000237545",
+   "8480000156488"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: los que más y los que menos de bebidas vegetales",
+   "unidad": "por 100 ml",
+   "filas": [
+    {
+     "nombre": "Bebida de avena Milbona",
+     "valor": "5,8 g",
+     "icono": "🌾"
+    },
+    {
+     "nombre": "Bebida de Avena Alitey",
+     "valor": "5,4 g",
+     "icono": "🌾"
+    },
+    {
+     "nombre": "Bebida de Avena Yosoy",
+     "valor": "5,4 g",
+     "icono": "🌾"
+    },
+    {
+     "nombre": "Bebida de avellanas y arroz Hacendado",
+     "valor": "3,8 g",
+     "icono": "🌾"
+    },
+    {
+     "nombre": "Bebida de chufa Hacendado",
+     "valor": "1,6 g",
+     "icono": "🌾"
+    },
+    {
+     "nombre": "Bebida vegetal de soja 0% azúcares Hacendado",
+     "valor": "0 g",
+     "icono": "🌾"
+    },
+    {
+     "nombre": "Bebida de almendra 0% azúcares Hacendado",
+     "valor": "0 g",
+     "icono": "🌾"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-007",
+  "tema": "supermercado: galletas (azúcares totales), ranking",
+  "enunciado": "De los 7 galletas más vendidos en 2022 según la AESAN (datos de Kantar), el que más azúcares totales declara en su etiqueta es Mini Oreo Oreo Mini, con 37 g por cada 100 g, y el que menos, María dorada Hacendado y Dinosaurus Artiach Dinosaurios (empatados), con 20 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 g: Mini Oreo Oreo Mini, 37 g; Rebuenas, galletas rellenas de chocolate Hacendado, 33,46 g; Cookies 40% pepitas chocolate Hacendado, 33,07 g; Galletas mini caritas con crema de cacao Hacendado, 28,16 g; Choco Flakes Cuetara Choco Flakes, 27 g; María dorada Hacendado, 20 g; Dinosaurus Artiach Dinosaurios, 20 g. Misma subcategoría de la AESAN («Galletas dulces (barquillos, surtido, rellenas, tipo bizcocho, etc)») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8480000141323, María dorada Hacendado (AESAN: «HACENDADO GALLETA MARIA ACEITE», puesto 1 por cuota): azúcares totales OFF 20 g (ficha editada el 2026-09-29), AESAN 2022 20 g (igual); EAN 8480000141576, Rebuenas, galletas rellenas de chocolate Hacendado (AESAN: «HACENDADO REBUENAS SANDWICH CHOCOLATE», puesto 2 por cuota): azúcares totales OFF 33,4615 g (ficha editada el 2026-09-29), AESAN 2022 32 g (diferencia +4,6 %); EAN 8480000142122, Cookies 40% pepitas chocolate Hacendado (AESAN: «HACENDADO ESPECIALIDADES COOKIE PEPITA CHCL NGR Y C/LCHE NO BANADO», puesto 3 por cuota): azúcares totales OFF 33,0667 g (ficha editada el 2026-09-30), AESAN 2022 33 g (diferencia +0,2 %); EAN 8410180225087, Dinosaurus Artiach Dinosaurios (AESAN: «ARTIACH DINOSAURIOS GALLETA RELIEVE CEREAL», puesto 4 por cuota): azúcares totales OFF 20 g (ficha editada el 2026-09-30), AESAN 2022 20 g (igual); EAN 8434165482845, Choco Flakes Cuetara Choco Flakes (AESAN: «CUETARA CHOCO FLAKES ESPECIALIDADES GALLETA Y CEREAL ARROZ CHOCLTD Y PPT CHOCO NO BANADO», puesto 5 por cuota): azúcares totales OFF 27 g (ficha editada el 2026-03-09), AESAN 2022 26 g (diferencia +3,8 %); EAN 7622300165628, Mini Oreo Oreo Mini (AESAN: «OREO MINI MINI SANDWICH VAINILLA», puesto 6 por cuota): azúcares totales OFF 37 g (ficha editada el 2026-09-29), AESAN 2022 37 g (igual); EAN 8480000140852, Galletas mini caritas con crema de cacao Hacendado (AESAN: «HACENDADO SANDWICH CHOCOLATE», puesto 7 por cuota): azúcares totales OFF 28,1553 g (ficha editada el 2026-10-16), AESAN 2022 28 g (diferencia +0,6 %)"
+  },
+  "eans": [
+   "8480000141323",
+   "8480000141576",
+   "8480000142122",
+   "8410180225087",
+   "8434165482845",
+   "7622300165628",
+   "8480000140852"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: galletas",
+   "unidad": "por 100 g",
+   "filas": [
+    {
+     "nombre": "Mini Oreo Oreo Mini",
+     "valor": "37 g",
+     "icono": "🍪"
+    },
+    {
+     "nombre": "Rebuenas, galletas rellenas de chocolate Hacendado",
+     "valor": "33,46 g",
+     "icono": "🍪"
+    },
+    {
+     "nombre": "Cookies 40% pepitas chocolate Hacendado",
+     "valor": "33,07 g",
+     "icono": "🍪"
+    },
+    {
+     "nombre": "Galletas mini caritas con crema de cacao Hacendado",
+     "valor": "28,16 g",
+     "icono": "🍪"
+    },
+    {
+     "nombre": "Choco Flakes Cuetara Choco Flakes",
+     "valor": "27 g",
+     "icono": "🍪"
+    },
+    {
+     "nombre": "María dorada Hacendado",
+     "valor": "20 g",
+     "icono": "🍪"
+    },
+    {
+     "nombre": "Dinosaurus Artiach Dinosaurios",
+     "valor": "20 g",
+     "icono": "🍪"
+    }
+   ]
+  }
+ },
+ {
+  "id": "SUP-008",
+  "tema": "supermercado: bollería y pastelería industrial (azúcares totales), ranking",
+  "enunciado": "De los 15 bollería y pastelería industrial más vendidos en 2022 según la AESAN (datos de Kantar), entre los 11 cuya etiqueta actual se pudo comprobar, los que más azúcares totales declara en su etiqueta es Magdalenas Hacendado y Magdalenas redondas La Cestera (empatados), con 28 g por cada 100 g, y el que menos, Croissant Hacendado, con 9,8 g (etiquetas consultadas en Open Food Facts el 20/10/2026).",
+  "veredicto": "respaldado",
+  "matiz": "Todos los del ranking, por cada 100 g: Magdalenas Hacendado, 28 g; Magdalenas redondas La Cestera, 28 g; Valencianas Hacendado, 27 g; Donuts berlina glacé, 21 g; Palmeritas La Cestera, 20 g; Donuts bombón, 18 g; Choco Buns Choco Buns Nickleon Paw Patrol, 16 g; Berlina glacé El Horno De Mercadona, 16 g; Pan de Leche La Cestera, 14,2 g; Ensaimadas Hacendado, 11 g; Croissant Hacendado, 9,8 g. Misma subcategoría de la AESAN («Pastelería industrial (madalena, cruasán, pastelito, etc)») y misma base de comparación. La cuota de Kantar (de noviembre de 2021 a noviembre de 2022) solo ordena por ventas: no dice qué se vende más hoy y no se cita como porcentaje. Son azúcares totales: incluyen los propios de los ingredientes y la etiqueta no separa los añadidos. Quedan fuera por no poder comprobar hoy su etiqueta: Pan de Leche Hacendado; Croissants La Cestera; Sobaos Hacendado; Bocaditos bañados al cacao Hacendado. Es lo que declara cada fabricante; las recetas cambian, así que se comprueba la etiqueta antes de publicar. Es composición, no un consejo de consumo.",
+  "fuente": "Open Food Facts, etiquetas consultadas el 20/10/2026; AESAN, base de alimentos y bebidas de 2022 (cuota de Kantar)",
+  "url": "https://www.aesan.gob.es/datos-abiertos/alimentos-y-bebidas",
+  "anio": 2026,
+  "nivel_evidencia": "etiqueta nutricional declarada por el fabricante (Open Food Facts) contrastada con la base oficial de la AESAN",
+  "riesgo_publicar": "medio",
+  "poblaciones_en_riesgo": [],
+  "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+  "verificacion_primaria": {
+   "fecha": "2026-10-20",
+   "via": "API de Open Food Facts por EAN (world.openfoodfacts.org/api/v2/product/EAN.json), consultada el 20/10/2026, comparada con la «Base de datos de alimentos y bebidas comercializados en España en 2022» de la AESAN (BasedatosWeb.xlsx, hoja Tabla1, con la cuota de Kantar); script motor/datos_fuente/aesan/generar_banco_sup.py (respuestas crudas en datos_fuente/aesan/off_2026-10-20)",
+   "detalle": "EAN 8480000829313, Croissant Hacendado (AESAN: «HACENDADO CROISSANT NATURAL SIN ADITIVO», puesto 1 por cuota): azúcares totales OFF 9,8 g (ficha editada el 2026-09-30), AESAN 2022 9,2 g (diferencia +6,5 %); EAN 8480000608451, Magdalenas Hacendado (AESAN: «HACENDADO MAGDALENA FFP-Magdalenas NATURAL SIN RELLENO», puesto 2 por cuota): azúcares totales OFF 28 g (ficha editada el 2026-03-28), AESAN 2022 28 g (igual); EAN 8480000820327, Valencianas Hacendado (AESAN: «HACENDADO VALENCIANAS FFP-Magdalenas ACEITE GIRASOL SIN RELLENO», puesto 3 por cuota): azúcares totales OFF 27 g (ficha editada el 2026-09-19), AESAN 2022 27 g (igual); EAN 8410022109643, Donuts berlina glacé (AESAN: «DONUTS DONUT NATURAL SIN RELLENO CUBIERTO DE AZUCAR», puesto 5 por cuota): azúcares totales OFF 21 g (ficha editada el 2026-10-15), AESAN 2022 21 g (igual); EAN 8480000826091, Choco Buns Choco Buns Nickleon Paw Patrol (AESAN: «CHOCO BUNS NICKLEON PAW PATROL BOLLO CON PEPITA NATURAL PEPITAS CHOCOLATE», puesto 6 por cuota): azúcares totales OFF 16 g (ficha editada el 2026-10-06), AESAN 2022 16 g (igual); EAN 8425514214583, Berlina glacé El Horno De Mercadona (AESAN: «EL HORNO DE MERCADONA BERLINA NATURAL SIN RELLENO CUBIERTO DE AZUCAR», puesto 8 por cuota): azúcares totales OFF 16 g (ficha editada el 2026-09-30), AESAN 2022 16 g (igual); EAN 8480000820907, Ensaimadas Hacendado (AESAN: «HACENDADO ENSAIMADA NATURAL CUBIERTO DE AZCR GLS», puesto 9 por cuota): azúcares totales OFF 11 g (ficha editada el 2026-04-03), AESAN 2022 12 g (diferencia -8,3 %); EAN 4056489409076, Magdalenas redondas La Cestera (AESAN: «LA CESTERA MAGDALENA FFP-Magdalenas NATURAL SIN RELLENO», puesto 11 por cuota): azúcares totales OFF 28 g (ficha editada el 2026-04-24), AESAN 2022 28 g (igual); EAN 8410022109674, Donuts bombón (AESAN: «DONUTS DONUT NATURAL SIN RELLENO CHOCOLATE», puesto 13 por cuota): azúcares totales OFF 18 g (ficha editada el 2026-10-10), AESAN 2022 18 g (igual); EAN 4056489408932, Pan de Leche La Cestera (AESAN: «LA CESTERA PAN DE LECHE NATURAL SIN ADITIVO», puesto 14 por cuota): azúcares totales OFF 14,2 g (ficha editada el 2026-03-27), AESAN 2022 14,2 g (igual); EAN 4056489408925, Palmeritas La Cestera (AESAN: «LA CESTERA MINIPALMERA NATURAL SIN RELLENO», puesto 15 por cuota): azúcares totales OFF 20 g (ficha editada el 2026-03-28), AESAN 2022 20 g (igual)"
+  },
+  "eans": [
+   "8480000829313",
+   "8480000608451",
+   "8480000820327",
+   "8410022109643",
+   "8480000826091",
+   "8425514214583",
+   "8480000820907",
+   "4056489409076",
+   "8410022109674",
+   "4056489408932",
+   "4056489408925"
+  ],
+  "molde_datos": {
+   "tipo": "ranking",
+   "titulo": "Azúcares: los que más y los que menos de bollería y pastelería industrial",
+   "unidad": "por 100 g",
+   "filas": [
+    {
+     "nombre": "Magdalenas Hacendado",
+     "valor": "28 g",
+     "icono": "🥐"
+    },
+    {
+     "nombre": "Magdalenas redondas La Cestera",
+     "valor": "28 g",
+     "icono": "🥐"
+    },
+    {
+     "nombre": "Valencianas Hacendado",
+     "valor": "27 g",
+     "icono": "🥐"
+    },
+    {
+     "nombre": "Donuts berlina glacé",
+     "valor": "21 g",
+     "icono": "🥐"
+    },
+    {
+     "nombre": "Pan de Leche La Cestera",
+     "valor": "14,2 g",
+     "icono": "🥐"
+    },
+    {
+     "nombre": "Ensaimadas Hacendado",
+     "valor": "11 g",
+     "icono": "🥐"
+    },
+    {
+     "nombre": "Croissant Hacendado",
+     "valor": "9,8 g",
+     "icono": "🥐"
+    }
+   ]
+  }
+ }
+]

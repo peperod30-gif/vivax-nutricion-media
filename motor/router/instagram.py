@@ -1042,6 +1042,22 @@ class Publicador:
         cid = self._crear_contenedor(formato, urls, pie, alts, bool(ia), estado, guardar)
         return self._publicar_y_cerrar(cid, formato, pie, estado, guardar, recuperada=False)
 
+    def comentar(self, media_id: str, texto: str) -> str | None:
+        """Un comentario del propio perfil en una publicación suya (20-oct-2026): las fuentes y, si se quiere, la pregunta, fuera del pie. Solo
+        en modo real, y nunca lanza: una pieza ya publicada no puede fallar porque el comentario no saliera. Devuelve el id del comentario o None."""
+        texto = (texto or "").strip()
+        if not texto or self.cfg.modo != "real" or not media_id or str(media_id).startswith("simulado") or str(media_id) == "desconocido":
+            return None
+        try:
+            datos = self._llamar("POST", f"{media_id}/comments", params={"message": texto[:2200]}, reintentar=False)
+        except ErrorInstagram as e:
+            log.warning("No pude comentar la publicación (%s).", e.clase)
+            return None
+        except Exception as e:                                      # noqa: BLE001
+            log.warning("No pude comentar la publicación (%s).", type(e).__name__)
+            return None
+        return str(datos.get("id") or "") or None
+
     def _validar(self, formato, archivos, pie: str, alt):
         if formato not in FORMATOS:
             raise ErrorInstagram("formato", f"Formato {formato!r} no válido. Usa «unica», «carrusel» o «video».")
