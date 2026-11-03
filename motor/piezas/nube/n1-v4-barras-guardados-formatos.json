@@ -1,0 +1,117 @@
+{
+  "id": "n1-v4-barras-guardados-formatos",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v4",
+  "tipo_reel": "barras",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "v4",
+  "molde": "v4-barras",
+  "pilar": "captacion",
+  "frente": "nutricionistas",
+  "hechos": [
+    "CAP-002"
+  ],
+  "titulo": "[v4 barras] ¿Qué formato se guarda más?",
+  "hojas": [
+    {
+      "plantilla": "v4_gancho",
+      "voz": "¿Qué formato se {guarda} más?",
+      "titulo": "¿Qué formato se {guarda} más?",
+      "texto": "Guardados por publicación, mediana",
+      "opciones": [
+        {
+          "nombre": "Imagen única"
+        },
+        {
+          "nombre": "Reels"
+        },
+        {
+          "nombre": "Carruseles"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_barra",
+      "voz": "Imagen única, 10 guardados.",
+      "opciones": [
+        {
+          "nombre": "Imagen única",
+          "valor": "10"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_barra",
+      "voz": "Reels, 35 de mediana.",
+      "opciones": [
+        {
+          "nombre": "Reels",
+          "valor": "35"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_barra",
+      "voz": "¿Y los carruseles? {37} guardados por publicación.",
+      "opciones": [
+        {
+          "nombre": "Carruseles",
+          "valor": "37"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_remate",
+      "voz": "Datos de Socialinsider, medias de muchas cuentas.",
+      "opciones": [
+        {
+          "nombre": "Imagen única",
+          "valor": "10"
+        },
+        {
+          "nombre": "Reels",
+          "valor": "35"
+        },
+        {
+          "nombre": "Carruseles",
+          "valor": "37"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_llamada",
+      "voz": "Dietista-nutricionista, escríbenos y miramos tu cuenta."
+    }
+  ],
+  "pie_instagram": "Lo que más se guarda en Instagram, en tres barras 📊\n\nMediana de guardados por publicación según Socialinsider: carruseles 37, Reels 35 e imagen única 10.\nSon medias de muchas cuentas, no un efecto causal.\nVivax, agencia de redes para dietistas-nutricionistas.\n\n¿Carrusel?\nDietista-nutricionista: escríbenos y miramos tu cuenta.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#dietistanutricionista #nutricionistas #instagram #carrusel",
+  "alt": [
+    "Reel con voz. ¿Qué formato se guarda más? Imagen única: 10; Reels: 35; Carruseles: 37. Dietista-nutricionista, escríbenos y miramos tu cuenta."
+  ],
+  "ia": true,
+  "voz": {
+    "motor": "elevenlabs",
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "de_prueba": false,
+    "caracteres": 261
+  },
+  "comentario": "Fuentes: Buffer y Socialinsider (2026). Voz sintética (IA).",
+  "produccion": {
+    "muestra": true,
+    "revision_jose": true,
+    "autoaprobar": false,
+    "lote": "motor-v4-2026-11-03",
+    "formato_reel": "v4",
+    "voz_de_prueba": false,
+    "avisos": [],
+    "nota": "Reel v4 con voz: sin fecha ni hueco; lo aprueba o lo rechaza José en Telegram"
+  },
+  "produccion_video": {
+    "duracion_s": 15.39,
+    "tamano_mb": 4.95
+  }
+}
