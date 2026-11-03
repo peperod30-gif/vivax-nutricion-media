@@ -376,6 +376,27 @@ class Decisiones:
             self._no_guardar(chat_id, uid)
             return
         self.hub.anotar_bandeja(texto, mensaje_id)
+        self._avisar_anotado(chat_id)
+
+    def anotar_adjunto(self, chat_id: int, uid: int, m: dict) -> None:
+        """Una foto, un vídeo o un fichero de José (por ejemplo, reenviado desde este mismo chat): no se descarga. Se anota qué es y su
+        identificador de Telegram, y el asistente lo pide después con getFile. El aviso sigue la misma regla que el de un texto."""
+        mensaje_id = m.get("message_id")
+        if self.hub.mensaje_usado(mensaje_id):
+            return
+        tipo = next(k for k in ("photo", "video", "document", "voice", "audio") if k in m)
+        dato = m[tipo][-1] if tipo == "photo" and m[tipo] else (m[tipo] if isinstance(m[tipo], dict) else {})
+        pie = (m.get("caption") or "").strip()
+        if parece_credencial(pie):
+            self._no_guardar(chat_id, uid)
+            return
+        origen = "reenviado" if (m.get("forward_origin") or m.get("forward_from") or m.get("forward_date")) else "enviado"
+        medidas = f" {dato['width']}x{dato['height']}" if dato.get("width") and dato.get("height") else ""
+        nombre = f" {dato['file_name']}" if dato.get("file_name") else ""
+        self.hub.anotar_bandeja(f"[{tipo} {origen}] file_id={dato.get('file_id', '')}{medidas}{nombre} {pie}".strip(), mensaje_id)
+        self._avisar_anotado(chat_id)
+
+    def _avisar_anotado(self, chat_id: int) -> None:
         ahora = self._ahora()
         ultimo = self._leer_instante("bandeja_aviso")
         if ultimo is not None and ahora - ultimo < AVISO_BANDEJA_S:
@@ -1012,6 +1033,8 @@ class Router:
                 return self._decir(chat_id, "Estás en otra sección y las fotos y las notas son de Campo. Cámbiate con /cuenta y vuelve a mandarlo.")
             if texto and not adjunto:                       # lo que hoy se contesta con «no te he entendido» va a la bandeja
                 return self.decisiones.anotar(chat_id, uid, texto, m.get("message_id"))
+            if adjunto and not m.get("reply_to_message"):   # una foto, un vídeo o un fichero (p. ej. reenviado): se anota su identificador
+                return self.decisiones.anotar_adjunto(chat_id, uid, m)
         self._decir(chat_id, "No te he entendido. /ayuda te dice qué puedo hacer.")
 
     def _activa_es_anfitriona(self, uid: int) -> bool:
