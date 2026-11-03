@@ -1,0 +1,144 @@
+{
+  "id": "n1-f100-bj-verdadero_falso_pulsadores",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BJ",
+  "pilar": "mitos",
+  "hechos": [
+    "ALI-045",
+    "ALI-093",
+    "ALI-060",
+    "AZU-002"
+  ],
+  "titulo": "[BJ] Verdadero o falso a pulsador",
+  "hojas": [
+    {
+      "plantilla": "fx_pulsadores",
+      "kicker": "Ronda relámpago",
+      "titulo": "¿Verdadero o falso?",
+      "texto": [
+        "El kétchup lleva menos azúcares que la cola.",
+        "Nacho",
+        "Plácido"
+      ],
+      "voz": "El kétchup lleva menos azúcares que la cola."
+    },
+    {
+      "plantilla": "fx_pulsadores",
+      "texto": [
+        "¡Bzz!"
+      ],
+      "dice": "¡Verdadero!",
+      "voz": "¡Falso!"
+    },
+    {
+      "plantilla": "fx_pulsadores",
+      "kicker": "Falso",
+      "texto": [
+        "Azúcares por 100 g"
+      ],
+      "opciones": [
+        {
+          "nombre": "Kétchup",
+          "valor": "21,3 g"
+        },
+        {
+          "nombre": "Refresco de cola",
+          "valor": "9,9 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "fx_pulsadores",
+      "texto": [
+        "Palomitas sin aceite: más fibra que la avena.",
+        "¡Bzz!"
+      ],
+      "voz": "Palomitas sin aceite: más fibra que la avena."
+    },
+    {
+      "plantilla": "fx_pulsadores",
+      "kicker": "Verdadero",
+      "texto": [
+        "Fibra por 100 g"
+      ],
+      "opciones": [
+        {
+          "nombre": "Palomitas sin aceite",
+          "valor": "14,5 g"
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "10,1 g"
+        }
+      ],
+      "voz": "¡Verdadero!"
+    },
+    {
+      "plantilla": "fx_pulsadores",
+      "texto": [
+        "Patatas de bolsa: más sodio que las aceitunas.",
+        "¡Bzz!"
+      ],
+      "dice": "¡Fijo que sí!",
+      "voz": "Patatas de bolsa: más sodio que las aceitunas."
+    },
+    {
+      "plantilla": "fx_pulsadores",
+      "kicker": "Falso",
+      "texto": [
+        "Sodio por 100 g"
+      ],
+      "opciones": [
+        {
+          "nombre": "Patatas fritas de bolsa",
+          "valor": "527 mg"
+        },
+        {
+          "nombre": "Aceitunas en conserva",
+          "valor": "735 mg"
+        }
+      ],
+      "voz": "¡Falso!"
+    },
+    {
+      "plantilla": "g_cierre",
+      "frase": "Mándaselo a quien siempre pulsa primero",
+      "texto": [
+        "Falso",
+        "Verdadero",
+        "Falso"
+      ],
+      "voz": "Mándaselo a quien siempre pulsa primero."
+    }
+  ],
+  "pie_instagram": "Ronda relámpago: tres frases sobre comida, dos pulsadores y un sello que no perdona 🔔\n\n«El kétchup lleva menos azúcares que la cola»: falso. Por cada 100 g, el kétchup lleva 21,3 g de azúcares y el refresco de cola, 9,9 g.\nOjo con la ración: según la OMS, una cucharada de kétchup lleva unos 4 g y una lata de refresco azucarado, hasta 40 g.\n«Palomitas sin aceite, más fibra que la avena»: verdadero. 14,5 g de fibra por cada 100 g, frente a 10,1 g de los copos de avena.\n«Patatas de bolsa, más sodio que las aceitunas»: falso. Por cada 100 g, aceitunas en conserva 735 mg y patatas fritas de bolsa 527 mg. El sodio no es lo mismo que la sal.\nDatos de la tabla de composición de USDA 🍿\n\nSon cifras de composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuántas habrías acertado?\nMándaselo a quien siempre pulsa primero.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#verdaderoofalso #nutricion #fibra #azucar #sodio",
+  "alt": [
+    "Reel de concurso de pulsadores dibujado: ronda relámpago de verdadero o falso. Tarjeta blanca con la pregunta y, abajo, una nuez con gafas y corbata y un plátano con corona tras un mostrador negro, cada uno con un pulsador rojo. «El kétchup lleva menos azúcares que la cola»: el plátano pulsa y dice «¡Verdadero!», y cae el sello FALSO: azúcares por 100 g, kétchup 21,3 g y refresco de cola 9,9 g. «Palomitas sin aceite: más fibra que la avena»: pulsa la nuez, sello VERDADERO: fibra por 100 g, palomitas sin aceite 14,5 g y copos de avena 10,1 g. «Patatas de bolsa: más sodio que las aceitunas»: el plátano dice «¡Fijo que sí!», sello FALSO y se le cae la corona: sodio por 100 g, patatas fritas de bolsa 527 mg y aceitunas en conserva 735 mg. Final: mándaselo a quien siempre pulsa primero, @vivax_nutri."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BJ",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: concurso de pulsadores (ronda relámpago) con sellos VERDADERO / FALSO",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BJ en Telegram"
+  },
+  "ia": true,
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy, 2019 (ALI-045, ALI-093 y ALI-060). OMS, comunicado sobre la guía de azúcares para adultos y niños, 2015 (AZU-002). Voz sintética (IA).",
+  "voz": {
+    "motor": "elevenlabs",
+    "de_prueba": false,
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "caracteres": 206
+  }
+}

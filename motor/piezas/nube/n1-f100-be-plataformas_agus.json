@@ -1,0 +1,130 @@
+{
+  "id": "n1-f100-be-plataformas_agus",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BE",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-002"
+  ],
+  "titulo": "[BE] Plataformas de Agus: vitamina A por 100 g",
+  "hojas": [
+    {
+      "plantilla": "fx_plataformas",
+      "kicker": "Agus",
+      "titulo": "Agus apuesta por la espinaca. ¿Acierta?",
+      "texto": [
+        "Vitamina A",
+        "por 100 g"
+      ],
+      "cifra": "??? µg",
+      "voz": "Apuesto por la espinaca."
+    },
+    {
+      "plantilla": "fx_plataformas",
+      "opciones": [
+        {
+          "nombre": "Parmesano",
+          "valor": "207 µg"
+        }
+      ]
+    },
+    {
+      "plantilla": "fx_plataformas",
+      "opciones": [
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "469 µg"
+        }
+      ],
+      "voz": "¡Espinacas! Lo sabía."
+    },
+    {
+      "plantilla": "fx_plataformas",
+      "opciones": [
+        {
+          "nombre": "Mantequilla con sal",
+          "valor": "684 µg"
+        }
+      ],
+      "voz": "¿Mantequilla? ¿Más?"
+    },
+    {
+      "plantilla": "fx_plataformas",
+      "opciones": [
+        {
+          "nombre": "Boniato cocido",
+          "valor": "787 µg"
+        }
+      ],
+      "voz": "¿Boniato? ¿Más todavía?"
+    },
+    {
+      "plantilla": "fx_plataformas",
+      "opciones": [
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "835 µg"
+        }
+      ],
+      "frase": "Lo veo clarísimo.",
+      "voz": "En la bandera, la zanahoria."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Nivel completado",
+      "texto": "Vitamina A en este nivel, por cada 100 g",
+      "filas": [
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "835 µg"
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "787 µg"
+        },
+        {
+          "nombre": "Mantequilla con sal",
+          "valor": "684 µg"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "469 µg"
+        },
+        {
+          "nombre": "Parmesano",
+          "valor": "207 µg"
+        }
+      ],
+      "dato": "La apuesta de Agus",
+      "frase": "Mándaselo a quien apuesta por la espinaca",
+      "voz": "Mándaselo a quien apuesta por la espinaca."
+    }
+  ],
+  "pie_instagram": "Agus apostó por la espinaca en el nivel de la vitamina A. Las cajas opinaban otra cosa 🎮\n\nVitamina A por cada 100 g, según la tabla de composición de USDA.\nParmesano, 207 µg.\nEspinacas crudas, 469 µg 🥬\nMantequilla con sal, 684 µg.\nBoniato cocido, 787 µg.\nZanahoria cruda, 835 µg 🥕\nFuera del nivel, en la misma tabla, el hígado de ternera cocinado llega a 9442 µg: por eso decimos «en este nivel».\n\nValores por 100 g del alimento en el estado indicado: es composición, no una recomendación de cantidad ni de comer o evitar nada. 100 g es más que una ración habitual de muchos de estos alimentos, y la tabla mide lo que lleva el alimento, no lo que se absorbe.\n\n¿Por cuál habrías apostado tú?\nMándaselo a quien apuesta por la espinaca.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaA #nutricion #zanahoria #espinacas #comidareal",
+  "alt": [
+    "Reel de videojuego de plataformas dibujado a mano, de día, con HUD arriba: vidas en forma de aguacate, monedas que son huesos de aguacate y un marcador de vitamina A por 100 g. Pregunta: Agus, el aguacate, apuesta por la espinaca, ¿acierta? Agus corre, salta un foso y da cabezazos a cajas sorpresa. Salen parmesano, 207 µg; espinacas crudas, 469 µg; mantequilla con sal, 684 µg; y boniato cocido, 787 µg. En la bandera de meta espera Zoe, la zanahoria: zanahoria cruda, 835 µg. Pantalla de nivel completado con los cinco por cada 100 g y la etiqueta «La apuesta de Agus» en la espinaca. Mándaselo a quien apuesta por la espinaca."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BE",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: videojuego de plataformas 2D dibujado (HUD, monedas, vidas, bandera)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BE en Telegram"
+  },
+  "ia": true,
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (VIT-002). Voz sintética (IA).",
+  "voz": {
+    "motor": "elevenlabs",
+    "de_prueba": false,
+    "principal": "Agus (Dani)"
+  }
+}

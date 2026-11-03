@@ -1,0 +1,80 @@
+{
+  "id": "n1-f100-bd-rasca_el_dato",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BD",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-065",
+    "ALI-038",
+    "ALI-007"
+  ],
+  "titulo": "[BD] Rasca el dato: ¿quién lleva más fibra?",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Rasca el dato",
+      "titulo": "¿Quién lleva más fibra?",
+      "texto": "Por cada 100 g, en crudo",
+      "items": [
+        "Rasca",
+        "Sorpresa"
+      ],
+      "fuente": "Letra pequeña: todo en crudo; la manzana, con piel. Datos de USDA.",
+      "voz": "¿Quién lleva más fibra? Rasca."
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Manzana",
+      "cifra": "2,4 g",
+      "voz": "Manzana: dos coma cuatro gramos."
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Zanahoria",
+      "cifra": "2,8 g",
+      "voz": "Zanahoria: dos coma ocho."
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Kiwi",
+      "cifra": "3,0 g",
+      "voz": "Kiwi: tres."
+    },
+    {
+      "plantilla": "fx_reel",
+      "titulo": "Aguacate",
+      "cifra": "6,7 g",
+      "texto": "de fibra",
+      "voz": "Y la casilla sorpresa: ¡Aguacate! Seis coma siete. Por cada cien gramos, en crudo."
+    },
+    {
+      "plantilla": "fx_reel",
+      "frase": "Mándaselo a quien cree que el aguacate es solo grasa",
+      "voz": "Mándaselo a quien cree que el aguacate es solo grasa."
+    }
+  ],
+  "pie_instagram": "Rasca y mira quién lleva más fibra por cada 100 g: la casilla sorpresa no es la que esperas 🪙\n\nPor cada 100 g, en crudo: manzana con piel, 2,4 g de fibra; zanahoria, 2,8 g; kiwi, 3,0 g.\nY en la casilla sorpresa, el aguacate: 6,7 g de fibra por cada 100 g.\nDatos de la tabla de composición de USDA.\n\nLas cifras son de 100 g de cada alimento; es composición, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál pensabas que iba arriba?\nMándaselo a quien cree que el aguacate es solo grasa 💌\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #aguacate #kiwi #nutricion #comidareal",
+  "alt": [
+    "Reel de una tarjeta de rasca dibujada a mano, «Rasca el dato»: ¿Quién lleva más fibra? Por cada 100 g, en crudo. Una moneda de oliva raspa la capa plateada de tres casillas: manzana, 2,4 g; zanahoria, 2,8 g; kiwi, 3,0 g. La casilla grande de sorpresa enseña un ojo por un agujerito; al rasparla sale el aguacate con 6,7 g de fibra y los demás ponen cara de sorpresa. Letra pequeña: todo en crudo; la manzana, con piel; datos de USDA. Cierre: mándaselo a quien cree que el aguacate es solo grasa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BD",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: tarjeta de rasca con moneda de oliva y capa plateada",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (eleven_v4)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BD en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019). Voz sintética (IA).",
+  "ia": true
+}

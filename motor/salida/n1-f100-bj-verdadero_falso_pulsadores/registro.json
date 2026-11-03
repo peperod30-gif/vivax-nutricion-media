@@ -1,0 +1,2747 @@
+{
+ "esquema": "slides-1",
+ "version": "f100-bj",
+ "duracion_s": 16.99,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.96,
+ "pixel": "yuv420p",
+ "tamano_mb": 11.47,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "voz_de_prueba": false,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 206,
+  "texto": "El kétchup lleva menos azúcares que la cola. ¡Falso! Palomitas sin aceite: más fibra que la avena. ¡Verdadero! Patatas de bolsa: más sodio que las aceitunas. ¡Falso! Mándaselo a quien siempre pulsa primero.",
+  "duracion_voz_s": 15.87,
+  "inicio_voz_s": 0.021,
+  "lineas": [
+   {
+    "id": "q1",
+    "t0": 0.0213,
+    "t1": 2.3363
+   },
+   {
+    "id": "v1",
+    "t0": 3.0413,
+    "t1": 3.5613
+   },
+   {
+    "id": "q2",
+    "t0": 4.4913,
+    "t1": 6.9813
+   },
+   {
+    "id": "v2",
+    "t0": 7.6263,
+    "t1": 8.1463
+   },
+   {
+    "id": "q3",
+    "t0": 9.0813,
+    "t1": 11.7513
+   },
+   {
+    "id": "v3",
+    "t0": 12.3864,
+    "t1": 12.8264
+   },
+   {
+    "id": "cta",
+    "t0": 13.6714,
+    "t1": 15.7514
+   }
+  ]
+ },
+ "sonido": {
+  "voz_lufs": -16.0,
+  "efectos_lufs": -22.54,
+  "efectos_bajo_voz_db": 6.54,
+  "mezcla_lufs": -16.01,
+  "mezcla_pico_dbtp": -1.65,
+  "limitador_max_db": 0.73,
+  "efectos_por_tipo": {
+   "pop": 6,
+   "tic": 15,
+   "tac": 5,
+   "sello": 3,
+   "golpe": 3,
+   "contador": 19,
+   "whoosh": 4,
+   "ding": 1
+  },
+  "zumbadores": 3,
+  "musica": false,
+  "desfase_con_el_video_s": -0.0
+ },
+ "fin_parcial_s": 3.021,
+ "revelacion_s": 7.606,
+ "t_bucle_s": 16.5167,
+ "hueco_max_s": 0.434,
+ "hueco_max_en_s": 16.533,
+ "n_cambios_visuales": 496,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    120,
+    467,
+    218,
+    539
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "kétchup",
+   "contando": false,
+   "r": [
+    241,
+    467,
+    625,
+    539
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    649,
+    467,
+    900,
+    539
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    135,
+    536,
+    427,
+    608
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    450,
+    536,
+    885,
+    608
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    230,
+    604,
+    400,
+    676
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    424,
+    604,
+    526,
+    676
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    549,
+    604,
+    790,
+    676
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    387,
+    753
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Kétchup",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    308,
+    786
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Refresco de cola",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    424,
+    864
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    120,
+    467,
+    218,
+    539
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "kétchup",
+   "contando": false,
+   "r": [
+    241,
+    467,
+    625,
+    539
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    649,
+    467,
+    900,
+    539
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    135,
+    536,
+    427,
+    608
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    450,
+    536,
+    885,
+    608
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    230,
+    604,
+    400,
+    676
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    424,
+    604,
+    526,
+    676
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    549,
+    604,
+    790,
+    676
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    387,
+    753
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "Kétchup",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    308,
+    786
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "Refresco de cola",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    424,
+    864
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 1.203,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    120,
+    467,
+    218,
+    539
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "kétchup",
+   "contando": false,
+   "r": [
+    241,
+    467,
+    625,
+    539
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    649,
+    467,
+    900,
+    539
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    135,
+    536,
+    427,
+    608
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    450,
+    536,
+    885,
+    608
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    230,
+    604,
+    400,
+    676
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    424,
+    604,
+    526,
+    676
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    549,
+    604,
+    790,
+    676
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    387,
+    753
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "Kétchup",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    308,
+    786
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "Refresco de cola",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    424,
+    864
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 2.981,
+   "texto": "¡Verdadero!",
+   "contando": false,
+   "r": [
+    379,
+    956,
+    627,
+    1032
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    387,
+    753
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Kétchup",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    308,
+    786
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "21,3 g",
+   "contando": false,
+   "r": [
+    720,
+    749,
+    870,
+    819
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Refresco de cola",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    424,
+    864
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "9,9 g",
+   "contando": false,
+   "r": [
+    732,
+    827,
+    858,
+    897
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    293,
+    441,
+    729,
+    709
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 3.921,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Palomitas",
+   "contando": false,
+   "r": [
+    205,
+    467,
+    657,
+    539
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    680,
+    467,
+    815,
+    539
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "aceite:",
+   "contando": false,
+   "r": [
+    124,
+    536,
+    434,
+    608
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    457,
+    536,
+    634,
+    608
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    658,
+    536,
+    896,
+    608
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    202,
+    604,
+    372,
+    676
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    396,
+    604,
+    498,
+    676
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "avena.",
+   "contando": false,
+   "r": [
+    521,
+    604,
+    818,
+    676
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Fibra por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    331,
+    753
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Palomitas sin aceite",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    462,
+    786
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Copos de avena",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    416,
+    864
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 4.741,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Palomitas",
+   "contando": false,
+   "r": [
+    205,
+    467,
+    657,
+    539
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    680,
+    467,
+    815,
+    539
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "aceite:",
+   "contando": false,
+   "r": [
+    124,
+    536,
+    434,
+    608
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    457,
+    536,
+    634,
+    608
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    658,
+    536,
+    896,
+    608
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    202,
+    604,
+    372,
+    676
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    396,
+    604,
+    498,
+    676
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "avena.",
+   "contando": false,
+   "r": [
+    521,
+    604,
+    818,
+    676
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Fibra por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    331,
+    753
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Palomitas sin aceite",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    462,
+    786
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Copos de avena",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    416,
+    864
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 5.721,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Fibra por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    331,
+    753
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Palomitas sin aceite",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    462,
+    786
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "14,5 g",
+   "contando": false,
+   "r": [
+    718,
+    749,
+    872,
+    819
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Copos de avena",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    416,
+    864
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "10,1 g",
+   "contando": false,
+   "r": [
+    722,
+    827,
+    868,
+    897
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    225,
+    452,
+    797,
+    698
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 8.506,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Patatas",
+   "contando": false,
+   "r": [
+    129,
+    470,
+    459,
+    539
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    482,
+    470,
+    586,
+    539
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "bolsa:",
+   "contando": false,
+   "r": [
+    608,
+    470,
+    891,
+    539
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    197,
+    537,
+    369,
+    606
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    391,
+    537,
+    635,
+    606
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    658,
+    537,
+    823,
+    606
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    189,
+    603,
+    339,
+    672
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "aceitunas.",
+   "contando": false,
+   "r": [
+    361,
+    603,
+    831,
+    672
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Sodio por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    340,
+    753
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Patatas fritas de bolsa",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    494,
+    786
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Aceitunas en conserva",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    503,
+    864
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 9.331,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Patatas",
+   "contando": false,
+   "r": [
+    129,
+    470,
+    459,
+    539
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    482,
+    470,
+    586,
+    539
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "bolsa:",
+   "contando": false,
+   "r": [
+    608,
+    470,
+    891,
+    539
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    197,
+    537,
+    369,
+    606
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    391,
+    537,
+    635,
+    606
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    658,
+    537,
+    823,
+    606
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    189,
+    603,
+    339,
+    672
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "aceitunas.",
+   "contando": false,
+   "r": [
+    361,
+    603,
+    831,
+    672
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Sodio por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    340,
+    753
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Patatas fritas de bolsa",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    494,
+    786
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Aceitunas en conserva",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    503,
+    864
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 10.401,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Patatas",
+   "contando": false,
+   "r": [
+    129,
+    470,
+    459,
+    539
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    482,
+    470,
+    586,
+    539
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "bolsa:",
+   "contando": false,
+   "r": [
+    608,
+    470,
+    891,
+    539
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    197,
+    537,
+    369,
+    606
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    391,
+    537,
+    635,
+    606
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    658,
+    537,
+    823,
+    606
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    189,
+    603,
+    339,
+    672
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "aceitunas.",
+   "contando": false,
+   "r": [
+    361,
+    603,
+    831,
+    672
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Sodio por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    340,
+    753
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Patatas fritas de bolsa",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    494,
+    786
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Aceitunas en conserva",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    503,
+    864
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 12.326,
+   "texto": "¡Fijo que sí!",
+   "contando": false,
+   "r": [
+    373,
+    956,
+    633,
+    1032
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    126,
+    263,
+    482,
+    330
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    133,
+    360,
+    518,
+    411
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Sodio por 100 g",
+   "contando": false,
+   "r": [
+    113,
+    709,
+    337,
+    752
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Patatas fritas de bolsa",
+   "contando": false,
+   "r": [
+    195,
+    742,
+    491,
+    785
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "527 mg",
+   "contando": false,
+   "r": [
+    701,
+    748,
+    883,
+    818
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Aceitunas en conserva",
+   "contando": false,
+   "r": [
+    195,
+    820,
+    500,
+    863
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "735 mg",
+   "contando": false,
+   "r": [
+    702,
+    826,
+    882,
+    896
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    290,
+    440,
+    726,
+    708
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    151,
+    1389,
+    287,
+    1448
+   ]
+  },
+  {
+   "t": 13.266,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    673,
+    1389,
+    837,
+    1448
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    176,
+    450,
+    753,
+    533
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    780,
+    450,
+    844,
+    533
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    146,
+    529,
+    438,
+    612
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "siempre",
+   "contando": false,
+   "r": [
+    465,
+    529,
+    874,
+    612
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "pulsa",
+   "contando": false,
+   "r": [
+    121,
+    609,
+    425,
+    692
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "primero.",
+   "contando": false,
+   "r": [
+    452,
+    609,
+    899,
+    692
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    176,
+    802,
+    295,
+    871
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    394,
+    796,
+    612,
+    877
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    802,
+    831,
+    871
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    732,
+    872,
+    908,
+    915
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 14.471,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    176,
+    450,
+    753,
+    533
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    780,
+    450,
+    844,
+    533
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    146,
+    529,
+    438,
+    612
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "siempre",
+   "contando": false,
+   "r": [
+    465,
+    529,
+    874,
+    612
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "pulsa",
+   "contando": false,
+   "r": [
+    121,
+    609,
+    425,
+    692
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "primero.",
+   "contando": false,
+   "r": [
+    452,
+    609,
+    899,
+    692
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    176,
+    802,
+    295,
+    871
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    394,
+    796,
+    612,
+    877
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    802,
+    831,
+    871
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    732,
+    872,
+    908,
+    915
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 16.417,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "Ronda relámpago",
+   "contando": false,
+   "r": [
+    129,
+    264,
+    484,
+    331
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    136,
+    362,
+    521,
+    413
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    120,
+    467,
+    218,
+    539
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "kétchup",
+   "contando": false,
+   "r": [
+    241,
+    467,
+    625,
+    539
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    649,
+    467,
+    900,
+    539
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    135,
+    536,
+    427,
+    608
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    450,
+    536,
+    885,
+    608
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    230,
+    604,
+    400,
+    676
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    424,
+    604,
+    526,
+    676
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    549,
+    604,
+    790,
+    676
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    116,
+    710,
+    387,
+    753
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "Kétchup",
+   "contando": false,
+   "r": [
+    198,
+    743,
+    308,
+    786
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    752,
+    809,
+    816
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "Refresco de cola",
+   "contando": false,
+   "r": [
+    198,
+    821,
+    424,
+    864
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    781,
+    830,
+    809,
+    894
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "Nacho",
+   "contando": false,
+   "r": [
+    154,
+    1390,
+    290,
+    1449
+   ]
+  },
+  {
+   "t": 16.933,
+   "texto": "Plácido",
+   "contando": false,
+   "r": [
+    676,
+    1390,
+    840,
+    1449
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  1.203,
+  2.981,
+  3.921,
+  4.741,
+  5.721,
+  8.506,
+  9.331,
+  10.401,
+  12.326,
+  13.266,
+  14.471,
+  16.417,
+  16.933
+ ],
+ "efectos": [
+  {
+   "t": 0.0,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.35,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 0.85,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.35,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.85,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.406,
+   "tipo": "tac",
+   "intensidad": 0.8
+  },
+  {
+   "t": 2.606,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.021,
+   "tipo": "sello",
+   "intensidad": 0.95
+  },
+  {
+   "t": 3.021,
+   "tipo": "golpe",
+   "intensidad": 0.8
+  },
+  {
+   "t": 3.161,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.251,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.341,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.431,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.521,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.611,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.701,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 4.231,
+   "tipo": "whoosh",
+   "intensidad": 0.55
+  },
+  {
+   "t": 4.741,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.241,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.741,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.241,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.741,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.051,
+   "tipo": "tac",
+   "intensidad": 0.8
+  },
+  {
+   "t": 7.606,
+   "tipo": "sello",
+   "intensidad": 0.95
+  },
+  {
+   "t": 7.606,
+   "tipo": "golpe",
+   "intensidad": 0.5
+  },
+  {
+   "t": 7.656,
+   "tipo": "ding",
+   "intensidad": 0.85
+  },
+  {
+   "t": 7.746,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.836,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.926,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.016,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.106,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.196,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.821,
+   "tipo": "whoosh",
+   "intensidad": 0.55
+  },
+  {
+   "t": 9.331,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.831,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.331,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.831,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.331,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.821,
+   "tipo": "tac",
+   "intensidad": 0.8
+  },
+  {
+   "t": 12.021,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 12.366,
+   "tipo": "sello",
+   "intensidad": 0.95
+  },
+  {
+   "t": 12.366,
+   "tipo": "golpe",
+   "intensidad": 0.8
+  },
+  {
+   "t": 12.506,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.596,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.686,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.776,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.866,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.956,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.981,
+   "tipo": "tac",
+   "intensidad": 0.5
+  },
+  {
+   "t": 12.486,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 13.206,
+   "tipo": "tac",
+   "intensidad": 0.7
+  },
+  {
+   "t": 13.346,
+   "tipo": "tic",
+   "intensidad": 0.5
+  },
+  {
+   "t": 13.411,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 13.771,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 13.931,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 14.091,
+   "tipo": "pop",
+   "intensidad": 0.4
+  }
+ ],
+ "fotogramas": 509,
+ "tiempo_render_s": 52.9
+}

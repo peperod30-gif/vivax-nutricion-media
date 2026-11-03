@@ -1,0 +1,944 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 16.61,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.96,
+ "pixel": "yuv420p",
+ "tamano_mb": 8.65,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.167,
+ "n_cambios_visuales": 290,
+ "bucle_dif_ultimo_primero": 48.4,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    299,
+    297,
+    714,
+    386
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Quién lleva más fibra?",
+   "contando": false,
+   "r": [
+    117,
+    382,
+    899,
+    504
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por cada 100 g, en crudo",
+   "contando": false,
+   "r": [
+    284,
+    503,
+    735,
+    563
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Rasca",
+   "contando": false,
+   "r": [
+    148,
+    717,
+    329,
+    804
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Rasca",
+   "contando": false,
+   "r": [
+    423,
+    712,
+    604,
+    799
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Rasca",
+   "contando": false,
+   "r": [
+    698,
+    708,
+    879,
+    795
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Sorpresa",
+   "contando": false,
+   "r": [
+    370,
+    1086,
+    815,
+    1228
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    174,
+    1075,
+    243,
+    1235
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    842,
+    1063,
+    911,
+    1223
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Letra pequeña: todo en crudo; la manzana, con piel. Datos de USDA.",
+   "contando": false,
+   "r": [
+    129,
+    1378,
+    629,
+    1452
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    756,
+    1433,
+    893,
+    1465
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    299,
+    297,
+    714,
+    386
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "¿Quién lleva más fibra?",
+   "contando": false,
+   "r": [
+    117,
+    382,
+    899,
+    504
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Por cada 100 g, en crudo",
+   "contando": false,
+   "r": [
+    284,
+    503,
+    735,
+    563
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    166,
+    583,
+    306,
+    629
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "2,4 g",
+   "contando": false,
+   "r": [
+    189,
+    842,
+    292,
+    919
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Rasca",
+   "contando": false,
+   "r": [
+    423,
+    712,
+    604,
+    799
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Rasca",
+   "contando": false,
+   "r": [
+    698,
+    708,
+    879,
+    795
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Sorpresa",
+   "contando": false,
+   "r": [
+    370,
+    1086,
+    815,
+    1228
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    174,
+    1075,
+    243,
+    1235
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    842,
+    1063,
+    911,
+    1223
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "Letra pequeña: todo en crudo; la manzana, con piel. Datos de USDA.",
+   "contando": false,
+   "r": [
+    129,
+    1378,
+    629,
+    1452
+   ]
+  },
+  {
+   "t": 2.341,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    756,
+    1433,
+    893,
+    1465
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    299,
+    297,
+    714,
+    386
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "¿Quién lleva más fibra?",
+   "contando": false,
+   "r": [
+    117,
+    382,
+    899,
+    504
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Por cada 100 g, en crudo",
+   "contando": false,
+   "r": [
+    284,
+    503,
+    735,
+    563
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    166,
+    583,
+    306,
+    629
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "2,4 g",
+   "contando": false,
+   "r": [
+    189,
+    842,
+    292,
+    919
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Zanahoria",
+   "contando": false,
+   "r": [
+    431,
+    578,
+    590,
+    624
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "2,8 g",
+   "contando": false,
+   "r": [
+    465,
+    837,
+    567,
+    914
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Kiwi",
+   "contando": false,
+   "r": [
+    753,
+    574,
+    819,
+    619
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "3,0 g",
+   "contando": false,
+   "r": [
+    740,
+    832,
+    842,
+    909
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Sorpresa",
+   "contando": false,
+   "r": [
+    370,
+    1086,
+    815,
+    1228
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    174,
+    1075,
+    243,
+    1235
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    842,
+    1063,
+    911,
+    1223
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "Letra pequeña: todo en crudo; la manzana, con piel. Datos de USDA.",
+   "contando": false,
+   "r": [
+    129,
+    1378,
+    629,
+    1452
+   ]
+  },
+  {
+   "t": 6.671,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    756,
+    1433,
+    893,
+    1465
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    299,
+    297,
+    714,
+    386
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "¿Quién lleva más fibra?",
+   "contando": false,
+   "r": [
+    117,
+    382,
+    899,
+    504
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Por cada 100 g, en crudo",
+   "contando": false,
+   "r": [
+    284,
+    503,
+    735,
+    563
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    166,
+    583,
+    306,
+    629
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "2,4 g",
+   "contando": false,
+   "r": [
+    189,
+    842,
+    292,
+    919
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Zanahoria",
+   "contando": false,
+   "r": [
+    431,
+    578,
+    590,
+    624
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "2,8 g",
+   "contando": false,
+   "r": [
+    465,
+    837,
+    567,
+    914
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Kiwi",
+   "contando": false,
+   "r": [
+    753,
+    574,
+    819,
+    619
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "3,0 g",
+   "contando": false,
+   "r": [
+    740,
+    832,
+    842,
+    909
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    583,
+    981,
+    834,
+    1062
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "6,7 g",
+   "contando": false,
+   "r": [
+    585,
+    1058,
+    836,
+    1255
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "de fibra",
+   "contando": false,
+   "r": [
+    636,
+    1264,
+    790,
+    1324
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "Letra pequeña: todo en crudo; la manzana, con piel. Datos de USDA.",
+   "contando": false,
+   "r": [
+    129,
+    1378,
+    629,
+    1452
+   ]
+  },
+  {
+   "t": 10.395,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    756,
+    1433,
+    893,
+    1465
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    332,
+    292,
+    680,
+    366
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "¿Quién lleva más fibra?",
+   "contando": false,
+   "r": [
+    179,
+    363,
+    836,
+    465
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Por cada 100 g, en crudo",
+   "contando": false,
+   "r": [
+    319,
+    464,
+    698,
+    515
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    220,
+    531,
+    338,
+    570
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "2,4 g",
+   "contando": false,
+   "r": [
+    240,
+    749,
+    326,
+    814
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Zanahoria",
+   "contando": false,
+   "r": [
+    443,
+    527,
+    577,
+    566
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "2,8 g",
+   "contando": false,
+   "r": [
+    471,
+    745,
+    557,
+    809
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Kiwi",
+   "contando": false,
+   "r": [
+    713,
+    524,
+    769,
+    562
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "3,0 g",
+   "contando": false,
+   "r": [
+    702,
+    741,
+    788,
+    805
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    570,
+    866,
+    781,
+    934
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "6,7 g",
+   "contando": false,
+   "r": [
+    572,
+    931,
+    783,
+    1096
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "de fibra",
+   "contando": false,
+   "r": [
+    615,
+    1104,
+    745,
+    1154
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Letra pequeña: todo en crudo; la manzana, con piel. Datos de USDA.",
+   "contando": false,
+   "r": [
+    189,
+    1199,
+    609,
+    1262
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    716,
+    1246,
+    831,
+    1273
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "Mándaselo a quien cree que",
+   "contando": false,
+   "r": [
+    212,
+    1317,
+    775,
+    1393
+   ]
+  },
+  {
+   "t": 16.533,
+   "texto": "el aguacate es solo grasa",
+   "contando": false,
+   "r": [
+    214,
+    1379,
+    720,
+    1453
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.341,
+  6.671,
+  10.395,
+  16.533
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 0.48,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "whoosh": 4,
+   "tic": 4,
+   "pop": 4,
+   "subida": 1,
+   "golpe": 1,
+   "ding": 1,
+   "sello": 1
+  },
+  "descartados": 0,
+  "duracion_s": 16.545,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "texto": "¿Quién lleva más fibra? Rasca. Manzana: dos coma cuatro gramos. Zanahoria: dos coma ocho. Kiwi: tres. Y la casilla sorpresa: ¡Aguacate! Seis coma siete. Por cada cien gramos, en crudo. Mándaselo a quien cree que el aguacate es solo grasa.",
+   "caracteres": 238,
+   "lineas": [
+    {
+     "texto": "¿Quién lleva más fibra? Rasca.",
+     "t0": 0.0213,
+     "t1": 1.8113
+    },
+    {
+     "texto": "Manzana: dos coma cuatro gramos.",
+     "t0": 1.8914,
+     "t1": 4.0414
+    },
+    {
+     "texto": "Zanahoria: dos coma ocho.",
+     "t0": 4.2214,
+     "t1": 5.9914
+    },
+    {
+     "texto": "Kiwi: tres.",
+     "t0": 6.1714,
+     "t1": 7.1614
+    },
+    {
+     "texto": "Y la casilla sorpresa:",
+     "t0": 7.3114,
+     "t1": 8.6579
+    },
+    {
+     "texto": "¡Aguacate! Seis coma siete.",
+     "t0": 8.8014,
+     "t1": 10.8949
+    },
+    {
+     "texto": "Por cada cien gramos, en crudo.",
+     "t0": 11.0349,
+     "t1": 12.7864
+    },
+    {
+     "texto": "Mándaselo a quien cree que el aguacate es solo grasa.",
+     "t0": 12.9664,
+     "t1": 15.6199
+    }
+   ]
+  },
+  "rascado": {
+   "motor": "propio (ruido filtrado con grano)",
+   "lufs_relativo_voz_db": -13
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 0.9
+  }
+ },
+ "efectos": [
+  {
+   "t": 1.1113,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 2.7314,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 2.0213,
+   "tipo": "tic",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.1014,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 4.351400000000001,
+   "tipo": "tic",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.8814,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 6.3014,
+   "tipo": "tic",
+   "intensidad": 0.45
+  },
+  {
+   "t": 7.4514,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 8.8419,
+   "tipo": "subida",
+   "intensidad": 0.55
+  },
+  {
+   "t": 8.8419,
+   "tipo": "golpe",
+   "intensidad": 0.8
+  },
+  {
+   "t": 9.8949,
+   "tipo": "ding",
+   "intensidad": 0.85
+  },
+  {
+   "t": 9.9149,
+   "tipo": "sello",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.9149,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 11.4149,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.5464,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.9064,
+   "tipo": "pop",
+   "intensidad": 0.5
+  }
+ ],
+ "fotogramas": 497,
+ "tiempo_render_s": 67.7,
+ "tiempos_s": {
+  "preparar": 0.92,
+  "dibujar_y_codificar": 63.76
+ },
+ "voz_de_prueba": false
+}

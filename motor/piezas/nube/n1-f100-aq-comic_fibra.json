@@ -1,0 +1,112 @@
+{
+  "id": "n1-f100-aq-comic_fibra",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-AQ",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-093"
+  ],
+  "titulo": "[AQ] La final de la fibra: ¿avena o palomitas?",
+  "hojas": [
+    {
+      "plantilla": "fx_portada",
+      "kicker": "La final de la fibra",
+      "titulo": "¿Avena o palomitas?",
+      "texto": "Salto de altura. ¿Quién llega más alto?",
+      "dato": "Por cada 100 g",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "fx_vineta",
+      "kicker": "Final de salto de altura. El listón marca los gramos de fibra.",
+      "dice": [
+        "Fácil. Soy el desayuno estrella.",
+        "Yo venía a ver una peli."
+      ]
+    },
+    {
+      "plantilla": "fx_vineta",
+      "kicker": "Primer salto.",
+      "titular": "¡Hop!",
+      "opciones": [
+        {
+          "nombre": "Copos de avena",
+          "valor": "10,1 g"
+        }
+      ],
+      "texto": "Fibra por cada 100 g",
+      "dice": "Uy. Eso está muy alto."
+    },
+    {
+      "plantilla": "fx_vineta",
+      "kicker": "Turno de las palomitas. El listón sube.",
+      "titular": "Ñic, ñic",
+      "dice": [
+        "Calor, calor, calor.",
+        "No llega."
+      ]
+    },
+    {
+      "plantilla": "fx_vineta",
+      "titular": "¡Pop!",
+      "resalte": "Marcador final",
+      "opciones": [
+        {
+          "nombre": "Palomitas sin aceite",
+          "valor": "14,5 g"
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "10,1 g"
+        }
+      ],
+      "texto": "de fibra por cada 100 g",
+      "dice": "¿Perdona?"
+    },
+    {
+      "plantilla": "fx_cierre",
+      "dice": [
+        "¿Vienes al cine?",
+        "Revancha en el desayuno."
+      ],
+      "titular": "Fin",
+      "opciones": [
+        {
+          "nombre": "Palomitas sin aceite",
+          "valor": "14,5 g"
+        },
+        {
+          "nombre": "Copos de avena",
+          "valor": "10,1 g"
+        }
+      ],
+      "texto": "Fibra por cada 100 g",
+      "frase": "Para tu compañero de cine",
+      "fuente": "Fuente: USDA FoodData Central",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Final de la fibra por cada 100 g: avena contra palomitas. La avena ya tenía la medalla puesta 🌾\n\nPalomitas de maíz sin aceite: 14,5 g de fibra por cada 100 g 🍿\nCopos de avena (secos): 10,1 g por cada 100 g.\nEl dato es de palomitas hechas sin aceite y de avena en copos, tal cual.\nEs composición, no una recomendación de comer o evitar nada.\n\n¿Lo habrías acertado?\nPara tu compañero de cine 🎬\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #avena #palomitas #nutricion #comic",
+  "alt": [
+    "Portada de tebeo. La final de la fibra. ¿Avena o palomitas? Salto de altura. ¿Quién llega más alto? Por cada 100 g. Un copo de avena con cinta y dorsal levanta los brazos; una palomita pequeña mira el listón, muy alto. Desliza.",
+    "Estadio con público de lentejas, garbanzos y almendras. Final de salto de altura. El listón marca los gramos de fibra. La avena estira: Fácil. Soy el desayuno estrella. La palomita, con su entrada de cine: Yo venía a ver una peli.",
+    "Primer salto. ¡Hop! La avena pasa el listón de espaldas. El marcador: Copos de avena, 10,1 g. Fibra por cada 100 g. La palomita: Uy. Eso está muy alto.",
+    "Tres viñetas de noche. Turno de las palomitas. El listón sube: ñic, ñic. La palomita suda y piensa: Calor, calor, calor. El público aguanta la respiración y la avena, de brazos cruzados: No llega.",
+    "¡Pop! La palomita revienta y sale volando por encima del listón. Marcador final: palomitas sin aceite, 14,5 g; copos de avena, 10,1 g de fibra por cada 100 g. La avena: ¿Perdona?",
+    "Fin. En el podio, la palomita con la medalla de oro y su entrada: ¿Vienes al cine? La avena, con la de plata: Revancha en el desayuno. Palomitas sin aceite, 14,5 g; copos de avena, 10,1 g. Fibra por cada 100 g. Para tu compañero de cine. Fuente: USDA FoodData Central."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "AQ",
+    "lote": "f100-2026-11-03",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AQ en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019)."
+}

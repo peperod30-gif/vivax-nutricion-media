@@ -1,0 +1,265 @@
+{
+  "id": "n1-f100-bh-radiografia_plato",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "f100-BH",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-007",
+    "ALI-036",
+    "ALI-041",
+    "ALI-002",
+    "ALI-004",
+    "ALI-071",
+    "VIT-026",
+    "ALI-008",
+    "ALI-060",
+    "ALI-042",
+    "ALI-094",
+    "VIT-010"
+  ],
+  "titulo": "[BH] Radiografía del plato",
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Atlas del plato · Lámina I",
+      "titulo": "¿Quién lleva más {hierro}?",
+      "texto": "Una ensalada de garbanzos, a la lupa. Cifras por 100 g de cada ingrediente.",
+      "opciones": [
+        {
+          "nombre": "¿El garbanzo?"
+        },
+        {
+          "nombre": "¿La aceituna?"
+        }
+      ],
+      "dice": [
+        "Saquen la lupa: hoy, ensalada."
+      ],
+      "sigue": "Desliza",
+      "funcion_f100": "gancho"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atlas del plato · Lámina II",
+      "titulo": "Garbanzo cocido",
+      "texto": "Ejemplar común. Aparece en grupo.",
+      "unidad": "Por 100 g de garbanzo cocido, no del plato.",
+      "opciones": [
+        {
+          "nombre": "Fibra",
+          "valor": "7,6 g"
+        },
+        {
+          "nombre": "Proteína",
+          "valor": "8,9 g"
+        },
+        {
+          "nombre": "Hierro",
+          "valor": "2,9 mg"
+        }
+      ],
+      "frase": "Apunta el hierro. Luego vuelve.",
+      "dice": [
+        "¿Me estás mirando?"
+      ],
+      "franja": [
+        "a",
+        "b",
+        "c"
+      ],
+      "funcion_f100": "lupa",
+      "hecho_hoja": [
+        "ALI-007",
+        "ALI-036",
+        "ALI-041"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atlas del plato · Lámina III",
+      "titulo": "Pimiento rojo crudo",
+      "texto": "Ejemplar crudo, entero y en dados.",
+      "unidad": "Por 100 g de pimiento rojo crudo, no del plato.",
+      "opciones": [
+        {
+          "nombre": "Vitamina C",
+          "valor": "128 mg"
+        },
+        {
+          "nombre": "Hidratos de carbono",
+          "valor": "6,0 g"
+        }
+      ],
+      "frase": "Crudo. Al cocinarlo, la vitamina C baja.",
+      "dice": [
+        "¿Naranja? ¿Qué naranja?"
+      ],
+      "franja": [
+        "a",
+        "b"
+      ],
+      "funcion_f100": "lupa",
+      "hecho_hoja": [
+        "ALI-002"
+      ],
+      "filas": [
+        {
+          "cab": "Para comparar",
+          "nombre": "Naranja cruda",
+          "texto": "Vitamina C",
+          "valor": "53,2 mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atlas del plato · Lámina IV",
+      "titulo": "Huevo cocido",
+      "texto": "Ejemplar entero: clara y yema juntas.",
+      "unidad": "Por 100 g de huevo cocido, no del plato.",
+      "opciones": [
+        {
+          "nombre": "Proteína",
+          "valor": "12,6 g"
+        },
+        {
+          "nombre": "Vitamina D",
+          "valor": "2,2 µg"
+        },
+        {
+          "nombre": "Vitamina B2",
+          "valor": "0,51 mg"
+        }
+      ],
+      "frase": "Tranquilo, Ovidio: es un primo.",
+      "dice": [
+        "¡Me han partido por la mitad!"
+      ],
+      "franja": [
+        "a",
+        "b",
+        "c"
+      ],
+      "funcion_f100": "lupa",
+      "hecho_hoja": [
+        "ALI-004",
+        "ALI-071",
+        "VIT-026"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atlas del plato · Lámina V",
+      "titulo": "Aceituna negra en conserva",
+      "texto": "Ejemplar pequeño. Callado. Sospechoso.",
+      "unidad": "Por 100 g de aceituna negra en conserva, no del plato.",
+      "opciones": [
+        {
+          "nombre": "Hierro",
+          "valor": "6,3 mg"
+        },
+        {
+          "nombre": "Sodio",
+          "valor": "735 mg"
+        }
+      ],
+      "frase": "Lo que lleva, no lo que se absorbe.",
+      "dice": [
+        "Pequeña, pero con hierro."
+      ],
+      "franja": [
+        "a",
+        "b"
+      ],
+      "funcion_f100": "lupa",
+      "hecho_hoja": [
+        "ALI-008",
+        "ALI-060",
+        "ALI-041"
+      ],
+      "filas": [
+        {
+          "cab": "Lámina II",
+          "nombre": "Garbanzo cocido",
+          "texto": "Hierro",
+          "valor": "2,9 mg"
+        }
+      ],
+      "resalte": "Más hierro que el garbanzo."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atlas del plato · Lámina VI",
+      "titulo": "La lámina {completa}",
+      "opciones": [
+        {
+          "nombre": "Huevo cocido",
+          "texto": "Proteína",
+          "valor": "12,6 g"
+        },
+        {
+          "nombre": "Garbanzo cocido",
+          "texto": "Fibra",
+          "valor": "7,6 g"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "texto": "Potasio",
+          "valor": "237 mg"
+        },
+        {
+          "nombre": "Pimiento rojo crudo",
+          "texto": "Vitamina C",
+          "valor": "128 mg"
+        },
+        {
+          "nombre": "Aceituna negra en conserva",
+          "texto": "Hierro",
+          "valor": "6,3 mg"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "texto": "Vitamina E",
+          "valor": "14,4 mg"
+        }
+      ],
+      "unidad": "Por 100 g de cada ingrediente. Sin sumar.",
+      "frase": "Pásaselo a quien te roba las aceitunas.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "funcion_f100": "cierre",
+      "hecho_hoja": [
+        "ALI-004",
+        "ALI-007",
+        "ALI-042",
+        "ALI-002",
+        "ALI-008",
+        "VIT-010"
+      ]
+    }
+  ],
+  "pie_instagram": "Lupa a una ensalada de garbanzos: ¿quién lleva más hierro por 100 g, el garbanzo o la aceituna? 🔎\n\nGarbanzo cocido: fibra 7,6 g, proteína 8,9 g y hierro 2,9 mg.\nPimiento rojo crudo: vitamina C 128 mg e hidratos de carbono 6,0 g. La naranja cruda lleva 53,2 mg de vitamina C 🫑\nHuevo cocido: proteína 12,6 g, vitamina D 2,2 µg y vitamina B2 0,51 mg 🥚\nAceituna negra en conserva: hierro 6,3 mg y sodio 735 mg 🫒\nTomate crudo: potasio 237 mg. Cebolla cruda: fibra 1,7 g. Aceite de oliva: vitamina E 14,4 mg.\nCada cifra es por 100 g de ese ingrediente, no del plato entero: no se suman.\n\nEs lo que lleva cada alimento según la tabla de USDA, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\n¿Habías apostado por el garbanzo?\nPásaselo a quien te roba las aceitunas del plato.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #comidareal #legumbres #ensalada",
+  "alt": [
+    "Lámina de atlas antiguo en papel crema con doble filete. Titular: ¿Quién lleva más hierro? Una ensalada de garbanzos, a la lupa; cifras por 100 g de cada ingrediente. Un plato visto desde arriba con garbanzos, pimiento rojo, tomate, cebolla morada, medio huevo cocido y aceitunas negras; una lupa aumenta una aceituna. Notas a lápiz: ¿El garbanzo? ¿La aceituna? Ovidio, el huevo con gafas y pajarita, señala el plato y dice: Saquen la lupa: hoy, ensalada.",
+    "Lámina II. Garbanzo cocido, ejemplar común que aparece en grupo. La lupa enseña tres garbanzos grandes; uno con cara pregunta: ¿Me estás mirando? Flechas de atlas: a, fibra 7,6 g; b, proteína 8,9 g; c, hierro 2,9 mg. Nota a lápiz: Apunta el hierro. Luego vuelve. Por 100 g de garbanzo cocido, no del plato.",
+    "Lámina III. Pimiento rojo crudo, entero y en dados. Un pimiento con cara dice: ¿Naranja? ¿Qué naranja? Flechas: a, vitamina C 128 mg; b, hidratos de carbono 6,0 g. Para comparar: naranja cruda, vitamina C 53,2 mg. Nota a lápiz: Crudo. Al cocinarlo, la vitamina C baja. Por 100 g de pimiento rojo crudo, no del plato.",
+    "Lámina IV. Huevo cocido, ejemplar entero con clara y yema juntas. La lupa enseña medio huevo cocido. Flechas: a, proteína 12,6 g; b, vitamina D 2,2 µg; c, vitamina B2 0,51 mg. Ovidio, el huevo con gafas, se ve en la lupa y grita: ¡Me han partido por la mitad! Nota a lápiz: Tranquilo, Ovidio: es un primo. Por 100 g de huevo cocido, no del plato.",
+    "Lámina V. Aceituna negra en conserva: ejemplar pequeño, callado, sospechoso. Una aceituna con cara dice: Pequeña, pero con hierro. Flechas: a, hierro 6,3 mg; b, sodio 735 mg. Lámina II: garbanzo cocido, hierro 2,9 mg. Nota a lápiz: Más hierro que el garbanzo. Lo que lleva, no lo que se absorbe. Por 100 g de aceituna negra en conserva, no del plato.",
+    "Lámina VI, la lámina completa: el plato con seis flechas. Huevo cocido, proteína 12,6 g. Garbanzo cocido, fibra 7,6 g. Tomate crudo, potasio 237 mg. Pimiento rojo crudo, vitamina C 128 mg. Aceituna negra en conserva, hierro 6,3 mg. Aceite de oliva, vitamina E 14,4 mg. Por 100 g de cada ingrediente, sin sumar. Pásaselo a quien te roba las aceitunas. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BH",
+    "lote": "f100-2026-11-03",
+    "serie": "f100",
+    "mundo": "nuevo: láminas de atlas ilustrado con lupa, flechas y llamadas",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BH en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); USDA FoodData Central, SR Legacy (2018)."
+}

@@ -1,0 +1,81 @@
+{
+  "id": "n1-f100-bc-ruleta_nutrientes",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BC",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-035",
+    "ALI-010",
+    "ALI-049"
+  ],
+  "titulo": "[BC] La ruleta del magnesio",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Ruleta del magnesio",
+      "titulo": "¿Quién lleva más?",
+      "dice": "¡Yo, fijo!",
+      "voz": "Ruleta del magnesio: ¿quién lleva más?"
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Plátano",
+      "texto": "crudo · por 100 g",
+      "cifra": "27 mg",
+      "voz": "¡Plátano! 27 mg."
+    },
+    {
+      "plantilla": "fx_reel",
+      "dice": "¡Otra vez yo!",
+      "voz": "¿Poco? Otra vuelta."
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Pipas de calabaza",
+      "texto": "peladas · por 100 g",
+      "cifra": "592 mg",
+      "voz": "¡Pipas de calabaza! 592 mg."
+    },
+    {
+      "plantilla": "fx_reel",
+      "items": [
+        "Plátano 27 mg",
+        "Almendras 270 mg",
+        "Nueces 158 mg",
+        "Copos de avena secos 138 mg",
+        "Cacahuetes crudos 168 mg",
+        "Pipas de calabaza 592 mg"
+      ]
+    },
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Magnesio por 100 g",
+      "frase": "Mándaselo a quien apostaba por el plátano",
+      "voz": "Mándaselo a quien apostaba por el plátano."
+    }
+  ],
+  "pie_instagram": "El plátano estaba seguro de llevarse la ruleta del magnesio 🎡\n\nMagnesio por cada 100 g: plátano crudo, 27 mg; pipas de calabaza peladas, 592 mg.\nEn la misma ruleta: almendras 270 mg, cacahuetes crudos 168 mg, nueces 158 mg y copos de avena secos 138 mg, todo por 100 g.\nEs la cantidad que hay en el alimento, no la que se absorbe. Datos de la tabla de composición de USDA 🔎\n\nEs composición por 100 g de cada alimento, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Dónde habrías parado tú la ruleta?\nMándaselo a quien apostaba por el plátano.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#magnesio #nutricion #frutossecos #semillas",
+  "alt": [
+    "Reel de una ruleta de plató dibujada, de noche, con focos. Arriba: «Ruleta del magnesio. ¿Quién lleva más?». Seis casillas con muñecos: plátano, almendras, nueces, copos de avena, cacahuetes y pipas de calabaza. El plátano dice «¡Yo, fijo!». La ruleta gira y cae en el plátano: crudo, por 100 g, 27 mg. Segunda vuelta: frena despacio, se arrastra por el plátano («¡Otra vez yo!») y salta a las pipas de calabaza: peladas, por 100 g, 592 mg. Al final cada casilla enseña su cifra de magnesio por 100 g: almendras 270 mg, cacahuetes crudos 168 mg, nueces 158 mg, copos de avena secos 138 mg. Botón: mándaselo a quien apostaba por el plátano."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BC",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: ruleta de plató con casillas de alimentos y focos",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BC en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019). Voz sintética (IA).",
+  "ia": true
+}

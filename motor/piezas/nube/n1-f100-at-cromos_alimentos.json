@@ -1,0 +1,247 @@
+{
+  "id": "n1-f100-at-cromos_alimentos",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "f100-AT",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-031",
+    "ALI-007",
+    "ALI-044",
+    "ALI-023",
+    "ALI-035",
+    "ALI-012",
+    "ALI-040",
+    "ALI-038",
+    "ALI-053",
+    "ALI-010",
+    "ALI-006"
+  ],
+  "titulo": "[AT] Cromos de la despensa",
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Cinco cromos. {Uno brilla.}",
+      "texto": "Tres datos por cromo, por 100 g. ¿Cuál brilla? Apuesta antes de deslizar.",
+      "dice": [
+        "¿Me toca el brillante?",
+        "Tranqui, que es mío."
+      ],
+      "sigue": "Desliza",
+      "funcion_f100": "gancho",
+      "hecho_hoja": null
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Agus",
+      "unidad": "por 100 g",
+      "texto": "Aguacate crudo",
+      "opciones": [
+        {
+          "nombre": "Lluvia de potasio",
+          "valor": "485 mg"
+        },
+        {
+          "nombre": "Placaje de fibra",
+          "valor": "6,7 g"
+        },
+        {
+          "nombre": "Azúcares de puntillas",
+          "valor": "0,7 g"
+        }
+      ],
+      "frase": "Mascota oficial del álbum. Eso dice él.",
+      "franja": [
+        "Uno de cinco"
+      ],
+      "funcion_f100": "cromo",
+      "hecho_hoja": [
+        "ALI-007",
+        "ALI-031",
+        "ALI-044"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Plácido",
+      "unidad": "por 100 g",
+      "texto": "Plátano crudo",
+      "opciones": [
+        {
+          "nombre": "Corona de potasio",
+          "valor": "358 mg"
+        },
+        {
+          "nombre": "Racimo de hidratos",
+          "valor": "22,8 g"
+        },
+        {
+          "nombre": "Magnesio real",
+          "valor": "27 mg"
+        }
+      ],
+      "frase": "Se cree el rey del potasio. No ha visto el cromo de Agus.",
+      "franja": [
+        "Dos de cinco"
+      ],
+      "funcion_f100": "cromo",
+      "hecho_hoja": [
+        "ALI-023",
+        "ALI-031",
+        "ALI-035"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Bruno",
+      "unidad": "por 100 g",
+      "texto": "Brócoli cocido",
+      "opciones": [
+        {
+          "nombre": "Silbato de vitamina C",
+          "valor": "65 mg"
+        },
+        {
+          "nombre": "Tarjeta de calcio",
+          "valor": "40 mg"
+        },
+        {
+          "nombre": "Penalti de fibra",
+          "valor": "3,3 g"
+        }
+      ],
+      "frase": "Reglas son reglas: este cromo es de brócoli cocido.",
+      "franja": [
+        "Tres de cinco"
+      ],
+      "funcion_f100": "cromo",
+      "hecho_hoja": [
+        "ALI-012",
+        "ALI-038",
+        "ALI-040"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Nacho",
+      "unidad": "por 100 g",
+      "texto": "Nueces",
+      "opciones": [
+        {
+          "nombre": "Grasa en el sumario",
+          "valor": "65,2 g"
+        },
+        {
+          "nombre": "Magnesio en acta",
+          "valor": "158 mg"
+        },
+        {
+          "nombre": "Fibra en el expediente",
+          "valor": "6,7 g"
+        }
+      ],
+      "frase": "Consta en el expediente: su fibra se repite en otro cromo.",
+      "franja": [
+        "Cuatro de cinco"
+      ],
+      "funcion_f100": "cromo",
+      "hecho_hoja": [
+        "ALI-006",
+        "ALI-010",
+        "ALI-053"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Kiko",
+      "unidad": "por 100 g",
+      "texto": "Kiwi crudo",
+      "opciones": [
+        {
+          "nombre": "Rayo de vitamina C",
+          "valor": "93 mg"
+        },
+        {
+          "nombre": "Pelusa de fibra",
+          "valor": "3,0 g"
+        },
+        {
+          "nombre": "Hidratos de bolsillo",
+          "valor": "14,7 g"
+        }
+      ],
+      "frase": "Siempre decía ¿y yo qué? Hoy le ha tocado ser el brillante.",
+      "franja": [
+        "Cinco de cinco",
+        "¡Brillante!"
+      ],
+      "funcion_f100": "cromo",
+      "hecho_hoja": [
+        "ALI-007",
+        "ALI-012",
+        "ALI-023"
+      ]
+    },
+    {
+      "plantilla": "lista",
+      "kicker": "Cromos de la despensa",
+      "titulo": "Colección {completa}",
+      "resalte": "¡Repe!",
+      "texto": "Agus y Nacho: {6,7 g} de fibra por 100 g. Los dos.",
+      "opciones": [
+        {
+          "nombre": "Agus"
+        },
+        {
+          "nombre": "Plácido"
+        },
+        {
+          "nombre": "Bruno"
+        },
+        {
+          "nombre": "Nacho"
+        },
+        {
+          "nombre": "Kiko"
+        }
+      ],
+      "frase": "Mándaselo a quien te cambiaba cromos en el recreo.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "funcion_f100": "cierre",
+      "hecho_hoja": [
+        "ALI-007",
+        "ALI-006"
+      ]
+    }
+  ],
+  "pie_instagram": "Sobre nuevo: cinco cromos de la despensa con tres datos cada uno 🃏\n\nAgus, aguacate crudo: potasio 485 mg, fibra 6,7 g y azúcares 0,7 g 🥑\nPlácido, plátano crudo: potasio 358 mg, hidratos de carbono 22,8 g y magnesio 27 mg 🍌\nBruno, brócoli cocido: vitamina C 65 mg, calcio 40 mg y fibra 3,3 g 🥦\nNacho, nueces: grasa 65,2 g, magnesio 158 mg y fibra 6,7 g.\nKiko, kiwi crudo: vitamina C 93 mg, fibra 3,0 g e hidratos de carbono 14,7 g 🥝\nTodo por cada 100 g. La repe: Agus y Nacho llevan la misma fibra, 6,7 g.\n\nEs lo que lleva cada alimento según la tabla de USDA, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál te faltaba?\nMándaselo a quien te cambiaba cromos en el recreo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #comidareal #alimentos #cromos",
+  "alt": [
+    "Portada con fondo oliva: un sobre de cromos abierto del que salen cinco cartas en abanico; la del centro brilla. Agus, el aguacate, pregunta si le toca el brillante y Plácido, el plátano con corona, dice que es suyo. Titular: Cinco cromos. Uno brilla. Tres datos por cromo, por 100 g.",
+    "Cromo de Agus (aguacate crudo), por 100 g. Ataques: Lluvia de potasio, 485 mg; Placaje de fibra, 6,7 g; Azúcares de puntillas, 0,7 g. Frase: Mascota oficial del álbum. Eso dice él.",
+    "Cromo de Plácido (plátano crudo), por 100 g. Ataques: Corona de potasio, 358 mg; Racimo de hidratos, 22,8 g; Magnesio real, 27 mg. Frase: Se cree el rey del potasio. No ha visto el cromo de Agus.",
+    "Cromo de Bruno (brócoli cocido), por 100 g. Ataques: Silbato de vitamina C, 65 mg; Tarjeta de calcio, 40 mg; Penalti de fibra, 3,3 g. Frase: Reglas son reglas: este cromo es de brócoli cocido.",
+    "Cromo de Nacho (nueces), por 100 g. Ataques: Grasa en el sumario, 65,2 g; Magnesio en acta, 158 mg; Fibra en el expediente, 6,7 g. Frase: Consta en el expediente: su fibra se repite en otro cromo.",
+    "Cromo de Kiko (kiwi crudo), por 100 g. Ataques: Rayo de vitamina C, 93 mg; Pelusa de fibra, 3,0 g; Hidratos de bolsillo, 14,7 g. Frase: Siempre decía ¿y yo qué? Hoy le ha tocado ser el brillante. Es el cromo brillante.",
+    "Página del álbum con los cinco cromos en sus fundas: Agus, Plácido, Bruno, Nacho y Kiko. En la sexta funda, una repe: Agus y Nacho llevan 6,7 g de fibra por 100 g los dos. Colección completa. Mándaselo a quien te cambiaba cromos en el recreo."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "AT",
+    "lote": "f100-2026-11-03",
+    "serie": "f100",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AT en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019)."
+}

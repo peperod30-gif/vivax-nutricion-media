@@ -1,0 +1,159 @@
+{
+  "id": "n1-f100-bl-pregunta_del_dia_dm",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "f100-BL",
+  "pilar": "mitos",
+  "hechos": [
+    "ALI-029",
+    "ALI-070",
+    "ALI-117",
+    "DEB-009",
+    "DEB-010",
+    "DEB-011"
+  ],
+  "titulo": "[BL] Pregunta del día en mensajes: grasa saturada",
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Pregunta del día",
+      "franja": [
+        "Principal",
+        "Solicitudes",
+        "Eliminar",
+        "Aceptar"
+      ],
+      "filas": [
+        {
+          "cab": "Pregunta del día",
+          "texto": "Una pregunta que se oye mucho"
+        }
+      ],
+      "titulo": "¿Es verdad que la grasa saturada es {mala}?",
+      "dice": [
+        "Respuesta corta: depende.",
+        "Quiero la larga."
+      ],
+      "funcion_f100": "gancho: solicitud de mensaje",
+      "hecho_hoja": null
+    },
+    {
+      "plantilla": "f_ranking",
+      "dia": "Pregunta del día",
+      "franja": [
+        "Se oye mucho",
+        "Nacho"
+      ],
+      "titulo": "¿Es verdad que la grasa saturada es mala?",
+      "texto": "Primero, cuánta lleva cada uno.",
+      "titular": "Grasa saturada",
+      "unidad": "por 100 g",
+      "opciones": [
+        {
+          "nombre": "Mantequilla",
+          "valor": "51,4 g"
+        },
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "13,8 g"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "6,1 g"
+        },
+        {
+          "nombre": "Aguacate crudo",
+          "valor": "2,1 g"
+        }
+      ],
+      "dice": [
+        "¿Y eso es mucho o poco?"
+      ],
+      "funcion_f100": "datos por 100 g",
+      "hecho_hoja": [
+        "ALI-029",
+        "ALI-070",
+        "ALI-117"
+      ]
+    },
+    {
+      "plantilla": "lista",
+      "dia": "Pregunta del día",
+      "franja": [
+        "Postura A",
+        "Nacho"
+      ],
+      "texto": "Reducirla durante dos años o más: los eventos cardiovasculares bajaron un {17 %}.",
+      "dato": "Letra pequeña: la mortalidad total apenas cambió.",
+      "dice": [
+        "Ahora que hable el otro lado."
+      ],
+      "funcion_f100": "postura A",
+      "hecho_hoja": [
+        "DEB-009"
+      ]
+    },
+    {
+      "plantilla": "ranking",
+      "dia": "Pregunta del día",
+      "franja": [
+        "Postura B",
+        "Plácido"
+      ],
+      "texto": "Hasta {339.090} personas seguidas: más grasa saturada no se asoció a más mortalidad ni a más enfermedad coronaria.",
+      "dato": "Es observacional: certeza muy baja, según sus autores.",
+      "dice": [
+        "Tranqui, que soy el rey."
+      ],
+      "funcion_f100": "postura B",
+      "hecho_hoja": [
+        "DEB-010"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Pregunta del día",
+      "dia": "Pregunta del día",
+      "franja": [
+        "El matiz",
+        "Agus"
+      ],
+      "resalte": "Depende",
+      "titular": "De con qué se cambie:",
+      "items": [
+        "Por aceite vegetal poliinsaturado: la enfermedad cardiovascular bajó en torno a un {30 %}.",
+        "Por hidratos refinados y azúcares: no la redujo."
+      ],
+      "dato": "Según la Asociación Americana del Corazón.",
+      "frase": "Envíaselo a quien te lo preguntó.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "funcion_f100": "veredicto y reenvío",
+      "hecho_hoja": [
+        "DEB-011"
+      ]
+    }
+  ],
+  "pie_instagram": "Pregunta del día: ¿es verdad que la grasa saturada es mala? Respuesta corta: depende 🤔\n\nPor 100 g, grasa saturada: mantequilla 51,4 g, aceite de oliva 13,8 g, nueces 6,1 g y aguacate crudo 2,1 g (USDA).\nPostura A: en una revisión Cochrane de ensayos aleatorizados, los de al menos dos años sugieren que reducirla rebaja un 17 % los eventos cardiovasculares combinados. La mortalidad total apenas cambió.\nPostura B: en un metaanálisis de cohortes (hasta 339.090 participantes), la grasa saturada no se asoció con la mortalidad total, la cardiovascular ni la cardiopatía coronaria. Es observacional y sus autores califican esa certeza de muy baja.\nPara la Asociación Americana del Corazón, depende de con qué se sustituya: los ensayos que la cambiaron por aceite vegetal poliinsaturado redujeron la enfermedad cardiovascular en torno a un 30 %; sustituirla por hidratos de carbono refinados y azúcares no la redujo.\n\nEs un resumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Qué otra pregunta has oído mucho?\nEnvíaselo a quien te lo preguntó.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #grasasaturada #mitosdenutricion #comidareal",
+  "alt": [
+    "Fondo oliva con rayos de cómic. Un móvil negro dibujado a mano enseña la bandeja de mensajes de vivax_nutri, pestaña Solicitudes: llega un mensaje de Pregunta del día, con un signo de interrogación como avatar: una pregunta que se oye mucho. Un bocadillo enorme se sale del móvil: ¿Es verdad que la grasa saturada es mala? Debajo, los botones Eliminar y Aceptar. Agus, el aguacate, señala Aceptar y dice: Respuesta corta: depende. Nacho, la nuez con gafas, pensativo, responde: Quiero la larga.",
+    "Dentro del hilo de Pregunta del día. Nacho contesta: Primero, cuánta lleva cada uno. Una tarjeta de grasa saturada por 100 g con barras: mantequilla 51,4 g, aceite de oliva 13,8 g, nueces 6,1 g y aguacate crudo 2,1 g. Agus, pensativo, pregunta: ¿Y eso es mucho o poco?",
+    "Postura A, en una nota de voz de Nacho: Reducirla durante dos años o más: los eventos cardiovasculares bajaron un 17 %. Letra pequeña: la mortalidad total apenas cambió. Plácido, el plátano, está escribiendo. Nacho guiña un ojo y dice: Ahora que hable el otro lado.",
+    "Postura B, en una nota de voz de Plácido: Hasta 339.090 personas seguidas: más grasa saturada no se asoció a más mortalidad ni a más enfermedad coronaria. Letra pequeña: es observacional, certeza muy baja según sus autores. Agus está escribiendo. Plácido, con su corona, dice: Tranqui, que soy el rey.",
+    "El matiz, de Agus, con un sticker enorme: Depende. De con qué se cambie: por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; por hidratos refinados y azúcares, no la redujo. Según la Asociación Americana del Corazón. Abajo, un avión de papel: Envíaselo a quien te lo preguntó. Aviso: contenido divulgativo, no es consejo personal ni sustituye a tu médico o dietista-nutricionista. Logo de Vivax Nutrición y @vivax_nutri."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BL",
+    "lote": "f100-2026-11-03",
+    "serie": "f100",
+    "mundo": "nuevo: bandeja de mensajes directos dibujada con personajes",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BL en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Hooper L et al. Cochrane Database of Systematic Reviews 2020; de Souza RJ et al. BMJ 2015. Y 1 más."
+}

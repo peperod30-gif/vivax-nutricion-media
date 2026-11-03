@@ -1,0 +1,102 @@
+{
+  "id": "n1-f100-bk-gran_premio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BK",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-002"
+  ],
+  "titulo": "[BK] Gran Premio de la vitamina A",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Gran Premio",
+      "titulo": "de la vitamina A",
+      "texto": "¿Quién cruza primero?"
+    },
+    {
+      "plantilla": "fx_reel",
+      "frase": "Cada coche corre según su vitamina A por 100 g",
+      "items": [
+        "Espinacas crudas",
+        "Mantequilla con sal",
+        "Boniato cocido",
+        "Zanahoria cruda"
+      ],
+      "kicker": "En cabeza"
+    },
+    {
+      "plantilla": "fx_reel",
+      "dice": "¡Y salen!",
+      "texto": "¡Las espinacas, como un cohete!",
+      "frase": "¡Hasta la mantequilla las pasa!",
+      "sigue": "Zanahoria y boniato, ¡rueda con rueda!",
+      "titulo": "Meta"
+    },
+    {
+      "plantilla": "fx_reel",
+      "titulo": "¡Foto finish!",
+      "dice": "¡Lo veo clarísimo!",
+      "frase": "¡Por medio coche, la zanahoria!",
+      "items": [
+        "Zanahoria cruda 835 µg",
+        "Boniato cocido 787 µg"
+      ]
+    },
+    {
+      "plantilla": "fx_reel",
+      "titulo": "Vitamina A por cada 100 g",
+      "filas": [
+        {
+          "nombre": "Zanahoria cruda",
+          "valor": "835 µg"
+        },
+        {
+          "nombre": "Boniato cocido",
+          "valor": "787 µg"
+        },
+        {
+          "nombre": "Mantequilla con sal",
+          "valor": "684 µg"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "469 µg"
+        }
+      ]
+    },
+    {
+      "plantilla": "fx_reel",
+      "frase": "Mándaselo a tu amigo de las espinacas"
+    }
+  ],
+  "pie_instagram": "Cuatro alimentos, una carrera y una foto finish por la vitamina A 🏁\n\nVitamina A por cada 100 g: zanahoria cruda, 835 µg; boniato cocido, 787 µg; mantequilla con sal, 684 µg; espinacas crudas, 469 µg 🥕\nEn la carrera, cada coche corre según su cifra: cuando la zanahoria cruza la meta, cada uno ha recorrido lo que marca su vitamina A. La salida de cohete de las espinacas y el rebufo del boniato son cosa de los dibujos.\nOjo con la base: 100 g es mucho más que una ración habitual de muchos de estos alimentos, sobre todo de la mantequilla.\nDatos de la tabla de composición de USDA.\n\nEs composición por 100 g de cada alimento en el estado indicado, no una recomendación de cantidad ni de comer o evitar nada; la tabla mide lo que lleva el alimento, no lo que se absorbe.\n\n¿Por quién apostabas?\nMándaselo a tu amigo de las espinacas 🏎️\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaA #zanahoria #boniato #espinacas #nutricion",
+  "alt": [
+    "Reel de dibujos: el Gran Premio de la vitamina A. Cuatro coches que son alimentos salen de la misma línea con el semáforo en rojo: espinacas crudas, mantequilla con sal, boniato cocido y zanahoria cruda; cada coche corre según su vitamina A por 100 g. Las espinacas salen como un cohete, pero la zanahoria y el boniato las pasan, y después la mantequilla. El boniato se pone en cabeza a rebufo y la zanahoria lo vuelve a pasar antes de la meta. Foto finish en blanco y negro: la zanahoria cruda, 835 µg, cruza por medio coche delante del boniato cocido, 787 µg. Tablero final por cada 100 g: zanahoria cruda 835 µg, boniato cocido 787 µg, mantequilla con sal 684 µg y espinacas crudas 469 µg, cada coche a la distancia que marca su cifra. Mándaselo a tu amigo de las espinacas."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BK",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: carrera de coches de dibujos (circuito, parrilla, humo, meta a cuadros)",
+    "voz": {
+      "motor": "elevenlabs",
+      "voz": "7QQzpAyzlKTVrRzQJmTE",
+      "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+      "modelo": "eleven_v4",
+      "caracteres": 197
+    },
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BK en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2018). Voz sintética (IA).",
+  "ia": true
+}
