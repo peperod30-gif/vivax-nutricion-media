@@ -1,0 +1,899 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 16.64,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.96,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.75,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.3,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.4,
+ "n_cambios_visuales": 413,
+ "bucle_dif_ultimo_primero": 78.83,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Ñamor",
+   "contando": false,
+   "r": [
+    146,
+    250,
+    324,
+    331
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Patata o boniato?",
+   "contando": false,
+   "r": [
+    85,
+    325,
+    925,
+    472
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Patata,",
+   "contando": false,
+   "r": [
+    149,
+    1011,
+    369,
+    1116
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cocida",
+   "contando": false,
+   "r": [
+    363,
+    1000,
+    543,
+    1103
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "De toda la vida.",
+   "contando": false,
+   "r": [
+    158,
+    534,
+    473,
+    649
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "A 100 g de ti",
+   "contando": false,
+   "r": [
+    195,
+    1103,
+    433,
+    1175
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Tortilla",
+   "contando": false,
+   "r": [
+    185,
+    1206,
+    296,
+    1265
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Puré",
+   "contando": false,
+   "r": [
+    362,
+    1197,
+    440,
+    1254
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Guisos",
+   "contando": false,
+   "r": [
+    507,
+    1186,
+    621,
+    1246
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    601,
+    493,
+    848,
+    692
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "Ñamor",
+   "contando": false,
+   "r": [
+    146,
+    250,
+    324,
+    331
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "¿Patata o boniato?",
+   "contando": false,
+   "r": [
+    85,
+    325,
+    925,
+    472
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "Boniato,",
+   "contando": false,
+   "r": [
+    179,
+    1002,
+    434,
+    1094
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "cocido",
+   "contando": false,
+   "r": [
+    434,
+    1002,
+    613,
+    1094
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "Naranja por dentro.",
+   "contando": false,
+   "r": [
+    605,
+    594,
+    899,
+    668
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "A 100 g de ti",
+   "contando": false,
+   "r": [
+    219,
+    1098,
+    454,
+    1156
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    210,
+    1210,
+    298,
+    1265
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "2,5 g",
+   "contando": false,
+   "r": [
+    310,
+    1197,
+    438,
+    1270
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "Potasio",
+   "contando": false,
+   "r": [
+    526,
+    1210,
+    649,
+    1265
+   ]
+  },
+  {
+   "t": 2.306,
+   "texto": "230 mg",
+   "contando": false,
+   "r": [
+    661,
+    1197,
+    846,
+    1270
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "Ñamor",
+   "contando": false,
+   "r": [
+    146,
+    250,
+    324,
+    331
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "¿Patata o boniato?",
+   "contando": false,
+   "r": [
+    85,
+    325,
+    925,
+    472
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "Boniato,",
+   "contando": false,
+   "r": [
+    201,
+    988,
+    460,
+    1090
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "cocido",
+   "contando": false,
+   "r": [
+    456,
+    998,
+    638,
+    1097
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "Naranja por dentro.",
+   "contando": false,
+   "r": [
+    644,
+    597,
+    938,
+    682
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "A 100 g de ti",
+   "contando": false,
+   "r": [
+    238,
+    1086,
+    475,
+    1153
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    225,
+    1197,
+    316,
+    1256
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "2,5 g",
+   "contando": false,
+   "r": [
+    325,
+    1188,
+    455,
+    1266
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "Potasio",
+   "contando": false,
+   "r": [
+    541,
+    1209,
+    666,
+    1269
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "230 mg",
+   "contando": false,
+   "r": [
+    676,
+    1201,
+    864,
+    1281
+   ]
+  },
+  {
+   "t": 3.441,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    237,
+    501,
+    567,
+    662
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "Ñamor",
+   "contando": false,
+   "r": [
+    146,
+    250,
+    324,
+    331
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "¡La patata vuelve!",
+   "contando": false,
+   "r": [
+    182,
+    345,
+    828,
+    484
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "Patata,",
+   "contando": false,
+   "r": [
+    179,
+    1002,
+    393,
+    1094
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "cocida",
+   "contando": false,
+   "r": [
+    393,
+    1002,
+    568,
+    1094
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "¿Paso? Mira esto.",
+   "contando": false,
+   "r": [
+    214,
+    550,
+    540,
+    617
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "Potasio",
+   "contando": false,
+   "r": [
+    194,
+    1122,
+    330,
+    1182
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "379 mg",
+   "contando": false,
+   "r": [
+    343,
+    1107,
+    544,
+    1188
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    616,
+    1124,
+    704,
+    1179
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "1,8 g",
+   "contando": false,
+   "r": [
+    716,
+    1111,
+    835,
+    1184
+   ]
+  },
+  {
+   "t": 9.256,
+   "texto": "Boniato: 230 mg",
+   "contando": false,
+   "r": [
+    273,
+    1229,
+    593,
+    1290
+   ]
+  },
+  {
+   "t": 13.511,
+   "texto": "¡Es un match!",
+   "contando": false,
+   "r": [
+    99,
+    289,
+    911,
+    500
+   ]
+  },
+  {
+   "t": 13.511,
+   "texto": "Potasio",
+   "contando": false,
+   "r": [
+    141,
+    1084,
+    265,
+    1139
+   ]
+  },
+  {
+   "t": 13.511,
+   "texto": "379 mg",
+   "contando": false,
+   "r": [
+    277,
+    1071,
+    459,
+    1144
+   ]
+  },
+  {
+   "t": 13.511,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    666,
+    1084,
+    754,
+    1139
+   ]
+  },
+  {
+   "t": 13.511,
+   "texto": "2,5 g",
+   "contando": false,
+   "r": [
+    766,
+    1071,
+    894,
+    1144
+   ]
+  },
+  {
+   "t": 13.511,
+   "texto": "Por cada 100 g, cocidos",
+   "contando": false,
+   "r": [
+    274,
+    1186,
+    736,
+    1247
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "¡Es un match!",
+   "contando": false,
+   "r": [
+    99,
+    289,
+    911,
+    500
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "Potasio",
+   "contando": false,
+   "r": [
+    141,
+    1084,
+    265,
+    1139
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "379 mg",
+   "contando": false,
+   "r": [
+    277,
+    1071,
+    459,
+    1144
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    666,
+    1084,
+    754,
+    1139
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "2,5 g",
+   "contando": false,
+   "r": [
+    766,
+    1071,
+    894,
+    1144
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "Por cada 100 g, cocidos",
+   "contando": false,
+   "r": [
+    274,
+    1186,
+    736,
+    1247
+   ]
+  },
+  {
+   "t": 16.567,
+   "texto": "Mándaselo a tu amigo del boniato",
+   "contando": false,
+   "r": [
+    232,
+    1310,
+    926,
+    1374
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.306,
+  3.441,
+  9.256,
+  13.511,
+  16.567
+ ],
+ "sonido": {
+  "lufs": -16.03,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.46,
+  "tiempo_reduccion_mas_1db_pct": 0.05,
+  "efectos_por_tipo": {
+   "whoosh": 3,
+   "pop": 7,
+   "sello": 2,
+   "tac": 1,
+   "subida": 1,
+   "golpe": 1,
+   "contador": 21,
+   "ding": 1,
+   "tic": 1
+  },
+  "descartados": 0,
+  "duracion_s": 16.579,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 240,
+   "lineas": [
+    {
+     "texto": "Todos le dan a paso a la patata.",
+     "hablado": "Todos le dan a paso a la patata.",
+     "t0": 0.0213,
+     "t1": 2.0063
+    },
+    {
+     "texto": "Al boniato, me gusta: 2,5 gramos de fibra.",
+     "hablado": "Al boniato, me gusta: dos coma cinco gramos de fibra.",
+     "t0": 2.0463,
+     "t1": 5.5213
+    },
+    {
+     "texto": "Pero la patata vuelve: 379 miligramos de potasio.",
+     "hablado": "Pero la patata vuelve: trescientos setenta y nueve miligramos de potasio.",
+     "t0": 5.8213,
+     "t1": 9.9263
+    },
+    {
+     "texto": "¡Es un match! Ella pone el potasio; él, la fibra.",
+     "hablado": "¡Es un match! Ella pone el potasio; él, la fibra.",
+     "t0": 10.1463,
+     "t1": 13.5413
+    },
+    {
+     "texto": "Mándaselo a tu amigo del boniato.",
+     "hablado": "Mándaselo a tu amigo del boniato.",
+     "t0": 13.7213,
+     "t1": 15.6363
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.0
+  }
+ },
+ "efectos": [
+  {
+   "t": 1.626,
+   "tipo": "whoosh",
+   "intensidad": 0.7
+  },
+  {
+   "t": 1.9459999999999997,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.941,
+   "tipo": "sello",
+   "intensidad": 0.8
+  },
+  {
+   "t": 3.761,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.781000000000001,
+   "tipo": "subida",
+   "intensidad": 0.6
+  },
+  {
+   "t": 5.801,
+   "tipo": "golpe",
+   "intensidad": 0.95
+  },
+  {
+   "t": 5.851,
+   "tipo": "whoosh",
+   "intensidad": 0.55
+  },
+  {
+   "t": 8.406,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.856,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 4.311,
+   "tipo": "tac",
+   "intensidad": 0.5
+  },
+  {
+   "t": 9.206,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.826,
+   "tipo": "whoosh",
+   "intensidad": 0.6
+  },
+  {
+   "t": 10.516,
+   "tipo": "ding",
+   "intensidad": 0.85
+  },
+  {
+   "t": 11.781,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.061,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.641,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.656,
+   "tipo": "tic",
+   "intensidad": 0.7
+  },
+  {
+   "t": 6.121,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.231,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.341,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.451,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.561,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.671,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.781,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.891,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.001,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.111,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.221,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.331,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.441,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.551,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.661,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.771,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.881,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.991,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.101,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.211,
+   "tipo": "contador",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.321,
+   "tipo": "contador",
+   "intensidad": 0.35
+  }
+ ],
+ "fotogramas": 498,
+ "tiempo_render_s": 60.1,
+ "tiempos_s": {
+  "preparar": 2.14,
+  "dibujar_y_codificar": 56.36
+ },
+ "voz_de_prueba": false
+}

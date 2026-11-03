@@ -1,0 +1,129 @@
+{
+  "id": "n1-f100-av-telediario_nevera",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-AV",
+  "pilar": "mitos",
+  "hechos": [
+    "ALI-029",
+    "DEB-009",
+    "DEB-010",
+    "DEB-011"
+  ],
+  "titulo": "[AV] Noticias de la nevera: la mantequilla, a debate",
+  "hojas": [
+    {
+      "plantilla": "fx_noticias",
+      "kicker": "Última hora",
+      "titulo": "¿La mantequilla, enemiga del corazón?",
+      "texto": [
+        "En directo",
+        "Noticias de la nevera",
+        "Desde la nevera",
+        "Titulares",
+        "La mantequilla, a debate"
+      ],
+      "voz": "Última hora: ¿tu {mantequilla}, enemiga?"
+    },
+    {
+      "plantilla": "fx_noticias",
+      "kicker": "El dato",
+      "titulo": "Mantequilla: 51,4 g de grasa saturada por 100 g",
+      "texto": [
+        "Depende",
+        "Leo, en el plató",
+        "Agus, en la nevera"
+      ],
+      "voz": "{Depende}."
+    },
+    {
+      "plantilla": "fx_noticias",
+      "titulo": "Postura uno",
+      "cifra": "17 %",
+      "texto": [
+        "menos eventos cardiovasculares",
+        "al reducir la grasa saturada",
+        "Revisión Cochrane · calidad moderada",
+        "Tres posturas, ninguna sentencia"
+      ],
+      "voz": "Menos grasa saturada, menos eventos cardiovasculares."
+    },
+    {
+      "plantilla": "fx_noticias",
+      "titulo": "Postura dos",
+      "texto": [
+        "Sin asociación",
+        "con la mortalidad total",
+        "Metaanálisis de cohortes · certeza muy baja"
+      ],
+      "voz": "¿Y la mortalidad total? Apenas cambia."
+    },
+    {
+      "plantilla": "fx_noticias",
+      "kicker": "Última hora",
+      "titulo": "Postura tres: el sustituto",
+      "texto": [
+        "Depende de con qué se cambie",
+        "Asociación Americana del Corazón"
+      ],
+      "voz": "Depende del {sustituto}."
+    },
+    {
+      "plantilla": "fx_noticias",
+      "cifra": "30 %",
+      "texto": [
+        "Aceite vegetal poliinsaturado",
+        "en torno a un",
+        "menos enfermedad cardiovascular"
+      ],
+      "voz": "Por aceite poliinsaturado, en torno a un {30 %} menos."
+    },
+    {
+      "plantilla": "fx_noticias",
+      "titulo": "No",
+      "texto": [
+        "Hidratos refinados y azúcares",
+        "no la redujo",
+        "Noticias de la nevera con @vivax_nutri"
+      ],
+      "voz": "Por azúcares y refinados, {no}."
+    },
+    {
+      "plantilla": "fx_noticias",
+      "kicker": "Última hora",
+      "titulo": "Mándaselo a quien unta sin mirar",
+      "voz": "Mándaselo a quien unta sin mirar."
+    }
+  ],
+  "pie_instagram": "Última hora desde la nevera: la grasa saturada de la mantequilla, a debate 📺\n\nLa mantequilla lleva 51,4 g de grasa saturada por cada 100 g (USDA).\nPostura uno: en una revisión Cochrane de ensayos de al menos dos años, reducir la grasa saturada rebaja un 17 % los eventos cardiovasculares combinados (calidad moderada), pero apenas cambia la mortalidad total, y no vio diferencias claras entre cambiarla por grasa poliinsaturada o por hidratos de carbono.\nEn la otra orilla, un metaanálisis de cohortes no la asoció con la mortalidad total ni con la cardiovascular. Es observacional y los autores califican la certeza de muy baja.\nY la tercera, la de la Asociación Americana del Corazón: depende del sustituto. Cuando se cambió por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; con hidratos refinados y azúcares, no bajó.\n\nSon posturas con sus datos, no una recomendación personal ni un consejo de consumo.\n\n¿Sorprendido?\nMándaselo a quien unta sin mirar.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasasaturada #mantequilla #nutricion #debate",
+  "alt": [
+    "Reel de informativo de televisión dibujado. Una botella de leche con pajarita presenta desde un plató azul con rótulos rojos de última hora y conecta en directo con un aguacate con micrófono dentro de una nevera, junto a una pastilla de mantequilla rodeada de micrófonos. Mantequilla: 51,4 g de grasa saturada por 100 g. Postura uno: 17 % menos eventos cardiovasculares al reducir la grasa saturada, calidad moderada. Postura dos: sin asociación con la mortalidad total, certeza muy baja. Postura tres: depende de con qué se cambie; por aceite vegetal poliinsaturado, en torno a un 30 % menos enfermedad cardiovascular; por hidratos refinados y azúcares, no la redujo. Mándaselo a quien unta sin mirar."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "AV",
+    "lote": "f100-2026-11-03",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AV en Telegram"
+  },
+  "ia": true,
+  "comentario": "Fuentes: Hooper L et al., Cochrane Database of Systematic Reviews, 2020 (DEB-009). de Souza RJ et al., BMJ, 2015 (DEB-010). Sacks FM et al., Circulation, 2017 (DEB-011). USDA FoodData Central, SR Legacy, 2019 (ALI-029). Voz sintética (IA).",
+  "voz": {
+    "motor": "elevenlabs",
+    "de_prueba": false,
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "principal": "Agus (corresponsal), voz de Dani",
+    "secundaria": "Leo (presentador), voz de Dani"
+  }
+}

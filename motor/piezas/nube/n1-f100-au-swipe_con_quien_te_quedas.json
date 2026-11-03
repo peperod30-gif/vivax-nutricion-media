@@ -1,0 +1,90 @@
+{
+  "id": "n1-f100-au-swipe_con_quien_te_quedas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-AU",
+  "pilar": "mitos",
+  "hechos": [
+    "ALI-064",
+    "ALI-057"
+  ],
+  "titulo": "[AU] App de citas: ¿patata o boniato?",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Ñamor",
+      "titulo": "¿Patata o boniato?",
+      "izq": "Patata, cocida",
+      "texto": "A 100 g de ti",
+      "frase": "De toda la vida.",
+      "items": [
+        "Tortilla",
+        "Puré",
+        "Guisos"
+      ],
+      "etiqueta_no": "Paso",
+      "voz": "Todos le dan a paso a la patata."
+    },
+    {
+      "plantilla": "fx_reel",
+      "der": "Boniato, cocido",
+      "texto": "A 100 g de ti",
+      "frase": "Naranja por dentro.",
+      "items": [
+        "Fibra 2,5 g",
+        "Potasio 230 mg"
+      ],
+      "etiqueta_si": "Me gusta",
+      "voz": "Al boniato, me gusta: 2,5 gramos de fibra."
+    },
+    {
+      "plantilla": "fx_reel",
+      "titulo": "¡La patata vuelve!",
+      "dice": "¿Paso? Mira esto.",
+      "items": [
+        "Potasio 379 mg",
+        "Fibra 1,8 g"
+      ],
+      "sigue": "Boniato: 230 mg",
+      "voz": "Pero la patata vuelve: 379 miligramos de potasio."
+    },
+    {
+      "plantilla": "fx_reel",
+      "titulo": "¡Es un match!",
+      "items": [
+        "Potasio 379 mg",
+        "Fibra 2,5 g"
+      ],
+      "texto": "Por cada 100 g, cocidos",
+      "voz": "¡Es un match! Ella pone el potasio; él, la fibra."
+    },
+    {
+      "plantilla": "fx_reel",
+      "frase": "Mándaselo a tu amigo del boniato",
+      "voz": "Mándaselo a tu amigo del boniato."
+    }
+  ],
+  "pie_instagram": "Todo el mundo desliza a favor del boniato. La patata tiene algo que decir 🥔\n\nPor cada 100 g, los dos cocidos: el boniato lleva 2,5 g de fibra y la patata, 1,8 g.\nPotasio por cada 100 g, cocidos: patata, 379 mg; boniato, 230 mg 🍠\nCada uno pone lo suyo. Datos de la tabla de composición de USDA.\n\nLas cifras son de 100 g de cada alimento cocido; es composición, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿A quién le habías dado el me gusta?\nMándaselo a tu amigo del boniato 💌\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#patata #boniato #potasio #fibra #nutricion",
+  "alt": [
+    "Reel de una app de citas dibujada a mano, «Ñamor». Pregunta arriba: ¿patata o boniato? La tarjeta de la patata cocida, «a 100 g de ti», con el sello PASO, sale volando a la izquierda. Llega el boniato cocido con gafas de sol: fibra 2,5 g y potasio 230 mg, y el sello ME GUSTA. La patata vuelve de golpe, aparta al boniato y dice «¿Paso? Mira esto.»: potasio 379 mg y fibra 1,8 g; boniato, 230 mg. Pantalla de match con los dos muñecos: potasio 379 mg bajo la patata, fibra 2,5 g bajo el boniato, por cada 100 g, cocidos. Botón final: mándaselo a tu amigo del boniato."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "AU",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: app de citas dibujada («Ñamor»)",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AU en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019). Voz sintética (IA).",
+  "ia": true
+}
