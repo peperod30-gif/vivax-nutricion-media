@@ -122,6 +122,15 @@ class TelegramReal:
             if "not modified" not in exc.descripcion:
                 raise
 
+    def editar_botones(self, chat_id: int, message_id: int, botones=None) -> None:
+        """Cambia solo el teclado de un mensaje (sea texto, foto o vídeo); sin botones, lo deja sin teclado."""
+        datos = {"chat_id": chat_id, "message_id": message_id, "reply_markup": self._teclado(botones) or json.dumps({"inline_keyboard": []})}
+        try:
+            self._llamar("editMessageReplyMarkup", timeout=20, data=datos)
+        except ErrorTelegram as exc:
+            if "not modified" not in exc.descripcion:
+                raise
+
     def borrar(self, chat_id: int, message_id: int) -> None:
         """Borra un mensaje (Telegram solo deja borrar los de menos de 48 horas; si no se puede, se ignora)."""
         try:

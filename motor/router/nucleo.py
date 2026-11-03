@@ -33,6 +33,7 @@ from datetime import date, datetime, timedelta, timezone
 from .hub import (EJEMPLOS_HORA, ESPERA_HORA_S, LATIDO, MADRID, OPCION_CADUCA_S, PREGUNTA_AHORA_S, ErrorHora, analizar_hora, desde_iso,
                   dia_corto_es, fecha_corta_es, fecha_hora_es, hora_local, limpiar_respuesta, limpiar_texto, parece_credencial,
                   repeticion_hora)
+from .formatos_serie import FormatosSerie
 from .panel import Panel
 from .telegram_io import ErrorTelegram
 from .validacion import ACCIONES_VALIDACION, Validacion
@@ -940,6 +941,7 @@ class Router:
         self.avisos = Avisos(self)                      # avisos a José guardados en la base (sin botones)
         self.programacion = Programacion(self)          # elegir la hora de salida: Programar, Ahora, Cambiar hora, Quitar de la cola
         self.panel = Panel(self, activo=panel)          # el panel de aprobación (router/panel.py); apagado salvo que se pida (la nube lo pide)
+        self.formatos = FormatosSerie(self)             # botones de la serie de formatos: ✅ Mandar, ✏️ Modificar con IA, ❌ Rechazar (3-nov)
 
     # ------------------------------------------------------------------ entrada
     def procesar(self, upd: dict) -> None:
@@ -1005,6 +1007,8 @@ class Router:
         if texto.startswith("/"):
             cancelo = self._soltar_nota(uid)                                # una orden deja sin efecto la nota pedida
             return self._comando(chat_id, uid, texto, upd, cancelo=cancelo)
+        if texto and self.hub.es_admin(uid) and self.formatos.recibir_texto(chat_id, uid, m, texto):   # el cambio pedido con «✏️ Modificar con IA»
+            return
         espera = self.hub.esperando(uid)
         adjunto = any(k in m for k in ("photo", "document", "video", "voice", "audio"))
         respuesta_a = (m.get("reply_to_message") or {}).get("message_id")
@@ -1089,6 +1093,8 @@ class Router:
             return self._decir(chat_id, self._ayuda(uid))
         if orden == "/cancelar":                                 # (la espera de una hora ya la cerró _soltar_nota, y lo dice aquí)
             self.hub.dejar_de_esperar(uid, motivo="cancelada")
+            if admin and self.formatos.cancelar(uid):
+                return self._decir(chat_id, "Hecho: no cambio nada del formato.")
             return self._decir(chat_id, "Hecho: no he cambiado la hora." if cancelo == "hora" else "Hecho, lo dejamos.")
         if orden == "/hoy":
             return self._listar(chat_id, uid)
@@ -1305,6 +1311,8 @@ class Router:
         cancelo = self._soltar_nota(uid)                                                          # cualquier otra pulsación anula la nota pedida
         if data.startswith("pn:"):                                                                # el panel: solo el administrador
             return self.panel.boton(cb_id, chat.get("id"), msg.get("message_id"), uid, data)
+        if data.startswith("fx:"):                                                                # la serie de formatos: solo el administrador
+            return self.formatos.boton(cb_id, chat.get("id"), msg, uid, data)
         if not FORMATO_BOTON.fullmatch(data):                                                     # no es del router: solo puede ser de Campo
             if not self.hub.es_admin(uid) or not self._anfitriones():
                 return negar()
