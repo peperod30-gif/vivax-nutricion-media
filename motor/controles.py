@@ -988,7 +988,9 @@ def controlar(pieza: dict, imagenes: Path | None = None, cuenta: str | None = No
         c_mudo(original, imagenes, salida)
     elif pieza.get("formato") == "video":
         c_video(pieza, imagenes, salida)
-    if imagenes and imagenes.exists():
+    # 3-nov-2026: José pidió «muchos tipos de dibujos y gráficos distintos» y rechazó el negro/blanco/oliva en los formatos de la serie de 100 (✅ Mandar
+    # en Telegram). Una pieza que él aprobó así lleva produccion.paleta_libre = true y no se mide contra la paleta antigua; todo lo demás se controla igual.
+    if imagenes and imagenes.exists() and not (pieza.get("produccion") or {}).get("paleta_libre"):
         # dirección F (fotos reales): la paleta se mide sobre la versión sin fotos (_sinfoto/), que dibuja render.py; sin ella, no se da por buena
         if pieza.get("direccion") in ("f", "g"):
             if (imagenes / "_sinfoto").exists():
