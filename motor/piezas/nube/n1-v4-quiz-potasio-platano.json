@@ -1,0 +1,122 @@
+{
+  "id": "n1-v4-quiz-potasio-platano",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v4",
+  "tipo_reel": "quiz",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "v4",
+  "molde": "v4-quiz",
+  "pilar": "ensenar",
+  "frente": "publico",
+  "hechos": [
+    "ALI-011"
+  ],
+  "titulo": "[v4 quiz] ¿El plátano, rey del potasio?",
+  "hojas": [
+    {
+      "plantilla": "v4_gancho",
+      "voz": "¿Plátano por el {potasio}?",
+      "titulo": "¿El plátano, rey del {potasio}?",
+      "texto": "Potasio en crudo, mg por 100 g",
+      "opciones": [
+        {
+          "nombre": "Plátano"
+        },
+        {
+          "nombre": "Aguacate"
+        },
+        {
+          "nombre": "Pistachos"
+        }
+      ],
+      "fotos": [
+        "aguacate",
+        "pistachos",
+        "platano"
+      ]
+    },
+    {
+      "plantilla": "v4_carrera",
+      "voz": "Plátano, 358.",
+      "opciones": [
+        {
+          "nombre": "Plátano",
+          "valor": "358"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_carrera",
+      "voz": "Aguacate, 485 miligramos.",
+      "opciones": [
+        {
+          "nombre": "Aguacate",
+          "valor": "485"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_revelacion",
+      "voz": "¿Y los pistachos? {1025} miligramos de potasio.",
+      "opciones": [
+        {
+          "nombre": "Pistachos",
+          "valor": "1025"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_remate",
+      "voz": "Todo crudo, por cada 100 gramos.",
+      "opciones": [
+        {
+          "nombre": "Plátano",
+          "valor": "358"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "485"
+        },
+        {
+          "nombre": "Pistachos",
+          "valor": "1025"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_llamada",
+      "voz": "Mándaselo a tu compañero del plátano."
+    }
+  ],
+  "pie_instagram": "El plátano tiene potasio, pero no es el que más lleva 🍌\n\nPotasio por cada 100 g, en crudo, según la tabla de USDA.\nPistachos, 1025 mg.\nAguacate, 485 mg.\nPlátano, 358 mg.\n\nEs composición, no una recomendación de cantidad.\n\n¿Acertaste?\nMándaselo a tu compañero del plátano de media mañana.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFotos: Wikimedia Commons, recortadas: «Banana bunch», NW Indian Language Institute (CC BY 3.0). El resto, dominio público o CC0. Licencias: CC BY 3.0: creativecommons.org/licenses/by/3.0.\n\n#potasio #platano #frutossecos #nutricion",
+  "alt": [
+    "Reel con voz. ¿El plátano, rey del potasio? Plátano: 358; Aguacate: 485; Pistachos: 1025. Mándaselo a tu compañero del plátano."
+  ],
+  "ia": true,
+  "voz": {
+    "motor": "elevenlabs",
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "de_prueba": false,
+    "caracteres": 244
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019). Voz sintética (IA).",
+  "produccion": {
+    "muestra": true,
+    "revision_jose": true,
+    "autoaprobar": false,
+    "lote": "motor-v4-2026-11-03",
+    "formato_reel": "v4",
+    "voz_de_prueba": false,
+    "avisos": [],
+    "nota": "Reel v4 con voz: sin fecha ni hueco; lo aprueba o lo rechaza José en Telegram"
+  },
+  "produccion_video": {
+    "duracion_s": 14.15,
+    "tamano_mb": 5.14
+  }
+}

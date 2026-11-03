@@ -1,0 +1,1958 @@
+{
+ "esquema": "slides-1",
+ "version": "v4",
+ "plantilla": "quiz",
+ "duracion_s": 14.15,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.95,
+ "pixel": "yuv420p",
+ "tamano_mb": 5.14,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "voz_de_prueba": false,
+ "voz": {
+  "motor": "elevenlabs",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "de_prueba": false,
+  "texto": "¿Plátano por el potasio? Plátano, trescientos cincuenta y ocho. Aguacate, cuatrocientos ochenta y cinco miligramos. ¿Y los pistachos? mil veinticinco miligramos de potasio. Todo crudo, por cada cien gramos. Mándaselo a tu compañero del plátano.",
+  "caracteres": 244,
+  "inicio_voz_s": 0.031,
+  "recorte_inicial_s": 0.06,
+  "pausas_acortadas": 6,
+  "segundos_quitados": 1.35,
+  "duracion_voz_s": 13.47
+ },
+ "sonido": {
+  "voz_lufs": -16.0,
+  "efectos_lufs": -25.0,
+  "efectos_bajo_voz_db": 9.0,
+  "mezcla_lufs": -16.0,
+  "mezcla_pico_dbtp": -1.65,
+  "limitador_max_db": 0.65,
+  "efectos_por_tipo": {
+   "golpe": 3,
+   "pop": 2,
+   "tic": 2,
+   "whoosh": 6,
+   "contador": 38,
+   "subida": 1,
+   "sello": 1,
+   "ding": 1
+  },
+  "musica": false,
+  "desfase_con_el_video_s": -0.0
+ },
+ "revelacion_s": 7.9,
+ "t_bucle_s": 13.6667,
+ "hueco_max_s": 0.433,
+ "n_cambios_visuales": 379,
+ "hueco_camara_max_s": 0.833,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    227,
+    272,
+    783,
+    387
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    292,
+    359,
+    418,
+    474
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    418,
+    359,
+    718,
+    474
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    278,
+    479,
+    732,
+    519
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    154,
+    993,
+    285,
+    1043
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    201,
+    1080,
+    236,
+    1191
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    423,
+    993,
+    587,
+    1043
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    487,
+    1077,
+    523,
+    1194
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    709,
+    993,
+    874,
+    1043
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    774,
+    1083,
+    807,
+    1188
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Plátano",
+   "contando": false,
+   "r": [
+    168,
+    1303,
+    620,
+    1463
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    660,
+    1315,
+    830,
+    1466
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    224,
+    267,
+    785,
+    383
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    290,
+    355,
+    418,
+    471
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    418,
+    355,
+    720,
+    471
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    276,
+    476,
+    734,
+    516
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    151,
+    994,
+    283,
+    1044
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    198,
+    1079,
+    235,
+    1196
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    422,
+    994,
+    587,
+    1044
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    488,
+    1084,
+    521,
+    1191
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    710,
+    994,
+    877,
+    1044
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    776,
+    1082,
+    810,
+    1193
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    247,
+    1320,
+    336,
+    1461
+   ]
+  },
+  {
+   "t": 1.2,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    367,
+    1305,
+    781,
+    1460
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    223,
+    264,
+    787,
+    380
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    289,
+    352,
+    417,
+    469
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    417,
+    352,
+    721,
+    469
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    275,
+    474,
+    735,
+    514
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    149,
+    994,
+    282,
+    1045
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    146,
+    1076,
+    283,
+    1206
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    422,
+    994,
+    588,
+    1045
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    486,
+    1079,
+    523,
+    1198
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    711,
+    994,
+    878,
+    1045
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    777,
+    1085,
+    811,
+    1193
+   ]
+  },
+  {
+   "t": 2.6667,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    426,
+    1309,
+    585,
+    1458
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    219,
+    254,
+    791,
+    373
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    285,
+    344,
+    416,
+    463
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    416,
+    344,
+    724,
+    463
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    272,
+    468,
+    739,
+    509
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    144,
+    996,
+    279,
+    1048
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    140,
+    1079,
+    280,
+    1211
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    421,
+    996,
+    589,
+    1048
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    488,
+    1088,
+    522,
+    1197
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    714,
+    996,
+    884,
+    1048
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    780,
+    1083,
+    818,
+    1203
+   ]
+  },
+  {
+   "t": 3.1667,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    426,
+    1309,
+    585,
+    1458
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    225,
+    267,
+    785,
+    383
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    290,
+    355,
+    418,
+    471
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    418,
+    355,
+    720,
+    471
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    276,
+    476,
+    734,
+    517
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    151,
+    994,
+    283,
+    1044
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    148,
+    1075,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    422,
+    994,
+    587,
+    1044
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    433,
+    1075,
+    575,
+    1205
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    710,
+    994,
+    876,
+    1044
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    774,
+    1078,
+    811,
+    1196
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    148,
+    1309,
+    313,
+    1458
+   ]
+  },
+  {
+   "t": 4.9667,
+   "texto": "miligramos",
+   "contando": false,
+   "r": [
+    357,
+    1320,
+    858,
+    1461
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    221,
+    259,
+    789,
+    376
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    287,
+    348,
+    416,
+    465
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    416,
+    348,
+    723,
+    465
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    273,
+    470,
+    737,
+    511
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    146,
+    995,
+    280,
+    1046
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    143,
+    1077,
+    281,
+    1209
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    421,
+    995,
+    588,
+    1046
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    432,
+    1077,
+    576,
+    1209
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    713,
+    995,
+    882,
+    1046
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    780,
+    1086,
+    814,
+    1196
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    153,
+    1320,
+    308,
+    1461
+   ]
+  },
+  {
+   "t": 6.2333,
+   "texto": "miligramos",
+   "contando": false,
+   "r": [
+    342,
+    1309,
+    873,
+    1458
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    224,
+    265,
+    786,
+    381
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    289,
+    353,
+    418,
+    469
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    418,
+    353,
+    721,
+    469
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    276,
+    474,
+    735,
+    515
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    150,
+    994,
+    283,
+    1045
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    146,
+    1075,
+    284,
+    1206
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    422,
+    994,
+    588,
+    1045
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    433,
+    1075,
+    575,
+    1206
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    711,
+    994,
+    878,
+    1045
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "1025",
+   "contando": false,
+   "r": [
+    705,
+    1075,
+    882,
+    1206
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "1025",
+   "contando": false,
+   "r": [
+    124,
+    1305,
+    337,
+    1460
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "miligramos",
+   "contando": false,
+   "r": [
+    376,
+    1320,
+    877,
+    1461
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    219,
+    256,
+    790,
+    374
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    286,
+    346,
+    416,
+    464
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    416,
+    346,
+    724,
+    464
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    272,
+    469,
+    738,
+    510
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    144,
+    996,
+    279,
+    1047
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    141,
+    1078,
+    281,
+    1211
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    421,
+    996,
+    589,
+    1047
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    432,
+    1078,
+    576,
+    1211
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    714,
+    996,
+    883,
+    1047
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "1025",
+   "contando": false,
+   "r": [
+    707,
+    1078,
+    887,
+    1211
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    264,
+    1320,
+    366,
+    1461
+   ]
+  },
+  {
+   "t": 9.4333,
+   "texto": "potasio",
+   "contando": false,
+   "r": [
+    405,
+    1309,
+    756,
+    1458
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    221,
+    259,
+    789,
+    377
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    287,
+    348,
+    417,
+    466
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    417,
+    348,
+    722,
+    466
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    273,
+    471,
+    737,
+    512
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    146,
+    995,
+    280,
+    1046
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    143,
+    1077,
+    282,
+    1209
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    421,
+    995,
+    588,
+    1046
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    432,
+    1077,
+    576,
+    1209
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    713,
+    995,
+    881,
+    1046
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "1025",
+   "contando": false,
+   "r": [
+    706,
+    1077,
+    885,
+    1209
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    326,
+    1309,
+    684,
+    1458
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "¿El plátano, rey",
+   "contando": false,
+   "r": [
+    218,
+    252,
+    792,
+    371
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    285,
+    343,
+    416,
+    461
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "potasio?",
+   "contando": false,
+   "r": [
+    416,
+    343,
+    725,
+    461
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Potasio en crudo, mg por 100 g",
+   "contando": false,
+   "r": [
+    271,
+    466,
+    740,
+    508
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    142,
+    997,
+    278,
+    1048
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "358",
+   "contando": false,
+   "r": [
+    139,
+    1079,
+    279,
+    1212
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    420,
+    997,
+    589,
+    1048
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "485",
+   "contando": false,
+   "r": [
+    432,
+    1079,
+    577,
+    1212
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Pistachos",
+   "contando": false,
+   "r": [
+    715,
+    997,
+    885,
+    1048
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "1025",
+   "contando": false,
+   "r": [
+    708,
+    1079,
+    889,
+    1212
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    231,
+    1320,
+    376,
+    1461
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    415,
+    1309,
+    790,
+    1458
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  1.2,
+  2.6667,
+  3.1667,
+  4.9667,
+  6.2333,
+  8.3,
+  9.4333,
+  11.4,
+  13.2
+ ],
+ "frases": [
+  {
+   "rol": "gancho",
+   "voz": "¿Plátano por el {potasio}?",
+   "t0": 0.0,
+   "t1": 1.3213,
+   "palabras": [
+    {
+     "txt": "¿Plátano",
+     "dicho": "¿Plátano",
+     "t0": 0.0683,
+     "t1": 0.4413
+    },
+    {
+     "txt": "por",
+     "dicho": "por",
+     "t0": 0.5213,
+     "t1": 0.6813
+    },
+    {
+     "txt": "el",
+     "dicho": "el",
+     "t0": 0.7213,
+     "t1": 0.7613
+    },
+    {
+     "txt": "potasio?",
+     "dicho": "potasio?",
+     "t0": 0.8413,
+     "t1": 1.3213
+    }
+   ]
+  },
+  {
+   "rol": "carrera",
+   "voz": "Plátano, 358.",
+   "t0": 1.4363,
+   "t1": 3.2763,
+   "palabras": [
+    {
+     "txt": "Plátano,",
+     "dicho": "Plátano,",
+     "t0": 1.4363,
+     "t1": 1.8363
+    },
+    {
+     "txt": "358.",
+     "dicho": "trescientos cincuenta y ocho.",
+     "t0": 2.0763,
+     "t1": 3.2763
+    }
+   ]
+  },
+  {
+   "rol": "carrera",
+   "voz": "Aguacate, 485 miligramos.",
+   "t0": 3.5863,
+   "t1": 6.3463,
+   "palabras": [
+    {
+     "txt": "Aguacate,",
+     "dicho": "Aguacate,",
+     "t0": 3.5863,
+     "t1": 4.1063
+    },
+    {
+     "txt": "485",
+     "dicho": "cuatrocientos ochenta y cinco",
+     "t0": 4.3863,
+     "t1": 5.7063
+    },
+    {
+     "txt": "miligramos.",
+     "dicho": "miligramos.",
+     "t0": 5.7863,
+     "t1": 6.3463
+    }
+   ]
+  },
+  {
+   "rol": "revelacion",
+   "voz": "¿Y los pistachos? {1025} miligramos de potasio.",
+   "t0": 6.5993,
+   "t1": 9.5463,
+   "palabras": [
+    {
+     "txt": "¿Y",
+     "dicho": "¿Y",
+     "t0": 6.5993,
+     "t1": 6.6393
+    },
+    {
+     "txt": "los",
+     "dicho": "los",
+     "t0": 6.7063,
+     "t1": 6.7863
+    },
+    {
+     "txt": "pistachos?",
+     "dicho": "pistachos?",
+     "t0": 6.8263,
+     "t1": 7.3463
+    },
+    {
+     "txt": "1025",
+     "dicho": "mil veinticinco",
+     "t0": 7.7063,
+     "t1": 8.4263
+    },
+    {
+     "txt": "miligramos",
+     "dicho": "miligramos",
+     "t0": 8.5063,
+     "t1": 8.9863
+    },
+    {
+     "txt": "de",
+     "dicho": "de",
+     "t0": 9.0263,
+     "t1": 9.0663
+    },
+    {
+     "txt": "potasio.",
+     "dicho": "potasio.",
+     "t0": 9.1863,
+     "t1": 9.5463
+    }
+   ]
+  },
+  {
+   "rol": "remate",
+   "voz": "Todo crudo, por cada 100 gramos.",
+   "t0": 9.7913,
+   "t1": 11.5113,
+   "palabras": [
+    {
+     "txt": "Todo",
+     "dicho": "Todo",
+     "t0": 9.7913,
+     "t1": 9.9113
+    },
+    {
+     "txt": "crudo,",
+     "dicho": "crudo,",
+     "t0": 9.9913,
+     "t1": 10.3113
+    },
+    {
+     "txt": "por",
+     "dicho": "por",
+     "t0": 10.5513,
+     "t1": 10.6313
+    },
+    {
+     "txt": "cada",
+     "dicho": "cada",
+     "t0": 10.6713,
+     "t1": 10.8713
+    },
+    {
+     "txt": "100",
+     "dicho": "cien",
+     "t0": 10.9513,
+     "t1": 11.0313
+    },
+    {
+     "txt": "gramos.",
+     "dicho": "gramos.",
+     "t0": 11.1113,
+     "t1": 11.5113
+    }
+   ]
+  },
+  {
+   "rol": "llamada",
+   "voz": "Mándaselo a tu compañero del plátano.",
+   "t0": 11.7313,
+   "t1": 13.3313,
+   "palabras": [
+    {
+     "txt": "Mándaselo",
+     "dicho": "Mándaselo",
+     "t0": 11.7313,
+     "t1": 12.1313
+    },
+    {
+     "txt": "a",
+     "dicho": "a",
+     "t0": 12.1713,
+     "t1": 12.2113
+    },
+    {
+     "txt": "tu",
+     "dicho": "tu",
+     "t0": 12.2513,
+     "t1": 12.2913
+    },
+    {
+     "txt": "compañero",
+     "dicho": "compañero",
+     "t0": 12.3713,
+     "t1": 12.7713
+    },
+    {
+     "txt": "del",
+     "dicho": "del",
+     "t0": 12.8513,
+     "t1": 12.9313
+    },
+    {
+     "txt": "plátano.",
+     "dicho": "plátano.",
+     "t0": 12.9713,
+     "t1": 13.3313
+    }
+   ]
+  }
+ ],
+ "efectos": [
+  {
+   "t": 0.0,
+   "tipo": "golpe",
+   "intensidad": 0.7
+  },
+  {
+   "t": 0.0,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 0.0667,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 0.8333,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 1.4333,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 1.5,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 1.5667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 1.6667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 1.7333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 1.8,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 1.8667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 1.9333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.0333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.1,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.1667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 2.2667,
+   "tipo": "golpe",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.6,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.6333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.7,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.7667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.8667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 3.9333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.0,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.0667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.1667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.2333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.3,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.3667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.4667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 4.5667,
+   "tipo": "golpe",
+   "intensidad": 0.5
+  },
+  {
+   "t": 6.6,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 6.6667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.7333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.8333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.9,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.9667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.0333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.1333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.2,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.2667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.3333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.4333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.5,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.5667,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.6333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.7,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.7333,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.8,
+   "tipo": "contador",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.9,
+   "tipo": "subida",
+   "intensidad": 0.8
+  },
+  {
+   "t": 7.9,
+   "tipo": "sello",
+   "intensidad": 1.0
+  },
+  {
+   "t": 7.9,
+   "tipo": "ding",
+   "intensidad": 0.9
+  },
+  {
+   "t": 9.8,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 11.7333,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 13.6667,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  }
+ ],
+ "eventos_visuales": [
+  [
+   0.0,
+   "gancho"
+  ],
+  [
+   0.0667,
+   "mención platano"
+  ],
+  [
+   0.8333,
+   "clave «potasio»"
+  ],
+  [
+   1.4333,
+   "frase 2 (carrera)"
+  ],
+  [
+   2.2667,
+   "se para platano"
+  ],
+  [
+   2.9333,
+   "pulso de cámara"
+  ],
+  [
+   3.6,
+   "frase 3 (carrera)"
+  ],
+  [
+   4.1,
+   "pulso de cámara"
+  ],
+  [
+   4.5667,
+   "se para aguacate"
+  ],
+  [
+   5.2333,
+   "pulso de cámara"
+  ],
+  [
+   5.9333,
+   "pulso de cámara"
+  ],
+  [
+   6.6,
+   "frase 4 (revelacion)"
+  ],
+  [
+   7.2667,
+   "tensión"
+  ],
+  [
+   7.7,
+   "clave «1025»"
+  ],
+  [
+   7.9,
+   "REVELACIÓN"
+  ],
+  [
+   8.5333,
+   "pulso de cámara"
+  ],
+  [
+   9.1667,
+   "pulso de cámara"
+  ],
+  [
+   9.8,
+   "frase 5 (remate)"
+  ],
+  [
+   10.4333,
+   "pulso de cámara"
+  ],
+  [
+   11.1,
+   "pulso de cámara"
+  ],
+  [
+   11.7333,
+   "frase 6 (llamada)"
+  ],
+  [
+   12.3667,
+   "pulso de cámara"
+  ],
+  [
+   13.0333,
+   "pulso de cámara"
+  ],
+  [
+   13.6667,
+   "vuelta al inicio"
+  ]
+ ],
+ "fotogramas": 424,
+ "tiempo_render_s": 41.2
+}
