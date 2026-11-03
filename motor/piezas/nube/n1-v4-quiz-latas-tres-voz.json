@@ -1,0 +1,123 @@
+{
+  "id": "n1-v4-quiz-latas-tres-voz",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v4",
+  "tipo_reel": "quiz",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "v4",
+  "molde": "v4-quiz",
+  "pilar": "SUPER",
+  "frente": "publico",
+  "hechos": [
+    "SUP-061",
+    "SUP-062",
+    "SUP-065"
+  ],
+  "titulo": "[v4 quiz] ¿Qué lata lleva más azúcar?",
+  "hojas": [
+    {
+      "plantilla": "v4_gancho",
+      "voz": "¿Coca-Cola, Fanta o Monster?",
+      "titulo": "¿Qué lata lleva más {azúcar}?",
+      "texto": "Azúcares totales, g por lata entera",
+      "opciones": [
+        {
+          "nombre": "Coca-Cola Original",
+          "detalle": "330 ml"
+        },
+        {
+          "nombre": "Fanta Naranja",
+          "detalle": "330 ml"
+        },
+        {
+          "nombre": "Monster Mango Loco",
+          "detalle": "500 ml"
+        }
+      ],
+      "fuente": "Etiqueta de cada producto, por 100 ml y por lata entera. Consulta: 20/10/2026. Sin relación con las marcas."
+    },
+    {
+      "plantilla": "v4_carrera",
+      "voz": "Fanta Naranja, 15 gramos.",
+      "opciones": [
+        {
+          "nombre": "Fanta Naranja",
+          "valor": "15"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_carrera",
+      "voz": "Coca-Cola Original, 35.",
+      "opciones": [
+        {
+          "nombre": "Coca-Cola Original",
+          "valor": "35"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_revelacion",
+      "voz": "¿Y el Monster Mango Loco de 500? {56} gramos de azúcares.",
+      "opciones": [
+        {
+          "nombre": "Monster Mango Loco",
+          "valor": "56"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_remate",
+      "voz": "Fanta y Coca-Cola, latas de 330.",
+      "opciones": [
+        {
+          "nombre": "Coca-Cola Original",
+          "valor": "35"
+        },
+        {
+          "nombre": "Fanta Naranja",
+          "valor": "15"
+        },
+        {
+          "nombre": "Monster Mango Loco",
+          "valor": "56"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_llamada",
+      "voz": "Para quien lleva una lata en la mochila."
+    }
+  ],
+  "pie_instagram": "Coca-Cola, Fanta o Monster: ¿qué lata lleva más azúcar? 🥤\n\nAzúcares totales de la lata entera, según la etiqueta de cada producto.\nMonster Mango Loco, lata de 500 ml, 56 g.\nCoca-Cola Original, lata de 330 ml, 35 g.\nFanta Naranja, lata de 330 ml, 15 g.\n\nSin colaboración ni relación con ninguna de las marcas citadas.\n\n¿Acertaste?\nPara quien lleva una lata en la mochila.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\nFotos: de producto, colaboradores de Open Food Facts (CC BY-SA 3.0).\n\n#azucar #refrescos #supermercado #etiquetas #nutricion",
+  "alt": [
+    "Reel con voz. ¿Qué lata lleva más azúcar? Coca-Cola Original: 35; Fanta Naranja: 15; Monster Mango Loco: 56. Para quien lleva una lata en la mochila."
+  ],
+  "ia": true,
+  "voz": {
+    "motor": "elevenlabs",
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "de_prueba": false,
+    "caracteres": 262
+  },
+  "comentario": "Fuentes: Open Food Facts, etiquetas consultadas el 20/10/2026; OMS, hoja Healthy diet. Voz sintética (IA).",
+  "produccion": {
+    "muestra": true,
+    "revision_jose": true,
+    "autoaprobar": false,
+    "lote": "motor-v4-2026-11-03",
+    "formato_reel": "v4",
+    "voz_de_prueba": false,
+    "avisos": [],
+    "nota": "Reel v4 con voz: sin fecha ni hueco; lo aprueba o lo rechaza José en Telegram"
+  },
+  "produccion_video": {
+    "duracion_s": 16.15,
+    "tamano_mb": 8.54
+  }
+}
