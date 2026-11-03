@@ -1,0 +1,89 @@
+{
+  "id": "n1-v4-mito-azucar-fruta",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v4",
+  "tipo_reel": "mito",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "v4",
+  "molde": "v4-mito",
+  "pilar": "mitos",
+  "frente": "publico",
+  "hechos": [
+    "ALI-044",
+    "ALI-033",
+    "AZU-003"
+  ],
+  "titulo": "[v4 mito] ¿Comes manzana o cola? Azúcares",
+  "hojas": [
+    {
+      "plantilla": "v4_gancho",
+      "voz": "¿Comes {manzana} o cola?",
+      "titular": "Manzana y cola cuentan {igual}",
+      "kicker": "¿Cierto?",
+      "fotos": [
+        "manzana",
+        "refresco_cola"
+      ]
+    },
+    {
+      "plantilla": "v4_dato",
+      "voz": "Manzana, 10,4 g.",
+      "opciones": [
+        {
+          "nombre": "Manzana",
+          "valor": "10,4 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_dato",
+      "voz": "Refresco de cola, 9,9 g. ¿Y cuentan igual?",
+      "opciones": [
+        {
+          "nombre": "Refresco de cola",
+          "valor": "9,9 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "v4_veredicto",
+      "voz": "Para la {OMS}, no. La fruta entera no suma azúcares libres. Los añadidos al refresco, sí.",
+      "kicker": "Mito"
+    },
+    {
+      "plantilla": "v4_llamada",
+      "voz": "Díselo a quien quita la fruta por el azúcar."
+    }
+  ],
+  "pie_instagram": "Manzana y cola, casi la misma cifra de azúcares: ¿cuentan igual? 🍎\n\nAzúcares por cada 100 g, según la tabla de USDA: manzana cruda con piel, 10,4 g; refresco de cola, 9,9 g.\nPara la OMS, los azúcares libres son los añadidos y los de la miel, los jarabes y los zumos; no incluyen los de la fruta entera ni los de la leche.\n\n¿Cuentan igual?\nDíselo a quien quita la fruta por el azúcar.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fruta #azucar #oms #nutricion",
+  "alt": [
+    "Reel con voz. Afirmación: manzana y cola cuentan igual. Veredicto: mito. Manzana: 10,4 g; Refresco de cola: 9,9 g. Díselo a quien quita la fruta por el azúcar."
+  ],
+  "ia": true,
+  "voz": {
+    "motor": "elevenlabs",
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "de_prueba": false,
+    "caracteres": 256
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); OMS (2015). Voz sintética (IA).",
+  "produccion": {
+    "muestra": true,
+    "revision_jose": true,
+    "autoaprobar": false,
+    "lote": "motor-v4-2026-11-03",
+    "formato_reel": "v4",
+    "voz_de_prueba": false,
+    "avisos": [],
+    "nota": "Reel v4 con voz: sin fecha ni hueco; lo aprueba o lo rechaza José en Telegram"
+  },
+  "produccion_video": {
+    "duracion_s": 16.55,
+    "tamano_mb": 5.31
+  }
+}
