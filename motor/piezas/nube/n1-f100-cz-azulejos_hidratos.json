@@ -1,0 +1,95 @@
+{
+  "id": "n1-f100-cz-azulejos_hidratos",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-CZ",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-021",
+    "ALI-054"
+  ],
+  "titulo": "[CZ] La pared de los hidratos",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Hidratos por cada 100 g, fibra incluida",
+      "titulo": "¿Pistachos o arroz cocido?",
+      "texto": "Más hidratos, más pared · por 100 g, fibra incluida",
+      "dice": "¿Cuál ocupa más pared?",
+      "voz": "¿Pistachos o arroz cocido?"
+    },
+    {
+      "plantilla": "fx_reel",
+      "opciones": [
+        {
+          "nombre": "Arroz blanco",
+          "valor": "28,2 g",
+          "detalle": "cocido"
+        },
+        {
+          "nombre": "Pistachos",
+          "valor": "27,2 g",
+          "detalle": "tal cual"
+        }
+      ],
+      "voz": "Arroz: 28,2. Pistachos: 27,2. ¡Casi lo mismo!"
+    },
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Un gramo de diferencia",
+      "titulo": "¡Casi lo mismo!"
+    },
+    {
+      "plantilla": "fx_reel",
+      "opciones": [
+        {
+          "nombre": "Almendras",
+          "valor": "21,6 g",
+          "detalle": "tal cual"
+        },
+        {
+          "nombre": "Nueces",
+          "valor": "13,7 g",
+          "detalle": "tal cual"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "49,4 g"
+        },
+        {
+          "nombre": "Galletas tipo María",
+          "valor": "68,9 g"
+        }
+      ],
+      "voz": "Y galletas tipo María: 68,9."
+    },
+    {
+      "plantilla": "fx_reel",
+      "frase": "Mándaselo a quien jura que los pistachos no llevan hidratos",
+      "voz": "Mándaselo a quien jura que los pistachos no llevan hidratos."
+    }
+  ],
+  "pie_instagram": "Hemos alicatado una pared con hidratos por 100 g y los pistachos no se quedan cortos 🧱\n\nHidratos de carbono por cada 100 g: galletas tipo María 68,9 g; pan blanco 49,4 g; arroz blanco cocido 28,2 g; pistachos 27,2 g; almendras 21,6 g; nueces 13,7 g.\nEl arroz va cocido y los frutos secos, tal cual; en ellos los hidratos incluyen la fibra.\nCada panel de azulejos ocupa un área proporcional a su cifra 🔎\n\nEs composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál pensabas que ocupaba más pared?\nMándaselo a quien jura que los pistachos no llevan hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #frutossecos #nutricion #comidareal",
+  "alt": [
+    "Reel de una pared de azulejos blancos con rosetas azules. Arriba, una placa de azulejos como las de los nombres de calle: «Hidratos por cada 100 g, fibra incluida. ¿Pistachos o arroz cocido?». Debajo, dentro de un marco de cenefa ocre y azul, dos paneles de azulejos pintados en azul cobalto: un cuenco de arroz humeante (arroz blanco cocido) y unos pistachos (tal cual), con una interrogación en lugar de la cifra; el resto es cemento peinado. Salen las cifras: arroz blanco cocido 28,2 g y pistachos 27,2 g, y la placa dice «¡Casi lo mismo! Un gramo de diferencia». Luego los azulejos caen de uno en uno y el mosaico crece: almendras 21,6 g, nueces 13,7 g, pan blanco 49,4 g y, el panel más grande, galletas tipo María 68,9 g, todo por 100 g. El área de cada panel es proporcional a su cifra. Al final: «Mándaselo a quien jura que los pistachos no llevan hidratos» y la firma @vivax_nutri."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "CZ",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: azulejería de cobalto (paneles de azulejos con área proporcional a la cifra, treemap)",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato CZ en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019). Voz sintética (IA).",
+  "ia": true
+}

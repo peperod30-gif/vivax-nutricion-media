@@ -1,0 +1,99 @@
+{
+  "id": "n1-f100-cx-ficha_rol_garbanzo",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-CX",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-007",
+    "ALI-052",
+    "ALI-041",
+    "ALI-040",
+    "ALI-036",
+    "VIT-041"
+  ],
+  "titulo": "[CX] Ficha de rol del garbanzo",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Hoja de personaje",
+      "titulo": "¿Qué nivel tiene un garbanzo cocido?",
+      "texto": "Nombre: Garbanzo cocido · Clase: Legumbre · Retrato · Notas · Atributos por 100 g",
+      "voz": "¿Qué nivel tiene un garbanzo cocido?"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atributos",
+      "filas": [
+        {
+          "nombre": "Fibra",
+          "valor": "7,6 g",
+          "detalle": "frente a lentejas cocidas 7,9 g"
+        }
+      ],
+      "voz": "Fibra: 7,6 g."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atributos",
+      "filas": [
+        {
+          "nombre": "Folato",
+          "valor": "172 µg",
+          "detalle": "frente a espinacas crudas 194 µg"
+        },
+        {
+          "nombre": "Hierro",
+          "valor": "2,9 mg",
+          "detalle": "frente a alubias blancas cocidas 3,7 mg"
+        },
+        {
+          "nombre": "Calcio",
+          "valor": "49 mg",
+          "detalle": "frente a tofu firme 683 mg"
+        },
+        {
+          "nombre": "Proteína",
+          "valor": "8,9 g",
+          "detalle": "frente a tofu firme 17,3 g"
+        }
+      ],
+      "voz": "Folato, hierro, calcio y proteína."
+    },
+    {
+      "plantilla": "fx_reel",
+      "titulo": "Fibra: casi como las lentejas",
+      "texto": "Folato: cerca de las espinacas",
+      "voz": "En fibra, casi como las lentejas. En folato, cerca de las espinacas."
+    },
+    {
+      "plantilla": "fx_reel",
+      "frase": "Mándaselo a tu compañero de partida",
+      "texto": "@vivax_nutri · Los folatos contribuyen a la formación normal de células sanguíneas.",
+      "voz": "Mándaselo a tu compañero de partida."
+    }
+  ],
+  "pie_instagram": "Le hicimos la hoja de personaje a un garbanzo cocido y tiramos los dados 🎲\n\nAtributos por cada 100 g de garbanzos cocidos: fibra 7,6 g; folato 172 µg; hierro 2,9 mg; calcio 49 mg; proteína 8,9 g.\nCada eje del radar acaba en el primer alimento de su lista en la tabla: lentejas cocidas, 7,9 g de fibra; espinacas crudas, 194 µg de folato; alubias blancas cocidas, 3,7 mg de hierro; tofu firme, 683 mg de calcio y 17,3 g de proteína.\nLo que hace el folato en el cuerpo, con las palabras de la lista europea de declaraciones de salud autorizadas: «Los folatos contribuyen a la formación normal de células sanguíneas.»\nEs lo que lleva cada alimento en ese estado, no lo que se absorbe. Datos de la tabla de composición de USDA 🔎\n\nEs composición por 100 g de cada alimento, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿A qué alimento le hacemos la siguiente hoja?\nMándaselo a tu compañero de partida.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#garbanzos #legumbres #nutricion #fibra",
+  "alt": [
+    "Reel de una hoja de personaje de rol en papel sobre una mesa de madera, con un garbanzo aventurero dibujado en el retrato, un dado, un lápiz y una mancha de café. Nombre: garbanzo cocido. Clase: legumbre. En las notas: «¿Qué nivel tiene un garbanzo cocido?». Con cada tirada de dado el lápiz dibuja un gráfico de radar de atributos por 100 g: fibra 7,6 g (frente a lentejas cocidas 7,9 g), folato 172 µg (frente a espinacas crudas 194 µg), hierro 2,9 mg (frente a alubias blancas cocidas 3,7 mg), calcio 49 mg (frente a tofu firme 683 mg) y proteína 8,9 g (frente a tofu firme 17,3 g). En rojo: fibra, casi como las lentejas; folato, cerca de las espinacas. La goma borra la pregunta, el lápiz escribe en rojo «Mándaselo a tu compañero de partida» y, en las notas, «Los folatos contribuyen a la formación normal de células sanguíneas»."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "CX",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: hoja de personaje de rol en papel, tinta de fotocopia y lápiz, dados y café, con gráfico radar",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato CX en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012 y Reglamento nº 1169/2011. Voz sintética (IA).",
+  "ia": true
+}
