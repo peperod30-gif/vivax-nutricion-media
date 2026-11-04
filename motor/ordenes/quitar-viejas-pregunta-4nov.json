@@ -1,0 +1,125 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "He visto que rechazas las piezas antiguas (las de estilo g y v3): has descartado 5 de las 6 que has revisado y la otra la quieres en el formato nuevo. Quedan 26 de ese estilo en la cola, hasta el 4 de diciembre. ¿Las quito todas de la cola y las sustituyo por el contenido nuevo? No se pierden: quedan como pendientes y puedo recuperar cualquiera.",
+  "opciones": [
+    [
+      "si",
+      "Sí, quítalas todas"
+    ],
+    [
+      "no",
+      "No, las veo una a una"
+    ]
+  ],
+  "caduca": "24h",
+  "texto_libre": false,
+  "cuenta": "n1",
+  "si_responde": {
+    "si": [
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-mito-1024d-mito-hashtags"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-r2-aperitivo-calorias"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-r2-proteina-desayuno"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-1026c-que-lleva-mas-hidratos"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-1105c-bacon-proteina"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1031d-lo-que-la-ley-no-te-deja-publicar"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-1021a-que-lleva-mas-calcio"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-1027a-que-lleva-mas-sodio"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-1107a-calorias-por-gramo"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-1112a-fruta-mas-dulce"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1101b-zumo-o-cola"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1103d-importa-el-tipo-de-ldl"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1108a-la-insulina-inflama"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1111a-naranja-no-es-la-reina"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1114a-cerebro-solo-glucosa"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-quiz-azucar"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-v3-ranking-fibra"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1027c-reyes-fibra"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-1025a-low-carb-lo-que-cambia"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-tostada-calorias"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-palomitas-fibra"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-cambio-pistachos"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-hamburguesa-salchicha"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-mito-arroz-grano-entero"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-proteina-desayuno"
+      },
+      {
+        "accion": "quitar",
+        "pieza_id": "n1-g-r2-untables-calorias"
+      }
+    ]
+  }
+}
