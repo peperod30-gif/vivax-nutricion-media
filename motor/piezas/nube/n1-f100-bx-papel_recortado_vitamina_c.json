@@ -1,0 +1,92 @@
+{
+  "id": "n1-f100-bx-papel_recortado_vitamina_c",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BX",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-043",
+    "VIT-018",
+    "VIT-017"
+  ],
+  "titulo": "[BX] El teatrillo de papel de la vitamina C",
+  "hojas": [
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Vitamina C · por 100 g",
+      "titulo": "¿Quién llega más alto?",
+      "voz": "¿Quién llega más alto en vitamina C?"
+    },
+    {
+      "plantilla": "fx_reel",
+      "filas": [
+        {
+          "nombre": "Tomate crudo",
+          "valor": "14 mg"
+        },
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "28 mg"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "48 mg"
+        }
+      ],
+      "voz": "Tomate, 14. Espinacas, 28. Coliflor, 48."
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Pimiento rojo crudo",
+      "cifra": "128 mg",
+      "voz": "¡Pimiento rojo, 128!"
+    },
+    {
+      "plantilla": "fx_reel",
+      "izq": "Perejil fresco",
+      "cifra": "133 mg",
+      "frase": "¡Por un pelo!",
+      "voz": "Pero, por un pelo... ¡perejil, 133!"
+    },
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Vitamina C",
+      "titulo": "¿Y para qué sirve?",
+      "frase": "La vitamina C contribuye al funcionamiento normal del sistema inmunitario.",
+      "items": [
+        "sistema inmunitario"
+      ],
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina C. No es una recomendación personal.",
+      "voz": "¿Y para qué sirve? La vitamina C contribuye al funcionamiento normal del sistema inmunitario."
+    },
+    {
+      "plantilla": "fx_reel",
+      "kicker": "Vitamina C · por 100 g",
+      "frase": "Mándaselo a quien aparta el perejil",
+      "voz": "Mándaselo a quien aparta el perejil."
+    }
+  ],
+  "pie_instagram": "El pimiento rojo ya se veía en lo más alto, y entonces subió el perejil ✂️\n\nVitamina C por cada 100 g, en crudo: tomate 14 mg, espinacas 28 mg, coliflor 48 mg, pimiento rojo 128 mg y perejil fresco 133 mg.\nOjo con la escala: 100 g de perejil es un buen manojo, mucho más de lo que se pone en un plato. Aquí se compara lo que lleva cada alimento por 100 g, no una ración.\nEs la cantidad que hay en el alimento, no la que se absorbe, y la cocción la baja. Datos de la tabla de composición de USDA 🔎\n\nEs composición por 100 g de cada alimento, no una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La vitamina C contribuye al funcionamiento normal del sistema inmunitario. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina C; no es una recomendación personal.\n\n¿Cuál esperabas en lo más alto?\nMándaselo a quien aparta el perejil.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminac #nutricion #verduras #perejil",
+  "alt": [
+    "Reel de un teatrillo de papel recortado en tonos verde oliva. Arriba, en la bambalina oliva: «Vitamina C por 100 g. ¿Quién llega más alto?». Se abre un telón oliva de cartulina y salen cinco alimentos recortados, cada uno encima de una columna de papel blanco cuya altura es su vitamina C por 100 g: tomate crudo 14 mg, espinacas crudas 28 mg, coliflor cruda 48 mg y pimiento rojo crudo 128 mg, que se pone chulo. Un hilo negro marca su altura. El perejil fresco sube despacio, se queda justo debajo y lo pasa por un pelo: 133 mg. Se cierra el telón y la bambalina pregunta: «Vitamina C. ¿Y para qué sirve?». Baja colgada de dos hilos una cartulina blanca con la frase «La vitamina C contribuye al funcionamiento normal del sistema inmunitario.», que se va marcando palabra a palabra; debajo, en letra pequeña: declaración autorizada por la UE para alimentos que son fuente de vitamina C, no es una recomendación personal. Abajo, una máquina de engranajes de cartulina oliva con la etiqueta «sistema inmunitario»; un engranaje naranja con una C entra rodando, encaja y la máquina se pone a girar, mientras el pimiento y el perejil miran. Cierre: nota de papel con «Mándaselo a quien aparta el perejil» y la firma de Vivax Nutrición."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BX",
+    "lote": "f100-2026-11-03",
+    "mundo": "nuevo: papel recortado en capas (teatrillo de cartulina), stop motion a 10 fps, ranking de columnas; 4-nov: en tonos oliva y con conclusión (VIT-017 literal y engranajes de cartulina)",
+    "voz_de_prueba": false,
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BX en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); USDA FoodData Central, SR Legacy (2018); Reglamento nº 432/2012 y Reglamento nº 1169/2011. Voz sintética (IA).",
+  "ia": true
+}

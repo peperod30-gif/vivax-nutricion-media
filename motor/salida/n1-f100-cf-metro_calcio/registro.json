@@ -1,0 +1,3072 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 24.58,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.53,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.133,
+ "n_cambios_visuales": 387,
+ "bucle_dif_ultimo_primero": 27.45,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    151,
+    1335,
+    266,
+    1384
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Coliflor",
+   "contando": false,
+   "r": [
+    334,
+    1168,
+    470,
+    1217
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cruda",
+   "contando": false,
+   "r": [
+    478,
+    1177,
+    557,
+    1214
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Brócoli",
+   "contando": false,
+   "r": [
+    334,
+    1031,
+    463,
+    1080
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cocido",
+   "contando": false,
+   "r": [
+    472,
+    1040,
+    565,
+    1077
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Garbanzos",
+   "contando": false,
+   "r": [
+    334,
+    963,
+    535,
+    1012
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cocidos",
+   "contando": false,
+   "r": [
+    544,
+    972,
+    652,
+    1009
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Alubias blancas",
+   "contando": false,
+   "r": [
+    334,
+    651,
+    627,
+    700
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cocidas",
+   "contando": false,
+   "r": [
+    636,
+    660,
+    743,
+    697
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    334,
+    583,
+    525,
+    632
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    534,
+    592,
+    628,
+    629
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Acaba en",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    528,
+    433
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    69,
+    411,
+    522,
+    527
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    524,
+    411,
+    579,
+    527
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Coliflor",
+   "contando": false,
+   "r": [
+    334,
+    1232,
+    470,
+    1281
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "cruda",
+   "contando": false,
+   "r": [
+    478,
+    1241,
+    557,
+    1278
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "22 mg",
+   "contando": false,
+   "r": [
+    586,
+    1239,
+    682,
+    1279
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Brócoli",
+   "contando": false,
+   "r": [
+    334,
+    1095,
+    463,
+    1144
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "cocido",
+   "contando": false,
+   "r": [
+    472,
+    1104,
+    565,
+    1141
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "40 mg",
+   "contando": false,
+   "r": [
+    594,
+    1102,
+    693,
+    1142
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Garbanzos",
+   "contando": false,
+   "r": [
+    334,
+    1026,
+    535,
+    1075
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "cocidos",
+   "contando": false,
+   "r": [
+    544,
+    1035,
+    652,
+    1072
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "49 mg",
+   "contando": false,
+   "r": [
+    681,
+    1033,
+    779,
+    1073
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Alubias blancas",
+   "contando": false,
+   "r": [
+    334,
+    715,
+    627,
+    764
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "cocidas",
+   "contando": false,
+   "r": [
+    636,
+    724,
+    743,
+    761
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "90 mg",
+   "contando": false,
+   "r": [
+    772,
+    722,
+    870,
+    762
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    334,
+    647,
+    531,
+    698
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    540,
+    657,
+    638,
+    695
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "¿Acaba en",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    528,
+    433
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    69,
+    411,
+    522,
+    527
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    524,
+    411,
+    579,
+    527
+   ]
+  },
+  {
+   "t": 2.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Brócoli",
+   "contando": false,
+   "r": [
+    334,
+    1099,
+    463,
+    1148
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "cocido",
+   "contando": false,
+   "r": [
+    472,
+    1108,
+    565,
+    1145
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "40 mg",
+   "contando": false,
+   "r": [
+    594,
+    1106,
+    693,
+    1146
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Garbanzos",
+   "contando": false,
+   "r": [
+    334,
+    1031,
+    535,
+    1080
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "cocidos",
+   "contando": false,
+   "r": [
+    544,
+    1040,
+    652,
+    1077
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "49 mg",
+   "contando": false,
+   "r": [
+    681,
+    1038,
+    779,
+    1078
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Alubias blancas",
+   "contando": false,
+   "r": [
+    334,
+    719,
+    627,
+    768
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "cocidas",
+   "contando": false,
+   "r": [
+    636,
+    728,
+    743,
+    765
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "90 mg",
+   "contando": false,
+   "r": [
+    772,
+    726,
+    869,
+    766
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    334,
+    651,
+    525,
+    700
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    534,
+    660,
+    628,
+    697
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "99 mg",
+   "contando": false,
+   "r": [
+    657,
+    658,
+    753,
+    698
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "¿Acaba en",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    528,
+    433
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    69,
+    411,
+    522,
+    527
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    524,
+    411,
+    579,
+    527
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    108,
+    1283,
+    406,
+    1360
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "crudas · por 100 g",
+   "contando": false,
+   "r": [
+    108,
+    1367,
+    343,
+    1402
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "99",
+   "contando": false,
+   "r": [
+    701,
+    1280,
+    835,
+    1416
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    843,
+    1338,
+    910,
+    1392
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    75,
+    1204,
+    164,
+    1241
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    212,
+    1094,
+    360,
+    1131
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    367,
+    1101,
+    443,
+    1130
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "99 mg",
+   "contando": false,
+   "r": [
+    466,
+    1098,
+    546,
+    1131
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Sardinas",
+   "contando": false,
+   "r": [
+    624,
+    1179,
+    751,
+    1216
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "en lata",
+   "contando": false,
+   "r": [
+    758,
+    1186,
+    832,
+    1215
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    706,
+    1081,
+    863,
+    1118
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Mozzarella",
+   "contando": false,
+   "r": [
+    505,
+    1014,
+    662,
+    1051
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    432,
+    910,
+    662,
+    947
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    714,
+    845,
+    861,
+    882
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Parmesano",
+   "contando": false,
+   "r": [
+    150,
+    546,
+    314,
+    583
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Pues no:",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    431,
+    433
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "la vía sigue",
+   "contando": false,
+   "r": [
+    66,
+    411,
+    539,
+    527
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Línea Negra",
+   "contando": false,
+   "r": [
+    145,
+    657,
+    281,
+    686
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Línea Blanca",
+   "contando": false,
+   "r": [
+    145,
+    693,
+    289,
+    722
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Cada marca: 100 mg",
+   "contando": false,
+   "r": [
+    91,
+    759,
+    323,
+    788
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "Distancia desde la salida: calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    798,
+    316,
+    848
+   ]
+  },
+  {
+   "t": 7.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    75,
+    1204,
+    164,
+    1241
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    212,
+    1094,
+    360,
+    1131
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    367,
+    1101,
+    443,
+    1130
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "99 mg",
+   "contando": false,
+   "r": [
+    466,
+    1098,
+    546,
+    1131
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Sardinas",
+   "contando": false,
+   "r": [
+    624,
+    1179,
+    751,
+    1216
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "en lata",
+   "contando": false,
+   "r": [
+    758,
+    1186,
+    832,
+    1215
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    706,
+    1081,
+    863,
+    1118
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Mozzarella",
+   "contando": false,
+   "r": [
+    505,
+    1014,
+    662,
+    1051
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    432,
+    910,
+    662,
+    947
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    714,
+    845,
+    861,
+    882
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "683 mg",
+   "contando": false,
+   "r": [
+    726,
+    886,
+    822,
+    919
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Parmesano",
+   "contando": false,
+   "r": [
+    150,
+    546,
+    314,
+    583
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Pues no:",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    431,
+    433
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "la vía sigue",
+   "contando": false,
+   "r": [
+    66,
+    411,
+    539,
+    527
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Línea Negra",
+   "contando": false,
+   "r": [
+    145,
+    657,
+    281,
+    686
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Línea Blanca",
+   "contando": false,
+   "r": [
+    145,
+    693,
+    289,
+    722
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Cada marca: 100 mg",
+   "contando": false,
+   "r": [
+    91,
+    759,
+    323,
+    788
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Distancia desde la salida: calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    798,
+    316,
+    848
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    108,
+    1283,
+    402,
+    1360
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    108,
+    1367,
+    231,
+    1402
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "683",
+   "contando": false,
+   "r": [
+    635,
+    1280,
+    835,
+    1416
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    843,
+    1338,
+    910,
+    1392
+   ]
+  },
+  {
+   "t": 9.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    75,
+    1204,
+    164,
+    1241
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    212,
+    1094,
+    360,
+    1131
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    367,
+    1101,
+    443,
+    1130
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "99 mg",
+   "contando": false,
+   "r": [
+    466,
+    1098,
+    546,
+    1131
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Sardinas",
+   "contando": false,
+   "r": [
+    624,
+    1179,
+    751,
+    1216
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "en lata",
+   "contando": false,
+   "r": [
+    758,
+    1186,
+    832,
+    1215
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    706,
+    1081,
+    863,
+    1118
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Mozzarella",
+   "contando": false,
+   "r": [
+    505,
+    1014,
+    662,
+    1051
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    432,
+    910,
+    662,
+    947
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    714,
+    845,
+    861,
+    882
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "683 mg",
+   "contando": false,
+   "r": [
+    726,
+    886,
+    822,
+    919
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Parmesano",
+   "contando": false,
+   "r": [
+    150,
+    546,
+    314,
+    583
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Pues no:",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    431,
+    433
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "la vía sigue",
+   "contando": false,
+   "r": [
+    66,
+    411,
+    539,
+    527
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Línea Negra",
+   "contando": false,
+   "r": [
+    145,
+    657,
+    281,
+    686
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Línea Blanca",
+   "contando": false,
+   "r": [
+    145,
+    693,
+    289,
+    722
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Cada marca: 100 mg",
+   "contando": false,
+   "r": [
+    91,
+    759,
+    323,
+    788
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Distancia desde la salida: calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    798,
+    316,
+    848
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    108,
+    1283,
+    402,
+    1360
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Trasbordo a Línea Blanca",
+   "contando": false,
+   "r": [
+    108,
+    1367,
+    441,
+    1402
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "683",
+   "contando": false,
+   "r": [
+    635,
+    1280,
+    835,
+    1416
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    843,
+    1338,
+    910,
+    1392
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    75,
+    1204,
+    164,
+    1241
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    212,
+    1094,
+    360,
+    1131
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    367,
+    1101,
+    443,
+    1130
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "99 mg",
+   "contando": false,
+   "r": [
+    466,
+    1098,
+    546,
+    1131
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Sardinas",
+   "contando": false,
+   "r": [
+    624,
+    1179,
+    751,
+    1216
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "en lata",
+   "contando": false,
+   "r": [
+    758,
+    1186,
+    832,
+    1215
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    706,
+    1081,
+    863,
+    1118
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Mozzarella",
+   "contando": false,
+   "r": [
+    505,
+    1014,
+    662,
+    1051
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    432,
+    910,
+    662,
+    947
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    714,
+    845,
+    861,
+    882
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "683 mg",
+   "contando": false,
+   "r": [
+    726,
+    886,
+    822,
+    919
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Parmesano",
+   "contando": false,
+   "r": [
+    150,
+    546,
+    314,
+    583
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "1184 mg",
+   "contando": false,
+   "r": [
+    200,
+    587,
+    302,
+    620
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Pues no:",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    431,
+    433
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "la vía sigue",
+   "contando": false,
+   "r": [
+    66,
+    411,
+    539,
+    527
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Línea Negra",
+   "contando": false,
+   "r": [
+    145,
+    657,
+    281,
+    686
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Línea Blanca",
+   "contando": false,
+   "r": [
+    145,
+    693,
+    289,
+    722
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Cada marca: 100 mg",
+   "contando": false,
+   "r": [
+    91,
+    759,
+    323,
+    788
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Distancia desde la salida: calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    798,
+    316,
+    848
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Parmesano",
+   "contando": false,
+   "r": [
+    108,
+    1283,
+    437,
+    1360
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Fin de trayecto",
+   "contando": false,
+   "r": [
+    108,
+    1367,
+    305,
+    1402
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "1184",
+   "contando": false,
+   "r": [
+    614,
+    1280,
+    835,
+    1416
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    843,
+    1338,
+    910,
+    1392
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    75,
+    1204,
+    164,
+    1241
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    212,
+    1094,
+    360,
+    1131
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "crudas",
+   "contando": false,
+   "r": [
+    367,
+    1101,
+    443,
+    1130
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "99 mg",
+   "contando": false,
+   "r": [
+    466,
+    1098,
+    546,
+    1131
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Sardinas",
+   "contando": false,
+   "r": [
+    624,
+    1179,
+    751,
+    1216
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "en lata",
+   "contando": false,
+   "r": [
+    758,
+    1186,
+    832,
+    1215
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "382 mg",
+   "contando": false,
+   "r": [
+    635,
+    1221,
+    731,
+    1254
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    706,
+    1081,
+    863,
+    1118
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "493 mg",
+   "contando": false,
+   "r": [
+    718,
+    1123,
+    816,
+    1156
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Mozzarella",
+   "contando": false,
+   "r": [
+    505,
+    1014,
+    662,
+    1051
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "505 mg",
+   "contando": false,
+   "r": [
+    554,
+    1055,
+    651,
+    1088
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    432,
+    910,
+    662,
+    947
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "631 mg",
+   "contando": false,
+   "r": [
+    560,
+    951,
+    651,
+    984
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Tofu firme",
+   "contando": false,
+   "r": [
+    714,
+    845,
+    861,
+    882
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "683 mg",
+   "contando": false,
+   "r": [
+    726,
+    886,
+    822,
+    919
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Parmesano",
+   "contando": false,
+   "r": [
+    150,
+    546,
+    314,
+    583
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "1184 mg",
+   "contando": false,
+   "r": [
+    200,
+    587,
+    302,
+    620
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Más lejos,",
+   "contando": false,
+   "r": [
+    66,
+    317,
+    496,
+    433
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "más calcio",
+   "contando": false,
+   "r": [
+    69,
+    411,
+    532,
+    527
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Línea Negra",
+   "contando": false,
+   "r": [
+    145,
+    657,
+    281,
+    686
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Línea Blanca",
+   "contando": false,
+   "r": [
+    145,
+    693,
+    289,
+    722
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Cada marca: 100 mg",
+   "contando": false,
+   "r": [
+    91,
+    759,
+    323,
+    788
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "Distancia desde la salida: calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    798,
+    316,
+    848
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    66,
+    318,
+    734,
+    422
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    66,
+    402,
+    147,
+    506
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    150,
+    402,
+    383,
+    506
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    386,
+    402,
+    435,
+    506
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "Línea Huesos",
+   "contando": false,
+   "r": [
+    413,
+    687,
+    667,
+    736
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "Ca",
+   "contando": false,
+   "r": [
+    363,
+    647,
+    394,
+    676
+   ]
+  },
+  {
+   "t": 16.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    66,
+    318,
+    734,
+    422
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    66,
+    402,
+    147,
+    506
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    150,
+    402,
+    383,
+    506
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    386,
+    402,
+    435,
+    506
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "Línea Huesos",
+   "contando": false,
+   "r": [
+    413,
+    687,
+    667,
+    736
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "Ca",
+   "contando": false,
+   "r": [
+    158,
+    678,
+    189,
+    707
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    106,
+    923,
+    152,
+    989
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    162,
+    923,
+    312,
+    989
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    322,
+    923,
+    381,
+    989
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "necesario",
+   "contando": false,
+   "r": [
+    391,
+    923,
+    639,
+    989
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    649,
+    923,
+    763,
+    989
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    773,
+    923,
+    817,
+    989
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    106,
+    984,
+    490,
+    1050
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    500,
+    984,
+    563,
+    1050
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    573,
+    984,
+    646,
+    1050
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "huesos",
+   "contando": false,
+   "r": [
+    660,
+    984,
+    843,
+    1050
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    106,
+    1044,
+    169,
+    1110
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    179,
+    1044,
+    485,
+    1110
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de calcio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    106,
+    1138,
+    865,
+    1187
+   ]
+  },
+  {
+   "t": 19.733,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    66,
+    318,
+    734,
+    422
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    66,
+    402,
+    147,
+    506
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    150,
+    402,
+    383,
+    506
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    386,
+    402,
+    435,
+    506
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Línea Huesos",
+   "contando": false,
+   "r": [
+    413,
+    687,
+    667,
+    736
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Ca",
+   "contando": false,
+   "r": [
+    893,
+    684,
+    924,
+    713
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    106,
+    923,
+    152,
+    989
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    162,
+    923,
+    312,
+    989
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    322,
+    923,
+    381,
+    989
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "necesario",
+   "contando": false,
+   "r": [
+    391,
+    923,
+    639,
+    989
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    649,
+    923,
+    763,
+    989
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    773,
+    923,
+    817,
+    989
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    106,
+    984,
+    490,
+    1050
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    500,
+    984,
+    563,
+    1050
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    573,
+    984,
+    646,
+    1050
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "huesos",
+   "contando": false,
+   "r": [
+    660,
+    984,
+    843,
+    1050
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    106,
+    1044,
+    169,
+    1110
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    179,
+    1044,
+    485,
+    1110
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    495,
+    1044,
+    744,
+    1110
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de calcio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    106,
+    1138,
+    865,
+    1187
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Mándaselo a quien",
+   "contando": false,
+   "r": [
+    140,
+    1286,
+    556,
+    1345
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "se baja en Espinacas",
+   "contando": false,
+   "r": [
+    140,
+    1338,
+    600,
+    1397
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Metro del calcio · mg por 100 g",
+   "contando": false,
+   "r": [
+    132,
+    269,
+    572,
+    306
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    66,
+    318,
+    734,
+    422
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    66,
+    402,
+    147,
+    506
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    150,
+    402,
+    383,
+    506
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    386,
+    402,
+    435,
+    506
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Línea Huesos",
+   "contando": false,
+   "r": [
+    413,
+    687,
+    667,
+    736
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Ca",
+   "contando": false,
+   "r": [
+    316,
+    620,
+    347,
+    649
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    106,
+    923,
+    152,
+    989
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    162,
+    923,
+    312,
+    989
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    322,
+    923,
+    381,
+    989
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "necesario",
+   "contando": false,
+   "r": [
+    391,
+    923,
+    639,
+    989
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    649,
+    923,
+    763,
+    989
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    773,
+    923,
+    817,
+    989
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    106,
+    984,
+    490,
+    1050
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    500,
+    984,
+    563,
+    1050
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    573,
+    984,
+    646,
+    1050
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "huesos",
+   "contando": false,
+   "r": [
+    660,
+    984,
+    843,
+    1050
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    106,
+    1044,
+    169,
+    1110
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    179,
+    1044,
+    485,
+    1110
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    495,
+    1044,
+    744,
+    1110
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de calcio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    106,
+    1138,
+    865,
+    1187
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Mándaselo a quien",
+   "contando": false,
+   "r": [
+    143,
+    1287,
+    556,
+    1346
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "se baja en Espinacas",
+   "contando": false,
+   "r": [
+    143,
+    1339,
+    599,
+    1397
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    520,
+    1460,
+    678,
+    1491
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.367,
+  4.267,
+  7.167,
+  9.0,
+  10.667,
+  12.967,
+  14.967,
+  16.233,
+  19.733,
+  21.767,
+  24.5
+ ],
+ "sonido": {
+  "lufs": -16.09,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.65,
+  "tiempo_reduccion_mas_1db_pct": 0.13,
+  "efectos_por_tipo": {
+   "whoosh": 4,
+   "tic": 12,
+   "pop": 11,
+   "ding": 3,
+   "sello": 4,
+   "subida": 1,
+   "golpe": 2
+  },
+  "descartados": 0,
+  "duracion_s": 24.512,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 328,
+   "lineas": [
+    {
+     "texto": "Metro del calcio: ¿acaba en Espinacas?",
+     "hablado": "Metro del calcio: ¿acaba en Espinacas?",
+     "t0": 0.0213,
+     "t1": 2.7413
+    },
+    {
+     "texto": "Espinacas: 99 mg.",
+     "hablado": "Espinacas: noventa y nueve miligramos.",
+     "t0": 2.7613,
+     "t1": 5.5063
+    },
+    {
+     "texto": "Pues no: la vía sigue.",
+     "hablado": "Pues no: la vía sigue.",
+     "t0": 5.6664,
+     "t1": 7.4414
+    },
+    {
+     "texto": "Tofu firme: 683. ¡Trasbordo!",
+     "hablado": "Tofu firme: seiscientos ochenta y tres. ¡Trasbordo!",
+     "t0": 7.6014,
+     "t1": 11.1014
+    },
+    {
+     "texto": "Parmesano: 1184.",
+     "hablado": "Parmesano: mil ciento ochenta y cuatro.",
+     "t0": 11.5844,
+     "t1": 14.2494
+    },
+    {
+     "texto": "¿Y para qué sirve?",
+     "hablado": "¿Y para qué sirve?",
+     "t0": 15.0794,
+     "t1": 16.3894
+    },
+    {
+     "texto": "El calcio es necesario para el mantenimiento de los huesos en condiciones normales.",
+     "hablado": "El calcio es necesario para el mantenimiento de los huesos en condiciones normales.",
+     "t0": 16.4194,
+     "t1": 21.0444
+    },
+    {
+     "texto": "Mándaselo a quien se baja en Espinacas.",
+     "hablado": "Mándaselo a quien se baja en Espinacas.",
+     "t0": 21.3244,
+     "t1": 23.6444
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.87
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.3,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 0.578,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 0.598,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 1.064,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 1.084,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 1.436,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 1.456,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 2.119,
+   "tipo": "tic",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.139,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 2.491,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 3.866,
+   "tipo": "sello",
+   "intensidad": 0.6
+  },
+  {
+   "t": 5.466,
+   "tipo": "whoosh",
+   "intensidad": 0.85
+  },
+  {
+   "t": 7.521,
+   "tipo": "subida",
+   "intensidad": 0.5
+  },
+  {
+   "t": 7.541,
+   "tipo": "golpe",
+   "intensidad": 0.65
+  },
+  {
+   "t": 7.591,
+   "tipo": "ding",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.601,
+   "tipo": "sello",
+   "intensidad": 0.8
+  },
+  {
+   "t": 10.274,
+   "tipo": "whoosh",
+   "intensidad": 0.7
+  },
+  {
+   "t": 10.304,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 11.524,
+   "tipo": "golpe",
+   "intensidad": 0.6
+  },
+  {
+   "t": 11.574,
+   "tipo": "ding",
+   "intensidad": 0.85
+  },
+  {
+   "t": 12.569,
+   "tipo": "sello",
+   "intensidad": 0.9
+  },
+  {
+   "t": 15.029,
+   "tipo": "whoosh",
+   "intensidad": 0.7
+  },
+  {
+   "t": 16.319,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 19.124,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 21.274,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.319,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.459,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.599,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.739,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 15.148,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.189,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.235,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.286,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.346,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.418,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.514,
+   "tipo": "tic",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.672,
+   "tipo": "tic",
+   "intensidad": 0.35
+  }
+ ],
+ "fotogramas": 736,
+ "tiempo_render_s": 52.8,
+ "tiempos_s": {
+  "preparar": 0.83,
+  "dibujar_y_codificar": 48.17
+ },
+ "voz_de_prueba": false
+}

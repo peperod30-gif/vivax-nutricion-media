@@ -1,0 +1,133 @@
+{
+  "id": "n1-f100-bw-riso_legumbres",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-BW",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-027",
+    "ALI-028",
+    "VIT-059"
+  ],
+  "titulo": "[BW] Risografía a dos tintas: pan y lácteos",
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Duelo uno · Fibra",
+      "titulo": "Blanco contra trigo entero",
+      "texto": "¿Cuánta fibra lleva cada pan por 100 g?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "ranking",
+      "kicker": "Duelo uno · Fibra",
+      "titulo": "Más del doble",
+      "texto": "Fibra por cada 100 g de pan",
+      "opciones": [
+        {
+          "nombre": "Pan blanco",
+          "valor": "2,7 g"
+        },
+        {
+          "nombre": "Pan de trigo entero",
+          "valor": "6,0 g"
+        }
+      ],
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy."
+    },
+    {
+      "plantilla": "lista",
+      "kicker": "Duelo dos · Proteína",
+      "titulo": "Leche contra yogur griego",
+      "texto": "¿Cuánta proteína lleva cada uno por 100 g?",
+      "sigue": "Desliza"
+    },
+    {
+      "plantilla": "ranking",
+      "kicker": "Duelo dos · Proteína",
+      "titulo": "Más del triple",
+      "texto": "Proteína por cada 100 g",
+      "opciones": [
+        {
+          "nombre": "Leche entera",
+          "valor": "3,2 g"
+        },
+        {
+          "nombre": "Yogur griego natural",
+          "valor": "10,2 g",
+          "detalle": "sin grasa"
+        }
+      ],
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Negro encima de oliva",
+      "titulo": "Todo junto",
+      "texto": "Lo negro va encima. Lo oliva que asoma es la diferencia.",
+      "opciones": [
+        {
+          "nombre": "Fibra",
+          "detalle": "pan blanco y de trigo entero",
+          "valor": "2,7 g y 6,0 g"
+        },
+        {
+          "nombre": "Proteína",
+          "detalle": "leche entera y yogur griego",
+          "valor": "3,2 g y 10,2 g"
+        }
+      ],
+      "frase": "Queda una pregunta.",
+      "sigue": "Desliza",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy. Por 100 g."
+    },
+    {
+      "plantilla": "g_pictograma",
+      "kicker": "Proteína · Para qué sirve",
+      "titulo": "¿Y para qué sirve la proteína?",
+      "texto": "Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales.",
+      "izq": "Proteínas",
+      "der": "Huesos",
+      "dice": [
+        "¡Justo ahí!"
+      ],
+      "frase": "Mándaselo a tu compi de desayuno.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "funcion_f100": "conclusion",
+      "hecho_hoja": [
+        "VIT-059"
+      ]
+    }
+  ],
+  "pie_instagram": "Pan blanco contra pan de trigo entero y leche contra yogur griego, impresos a dos tintas 🖨️\n\nFibra por cada 100 g: pan blanco, 2,7 g; pan de trigo entero, 6,0 g. Más del doble 🍞\nProteína por cada 100 g: leche entera, 3,2 g; yogur griego natural sin grasa, 10,2 g. Más del triple 🥛\nEn la quinta hoja las dos tintas se pisan: la barra negra va encima y lo oliva que asoma es la diferencia.\nHecho como una risografía: tinta oliva, tinta negra y mucha trama de puntos.\nY para qué sirve: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal 🦴\n\nEs lo que lleva cada alimento según la tabla de USDA, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál te ha sorprendido más?\nMándaselo a tu compi de desayuno.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #fibra #proteina #comidareal",
+  "alt": [
+    "Cartel impreso en risografía a dos tintas, oliva y negra, sobre papel verde oliva claro. Duelo uno, fibra. Titular enorme en negro: BLANCO, CONTRA y TRIGO ENTERO sobre una franja oliva. Dos rebanadas de pan con cara de pocos amigos se miran de frente: la blanca, impresa en negro, y la de trigo entero, rellena de trama oliva, con el contorno negro y motas de salvado, con un estallido oliva y negro entre las dos. Pregunta: ¿Cuánta fibra lleva cada pan por 100 g? Desliza.",
+    "Duelo uno, fibra. Titular: MÁS DEL DOBLE. Fibra por cada 100 g de pan. Dos barras hechas de puntos de trama, lado a lado: pan blanco, 2,7 g, en tinta negra; pan de trigo entero, 6,0 g, en tinta oliva, mucho más alta. Fuente: USDA FoodData Central.",
+    "Duelo dos, proteína. Titular: LECHE, CONTRA y YOGUR GRIEGO sobre una franja oliva. Un vaso de leche impreso en negro, salpicando, y un cuenco de yogur griego relleno de trama oliva, con su cuchara y el contorno negro, se miran de frente, con un estallido oliva y negro entre los dos. Pregunta: ¿Cuánta proteína lleva cada uno por 100 g? Desliza.",
+    "Duelo dos, proteína. Titular: MÁS DEL TRIPLE. Proteína por cada 100 g. Barras de puntos de trama: leche entera, 3,2 g, en negro; yogur griego natural sin grasa, 10,2 g, en oliva, más del triple de alta. Fuente: USDA FoodData Central.",
+    "Negro encima de oliva. Titular: TODO JUNTO. Lo negro va encima; lo oliva que asoma es la diferencia, marcada con una llave. Dos columnas en la misma escala con la barra negra impresa encima de la oliva: fibra, pan blanco 2,7 g y pan de trigo entero 6,0 g; proteína, leche entera 3,2 g y yogur griego 10,2 g. Queda una pregunta. Desliza.",
+    "Proteína, para qué sirve. Titular: ¿Y PARA QUÉ SIRVE LA PROTEÍNA? En letra grande sobre un bloque oliva: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Debajo, un hueso sonriente relleno de trama oliva, rotulado Huesos, que dice ¡Justo ahí!, y dos cadenas de bolitas con casco, rotuladas Proteínas, que le hacen el mantenimiento: una aprieta una tuerca con una llave inglesa y la otra repasa una lista. Mándaselo a tu compi de desayuno. Letra pequeña: Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal. Aviso: contenido divulgativo, no es consejo personal ni sustituye a tu médico o dietista-nutricionista. Logo de Vivax Nutrición."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "BW",
+    "lote": "f100-2026-11-03",
+    "serie": "f100",
+    "frente": "publico",
+    "sistema": "risografía a dos tintas (oliva y negra) sobre papel oliva claro",
+    "conclusion": {
+      "hecho": "VIT-059",
+      "texto": "Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales.",
+      "hoja": 6
+    },
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BW en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}
