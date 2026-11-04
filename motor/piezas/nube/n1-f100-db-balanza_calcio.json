@@ -1,0 +1,56 @@
+{
+  "id": "n1-f100-db-balanza_calcio",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-DB",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-061",
+    "ALI-009",
+    "VIT-055"
+  ],
+  "titulo": "[DB] Balanza de botica: 100 g de sardinas y 100 g de leche, pesan igual y el calcio no",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Calcio por cada 100 g",
+      "titulo": "Pesan lo mismo. El {calcio}, no.",
+      "opciones": [
+        {
+          "nombre": "Sardinas en lata",
+          "valor": "382 mg",
+          "detalle": "con su espina"
+        },
+        {
+          "nombre": "Leche entera",
+          "valor": "113 mg",
+          "detalle": "la de toda la vida"
+        }
+      ],
+      "resalte": "100 g = 100 g",
+      "frase": "El calcio es necesario para el mantenimiento de los huesos en condiciones normales.",
+      "sigue": "Pásaselo a quien apostaría por la leche.",
+      "fuente": "Fuente: USDA FoodData Central (SR Legacy) y Reglamento (UE) 432/2012",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "sistema": "balanza de platillos de farmacia antigua (latón, etiquetas de papel con tinta, botica en miel y verde botella claro)"
+    }
+  ],
+  "pie_instagram": "100 g de sardinas en lata y 100 g de leche entera pesan lo mismo. El calcio, no 🐟\n\nSardinas en lata, con su espina: 382 mg de calcio por cada 100 g.\nLeche entera: 113 mg de calcio por cada 100 g.\nEn el mismo peso, las sardinas llevan más del triple de calcio.\nEs lo que lleva el alimento, no lo que se absorbe.\nEl calcio es necesario para el mantenimiento de los huesos en condiciones normales.\nEs composición: no es una recomendación de comer más o menos de nada.\n\n¿En qué platillo habrías puesto más calcio?\nPásaselo a quien apostaría por la leche.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#calcio #sardinas #nutricion #comidareal",
+  "alt": [
+    "Ilustración de una botica antigua con la pared verde clara, un estante de frascos de vidrio verde y tarros de ámbar y un mostrador de madera color miel. Arriba: «Calcio por cada 100 g. Pesan lo mismo. El calcio, no.». En el centro, una balanza de latón en equilibrio, con el fiel en el cero. En el platillo de la izquierda, una lata de sardinas abierta; en el de la derecha, una jarra de vidrio con leche; bajo cada platillo cuelga una etiqueta de 100 g, y en la base de la balanza una placa dice 100 g = 100 g. De cada gancho cuelga una etiqueta de botica: sardinas en lata, con su espina, 382 mg; leche entera, la de toda la vida, 113 mg. Abajo, en una receta de papel: El calcio es necesario para el mantenimiento de los huesos en condiciones normales. A mano: pásaselo a quien apostaría por la leche. Logo de Vivax Nutrición, @vivax_nutri y fuente USDA FoodData Central y Reglamento (UE) 432/2012. Contenido divulgativo; no es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "DB",
+    "lote": "f100-2026-11-03",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato DB en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019): sardinas en lata con su espina y leche entera, valores por 100 g (ALI-061, ALI-009). Reglamento (UE) n.º 432/2012, declaración autorizada del calcio (VIT-055).",
+  "frente": "A"
+}
