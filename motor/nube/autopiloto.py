@@ -25,7 +25,10 @@ TOPE_POR_PASADA = 80
 
 
 def _tipo(formato: str) -> str:
-    return "reel" if formato == "video" else "carrusel"
+    """Tipo de hueco de la pauta: «reel», «imagen» (publicación de una sola imagen, formato «unica») o «carrusel» (4-nov-2026: 6 al día)."""
+    if formato == "video":
+        return "reel"
+    return "imagen" if formato == "unica" else "carrusel"
 
 
 def _pauta(valor) -> list[tuple[str, str]]:
@@ -34,7 +37,7 @@ def _pauta(valor) -> list[tuple[str, str]]:
         try:
             hhmm, tipo = x
             hh, mm = (int(p) for p in str(hhmm).split(":"))
-            if 0 <= hh < 24 and 0 <= mm < 60 and tipo in ("reel", "carrusel"):
+            if 0 <= hh < 24 and 0 <= mm < 60 and tipo in ("reel", "carrusel", "imagen"):
                 sal.append((f"{hh:02d}:{mm:02d}", tipo))
         except (TypeError, ValueError):
             continue
@@ -68,9 +71,13 @@ def programar(ad, hub, pauta, log=print, ahora: datetime | None = None, horizont
     desde = ahora + timedelta(minutes=MARGEN_MIN)
     dia0 = ahora.astimezone(MADRID).date()
     hechas: list[str] = []
-    for _, id_, pid, tipo in candidatas[:TOPE_POR_PASADA]:
+    for fecha_plan, id_, pid, tipo in candidatas[:TOPE_POR_PASADA]:
         colocada = False
-        for d in range(0, horizonte_dias + 1):
+        try:                                                       # `produccion.fecha` (AAAA-MM-DD) es el primer día en que puede salir
+            d0 = max(0, (datetime.fromisoformat(fecha_plan[:10]).date() - dia0).days)
+        except ValueError:
+            d0 = 0
+        for d in range(d0, horizonte_dias + 1):
             dia = dia0 + timedelta(days=d)
             for hhmm, t_hueco in huecos:
                 if t_hueco != tipo:
