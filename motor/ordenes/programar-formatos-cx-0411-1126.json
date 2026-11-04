@@ -1,0 +1,23 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 4-nov-2026: botón ✅ Mandar de cada formato en Telegram, y su autorización del 15-oct («aprueba en automático los cambios que consideres precisos»)",
+  "texto": "Formatos que aprobaste con ✅ Mandar, colocados en los huecos libres (no he movido ninguna pieza ya aprobada). Si prefieres otro orden, dímelo.",
+  "lista": [
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-cx-ficha_rol_garbanzo",
+      "hora": "2026-11-12T18:00:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-cz-azulejos_hidratos",
+      "hora": "2026-11-12T21:00:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-dd-maquina_expendedora_proteina",
+      "hora": "2026-11-13T13:00:00+01:00"
+    }
+  ]
+}
