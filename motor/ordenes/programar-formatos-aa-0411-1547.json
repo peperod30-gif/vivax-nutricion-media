@@ -1,0 +1,23 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 4-nov-2026: botón ✅ Mandar de cada formato en Telegram, y su autorización del 15-oct («aprueba en automático los cambios que consideres precisos»)",
+  "texto": "Formatos que aprobaste con ✅ Mandar, colocados en los huecos libres (no he movido ninguna pieza ya aprobada). Si prefieres otro orden, dímelo.",
+  "lista": [
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-v5-ring-latas-pesaje",
+      "hora": "2026-11-04T16:30:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-ap-chat_hierro",
+      "hora": "2026-11-05T10:30:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-bi-menu_del_dia_pizarra",
+      "hora": "2026-11-05T16:30:00+01:00"
+    }
+  ]
+}

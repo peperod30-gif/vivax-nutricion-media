@@ -150,21 +150,13 @@ def informe_diario(hub, ahora: datetime | None = None, log=print, ad=None) -> bo
         previa = json.loads(hub.meta_leer("informe_ultimo") or "null")
     except ValueError:
         previa = None
-    if ahora.weekday() == 0:                                      # los lunes, el informe de la semana en lugar del parte diario
-        try:
-            previa_sem = json.loads(hub.meta_leer("informe_semana") or "null")
-        except ValueError:
-            previa_sem = None
-        texto = _texto_semana(foto, previa_sem)
-        try:
-            extra = _por_formato(foto, ad)
-        except Exception:                                         # noqa: BLE001
-            extra = ""
-        if extra:
-            texto += "\n" + extra
-        hub.meta_escribir("informe_semana", json.dumps({"seguidores": foto["perfil"].get("followers_count"), "fecha": ahora.isoformat()}))
-    else:
-        texto = _texto(foto, previa)
+    texto = _texto(foto, previa)                                  # 4-nov: el parte es diario todos los días; la semana se cierra el domingo (nube/informe_semana.py)
+    try:
+        extra = _por_formato(foto, ad)
+    except Exception:                                             # noqa: BLE001
+        extra = ""
+    if extra:
+        texto += "\n" + extra
     hub.crear_aviso(texto, "info", f"informe-{ahora.date().isoformat()}", "n1", None)
     hub.meta_escribir("informe_ultimo", json.dumps({"seguidores": foto["perfil"].get("followers_count"), "fecha": ahora.isoformat()}))
     hub.meta_escribir(clave, "hecho")
