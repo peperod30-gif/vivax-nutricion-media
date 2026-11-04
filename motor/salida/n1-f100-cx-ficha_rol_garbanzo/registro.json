@@ -1,23 +1,23 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 17.74,
+ "duracion_s": 21.94,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
- "fps": 29.96,
+ "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 2.9,
+ "tamano_mb": 2.82,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
  "lufs": -16.0,
- "pico_dbtp": -2.0,
+ "pico_dbtp": -2.1,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 1.167,
- "n_cambios_visuales": 278,
- "bucle_dif_ultimo_primero": 4.88,
+ "hueco_max_s": 1.1,
+ "n_cambios_visuales": 354,
+ "bucle_dif_ultimo_primero": 17.57,
  "zona_segura": [
   60,
   250,
@@ -1610,7 +1610,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Hoja de personaje",
    "contando": false,
    "r": [
@@ -1621,7 +1621,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Garbanzo cocido",
    "contando": false,
    "r": [
@@ -1632,7 +1632,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Legumbre",
    "contando": false,
    "r": [
@@ -1643,7 +1643,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Nombre",
    "contando": false,
    "r": [
@@ -1654,7 +1654,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Clase",
    "contando": false,
    "r": [
@@ -1665,7 +1665,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Retrato",
    "contando": false,
    "r": [
@@ -1676,7 +1676,7 @@
    ]
   },
   {
-   "t": 14.5,
+   "t": 14.667,
    "texto": "Notas",
    "contando": false,
    "r": [
@@ -1687,557 +1687,117 @@
    ]
   },
   {
-   "t": 14.5,
-   "texto": "Atributos",
-   "contando": false,
-   "r": [
-    348,
-    814,
-    509,
-    841
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "por 100 g",
-   "contando": false,
-   "r": [
-    526,
-    807,
-    651,
-    838
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "Mándaselo a tu compañero de partida",
-   "contando": false,
-   "r": [
-    81,
-    837,
-    366,
-    990
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "@vivax_nutri",
-   "contando": false,
-   "r": [
-    84,
-    989,
-    242,
-    1034
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "Fibra",
-   "contando": false,
-   "r": [
-    442,
-    845,
-    536,
-    874
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "7,6 g",
-   "contando": false,
-   "r": [
-    426,
-    869,
-    553,
-    954
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "frente a lentejas cocidas 7,9 g",
-   "contando": false,
-   "r": [
-    615,
-    846,
-    837,
-    927
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "casi como las lentejas",
-   "contando": false,
-   "r": [
-    616,
-    922,
-    825,
-    1016
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "Folato",
-   "contando": false,
-   "r": [
-    689,
-    1012,
-    811,
-    1041
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "172 µg",
-   "contando": false,
-   "r": [
-    689,
-    1035,
-    877,
-    1121
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "frente a espinacas crudas 194 µg",
-   "contando": false,
-   "r": [
-    690,
-    1104,
-    935,
-    1185
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "cerca de las espinacas",
-   "contando": false,
-   "r": [
-    690,
-    1180,
-    879,
-    1274
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "Hierro",
-   "contando": false,
-   "r": [
-    619,
-    1279,
-    737,
-    1308
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "2,9 mg",
-   "contando": false,
-   "r": [
-    620,
-    1302,
-    796,
-    1388
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "frente a alubias blancas cocidas 3,7 mg",
-   "contando": false,
-   "r": [
-    620,
-    1370,
-    940,
-    1452
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "Calcio",
-   "contando": false,
-   "r": [
-    253,
-    1291,
-    370,
-    1320
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "49 mg",
-   "contando": false,
-   "r": [
-    205,
-    1315,
-    371,
-    1401
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "frente a tofu firme 683 mg",
-   "contando": false,
-   "r": [
-    113,
-    1384,
-    371,
-    1464
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "Proteína",
-   "contando": false,
-   "r": [
-    142,
-    1032,
-    299,
-    1061
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "8,9 g",
-   "contando": false,
-   "r": [
-    174,
-    1056,
-    300,
-    1141
-   ]
-  },
-  {
-   "t": 14.5,
-   "texto": "frente a tofu firme 17,3 g",
-   "contando": false,
-   "r": [
-    126,
-    1125,
-    301,
-    1205
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Hoja de personaje",
-   "contando": false,
-   "r": [
-    67,
-    261,
-    721,
-    331
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Garbanzo cocido",
-   "contando": false,
-   "r": [
-    74,
-    360,
-    422,
-    437
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Legumbre",
-   "contando": false,
-   "r": [
-    594,
-    356,
-    803,
-    431
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Nombre",
-   "contando": false,
-   "r": [
-    71,
-    443,
-    174,
-    465
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Clase",
-   "contando": false,
-   "r": [
-    587,
-    438,
-    666,
-    459
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Retrato",
-   "contando": false,
-   "r": [
-    170,
-    770,
-    280,
-    792
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Notas",
-   "contando": false,
-   "r": [
-    419,
-    481,
-    498,
-    503
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Atributos",
-   "contando": false,
-   "r": [
-    348,
-    814,
-    509,
-    841
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "por 100 g",
-   "contando": false,
-   "r": [
-    526,
-    807,
-    651,
-    838
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Los folatos contribuyen a la formación normal de células sanguíneas.",
+   "t": 14.667,
+   "texto": "¿Qué nivel tiene un garbanzo cocido?",
    "contando": false,
    "r": [
     421,
-    510,
-    900,
-    738
+    499,
+    884,
+    757
    ]
   },
   {
-   "t": 16.6,
-   "texto": "Mándaselo a tu compañero de partida",
-   "contando": false,
-   "r": [
-    81,
-    837,
-    366,
-    990
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "@vivax_nutri",
-   "contando": false,
-   "r": [
-    84,
-    989,
-    242,
-    1034
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Fibra",
-   "contando": false,
-   "r": [
-    442,
-    845,
-    536,
-    874
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "7,6 g",
-   "contando": false,
-   "r": [
-    426,
-    869,
-    553,
-    954
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "frente a lentejas cocidas 7,9 g",
-   "contando": false,
-   "r": [
-    615,
-    846,
-    837,
-    927
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "casi como las lentejas",
-   "contando": false,
-   "r": [
-    616,
-    922,
-    825,
-    1016
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Folato",
-   "contando": false,
-   "r": [
-    689,
-    1012,
-    811,
-    1041
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "172 µg",
-   "contando": false,
-   "r": [
-    689,
-    1035,
-    877,
-    1121
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "frente a espinacas crudas 194 µg",
-   "contando": false,
-   "r": [
-    690,
-    1104,
-    935,
-    1185
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "cerca de las espinacas",
-   "contando": false,
-   "r": [
-    690,
-    1180,
-    879,
-    1274
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Hierro",
-   "contando": false,
-   "r": [
-    619,
-    1279,
-    737,
-    1308
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "2,9 mg",
-   "contando": false,
-   "r": [
-    620,
-    1302,
-    796,
-    1388
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "frente a alubias blancas cocidas 3,7 mg",
-   "contando": false,
-   "r": [
-    620,
-    1370,
-    940,
-    1452
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Calcio",
-   "contando": false,
-   "r": [
-    253,
-    1291,
-    370,
-    1320
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "49 mg",
-   "contando": false,
-   "r": [
-    205,
-    1315,
-    371,
-    1401
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "frente a tofu firme 683 mg",
-   "contando": false,
-   "r": [
-    113,
-    1384,
-    371,
-    1464
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "Proteína",
-   "contando": false,
-   "r": [
-    142,
-    1032,
-    299,
-    1061
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "8,9 g",
-   "contando": false,
-   "r": [
-    174,
-    1056,
-    300,
-    1141
-   ]
-  },
-  {
-   "t": 16.6,
-   "texto": "frente a tofu firme 17,3 g",
+   "t": 14.667,
+   "texto": "FOLATO",
    "contando": false,
    "r": [
     126,
-    1125,
-    301,
-    1205
+    1097,
+    234,
+    1122
    ]
   },
   {
-   "t": 17.667,
+   "t": 14.667,
+   "texto": "Carta de habilidad",
+   "contando": false,
+   "r": [
+    368,
+    819,
+    686,
+    846
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    183,
+    851,
+    249,
+    908
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    265,
+    852,
+    374,
+    909
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    390,
+    853,
+    479,
+    910
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "sirve",
+   "contando": false,
+   "r": [
+    495,
+    854,
+    617,
+    911
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    633,
+    855,
+    677,
+    912
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "folato?",
+   "contando": false,
+   "r": [
+    693,
+    856,
+    869,
+    913
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de folato. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    120,
+    1396,
+    923,
+    1447
+   ]
+  },
+  {
+   "t": 19.2,
    "texto": "Hoja de personaje",
    "contando": false,
    "r": [
@@ -2248,7 +1808,7 @@
    ]
   },
   {
-   "t": 17.667,
+   "t": 19.2,
    "texto": "Garbanzo cocido",
    "contando": false,
    "r": [
@@ -2259,7 +1819,7 @@
    ]
   },
   {
-   "t": 17.667,
+   "t": 19.2,
    "texto": "Legumbre",
    "contando": false,
    "r": [
@@ -2270,7 +1830,7 @@
    ]
   },
   {
-   "t": 17.667,
+   "t": 19.2,
    "texto": "Nombre",
    "contando": false,
    "r": [
@@ -2281,7 +1841,7 @@
    ]
   },
   {
-   "t": 17.667,
+   "t": 19.2,
    "texto": "Clase",
    "contando": false,
    "r": [
@@ -2292,7 +1852,7 @@
    ]
   },
   {
-   "t": 17.667,
+   "t": 19.2,
    "texto": "Retrato",
    "contando": false,
    "r": [
@@ -2303,7 +1863,7 @@
    ]
   },
   {
-   "t": 17.667,
+   "t": 19.2,
    "texto": "Notas",
    "contando": false,
    "r": [
@@ -2314,245 +1874,828 @@
    ]
   },
   {
-   "t": 17.667,
-   "texto": "Atributos",
-   "contando": false,
-   "r": [
-    348,
-    814,
-    509,
-    841
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "por 100 g",
-   "contando": false,
-   "r": [
-    526,
-    807,
-    651,
-    838
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Los folatos contribuyen a la formación normal de células sanguíneas.",
-   "contando": false,
-   "r": [
-    421,
-    510,
-    900,
-    738
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Mándaselo a tu compañero de partida",
-   "contando": false,
-   "r": [
-    81,
-    837,
-    366,
-    990
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "@vivax_nutri",
-   "contando": false,
-   "r": [
-    84,
-    989,
-    242,
-    1034
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Fibra",
-   "contando": false,
-   "r": [
-    442,
-    845,
-    536,
-    874
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "7,6 g",
-   "contando": false,
-   "r": [
-    426,
-    869,
-    553,
-    954
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "frente a lentejas cocidas 7,9 g",
-   "contando": false,
-   "r": [
-    615,
-    846,
-    837,
-    927
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "casi como las lentejas",
-   "contando": false,
-   "r": [
-    616,
-    922,
-    825,
-    1016
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Folato",
-   "contando": false,
-   "r": [
-    689,
-    1012,
-    811,
-    1041
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "172 µg",
-   "contando": false,
-   "r": [
-    689,
-    1035,
-    877,
-    1121
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "frente a espinacas crudas 194 µg",
-   "contando": false,
-   "r": [
-    690,
-    1104,
-    935,
-    1185
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "cerca de las espinacas",
-   "contando": false,
-   "r": [
-    690,
-    1180,
-    879,
-    1274
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Hierro",
-   "contando": false,
-   "r": [
-    619,
-    1279,
-    737,
-    1308
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "2,9 mg",
-   "contando": false,
-   "r": [
-    620,
-    1302,
-    796,
-    1388
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "frente a alubias blancas cocidas 3,7 mg",
-   "contando": false,
-   "r": [
-    620,
-    1370,
-    940,
-    1452
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Calcio",
-   "contando": false,
-   "r": [
-    253,
-    1291,
-    370,
-    1320
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "49 mg",
-   "contando": false,
-   "r": [
-    205,
-    1315,
-    371,
-    1401
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "frente a tofu firme 683 mg",
-   "contando": false,
-   "r": [
-    113,
-    1384,
-    371,
-    1464
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "Proteína",
-   "contando": false,
-   "r": [
-    142,
-    1032,
-    299,
-    1061
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "8,9 g",
-   "contando": false,
-   "r": [
-    174,
-    1056,
-    300,
-    1141
-   ]
-  },
-  {
-   "t": 17.667,
-   "texto": "frente a tofu firme 17,3 g",
+   "t": 19.2,
+   "texto": "FOLATO",
    "contando": false,
    "r": [
     126,
-    1125,
-    301,
-    1205
+    1097,
+    234,
+    1122
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "Carta de habilidad",
+   "contando": false,
+   "r": [
+    368,
+    819,
+    686,
+    846
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    183,
+    851,
+    249,
+    908
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    265,
+    852,
+    374,
+    909
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    390,
+    853,
+    479,
+    910
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "sirve",
+   "contando": false,
+   "r": [
+    495,
+    854,
+    617,
+    911
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    633,
+    855,
+    677,
+    912
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "folato?",
+   "contando": false,
+   "r": [
+    693,
+    856,
+    869,
+    913
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    161,
+    1202,
+    251,
+    1262
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "folatos",
+   "contando": false,
+   "r": [
+    267,
+    1203,
+    444,
+    1263
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    460,
+    1205,
+    776,
+    1266
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    792,
+    1208,
+    822,
+    1267
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    838,
+    1208,
+    885,
+    1267
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "formación",
+   "contando": false,
+   "r": [
+    152,
+    1264,
+    417,
+    1325
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    433,
+    1266,
+    618,
+    1327
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    634,
+    1268,
+    696,
+    1328
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    712,
+    1269,
+    893,
+    1329
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "sanguíneas.",
+   "contando": false,
+   "r": [
+    370,
+    1328,
+    674,
+    1389
+   ]
+  },
+  {
+   "t": 19.2,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de folato. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    120,
+    1396,
+    923,
+    1447
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Hoja de personaje",
+   "contando": false,
+   "r": [
+    67,
+    261,
+    721,
+    331
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Garbanzo cocido",
+   "contando": false,
+   "r": [
+    74,
+    360,
+    422,
+    437
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Legumbre",
+   "contando": false,
+   "r": [
+    594,
+    356,
+    803,
+    431
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Nombre",
+   "contando": false,
+   "r": [
+    71,
+    443,
+    174,
+    465
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Clase",
+   "contando": false,
+   "r": [
+    587,
+    438,
+    666,
+    459
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Retrato",
+   "contando": false,
+   "r": [
+    170,
+    770,
+    280,
+    792
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Notas",
+   "contando": false,
+   "r": [
+    419,
+    481,
+    498,
+    503
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Mándaselo a tu compañero de partida",
+   "contando": false,
+   "r": [
+    421,
+    520,
+    875,
+    663
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    427,
+    675,
+    616,
+    729
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "FOLATO",
+   "contando": false,
+   "r": [
+    126,
+    1097,
+    234,
+    1122
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Carta de habilidad",
+   "contando": false,
+   "r": [
+    368,
+    819,
+    686,
+    846
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    183,
+    851,
+    249,
+    908
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    265,
+    852,
+    374,
+    909
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    390,
+    853,
+    479,
+    910
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "sirve",
+   "contando": false,
+   "r": [
+    495,
+    854,
+    617,
+    911
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    633,
+    855,
+    677,
+    912
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "folato?",
+   "contando": false,
+   "r": [
+    693,
+    856,
+    869,
+    913
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    161,
+    1202,
+    251,
+    1262
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "folatos",
+   "contando": false,
+   "r": [
+    267,
+    1203,
+    444,
+    1263
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    460,
+    1205,
+    776,
+    1266
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    792,
+    1208,
+    822,
+    1267
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    838,
+    1208,
+    885,
+    1267
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "formación",
+   "contando": false,
+   "r": [
+    152,
+    1264,
+    417,
+    1325
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    433,
+    1266,
+    618,
+    1327
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    634,
+    1268,
+    696,
+    1328
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    712,
+    1269,
+    893,
+    1329
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "sanguíneas.",
+   "contando": false,
+   "r": [
+    370,
+    1328,
+    674,
+    1389
+   ]
+  },
+  {
+   "t": 20.767,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de folato. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    120,
+    1396,
+    923,
+    1447
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Hoja de personaje",
+   "contando": false,
+   "r": [
+    67,
+    261,
+    721,
+    331
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Garbanzo cocido",
+   "contando": false,
+   "r": [
+    74,
+    360,
+    422,
+    437
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Legumbre",
+   "contando": false,
+   "r": [
+    594,
+    356,
+    803,
+    431
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Nombre",
+   "contando": false,
+   "r": [
+    71,
+    443,
+    174,
+    465
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Clase",
+   "contando": false,
+   "r": [
+    587,
+    438,
+    666,
+    459
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Retrato",
+   "contando": false,
+   "r": [
+    170,
+    770,
+    280,
+    792
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Notas",
+   "contando": false,
+   "r": [
+    419,
+    481,
+    498,
+    503
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Mándaselo a tu compañero de partida",
+   "contando": false,
+   "r": [
+    421,
+    520,
+    875,
+    663
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    427,
+    675,
+    616,
+    729
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "FOLATO",
+   "contando": false,
+   "r": [
+    126,
+    1097,
+    234,
+    1122
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Carta de habilidad",
+   "contando": false,
+   "r": [
+    368,
+    819,
+    686,
+    846
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    183,
+    851,
+    249,
+    908
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    265,
+    852,
+    374,
+    909
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    390,
+    853,
+    479,
+    910
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "sirve",
+   "contando": false,
+   "r": [
+    495,
+    854,
+    617,
+    911
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    633,
+    855,
+    677,
+    912
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "folato?",
+   "contando": false,
+   "r": [
+    693,
+    856,
+    869,
+    913
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    161,
+    1202,
+    251,
+    1262
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "folatos",
+   "contando": false,
+   "r": [
+    267,
+    1203,
+    444,
+    1263
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    460,
+    1205,
+    776,
+    1266
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    792,
+    1208,
+    822,
+    1267
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    838,
+    1208,
+    885,
+    1267
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "formación",
+   "contando": false,
+   "r": [
+    152,
+    1264,
+    417,
+    1325
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    433,
+    1266,
+    618,
+    1327
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    634,
+    1268,
+    696,
+    1328
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    712,
+    1269,
+    893,
+    1329
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "sanguíneas.",
+   "contando": false,
+   "r": [
+    370,
+    1328,
+    674,
+    1389
+   ]
+  },
+  {
+   "t": 21.867,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de folato. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    120,
+    1396,
+    923,
+    1447
    ]
   }
  ],
@@ -2563,22 +2706,27 @@
   9.333,
   10.633,
   12.733,
-  14.5,
-  16.6,
-  17.667
+  14.667,
+  19.2,
+  20.767,
+  21.867
  ],
  "sonido": {
-  "lufs": -16.0,
-  "pico_dbtp": -5.84,
+  "lufs": -16.05,
+  "pico_dbtp": -2.05,
   "recortes": 0,
-  "reduccion_max_db": 0.0,
-  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "reduccion_max_db": 1.62,
+  "tiempo_reduccion_mas_1db_pct": 0.06,
   "efectos_por_tipo": {
    "ding": 2,
-   "pop": 2
+   "pop": 2,
+   "whoosh": 1,
+   "golpe": 1,
+   "tic": 2,
+   "sello": 4
   },
   "descartados": 0,
-  "duracion_s": 17.679,
+  "duracion_s": 21.879,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0213,
@@ -2588,7 +2736,7 @@
    "voz": "7QQzpAyzlKTVrRzQJmTE",
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
-   "caracteres": 204,
+   "caracteres": 300,
    "lineas": [
     {
      "texto": "¿Qué nivel tiene un garbanzo cocido?",
@@ -2615,10 +2763,22 @@
      "t1": 12.68
     },
     {
+     "texto": "¿Y para qué sirve el folato?",
+     "hablado": "¿Y para qué sirve el folato?",
+     "t0": 13.31,
+     "t1": 15.075
+    },
+    {
+     "texto": "Los folatos contribuyen a la formación normal de células sanguíneas.",
+     "hablado": "Los folatos contribuyen a la formación normal de células sanguíneas.",
+     "t0": 15.075,
+     "t1": 19.075
+    },
+    {
      "texto": "Mándaselo a tu compañero de partida.",
      "hablado": "Mándaselo a tu compañero de partida.",
-     "t0": 13.01,
-     "t1": 15.005
+     "t0": 19.255,
+     "t1": 21.25
     }
    ]
   },
@@ -2629,7 +2789,7 @@
    "goma_lufs": -27,
    "ducking": 0.5,
    "lufs_wav": -16.01,
-   "limitador_max_db": 1.14
+   "limitador_max_db": 1.05
   }
  },
  "efectos": [
@@ -2644,21 +2804,61 @@
    "intensidad": 0.35
   },
   {
-   "t": 14.16,
-   "tipo": "pop",
-   "intensidad": 0.35
+   "t": 13.09,
+   "tipo": "whoosh",
+   "intensidad": 0.45
   },
   {
-   "t": 16.36,
+   "t": 13.51,
+   "tipo": "golpe",
+   "intensidad": 0.45
+  },
+  {
+   "t": 14.16,
+   "tipo": "tic",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.66,
+   "tipo": "tic",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.675,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.235,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.875,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.275,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.994999999999997,
    "tipo": "ding",
    "intensidad": 0.3
+  },
+  {
+   "t": 20.415,
+   "tipo": "pop",
+   "intensidad": 0.35
   }
  ],
- "fotogramas": 531,
- "tiempo_render_s": 61.2,
+ "fotogramas": 657,
+ "tiempo_render_s": 84.2,
  "tiempos_s": {
-  "preparar": 1.37,
-  "dibujar_y_codificar": 58.0
+  "preparar": 2.5,
+  "dibujar_y_codificar": 80.01
  },
  "voz_de_prueba": false
 }
