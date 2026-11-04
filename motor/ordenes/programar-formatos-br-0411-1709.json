@@ -1,0 +1,33 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 4-nov-2026: botón ✅ Mandar de cada formato en Telegram, y su autorización del 15-oct («aprueba en automático los cambios que consideres precisos»)",
+  "texto": "Formatos que aprobaste con ✅ Mandar, colocados en los huecos libres (no he movido ninguna pieza ya aprobada). Si prefieres otro orden, dímelo.",
+  "lista": [
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-br-cinta_sushi_zinc",
+      "hora": "2026-11-05T13:00:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-bt-cuadritos_fibra",
+      "hora": "2026-11-05T21:00:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-bw-riso_legumbres",
+      "hora": "2026-11-06T10:30:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-bx-papel_recortado_vitamina_c",
+      "hora": "2026-11-06T13:00:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-f100-cf-metro_calcio",
+      "hora": "2026-11-06T16:30:00+01:00"
+    }
+  ]
+}
