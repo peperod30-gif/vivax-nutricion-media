@@ -1311,7 +1311,7 @@ class Router:
         cancelo = self._soltar_nota(uid)                                                          # cualquier otra pulsación anula la nota pedida
         if data.startswith("pn:"):                                                                # el panel: solo el administrador
             return self.panel.boton(cb_id, chat.get("id"), msg.get("message_id"), uid, data)
-        if data.startswith("fx:"):                                                                # la serie de formatos: solo el administrador
+        if data.startswith(("fx:", "fp:")):                                                                # la serie de formatos: solo el administrador
             return self.formatos.boton(cb_id, chat.get("id"), msg, uid, data)
         if not FORMATO_BOTON.fullmatch(data):                                                     # no es del router: solo puede ser de Campo
             if not self.hub.es_admin(uid) or not self._anfitriones():

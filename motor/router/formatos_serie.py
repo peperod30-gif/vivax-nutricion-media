@@ -27,6 +27,8 @@ MAX_NOTAS = 20
 MAX_NOTA = 1500
 ESTADO_DE = {"ok": "mandar", "ia": "modificar", "no": "rechazar"}
 ACCION_DE = {v: k for k, v in ESTADO_DE.items()}
+DATO_PZ = re.compile(r"fp:(ok|ia|no):([0-9]{1,6})")      # publicaciones REALES de la cola (n = número de la pieza en la cola de la nube)
+ESTADO_PZ = {"ok": "aceptada", "ia": "modificar", "no": "rechazada"}
 
 
 def botones_de(cod: str, estado: str | None = None) -> list[list[tuple[str, str]]]:
@@ -35,6 +37,15 @@ def botones_de(cod: str, estado: str | None = None) -> list[list[tuple[str, str]
         marca = " ✓" if estado and ESTADO_DE[accion] == estado else ""
         return (texto + marca, f"fx:{accion}:{cod}")
     return [[t("✅ Mandar", "ok"), t("❌ Rechazar", "no")],
+            [t("✏️ Modificar con IA", "ia")]]
+
+
+def botones_pieza(n: int, estado: str | None = None) -> list[list[tuple[str, str]]]:
+    """El teclado de una publicación real de la cola (la que va a salir): ✅ Aceptar · ❌ Rechazar · ✏️ Modificar con IA."""
+    def t(texto: str, accion: str) -> tuple[str, str]:
+        marca = " ✓" if estado and ESTADO_PZ[accion] == estado else ""
+        return (texto + marca, f"fp:{accion}:{n}")
+    return [[t("✅ Aceptar", "ok"), t("❌ Rechazar", "no")],
             [t("✏️ Modificar con IA", "ia")]]
 
 
@@ -87,6 +98,8 @@ class FormatosSerie:
         if not hub.es_admin(uid):
             hub.auditar(uid, "boton_denegado", data[:64])
             return r._responder(cb_id, "No tienes acceso a eso.", True)
+        if data.startswith("fp:"):
+            return self.boton_pieza(cb_id, chat_id, mensaje, uid, data)
         m = DATO.fullmatch(data)
         if m is None:
             return r._responder(cb_id, "Ese botón ya no vale.", True)
@@ -127,6 +140,76 @@ class FormatosSerie:
         except ErrorTelegram as exc:
             self.r.log(f"formato {cod}: no pude marcar el botón ({exc.metodo} {exc.codigo})")
 
+    # ------------------------------------------------------------------ publicaciones reales de la cola (fp:)
+    def _cuando(self, ad, n: int) -> str:
+        try:
+            return " " + ad.resumen_decision(n).strip()
+        except Exception:                                          # noqa: BLE001 (el aviso de la hora es un extra: nunca rompe el botón)
+            return ""
+
+    def _marcar_pieza(self, chat_id: int, mensaje_id: int | None, n: int, estado: str | None) -> None:
+        if mensaje_id is None:
+            return
+        try:
+            self.r.tg.editar_botones(chat_id, mensaje_id, botones_pieza(n, estado))
+        except ErrorTelegram as exc:
+            self.r.log(f"pieza {n}: no pude marcar el botón ({exc.metodo} {exc.codigo})")
+
+    def boton_pieza(self, cb_id: str, chat_id: int, mensaje: dict, uid: int, data: str) -> None:
+        """Aceptar / Rechazar / Modificar con IA una publicación REAL de la cola. Aceptar la deja aprobada (si estaba pendiente, la programa);
+        Rechazar la saca de la cola y la rechaza; Modificar pide el cambio por escrito (lo rehace el asistente). Nunca toca algo que Instagram ya
+        recibió. Una segunda pulsación igual no cambia nada."""
+        r, hub = self.r, self.hub
+        if not hub.es_admin(uid):
+            hub.auditar(uid, "boton_denegado", data[:64])
+            return r._responder(cb_id, "No tienes acceso a eso.", True)
+        m = DATO_PZ.fullmatch(data)
+        ad = r.adaptadores.get("n1")
+        if m is None or ad is None:
+            return r._responder(cb_id, "Ese botón ya no vale.", True)
+        accion, n = m.group(1), int(m.group(2))
+        p = ad.pieza(n)
+        if p is None:
+            return r._responder(cb_id, "Esa pieza ya no está en la cola.", True)
+        cod, estado = f"p{n}", ESTADO_PZ[accion]
+        mensaje_id = mensaje.get("message_id")
+        if p.estado in ("publicada", "publicando"):
+            return r._responder(cb_id, "Ya está publicada o publicándose: no se puede cambiar desde aquí.", True)
+        actual = self.leer(cod) or {}
+        pidiendo = accion == "ia" and (self._espera(uid) or {}).get("cod") == cod
+        if actual.get("estado") == estado and (accion != "ia" or pidiendo):
+            self._marcar_pieza(chat_id, mensaje_id, n, estado)
+            return r._responder(cb_id, "Ya estaba así.")
+        if accion == "ok":
+            if p.estado == "pendiente":
+                motivo = ad.aprobar(n, uid, para_admin=True)
+                if motivo:
+                    return r._responder(cb_id, str(motivo)[:190], True)
+            elif p.estado == "rechazada":
+                return r._responder(cb_id, "La habías rechazado: dile a Claude que la recupere.", True)
+            toast = "Aceptada." + self._cuando(ad, n)
+        elif accion == "no":
+            if p.estado == "aprobada":
+                motivo = ad.quitar_de_cola(n, uid, origen="telegram:fp")
+                if motivo:
+                    return r._responder(cb_id, str(motivo)[:190], True)
+            motivo = ad.rechazar(n, uid)
+            if motivo:
+                return r._responder(cb_id, str(motivo)[:190], True)
+            toast = "Rechazada: la saco de la cola."
+        else:
+            toast = "Escríbeme qué cambio quieres."
+        self._guardar(cod, {"estado": estado, "ts": hub.iso(r.ahora()), "notas": actual.get("notas", []), "pieza": p.pieza_id if hasattr(p, "pieza_id") else None})
+        hub.auditar(uid, f"publicacion_{estado}", cod)
+        if estado != "modificar":
+            self._soltar_espera(uid)
+        self._marcar_pieza(chat_id, mensaje_id, n, estado)
+        r._responder(cb_id, toast[:190])
+        if accion == "ia":
+            pedido = r._decir(chat_id, "✏️ Dime qué cambio quieres en esta publicación (el guion, el gancho, el texto, los dibujos…). Escríbelo ahora en un "
+                                       "mensaje y la rehago con IA antes de que salga; te la mando otra vez con sus botones. Tarda unos minutos. /cancelar la deja como está.")
+            hub.meta_escribir(ESPERA + str(uid), json.dumps({"cod": cod, "ts": r.ahora(), "pedido": pedido}))
+
     # ------------------------------------------------------------------ el cambio escrito
     def recibir_texto(self, chat_id: int, uid: int, m: dict, texto: str) -> bool:
         """El texto que sigue a «✏️ Modificar con IA» es el cambio pedido. True si lo ha consumido. No consume nada si hay otra conversación
@@ -152,6 +235,7 @@ class FormatosSerie:
         d["ts"] = hub.iso(self.r.ahora())
         self._guardar(cod, d)
         self._soltar_espera(uid)
-        self.r._decir(chat_id, f"Anotado para {cod}. Lo rehago con IA y te lo mando otra vez con sus botones. "
+        nombre = "esa publicación" if cod.startswith("p") and cod[1:].isdigit() else cod
+        self.r._decir(chat_id, f"Anotado para {nombre}. Lo rehago con IA y te lo mando otra vez con sus botones. "
                                "Lo hago desde el PC: tarda unos minutos y, si no estoy conectado, en cuanto lo esté.")
         return True
