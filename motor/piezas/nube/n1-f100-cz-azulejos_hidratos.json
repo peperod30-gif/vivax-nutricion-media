@@ -68,13 +68,24 @@
     },
     {
       "plantilla": "fx_reel",
+      "kicker": "El tamaño no es casualidad",
+      "titulo": "¿Qué mide cada panel?"
+    },
+    {
+      "plantilla": "fx_reel",
+      "dato": "Galletas tipo María, en hidratos: ¡Cinco veces las nueces!",
+      "texto": "68,9 g frente a 13,7 g · por 100 g, fibra incluida",
+      "voz": "Cada panel mide sus hidratos: las galletas, cinco veces las nueces."
+    },
+    {
+      "plantilla": "fx_reel",
       "frase": "Mándaselo a quien jura que los pistachos no llevan hidratos",
       "voz": "Mándaselo a quien jura que los pistachos no llevan hidratos."
     }
   ],
-  "pie_instagram": "Hemos alicatado una pared con hidratos por 100 g y los pistachos no se quedan cortos 🧱\n\nHidratos de carbono por cada 100 g: galletas tipo María 68,9 g; pan blanco 49,4 g; arroz blanco cocido 28,2 g; pistachos 27,2 g; almendras 21,6 g; nueces 13,7 g.\nEl arroz va cocido y los frutos secos, tal cual; en ellos los hidratos incluyen la fibra.\nCada panel de azulejos ocupa un área proporcional a su cifra 🔎\n\nEs composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál pensabas que ocupaba más pared?\nMándaselo a quien jura que los pistachos no llevan hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #frutossecos #nutricion #comidareal",
+  "pie_instagram": "Hemos alicatado una pared con hidratos por 100 g y los pistachos no se quedan cortos 🧱\n\nHidratos de carbono por cada 100 g: galletas tipo María 68,9 g; pan blanco 49,4 g; arroz blanco cocido 28,2 g; pistachos 27,2 g; almendras 21,6 g; nueces 13,7 g.\nEl arroz va cocido y los frutos secos, tal cual; en ellos los hidratos incluyen la fibra.\nCada panel de azulejos ocupa un área proporcional a su cifra 🔎\nY para qué sirve el tamaño: en el panel de las galletas tipo María (68,9 g) caben cinco paneles de nueces (13,7 g).\n\nEs composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál pensabas que ocupaba más pared?\nMándaselo a quien jura que los pistachos no llevan hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #frutossecos #nutricion #comidareal",
   "alt": [
-    "Reel de una pared de azulejos blancos con rosetas azules. Arriba, una placa de azulejos como las de los nombres de calle: «Hidratos por cada 100 g, fibra incluida. ¿Pistachos o arroz cocido?». Debajo, dentro de un marco de cenefa ocre y azul, dos paneles de azulejos pintados en azul cobalto: un cuenco de arroz humeante (arroz blanco cocido) y unos pistachos (tal cual), con una interrogación en lugar de la cifra; el resto es cemento peinado. Salen las cifras: arroz blanco cocido 28,2 g y pistachos 27,2 g, y la placa dice «¡Casi lo mismo! Un gramo de diferencia». Luego los azulejos caen de uno en uno y el mosaico crece: almendras 21,6 g, nueces 13,7 g, pan blanco 49,4 g y, el panel más grande, galletas tipo María 68,9 g, todo por 100 g. El área de cada panel es proporcional a su cifra. Al final: «Mándaselo a quien jura que los pistachos no llevan hidratos» y la firma @vivax_nutri."
+    "Reel de una pared de azulejos vidriados en verde oliva con rosetas de oliva oscuro y juntas claras, y un zócalo oliva oscuro con estrellas blancas. Arriba, una placa de azulejos oliva claro como las de los nombres de calle, con letras negras: «Hidratos por cada 100 g, fibra incluida. ¿Pistachos o arroz cocido?». Debajo, dentro de un marco de cenefa oliva oscuro con rombos blancos y filetes negros, dos paneles de azulejos blancos pintados en oliva: un cuenco de arroz humeante (arroz blanco cocido) y unos pistachos (tal cual), con una interrogación en lugar de la cifra; el resto es cemento oliva peinado. Salen las cifras: arroz blanco cocido 28,2 g y pistachos 27,2 g, y la placa dice «¡Casi lo mismo! Un gramo de diferencia». Luego los azulejos caen de uno en uno y el mosaico crece: almendras 21,6 g, nueces 13,7 g, pan blanco 49,4 g y, el panel más grande, galletas tipo María 68,9 g, todo por 100 g. El área de cada panel es proporcional a su cifra. Conclusión: la placa pregunta «El tamaño no es casualidad. ¿Qué mide cada panel?» y luego dice «Galletas tipo María, en hidratos: ¡cinco veces las nueces!». Del panel de las nueces salen cinco copias dibujadas a lápiz que vuelan al panel de las galletas y lo llenan en cinco franjas iguales, cada una con una nuez; la leyenda dice «68,9 g frente a 13,7 g, por 100 g, fibra incluida». Al final: «Mándaselo a quien jura que los pistachos no llevan hidratos» y la firma @vivax_nutri."
   ],
   "esquema": "slides-1",
   "version_reel": "fx",
@@ -84,7 +95,7 @@
     "autoaprobar": false,
     "formato": "CZ",
     "lote": "f100-2026-11-03",
-    "mundo": "nuevo: azulejería de cobalto (paneles de azulejos con área proporcional a la cifra, treemap)",
+    "mundo": "nuevo: azulejería en oliva y blanco (paneles de azulejos con área proporcional a la cifra, treemap); conclusión del 4-nov: cada panel mide sus hidratos, galletas cinco veces las nueces",
     "voz_de_prueba": false,
     "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
     "paleta_libre": true,

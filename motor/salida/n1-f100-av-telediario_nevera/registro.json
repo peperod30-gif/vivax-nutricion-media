@@ -1,19 +1,19 @@
 {
  "esquema": "slides-1",
  "version": "f100-av",
- "duracion_s": 19.52,
+ "duracion_s": 21.52,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 8.43,
+ "tamano_mb": 7.89,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_hz": 48000,
  "audio_en_silencio": false,
  "lufs": -16.0,
- "pico_dbtp": -1.7,
+ "pico_dbtp": -1.6,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "voz_de_prueba": false,
@@ -34,15 +34,15 @@
     "voz": "7QQzpAyzlKTVrRzQJmTE",
     "modelo": "eleven_v4",
     "nombre": "Dani - Hurried, Dynamic and Engaging",
-    "texto": "Última hora: ¿tu mantequilla, enemiga? ¿Y la mortalidad total? Mándaselo a quien unta sin mirar.",
-    "caracteres": 96
+    "texto": "Última hora: ¿tu mantequilla, enemiga? ¿Y la mortalidad? Conclusión: importa con qué se cambia. Mándaselo a quien unta sin mirar.",
+    "caracteres": 129
    }
   },
-  "caracteres": 293,
-  "texto": "Depende. Menos grasa saturada, menos eventos cardiovasculares. Apenas cambia. Depende del sustituto. Por aceite poliinsaturado, en torno a un treinta por ciento menos. Por azúcares y refinados, no. Última hora: ¿tu mantequilla, enemiga? ¿Y la mortalidad total? Mándaselo a quien unta sin mirar.",
+  "caracteres": 326,
+  "texto": "Depende. Menos grasa saturada, menos eventos cardiovasculares. Apenas cambia. Depende del sustituto. Por aceite poliinsaturado, en torno a un treinta por ciento menos. Por azúcares y refinados, no. Última hora: ¿tu mantequilla, enemiga? ¿Y la mortalidad? Conclusión: importa con qué se cambia. Mándaselo a quien unta sin mirar.",
   "inicio_voz_s": 0.031,
   "aire_extra_entre_lineas_s": 0.0,
-  "duracion_voz_s": 18.445,
+  "duracion_voz_s": 20.435,
   "voz": "7QQzpAyzlKTVrRzQJmTE",
   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
   "modelo": "eleven_v4"
@@ -53,63 +53,63 @@
   "efectos_bajo_voz_db": 9.0,
   "mezcla_lufs": -16.0,
   "mezcla_pico_dbtp": -1.65,
-  "limitador_max_db": 0.63,
+  "limitador_max_db": 0.73,
   "efectos_por_tipo": {
-   "ding": 1,
-   "golpe": 4,
+   "ding": 2,
+   "golpe": 5,
    "whoosh": 7,
-   "sello": 2,
-   "pop": 3,
+   "sello": 3,
+   "pop": 4,
    "contador": 40,
    "subida": 1
   },
   "musica": false,
   "desfase_con_el_video_s": -0.0
  },
- "fin_parcial_s": 2.981,
- "revelacion_s": 9.666,
- "t_bucle_s": 19.05,
+ "fin_parcial_s": 2.906,
+ "revelacion_s": 9.206,
+ "t_bucle_s": 21.05,
  "planos": [
   [
    0.0,
-   2.441,
+   2.366,
    "A"
   ],
   [
-   2.441,
-   3.171,
+   2.366,
+   3.096,
    "S"
   ],
   [
-   3.171,
-   6.646,
+   3.096,
+   6.531,
    "B"
   ],
   [
-   6.646,
-   8.046,
+   6.531,
+   7.586,
    "S"
   ],
   [
-   8.046,
-   9.086,
+   7.586,
+   8.626,
    "B"
   ],
   [
-   9.086,
-   16.796,
+   8.626,
+   16.266,
    "C"
   ],
   [
-   16.796,
-   19.5,
-   "A"
+   16.266,
+   21.5,
+   "D"
   ]
  ],
- "hueco_max_s": 0.367,
- "hueco_max_en_s": 2.733,
- "n_cambios_visuales": 486,
- "bucle_dif_ultimo_primero": 0.54,
+ "hueco_max_s": 1.0,
+ "hueco_max_en_s": 20.0,
+ "n_cambios_visuales": 475,
+ "bucle_dif_ultimo_primero": 0.74,
  "zona_segura": [
   60,
   250,
@@ -195,7 +195,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "Desde la nevera",
    "contando": false,
    "r": [
@@ -206,7 +206,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "Noticias de la nevera",
    "contando": false,
    "r": [
@@ -217,7 +217,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -228,7 +228,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "Última",
    "contando": false,
    "r": [
@@ -239,7 +239,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "hora:",
    "contando": false,
    "r": [
@@ -250,7 +250,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "¿tu",
    "contando": false,
    "r": [
@@ -261,7 +261,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "mantequilla,",
    "contando": false,
    "r": [
@@ -272,7 +272,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "enemiga?",
    "contando": false,
    "r": [
@@ -283,7 +283,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -294,7 +294,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "¿LA MANTEQUILLA, ENEMIGA DEL CORAZÓN?",
    "contando": false,
    "r": [
@@ -305,7 +305,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -316,7 +316,7 @@
    ]
   },
   {
-   "t": 2.091,
+   "t": 2.016,
    "texto": "La mantequilla, a debate",
    "contando": false,
    "r": [
@@ -327,7 +327,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "Leo, en el plató",
    "contando": false,
    "r": [
@@ -338,7 +338,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "Agus, en la nevera",
    "contando": false,
    "r": [
@@ -349,7 +349,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "Depende",
    "contando": false,
    "r": [
@@ -360,7 +360,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -371,7 +371,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "Depende.",
    "contando": false,
    "r": [
@@ -382,7 +382,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "El dato",
    "contando": false,
    "r": [
@@ -393,7 +393,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "MANTEQUILLA: 51,4 g DE GRASA SATURADA POR 100 g",
    "contando": false,
    "r": [
@@ -404,7 +404,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -415,7 +415,7 @@
    ]
   },
   {
-   "t": 2.891,
+   "t": 2.816,
    "texto": "La mantequilla, a debate",
    "contando": false,
    "r": [
@@ -426,18 +426,18 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "Postura uno",
    "contando": false,
    "r": [
-    82,
+    86,
     366,
-    307,
+    311,
     419
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "17 %",
    "contando": false,
    "r": [
@@ -448,7 +448,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "menos eventos cardiovasculares",
    "contando": false,
    "r": [
@@ -459,7 +459,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "al reducir la grasa saturada",
    "contando": false,
    "r": [
@@ -470,7 +470,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "Revisión Cochrane · calidad moderada",
    "contando": false,
    "r": [
@@ -481,7 +481,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -492,7 +492,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "Menos",
    "contando": false,
    "r": [
@@ -503,7 +503,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -514,7 +514,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "saturada,",
    "contando": false,
    "r": [
@@ -525,7 +525,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "menos",
    "contando": false,
    "r": [
@@ -536,7 +536,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "El dato",
    "contando": false,
    "r": [
@@ -547,7 +547,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "MANTEQUILLA: 51,4 g DE GRASA SATURADA POR 100 g",
    "contando": false,
    "r": [
@@ -558,7 +558,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -569,7 +569,7 @@
    ]
   },
   {
-   "t": 4.871,
+   "t": 4.796,
    "texto": "Tres posturas, ninguna sentencia",
    "contando": false,
    "r": [
@@ -580,7 +580,7 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "Leo, en el plató",
    "contando": false,
    "r": [
@@ -591,7 +591,7 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "Agus, en la nevera",
    "contando": false,
    "r": [
@@ -602,7 +602,7 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -613,40 +613,40 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "¿Y",
    "contando": false,
    "r": [
-    214,
+    291,
     1167,
-    260,
+    338,
     1224
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "la",
    "contando": false,
    "r": [
-    299,
+    377,
     1167,
-    346,
+    424,
     1224
    ]
   },
   {
-   "t": 7.096,
-   "texto": "mortalidad",
+   "t": 6.981,
+   "texto": "mortalidad?",
    "contando": false,
    "r": [
-    385,
+    463,
     1167,
-    618,
+    719,
     1224
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "El dato",
    "contando": false,
    "r": [
@@ -657,7 +657,7 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "MANTEQUILLA: 51,4 g DE GRASA SATURADA POR 100 g",
    "contando": false,
    "r": [
@@ -668,7 +668,7 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -679,7 +679,7 @@
    ]
   },
   {
-   "t": 7.096,
+   "t": 6.981,
    "texto": "Tres posturas, ninguna sentencia",
    "contando": false,
    "r": [
@@ -690,18 +690,18 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "Postura dos",
    "contando": false,
    "r": [
-    82,
+    86,
     366,
-    305,
+    309,
     419
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "Sin asociación",
    "contando": false,
    "r": [
@@ -712,7 +712,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "con la mortalidad total",
    "contando": false,
    "r": [
@@ -723,7 +723,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "Metaanálisis de cohortes · certeza muy baja",
    "contando": false,
    "r": [
@@ -734,7 +734,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -745,7 +745,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "Apenas",
    "contando": false,
    "r": [
@@ -756,7 +756,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "cambia.",
    "contando": false,
    "r": [
@@ -767,7 +767,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "El dato",
    "contando": false,
    "r": [
@@ -778,7 +778,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "MANTEQUILLA: 51,4 g DE GRASA SATURADA POR 100 g",
    "contando": false,
    "r": [
@@ -789,7 +789,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -800,7 +800,7 @@
    ]
   },
   {
-   "t": 8.556,
+   "t": 8.096,
    "texto": "Tres posturas, ninguna sentencia",
    "contando": false,
    "r": [
@@ -811,7 +811,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Postura tres: el sustituto",
    "contando": false,
    "r": [
@@ -822,7 +822,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Aceite vegetal poliinsaturado",
    "contando": false,
    "r": [
@@ -833,7 +833,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Hidratos refinados y azúcares",
    "contando": false,
    "r": [
@@ -844,7 +844,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Asociación Americana del Corazón",
    "contando": false,
    "r": [
@@ -855,7 +855,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -866,7 +866,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Depende",
    "contando": false,
    "r": [
@@ -877,7 +877,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "del",
    "contando": false,
    "r": [
@@ -888,7 +888,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "sustituto.",
    "contando": false,
    "r": [
@@ -899,7 +899,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -910,7 +910,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "DEPENDE DE CON QUÉ SE CAMBIE",
    "contando": false,
    "r": [
@@ -921,7 +921,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -932,7 +932,7 @@
    ]
   },
   {
-   "t": 10.216,
+   "t": 9.756,
    "texto": "Noticias de la nevera con @vivax_nutri",
    "contando": false,
    "r": [
@@ -943,7 +943,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Postura tres: el sustituto",
    "contando": false,
    "r": [
@@ -954,7 +954,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Aceite vegetal poliinsaturado",
    "contando": false,
    "r": [
@@ -965,7 +965,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "en torno a un",
    "contando": false,
    "r": [
@@ -976,7 +976,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "30 %",
    "contando": false,
    "r": [
@@ -987,7 +987,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "menos enfermedad cardiovascular",
    "contando": false,
    "r": [
@@ -998,7 +998,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Hidratos refinados y azúcares",
    "contando": false,
    "r": [
@@ -1009,7 +1009,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Asociación Americana del Corazón",
    "contando": false,
    "r": [
@@ -1020,7 +1020,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -1031,7 +1031,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Por",
    "contando": false,
    "r": [
@@ -1042,7 +1042,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -1053,7 +1053,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "poliinsaturado,",
    "contando": false,
    "r": [
@@ -1064,7 +1064,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "en",
    "contando": false,
    "r": [
@@ -1075,7 +1075,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "torno",
    "contando": false,
    "r": [
@@ -1086,7 +1086,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "a",
    "contando": false,
    "r": [
@@ -1097,7 +1097,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "un",
    "contando": false,
    "r": [
@@ -1108,7 +1108,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "30 %",
    "contando": false,
    "r": [
@@ -1119,7 +1119,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -1130,7 +1130,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "DEPENDE DE CON QUÉ SE CAMBIE",
    "contando": false,
    "r": [
@@ -1141,7 +1141,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -1152,7 +1152,7 @@
    ]
   },
   {
-   "t": 13.346,
+   "t": 12.886,
    "texto": "Noticias de la nevera con @vivax_nutri",
    "contando": false,
    "r": [
@@ -1163,7 +1163,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Postura tres: el sustituto",
    "contando": false,
    "r": [
@@ -1174,7 +1174,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Aceite vegetal poliinsaturado",
    "contando": false,
    "r": [
@@ -1185,7 +1185,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "en torno a un",
    "contando": false,
    "r": [
@@ -1196,7 +1196,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "30 %",
    "contando": false,
    "r": [
@@ -1207,7 +1207,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "menos enfermedad cardiovascular",
    "contando": false,
    "r": [
@@ -1218,7 +1218,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Hidratos refinados y azúcares",
    "contando": false,
    "r": [
@@ -1229,7 +1229,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "No",
    "contando": false,
    "r": [
@@ -1240,7 +1240,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "no la redujo",
    "contando": false,
    "r": [
@@ -1251,7 +1251,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Asociación Americana del Corazón",
    "contando": false,
    "r": [
@@ -1262,7 +1262,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -1273,7 +1273,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Por",
    "contando": false,
    "r": [
@@ -1284,7 +1284,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "azúcares",
    "contando": false,
    "r": [
@@ -1295,7 +1295,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "y",
    "contando": false,
    "r": [
@@ -1306,7 +1306,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "refinados,",
    "contando": false,
    "r": [
@@ -1317,7 +1317,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "no.",
    "contando": false,
    "r": [
@@ -1328,7 +1328,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -1339,7 +1339,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "DEPENDE DE CON QUÉ SE CAMBIE",
    "contando": false,
    "r": [
@@ -1350,7 +1350,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -1361,7 +1361,7 @@
    ]
   },
   {
-   "t": 16.431,
+   "t": 15.971,
    "texto": "Noticias de la nevera con @vivax_nutri",
    "contando": false,
    "r": [
@@ -1372,29 +1372,51 @@
    ]
   },
   {
-   "t": 17.696,
-   "texto": "Desde la nevera",
+   "t": 17.136,
+   "texto": "La conclusión en una frase",
    "contando": false,
    "r": [
-    104,
-    857,
-    292,
-    892
+    179,
+    357,
+    831,
+    427
    ]
   },
   {
-   "t": 17.696,
-   "texto": "Noticias de la nevera",
+   "t": 17.136,
+   "texto": "La grasa saturada no se juzga sola:",
    "contando": false,
    "r": [
-    475,
-    1004,
-    889,
-    1060
+    91,
+    480,
+    892,
+    544
    ]
   },
   {
-   "t": 17.696,
+   "t": 17.136,
+   "texto": "importa con qué se cambia",
+   "contando": false,
+   "r": [
+    106,
+    546,
+    783,
+    767
+   ]
+  },
+  {
+   "t": 17.136,
+   "texto": "Asociación Americana del Corazón",
+   "contando": false,
+   "r": [
+    569,
+    759,
+    919,
+    793
+   ]
+  },
+  {
+   "t": 17.136,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -1405,51 +1427,29 @@
    ]
   },
   {
-   "t": 17.696,
-   "texto": "Mándaselo",
+   "t": 17.136,
+   "texto": "Conclusión:",
    "contando": false,
    "r": [
-    81,
-    1167,
-    291,
-    1224
+    124,
+    1115,
+    380,
+    1172
    ]
   },
   {
-   "t": 17.696,
-   "texto": "a",
+   "t": 17.136,
+   "texto": "importa",
    "contando": false,
    "r": [
-    330,
-    1167,
-    353,
-    1224
+    419,
+    1115,
+    582,
+    1172
    ]
   },
   {
-   "t": 17.696,
-   "texto": "quien",
-   "contando": false,
-   "r": [
-    392,
-    1167,
-    509,
-    1224
-   ]
-  },
-  {
-   "t": 17.696,
-   "texto": "unta",
-   "contando": false,
-   "r": [
-    548,
-    1167,
-    641,
-    1224
-   ]
-  },
-  {
-   "t": 17.696,
+   "t": 17.136,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -1460,18 +1460,18 @@
    ]
   },
   {
-   "t": 17.696,
-   "texto": "MÁNDASELO A QUIEN UNTA SIN MIRAR",
+   "t": 17.136,
+   "texto": "DEPENDE DE CON QUÉ SE CAMBIE",
    "contando": false,
    "r": [
     82,
-    1307,
-    920,
-    1381
+    1303,
+    874,
+    1385
    ]
   },
   {
-   "t": 17.696,
+   "t": 17.136,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -1482,7 +1482,7 @@
    ]
   },
   {
-   "t": 17.696,
+   "t": 17.136,
    "texto": "Noticias de la nevera con @vivax_nutri",
    "contando": false,
    "r": [
@@ -1493,29 +1493,73 @@
    ]
   },
   {
-   "t": 18.85,
-   "texto": "Desde la nevera",
+   "t": 19.036,
+   "texto": "La conclusión en una frase",
    "contando": false,
    "r": [
-    98,
-    859,
-    289,
-    894
+    179,
+    357,
+    831,
+    427
    ]
   },
   {
-   "t": 18.85,
-   "texto": "Noticias de la nevera",
+   "t": 19.036,
+   "texto": "La grasa saturada no se juzga sola:",
    "contando": false,
    "r": [
-    474,
-    1008,
-    894,
-    1065
+    91,
+    480,
+    892,
+    544
    ]
   },
   {
-   "t": 18.85,
+   "t": 19.036,
+   "texto": "importa con qué se cambia",
+   "contando": false,
+   "r": [
+    106,
+    546,
+    783,
+    767
+   ]
+  },
+  {
+   "t": 19.036,
+   "texto": "Asociación Americana del Corazón",
+   "contando": false,
+   "r": [
+    569,
+    759,
+    919,
+    793
+   ]
+  },
+  {
+   "t": 19.036,
+   "texto": "En torno a un 30 % menos",
+   "contando": false,
+   "r": [
+    354,
+    830,
+    809,
+    883
+   ]
+  },
+  {
+   "t": 19.036,
+   "texto": "No",
+   "contando": false,
+   "r": [
+    804,
+    909,
+    916,
+    1036
+   ]
+  },
+  {
+   "t": 19.036,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -1526,7 +1570,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 19.036,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
@@ -1537,7 +1581,139 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 19.036,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    80,
+    1240,
+    273,
+    1288
+   ]
+  },
+  {
+   "t": 19.036,
+   "texto": "MÁNDASELO A QUIEN UNTA SIN MIRAR",
+   "contando": false,
+   "r": [
+    82,
+    1307,
+    920,
+    1381
+   ]
+  },
+  {
+   "t": 19.036,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    74,
+    1426,
+    205,
+    1464
+   ]
+  },
+  {
+   "t": 19.036,
+   "texto": "Noticias de la nevera con @vivax_nutri",
+   "contando": false,
+   "r": [
+    236,
+    1424,
+    790,
+    1465
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "La conclusión en una frase",
+   "contando": false,
+   "r": [
+    179,
+    357,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "La grasa saturada no se juzga sola:",
+   "contando": false,
+   "r": [
+    91,
+    480,
+    892,
+    544
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "importa con qué se cambia",
+   "contando": false,
+   "r": [
+    106,
+    546,
+    783,
+    767
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "Asociación Americana del Corazón",
+   "contando": false,
+   "r": [
+    569,
+    759,
+    919,
+    793
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "En torno a un 30 % menos",
+   "contando": false,
+   "r": [
+    354,
+    830,
+    809,
+    883
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "No",
+   "contando": false,
+   "r": [
+    804,
+    909,
+    916,
+    1036
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "En directo",
+   "contando": false,
+   "r": [
+    112,
+    271,
+    283,
+    319
+   ]
+  },
+  {
+   "t": 20.85,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    81,
+    1167,
+    291,
+    1224
+   ]
+  },
+  {
+   "t": 20.85,
    "texto": "a",
    "contando": false,
    "r": [
@@ -1548,7 +1724,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "quien",
    "contando": false,
    "r": [
@@ -1559,7 +1735,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "unta",
    "contando": false,
    "r": [
@@ -1570,7 +1746,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "sin",
    "contando": false,
    "r": [
@@ -1581,7 +1757,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "mirar.",
    "contando": false,
    "r": [
@@ -1592,7 +1768,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -1603,7 +1779,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "MÁNDASELO A QUIEN UNTA SIN MIRAR",
    "contando": false,
    "r": [
@@ -1614,7 +1790,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -1625,7 +1801,7 @@
    ]
   },
   {
-   "t": 18.85,
+   "t": 20.85,
    "texto": "Noticias de la nevera con @vivax_nutri",
    "contando": false,
    "r": [
@@ -1636,7 +1812,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "Desde la nevera",
    "contando": false,
    "r": [
@@ -1647,7 +1823,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "Noticias de la nevera",
    "contando": false,
    "r": [
@@ -1658,7 +1834,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "En directo",
    "contando": false,
    "r": [
@@ -1669,7 +1845,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "Última hora",
    "contando": false,
    "r": [
@@ -1680,7 +1856,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "¿LA MANTEQUILLA, ENEMIGA DEL CORAZÓN?",
    "contando": false,
    "r": [
@@ -1691,7 +1867,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "Titulares",
    "contando": false,
    "r": [
@@ -1702,7 +1878,7 @@
    ]
   },
   {
-   "t": 19.4,
+   "t": 21.4,
    "texto": "La mantequilla, a debate",
    "contando": false,
    "r": [
@@ -1715,23 +1891,24 @@
  ],
  "comprobar_s": [
   0.0,
-  2.091,
-  2.891,
-  4.871,
-  7.096,
-  8.556,
-  10.216,
-  13.346,
-  16.431,
-  17.696,
-  18.85,
-  19.4
+  2.016,
+  2.816,
+  4.796,
+  6.981,
+  8.096,
+  9.756,
+  12.886,
+  15.971,
+  17.136,
+  19.036,
+  20.85,
+  21.4
  ],
  "lineas": [
   {
    "quien": "secundaria",
    "t0": 0.0213,
-   "t1": 2.2713,
+   "t1": 2.1963,
    "id": "gancho",
    "w": [
     [
@@ -1743,224 +1920,252 @@
      0.651
     ],
     [
-     0.884,
-     0.924
+     0.889,
+     0.929
     ],
     [
-     0.991,
-     1.551
+     0.996,
+     1.556
     ],
     [
-     1.871,
-     2.271
+     1.796,
+     2.196
     ]
    ]
   },
   {
    "quien": "principal",
-   "t0": 2.5014,
-   "t1": 2.9814,
+   "t0": 2.4263,
+   "t1": 2.9063,
    "id": "parcial",
    "w": [
     [
-     2.501,
-     2.981
+     2.426,
+     2.906
     ]
    ]
   },
   {
    "quien": "principal",
-   "t0": 3.2314,
-   "t1": 6.3964,
+   "t0": 3.1563,
+   "t1": 6.3213,
    "id": "uno",
    "w": [
     [
-     3.231,
-     3.596
+     3.156,
+     3.521
     ],
     [
-     3.676,
-     3.916
+     3.601,
+     3.841
     ],
     [
-     3.996,
-     4.476
+     3.921,
+     4.401
     ],
     [
-     4.796,
-     5.036
+     4.721,
+     4.961
     ],
     [
-     5.116,
-     5.516
+     5.041,
+     5.441
     ],
     [
-     5.596,
-     6.396
+     5.521,
+     6.321
     ]
    ]
   },
   {
    "quien": "secundaria",
-   "t0": 6.7064,
-   "t1": 7.7734,
+   "t0": 6.5913,
+   "t1": 7.3513,
    "id": "pregunta",
    "w": [
     [
-     6.706,
-     6.746
+     6.591,
+     6.631
     ],
     [
-     6.773,
-     6.813
+     6.671,
+     6.711
     ],
     [
-     6.893,
-     7.373
-    ],
-    [
-     7.573,
-     7.773
+     6.791,
+     7.351
     ]
    ]
   },
   {
    "quien": "principal",
-   "t0": 8.1064,
-   "t1": 8.8264,
+   "t0": 7.6463,
+   "t1": 8.3663,
    "id": "dos",
    "w": [
     [
-     8.106,
-     8.426
+     7.646,
+     7.966
     ],
     [
-     8.466,
-     8.826
+     8.006,
+     8.366
     ]
    ]
   },
   {
    "quien": "principal",
-   "t0": 9.1464,
-   "t1": 10.1864,
+   "t0": 8.6863,
+   "t1": 9.7263,
    "id": "clave",
    "w": [
     [
-     9.146,
-     9.466
+     8.686,
+     9.006
     ],
     [
-     9.546,
-     9.626
+     9.086,
+     9.166
     ],
     [
-     9.666,
-     10.186
+     9.206,
+     9.726
     ]
    ]
   },
   {
    "quien": "principal",
-   "t0": 10.4264,
-   "t1": 14.0664,
+   "t0": 9.9663,
+   "t1": 13.6063,
    "id": "aceite",
    "w": [
     [
-     10.426,
-     10.466
+     9.966,
+     10.006
     ],
     [
-     10.546,
-     10.866
+     10.086,
+     10.406
     ],
     [
-     10.946,
-     11.826
+     10.486,
+     11.366
     ],
     [
-     12.106,
-     12.226
+     11.646,
+     11.766
     ],
     [
-     12.266,
-     12.546
+     11.806,
+     12.086
     ],
     [
-     12.586,
-     12.626
+     12.126,
+     12.166
     ],
     [
-     12.706,
-     12.866
+     12.246,
+     12.406
     ],
     [
-     12.946,
-     13.666
+     12.486,
+     13.206
     ],
     [
-     13.746,
-     14.066
+     13.286,
+     13.606
     ]
    ]
   },
   {
    "quien": "principal",
-   "t0": 14.3014,
-   "t1": 16.2914,
+   "t0": 13.8413,
+   "t1": 15.8313,
    "id": "azucar",
    "w": [
     [
-     14.301,
-     14.341
+     13.841,
+     13.881
     ],
     [
-     14.421,
-     14.981
+     13.961,
+     14.521
     ],
     [
-     15.021,
-     15.061
+     14.561,
+     14.601
     ],
     [
-     15.181,
-     15.781
+     14.721,
+     15.321
     ],
     [
-     16.131,
-     16.291
+     15.671,
+     15.831
     ]
    ]
   },
   {
    "quien": "secundaria",
-   "t0": 16.5464,
-   "t1": 18.3064,
+   "t0": 16.0663,
+   "t1": 18.3563,
+   "id": "concl",
+   "w": [
+    [
+     16.066,
+     16.626
+    ],
+    [
+     16.836,
+     17.396
+    ],
+    [
+     17.476,
+     17.636
+    ],
+    [
+     17.716,
+     17.796
+    ],
+    [
+     17.876,
+     17.956
+    ],
+    [
+     18.036,
+     18.356
+    ]
+   ]
+  },
+  {
+   "quien": "secundaria",
+   "t0": 18.6163,
+   "t1": 20.2963,
    "id": "cta",
    "w": [
     [
-     16.546,
-     17.106
+     18.616,
+     19.096
     ],
     [
-     17.146,
-     17.186
+     19.136,
+     19.176
     ],
     [
-     17.266,
-     17.426
+     19.256,
+     19.416
     ],
     [
-     17.506,
-     17.746
+     19.576,
+     19.736
     ],
     [
-     17.826,
-     17.906
+     19.816,
+     19.896
     ],
     [
-     17.986,
-     18.306
+     19.976,
+     20.296
     ]
    ]
   }
@@ -1977,286 +2182,306 @@
    "intensidad": 0.5
   },
   {
-   "t": 2.391,
+   "t": 2.316,
    "tipo": "whoosh",
    "intensidad": 0.55
   },
   {
-   "t": 3.121,
+   "t": 3.046,
    "tipo": "whoosh",
    "intensidad": 0.55
   },
   {
-   "t": 6.596,
+   "t": 6.481,
    "tipo": "whoosh",
    "intensidad": 0.55
   },
   {
-   "t": 7.996,
+   "t": 7.536,
    "tipo": "whoosh",
    "intensidad": 0.55
   },
   {
-   "t": 9.036,
+   "t": 8.576,
    "tipo": "whoosh",
    "intensidad": 0.55
   },
   {
-   "t": 16.746,
+   "t": 16.216,
    "tipo": "whoosh",
    "intensidad": 0.55
   },
   {
-   "t": 2.501,
+   "t": 2.426,
    "tipo": "sello",
    "intensidad": 0.9
   },
   {
-   "t": 3.311,
+   "t": 3.236,
    "tipo": "pop",
    "intensidad": 0.5
   },
   {
-   "t": 3.571,
+   "t": 3.496,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 3.661,
+   "t": 3.586,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 3.751,
+   "t": 3.676,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 3.841,
+   "t": 3.766,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 3.931,
+   "t": 3.856,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.021,
+   "t": 3.946,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.111,
+   "t": 4.036,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.201,
+   "t": 4.126,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.291,
+   "t": 4.216,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.381,
+   "t": 4.306,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.471,
+   "t": 4.396,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.561,
+   "t": 4.486,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 4.671,
+   "t": 4.596,
    "tipo": "golpe",
    "intensidad": 0.75
   },
   {
-   "t": 10.476,
+   "t": 10.016,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 10.566,
+   "t": 10.106,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 10.656,
+   "t": 10.196,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 10.746,
+   "t": 10.286,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 10.836,
+   "t": 10.376,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 10.926,
+   "t": 10.466,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.016,
+   "t": 10.556,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.106,
+   "t": 10.646,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.196,
+   "t": 10.736,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.286,
+   "t": 10.826,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.376,
+   "t": 10.916,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.466,
+   "t": 11.006,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.556,
+   "t": 11.096,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.646,
+   "t": 11.186,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.736,
+   "t": 11.276,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.826,
+   "t": 11.366,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 11.916,
+   "t": 11.456,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.006,
+   "t": 11.546,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.096,
+   "t": 11.636,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.186,
+   "t": 11.726,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.276,
+   "t": 11.816,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.366,
+   "t": 11.906,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.456,
+   "t": 11.996,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.546,
+   "t": 12.086,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.636,
+   "t": 12.176,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.726,
+   "t": 12.266,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.816,
+   "t": 12.356,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.906,
+   "t": 12.446,
    "tipo": "contador",
    "intensidad": 0.45
   },
   {
-   "t": 12.946,
+   "t": 12.486,
    "tipo": "golpe",
    "intensidad": 0.75
   },
   {
-   "t": 8.106,
+   "t": 7.646,
    "tipo": "pop",
    "intensidad": 0.6
   },
   {
-   "t": 9.666,
+   "t": 9.206,
    "tipo": "subida",
    "intensidad": 0.6
   },
   {
-   "t": 9.676,
+   "t": 9.216,
    "tipo": "golpe",
    "intensidad": 1.0
   },
   {
-   "t": 9.356,
+   "t": 8.896,
    "tipo": "pop",
    "intensidad": 0.45
   },
   {
-   "t": 16.131,
+   "t": 15.671,
    "tipo": "sello",
    "intensidad": 0.95
   },
   {
-   "t": 19.0,
+   "t": 16.426,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 16.836,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 18.336,
+   "tipo": "golpe",
+   "intensidad": 0.8
+  },
+  {
+   "t": 18.586,
+   "tipo": "sello",
+   "intensidad": 0.8
+  },
+  {
+   "t": 21.0,
    "tipo": "whoosh",
    "intensidad": 0.5
   }
  ],
- "fotogramas": 585,
- "tiempo_render_s": 215.6
+ "fotogramas": 645,
+ "tiempo_render_s": 199.2
 }
