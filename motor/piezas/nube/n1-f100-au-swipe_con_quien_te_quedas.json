@@ -9,7 +9,8 @@
   "pilar": "mitos",
   "hechos": [
     "ALI-064",
-    "ALI-057"
+    "ALI-057",
+    "VIT-057"
   ],
   "titulo": "[AU] App de citas: ¿patata o boniato?",
   "hojas": [
@@ -63,13 +64,21 @@
     },
     {
       "plantilla": "fx_reel",
+      "titulo": "¿Y para qué sirve el potasio?",
+      "kicker": "Sobre mí",
+      "texto": "El potasio contribuye al funcionamiento normal de los músculos.",
+      "aviso": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de potasio. No es una recomendación personal.",
+      "voz": "¿Y para qué sirve? El potasio contribuye al funcionamiento normal de los músculos."
+    },
+    {
+      "plantilla": "fx_reel",
       "frase": "Mándaselo a tu amigo del boniato",
       "voz": "Mándaselo a tu amigo del boniato."
     }
   ],
-  "pie_instagram": "Todo el mundo desliza a favor del boniato. La patata tiene algo que decir 🥔\n\nPor cada 100 g, los dos cocidos: el boniato lleva 2,5 g de fibra y la patata, 1,8 g.\nPotasio por cada 100 g, cocidos: patata, 379 mg; boniato, 230 mg 🍠\nCada uno pone lo suyo. Datos de la tabla de composición de USDA.\n\nLas cifras son de 100 g de cada alimento cocido; es composición, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿A quién le habías dado el me gusta?\nMándaselo a tu amigo del boniato 💌\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#patata #boniato #potasio #fibra #nutricion",
+  "pie_instagram": "Todo el mundo desliza a favor del boniato. La patata tiene algo que decir 🥔\n\nPor cada 100 g, los dos cocidos: el boniato lleva 2,5 g de fibra y la patata, 1,8 g.\nPotasio por cada 100 g, cocidos: patata, 379 mg; boniato, 230 mg 🍠\nCada uno pone lo suyo. Datos de la tabla de composición de USDA.\n\nY para qué sirve: El potasio contribuye al funcionamiento normal de los músculos. Es una declaración autorizada en la UE para alimentos que son fuente de potasio; no es una recomendación personal.\n\nLas cifras son de 100 g de cada alimento cocido; es composición, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿A quién le habías dado el me gusta?\nMándaselo a tu amigo del boniato 💌\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#patata #boniato #potasio #fibra #nutricion",
   "alt": [
-    "Reel de una app de citas dibujada a mano, «Ñamor». Pregunta arriba: ¿patata o boniato? La tarjeta de la patata cocida, «a 100 g de ti», con el sello PASO, sale volando a la izquierda. Llega el boniato cocido con gafas de sol: fibra 2,5 g y potasio 230 mg, y el sello ME GUSTA. La patata vuelve de golpe, aparta al boniato y dice «¿Paso? Mira esto.»: potasio 379 mg y fibra 1,8 g; boniato, 230 mg. Pantalla de match con los dos muñecos: potasio 379 mg bajo la patata, fibra 2,5 g bajo el boniato, por cada 100 g, cocidos. Botón final: mándaselo a tu amigo del boniato."
+    "Reel de una app de citas dibujada a mano, «Ñamor», sobre fondo verde oliva. Pregunta arriba: ¿patata o boniato? La tarjeta de la patata cocida, «a 100 g de ti», con el sello PASO, sale volando a la izquierda. Llega el boniato cocido con gafas de sol: fibra 2,5 g y potasio 230 mg, y el sello ME GUSTA. La patata vuelve de golpe, aparta al boniato y dice «¿Paso? Mira esto.»: potasio 379 mg y fibra 1,8 g; boniato, 230 mg. Pantalla de match con los dos muñecos: potasio 379 mg bajo la patata, fibra 2,5 g bajo el boniato, por cada 100 g, cocidos. Después, el perfil del potasio: ¿Y para qué sirve el potasio? En la foto, la patata baila con una cinta en la cabeza. Sobre mí: El potasio contribuye al funcionamiento normal de los músculos. Letra pequeña: declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de potasio; no es una recomendación personal. Botón final: mándaselo a tu amigo del boniato."
   ],
   "esquema": "slides-1",
   "version_reel": "fx",
@@ -85,6 +94,6 @@
     "paleta_libre": true,
     "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AU en Telegram"
   },
-  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019). Voz sintética (IA).",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012. Voz sintética (IA).",
   "ia": true
 }

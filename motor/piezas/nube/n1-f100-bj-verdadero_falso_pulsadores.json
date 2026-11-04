@@ -11,7 +11,8 @@
     "ALI-045",
     "ALI-093",
     "ALI-060",
-    "AZU-002"
+    "AZU-002",
+    "AZU-001"
   ],
   "titulo": "[BJ] Verdadero o falso a pulsador",
   "hojas": [
@@ -105,6 +106,31 @@
       "voz": "¡Falso!"
     },
     {
+      "plantilla": "fx_pulsadores",
+      "kicker": "Giro final",
+      "titulo": "¿Y por ración?",
+      "texto": [
+        "Azúcares libres por ración, según la OMS",
+        "Dato OMS"
+      ],
+      "opciones": [
+        {
+          "nombre": "Lata de refresco azucarado",
+          "valor": "hasta 40 g"
+        },
+        {
+          "nombre": "Cucharada de kétchup",
+          "valor": "unos 4 g"
+        }
+      ],
+      "aviso": "«Hasta 40 g» es un máximo: depende del refresco y de la lata. Guía de la OMS para la población, no consejo personal.",
+      "voz": "Giro final: una lata de refresco lleva hasta diez cucharaditas de azúcares libres.",
+      "funcion_f100": "conclusion",
+      "hecho_hoja": [
+        "AZU-002"
+      ]
+    },
+    {
       "plantilla": "g_cierre",
       "frase": "Mándaselo a quien siempre pulsa primero",
       "texto": [
@@ -115,9 +141,9 @@
       "voz": "Mándaselo a quien siempre pulsa primero."
     }
   ],
-  "pie_instagram": "Ronda relámpago: tres frases sobre comida, dos pulsadores y un sello que no perdona 🔔\n\n«El kétchup lleva menos azúcares que la cola»: falso. Por cada 100 g, el kétchup lleva 21,3 g de azúcares y el refresco de cola, 9,9 g.\nOjo con la ración: según la OMS, una cucharada de kétchup lleva unos 4 g y una lata de refresco azucarado, hasta 40 g.\n«Palomitas sin aceite, más fibra que la avena»: verdadero. 14,5 g de fibra por cada 100 g, frente a 10,1 g de los copos de avena.\n«Patatas de bolsa, más sodio que las aceitunas»: falso. Por cada 100 g, aceitunas en conserva 735 mg y patatas fritas de bolsa 527 mg. El sodio no es lo mismo que la sal.\nDatos de la tabla de composición de USDA 🍿\n\nSon cifras de composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuántas habrías acertado?\nMándaselo a quien siempre pulsa primero.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#verdaderoofalso #nutricion #fibra #azucar #sodio",
+  "pie_instagram": "Ronda relámpago: tres frases sobre comida, dos pulsadores y un sello que no perdona 🔔\n\n«El kétchup lleva menos azúcares que la cola»: falso. Por cada 100 g, el kétchup lleva 21,3 g de azúcares y el refresco de cola, 9,9 g.\n«Palomitas sin aceite, más fibra que la avena»: verdadero. 14,5 g de fibra por cada 100 g, frente a 10,1 g de los copos de avena.\n«Patatas de bolsa, más sodio que las aceitunas»: falso. Por cada 100 g, aceitunas en conserva 735 mg y patatas fritas de bolsa 527 mg. El sodio no es lo mismo que la sal.\nDatos de la tabla de composición de USDA 🍿\n\nGiro final, por ración: según la OMS, una lata de refresco azucarado contiene hasta 40 gramos (unas 10 cucharaditas) de azúcares libres, y una cucharada de kétchup, unos 4 gramos (una cucharadita). «Hasta 40 g» es un máximo: depende del refresco y de la lata. La OMS recomienda reducir los azúcares libres a menos del 10 % de la energía total (guía para la población, no recomendación personal).\n\nSon cifras de composición, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuántas habrías acertado?\nMándaselo a quien siempre pulsa primero.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#verdaderoofalso #nutricion #fibra #azucar #sodio",
   "alt": [
-    "Reel de concurso de pulsadores dibujado: ronda relámpago de verdadero o falso. Tarjeta blanca con la pregunta y, abajo, una nuez con gafas y corbata y un plátano con corona tras un mostrador negro, cada uno con un pulsador rojo. «El kétchup lleva menos azúcares que la cola»: el plátano pulsa y dice «¡Verdadero!», y cae el sello FALSO: azúcares por 100 g, kétchup 21,3 g y refresco de cola 9,9 g. «Palomitas sin aceite: más fibra que la avena»: pulsa la nuez, sello VERDADERO: fibra por 100 g, palomitas sin aceite 14,5 g y copos de avena 10,1 g. «Patatas de bolsa: más sodio que las aceitunas»: el plátano dice «¡Fijo que sí!», sello FALSO y se le cae la corona: sodio por 100 g, patatas fritas de bolsa 527 mg y aceitunas en conserva 735 mg. Final: mándaselo a quien siempre pulsa primero, @vivax_nutri."
+    "Reel de concurso de pulsadores dibujado sobre fondo verde oliva con rayas: ronda relámpago de verdadero o falso. Tarjeta blanca con la pregunta y, abajo, una nuez con gafas y corbata y un plátano con corona tras un mostrador verde oliva oscuro, cada uno con un pulsador rojo. «El kétchup lleva menos azúcares que la cola»: el plátano pulsa y dice «¡Verdadero!», y cae el sello FALSO: azúcares por 100 g, kétchup 21,3 g y refresco de cola 9,9 g. «Palomitas sin aceite: más fibra que la avena»: pulsa la nuez, sello VERDADERO: fibra por 100 g, palomitas sin aceite 14,5 g y copos de avena 10,1 g. «Patatas de bolsa: más sodio que las aceitunas»: el plátano dice «¡Fijo que sí!», sello FALSO y se le cae la corona: sodio por 100 g, patatas fritas de bolsa 527 mg y aceitunas en conserva 735 mg. Giro final: la tarjeta se da la vuelta y pregunta «¿Y por ración?»; azúcares libres por ración, según la OMS: en una lata de refresco azucarado caen diez cucharaditas dibujadas, hasta 40 g; en una cucharada de kétchup, una sola, unos 4 g; cae el sello «Dato OMS». Final: mándaselo a quien siempre pulsa primero, @vivax_nutri."
   ],
   "esquema": "slides-1",
   "version_reel": "fx",
@@ -132,13 +158,13 @@
     "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BJ en Telegram"
   },
   "ia": true,
-  "comentario": "Fuentes: USDA FoodData Central, SR Legacy, 2019 (ALI-045, ALI-093 y ALI-060). OMS, comunicado sobre la guía de azúcares para adultos y niños, 2015 (AZU-002). Voz sintética (IA).",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy, 2019 (ALI-045, ALI-093 y ALI-060). OMS, comunicado sobre la guía de azúcares para adultos y niños, 2015 (AZU-001 y AZU-002). Voz sintética (IA).",
   "voz": {
     "motor": "elevenlabs",
     "de_prueba": false,
     "voz": "7QQzpAyzlKTVrRzQJmTE",
     "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
     "modelo": "eleven_v4",
-    "caracteres": 206
+    "caracteres": 289
   }
 }
