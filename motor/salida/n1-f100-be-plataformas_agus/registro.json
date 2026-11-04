@@ -1,23 +1,23 @@
 {
  "esquema": "slides-1",
  "version": "f100-be",
- "duracion_s": 13.71,
+ "duracion_s": 20.01,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
- "fps": 29.95,
+ "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 4.19,
+ "tamano_mb": 5.91,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -15.9,
+ "lufs": -16.0,
  "pico_dbtp": -1.6,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 0.4,
- "n_cambios_visuales": 382,
- "bucle_dif_ultimo_primero": 27.53,
+ "hueco_max_s": 0.7,
+ "n_cambios_visuales": 530,
+ "bucle_dif_ultimo_primero": 23.9,
  "zona_segura": [
   60,
   250,
@@ -620,7 +620,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -631,7 +631,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "Vitamina A",
    "contando": false,
    "r": [
@@ -642,7 +642,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "787 µg",
    "contando": false,
    "r": [
@@ -653,7 +653,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -664,7 +664,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "Boniato cocido",
    "contando": false,
    "r": [
@@ -675,7 +675,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "787 µg",
    "contando": false,
    "r": [
@@ -686,7 +686,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -697,7 +697,7 @@
    ]
   },
   {
-   "t": 8.19,
+   "t": 8.195,
    "texto": "En la bandera, la zanahoria.",
    "contando": false,
    "r": [
@@ -708,7 +708,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -719,7 +719,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "Vitamina A",
    "contando": false,
    "r": [
@@ -730,7 +730,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "835 µg",
    "contando": false,
    "r": [
@@ -741,7 +741,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -752,7 +752,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "Zanahoria cruda",
    "contando": false,
    "r": [
@@ -763,7 +763,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "835 µg",
    "contando": false,
    "r": [
@@ -774,7 +774,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -785,7 +785,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "En la bandera, la zanahoria.",
    "contando": false,
    "r": [
@@ -796,7 +796,7 @@
    ]
   },
   {
-   "t": 9.495,
+   "t": 9.515,
    "texto": "Lo veo clarísimo.",
    "contando": false,
    "r": [
@@ -807,7 +807,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -818,7 +818,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Vitamina A",
    "contando": false,
    "r": [
@@ -829,7 +829,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "835 µg",
    "contando": false,
    "r": [
@@ -840,7 +840,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -851,7 +851,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -862,18 +862,18 @@
    ]
   },
   {
-   "t": 11.545,
-   "texto": "Mándaselo a quien apuesta por la espinaca.",
+   "t": 11.365,
+   "texto": "¿Y para qué sirve?",
    "contando": false,
    "r": [
     165,
     1443,
-    919,
+    487,
     1489
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Nivel completado",
    "contando": false,
    "r": [
@@ -884,7 +884,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Vitamina A en este nivel, por cada 100 g",
    "contando": false,
    "r": [
@@ -895,7 +895,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Zanahoria cruda",
    "contando": false,
    "r": [
@@ -906,7 +906,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "835 µg",
    "contando": false,
    "r": [
@@ -917,7 +917,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Boniato cocido",
    "contando": false,
    "r": [
@@ -928,7 +928,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "787 µg",
    "contando": false,
    "r": [
@@ -939,7 +939,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Mantequilla con sal",
    "contando": false,
    "r": [
@@ -950,7 +950,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "684 µg",
    "contando": false,
    "r": [
@@ -961,7 +961,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Espinacas crudas",
    "contando": false,
    "r": [
@@ -972,7 +972,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "La apuesta de Agus",
    "contando": false,
    "r": [
@@ -983,7 +983,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "469 µg",
    "contando": false,
    "r": [
@@ -994,7 +994,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "Parmesano",
    "contando": false,
    "r": [
@@ -1005,7 +1005,7 @@
    ]
   },
   {
-   "t": 11.545,
+   "t": 11.365,
    "texto": "207 µg",
    "contando": false,
    "r": [
@@ -1016,18 +1016,7 @@
    ]
   },
   {
-   "t": 11.545,
-   "texto": "Mándaselo a quien apuesta por la espinaca",
-   "contando": false,
-   "r": [
-    149,
-    998,
-    861,
-    1034
-   ]
-  },
-  {
-   "t": 13.617,
+   "t": 12.855,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -1038,7 +1027,7 @@
    ]
   },
   {
-   "t": 13.617,
+   "t": 12.855,
    "texto": "Vitamina A",
    "contando": false,
    "r": [
@@ -1049,7 +1038,7 @@
    ]
   },
   {
-   "t": 13.617,
+   "t": 12.855,
    "texto": "835 µg",
    "contando": false,
    "r": [
@@ -1060,7 +1049,7 @@
    ]
   },
   {
-   "t": 13.617,
+   "t": 12.855,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -1071,7 +1060,425 @@
    ]
   },
   {
-   "t": 13.617,
+   "t": 12.855,
+   "texto": "Nivel extra",
+   "contando": false,
+   "r": [
+    121,
+    418,
+    323,
+    448
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "¿Y para qué sirve la vitamina A?",
+   "contando": false,
+   "r": [
+    112,
+    470,
+    898,
+    515
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    160,
+    565,
+    224,
+    622
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    235,
+    557,
+    453,
+    619
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    465,
+    555,
+    504,
+    611
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    515,
+    545,
+    788,
+    609
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    799,
+    543,
+    846,
+    599
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    128,
+    617,
+    510,
+    685
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    521,
+    614,
+    585,
+    671
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    597,
+    612,
+    644,
+    668
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "visión",
+   "contando": false,
+   "r": [
+    655,
+    607,
+    807,
+    666
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    818,
+    604,
+    882,
+    661
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    220,
+    678,
+    530,
+    744
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    541,
+    669,
+    794,
+    732
+   ]
+  },
+  {
+   "t": 12.855,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    103,
+    963,
+    907,
+    1005
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "Agus",
+   "contando": false,
+   "r": [
+    70,
+    274,
+    179,
+    311
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "Vitamina A",
+   "contando": false,
+   "r": [
+    734,
+    270,
+    950,
+    301
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "835 µg",
+   "contando": false,
+   "r": [
+    675,
+    303,
+    942,
+    375
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    841,
+    377,
+    950,
+    403
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "Nivel extra",
+   "contando": false,
+   "r": [
+    121,
+    418,
+    323,
+    448
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "¿Y para qué sirve la vitamina A?",
+   "contando": false,
+   "r": [
+    112,
+    470,
+    898,
+    515
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    190,
+    563,
+    247,
+    613
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    259,
+    563,
+    459,
+    613
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    471,
+    563,
+    505,
+    613
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    517,
+    563,
+    766,
+    613
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    778,
+    563,
+    820,
+    613
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    159,
+    620,
+    509,
+    670
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    521,
+    620,
+    578,
+    670
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    590,
+    620,
+    632,
+    670
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "visión",
+   "contando": false,
+   "r": [
+    644,
+    620,
+    781,
+    670
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    793,
+    620,
+    851,
+    670
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    242,
+    677,
+    525,
+    727
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    537,
+    677,
+    768,
+    727
+   ]
+  },
+  {
+   "t": 14.475,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    103,
+    963,
+    907,
+    1005
+   ]
+  },
+  {
+   "t": 17.535,
+   "texto": "Agus",
+   "contando": false,
+   "r": [
+    70,
+    274,
+    179,
+    311
+   ]
+  },
+  {
+   "t": 17.535,
+   "texto": "Vitamina A",
+   "contando": false,
+   "r": [
+    734,
+    270,
+    950,
+    301
+   ]
+  },
+  {
+   "t": 17.535,
+   "texto": "835 µg",
+   "contando": false,
+   "r": [
+    675,
+    303,
+    942,
+    375
+   ]
+  },
+  {
+   "t": 17.535,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    841,
+    377,
+    950,
+    403
+   ]
+  },
+  {
+   "t": 17.535,
    "texto": "Agus",
    "contando": false,
    "r": [
@@ -1082,7 +1489,7 @@
    ]
   },
   {
-   "t": 13.617,
+   "t": 17.535,
    "texto": "Mándaselo a quien apuesta por la espinaca.",
    "contando": false,
    "r": [
@@ -1093,157 +1500,421 @@
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Nivel completado",
+   "t": 17.535,
+   "texto": "Nivel extra",
    "contando": false,
    "r": [
-    194,
-    453,
-    816,
-    516
+    121,
+    418,
+    323,
+    448
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Vitamina A en este nivel, por cada 100 g",
+   "t": 17.535,
+   "texto": "¿Y para qué sirve la vitamina A?",
    "contando": false,
    "r": [
-    222,
-    523,
-    788,
-    554
+    112,
+    470,
+    898,
+    515
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Zanahoria cruda",
+   "t": 17.535,
+   "texto": "La",
    "contando": false,
    "r": [
-    170,
-    582,
-    433,
-    617
+    190,
+    563,
+    247,
+    613
    ]
   },
   {
-   "t": 13.617,
-   "texto": "835 µg",
+   "t": 17.535,
+   "texto": "vitamina",
    "contando": false,
    "r": [
-    728,
-    584,
-    908,
-    632
+    259,
+    563,
+    459,
+    613
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Boniato cocido",
+   "t": 17.535,
+   "texto": "A",
    "contando": false,
    "r": [
-    170,
-    662,
-    411,
-    697
+    471,
+    563,
+    505,
+    613
    ]
   },
   {
-   "t": 13.617,
-   "texto": "787 µg",
+   "t": 17.535,
+   "texto": "contribuye",
    "contando": false,
    "r": [
-    731,
-    664,
-    908,
-    712
+    517,
+    563,
+    766,
+    613
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Mantequilla con sal",
+   "t": 17.535,
+   "texto": "al",
    "contando": false,
    "r": [
-    170,
-    742,
-    479,
-    777
+    778,
+    563,
+    820,
+    613
    ]
   },
   {
-   "t": 13.617,
-   "texto": "684 µg",
+   "t": 17.535,
+   "texto": "mantenimiento",
    "contando": false,
    "r": [
-    727,
-    744,
-    908,
-    792
+    159,
+    620,
+    509,
+    670
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Espinacas crudas",
+   "t": 17.535,
+   "texto": "de",
    "contando": false,
    "r": [
-    170,
-    822,
-    455,
-    857
+    521,
+    620,
+    578,
+    670
    ]
   },
   {
-   "t": 13.617,
-   "texto": "La apuesta de Agus",
+   "t": 17.535,
+   "texto": "la",
    "contando": false,
    "r": [
-    484,
-    832,
-    678,
-    854
+    590,
+    620,
+    632,
+    670
    ]
   },
   {
-   "t": 13.617,
-   "texto": "469 µg",
+   "t": 17.535,
+   "texto": "visión",
    "contando": false,
    "r": [
-    728,
-    824,
-    908,
-    872
+    644,
+    620,
+    781,
+    670
    ]
   },
   {
-   "t": 13.617,
-   "texto": "Parmesano",
+   "t": 17.535,
+   "texto": "en",
    "contando": false,
    "r": [
-    170,
-    902,
-    353,
-    937
+    793,
+    620,
+    851,
+    670
    ]
   },
   {
-   "t": 13.617,
-   "texto": "207 µg",
+   "t": 17.535,
+   "texto": "condiciones",
    "contando": false,
    "r": [
-    730,
-    904,
-    908,
-    952
+    242,
+    677,
+    525,
+    727
    ]
   },
   {
-   "t": 13.617,
+   "t": 17.535,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    537,
+    677,
+    768,
+    727
+   ]
+  },
+  {
+   "t": 17.535,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    103,
+    963,
+    907,
+    1005
+   ]
+  },
+  {
+   "t": 17.535,
    "texto": "Mándaselo a quien apuesta por la espinaca",
    "contando": false,
    "r": [
-    166,
-    999,
-    844,
-    1033
+    178,
+    1022,
+    832,
+    1056
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Agus",
+   "contando": false,
+   "r": [
+    70,
+    274,
+    179,
+    311
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Vitamina A",
+   "contando": false,
+   "r": [
+    734,
+    270,
+    950,
+    301
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "835 µg",
+   "contando": false,
+   "r": [
+    675,
+    303,
+    942,
+    375
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    841,
+    377,
+    950,
+    403
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Agus",
+   "contando": false,
+   "r": [
+    165,
+    1416,
+    256,
+    1442
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Mándaselo a quien apuesta por la espinaca.",
+   "contando": false,
+   "r": [
+    165,
+    1443,
+    919,
+    1489
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Nivel extra",
+   "contando": false,
+   "r": [
+    121,
+    418,
+    323,
+    448
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "¿Y para qué sirve la vitamina A?",
+   "contando": false,
+   "r": [
+    112,
+    470,
+    898,
+    515
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    190,
+    563,
+    247,
+    613
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    259,
+    563,
+    459,
+    613
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    471,
+    563,
+    505,
+    613
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    517,
+    563,
+    766,
+    613
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    778,
+    563,
+    820,
+    613
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    159,
+    620,
+    509,
+    670
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    521,
+    620,
+    578,
+    670
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    590,
+    620,
+    632,
+    670
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "visión",
+   "contando": false,
+   "r": [
+    644,
+    620,
+    781,
+    670
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    793,
+    620,
+    851,
+    670
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    242,
+    677,
+    525,
+    727
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    537,
+    677,
+    768,
+    727
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    103,
+    963,
+    907,
+    1005
+   ]
+  },
+  {
+   "t": 19.917,
+   "texto": "Mándaselo a quien apuesta por la espinaca",
+   "contando": false,
+   "r": [
+    165,
+    1022,
+    845,
+    1056
    ]
   }
  ],
@@ -1255,10 +1926,13 @@
   2.966,
   5.1,
   6.65,
-  8.19,
-  9.495,
-  11.545,
-  13.617
+  8.195,
+  9.515,
+  11.365,
+  12.855,
+  14.475,
+  17.535,
+  19.917
  ],
  "sonido": {
   "voz_lufs": -16.0,
@@ -1266,20 +1940,20 @@
   "efectos_bajo_voz_db": 9.0,
   "mezcla_lufs": -16.0,
   "mezcla_pico_dbtp": -1.65,
-  "limitador_max_db": 0.94,
+  "limitador_max_db": 0.51,
   "efectos_por_tipo": {
-   "ding": 7,
+   "ding": 8,
    "tic": 8,
-   "whoosh": 7,
+   "whoosh": 8,
    "golpe": 4,
-   "pop": 10,
+   "pop": 11,
    "contador": 30,
    "subida": 3,
-   "tac": 1,
-   "sello": 1
+   "tac": 4,
+   "sello": 2
   },
   "musica": false,
-  "efectos": 71
+  "efectos": 78
  },
  "efectos": [
   {
@@ -1543,106 +2217,141 @@
    "intensidad": 0.6
   },
   {
-   "t": 7.59,
+   "t": 7.595,
    "tipo": "subida",
    "intensidad": 0.5
   },
   {
-   "t": 7.64,
+   "t": 7.645,
    "tipo": "whoosh",
    "intensidad": 0.4
   },
   {
-   "t": 8.44,
+   "t": 8.445,
    "tipo": "subida",
    "intensidad": 0.45
   },
   {
-   "t": 8.45,
+   "t": 8.455,
    "tipo": "ding",
    "intensidad": 0.7
   },
   {
-   "t": 8.895,
+   "t": 8.915,
    "tipo": "sello",
    "intensidad": 0.85
   },
   {
-   "t": 9.395,
+   "t": 9.415,
    "tipo": "ding",
    "intensidad": 0.65
   },
   {
-   "t": 8.995,
+   "t": 9.015,
    "tipo": "contador",
    "intensidad": 0.4
   },
   {
-   "t": 9.065,
+   "t": 9.085,
    "tipo": "contador",
    "intensidad": 0.4
   },
   {
-   "t": 9.135,
+   "t": 9.155,
    "tipo": "contador",
    "intensidad": 0.4
   },
   {
-   "t": 9.205,
+   "t": 9.225,
    "tipo": "contador",
    "intensidad": 0.4
   },
   {
-   "t": 9.275,
+   "t": 9.295,
    "tipo": "contador",
    "intensidad": 0.4
   },
   {
-   "t": 9.345,
+   "t": 9.365,
    "tipo": "contador",
    "intensidad": 0.4
   },
   {
-   "t": 10.145,
+   "t": 10.165,
    "tipo": "whoosh",
    "intensidad": 0.6
   },
   {
-   "t": 10.525,
+   "t": 10.545,
    "tipo": "pop",
    "intensidad": 0.42
   },
   {
-   "t": 10.635,
+   "t": 10.655,
    "tipo": "pop",
    "intensidad": 0.42
   },
   {
-   "t": 10.745,
+   "t": 10.765,
    "tipo": "pop",
    "intensidad": 0.42
   },
   {
-   "t": 10.855,
+   "t": 10.875,
    "tipo": "pop",
    "intensidad": 0.42
   },
   {
-   "t": 10.965,
+   "t": 10.985,
    "tipo": "pop",
    "intensidad": 0.42
   },
   {
-   "t": 11.145,
+   "t": 12.455,
+   "tipo": "whoosh",
+   "intensidad": 0.6
+  },
+  {
+   "t": 12.755,
    "tipo": "pop",
    "intensidad": 0.5
+  },
+  {
+   "t": 12.755,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 16.765,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 17.055,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 12.955,
+   "tipo": "tac",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.855,
+   "tipo": "tac",
+   "intensidad": 0.3
+  },
+  {
+   "t": 14.755,
+   "tipo": "tac",
+   "intensidad": 0.3
   }
  ],
- "fotogramas": 410,
- "tiempo_render_s": 34.6,
+ "fotogramas": 599,
+ "tiempo_render_s": 70.8,
  "tiempos_s": {
-  "preparar": 1.45,
-  "dibujar_y_codificar": 31.34
+  "preparar": 1.79,
+  "dibujar_y_codificar": 64.86
  },
  "voz_de_prueba": false,
  "voz": {
@@ -1654,15 +2363,15 @@
     "voz": "7QQzpAyzlKTVrRzQJmTE",
     "modelo": "eleven_v4",
     "nombre": "Dani - Hurried, Dynamic and Engaging",
-    "texto": "Apuesto por la espinaca. ¡Espinacas! Lo sabía. ¿Mantequilla? ¿Más? ¿Boniato? ¿Más todavía? En la bandera, la zanahoria. Mándaselo a quien apuesta por la espinaca.",
-    "caracteres": 162
+    "texto": "Apuesto por la espinaca. ¡Espinacas! Lo sabía. ¿Mantequilla? ¿Más? ¿Boniato? ¿Más todavía? En la bandera, la zanahoria. ¿Y para qué sirve? La vitamina A contribuye al mantenimiento de la visión en condiciones normales. Mándaselo a quien apuesta por la espinaca.",
+    "caracteres": 261
    }
   },
-  "caracteres": 162,
-  "texto": "Apuesto por la espinaca. ¡Espinacas! Lo sabía. ¿Mantequilla? ¿Más? ¿Boniato? ¿Más todavía? En la bandera, la zanahoria. Mándaselo a quien apuesta por la espinaca.",
+  "caracteres": 261,
+  "texto": "Apuesto por la espinaca. ¡Espinacas! Lo sabía. ¿Mantequilla? ¿Más? ¿Boniato? ¿Más todavía? En la bandera, la zanahoria. ¿Y para qué sirve? La vitamina A contribuye al mantenimiento de la visión en condiciones normales. Mándaselo a quien apuesta por la espinaca.",
   "inicio_voz_s": 0.031,
-  "aire_extra_entre_lineas_s": 0.1,
-  "duracion_voz_s": 11.05,
+  "aire_extra_entre_lineas_s": 0.0,
+  "duracion_voz_s": 15.585,
   "voz": "7QQzpAyzlKTVrRzQJmTE",
   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
   "modelo": "eleven_v4"
@@ -1676,29 +2385,48 @@
   {
    "texto": "¡Espinacas! Lo sabía.",
    "t0": 2.02,
-   "t1": 3.78
+   "t1": 3.74
   },
   {
    "texto": "¿Mantequilla? ¿Más?",
    "t0": 4.27,
-   "t1": 5.385
+   "t1": 5.445
   },
   {
    "texto": "¿Boniato? ¿Más todavía?",
    "t0": 5.82,
-   "t1": 7.29
+   "t1": 7.295
   },
   {
    "texto": "En la bandera, la zanahoria.",
-   "t0": 7.87,
-   "t1": 9.455
+   "t0": 7.875,
+   "t1": 9.475
+  },
+  {
+   "texto": "¿Y para qué sirve?",
+   "t0": 11.215,
+   "t1": 12.055
+  },
+  {
+   "texto": "La vitamina A contribuye al mantenimiento de la visión en condiciones normales.",
+   "t0": 12.875,
+   "t1": 16.715
   },
   {
    "texto": "Mándaselo a quien apuesta por la espinaca.",
-   "t0": 10.465,
-   "t1": 12.305
+   "t0": 17.035,
+   "t1": 18.875
   }
  ],
  "fin_parcial_s": 2.04,
- "revelacion_s": 8.895
+ "revelacion_s": 8.915,
+ "conclusion_s": 12.455,
+ "conclusion": {
+  "hecho": "VIT-001",
+  "declaracion": "La vitamina A contribuye al mantenimiento de la visión en condiciones normales.",
+  "voz_s": [
+   12.875,
+   16.715
+  ]
+ }
 }
