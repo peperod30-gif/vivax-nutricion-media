@@ -1,23 +1,23 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 14.38,
+ "duracion_s": 20.51,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
- "fps": 29.96,
+ "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 8.78,
+ "tamano_mb": 11.78,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -16.1,
- "pico_dbtp": -2.1,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 0.333,
- "n_cambios_visuales": 351,
- "bucle_dif_ultimo_primero": 117.26,
+ "hueco_max_s": 0.534,
+ "n_cambios_visuales": 535,
+ "bucle_dif_ultimo_primero": 58.54,
  "zona_segura": [
   60,
   250,
@@ -742,12 +742,12 @@
   },
   {
    "t": 10.806,
-   "texto": "¡Lo veo clarísimo!",
+   "texto": "¡Qué apretado!",
    "contando": false,
    "r": [
-    612,
+    634,
     964,
-    898,
+    876,
     1021
    ]
   },
@@ -785,7 +785,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "Vitamina A por cada 100 g",
    "contando": false,
    "r": [
@@ -796,7 +796,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -807,7 +807,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "Zanahoria cruda",
    "contando": false,
    "r": [
@@ -818,7 +818,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "835 µg",
    "contando": false,
    "r": [
@@ -829,7 +829,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "Boniato cocido",
    "contando": false,
    "r": [
@@ -840,7 +840,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "787 µg",
    "contando": false,
    "r": [
@@ -851,7 +851,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "Mantequilla con sal",
    "contando": false,
    "r": [
@@ -862,7 +862,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "684 µg",
    "contando": false,
    "r": [
@@ -873,7 +873,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "Espinacas crudas",
    "contando": false,
    "r": [
@@ -884,7 +884,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "469 µg",
    "contando": false,
    "r": [
@@ -895,7 +895,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "Gran Premio",
    "contando": false,
    "r": [
@@ -906,7 +906,7 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 12.386,
    "texto": "de la vitamina A",
    "contando": false,
    "r": [
@@ -917,156 +917,541 @@
    ]
   },
   {
-   "t": 12.586,
+   "t": 13.036,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    80,
+    271,
+    699,
+    324
+   ]
+  },
+  {
+   "t": 13.036,
+   "texto": "la vitamina A?",
+   "contando": false,
+   "r": [
+    83,
+    348,
+    719,
+    416
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    80,
+    271,
+    699,
+    324
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "la vitamina A?",
+   "contando": false,
+   "r": [
+    83,
+    350,
+    703,
+    416
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    152,
+    981,
+    214,
+    1062
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    245,
+    981,
+    469,
+    1062
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    499,
+    981,
+    542,
+    1062
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    573,
+    981,
+    858,
+    1062
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    270,
+    1045,
+    317,
+    1126
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    347,
+    1045,
+    740,
+    1126
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    339,
+    1109,
+    407,
+    1190
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    438,
+    1109,
+    485,
+    1190
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "visión",
+   "contando": false,
+   "r": [
+    516,
+    1109,
+    671,
+    1190
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    152,
+    1173,
+    218,
+    1254
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    249,
+    1173,
+    565,
+    1254
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    596,
+    1173,
+    858,
+    1254
+   ]
+  },
+  {
+   "t": 17.561,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1288,
+    914,
+    1348
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "¿Y para qué sirve",
+   "contando": false,
+   "r": [
+    80,
+    271,
+    699,
+    324
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "la vitamina A?",
+   "contando": false,
+   "r": [
+    83,
+    350,
+    703,
+    416
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    152,
+    981,
+    214,
+    1062
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    245,
+    981,
+    469,
+    1062
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    499,
+    981,
+    542,
+    1062
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    573,
+    981,
+    858,
+    1062
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    270,
+    1045,
+    317,
+    1126
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    347,
+    1045,
+    740,
+    1126
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    339,
+    1109,
+    407,
+    1190
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    438,
+    1109,
+    485,
+    1190
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "visión",
+   "contando": false,
+   "r": [
+    516,
+    1109,
+    671,
+    1190
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    152,
+    1173,
+    218,
+    1254
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    249,
+    1173,
+    565,
+    1254
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    596,
+    1173,
+    858,
+    1254
+   ]
+  },
+  {
+   "t": 18.161,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1288,
+    914,
+    1348
+   ]
+  },
+  {
+   "t": 18.161,
    "texto": "Mándaselo a tu amigo de las espinacas",
    "contando": false,
    "r": [
-    188,
+    181,
     1413,
-    898,
+    907,
     1469
    ]
   },
   {
-   "t": 14.3,
-   "texto": "Vitamina A por cada 100 g",
+   "t": 20.433,
+   "texto": "¿Y para qué sirve",
    "contando": false,
    "r": [
-    92,
-    580,
-    661,
-    623
+    80,
+    271,
+    699,
+    324
    ]
   },
   {
-   "t": 14.3,
-   "texto": "@vivax_nutri",
+   "t": 20.433,
+   "texto": "la vitamina A?",
    "contando": false,
    "r": [
-    768,
-    582,
-    932,
-    621
+    83,
+    350,
+    703,
+    416
    ]
   },
   {
-   "t": 14.3,
-   "texto": "Zanahoria cruda",
+   "t": 20.433,
+   "texto": "La",
    "contando": false,
    "r": [
-    92,
-    669,
-    357,
-    718
-   ]
-  },
-  {
-   "t": 14.3,
-   "texto": "835 µg",
-   "contando": false,
-   "r": [
-    732,
-    665,
-    932,
-    722
-   ]
-  },
-  {
-   "t": 14.3,
-   "texto": "Boniato cocido",
-   "contando": false,
-   "r": [
-    92,
-    841,
-    333,
-    890
-   ]
-  },
-  {
-   "t": 14.3,
-   "texto": "787 µg",
-   "contando": false,
-   "r": [
-    735,
-    837,
-    932,
-    894
-   ]
-  },
-  {
-   "t": 14.3,
-   "texto": "Mantequilla con sal",
-   "contando": false,
-   "r": [
-    92,
-    1013,
-    405,
+    152,
+    981,
+    214,
     1062
    ]
   },
   {
-   "t": 14.3,
-   "texto": "684 µg",
+   "t": 20.433,
+   "texto": "vitamina",
    "contando": false,
    "r": [
-    732,
-    1009,
-    932,
-    1066
+    245,
+    981,
+    469,
+    1062
    ]
   },
   {
-   "t": 14.3,
-   "texto": "Espinacas crudas",
+   "t": 20.433,
+   "texto": "A",
    "contando": false,
    "r": [
-    92,
-    1185,
-    369,
-    1234
+    499,
+    981,
+    542,
+    1062
    ]
   },
   {
-   "t": 14.3,
-   "texto": "469 µg",
+   "t": 20.433,
+   "texto": "contribuye",
    "contando": false,
    "r": [
-    732,
-    1181,
-    932,
-    1238
+    573,
+    981,
+    858,
+    1062
    ]
   },
   {
-   "t": 14.3,
-   "texto": "Gran Premio",
+   "t": 20.433,
+   "texto": "al",
    "contando": false,
    "r": [
-    83,
-    263,
-    725,
-    335
+    270,
+    1045,
+    317,
+    1126
    ]
   },
   {
-   "t": 14.3,
-   "texto": "de la vitamina A",
+   "t": 20.433,
+   "texto": "mantenimiento",
    "contando": false,
    "r": [
-    84,
-    353,
-    457,
-    390
+    347,
+    1045,
+    740,
+    1126
    ]
   },
   {
-   "t": 14.3,
+   "t": 20.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    339,
+    1109,
+    407,
+    1190
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    438,
+    1109,
+    485,
+    1190
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "visión",
+   "contando": false,
+   "r": [
+    516,
+    1109,
+    671,
+    1190
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    152,
+    1173,
+    218,
+    1254
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    249,
+    1173,
+    565,
+    1254
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    596,
+    1173,
+    858,
+    1254
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1288,
+    914,
+    1348
+   ]
+  },
+  {
+   "t": 20.433,
    "texto": "Mándaselo a tu amigo de las espinacas",
    "contando": false,
    "r": [
-    189,
+    185,
     1413,
-    897,
+    902,
     1469
    ]
   }
@@ -1080,27 +1465,30 @@
   7.136,
   8.006,
   10.806,
-  12.586,
-  14.3
+  12.386,
+  13.036,
+  17.561,
+  18.161,
+  20.433
  ],
  "sonido": {
-  "lufs": -16.01,
+  "lufs": -16.04,
   "pico_dbtp": -2.05,
   "recortes": 0,
-  "reduccion_max_db": 1.1,
-  "tiempo_reduccion_mas_1db_pct": 0.01,
+  "reduccion_max_db": 2.53,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
   "efectos_por_tipo": {
    "subida": 1,
    "golpe": 2,
-   "whoosh": 6,
-   "pop": 8,
+   "whoosh": 12,
+   "pop": 9,
    "tac": 1,
    "sello": 1,
    "contador": 19,
-   "ding": 1
+   "ding": 2
   },
   "descartados": 0,
-  "duracion_s": 14.312,
+  "duracion_s": 20.445,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -1110,8 +1498,18 @@
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
    "de_prueba": false,
-   "texto": "¡Y salen! ¡Las espinacas, como un cohete! ¡Hasta la mantequilla las pasa! Zanahoria y boniato, ¡rueda con rueda! ¡Foto finish! ¡Por medio coche, la zanahoria! Mándaselo a tu amigo de las espinacas.",
-   "caracteres": 197,
+   "texto": "¡Y salen! ¡Las espinacas, como un cohete! ¡Hasta la mantequilla las pasa! Zanahoria y boniato, ¡rueda con rueda! ¡Foto finish! ¡Por medio coche, la zanahoria! Mándaselo a tu amigo de las espinacas. ¿Y para qué sirve? La vitamina A contribuye al mantenimiento de la visión en condiciones normales.",
+   "caracteres": 295,
+   "peticiones": [
+    {
+     "texto": "¡Y salen! ¡Las espinacas, como un cohete! ¡Hasta la mantequilla las pasa! Zanahoria y boniato, ¡rueda con rueda! ¡Foto finish! ¡Por medio coche, la zanahoria! Mándaselo a tu amigo de las espinacas.",
+     "caracteres": 197
+    },
+    {
+     "texto": "¿Y para qué sirve? La vitamina A contribuye al mantenimiento de la visión en condiciones normales.",
+     "caracteres": 98
+    }
+   ],
    "lineas": [
     {
      "texto": "¡Y salen!",
@@ -1144,9 +1542,14 @@
      "t1": 9.9513
     },
     {
+     "texto": "¿Y para qué sirve? La vitamina A contribuye al mantenimiento de la visión en condiciones normales.",
+     "t0": 12.061,
+     "t1": 17.361
+    },
+    {
      "texto": "Mándaselo a tu amigo de las espinacas.",
-     "t0": 11.706,
-     "t1": 13.546
+     "t0": 17.711,
+     "t1": 19.551
     }
    ]
   },
@@ -1156,8 +1559,8 @@
    "motores_lufs": -25,
    "publico_lufs": -29,
    "ducking": 0.5,
-   "lufs_wav": -16.02,
-   "limitador_max_db": 2.0
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.1
   }
  },
  "efectos": [
@@ -1352,16 +1755,56 @@
    "intensidad": 0.5
   },
   {
-   "t": 11.656,
+   "t": 17.661,
    "tipo": "pop",
    "intensidad": 0.45
+  },
+  {
+   "t": 12.436,
+   "tipo": "whoosh",
+   "intensidad": 0.65
+  },
+  {
+   "t": 12.626,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 12.946,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.766,
+   "tipo": "ding",
+   "intensidad": 0.7
+  },
+  {
+   "t": 13.963,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 14.531,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 15.1,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 15.668,
+   "tipo": "whoosh",
+   "intensidad": 0.3
   }
  ],
- "fotogramas": 430,
- "tiempo_render_s": 41.9,
+ "fotogramas": 614,
+ "tiempo_render_s": 73.5,
  "tiempos_s": {
-  "preparar": 0.98,
-  "dibujar_y_codificar": 39.23
+  "preparar": 1.53,
+  "dibujar_y_codificar": 69.53
  },
  "voz_de_prueba": false
 }
