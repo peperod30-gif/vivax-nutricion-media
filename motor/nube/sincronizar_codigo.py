@@ -22,7 +22,7 @@ MODULOS = ("controles.py", "filtro_legal.py", "plantillas.py", "plantillas_d.py"
            "reel_foto.py", "metricas.py")      # reel_foto: los controles de los reels de fotos (solo la biblioteca estándar al cargarse; lo pesado está dentro de las funciones de dibujo)
 ROUTER = ("__init__.py", "bd.py", "formatos_serie.py", "hub.py", "instagram.py", "nucleo.py", "panel.py", "textos_panel.py", "telegram_io.py", "validacion.py",
           "adaptadores/__init__.py", "adaptadores/base.py", "adaptadores/nutricion.py")
-NUBE = ("__init__.py", "estado.py", "ordenes.py", "informe.py", "autopiloto.py", "ejecutar_nube.py", "sincronizar_codigo.py", "requirements.txt", "cuentas.nube.json", "LEEME.md", "UX.md")
+NUBE = ("__init__.py", "estado.py", "ordenes.py", "informe.py", "informe_semana.py", "autopiloto.py", "ejecutar_nube.py", "sincronizar_codigo.py", "requirements.txt", "cuentas.nube.json", "LEEME.md", "UX.md")
 PROHIBIDOS = (".env", ".sqlite", ".pem", "router_datos")
 
 
