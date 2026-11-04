@@ -1,0 +1,83 @@
+{
+  "id": "n1-f100-ap-chat_hierro",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-AP",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-009",
+    "ALI-032",
+    "ALI-061",
+    "VIT-055"
+  ],
+  "titulo": "[AP] Chat de la nevera: calcio sin lácteos",
+  "hojas": [
+    {
+      "plantilla": "fx_chat",
+      "titulo": "La nevera",
+      "texto": "Chía, Sardinas, Tofu, Tú | Chía, Sardinas, Tofu",
+      "dato": "Calcio por cada 100 g"
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Leche entera",
+      "texto": "¿Quién tiene más calcio que yo?"
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Sardinas en lata",
+      "texto": "{382 mg} Con espina y todo.",
+      "sigue": "Sardinas está escribiendo"
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Semillas de chía",
+      "texto": "{631 mg} Y soy una semilla.",
+      "sigue": "Chía está escribiendo"
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Tofu firme",
+      "texto": "{683 mg} Me cuajan con calcio.",
+      "sigue": "Tofu está escribiendo"
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Leche entera",
+      "texto": "{113 mg}. Pero soy famosa.",
+      "sigue": "Eliminaste este mensaje."
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Semillas de chía",
+      "texto": "Tarde. Captura y al grupo de la familia."
+    },
+    {
+      "plantilla": "fx_chat",
+      "kicker": "Leche entera",
+      "texto": "El calcio es necesario para el mantenimiento de los huesos en condiciones normales.",
+      "dato": "Has salido del grupo",
+      "sigue": "Ya no formas parte de este grupo."
+    }
+  ],
+  "pie_instagram": "Calcio por cada 100 g: la leche entera presume y le contestan tres que no son lácteos 🐟\n\nLeche entera: 113 mg de calcio.\nSardinas en lata, con su espina: 382 mg.\nSemillas de chía: 631 mg.\nTofu firme, el preparado con sulfato de calcio: 683 mg.\nEs lo que hay en 100 g de cada alimento, no lo que se absorbe, y no es una recomendación de cantidad.\nLa leche se despide con una declaración de salud autorizada en la UE (Reglamento (UE) nº 432/2012): «El calcio es necesario para el mantenimiento de los huesos en condiciones normales.»\nHabla del nutriente, no de un alimento concreto, y no dice que ninguno cure ni prevenga nada.\n\n¿Cuál te ha sorprendido más?\nMándaselo a quien cree que el calcio solo está en la leche.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#calcio #tofu #chia #nutricion",
+  "alt": [
+    "Reel. Un chat de grupo dibujado, La nevera, visto desde el móvil de la leche entera, que lleva corona; los contactos son alimentos con cara. Mensaje fijado: calcio por cada 100 g. La leche manda una pegatina suya guiñando un ojo y pregunta quién tiene más calcio que ella. Sardinas en lata contesta 382 mg, con espina y todo. Semillas de chía: 631 mg, y soy una semilla. Tofu firme: 683 mg, me cuajan con calcio; el chat tiembla. La leche manda una pegatina de susto, escribe 113 mg, pero soy famosa, y borra el mensaje: eliminaste este mensaje. Semillas de chía: tarde, captura y al grupo de la familia. Antes de irse, la leche escribe: el calcio es necesario para el mantenimiento de los huesos en condiciones normales; le ponen un corazón. Aviso del chat: has salido del grupo, y la barra dice ya no formas parte de este grupo. Un flash de pantallazo enseña juntas las cuatro cifras y la frase del calcio."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "AP",
+    "lote": "f100-2026-11-03",
+    "mundo": "F",
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AP en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}
