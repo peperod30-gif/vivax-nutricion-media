@@ -1,0 +1,80 @@
+{
+  "id": "n1-f100-dh-mapa_calor_despensa",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-DH",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-006",
+    "ALI-007",
+    "ALI-008",
+    "ALI-062",
+    "VIT-054"
+  ],
+  "titulo": "[DH] ¿La chía lo tiene todo? Mapa de calor de la despensa",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿La chía lo tiene todo?",
+      "texto": "En fibra, sí.",
+      "opciones": [
+        {
+          "nombre": "Fibra",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Hierro",
+          "unidad": "mg"
+        }
+      ],
+      "filas": [
+        {
+          "nombre": "Chía",
+          "detalle": "",
+          "valor": "34,4 7,7"
+        },
+        {
+          "nombre": "Pipas de calabaza",
+          "detalle": "",
+          "valor": "6,0 8,8"
+        },
+        {
+          "nombre": "Cacahuetes",
+          "detalle": "crudos",
+          "valor": "8,5 4,6"
+        },
+        {
+          "nombre": "Lentejas",
+          "detalle": "cocidas",
+          "valor": "7,9 3,3"
+        }
+      ],
+      "dato": "¿Para qué sirve el hierro?",
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "sigue": "Mándaselo a quien le echa chía a todo.",
+      "fuente": "Fuente: USDA FoodData Central, SR Legacy, por 100 g. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "La chía tiene fama de tenerlo todo. En fibra, sí; en hierro, míralo en el mapa 🔎\n\nCuatro alimentos de despensa, fibra y hierro por 100 g. Más intenso el oliva, más cantidad; cada columna, con su escala.\nSemillas de chía (secas): fibra 34,4 g y hierro 7,7 mg.\nPipas de calabaza (peladas, secas): fibra 6,0 g y hierro 8,8 mg.\nCacahuetes (crudos): fibra 8,5 g y hierro 4,6 mg.\nLentejas cocidas: fibra 7,9 g y hierro 3,3 mg. Cada cifra es la de ese estado (semillas secas, cacahuetes crudos, lentejas cocidas).\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\nLas cifras dicen lo que lleva el alimento, no lo que se absorbe.\n\n¿Cuál te ha sorprendido más?\nMándaselo a quien le echa chía a todo 🥄\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#chia #pipasdecalabaza #nutricion #despensa",
+  "alt": [
+    "Mapa de calor en oliva. Cabecera oliva con la cuenta @vivax_nutri. Titular: ¿La chía lo tiene todo? Debajo: En fibra, sí. Sobre fondo blanco, cuadrícula de cuatro alimentos por dos nutrientes, por 100 g; cuanto más intenso el oliva, más cantidad, y cada columna lleva su propia escala. Chía: fibra 34,4 g, hierro 7,7 mg. Pipas de calabaza: fibra 6,0 g, hierro 8,8 mg. Cacahuetes crudos: fibra 8,5 g, hierro 4,6 mg. Lentejas cocidas: fibra 7,9 g, hierro 3,3 mg. Corchetes blancos enmarcan la chía en fibra y las pipas de calabaza en hierro. Leyenda: un signo menos, una barra de oliva claro a oliva intenso y un signo más. De la columna del hierro baja una línea hasta el bloque oliva de abajo: ¿Para qué sirve el hierro? Dibujo de una casilla convertida en vagoneta que lleva burbujas por una vía de casillas. Texto: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Letra pequeña: declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro; no es una recomendación personal. Remate: Mándaselo a quien le echa chía a todo. Fuente: USDA FoodData Central, por 100 g. Aviso: contenido divulgativo, no es consejo personal ni sustituye a tu médico o dietista-nutricionista. Logo de Vivax Nutrición."
+  ],
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "DH",
+    "lote": "f100-2026-11-03",
+    "serie": "f100",
+    "frente": "publico",
+    "mundo": "nuevo: tablero de mapa de calor en una sola tinta oliva (del claro al intenso), letra monoespaciada, leyenda de escala sin palabras y vagoneta de casillas en la conclusión",
+    "conclusion": "VIT-054 (hierro), literal, con la salvedad de uso para alimentos fuente de hierro",
+    "paleta_libre": true,
+    "aprobado_por": "José, 4-nov-2026, botón ✅ Mandar del formato DH en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}
