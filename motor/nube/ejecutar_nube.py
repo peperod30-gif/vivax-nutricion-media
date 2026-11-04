@@ -186,10 +186,14 @@ def montar(datos: Path, env: dict, simulado: bool, motor: Path = MOTOR, modo_ig:
         ig["info"] = _info_ig(datos, c["codigo"])
         ig["info_ruta"] = str(datos / "cuentas" / c["codigo"] / "instagram.json")
         extra = {"ahora": (lambda: datetime.fromtimestamp(reloj(), MADRID))} if reloj else {}
+        from nube import autopiloto as _auto                            # noqa: PLC0415 (solo para leer los huecos de las historias)
+        horas_h = [h for h, t in _auto._pauta(c.get("pauta_historias")) if t == "historia"]   # 4-nov-2026: huecos de las historias
         ad = AdaptadorNutricion(c["codigo"], datos / "cuentas", salida=Path(motor) / "salida", politica=c.get("politica_aprobacion", "validado"),
-                                horas=c.get("horas"), ig=ig, publicador=construir_publicador({**c, "instagram": ig}, env, datos, simulado), **extra)
+                                horas=c.get("horas"), ig=ig, publicador=construir_publicador({**c, "instagram": ig}, env, datos, simulado),
+                                horas_historias=horas_h or None, **extra)
         ad.guardar_token = lambda tok, datos=datos: _guardar_token(datos, tok)
         ad.pauta = c.get("pauta")                                       # huecos del autopiloto (nube/autopiloto.py): [["13:00", "reel"], ...]
+        ad.pauta_historias = c.get("pauta_historias")                   # y los de las historias, aparte: [["09:30", "historia"], ...]
         ad.estilo_panel = True                                          # avisos de publicación en llano y con los botones del panel
         adaptadores[c["codigo"]] = ad
     return hub, adaptadores
@@ -252,7 +256,7 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log,
     cuenta["ordenes"] = O.procesar_ordenes(hub, motor / "ordenes", lg, ad=ad)
     try:                                                          # autopiloto: programa solo las piezas marcadas `autoaprobar` (nunca las delicadas)
         from nube import autopiloto as _auto
-        _auto.programar(ad, hub, getattr(ad, "pauta", None), lg)
+        _auto.programar(ad, hub, getattr(ad, "pauta", None), lg, pauta_historias=getattr(ad, "pauta_historias", None))
     except Exception as exc:                                      # noqa: BLE001
         lg(f"autopiloto: {type(exc).__name__}")
     try:                                                          # informe diario de números (solo lectura de la API de Instagram)

@@ -147,7 +147,8 @@ class TelegramReal:
             raise ErrorTelegram("enviar_archivos", None, "la pieza no tiene ficheros que enviar")
         abiertos = []
         try:
-            if formato == "video":
+            # una historia (4-nov-2026) puede ser un vídeo: si su fichero es .mp4, va como vídeo y no como foto
+            if formato == "video" or (formato == "historia" and Path(rutas[0]).suffix.lower() == ".mp4"):
                 f = open(rutas[0], "rb")
                 abiertos.append(f)
                 self._llamar("sendVideo", data={"chat_id": chat_id, "caption": caption, "supports_streaming": "true"}, files={"video": (rutas[0].name, f, "video/mp4")})

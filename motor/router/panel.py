@@ -203,7 +203,8 @@ class Panel:
         items = self._items()
         prog = sorted([i for i in items if i.estado in ("aprobada", "publicando") and i.programada], key=lambda i: i.programada)
         pend = [i for i in items if i.estado == "pendiente"]
-        hasta = prog[-1].programada if prog else None
+        feed = [i for i in prog if i.formato != "historia"]      # los días de cola son los del feed: las historias no lo alargan (4-nov-2026)
+        hasta = feed[-1].programada if feed else None
         dias_cola = max(0, (hasta.date() - ahora.date()).days + 1) if hasta else 0
         v = self.hub.meta_leer(LATIDO)
         try:
@@ -287,8 +288,8 @@ class Panel:
         if hora is None and plan:
             prev = ad.hora_prevista(id)
             hora = prev if prev is not None and prev > ahora + MINIMO else None
-            if hora is not None and ad.hora_ocupada(hora):
-                hora = None                              # otra pieza ya sale a esa hora: esta, al primer hueco libre
+            if hora is not None and ad.hora_ocupada(hora, excluir=id):
+                hora = None                              # otra pieza (de su familia: feed o historias) ya sale a esa hora: esta, al primer hueco libre
         motivo = ad.aprobar(id, uid, para_admin=True, hora=hora, origen=origen)
         if motivo:
             return motivo, None
@@ -316,7 +317,7 @@ class Panel:
         if p is None or p.formato == "video":
             return None
         for f in p.archivos:
-            if Path(f).is_file():
+            if Path(f).is_file() and Path(f).suffix.lower() == ".jpg":     # una historia de vídeo no tiene portada en foto (4-nov-2026)
                 return Path(f)
         return None
 
@@ -815,7 +816,7 @@ class Panel:
             elif ahora.hour >= HORA_RESUMEN + 1:
                 self._una_vez(f"resumen:{hoy}")                 # nada que contar hoy: no se vuelve a mirar
         if ahora.hour >= HORA_COLA and self.hub.meta_leer(f"panel:push:cola:{hoy}") is None:
-            prog = sorted([i.programada for i in items if i.estado in ("aprobada", "publicando") and i.programada])
+            prog = sorted([i.programada for i in items if i.estado in ("aprobada", "publicando") and i.programada and i.formato != "historia"])
             pend = [i for i in items if i.estado == "pendiente"]
             hasta = prog[-1] if prog else None
             dias = max(0, (hasta.date() - ahora.date()).days + 1) if hasta else 0
@@ -894,7 +895,7 @@ class Panel:
                     d.rectangle((x0, hueco, x0 + w, hueco + h), fill=(40, 40, 40))
             else:
                 d.rectangle((x0, hueco, x0 + w, hueco + h), fill=(40, 40, 40))
-            etiqueta = f"{T.hora(x['hora'])}" + ("  REEL" if x.get("reel") else "")
+            etiqueta = f"{T.hora(x['hora'])}" + ("  REEL" if x.get("reel") else "  HISTORIA" if x.get("historia") else "")
             try:
                 ancho_txt = int(d.textlength(etiqueta, font=letra))
             except Exception:                                  # noqa: BLE001 (una fuente sin textlength: se calcula a ojo)
@@ -911,7 +912,8 @@ class Panel:
         if not sale:
             self._una_vez(f"noche:{hoy}")
             return
-        salidas = [{"id": i.id, "hora": i.programada, "titulo": i.titulo, "reel": i.formato == "video"} for i in sale]
+        salidas = [{"id": i.id, "hora": i.programada, "titulo": i.titulo, "reel": i.formato == "video", "historia": i.formato == "historia"}
+                   for i in sale]
         texto, botones = T.resumen_noche(manana, salidas)
         import tempfile
         imagen = self._montaje(salidas, Path(tempfile.gettempdir()) / f"vivax_noche_{manana.isoformat()}.jpg")
@@ -949,6 +951,8 @@ class Panel:
         enviados_hoy = int(self.hub.meta_leer(f"panel:cm:dia:{hoy}") or 0)
         for it in items:
             if it.estado != "publicada" or not it.publicada or ahora - it.publicada > timedelta(hours=72):
+                continue
+            if it.formato == "historia":                     # una historia no tiene comentarios que leer por la API (4-nov-2026)
                 continue
             fila = ad.fila(it.id)
             media = fila["ig_media_id"] if fila is not None else None

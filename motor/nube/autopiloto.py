@@ -10,6 +10,11 @@ días. Lo que NO programa nunca:
   · piezas cuyos hechos de riesgo alto no están validados (`aprobar` ya lo comprueba con su candado y devuelve el motivo).
 Qué deja: una línea de auditoría `aprobada_hora` con origen `nube:autopiloto`, y nada más (el resumen de la noche cuenta a José qué sale mañana
 y puede parar cualquier pieza hasta 30 minutos antes con «Quitar de la cola»).
+
+Historias (4-nov-2026). Las piezas de formato «historia» tienen su tipo de hueco, «historia», en una lista APARTE de la pauta del feed
+(`pauta_historias` en nube/cuentas.nube.json: [[«HH:MM», «historia»], ...]; también vale un hueco «historia» dentro de `pauta`). Las dos
+familias no se ven: una historia no ocupa ni separa un hueco del feed, ni al revés. Entre historias basta con no coincidir en el mismo hueco
+(SEPARACION_HISTORIAS_MIN); la fecha mínima del plan, el margen de 30 minutos y el horizonte son los mismos (nube/HISTORIAS.md).
 """
 from __future__ import annotations
 
@@ -21,13 +26,18 @@ MADRID = ZoneInfo("Europe/Madrid")
 HORIZONTE_DIAS = 21              # no se programa más allá: así la cola nunca se queda con piezas viejas por delante de otras nuevas
 MARGEN_MIN = 30                  # una hora tiene que quedar al menos 30 minutos por delante (José puede parar la pieza hasta entonces)
 SEPARACION_MIN = 45              # dos piezas no salen a menos de 45 minutos
+SEPARACION_HISTORIAS_MIN = 5     # dos historias no salen en el mismo hueco (con el feed no cuentan: es otra familia)
 TOPE_POR_PASADA = 80
+TIPOS = ("reel", "carrusel", "imagen", "historia")
 
 
 def _tipo(formato: str) -> str:
-    """Tipo de hueco de la pauta: «reel», «imagen» (publicación de una sola imagen, formato «unica») o «carrusel» (4-nov-2026: 6 al día)."""
+    """Tipo de hueco de la pauta: «reel», «imagen» (publicación de una sola imagen, formato «unica») o «carrusel» (4-nov-2026: 6 al día),
+    e «historia» (formato «historia», 4-nov-2026: sus huecos van aparte, en `pauta_historias`)."""
     if formato == "video":
         return "reel"
+    if formato == "historia":
+        return "historia"
     return "imagen" if formato == "unica" else "carrusel"
 
 
@@ -37,17 +47,19 @@ def _pauta(valor) -> list[tuple[str, str]]:
         try:
             hhmm, tipo = x
             hh, mm = (int(p) for p in str(hhmm).split(":"))
-            if 0 <= hh < 24 and 0 <= mm < 60 and tipo in ("reel", "carrusel", "imagen"):
+            if 0 <= hh < 24 and 0 <= mm < 60 and tipo in TIPOS:
                 sal.append((f"{hh:02d}:{mm:02d}", tipo))
         except (TypeError, ValueError):
             continue
     return sorted(sal)
 
 
-def programar(ad, hub, pauta, log=print, ahora: datetime | None = None, horizonte_dias: int = HORIZONTE_DIAS) -> list[str]:
+def programar(ad, hub, pauta, log=print, ahora: datetime | None = None, horizonte_dias: int = HORIZONTE_DIAS,
+              pauta_historias=None) -> list[str]:
     """Aprueba las piezas pendientes marcadas con `produccion.autoaprobar`, cada una en el primer hueco libre de la pauta que sea de su tipo.
-    Devuelve los ids de las piezas programadas. Nunca lanza: un fallo se cuenta en el log y se reintenta en la pasada siguiente."""
-    huecos = _pauta(pauta)
+    Devuelve los ids de las piezas programadas. Nunca lanza: un fallo se cuenta en el log y se reintenta en la pasada siguiente.
+    `pauta_historias`: los huecos de las historias (de ahí solo se toman los de tipo «historia»); sin ella, las historias no se programan."""
+    huecos = sorted(_pauta(pauta) + [h for h in _pauta(pauta_historias) if h[1] == "historia"])
     if not huecos:
         return []
     admin = hub.admin_id()
@@ -66,13 +78,16 @@ def programar(ad, hub, pauta, log=print, ahora: datetime | None = None, horizont
     if not candidatas:
         return []
     candidatas.sort()
-    ocupadas = [datetime.fromisoformat(r["programada"]).astimezone(timezone.utc) for r in ad.db.execute(
-        "SELECT programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando')")]
+    # (hora, ¿historia?): cada familia solo mira la suya (4-nov-2026). Sin historias en la cola, son todas las de siempre.
+    ocupadas = [(datetime.fromisoformat(r["programada"]).astimezone(timezone.utc), r["formato"] == "historia") for r in ad.db.execute(
+        "SELECT programada, formato FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando')")]
     desde = ahora + timedelta(minutes=MARGEN_MIN)
     dia0 = ahora.astimezone(MADRID).date()
     hechas: list[str] = []
     for fecha_plan, id_, pid, tipo in candidatas[:TOPE_POR_PASADA]:
         colocada = False
+        historia = tipo == "historia"
+        separacion = SEPARACION_HISTORIAS_MIN if historia else SEPARACION_MIN
         try:                                                       # `produccion.fecha` (AAAA-MM-DD) es el primer día en que puede salir
             d0 = max(0, (datetime.fromisoformat(fecha_plan[:10]).date() - dia0).days)
         except ValueError:
@@ -85,7 +100,7 @@ def programar(ad, hub, pauta, log=print, ahora: datetime | None = None, horizont
                 h, m = (int(x) for x in hhmm.split(":"))
                 t = datetime(dia.year, dia.month, dia.day, h, m, tzinfo=MADRID)
                 tu = t.astimezone(timezone.utc)
-                if tu < desde or any(abs((tu - o).total_seconds()) < SEPARACION_MIN * 60 for o in ocupadas):
+                if tu < desde or any(abs((tu - o).total_seconds()) < separacion * 60 for o, es_h in ocupadas if es_h == historia):
                     continue
                 try:
                     motivo = ad.aprobar(id_, hub.admin_id(), para_admin=True, hora=t, origen="nube:autopiloto")
@@ -95,7 +110,7 @@ def programar(ad, hub, pauta, log=print, ahora: datetime | None = None, horizont
                 if motivo:
                     log(f"autopiloto: {pid} no se programa: {str(motivo)[:100]}")
                 else:
-                    ocupadas.append(tu)
+                    ocupadas.append((tu, historia))
                     hechas.append(pid)
                     log(f"autopiloto: {pid} → {t:%a %d-%m %H:%M}")
                 colocada = True

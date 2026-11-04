@@ -17,7 +17,7 @@ class Pieza:
     id: int
     cuenta: str
     titulo: str
-    formato: str                    # carrusel | unica | video
+    formato: str                    # carrusel | unica | video | historia (4-nov-2026)
     estado: str                     # pendiente | aprobada | rechazada
     pie: str
     archivos: list[Path] = field(default_factory=list)

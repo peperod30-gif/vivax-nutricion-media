@@ -14,6 +14,10 @@ Candado de aprobación (`politica`, en cuentas.json):
   promesas de peso o de curación, pautas personales, testimonios falsos, descargo) siguen mandando: no dependen de este candado.
 
 El publicador (router/instagram.py) se inyecta desde fuera. Sin él, o con el modo en `desactivado`, lo aprobado espera en la cola.
+
+Historias (4-nov-2026, formato «historia»): UNA imagen (01.jpg) o UN vídeo (video.mp4) de 1080x1920, sin pie publicado ni comentario inicial.
+Tienen sus propios huecos (`horas_historias`) y no cuentan para el feed: una historia no ocupa un hueco del feed, no lo separa 90 minutos
+ni da el aviso «ojo» de dos piezas a menos de 45 minutos, ni con el feed ni con otra historia (nube/HISTORIAS.md).
 """
 from __future__ import annotations
 
@@ -34,6 +38,8 @@ from .base import Pieza
 RAIZ_MOTOR = Path(__file__).resolve().parents[2]
 MAX_PIE = 2200      # límite de Instagram para el pie
 SEPARACION_MIN = 90
+HORAS_HISTORIAS = ("09:30", "14:45", "20:00")    # 4-nov-2026: huecos de las historias si la cuenta no dice otros (en la nube, n1.pauta_historias)
+SEPARACION_HISTORIAS_MIN = 5                     # dos historias no salen en el mismo hueco; con el feed no cuentan
 MARGEN_HUECO_MIN = 20     # un hueco libre tiene que quedar al menos 20 min por delante (para poder cambiar de idea)
 TARDE_MAXIMA_H = 1        # una pieza no sale más de una hora tarde: pasada esa hora se le busca otro hueco
 TARDE_MANUAL_H = 3        # una hora que José puso a mano tiene tres horas de margen; si se pasan, se avisa con botón
@@ -183,11 +189,13 @@ class AdaptadorNutricion:
     programable = True          # el router ofrece «Programar», «Ahora», «Cambiar hora» y «Quitar de la cola» (ver router/nucleo.py)
 
     def __init__(self, cuenta: str, datos: Path, salida: Path | None = None, exigir_validacion: bool = True, politica: str | None = None,
-                 horas: list[str] | None = None, zona: str = "Europe/Madrid", ig: dict | None = None, publicador=None, ahora=None):
+                 horas: list[str] | None = None, zona: str = "Europe/Madrid", ig: dict | None = None, publicador=None, ahora=None,
+                 horas_historias: list[str] | None = None):
         self.cuenta = cuenta
         self.salida = salida or RAIZ_MOTOR / "salida"
         self.politica = politica or ("bajo" if exigir_validacion else "ninguna")
         self.horas = horas or ["08:00", "14:00", "21:00"]
+        self.horas_historias = list(horas_historias or HORAS_HISTORIAS)      # 4-nov-2026: los huecos de las historias, aparte de los del feed
         self.zona = ZoneInfo(zona)
         self.ig = ig or {}
         self.publicador = publicador
@@ -255,6 +263,10 @@ class AdaptadorNutricion:
         if formato == "video":
             v = carpeta / "video.mp4"
             return [v] if v.is_file() else []
+        if formato == "historia":                   # 4-nov-2026: un vídeo (video.mp4) o una imagen (01.jpg); los controles no dejan las dos
+            v = carpeta / "video.mp4"
+            if v.is_file():
+                return [v]
         return sorted(carpeta.glob("[0-9][0-9].jpg"))
 
     def _json_de(self, r: sqlite3.Row) -> dict:
@@ -353,7 +365,8 @@ class AdaptadorNutricion:
             return motivo
         if hora is not None and hora.astimezone(timezone.utc) <= self.ahora().astimezone(timezone.utc):
             return "Esa hora ya ha pasado."
-        iso = self.siguiente_hueco() if hora is None else hora.astimezone(self.zona).isoformat(timespec="seconds")
+        iso = (self.siguiente_hueco(historia=r["formato"] == "historia") if hora is None      # una historia, a un hueco de historias
+               else hora.astimezone(self.zona).isoformat(timespec="seconds"))
         ig = _estado_ig(r)
         _descartar_contenedor_no_enviado(ig)        # una pieza que vuelve a aprobarse tras quitarla: su contenedor (de antes) no vale
         with self.db.transaccion() as c:
@@ -574,41 +587,63 @@ class AdaptadorNutricion:
         return None
 
     # ------------------------------------------------------------------ horas de salida
-    def siguiente_hueco(self, desde: datetime | None = None) -> str:
+    def _es_historia(self, id: int | None) -> bool:
+        """¿Es una historia la pieza `id`? (4-nov-2026: las historias tienen sus propios huecos y no cuentan para el feed.)"""
+        if id is None:
+            return False
+        r = self.db.execute("SELECT formato FROM piezas WHERE id=?", (id,)).fetchone()
+        return r is not None and r["formato"] == "historia"
+
+    def _horas_de(self, formato: str) -> list[str]:
+        return self.horas_historias if formato == "historia" else self.horas
+
+    def _ocupadas(self, historia: bool, excluir: int | None = None) -> list[datetime]:
+        """Las horas de las piezas aprobadas o publicándose de la misma familia (salvo `excluir`): las historias con las historias y el feed
+        con el feed. Sin historias en la cola, son todas las de siempre."""
+        return [datetime.fromisoformat(r["programada"]) for r in self.db.execute(
+            "SELECT programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando') AND id<>? "
+            "AND (formato='historia')=?", (excluir or -1, 1 if historia else 0))]
+
+    def siguiente_hueco(self, desde: datetime | None = None, historia: bool = False) -> str:
         """La primera hora de salida libre: uno de los huecos del día, separada de las demás y con margen para poder cambiar de idea.
-        Las comparaciones se hacen en UTC: dentro de Madrid, Python ignora el desfase al comparar (cambio de hora de octubre)."""
+        Las comparaciones se hacen en UTC: dentro de Madrid, Python ignora el desfase al comparar (cambio de hora de octubre).
+        Con `historia` (4-nov-2026): uno de los huecos de las historias, y solo cuentan las otras historias (a SEPARACION_HISTORIAS_MIN)."""
         desde_utc = (desde or self.ahora()).astimezone(timezone.utc) + timedelta(minutes=MARGEN_HUECO_MIN)
-        ocupadas = [datetime.fromisoformat(r["programada"]) for r in self.db.execute(
-            "SELECT programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando')")]
+        ocupadas = self._ocupadas(historia)
+        horas = self.horas_historias if historia else self.horas
+        separacion = SEPARACION_HISTORIAS_MIN if historia else SEPARACION_MIN
         dia0 = desde_utc.astimezone(self.zona).date()
         for d in range(0, 120):
             dia = dia0 + timedelta(days=d)
-            for hhmm in self.horas:
+            for hhmm in horas:
                 h, m = (int(x) for x in hhmm.split(":"))
                 t = datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
                 if t.astimezone(timezone.utc) < desde_utc:
                     continue
-                if any(abs((t.astimezone(timezone.utc) - o.astimezone(timezone.utc)).total_seconds()) < SEPARACION_MIN * 60 for o in ocupadas):
+                if any(abs((t.astimezone(timezone.utc) - o.astimezone(timezone.utc)).total_seconds()) < separacion * 60 for o in ocupadas):
                     continue
                 return t.isoformat(timespec="seconds")
         raise RuntimeError("No hay hueco libre en los próximos 120 días")
 
     def huecos_libres(self, ahora: datetime, dias: int = 2, excluir: int | None = None) -> list[datetime]:
         """Los huecos de la cuenta (08:00, 14:00, 21:00) de hoy y mañana que están libres: a 90 min o más de cualquier otra pieza aprobada
-        o publicándose (salvo `excluir`, la propia pieza), y con el margen de 20 min. Son horas de Madrid con zona."""
+        o publicándose (salvo `excluir`, la propia pieza), y con el margen de 20 min. Son horas de Madrid con zona. Si `excluir` es una
+        historia, los huecos son los de las historias y solo cuentan las otras historias (4-nov-2026)."""
+        historia = self._es_historia(excluir)
         desde_utc = ahora.astimezone(timezone.utc) + timedelta(minutes=MARGEN_HUECO_MIN)
-        ocupadas = [datetime.fromisoformat(r["programada"]) for r in self.db.execute(
-            "SELECT programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando') AND id<>?", (excluir or -1,))]
+        ocupadas = self._ocupadas(historia, excluir)
+        horas = self.horas_historias if historia else self.horas
+        separacion = SEPARACION_HISTORIAS_MIN if historia else SEPARACION_MIN
         hoy = ahora.astimezone(self.zona).date()
         libres: list[datetime] = []
         for d in range(dias):
             dia = hoy + timedelta(days=d)
-            for hhmm in self.horas:
+            for hhmm in horas:
                 h, m = (int(x) for x in hhmm.split(":"))
                 t = datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
                 if t.astimezone(timezone.utc) < desde_utc:
                     continue
-                if any(abs((t.astimezone(timezone.utc) - o.astimezone(timezone.utc)).total_seconds()) < SEPARACION_MIN * 60 for o in ocupadas):
+                if any(abs((t.astimezone(timezone.utc) - o.astimezone(timezone.utc)).total_seconds()) < separacion * 60 for o in ocupadas):
                     continue
                 libres.append(t)
         return libres
@@ -625,9 +660,10 @@ class AdaptadorNutricion:
             hueco = int(prod.get("hueco"))
         except (OSError, ValueError, TypeError, AttributeError):
             return None
-        if not 1 <= hueco <= len(self.horas):
+        horas = self._horas_de(r["formato"])                # una historia cuenta sus huecos entre los de las historias
+        if not 1 <= hueco <= len(horas):
             return None
-        h, m = (int(x) for x in self.horas[hueco - 1].split(":"))
+        h, m = (int(x) for x in horas[hueco - 1].split(":"))
         t = datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
         return t if t.astimezone(timezone.utc) > ahora.astimezone(timezone.utc) + timedelta(minutes=2) else None
 
@@ -645,18 +681,21 @@ class AdaptadorNutricion:
                 h, m = (int(x) for x in hh.split(":"))
             else:
                 hueco = int(prod.get("hueco"))
-                if not 1 <= hueco <= len(self.horas):
+                horas = self._horas_de(r["formato"])
+                if not 1 <= hueco <= len(horas):
                     return None
-                h, m = (int(x) for x in self.horas[hueco - 1].split(":"))
+                h, m = (int(x) for x in horas[hueco - 1].split(":"))
         except (OSError, ValueError, TypeError, AttributeError):
             return None
         return datetime(dia.year, dia.month, dia.day, h, m, tzinfo=self.zona)
 
-    def hora_ocupada(self, hora: datetime, margen_min: int = 5) -> bool:
-        """¿Hay ya una pieza aprobada o publicándose a menos de `margen_min` minutos de esa hora? (El panel no programa dos piezas a la vez.)"""
+    def hora_ocupada(self, hora: datetime, margen_min: int = 5, excluir: int | None = None) -> bool:
+        """¿Hay ya una pieza aprobada o publicándose a menos de `margen_min` minutos de esa hora? (El panel no programa dos piezas a la vez.)
+        Solo cuentan las de la misma familia que `excluir` (la pieza que se programa): una historia no ocupa la hora de una publicación del
+        feed ni al revés (4-nov-2026)."""
         h = hora.astimezone(timezone.utc)
-        for r in self.db.execute("SELECT programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando')"):
-            if abs((datetime.fromisoformat(r["programada"]).astimezone(timezone.utc) - h).total_seconds()) < margen_min * 60:
+        for o in self._ocupadas(self._es_historia(excluir), excluir):
+            if abs((o.astimezone(timezone.utc) - h).total_seconds()) < margen_min * 60:
                 return True
         return False
 
@@ -684,7 +723,8 @@ class AdaptadorNutricion:
             return motivo
         if hora is not None and hora.astimezone(timezone.utc) <= self.ahora().astimezone(timezone.utc):
             return "Esa hora ya ha pasado."
-        iso = self.siguiente_hueco() if hora is None else hora.astimezone(self.zona).isoformat(timespec="seconds")
+        iso = (self.siguiente_hueco(historia=r["formato"] == "historia") if hora is None
+               else hora.astimezone(self.zona).isoformat(timespec="seconds"))
         _descartar_contenedor_no_enviado(ig)
         with self.db.transaccion() as c:
             cur = c.execute("UPDATE piezas SET estado='aprobada', programada=?, programada_manual=?, proximo_intento=NULL, simulada=NULL, intentos=0, "
@@ -707,11 +747,14 @@ class AdaptadorNutricion:
         return None
 
     def choques(self, id: int, instante: datetime, minutos: int = 45) -> list[tuple[int, datetime]]:
-        """Otras piezas de la cola (aprobadas o publicándose) a menos de `minutos` de esa hora, antes o después. Para el aviso «ojo»."""
+        """Otras piezas de la cola (aprobadas o publicándose) a menos de `minutos` de esa hora, antes o después. Para el aviso «ojo».
+        Las historias no cuentan (4-nov-2026): una historia no choca con nada y una publicación del feed solo choca con el feed."""
+        if self._es_historia(id):
+            return []
         ref = instante.astimezone(timezone.utc)
         out = []
         for r in self.db.execute("SELECT id, programada FROM piezas WHERE programada IS NOT NULL AND estado IN ('aprobada','publicando') "
-                                 "AND id<>?", (id,)).fetchall():
+                                 "AND id<>? AND formato<>'historia'", (id,)).fetchall():
             t = datetime.fromisoformat(r["programada"])
             if abs((t.astimezone(timezone.utc) - ref).total_seconds()) < minutos * 60:
                 out.append((r["id"], t))
@@ -757,8 +800,9 @@ class AdaptadorNutricion:
         """Una pieza aprobada que pasó su margen sin salir se pasa al siguiente hueco libre. Con su línea de auditoría y su aviso con
         «⏰ Cambiar hora», en la misma transacción que el cambio: o quedan los dos o ninguno, y el aviso lo entrega el router con reintentos
         (igual para una hora automática que para una que José puso a mano). Una hora de José conserva su marca («a mano»), así que su
-        segundo retraso tiene el mismo margen de tres horas. Solo se mueve si la hora sigue siendo la que se leyó."""
-        nuevo = self.siguiente_hueco(ahora)
+        segundo retraso tiene el mismo margen de tres horas. Solo se mueve si la hora sigue siendo la que se leyó. Una historia va al siguiente
+        hueco de historias."""
+        nuevo = self.siguiente_hueco(ahora, historia=r["formato"] == "historia")
         texto = self._texto_retraso(r, nuevo)
         botones = [[("⏰ Cambiar hora", f"{self.cuenta}:ch:{r['id']}")]]
         if self.estilo_panel:
@@ -914,7 +958,8 @@ class AdaptadorNutricion:
                 self._encolar(c, aviso_publicada(r["titulo"], res.permalink, int(retraso.total_seconds() // 60)))
             else:
                 self._encolar(c, texto_publicada(r["id"], self.cuenta, r["titulo"], res.permalink, retraso))
-        self._comentar_inicial(pieza, res)
+        if r["formato"] != "historia":                      # una historia no admite comentarios (4-nov-2026)
+            self._comentar_inicial(pieza, res)
         return []
 
     def _comentar_inicial(self, pieza: dict, res) -> None:
@@ -930,7 +975,13 @@ class AdaptadorNutricion:
 
     def _fallo(self, r: sqlite3.Row, exc, ahora: datetime) -> list[str]:
         n = r["intentos"] + 1
-        if getattr(exc, "bloquea", False):
+        bloquea = getattr(exc, "bloquea", False)
+        if bloquea and r["formato"] == "historia" and getattr(exc, "clase", "") == "permiso":
+            # 4-nov-2026 (revisión): un «permiso» en una historia puede ser solo de las historias (la cuenta o la app no puede publicarlas);
+            # no para la cola entera 6 horas: la historia pasa a error y el feed sigue. Si el permiso falta de verdad, la siguiente pieza del
+            # feed falla igual y para la cola ella misma. token, cuenta y alojamiento siguen parando: son de toda la cuenta.
+            bloquea = False
+        if bloquea:
             hasta = (ahora.astimezone(timezone.utc) + timedelta(hours=HORAS_BLOQUEO)).isoformat(timespec="seconds")
             with self.db.transaccion() as c:                # el bloqueo, la pieza y su aviso: todo o nada
                 c.execute("INSERT INTO ajustes(k, v) VALUES('bloqueo', ?) ON CONFLICT(k) DO UPDATE SET v=excluded.v",

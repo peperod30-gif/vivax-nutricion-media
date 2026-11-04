@@ -452,11 +452,12 @@ def aviso_resumen_hoy(salidas: list[tuple[datetime, str]]) -> tuple[str, list]:
 
 def resumen_noche(manana: date, salidas: list[dict]) -> tuple[str, list]:
     """El único mensaje que José recibe cada noche (20-oct-2026): qué sale mañana, con una imagen resumen. Si no toca nada, sale así.
-    salidas: lista de {id, hora (datetime), titulo, reel (bool)} ordenada por hora."""
+    salidas: lista de {id, hora (datetime), titulo, reel (bool), historia (bool, 4-nov-2026)} ordenada por hora."""
     n = len(salidas)
     L = [f"🌙 Mañana, {dia_de(manana)}: {plural(n, 'publicación', 'publicaciones')}"]
     for x in salidas:
-        L.append(f"· {hora(x['hora'])} {'Reel' if x.get('reel') else 'Carrusel'} · {corto(x['titulo'], 52)}")
+        tipo = "Reel" if x.get("reel") else "Historia" if x.get("historia") else "Carrusel"
+        L.append(f"· {hora(x['hora'])} {tipo} · {corto(x['titulo'], 52)}")
     L += ["", "Si no tocas nada, sale así."]
     b = [[("👍 Todo bien", f"pn:nd:ok:{manana.isoformat()}")]]
     fila = [(f"✏️ {hora(x['hora'])}", f"pn:f:{x['id']}:a") for x in salidas[:4]]

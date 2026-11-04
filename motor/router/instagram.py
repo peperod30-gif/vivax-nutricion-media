@@ -26,6 +26,11 @@ de urllib3. Los errores de red se registran solo por el nombre de su tipo, sin e
 
 Alojamiento de las imágenes en GitHub: con `token` (GITHUB_TOKEN en router/.env) o con `auth: gh`, que usa la sesión
 que ya tiene guardada la CLI `gh` del equipo y no guarda ningún token (ver «GitHub con la sesión de la CLI gh»).
+
+Historias (4-nov-2026): formato «historia», UNA imagen JPEG de 1080x1920 o UN vídeo MP4 de 1080x1920 (H.264, de 3 a 60 s, audio AAC),
+con media_type=STORIES. No llevan pie, texto alternativo ni share_to_feed (la API no los admite): el pie que pase quien llama se descarta.
+Una historia no sale en /media sino en /stories, y la recuperación tras una caída la busca allí por la hora (ver `_buscar_historia`).
+Las destacadas y los stickers (enlace, encuesta, ubicación) no se pueden publicar por la API: se hacen a mano en la app (nube/HISTORIAS.md).
 """
 from __future__ import annotations
 
@@ -64,6 +69,9 @@ MAX_PIE, MAX_HASHTAGS, MAX_MENCIONES = 2200, 5, 20          # Instagram limita a
 MAX_HOJAS, MAX_ALT = 10, 1000
 VIDEO_ANCHO, VIDEO_ALTO = 1080, 1920      # 9:16 con 1080 de ancho
 VIDEO_DURACION = (3, 90)                  # segundos
+HISTORIA = "historia"                     # 4-nov-2026: historia de 24 h (media_type=STORIES), una imagen o un vídeo, sin pie
+HISTORIA_ANCHO, HISTORIA_ALTO = 1080, 1920
+HISTORIA_DURACION = (3, 60)               # segundos (Meta: un vídeo de historia dura de 3 a 60 s)
 ESPERAS_S = (2, 10, 30)                   # tres reintentos con esperas crecientes
 ESPERA_DUDA_S = 20                        # antes de volver a mirar un envío que no ha contestado
 VENTANA_REENVIO_S = 300                   # un envío reciente no se repite hasta pasado este tiempo
@@ -439,6 +447,64 @@ def validar_video(ruta: Path, sondear) -> None:
         raise ErrorInstagram("video_invalido", f"{ruta.name} no es un contenedor MP4.")
 
 
+def comprobar_historia(ruta, sondear=None) -> str:
+    """El fichero de una historia (4-nov-2026), antes de subirlo. Devuelve «jpeg» o «mp4».
+
+    Imagen: JPEG normal (sin MPO) de 1080x1920 y hasta 8 MiB. Vídeo: MP4 H.264 de 1080x1920, de 3 a 60 s, con el audio (si lo trae) en AAC
+    y hasta 100 MiB. Va aparte de `comprobar_archivo` y `validar_video` a propósito: el 9:16 de una imagen no vale en el feed, y las
+    reglas de las publicaciones y de los Reels no cambian.
+    """
+    real = comprobar_archivo(ruta)                 # existe, es JPEG o MP4 (por su cabecera) y no pasa de su peso
+    ruta = Path(ruta)
+    if real == "jpeg":
+        _comprobar_jpeg_historia(ruta)
+    else:
+        _comprobar_video_historia(ruta, sondear or _sondear_video)
+    return real
+
+
+def _comprobar_jpeg_historia(ruta: Path) -> None:
+    with open(ruta, "rb") as f:
+        cabecera = f.read(4096)
+    if b"MPF\x00" in cabecera:
+        raise ErrorInstagram("imagen_invalida", f"{ruta.name} es un JPEG extendido (MPO). Instagram solo admite JPEG "
+                                                "normal: guárdala de nuevo como JPEG.")
+    try:
+        from PIL import Image
+    except ImportError:
+        return                      # sin Pillow no se puede mirar el tamaño; los controles de la pieza ya lo miraron
+    try:
+        with Image.open(ruta) as im:
+            ancho, alto = im.size
+            formato = im.format
+    except Exception:
+        raise ErrorInstagram("imagen_invalida", f"No puedo leer {ruta.name}: el fichero está dañado.") from None
+    if formato != "JPEG":
+        raise ErrorInstagram("imagen_invalida", f"{ruta.name} es {formato}, no JPEG.")
+    if (ancho, alto) != (HISTORIA_ANCHO, HISTORIA_ALTO):
+        raise ErrorInstagram("imagen_invalida", f"{ruta.name} mide {ancho}x{alto}: una historia tiene que medir "
+                                                f"{HISTORIA_ANCHO}x{HISTORIA_ALTO} (9:16).")
+
+
+def _comprobar_video_historia(ruta: Path, sondear) -> None:
+    """Reglas de un vídeo de historia que se pueden mirar en local. `sondear` es el mismo que el de los Reels (`_sondear_video`)."""
+    datos = sondear(ruta)
+    if datos["codec"] != "h264":
+        raise ErrorInstagram("video_invalido", f"{ruta.name} usa {datos['codec']}; Instagram exige H.264.")
+    if (datos["ancho"], datos["alto"]) != (HISTORIA_ANCHO, HISTORIA_ALTO):
+        raise ErrorInstagram("video_invalido", f"{ruta.name} mide {datos['ancho']}x{datos['alto']}; una historia tiene que medir "
+                                               f"{HISTORIA_ANCHO}x{HISTORIA_ALTO} (9:16).")
+    minimo, maximo = HISTORIA_DURACION
+    if not minimo <= datos["duracion"] <= maximo:
+        raise ErrorInstagram("video_invalido", f"{ruta.name} dura {datos['duracion']:.1f} s; una historia dura entre "
+                                               f"{minimo} y {maximo} s.")
+    if "mp4" not in datos["contenedor"]:
+        raise ErrorInstagram("video_invalido", f"{ruta.name} no es un contenedor MP4.")
+    audio = datos.get("audio")
+    if audio is not None and audio != "aac":
+        raise ErrorInstagram("video_invalido", f"{ruta.name} lleva el audio en {audio}; Instagram exige AAC.")
+
+
 def _ffmpeg() -> str | None:
     try:
         import imageio_ffmpeg
@@ -462,12 +528,14 @@ def _sondear_video(ruta: Path) -> dict:
     video = re.search(r"Stream #\d+:\d+[^\n]*?Video: (\w+)[^\n]*?, (\d{2,5})x(\d{2,5})", texto)
     duracion = re.search(r"Duration: (\d+):(\d{2}):(\d{2}(?:\.\d+)?)", texto)
     contenedor = re.search(r"Input #0, ([^\n]+?) from ", texto)
+    audio = re.search(r"Stream #\d+:\d+[^\n]*?Audio: (\w+)", texto)      # 4-nov-2026: lo miran las historias (AAC); None si no trae audio
     if not (video and duracion and contenedor):
         raise ErrorInstagram("video_invalido", f"No consigo leer {ruta.name}: ¿está completo el fichero?")
     horas, minutos, segundos = duracion.groups()
     return {"contenedor": contenedor.group(1), "codec": video.group(1).lower(),
             "ancho": int(video.group(2)), "alto": int(video.group(3)),
-            "duracion": int(horas) * 3600 + int(minutos) * 60 + float(segundos)}
+            "duracion": int(horas) * 3600 + int(minutos) * 60 + float(segundos),
+            "audio": audio.group(1).lower() if audio else None}
 
 
 def _comprobar_pie(pie: str) -> None:
@@ -1008,7 +1076,8 @@ class Publicador:
                  alt=None) -> Resultado:
         """Publica una pieza y devuelve su `Resultado`. Lanza `ErrorInstagram` si no sale.
 
-        - `formato`: «unica» (1 JPEG), «carrusel» (de 2 a 10 JPEG) o «video» (1 MP4 de Reels).
+        - `formato`: «unica» (1 JPEG), «carrusel» (de 2 a 10 JPEG), «video» (1 MP4 de Reels) o «historia» (1 JPEG o 1 MP4 de
+          1080x1920; sin pie ni texto alternativo: los que se pasen se descartan).
         - `estado`: dict de quien llama, que lo guarda en su base de datos. Se modifica in situ. Tras un error,
           pásalo tal cual en la siguiente llamada para retomar. Para una publicación nueva, `{}`.
         - `guardar(estado)`: se llama con cada avance. Si lanza, `publicar` se detiene antes de publicar.
@@ -1024,8 +1093,9 @@ class Publicador:
             raise ErrorInstagram("desactivado", _TEXTOS["desactivado"])
         if modo == "real" and estado.get("fase") == "publicado" and estado.get("media_id"):
             return Resultado(str(estado["media_id"]), estado.get("permalink"), recuperada=True)
-        pie = pie or ""
+        pie = "" if formato == HISTORIA else (pie or "")    # una historia no lleva pie: el de la pieza es una descripción interna
         rutas, alts = self._validar(formato, archivos, pie, alt)
+        medio = comprobar_archivo(rutas[0]) if formato == HISTORIA else None      # «jpeg» o «mp4»: image_url o video_url
         if modo == "simulacion":
             return Resultado("simulado", None, False)
         self._exigir_token()
@@ -1039,7 +1109,7 @@ class Publicador:
         else:
             self._controlar_cuota()
         urls = self._alojar(rutas, formato, estado, guardar)
-        cid = self._crear_contenedor(formato, urls, pie, alts, bool(ia), estado, guardar)
+        cid = self._crear_contenedor(formato, urls, pie, alts, bool(ia), estado, guardar, medio=medio)
         return self._publicar_y_cerrar(cid, formato, pie, estado, guardar, recuperada=False)
 
     def comentar(self, media_id: str, texto: str) -> str | None:
@@ -1093,8 +1163,10 @@ class Publicador:
         return str(datos.get("id") or "") or None
 
     def _validar(self, formato, archivos, pie: str, alt):
+        if formato == HISTORIA:
+            return self._validar_historia(archivos), []    # sin texto alternativo: la API no lo admite en historias
         if formato not in FORMATOS:
-            raise ErrorInstagram("formato", f"Formato {formato!r} no válido. Usa «unica», «carrusel» o «video».")
+            raise ErrorInstagram("formato", f"Formato {formato!r} no válido. Usa «unica», «carrusel», «video» o «historia».")
         rutas = [Path(a) for a in archivos]
         if formato == "carrusel":
             if not 2 <= len(rutas) <= MAX_HOJAS:
@@ -1116,6 +1188,23 @@ class Publicador:
                                                         "de tipo «carpeta» (un servidor propio) o un vídeo más ligero.")
         alts = [] if formato == "video" else _alts(alt, len(rutas))
         return rutas, alts
+
+    def _validar_historia(self, archivos) -> list[Path]:
+        """Una historia: un solo fichero, imagen o vídeo de 1080x1920 (ver `comprobar_historia`). Un vídeo alojado en GitHub tiene el
+        mismo tope que un Reel (jsDelivr no sirve más de 20 MB). El pie no se mira: no se publica."""
+        rutas = [Path(a) for a in archivos]
+        if len(rutas) != 1:
+            raise ErrorInstagram("formato", f"Una historia lleva exactamente un fichero (una imagen o un vídeo); hay {len(rutas)}.")
+        real = comprobar_historia(rutas[0], self._sondear)
+        if real == "mp4" and str(self.cfg.alojamiento.get("tipo") or "").strip().lower() == "github":
+            tamano = _tamano(rutas[0])
+            if tamano > MAX_VIDEO_GITHUB:
+                peso, limite = (f"{n:,}".replace(",", ".") for n in (tamano, MAX_VIDEO_GITHUB))
+                raise ErrorInstagram("pieza_rechazada", f"{rutas[0].name} pesa {peso} bytes. jsDelivr, que sirve los vídeos de "
+                                                        f"GitHub, no sirve por defecto los ficheros de más de {limite} bytes "
+                                                        "(20 MB): con este alojamiento la historia no puede salir. Usa un vídeo más "
+                                                        "ligero o un alojamiento de tipo «carpeta».")
+        return rutas
 
     def _retomar(self, formato: str, estado: dict, guardar, pie: str) -> Resultado | None:
         """Retoma un contenedor de un intento anterior. None si está caducado o fallido: hay que empezar de cero."""
@@ -1186,7 +1275,8 @@ class Publicador:
         return urls
 
     def _crear_contenedor(self, formato: str, urls: list[str], pie: str, alts: list, ia: bool, estado: dict,
-                          guardar) -> str:
+                          guardar, medio: str | None = None) -> str:
+        """`medio` solo cuenta en una historia: «mp4» va como video_url y «jpeg» como image_url."""
         uid = self.cred.user_id
         if formato == "carrusel":
             hijos = []
@@ -1202,6 +1292,9 @@ class Publicador:
             cuerpo = {"media_type": "CAROUSEL", "children": ",".join(hijos), "caption": pie}
         elif formato == "video":
             cuerpo = {"media_type": "REELS", "video_url": urls[0], "caption": pie, "share_to_feed": True}
+        elif formato == HISTORIA:
+            # sin caption, alt_text ni share_to_feed: la API no los admite en las historias (referencia de POST /{ig-user-id}/media)
+            cuerpo = {"media_type": "STORIES", ("video_url" if medio == "mp4" else "image_url"): urls[0]}
         else:
             cuerpo = {"image_url": urls[0], "caption": pie}
             if alts[0]:
@@ -1262,7 +1355,10 @@ class Publicador:
     def _cerrar(self, media_id: str | None, pie: str, estado: dict, guardar, recuperada: bool) -> Resultado:
         permalink = None
         if media_id is None:
-            media = self._buscar_media(pie, _fecha(estado.get("creada_en")))
+            if estado.get("formato") == HISTORIA:          # una historia no tiene pie ni sale en /media
+                media = self._buscar_historia(_fecha(estado.get("creada_en")))
+            else:
+                media = self._buscar_media(pie, _fecha(estado.get("creada_en")))
             media_id = str(media.get("id") or "desconocido")
             permalink = media.get("permalink") or None
             recuperada = True
@@ -1296,6 +1392,26 @@ class Publicador:
             return item
         return {}
 
+    def _buscar_historia(self, desde: datetime | None) -> dict:
+        """Una historia recuperada (4-nov-2026): sin pie que comparar, se busca en /stories (las de las últimas 24 horas) la ÚNICA
+        posterior a `desde`. Si no hay ninguna, hay varias o no se sabe desde cuándo, {}: queda «desconocido», que es mejor que el
+        enlace de otra historia."""
+        if desde is None:
+            return {}
+        try:
+            datos = self._llamar("GET", f"{self.cred.user_id}/stories", params={"fields": "id,permalink,timestamp"})
+        except ErrorInstagram as e:
+            log.warning("No pude buscar la historia recuperada (%s).", e.clase)
+            return {}
+        candidatas = []
+        for item in datos.get("data") or []:
+            if not isinstance(item, dict) or not item.get("id"):
+                continue
+            marca = _fecha(item.get("timestamp"))
+            if marca is not None and marca >= desde - timedelta(minutes=10):
+                candidatas.append(item)
+        return candidatas[0] if len(candidatas) == 1 else {}
+
     def _permalink(self, media_id: str) -> str | None:
         try:
             enlace = self._llamar("GET", media_id, params={"fields": "permalink"}).get("permalink")
@@ -1321,9 +1437,11 @@ class Publicador:
 
     def _esperar(self, cid: str, formato: str) -> str:
         """Sondea el contenedor hasta FINISHED o PUBLISHED. El límite se mide sumando lo que se duerme, no con el reloj:
-        así el bucle termina también con un `dormir` que no espera."""
-        limite = self.cfg.espera_video_s if formato == "video" else self.cfg.espera_contenedor_s
-        paso, paso_max = (5.0, 30.0) if formato == "video" else (2.0, 15.0)
+        así el bucle termina también con un `dormir` que no espera. Una historia espera como un vídeo (lo sea o no): un vídeo de historia
+        tarda en procesarse como un Reel, y en una imagen solo cambia el ritmo del sondeo."""
+        lento = formato in ("video", HISTORIA)
+        limite = self.cfg.espera_video_s if lento else self.cfg.espera_contenedor_s
+        paso, paso_max = (5.0, 30.0) if lento else (2.0, 15.0)
         dormido = 0.0
         while True:
             codigo, texto = self._estado_contenedor(cid)

@@ -10,6 +10,9 @@ Siete controles. Los FALLOS bloquean el envío; los AVISOS se revisan a mano.
  5. Descargo y fuentes: la última hoja trae el aviso y cada hoja con cifras trae su fuente.
  6. Paleta: porcentaje de píxeles fuera del triángulo de los tres colores del tema (si hay imágenes).
  7. Densidad: palabras por hoja. José pidió poco texto y más impacto; cada plantilla tiene su tope.
+ 8. Historias (4-nov-2026, formato «historia»): sus textos dibujados («hojas») pasan los controles 2, 3, 4 y 7; el pie no se publica y no
+    se controla, ni el descargo (no hay pie donde ponerlo); el fichero es UNA imagen 01.jpg de 1080x1920 o UN video.mp4 de 1080x1920
+    (H.264, de 3 a 60 s, audio AAC) y pasa la paleta (6) siempre, sin paleta_libre (ver c_historia y nube/HISTORIAS.md).
 
 Un hecho del banco sigue «pendiente: dietista-nutricionista colegiado» mientras José no lo valide (/validar en el bot): la pieza
 sale como muestra y nunca se publica con esa marca. Un hecho que José ha marcado «no usar» es un FALLO si la pieza lo cita.
@@ -255,6 +258,13 @@ def textos_visibles(pieza: dict) -> list[tuple[str, str, str]]:
 # ---------------------------------------------------------------------------------------------- 1 estructura
 def c_estructura(pieza: dict, salida: list) -> None:
     n = len(pieza["hojas"])
+    if pieza.get("formato") == "historia":               # 4-nov-2026: una historia no publica pie: solo cuentan sus textos dibujados y sus hechos
+        if not 1 <= n <= HISTORIA_MAX_HOJAS:
+            salida.append((FALLO, "estructura", f"historia con {n} hojas de textos: tiene que haber de 1 a {HISTORIA_MAX_HOJAS} "
+                                                "(una por imagen o por escena del vídeo)"))
+        if not pieza.get("hechos"):
+            salida.append((FALLO, "estructura", "la pieza no cita ningún hecho del banco"))
+        return
     if pieza.get("formato") == "video":
         if not 3 <= n <= 8:
             salida.append((AVISO, "estructura", f"{n} escenas: lo previsto es de 3 a 8"))     # la duración la mira c_video
@@ -505,7 +515,8 @@ TOPE_PALABRAS = {"voz": 60, "video": 24, "portada": 14, "dice": 18, "cifra": 26,
                  "respuesta": 22, "ranking": 40, "sino": 40, "antes_ahora": 36,
                  "f_portada": 14, "f_letra": 16, "f_frase": 30, "f_ranking": 52, "f_vs": 32, "f_dato": 28, "f_foto_texto": 40, "f_cierre": 18,
                  # dirección G (15-oct-2026): menos texto por hoja que en F; el cierre cuenta solo la frase (fuentes y aviso no entran)
-                 "g_cambio": 26, "g_pictograma": 44, "g_eleccion": 30, "g_afirmacion": 30, "g_dia": 16, "g_cierre": 16}
+                 "g_cambio": 26, "g_pictograma": 44, "g_eleccion": 30, "g_afirmacion": 30, "g_dia": 16, "g_cierre": 16,
+                 "historia": 20}                     # 4-nov-2026: una historia se lee en 5 s
 
 
 def c_densidad(pieza: dict, salida: list) -> None:
@@ -925,6 +936,138 @@ def c_mudo(pieza: dict, carpeta: Path | None, salida: list) -> None:
         salida.append((FALLO, "registro", "el registro no dice el estilo de música"))
 
 
+# ---------------------------------------------------------------------------------------------- 8 historias (4-nov-2026)
+HISTORIA_TAMANO = (1080, 1920)          # 9:16, el de los Reels
+HISTORIA_DURACION_S = (3.0, 60.0)       # lo que admite Instagram en un vídeo de historia (router/instagram.py: HISTORIA_DURACION)
+HISTORIA_MAX_BYTES = 20_000_000         # jsDelivr no sirve vídeos de GitHub de más de 20 MB (router/instagram.py: MAX_VIDEO_GITHUB)
+HISTORIA_MAX_HOJAS = 8                  # hojas de textos: una en una imagen, una por escena en un vídeo
+HISTORIA_FOTOGRAMAS = 8                 # fotogramas repartidos por el vídeo en los que se mide la paleta con c_paleta
+
+
+def _ffmpeg_exe() -> str | None:
+    """ffmpeg de imageio-ffmpeg (está en el PC y en la nube) o el del PATH. None si no hay ninguno."""
+    try:
+        import imageio_ffmpeg
+        return imageio_ffmpeg.get_ffmpeg_exe()
+    except Exception:                                   # noqa: BLE001
+        import shutil
+        return shutil.which("ffmpeg")
+
+
+def _sondear_mp4(ruta: Path) -> dict | None:
+    """Contenedor, códec, tamaño, duración y audio de un MP4, leídos de `ffmpeg -i` (imageio-ffmpeg no trae ffprobe). Solo biblioteca
+    estándar y ffmpeg: la nube no lleva video_medidas. None si no se puede leer."""
+    import subprocess
+    exe = _ffmpeg_exe()
+    if exe is None:
+        return None
+    try:
+        r = subprocess.run([exe, "-hide_banner", "-i", str(ruta)], capture_output=True, timeout=120)
+    except (OSError, subprocess.SubprocessError):
+        return None
+    t = (r.stderr or b"").decode("utf-8", errors="replace")
+    v = re.search(r"Stream #\d+:\d+[^\n]*?Video: (\w+)[^\n]*?, (\d{2,5})x(\d{2,5})", t)
+    d = re.search(r"Duration: (\d+):(\d{2}):(\d{2}(?:\.\d+)?)", t)
+    c = re.search(r"Input #0, ([^\n]+?) from ", t)
+    a = re.search(r"Stream #\d+:\d+[^\n]*?Audio: (\w+)", t)
+    if not (v and d and c):
+        return None
+    return {"contenedor": c.group(1), "codec": v.group(1).lower(), "ancho": int(v.group(2)), "alto": int(v.group(3)),
+            "duracion": int(d.group(1)) * 3600 + int(d.group(2)) * 60 + float(d.group(3)), "audio": a.group(1).lower() if a else None}
+
+
+def _paleta_historia(carpeta: Path, salida: list, pieza: dict) -> list:
+    """c_paleta sobre los NN.jpg de `carpeta`, con el tema de la cuenta. Devuelve sus líneas; si no ha medido nada, un FALLO (una historia
+    sin paleta medida no se da por buena)."""
+    propias: list = []
+    c_paleta(carpeta, propias, T.cargar(pieza.get("cuenta")))
+    if not any(q == "paleta" for _, q, _ in propias):
+        propias.append((FALLO, "paleta", "no se ha podido medir la paleta de la historia"))
+    salida.extend(propias)
+    return propias
+
+
+def c_historia(pieza: dict, carpeta: Path, salida: list) -> None:
+    """Lo propio de una historia, con su carpeta de salida (salida/<id>/): UNA imagen (01.jpg, JPEG de 1080x1920, con una sola hoja de textos)
+    o UN vídeo (video.mp4: MP4 H.264 de 1080x1920, de 3 a 60 s, con pista de audio AAC aunque sea en silencio, sin listas de edición y de
+    20 MB como mucho). La paleta se mide siempre con c_paleta, como en cualquier pieza Luxury: en la imagen (en su _sinfoto/01.jpg si la
+    trae, como las piezas F y G) y, en un vídeo, en HISTORIA_FOTOGRAMAS fotogramas repartidos. Una historia no tiene paleta_libre."""
+    jpgs = sorted(carpeta.glob("[0-9][0-9].jpg"))
+    mp4 = carpeta / "video.mp4"
+    if mp4.is_file() and jpgs:
+        salida.append((FALLO, "historia", f"{carpeta.name} trae {jpgs[0].name} y video.mp4: una historia es UNA imagen o UN vídeo, no las dos cosas"))
+        return
+    if mp4.is_file():
+        _c_historia_video(pieza, mp4, salida)
+    elif len(jpgs) == 1:
+        _c_historia_imagen(pieza, jpgs[0], salida)
+    else:
+        salida.append((FALLO, "historia", f"{carpeta.name}: hace falta una imagen (01.jpg) o un vídeo (video.mp4); hay {len(jpgs)} imágenes"))
+
+
+def _c_historia_imagen(pieza: dict, ruta: Path, salida: list) -> None:
+    from PIL import Image
+    try:
+        with Image.open(ruta) as im:
+            tam, fmt = im.size, im.format
+    except Exception:                                   # noqa: BLE001
+        salida.append((FALLO, "historia", f"{ruta.name} no se puede abrir: el fichero está dañado"))
+        return
+    if fmt != "JPEG":
+        salida.append((FALLO, "historia", f"{ruta.name} es {fmt}: Instagram solo admite JPEG en una historia de imagen"))
+    if tam != HISTORIA_TAMANO:
+        salida.append((FALLO, "historia", f"{ruta.name} mide {tam[0]}x{tam[1]}: una historia mide {HISTORIA_TAMANO[0]}x{HISTORIA_TAMANO[1]} (9:16)"))
+    if len(pieza.get("hojas") or []) != 1:
+        salida.append((FALLO, "historia", f"una historia de imagen lleva una sola hoja de textos; hay {len(pieza.get('hojas') or [])}"))
+    sinfoto = ruta.parent / "_sinfoto" / ruta.name
+    _paleta_historia(sinfoto.parent if sinfoto.is_file() else ruta.parent, salida, pieza)
+
+
+def _c_historia_video(pieza: dict, mp4: Path, salida: list) -> None:
+    datos = _sondear_mp4(mp4)
+    if datos is None:
+        salida.append((FALLO, "historia", "no se puede leer video.mp4 con ffmpeg (¿está completo? ¿está imageio-ffmpeg?)"))
+        return
+    if "mp4" not in datos["contenedor"]:
+        salida.append((FALLO, "historia", f"video.mp4 no es un contenedor MP4 ({datos['contenedor'][:40]})"))
+    if datos["codec"] != "h264":
+        salida.append((FALLO, "historia", f"el vídeo usa {datos['codec']}: Instagram exige H.264"))
+    if (datos["ancho"], datos["alto"]) != HISTORIA_TAMANO:
+        salida.append((FALLO, "historia", f"el vídeo mide {datos['ancho']}x{datos['alto']}: una historia mide "
+                                          f"{HISTORIA_TAMANO[0]}x{HISTORIA_TAMANO[1]} (9:16)"))
+    lo, hi = HISTORIA_DURACION_S
+    if not lo <= datos["duracion"] <= hi:
+        salida.append((FALLO, "historia", f"el vídeo dura {datos['duracion']:.1f} s: una historia dura de {lo:.0f} a {hi:.0f} s"))
+    if datos["audio"] is None:
+        salida.append((FALLO, "historia", "el vídeo no lleva pista de audio (ni siquiera en silencio)"))
+    elif datos["audio"] != "aac":
+        salida.append((FALLO, "historia", f"el audio va en {datos['audio']}: Instagram exige AAC"))
+    peso = mp4.stat().st_size
+    if peso > HISTORIA_MAX_BYTES:
+        salida.append((FALLO, "historia", f"el vídeo pesa {peso / 1e6:.1f} MB: jsDelivr, que sirve los vídeos de GitHub, no pasa de 20 MB"))
+    try:
+        import video_medidas as ME                      # en el PC; la nube no lo lleva (arrastra la voz) y allí ya se miró en el PC
+    except Exception:                                   # noqa: BLE001
+        salida.append(("INFO", "contenedor", "sin video_medidas no se miran las listas de edición del MP4"))
+    else:
+        pistas = ME.listas_de_edicion(mp4)
+        if pistas:
+            salida.append((FALLO, "contenedor", f"el MP4 trae listas de edición ({', '.join(pistas)}): Instagram las rechaza; "
+                                                "hay que volver a exportarlo (-use_editlist 0)"))
+    import subprocess
+    import tempfile
+    n = HISTORIA_FOTOGRAMAS
+    with tempfile.TemporaryDirectory(prefix="vivax_historia_") as tmp:
+        try:
+            subprocess.run([_ffmpeg_exe() or "ffmpeg", "-v", "error", "-i", str(mp4), "-vf", f"fps={n / max(datos['duracion'], 0.1):.6f}",
+                            "-frames:v", str(n), "-q:v", "2", str(Path(tmp) / "%02d.jpg")], capture_output=True, timeout=300)
+        except (OSError, subprocess.SubprocessError):
+            pass                                        # sin fotogramas, _paleta_historia da el FALLO
+        propias = _paleta_historia(Path(tmp), [], pieza)
+    for nivel, quien, msg in propias:                   # «01.jpg: …» es el fotograma 1 del vídeo, no una hoja
+        salida.append((nivel, quien, re.sub(r"^(\d\d)\.jpg:", lambda m: f"video.mp4, fotograma {int(m.group(1))}:", msg)))
+
+
 def controlar(pieza: dict, imagenes: Path | None = None, cuenta: str | None = None) -> list[tuple[str, str, str]]:
     original = pieza
     if pieza.get("formato") == "video" and pieza.get("esquema") == "foto-1":      # reel de fotos reales (reel_foto.py): lleva sus propios controles de vídeo
@@ -970,6 +1113,10 @@ def controlar(pieza: dict, imagenes: Path | None = None, cuenta: str | None = No
         pieza = dict(pieza, hojas=_hojas_de_video(pieza))
     elif pieza.get("formato") == "video":
         pieza = dict(pieza, hojas=_hojas_de_video(pieza))
+    elif pieza.get("formato") == "historia":
+        # 4-nov-2026: el pie de una historia es una descripción interna que no se publica: no se controla. Los textos dibujados sí.
+        hojas = [dict({"plantilla": "historia"}, **h) if isinstance(h, dict) else h for h in pieza.get("hojas") or []]
+        pieza = dict(pieza, pie_instagram="", hojas=hojas)
     salida: list = []
     try:
         banco = cargar_banco(cuenta or cuenta_de(pieza))
@@ -981,9 +1128,14 @@ def controlar(pieza: dict, imagenes: Path | None = None, cuenta: str | None = No
     c_lineas_rojas(pieza, salida)
     c_voces(pieza, banco, salida)
     c_texto_ia(pieza, salida)
-    c_descargo(pieza, salida)
+    if pieza.get("formato") != "historia":           # una historia no lleva pie donde poner el descargo (ver nube/HISTORIAS.md)
+        c_descargo(pieza, salida)
     c_ia_declarada(pieza, salida)
     c_densidad(pieza, salida)
+    if pieza.get("formato") == "historia":           # su fichero y su paleta (siempre: una historia no tiene paleta_libre)
+        if imagenes is not None:
+            c_historia(pieza, imagenes, salida)
+        return salida
     if original.get("formato") == "video" and original.get("esquema") == 3:
         c_mudo(original, imagenes, salida)
     elif pieza.get("formato") == "video":
