@@ -1,0 +1,137 @@
+{
+  "id": "n1-f100-bq-reel_consulta_cola",
+  "cuenta": "n1",
+  "formato": "video",
+  "esquema": "slides-1",
+  "version_reel": "v5",
+  "tipo_reel": "historia",
+  "formula": "confesionario",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "v5",
+  "molde": "v5-confesionario",
+  "pilar": "captacion",
+  "frente": "nutricionistas",
+  "hechos": [
+    "CAP-006"
+  ],
+  "titulo": "[v5 confesionario] Nutricionistas: la cola de la consulta (y tu Instagra",
+  "hojas": [
+    {
+      "plantilla": "v5_gancho",
+      "voz": "Consulta llena. ¿Y tu {Instagram}?",
+      "titulo": "Sala de espera",
+      "texto": [
+        "Tu Instagram",
+        "¡Llevo horas!"
+      ]
+    },
+    {
+      "plantilla": "v5_parcial",
+      "voz": "A la {cola}.",
+      "texto": [
+        "Tu Instagram",
+        "Tic tac"
+      ]
+    },
+    {
+      "plantilla": "v5_conflicto",
+      "voz": "Pasa el {huevo}.",
+      "texto": [
+        "Tu Instagram",
+        "¡Siguiente!"
+      ]
+    },
+    {
+      "plantilla": "v5_conflicto",
+      "voz": "Pasa la {manzana}.",
+      "texto": [
+        "Tu Instagram",
+        "¡Siguiente!"
+      ]
+    },
+    {
+      "plantilla": "v5_conflicto",
+      "voz": "Y de noche, la {tentación}.",
+      "titulo": "De noche",
+      "texto": [
+        "Tu Instagram",
+        "Lo de otra cuenta",
+        "¿Y si subo lo de otro?"
+      ]
+    },
+    {
+      "plantilla": "v5_giro",
+      "voz": "Meta avisó: lo ajeno puede dejar de {recomendarse}.",
+      "titulo": "Meta, abril de 2026",
+      "texto": [
+        "Tu Instagram",
+        "Lo de otra cuenta",
+        "Fotos y carruseles que no creas ni editas"
+      ],
+      "kicker": "Ojo"
+    },
+    {
+      "plantilla": "v5_revelacion",
+      "voz": "Tú, a tu {consulta}.",
+      "texto": [
+        "Tu Instagram",
+        "Vivax, agencia de redes"
+      ]
+    },
+    {
+      "plantilla": "v5_llamada",
+      "voz": "Si eres dietista-nutricionista, {escríbenos}.",
+      "texto": [
+        "Tu Instagram",
+        "Escríbenos por mensaje"
+      ]
+    },
+    {
+      "plantilla": "v5_cierre",
+      "texto": [
+        "Tu Instagram",
+        "Si eres dietista-nutricionista, escríbenos"
+      ]
+    }
+  ],
+  "pie_instagram": "Sala de espera llena y tu Instagram, el último de la cola ⏳\n\nEntre paciente y paciente no queda hueco para publicar, y de noche tienta subir lo que hacen otras cuentas.\nMeta anunció en abril de 2026 que las fotos y los carruseles que la cuenta no crea ni edita de forma material pueden dejar de recomendarse.\nVivax es una agencia de redes para dietistas-nutricionistas.\n\nEs una noticia de prensa sobre una política de Meta; su aplicación concreta no está medida.\n\n¿Te suena?\nSi eres dietista-nutricionista, escríbenos por mensaje.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#dietistanutricionista #nutricionistas #instagram #consulta",
+  "alt": [
+    "Reel con voz e historia (confesionario). Nutricionistas: la cola de la consulta (y tu Instagram, el último). Si eres dietista-nutricionista, escríbenos."
+  ],
+  "ia": true,
+  "comentario": "Fuente: Engadget (30-abr-2026), sobre el anuncio de Meta (CAP-006): las fotos y los carruseles que la cuenta no crea ni edita de forma material pueden dejar de recomendarse. Es una noticia de prensa sobre una política de Meta; su aplicación concreta no está medida. Los pacientes de la sala son personajes de dibujo: no hablan de ninguna consulta ni de ningún resultado. Voz sintética (IA).",
+  "voz": {
+    "motor": "elevenlabs",
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+    "modelo": "eleven_v4",
+    "de_prueba": false,
+    "caracteres": 214,
+    "voces": {
+      "principal": {
+        "motor": "elevenlabs",
+        "voz": "7QQzpAyzlKTVrRzQJmTE",
+        "modelo": "eleven_v4",
+        "nombre": "Dani - Hurried, Dynamic and Engaging",
+        "caracteres": 214
+      }
+    }
+  },
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "lote": "motor-v5-2026-11-03",
+    "formato_reel": "v5",
+    "formato": "V",
+    "voz_de_prueba": false,
+    "avisos": [],
+    "paleta_libre": true,
+    "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BQ en Telegram"
+  },
+  "produccion_video": {
+    "duracion_s": 14.65,
+    "tamano_mb": 11.99
+  }
+}

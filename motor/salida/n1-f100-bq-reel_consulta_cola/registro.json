@@ -1,0 +1,1486 @@
+{
+ "esquema": "slides-1",
+ "version": "v5",
+ "plantilla": "historia",
+ "formula": "confesionario",
+ "duracion_s": 14.65,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.96,
+ "pixel": "yuv420p",
+ "tamano_mb": 11.99,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "voz_de_prueba": false,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "voces": {
+   "principal": {
+    "motor": "elevenlabs",
+    "voz": "7QQzpAyzlKTVrRzQJmTE",
+    "modelo": "eleven_v4",
+    "nombre": "Dani - Hurried, Dynamic and Engaging",
+    "texto": "Consulta llena. ¿Y tu Instagram? A la cola. Pasa el huevo. Pasa la manzana. Y de noche, la tentación. Meta avisó: lo ajeno puede dejar de recomendarse. Tú, a tu consulta. Si eres dietista-nutricionista, escríbenos.",
+    "caracteres": 214
+   }
+  },
+  "caracteres": 214,
+  "texto": "Consulta llena. ¿Y tu Instagram? A la cola. Pasa el huevo. Pasa la manzana. Y de noche, la tentación. Meta avisó: lo ajeno puede dejar de recomendarse. Tú, a tu consulta. Si eres dietista-nutricionista, escríbenos.",
+  "inicio_voz_s": 0.031,
+  "aire_extra_entre_lineas_s": 0.0,
+  "duracion_voz_s": 13.255,
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4"
+ },
+ "sonido": {
+  "voz_lufs": -16.0,
+  "efectos_lufs": -25.0,
+  "efectos_bajo_voz_db": 9.0,
+  "mezcla_lufs": -16.0,
+  "mezcla_pico_dbtp": -1.62,
+  "limitador_max_db": 0.0,
+  "efectos_por_tipo": {
+   "pop": 5,
+   "ding": 5,
+   "tic": 16,
+   "whoosh": 12,
+   "tac": 2,
+   "golpe": 2,
+   "sello": 3,
+   "subida": 1
+  },
+  "musica": false,
+  "desfase_con_el_video_s": -0.0
+ },
+ "revelacion_s": 10.3365,
+ "t_bucle_s": 14.1667,
+ "fin_parcial_s": 2.6667,
+ "hueco_max_s": 0.433,
+ "hueco_max_en_s": 14.2,
+ "n_cambios_visuales": 416,
+ "hueco_camara_max_s": 0.9,
+ "hueco_ritmo_max_s": 0.433,
+ "hueco_ritmo_en_s": 13.733,
+ "hueco_ritmo_antes_de_rellenar_s": 0.833,
+ "bucle_dif_ultimo_primero": 0.0,
+ "estado_fotograma0": [
+  {
+   "aid": "objeto:movil_cara:0",
+   "visible": true,
+   "escala": 1,
+   "opacidad": 1,
+   "al_decir": false
+  },
+  {
+   "aid": "personaje:manzana:0",
+   "visible": true,
+   "escala": 0.9941,
+   "opacidad": 1,
+   "al_decir": false
+  },
+  {
+   "aid": "personaje:huevo:0",
+   "visible": true,
+   "escala": 1.0015,
+   "opacidad": 1,
+   "al_decir": false
+  },
+  {
+   "aid": "objeto:reloj_pared:0",
+   "visible": true,
+   "escala": 1.0056,
+   "opacidad": 1,
+   "al_decir": false
+  }
+ ],
+ "escenas": [
+  {
+   "id": "e1",
+   "rol": "gancho",
+   "t0": 0.0,
+   "t1": 1.9,
+   "voz_t0": 0.0213,
+   "fondo": "sala_espera"
+  },
+  {
+   "id": "e2",
+   "rol": "parcial",
+   "t0": 1.9,
+   "t1": 2.6667,
+   "voz_t0": 1.9114,
+   "fondo": "sala_espera"
+  },
+  {
+   "id": "e3",
+   "rol": "conflicto",
+   "t0": 2.6667,
+   "t1": 3.4667,
+   "voz_t0": 2.6614,
+   "fondo": "sala_espera"
+  },
+  {
+   "id": "e4",
+   "rol": "conflicto",
+   "t0": 3.4667,
+   "t1": 4.3667,
+   "voz_t0": 3.4515,
+   "fondo": "sala_espera"
+  },
+  {
+   "id": "e5",
+   "rol": "conflicto",
+   "t0": 4.3667,
+   "t1": 6.3667,
+   "voz_t0": 4.3815,
+   "fondo": "sala_noche"
+  },
+  {
+   "id": "e6",
+   "rol": "giro",
+   "t0": 6.3667,
+   "t1": 9.4667,
+   "voz_t0": 6.3515,
+   "fondo": "sala_noche"
+  },
+  {
+   "id": "e7",
+   "rol": "revelacion",
+   "t0": 9.4667,
+   "t1": 10.8,
+   "voz_t0": 9.4715,
+   "fondo": "sala_espera"
+  },
+  {
+   "id": "e8",
+   "rol": "llamada",
+   "t0": 10.8,
+   "t1": 13.2667,
+   "voz_t0": 10.7965,
+   "fondo": "sala_espera"
+  },
+  {
+   "id": "e9",
+   "rol": "cierre",
+   "t0": 13.2667,
+   "t1": 14.1667,
+   "voz_t0": null,
+   "fondo": "sala_espera"
+  }
+ ],
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    151,
+    1199,
+    355,
+    1259
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Sala de espera",
+   "contando": false,
+   "r": [
+    126,
+    288,
+    494,
+    383
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Consulta",
+   "contando": false,
+   "r": [
+    140,
+    1286,
+    575,
+    1439
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "llena",
+   "contando": false,
+   "r": [
+    610,
+    1298,
+    857,
+    1442
+   ]
+  },
+  {
+   "t": 0.9333,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    142,
+    1209,
+    352,
+    1270
+   ]
+  },
+  {
+   "t": 0.9333,
+   "texto": "Sala de espera",
+   "contando": false,
+   "r": [
+    117,
+    276,
+    493,
+    373
+   ]
+  },
+  {
+   "t": 0.9333,
+   "texto": "¡Llevo horas!",
+   "contando": false,
+   "r": [
+    343,
+    630,
+    673,
+    714
+   ]
+  },
+  {
+   "t": 0.9333,
+   "texto": "Consulta",
+   "contando": false,
+   "r": [
+    175,
+    1303,
+    559,
+    1438
+   ]
+  },
+  {
+   "t": 0.9333,
+   "texto": "llena",
+   "contando": false,
+   "r": [
+    596,
+    1292,
+    841,
+    1435
+   ]
+  },
+  {
+   "t": 2.5333,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    136,
+    1231,
+    354,
+    1290
+   ]
+  },
+  {
+   "t": 2.5333,
+   "texto": "Tic tac",
+   "contando": false,
+   "r": [
+    197,
+    472,
+    440,
+    617
+   ]
+  },
+  {
+   "t": 2.5333,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    288,
+    1303,
+    340,
+    1438
+   ]
+  },
+  {
+   "t": 2.5333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    385,
+    1303,
+    478,
+    1438
+   ]
+  },
+  {
+   "t": 2.5333,
+   "texto": "cola",
+   "contando": false,
+   "r": [
+    513,
+    1289,
+    732,
+    1437
+   ]
+  },
+  {
+   "t": 3.0667,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    147,
+    1204,
+    354,
+    1265
+   ]
+  },
+  {
+   "t": 3.0667,
+   "texto": "¡Siguiente!",
+   "contando": false,
+   "r": [
+    609,
+    652,
+    875,
+    742
+   ]
+  },
+  {
+   "t": 3.0667,
+   "texto": "Pasa",
+   "contando": false,
+   "r": [
+    195,
+    1303,
+    386,
+    1438
+   ]
+  },
+  {
+   "t": 3.0667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    431,
+    1303,
+    516,
+    1438
+   ]
+  },
+  {
+   "t": 3.0667,
+   "texto": "huevo",
+   "contando": false,
+   "r": [
+    548,
+    1289,
+    828,
+    1437
+   ]
+  },
+  {
+   "t": 3.8667,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    392,
+    1228,
+    610,
+    1293
+   ]
+  },
+  {
+   "t": 3.8667,
+   "texto": "¡Siguiente!",
+   "contando": false,
+   "r": [
+    612,
+    644,
+    893,
+    739
+   ]
+  },
+  {
+   "t": 3.8667,
+   "texto": "Pasa",
+   "contando": false,
+   "r": [
+    130,
+    1303,
+    322,
+    1438
+   ]
+  },
+  {
+   "t": 3.8667,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    367,
+    1303,
+    460,
+    1438
+   ]
+  },
+  {
+   "t": 3.8667,
+   "texto": "manzana",
+   "contando": false,
+   "r": [
+    486,
+    1289,
+    898,
+    1437
+   ]
+  },
+  {
+   "t": 5.8333,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    147,
+    1204,
+    354,
+    1264
+   ]
+  },
+  {
+   "t": 5.8333,
+   "texto": "Lo de otra cuenta",
+   "contando": false,
+   "r": [
+    607,
+    1164,
+    881,
+    1228
+   ]
+  },
+  {
+   "t": 5.8333,
+   "texto": "De noche",
+   "contando": false,
+   "r": [
+    121,
+    285,
+    350,
+    375
+   ]
+  },
+  {
+   "t": 5.8333,
+   "texto": "¿Y si subo lo de otro?",
+   "contando": false,
+   "r": [
+    195,
+    540,
+    490,
+    693
+   ]
+  },
+  {
+   "t": 5.8333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    226,
+    1303,
+    320,
+    1438
+   ]
+  },
+  {
+   "t": 5.8333,
+   "texto": "tentación",
+   "contando": false,
+   "r": [
+    344,
+    1289,
+    804,
+    1437
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    148,
+    1206,
+    358,
+    1272
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "Lo de otra cuenta",
+   "contando": false,
+   "r": [
+    608,
+    1168,
+    885,
+    1233
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "Meta, abril de 2026",
+   "contando": false,
+   "r": [
+    117,
+    275,
+    602,
+    375
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "Fotos y carruseles que no creas ni editas",
+   "contando": false,
+   "r": [
+    263,
+    418,
+    762,
+    571
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "Ojo",
+   "contando": false,
+   "r": [
+    666,
+    714,
+    825,
+    878
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    132,
+    1303,
+    229,
+    1438
+   ]
+  },
+  {
+   "t": 8.9667,
+   "texto": "recomendarse",
+   "contando": false,
+   "r": [
+    243,
+    1289,
+    908,
+    1437
+   ]
+  },
+  {
+   "t": 10.6667,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    144,
+    1081,
+    353,
+    1142
+   ]
+  },
+  {
+   "t": 10.6667,
+   "texto": "Vivax, agencia de redes",
+   "contando": false,
+   "r": [
+    223,
+    305,
+    804,
+    401
+   ]
+  },
+  {
+   "t": 10.6667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    193,
+    1303,
+    245,
+    1438
+   ]
+  },
+  {
+   "t": 10.6667,
+   "texto": "tu",
+   "contando": false,
+   "r": [
+    290,
+    1303,
+    388,
+    1438
+   ]
+  },
+  {
+   "t": 10.6667,
+   "texto": "consulta",
+   "contando": false,
+   "r": [
+    414,
+    1289,
+    835,
+    1437
+   ]
+  },
+  {
+   "t": 12.8667,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    147,
+    1204,
+    353,
+    1265
+   ]
+  },
+  {
+   "t": 12.8667,
+   "texto": "Escríbenos por mensaje",
+   "contando": false,
+   "r": [
+    405,
+    384,
+    680,
+    529
+   ]
+  },
+  {
+   "t": 12.8667,
+   "texto": "escríbenos",
+   "contando": false,
+   "r": [
+    250,
+    1289,
+    760,
+    1437
+   ]
+  },
+  {
+   "t": 13.7333,
+   "texto": "Tu Instagram",
+   "contando": false,
+   "r": [
+    148,
+    1203,
+    355,
+    1262
+   ]
+  },
+  {
+   "t": 13.7333,
+   "texto": "Si eres dietista-nutricionista, escríbenos",
+   "contando": false,
+   "r": [
+    290,
+    298,
+    712,
+    548
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  0.9333,
+  2.5333,
+  3.0667,
+  3.8667,
+  5.8333,
+  8.9667,
+  10.6667,
+  12.8667,
+  13.7333
+ ],
+ "lineas": [
+  {
+   "esc": 0,
+   "quien": "principal",
+   "personaje": null,
+   "texto": "Consulta llena. ¿Y tu {Instagram}?",
+   "t0": 0.0213,
+   "t1": 1.7463,
+   "palabras": [
+    {
+     "txt": "Consulta",
+     "dicho": "Consulta",
+     "t0": 0.0213,
+     "t1": 0.4863
+    },
+    {
+     "txt": "llena.",
+     "dicho": "llena.",
+     "t0": 0.5263,
+     "t1": 0.8063
+    },
+    {
+     "txt": "¿Y",
+     "dicho": "¿Y",
+     "t0": 1.0263,
+     "t1": 1.1063
+    },
+    {
+     "txt": "tu",
+     "dicho": "tu",
+     "t0": 1.1863,
+     "t1": 1.2663
+    },
+    {
+     "txt": "Instagram?",
+     "dicho": "Instagram?",
+     "t0": 1.5063,
+     "t1": 1.7463
+    }
+   ]
+  },
+  {
+   "esc": 1,
+   "quien": "principal",
+   "personaje": null,
+   "texto": "A la {cola}.",
+   "t0": 1.9114,
+   "t1": 2.4614,
+   "palabras": [
+    {
+     "txt": "A",
+     "dicho": "A",
+     "t0": 1.9114,
+     "t1": 1.9814
+    },
+    {
+     "txt": "la",
+     "dicho": "la",
+     "t0": 2.0614,
+     "t1": 2.1414
+    },
+    {
+     "txt": "cola.",
+     "dicho": "cola.",
+     "t0": 2.3014,
+     "t1": 2.4614
+    }
+   ]
+  },
+  {
+   "esc": 2,
+   "quien": "principal",
+   "personaje": null,
+   "texto": "Pasa el {huevo}.",
+   "t0": 2.6614,
+   "t1": 3.2764,
+   "palabras": [
+    {
+     "txt": "Pasa",
+     "dicho": "Pasa",
+     "t0": 2.6614,
+     "t1": 2.8764
+    },
+    {
+     "txt": "el",
+     "dicho": "el",
+     "t0": 2.9164,
+     "t1": 2.9564
+    },
+    {
+     "txt": "huevo.",
+     "dicho": "huevo.",
+     "t0": 3.0634,
+     "t1": 3.2764
+    }
+   ]
+  },
+  {
+   "esc": 3,
+   "quien": "principal",
+   "personaje": null,
+   "texto": "Pasa la {manzana}.",
+   "t0": 3.4515,
+   "t1": 4.1715,
+   "palabras": [
+    {
+     "txt": "Pasa",
+     "dicho": "Pasa",
+     "t0": 3.4515,
+     "t1": 3.6115
+    },
+    {
+     "txt": "la",
+     "dicho": "la",
+     "t0": 3.6915,
+     "t1": 3.7315
+    },
+    {
+     "txt": "manzana.",
+     "dicho": "manzana.",
+     "t0": 3.7715,
+     "t1": 4.1715
+    }
+   ]
+  },
+  {
+   "esc": 4,
+   "quien": "principal",
+   "personaje": null,
+   "texto": "Y de noche, la {tentación}.",
+   "t0": 4.3815,
+   "t1": 6.0615,
+   "palabras": [
+    {
+     "txt": "Y",
+     "dicho": "Y",
+     "t0": 4.3815,
+     "t1": 4.4615
+    },
+    {
+     "txt": "de",
+     "dicho": "de",
+     "t0": 4.5015,
+     "t1": 4.5415
+    },
+    {
+     "txt": "noche,",
+     "dicho": "noche,",
+     "t0": 4.6215,
+     "t1": 4.9415
+    },
+    {
+     "txt": "la",
+     "dicho": "la",
+     "t0": 5.2615,
+     "t1": 5.3415
+    },
+    {
+     "txt": "tentación.",
+     "dicho": "tentación.",
+     "t0": 5.4215,
+     "t1": 6.0615
+    }
+   ]
+  },
+  {
+   "esc": 5,
+   "quien": "principal",
+   "personaje": null,
+   "texto": "Meta avisó: lo ajeno puede dejar de {recomendarse}.",
+   "t0": 6.3515,
+   "t1": 9.3015,
+   "palabras": [
+    {
+     "txt": "Meta",
+     "dicho": "Meta",
+     "t0": 6.3515,
+     "t1": 6.5915
+    },
+    {
+     "txt": "avisó:",
+     "dicho": "avisó:",
+     "t0": 6.7515,
+     "t1": 6.9915
+    },
+    {
+     "txt": "lo",
+     "dicho": "lo",
+     "t0": 7.2615,
+     "t1": 7.3015
+    },
+    {
+     "txt": "ajeno",
+     "dicho": "ajeno",
+     "t0": 7.3815,
+     "t1": 7.7815
+    },
+    {
+     "txt": "puede",
+     "dicho": "puede",
+     "t0": 7.8615,
+     "t1": 8.1015
+    },
+    {
+     "txt": "dejar",
+     "dicho": "dejar",
+     "t0": 8.1815,
+     "t1": 8.4215
+    },
+    {
+     "txt": "de",
+     "dicho": "de",
+     "t0": 8.4615,
+     "t1": 8.5015
+    },
+    {
+     "txt": "recomendarse.",
+     "dicho": "recomendarse.",
+     "t0": 8.5815,
+     "t1": 9.3015
+    }
+   ]
+  },
+  {
+   "esc": 6,
+   "quien": "principal",
+   "personaje": "aguacate",
+   "texto": "Tú, a tu {consulta}.",
+   "t0": 9.4715,
+   "t1": 10.6165,
+   "palabras": [
+    {
+     "txt": "Tú,",
+     "dicho": "Tú,",
+     "t0": 9.4715,
+     "t1": 9.6315
+    },
+    {
+     "txt": "a",
+     "dicho": "a",
+     "t0": 9.8165,
+     "t1": 9.8965
+    },
+    {
+     "txt": "tu",
+     "dicho": "tu",
+     "t0": 9.9765,
+     "t1": 10.0565
+    },
+    {
+     "txt": "consulta.",
+     "dicho": "consulta.",
+     "t0": 10.3365,
+     "t1": 10.6165
+    }
+   ]
+  },
+  {
+   "esc": 7,
+   "quien": "principal",
+   "personaje": "aguacate",
+   "texto": "Si eres dietista-nutricionista, {escríbenos}.",
+   "t0": 10.7965,
+   "t1": 13.1165,
+   "palabras": [
+    {
+     "txt": "Si",
+     "dicho": "Si",
+     "t0": 10.7965,
+     "t1": 10.8765
+    },
+    {
+     "txt": "eres",
+     "dicho": "eres",
+     "t0": 10.9565,
+     "t1": 11.1165
+    },
+    {
+     "txt": "dietista-nutricionista,",
+     "dicho": "dietista-nutricionista,",
+     "t0": 11.2365,
+     "t1": 12.2365
+    },
+    {
+     "txt": "escríbenos.",
+     "dicho": "escríbenos.",
+     "t0": 12.4765,
+     "t1": 13.1165
+    }
+   ]
+  }
+ ],
+ "efectos": [
+  {
+   "t": 0.0,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 0.0667,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.5333,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 1.5,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 1.5,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 1.9,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 2.0333,
+   "tipo": "tac",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.3,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.3,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 2.3,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.6667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.6667,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.0667,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.0667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.4667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.4667,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.7667,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.7667,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.7667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.3667,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 4.6333,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.4333,
+   "tipo": "golpe",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.4333,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.4333,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.3667,
+   "tipo": "golpe",
+   "intensidad": 0.5
+  },
+  {
+   "t": 7.3667,
+   "tipo": "tac",
+   "intensidad": 0.4
+  },
+  {
+   "t": 7.3667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.5667,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.5667,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 8.5667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.4667,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.4667,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 10.3333,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.3333,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.3333,
+   "tipo": "subida",
+   "intensidad": 0.8
+  },
+  {
+   "t": 10.3333,
+   "tipo": "sello",
+   "intensidad": 1.0
+  },
+  {
+   "t": 10.3333,
+   "tipo": "ding",
+   "intensidad": 0.9
+  },
+  {
+   "t": 10.3333,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.8,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 11.5667,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.4667,
+   "tipo": "tic",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.4667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.4667,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.2667,
+   "tipo": "whoosh",
+   "intensidad": 0.5
+  },
+  {
+   "t": 13.3333,
+   "tipo": "sello",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.1667,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  }
+ ],
+ "eventos_visuales": [
+  [
+   0.0,
+   "gancho"
+  ],
+  [
+   0.2667,
+   "pulso de ritmo"
+  ],
+  [
+   0.5333,
+   "texto bocadillo"
+  ],
+  [
+   0.8,
+   "pulso de ritmo"
+  ],
+  [
+   1.5,
+   "movil_cara salta"
+  ],
+  [
+   1.5,
+   "palabra clave"
+  ],
+  [
+   1.9,
+   "escena 2 (parcial)"
+  ],
+  [
+   2.0333,
+   "movil_cara tiembla"
+  ],
+  [
+   2.3,
+   "palabra clave"
+  ],
+  [
+   2.3,
+   "reloj_pared gira"
+  ],
+  [
+   2.3,
+   "texto onomatopeya"
+  ],
+  [
+   2.6667,
+   "escena 3 (conflicto)"
+  ],
+  [
+   2.6667,
+   "texto cartel"
+  ],
+  [
+   3.0667,
+   "huevo huye"
+  ],
+  [
+   3.0667,
+   "palabra clave"
+  ],
+  [
+   3.4667,
+   "escena 4 (conflicto)"
+  ],
+  [
+   3.4667,
+   "texto cartel"
+  ],
+  [
+   3.7667,
+   "manzana huye"
+  ],
+  [
+   3.7667,
+   "palabra clave"
+  ],
+  [
+   3.7667,
+   "reloj_pared gira"
+  ],
+  [
+   4.3667,
+   "escena 5 (conflicto)"
+  ],
+  [
+   4.6333,
+   "reloj_pared gira"
+  ],
+  [
+   5.4333,
+   "entra movil_post"
+  ],
+  [
+   5.4333,
+   "palabra clave"
+  ],
+  [
+   5.4333,
+   "texto pensamiento"
+  ],
+  [
+   6.0667,
+   "pulso de ritmo"
+  ],
+  [
+   6.3667,
+   "escena 6 (giro)"
+  ],
+  [
+   7.0,
+   "pulso de ritmo"
+  ],
+  [
+   7.3667,
+   "movil_cara tiembla"
+  ],
+  [
+   7.3667,
+   "texto cartel"
+  ],
+  [
+   7.9667,
+   "pulso de cámara"
+  ],
+  [
+   8.5667,
+   "SELLO"
+  ],
+  [
+   8.5667,
+   "palabra clave"
+  ],
+  [
+   9.4667,
+   "entra aguacate"
+  ],
+  [
+   9.4667,
+   "escena 7 (revelacion)"
+  ],
+  [
+   9.7,
+   "tensión"
+  ],
+  [
+   10.3333,
+   "REVELACIÓN"
+  ],
+  [
+   10.3333,
+   "movil_cara salta"
+  ],
+  [
+   10.3333,
+   "palabra clave"
+  ],
+  [
+   10.3333,
+   "texto rotulo"
+  ],
+  [
+   10.8,
+   "escena 8 (llamada)"
+  ],
+  [
+   11.5667,
+   "movil_cara salta"
+  ],
+  [
+   12.2,
+   "pulso de ritmo"
+  ],
+  [
+   12.4667,
+   "aguacate señala"
+  ],
+  [
+   12.4667,
+   "palabra clave"
+  ],
+  [
+   12.4667,
+   "texto cartel"
+  ],
+  [
+   12.8667,
+   "pulso de ritmo"
+  ],
+  [
+   13.2667,
+   "escena 9 (cierre)"
+  ],
+  [
+   13.3333,
+   "cierre"
+  ],
+  [
+   13.7333,
+   "pulso de ritmo"
+  ],
+  [
+   14.1667,
+   "vuelta al inicio"
+  ]
+ ],
+ "fotogramas": 439,
+ "arte": {
+  "en_cache": 59,
+  "nuevos": 0
+ },
+ "omitidos": [],
+ "tamano_icono_px": 540,
+ "nombre_marca_px": null,
+ "choques": [],
+ "choques_t": [
+  0.0,
+  0.3333,
+  0.9333,
+  1.8333,
+  2.2667,
+  2.5333,
+  2.6,
+  3.0333,
+  3.0667,
+  3.4,
+  3.8333,
+  3.8667,
+  4.3,
+  4.7333,
+  5.8333,
+  6.3,
+  6.7333,
+  8.9667,
+  9.4,
+  9.8333,
+  10.6667,
+  10.7333,
+  11.1333,
+  12.8667,
+  13.2,
+  13.6333,
+  13.7333,
+  14.1
+ ],
+ "tiempo_render_s": 47.9
+}
