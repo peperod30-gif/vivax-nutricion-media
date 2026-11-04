@@ -18,7 +18,8 @@
       "plantilla": "lista",
       "kicker": "Menú del día",
       "resalte": "Especial hierro",
-      "titulo": "¿Dónde hay más hierro?",
+      "titulo": "¿Para qué necesitamos {hierro}?",
+      "texto": "Te lo servimos después del postre.",
       "items": [
         "De tapa",
         "Aceitunas",
@@ -29,12 +30,7 @@
         "Postre",
         "Sorpresa"
       ],
-      "texto": "Por 100 g. Apuesta por un plato.",
-      "dice": [
-        "¿Qué va a ser?",
-        "De postre, como siempre."
-      ],
-      "sigue": "Desliza",
+      "dato": "Mientras, apuesta: ¿qué plato lleva más? Por 100 g.",
       "funcion_f100": "gancho",
       "hecho_hoja": null
     },
@@ -42,12 +38,12 @@
       "plantilla": "f_ranking",
       "kicker": "Menú del día",
       "titulo": "De tapa",
-      "texto": "Aceitunas en conserva",
-      "cifra": "6,3 mg",
-      "unidad": "de hierro por 100 g",
       "dice": [
         "Para ir abriendo boca."
       ],
+      "texto": "Aceitunas en conserva",
+      "cifra": "6,3 mg",
+      "unidad": "de hierro por 100 g",
       "funcion_f100": "plato",
       "hecho_hoja": [
         "ALI-008"
@@ -57,29 +53,27 @@
       "plantilla": "f_ranking",
       "kicker": "Menú del día",
       "titulo": "Primero",
-      "texto": "Lentejas cocidas",
-      "cifra": "3,3 mg",
-      "unidad": "de hierro por 100 g",
       "dice": [
         "Las famosas del hierro."
       ],
+      "texto": "Lentejas cocidas",
+      "cifra": "3,3 mg",
+      "unidad": "de hierro por 100 g",
       "funcion_f100": "plato",
       "hecho_hoja": [
-        "ALI-062",
-        "VIT-054"
-      ],
-      "frase": "Nota del cocinero: El hierro contribuye al transporte normal de oxígeno en el cuerpo."
+        "ALI-062"
+      ]
     },
     {
       "plantilla": "f_ranking",
       "kicker": "Menú del día",
       "titulo": "Segundo",
-      "texto": "Ternera picada cocinada",
-      "cifra": "2,7 mg",
-      "unidad": "de hierro por 100 g",
       "dice": [
         "¿Menos que las lentejas? Por 100 g, sí."
       ],
+      "texto": "Ternera picada cocinada",
+      "cifra": "2,7 mg",
+      "unidad": "de hierro por 100 g",
       "funcion_f100": "plato",
       "hecho_hoja": [
         "ALI-062"
@@ -91,17 +85,33 @@
       "kicker": "Menú del día",
       "titulo": "Postre",
       "antes": "Fruta del tiempo",
-      "texto": "Chocolate negro 70-85 %",
-      "cifra": "12 mg",
-      "unidad": "de hierro por 100 g",
-      "resalte": "La cifra más alta de la pizarra",
       "dice": [
         "¿Perdona?",
         "Por 100 g, ¿eh?"
       ],
+      "texto": "Chocolate negro 70-85 %",
+      "resalte": "La cifra más alta de la carta",
+      "cifra": "12 mg",
+      "unidad": "de hierro por 100 g",
       "funcion_f100": "giro",
       "hecho_hoja": [
         "ALI-008"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lo prometido",
+      "titulo": "El trabajo {secreto} del hierro",
+      "texto": "Lo llevan los cuatro platos de esta carta.",
+      "resalte": "Para qué sirve el hierro",
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "vit": "VIT-054",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "funcion_f100": "conclusion",
+      "hecho_hoja": [
+        "VIT-054",
+        "ALI-008",
+        "ALI-062"
       ]
     },
     {
@@ -138,14 +148,15 @@
       ]
     }
   ],
-  "pie_instagram": "¿Dónde hay más hierro en este menú del día? 🍽️\n\nDe tapa, aceitunas en conserva: 6,3 mg de hierro por 100 g.\nPrimero, lentejas cocidas: 3,3 mg.\nSegundo, ternera picada cocinada: 2,7 mg.\nY de postre, chocolate negro 70-85 %: 12 mg 🍫\nTodo por cada 100 g. Es la cantidad que hay en el alimento, no la que se absorbe.\nY sí, 100 g de chocolate es mucho chocolate.\nNota del cocinero, para qué sirve el hierro: El hierro contribuye al transporte normal de oxígeno en el cuerpo.\n\nEs lo que lleva cada alimento según la tabla de USDA, no una recomendación de cantidad ni de comer o evitar nada. La nota del cocinero es una declaración autorizada del Reglamento (UE) nº 432/2012 y habla del nutriente, no de un plato en concreto.\n\n¿Por qué plato habías apostado?\nMándaselo a tu compi del menú del día.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #hierro #menudeldia #comidareal",
+  "pie_instagram": "¿Para qué necesitamos hierro? Te lo servimos en este menú del día 🍽️\n\nDe tapa, aceitunas en conserva: 6,3 mg de hierro por 100 g.\nPrimero, lentejas cocidas: 3,3 mg.\nSegundo, ternera picada cocinada: 2,7 mg.\nY de postre, chocolate negro 70-85 %: 12 mg 🍫\nTodo por cada 100 g. Es la cantidad que hay en el alimento, no la que se absorbe.\nY sí, 100 g de chocolate es mucho chocolate.\n\nEs lo que lleva cada alimento según la tabla de USDA, no una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿Por qué plato habías apostado?\nMándaselo a tu compi del menú del día.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #hierro #menudeldia #comidareal",
   "alt": [
-    "Pizarra de tiza de un bar con marco de madera. Arriba, Menú del día, especial hierro. Pregunta en grande: ¿Dónde hay más hierro? La carta: de tapa, aceitunas; primero, lentejas; segundo, ternera; postre, sorpresa; en lugar de precio, una interrogación. Agus, el aguacate con pajarita de camarero, pregunta qué va a ser y Marisa, la manzana, dice: De postre, como siempre.",
-    "De tapa, dibujado con tiza, un cuenco de aceitunas con un palillo. Aceitunas en conserva, 6,3 mg de hierro por 100 g, escrito donde iría el precio. Agus: Para ir abriendo boca.",
-    "Primero, un plato hondo de lentejas humeantes con su cuchara. Lentejas cocidas, 3,3 mg de hierro por 100 g. Agus: Las famosas del hierro. Abajo, en un recuadro de tiza con un gorro de cocinero dibujado, la nota del cocinero: El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
-    "Segundo, un filete de ternera picada en su plato, con tenedor y cuchillo. Ternera picada cocinada, 2,7 mg de hierro por 100 g. Agus: ¿Menos que las lentejas? Por 100 g, sí. Nota de tiza: Ojo, es lo que lleva, no lo que se absorbe.",
-    "Postre: Fruta del tiempo, tachado. Debajo, una tableta de chocolate dibujada con tiza y una onza mordida. Chocolate negro 70-85 %, 12 mg de hierro por 100 g, rodeado con tiza amarilla: la cifra más alta de la pizarra. Marisa, la manzana: ¿Perdona? Agus: Por 100 g, ¿eh?",
-    "La cuenta: un tique clavado en la pizarra con cada plato y su hierro por 100 g: aceitunas en conserva 6,3 mg, lentejas cocidas 3,3 mg, ternera picada cocinada 2,7 mg y chocolate negro 70-85 % 12 mg. Total: invita la casa. Absorción no incluida: es lo que lleva. Mándaselo a tu compi del menú del día."
+    "Portada en oliva, blanco y negro con aire de carta de restaurante. Arriba: Menú del día, especial hierro. En letra enorme: ¿Para qué necesitamos hierro? Te lo servimos después del postre. Debajo, una pizarra negra con la carta: de tapa, aceitunas; primero, lentejas; segundo, ternera; postre, sorpresa; en lugar de precio, una interrogación. Al lado, una campana de servir cerrada, dibujada en línea fina. Mientras, apuesta: ¿qué plato lleva más? Por 100 g.",
+    "De tapa. Un cuenco de aceitunas con una aceituna pinchada en un palillo, dibujado en línea fina negra con relleno oliva. Para ir abriendo boca. En el bloque oliva, como en una carta: aceitunas en conserva, 6,3 mg de hierro por 100 g, donde iría el precio.",
+    "Primero. Un plato hondo de lentejas humeantes con su cuchara, en línea fina. Las famosas del hierro. En el bloque oliva: lentejas cocidas, 3,3 mg de hierro por 100 g.",
+    "Segundo. Un filete de ternera picada en su plato, con tenedor y cuchillo, en línea fina. ¿Menos que las lentejas? Por 100 g, sí. En el bloque oliva: ternera picada cocinada, 2,7 mg de hierro por 100 g. Ojo: es lo que lleva, no lo que se absorbe.",
+    "Postre. Fruta del tiempo, tachado. ¿Perdona? Por 100 g, ¿eh? Una tableta de chocolate medio envuelta y una onza mordida, en línea fina. En el bloque oliva: chocolate negro 70-85 %, 12 mg de hierro por 100 g, con un sello: la cifra más alta de la carta.",
+    "Lo prometido: el trabajo secreto del hierro. Una campana de servir levantada sobre una bandeja de la que sube oxígeno, dibujado como burbujas, en línea fina. Lo llevan los cuatro platos de esta carta. En el bloque oliva, para qué sirve el hierro: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Declaración autorizada por la UE para alimentos que son fuente de hierro; no es una recomendación personal.",
+    "La cuenta: un tique blanco sobre fondo oliva con cada plato y su hierro por 100 g: aceitunas en conserva 6,3 mg, lentejas cocidas 3,3 mg, ternera picada cocinada 2,7 mg y chocolate negro 70-85 % 12 mg. Total: invita la casa. Absorción no incluida: es lo que lleva. Mándaselo a tu compi del menú del día."
   ],
   "produccion": {
     "muestra": false,
@@ -154,6 +165,7 @@
     "formato": "BI",
     "lote": "f100-2026-11-03",
     "serie": "f100",
+    "sistema": "vivax-luxury-1",
     "paleta_libre": true,
     "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BI en Telegram"
   },
