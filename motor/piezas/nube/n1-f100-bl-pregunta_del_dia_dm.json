@@ -128,21 +128,57 @@
         "Por hidratos refinados y azúcares: no la redujo."
       ],
       "dato": "Según la Asociación Americana del Corazón.",
+      "dice": [
+        "Ojo, que llega otra pregunta."
+      ],
+      "funcion_f100": "el matiz",
+      "hecho_hoja": [
+        "DEB-011"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "dia": "Pregunta del día",
+      "franja": [
+        "Agus"
+      ],
+      "texto": "Explícamelo con fútbol, porfa.",
+      "titulo": "Depende de con qué se {sustituya}.",
+      "dato": "Según la Asociación Americana del Corazón.",
+      "titular": "Cambio",
+      "unidad": "Enfermedad cardiovascular",
+      "opciones": [
+        {
+          "nombre": "Sale",
+          "texto": "Grasa saturada"
+        },
+        {
+          "nombre": "Entra",
+          "texto": "Aceite vegetal poliinsaturado",
+          "valor": "Bajó en torno a un {30 %}"
+        },
+        {
+          "nombre": "Entra",
+          "texto": "Hidratos refinados y azúcares",
+          "valor": "No la redujo"
+        }
+      ],
       "frase": "Envíaselo a quien te lo preguntó.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "funcion_f100": "veredicto y reenvío",
+      "funcion_f100": "conclusión: depende de con qué se sustituya (DEB-011), con el cambio de fútbol",
       "hecho_hoja": [
         "DEB-011"
       ]
     }
   ],
-  "pie_instagram": "Pregunta del día: ¿es verdad que la grasa saturada es mala? Respuesta corta: depende 🤔\n\nPor 100 g, grasa saturada: mantequilla 51,4 g, aceite de oliva 13,8 g, nueces 6,1 g y aguacate crudo 2,1 g (USDA).\nPostura A: en una revisión Cochrane de ensayos aleatorizados, los de al menos dos años sugieren que reducirla rebaja un 17 % los eventos cardiovasculares combinados. La mortalidad total apenas cambió.\nPostura B: en un metaanálisis de cohortes (hasta 339.090 participantes), la grasa saturada no se asoció con la mortalidad total, la cardiovascular ni la cardiopatía coronaria. Es observacional y sus autores califican esa certeza de muy baja.\nPara la Asociación Americana del Corazón, depende de con qué se sustituya: los ensayos que la cambiaron por aceite vegetal poliinsaturado redujeron la enfermedad cardiovascular en torno a un 30 %; sustituirla por hidratos de carbono refinados y azúcares no la redujo.\n\nEs un resumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Qué otra pregunta has oído mucho?\nEnvíaselo a quien te lo preguntó.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #grasasaturada #mitosdenutricion #comidareal",
+  "pie_instagram": "Pregunta del día: ¿es verdad que la grasa saturada es mala? Respuesta corta: depende 🤔\n\nPor 100 g, grasa saturada: mantequilla 51,4 g, aceite de oliva 13,8 g, nueces 6,1 g y aguacate crudo 2,1 g (USDA).\nPostura A: en una revisión Cochrane de ensayos aleatorizados, los de al menos dos años sugieren que reducirla rebaja un 17 % los eventos cardiovasculares combinados. La mortalidad total apenas cambió.\nPostura B: en un metaanálisis de cohortes (hasta 339.090 participantes), la grasa saturada no se asoció con la mortalidad total, la cardiovascular ni la cardiopatía coronaria. Es observacional y sus autores califican esa certeza de muy baja.\nPara la Asociación Americana del Corazón, depende de con qué se sustituya: los ensayos que la cambiaron por aceite vegetal poliinsaturado redujeron la enfermedad cardiovascular en torno a un 30 %; sustituirla por hidratos de carbono refinados y azúcares no la redujo.\nLa conclusión, en versión fútbol ⚽: depende de con qué se sustituya, según la Asociación Americana del Corazón, que es una de las posturas del debate.\n\nEs un resumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Qué otra pregunta has oído mucho?\nEnvíaselo a quien te lo preguntó.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #grasasaturada #mitosdenutricion #comidareal",
   "alt": [
     "Fondo oliva con rayos de cómic. Un móvil negro dibujado a mano enseña la bandeja de mensajes de vivax_nutri, pestaña Solicitudes: llega un mensaje de Pregunta del día, con un signo de interrogación como avatar: una pregunta que se oye mucho. Un bocadillo enorme se sale del móvil: ¿Es verdad que la grasa saturada es mala? Debajo, los botones Eliminar y Aceptar. Agus, el aguacate, señala Aceptar y dice: Respuesta corta: depende. Nacho, la nuez con gafas, pensativo, responde: Quiero la larga.",
     "Dentro del hilo de Pregunta del día. Nacho contesta: Primero, cuánta lleva cada uno. Una tarjeta de grasa saturada por 100 g con barras: mantequilla 51,4 g, aceite de oliva 13,8 g, nueces 6,1 g y aguacate crudo 2,1 g. Agus, pensativo, pregunta: ¿Y eso es mucho o poco?",
     "Postura A, en una nota de voz de Nacho: Reducirla durante dos años o más: los eventos cardiovasculares bajaron un 17 %. Letra pequeña: la mortalidad total apenas cambió. Plácido, el plátano, está escribiendo. Nacho guiña un ojo y dice: Ahora que hable el otro lado.",
     "Postura B, en una nota de voz de Plácido: Hasta 339.090 personas seguidas: más grasa saturada no se asoció a más mortalidad ni a más enfermedad coronaria. Letra pequeña: es observacional, certeza muy baja según sus autores. Agus está escribiendo. Plácido, con su corona, dice: Tranqui, que soy el rey.",
-    "El matiz, de Agus, con un sticker enorme: Depende. De con qué se cambie: por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; por hidratos refinados y azúcares, no la redujo. Según la Asociación Americana del Corazón. Abajo, un avión de papel: Envíaselo a quien te lo preguntó. Aviso: contenido divulgativo, no es consejo personal ni sustituye a tu médico o dietista-nutricionista. Logo de Vivax Nutrición y @vivax_nutri."
+    "El matiz, de Agus, con un sticker enorme: Depende. De con qué se cambie: por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; por hidratos refinados y azúcares, no la redujo. Según la Asociación Americana del Corazón. Abajo, Agus celebra y avisa: Ojo, que llega otra pregunta.",
+    "La conclusión, en el mismo hilo con fondo oliva. Pregunta del día escribe: Explícamelo con fútbol, porfa. Agus responde en letra gigante: Depende de con qué se sustituya. Según la Asociación Americana del Corazón. Debajo manda el tablero de cambios de un árbitro: sale, grasa saturada; en la columna de la enfermedad cardiovascular, entra aceite vegetal poliinsaturado, bajó en torno a un 30 %; entra hidratos refinados y azúcares, no la redujo. Agus, vestido de árbitro con silbato, señala el tablero. Abajo, un avión de papel: Envíaselo a quien te lo preguntó. Aviso: contenido divulgativo, no es consejo personal ni sustituye a tu médico o dietista-nutricionista. Logo de Vivax Nutrición y @vivax_nutri."
   ],
   "produccion": {
     "muestra": false,

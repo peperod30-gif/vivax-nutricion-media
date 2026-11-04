@@ -19,7 +19,8 @@
     "ALI-060",
     "ALI-042",
     "ALI-094",
-    "VIT-010"
+    "VIT-010",
+    "VIT-054"
   ],
   "titulo": "[BH] Radiografía del plato",
   "hojas": [
@@ -194,6 +195,38 @@
     {
       "plantilla": "f_ranking",
       "kicker": "Atlas del plato · Lámina VI",
+      "titulo": "¿Y para qué sirve el {hierro}?",
+      "texto": "Aceituna negra, 6,3 mg. Garbanzo, 2,9 mg. Por 100 g.",
+      "opciones": [
+        {
+          "nombre": "Hierro",
+          "texto": "El repartidor"
+        },
+        {
+          "nombre": "Oxígeno",
+          "texto": "El paquete"
+        }
+      ],
+      "dice": [
+        "¡Reparto a domicilio!",
+        "Mándaselo a tu compi de ensalada."
+      ],
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "franja": [
+        "a",
+        "b"
+      ],
+      "funcion_f100": "conclusion",
+      "hecho_hoja": [
+        "VIT-054",
+        "ALI-041",
+        "ALI-008"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Atlas del plato · Lámina VII",
       "titulo": "La lámina {completa}",
       "opciones": [
         {
@@ -241,14 +274,15 @@
       ]
     }
   ],
-  "pie_instagram": "Lupa a una ensalada de garbanzos: ¿quién lleva más hierro por 100 g, el garbanzo o la aceituna? 🔎\n\nGarbanzo cocido: fibra 7,6 g, proteína 8,9 g y hierro 2,9 mg.\nPimiento rojo crudo: vitamina C 128 mg e hidratos de carbono 6,0 g. La naranja cruda lleva 53,2 mg de vitamina C 🫑\nHuevo cocido: proteína 12,6 g, vitamina D 2,2 µg y vitamina B2 0,51 mg 🥚\nAceituna negra en conserva: hierro 6,3 mg y sodio 735 mg 🫒\nTomate crudo: potasio 237 mg. Cebolla cruda: fibra 1,7 g. Aceite de oliva: vitamina E 14,4 mg.\nCada cifra es por 100 g de ese ingrediente, no del plato entero: no se suman.\n\nEs lo que lleva cada alimento según la tabla de USDA, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\n¿Habías apostado por el garbanzo?\nPásaselo a quien te roba las aceitunas del plato.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #comidareal #legumbres #ensalada",
+  "pie_instagram": "Lupa a una ensalada de garbanzos: ¿quién lleva más hierro por 100 g, el garbanzo o la aceituna? 🔎\n\nGarbanzo cocido: fibra 7,6 g, proteína 8,9 g y hierro 2,9 mg.\nPimiento rojo crudo: vitamina C 128 mg e hidratos de carbono 6,0 g. La naranja cruda lleva 53,2 mg de vitamina C 🫑\nHuevo cocido: proteína 12,6 g, vitamina D 2,2 µg y vitamina B2 0,51 mg 🥚\nAceituna negra en conserva: hierro 6,3 mg y sodio 735 mg 🫒\nTomate crudo: potasio 237 mg. Cebolla cruda: fibra 1,7 g. Aceite de oliva: vitamina E 14,4 mg.\nCada cifra es por 100 g de ese ingrediente, no del plato entero: no se suman.\n\nEs lo que lleva cada alimento según la tabla de USDA, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿Habías apostado por el garbanzo?\nPásaselo a quien te roba las aceitunas del plato.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #comidareal #legumbres #ensalada #hierro",
   "alt": [
-    "Lámina de atlas antiguo en papel crema con doble filete. Titular: ¿Quién lleva más hierro? Una ensalada de garbanzos, a la lupa; cifras por 100 g de cada ingrediente. Un plato visto desde arriba con garbanzos, pimiento rojo, tomate, cebolla morada, medio huevo cocido y aceitunas negras; una lupa aumenta una aceituna. Notas a lápiz: ¿El garbanzo? ¿La aceituna? Ovidio, el huevo con gafas y pajarita, señala el plato y dice: Saquen la lupa: hoy, ensalada.",
+    "Lámina de atlas antiguo en papel verde oliva con doble filete. Titular: ¿Quién lleva más hierro? Una ensalada de garbanzos, a la lupa; cifras por 100 g de cada ingrediente. Un plato visto desde arriba con garbanzos, pimiento rojo, tomate, cebolla morada, medio huevo cocido y aceitunas negras; una lupa aumenta una aceituna. Notas a lápiz: ¿El garbanzo? ¿La aceituna? Ovidio, el huevo con gafas y pajarita, señala el plato y dice: Saquen la lupa: hoy, ensalada.",
     "Lámina II. Garbanzo cocido, ejemplar común que aparece en grupo. La lupa enseña tres garbanzos grandes; uno con cara pregunta: ¿Me estás mirando? Flechas de atlas: a, fibra 7,6 g; b, proteína 8,9 g; c, hierro 2,9 mg. Nota a lápiz: Apunta el hierro. Luego vuelve. Por 100 g de garbanzo cocido, no del plato.",
     "Lámina III. Pimiento rojo crudo, entero y en dados. Un pimiento con cara dice: ¿Naranja? ¿Qué naranja? Flechas: a, vitamina C 128 mg; b, hidratos de carbono 6,0 g. Para comparar: naranja cruda, vitamina C 53,2 mg. Nota a lápiz: Crudo. Al cocinarlo, la vitamina C baja. Por 100 g de pimiento rojo crudo, no del plato.",
     "Lámina IV. Huevo cocido, ejemplar entero con clara y yema juntas. La lupa enseña medio huevo cocido. Flechas: a, proteína 12,6 g; b, vitamina D 2,2 µg; c, vitamina B2 0,51 mg. Ovidio, el huevo con gafas, se ve en la lupa y grita: ¡Me han partido por la mitad! Nota a lápiz: Tranquilo, Ovidio: es un primo. Por 100 g de huevo cocido, no del plato.",
     "Lámina V. Aceituna negra en conserva: ejemplar pequeño, callado, sospechoso. Una aceituna con cara dice: Pequeña, pero con hierro. Flechas: a, hierro 6,3 mg; b, sodio 735 mg. Lámina II: garbanzo cocido, hierro 2,9 mg. Nota a lápiz: Más hierro que el garbanzo. Lo que lleva, no lo que se absorbe. Por 100 g de aceituna negra en conserva, no del plato.",
-    "Lámina VI, la lámina completa: el plato con seis flechas. Huevo cocido, proteína 12,6 g. Garbanzo cocido, fibra 7,6 g. Tomate crudo, potasio 237 mg. Pimiento rojo crudo, vitamina C 128 mg. Aceituna negra en conserva, hierro 6,3 mg. Aceite de oliva, vitamina E 14,4 mg. Por 100 g de cada ingrediente, sin sumar. Pásaselo a quien te roba las aceitunas. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    "Lámina VI, sobre papel verde oliva. Titular: ¿Y para qué sirve el hierro? Aceituna negra, 6,3 mg. Garbanzo, 2,9 mg. Por 100 g. Arriba a la derecha, el plato con el garbanzo y la aceituna marcados; una lupa enseña una bola de hierro con cara y gorra de repartidor que empuja una carretilla llena de burbujas de oxígeno y dice: ¡Reparto a domicilio! Flechas de atlas: a, hierro, el repartidor; b, oxígeno, el paquete. En una cartela oliva, en letra grande: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Debajo: Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal. Ovidio, el huevo con gafas y pajarita, dice: Mándaselo a tu compi de ensalada.",
+    "Lámina VII, la lámina completa: el plato con seis flechas. Huevo cocido, proteína 12,6 g. Garbanzo cocido, fibra 7,6 g. Tomate crudo, potasio 237 mg. Pimiento rojo crudo, vitamina C 128 mg. Aceituna negra en conserva, hierro 6,3 mg. Aceite de oliva, vitamina E 14,4 mg. Por 100 g de cada ingrediente, sin sumar. Pásaselo a quien te roba las aceitunas. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
   ],
   "produccion": {
     "muestra": false,
@@ -261,5 +295,5 @@
     "paleta_libre": true,
     "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BH en Telegram"
   },
-  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); USDA FoodData Central, SR Legacy (2018)."
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); USDA FoodData Central, SR Legacy (2018); Reglamento nº 432/2012."
 }

@@ -8,7 +8,8 @@
   "molde": "fmt-BM",
   "pilar": "ensenar",
   "hechos": [
-    "VIT-006"
+    "VIT-006",
+    "VIT-005"
   ],
   "titulo": "[BM] Encuesta de historia: ¿salmón o trucha? (vitamina D)",
   "hojas": [
@@ -28,15 +29,20 @@
           "valor": "B"
         }
       ],
-      "sigue": "Comenta A o B. La respuesta, en el pie.",
-      "dice": "Envía tu voto por mensaje",
+      "kicker": "¿Y para qué sirve?",
+      "resalte": "La vitamina D contribuye al mantenimiento de los huesos en condiciones normales.",
+      "sigue": [
+        "Comenta A o B. La respuesta, en el pie.",
+        "Mándaselo a quien los confunde siempre"
+      ],
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina D. No es una recomendación personal.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "sistema": "historia de Instagram a sangre con pegatina de encuesta A/B sin votar, pescadería dibujada y dos peces que se señalan"
+      "sistema": "historia de Instagram a sangre con pegatina de encuesta A/B sin votar, pescadería dibujada y dos peces que se señalan; conclusión en una caja de preguntas oliva con una «D» de mantenimiento y un hueso dibujados"
     }
   ],
-  "pie_instagram": "¿Quién lleva más vitamina D por 100 g, el salmón o la trucha? 🐟\n\nVota antes de seguir leyendo: comenta A si dices salmón o B si dices trucha. También vale por mensaje 🗳️\nRespuesta: la trucha 🎣\nTrucha cocinada: 19,0 µg de vitamina D por cada 100 g.\nSalmón cocinado: 13,1 µg por cada 100 g.\nEn la tabla de USDA son trucha arcoíris y salmón atlántico, los dos de piscifactoría y cocinados.\nEs lo que lleva el alimento, no lo que se absorbe, y 100 g es más que muchas raciones habituales.\n\n¿Qué habías votado?\nPásaselo a quien siempre elige salmón.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaD #nutricion #pescado #trucha #salmon",
+  "pie_instagram": "¿Quién lleva más vitamina D por 100 g, el salmón o la trucha? 🐟\n\nVota antes de seguir leyendo: comenta A si dices salmón o B si dices trucha. También vale por mensaje 🗳️\nRespuesta: la trucha 🎣\nTrucha cocinada: 19,0 µg de vitamina D por cada 100 g.\nSalmón cocinado: 13,1 µg por cada 100 g.\nEn la tabla de USDA son trucha arcoíris y salmón atlántico, los dos de piscifactoría y cocinados.\nEs lo que lleva el alimento, no lo que se absorbe, y 100 g es más que muchas raciones habituales.\n\nY para qué sirve: La vitamina D contribuye al mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina D; no es una recomendación personal.\n\n¿Qué habías votado?\nPásaselo a quien siempre elige salmón.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaD #nutricion #pescado #trucha #salmon",
   "alt": [
-    "Imagen que imita una historia de Instagram de vivax_nutri. El fondo es una pescadería dibujada, con azulejos oliva y una cama de hielo. Sobre el hielo, dos peces con patas y zapatillas se señalan el uno al otro con cara de sorpresa: a la izquierda un salmón coral con vetas blancas y a la derecha una trucha con el lomo oliva, una banda rosa y motas negras. Arriba, un texto de historia: «Cuando os confunden en la pescadería». Pegatina de encuesta: «¿Quién lleva más vitamina D? Por cada cien gramos, cocinados». Opciones: A, Salmón; B, Trucha, sin votos. Debajo: «Comenta A o B. La respuesta, en el pie». Barra de respuesta: «Envía tu voto por mensaje». Logo de Vivax Nutrición. Contenido divulgativo; no es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    "Imagen que imita una historia de Instagram de vivax_nutri, en tonos verde oliva. El fondo es una pescadería dibujada, con azulejos oliva y una cama de hielo. Sobre el hielo, dos peces con patas y zapatillas se señalan el uno al otro con cara de sorpresa: a la izquierda un salmón coral con vetas blancas y a la derecha una trucha con el lomo oliva, una banda rosa y motas negras. Arriba, un texto de historia: «Cuando os confunden en la pescadería». Pegatina de encuesta: «¿Quién lleva más vitamina D? Por cada cien gramos, cocinados». Opciones: A, Salmón; B, Trucha, sin votos. Debajo: «Comenta A o B. La respuesta, en el pie». Abajo, una caja de preguntas oliva: «¿Y para qué sirve?». Respuesta en letra grande: «La vitamina D contribuye al mantenimiento de los huesos en condiciones normales». Letra pequeña: declaración autorizada por la UE (Reglamento cuatrocientos treinta y dos de dos mil doce) para alimentos que son fuente de vitamina D; no es una recomendación personal. A su lado, dibujados, una letra D con casco de obra y llave inglesa y un hueso sonriente con patas que levanta el pulgar. Barra de respuesta: «Mándaselo a quien los confunde siempre». Logo de Vivax Nutrición. Contenido divulgativo; no es consejo personal ni sustituye a tu médico o dietista-nutricionista."
   ],
   "produccion": {
     "muestra": false,
@@ -48,6 +54,6 @@
     "paleta_libre": true,
     "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato BM en Telegram"
   },
-  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2018): trucha arcoíris de piscifactoría, cocinada, y salmón atlántico de piscifactoría, cocinado, vitamina D por 100 g (VIT-006). Es composición del alimento, no lo que se absorbe ni una recomendación de cantidad.",
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2018): trucha arcoíris de piscifactoría, cocinada, y salmón atlántico de piscifactoría, cocinado, vitamina D por 100 g (VIT-006). Es composición del alimento, no lo que se absorbe ni una recomendación de cantidad. La frase de la vitamina D y los huesos es una declaración de salud autorizada del Reglamento (UE) nº 432/2012, copiada literal (VIT-005).",
   "frente": "A"
 }

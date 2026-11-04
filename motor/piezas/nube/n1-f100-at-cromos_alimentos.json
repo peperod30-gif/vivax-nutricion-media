@@ -18,7 +18,8 @@
     "ALI-038",
     "ALI-053",
     "ALI-010",
-    "ALI-006"
+    "ALI-006",
+    "VIT-057"
   ],
   "titulo": "[AT] Cromos de la despensa",
   "hojas": [
@@ -192,6 +193,35 @@
       ]
     },
     {
+      "plantilla": "f_ranking",
+      "kicker": "Cromos de la despensa",
+      "titulo": "¿Y para qué sirve tanto potasio?",
+      "unidad": "símbolo K",
+      "opciones": [
+        {
+          "nombre": "Agus",
+          "valor": "485 mg"
+        },
+        {
+          "nombre": "Plácido",
+          "valor": "358 mg"
+        }
+      ],
+      "resalte": "Potasio · por 100 g",
+      "texto": "El potasio contribuye al funcionamiento normal de los músculos.",
+      "frase": "Pásaselo a quien aún cree que el plátano es el rey del potasio.",
+      "franja": [
+        "Seis de cinco",
+        "¡Extra!"
+      ],
+      "aviso": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de potasio. No es una recomendación personal.",
+      "funcion_f100": "conclusion",
+      "hecho_hoja": [
+        "ALI-031",
+        "VIT-057"
+      ]
+    },
+    {
       "plantilla": "lista",
       "kicker": "Cromos de la despensa",
       "titulo": "Colección {completa}",
@@ -223,7 +253,7 @@
       ]
     }
   ],
-  "pie_instagram": "Sobre nuevo: cinco cromos de la despensa con tres datos cada uno 🃏\n\nAgus, aguacate crudo: potasio 485 mg, fibra 6,7 g y azúcares 0,7 g 🥑\nPlácido, plátano crudo: potasio 358 mg, hidratos de carbono 22,8 g y magnesio 27 mg 🍌\nBruno, brócoli cocido: vitamina C 65 mg, calcio 40 mg y fibra 3,3 g 🥦\nNacho, nueces: grasa 65,2 g, magnesio 158 mg y fibra 6,7 g.\nKiko, kiwi crudo: vitamina C 93 mg, fibra 3,0 g e hidratos de carbono 14,7 g 🥝\nTodo por cada 100 g. La repe: Agus y Nacho llevan la misma fibra, 6,7 g.\n\nEs lo que lleva cada alimento según la tabla de USDA, no una recomendación de cantidad ni de comer o evitar nada.\n\n¿Cuál te faltaba?\nMándaselo a quien te cambiaba cromos en el recreo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #comidareal #alimentos #cromos",
+  "pie_instagram": "Sobre nuevo: cinco cromos de la despensa con tres datos cada uno, y uno extra 🃏\n\nAgus, aguacate crudo: potasio 485 mg, fibra 6,7 g y azúcares 0,7 g 🥑\nPlácido, plátano crudo: potasio 358 mg, hidratos de carbono 22,8 g y magnesio 27 mg 🍌\nBruno, brócoli cocido: vitamina C 65 mg, calcio 40 mg y fibra 3,3 g 🥦\nNacho, nueces: grasa 65,2 g, magnesio 158 mg y fibra 6,7 g.\nKiko, kiwi crudo: vitamina C 93 mg, fibra 3,0 g e hidratos de carbono 14,7 g 🥝\nTodo por cada 100 g. La repe: Agus y Nacho llevan la misma fibra, 6,7 g.\n\nEs lo que lleva cada alimento según la tabla de USDA, no una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El potasio contribuye al funcionamiento normal de los músculos. Es una declaración autorizada en la UE para alimentos que son fuente de potasio; no es una recomendación personal.\n\n¿Cuál te faltaba?\nMándaselo a quien te cambiaba cromos en el recreo.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #comidareal #alimentos #cromos",
   "alt": [
     "Portada con fondo oliva: un sobre de cromos abierto del que salen cinco cartas en abanico; la del centro brilla. Agus, el aguacate, pregunta si le toca el brillante y Plácido, el plátano con corona, dice que es suyo. Titular: Cinco cromos. Uno brilla. Tres datos por cromo, por 100 g.",
     "Cromo de Agus (aguacate crudo), por 100 g. Ataques: Lluvia de potasio, 485 mg; Placaje de fibra, 6,7 g; Azúcares de puntillas, 0,7 g. Frase: Mascota oficial del álbum. Eso dice él.",
@@ -231,6 +261,7 @@
     "Cromo de Bruno (brócoli cocido), por 100 g. Ataques: Silbato de vitamina C, 65 mg; Tarjeta de calcio, 40 mg; Penalti de fibra, 3,3 g. Frase: Reglas son reglas: este cromo es de brócoli cocido.",
     "Cromo de Nacho (nueces), por 100 g. Ataques: Grasa en el sumario, 65,2 g; Magnesio en acta, 158 mg; Fibra en el expediente, 6,7 g. Frase: Consta en el expediente: su fibra se repite en otro cromo.",
     "Cromo de Kiko (kiwi crudo), por 100 g. Ataques: Rayo de vitamina C, 93 mg; Pelusa de fibra, 3,0 g; Hidratos de bolsillo, 14,7 g. Frase: Siempre decía ¿y yo qué? Hoy le ha tocado ser el brillante. Es el cromo brillante.",
+    "Cromo extra, seis de cinco, sobre fondo oliva: Agus, el aguacate, y Plácido, el plátano con corona, saltan juntos a la comba en el patio. Etiquetas: 485 mg y 358 mg de potasio por 100 g. Medalla con el símbolo K. Titular: ¿Y para qué sirve tanto potasio? En grande: El potasio contribuye al funcionamiento normal de los músculos. Debajo: Pásaselo a quien aún cree que el plátano es el rey del potasio. Letra pequeña: declaración autorizada por la UE para alimentos que son fuente de potasio; no es una recomendación personal.",
     "Página del álbum con los cinco cromos en sus fundas: Agus, Plácido, Bruno, Nacho y Kiko. En la sexta funda, una repe: Agus y Nacho llevan 6,7 g de fibra por 100 g los dos. Colección completa. Mándaselo a quien te cambiaba cromos en el recreo."
   ],
   "produccion": {
@@ -243,5 +274,5 @@
     "paleta_libre": true,
     "aprobado_por": "José, 3-nov-2026, botón ✅ Mandar del formato AT en Telegram"
   },
-  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019)."
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
 }
