@@ -1,0 +1,89 @@
+{
+  "id": "n1-lx-20261204-reel-duelo-swipe-1300-bacon-cruasan-sodio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-095",
+    "ALI-096"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Cruasán, 384 mg de sodio. ¿Y el bacon frito?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "Cruasán, 384 mg de {sodio}. ¿Y el bacon frito?",
+      "voz": "Todos le dan a paso al bacon. Al cruasán, me gusta: es dulce. Pero el bacon vuelve: mil seiscientos ochenta y cuatro miligramos de sodio. El cruasán, trescientos ochenta y cuatro. ¿Sodio y sal, lo mismo? El sodio no es lo mismo que la sal. Mándaselo a quien cree que lo dulce no lleva sodio."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "bacon frito",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_no": "Paso",
+      "cifra": "1684",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "cruasán de mantequilla",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_si": "Me gusta",
+      "cifra": "384",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g. El bacon frito lleva más de cuatro veces el sodio del cruasán."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Sodio y sal, lo mismo?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato",
+      "frase": "El sodio no es lo mismo que la sal.",
+      "fuente": "Composición por 100 g (USDA). El sodio no tiene declaración de salud autorizada. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien cree que lo dulce no lleva sodio.",
+      "texto": "Mañana a la una, otro duelo en la mesa."
+    }
+  ],
+  "pie_instagram": "Cruasán, 384 mg de sodio. ¿Y el bacon frito?\n\nPor 100 g: bacon frito, 1684 mg de sodio; cruasán de mantequilla, 384 mg.\nPor cada 100 g. El bacon frito lleva más de cuatro veces el sodio del cruasán.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nEl sodio no es lo mismo que la sal.\n\nMándaselo a quien cree que lo dulce no lleva sodio. Mañana a la una, otro duelo en la mesa.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sodio #sal #desayuno #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. Cruasán, 384 mg de sodio. ¿Y el bacon frito? La tarjeta de bacon frito (por 100 g, sodio: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de cruasán de mantequilla: 384 mg de sodio, con el sello «Me gusta». Vuelve bacon frito y su cifra cuenta hasta 1684 mg. Las dos tarjetas, una junto a otra: bacon frito, 1684 mg; cruasán de mantequilla, 384 mg. Por cada 100 g. El bacon frito lleva más de cuatro veces el sodio del cruasán. Bloque verde oliva oscuro: ¿Sodio y sal, lo mismo? El dato: El sodio no es lo mismo que la sal. Cierre con la firma Vivax Nutrición: Mándaselo a quien cree que lo dulce no lleva sodio. Mañana a la una, otro duelo en la mesa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-04",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-12",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261204-1300-bacon-cruasan-sodio",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Azúcar y sal",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261204-1300-bacon-cruasan-sodio",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261204-1300-bacon-cruasan-sodio",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, consultado en octubre de 2026: bacon frito, 1684 mg de sodio por 100 g (ALI-095); cruasán de mantequilla, 384 mg de sodio por 100 g (ALI-096). Cálculo: 1684 / 384 = 4,4, de ahí «más de cuatro veces». El sodio no es lo mismo que la sal, como dice el matiz de las dos entradas. El sodio no tiene declaración de salud autorizada: la conclusión es ese matiz del banco. Es composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

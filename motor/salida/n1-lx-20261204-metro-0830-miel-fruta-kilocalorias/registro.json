@@ -1,0 +1,1430 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 21.84,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.66,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.1,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.2,
+ "n_cambios_visuales": 192,
+ "bucle_dif_ultimo_primero": 76.53,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Línea energía",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    416,
+    362
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cuenta atrás dulce: el último salto, más del triple.",
+   "contando": false,
+   "r": [
+    96,
+    360,
+    793,
+    613
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Kilocalorías por 100 g, no por ración. La fruta, cruda.",
+   "contando": false,
+   "r": [
+    96,
+    625,
+    791,
+    671
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1378,
+    482,
+    1421
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    598,
+    1270,
+    702,
+    1313
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    343,
+    1203,
+    482,
+    1246
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    598,
+    1079,
+    729,
+    1122
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Parada IV",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    342,
+    362
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    96,
+    358,
+    326,
+    477
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "32",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    228,
+    689
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    233,
+    595,
+    293,
+    646
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1255,
+    482,
+    1298
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    598,
+    1148,
+    702,
+    1191
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "32",
+   "contando": false,
+   "r": [
+    598,
+    1189,
+    638,
+    1246
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    643,
+    1204,
+    686,
+    1241
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    343,
+    1081,
+    482,
+    1124
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    598,
+    957,
+    729,
+    1000
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Parada III",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    346,
+    362
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    96,
+    358,
+    418,
+    477
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "52",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    226,
+    689
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    230,
+    595,
+    290,
+    646
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1325,
+    482,
+    1368
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    598,
+    1218,
+    702,
+    1261
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "32",
+   "contando": false,
+   "r": [
+    598,
+    1259,
+    638,
+    1316
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    643,
+    1274,
+    686,
+    1311
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    343,
+    1151,
+    482,
+    1194
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "52",
+   "contando": false,
+   "r": [
+    395,
+    1192,
+    434,
+    1249
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    438,
+    1207,
+    482,
+    1244
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    598,
+    1027,
+    729,
+    1070
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "Parada II",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    333,
+    362
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    96,
+    358,
+    371,
+    477
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "89",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    234,
+    689
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    238,
+    595,
+    299,
+    646
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    598,
+    1355,
+    702,
+    1398
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "32",
+   "contando": false,
+   "r": [
+    598,
+    1396,
+    638,
+    1453
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    643,
+    1411,
+    686,
+    1448
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    343,
+    1288,
+    482,
+    1331
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "52",
+   "contando": false,
+   "r": [
+    395,
+    1328,
+    434,
+    1385
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    438,
+    1343,
+    482,
+    1380
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    598,
+    1163,
+    729,
+    1206
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "89",
+   "contando": false,
+   "r": [
+    598,
+    1204,
+    639,
+    1261
+   ]
+  },
+  {
+   "t": 11.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    644,
+    1219,
+    688,
+    1256
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Parada I · Fin de trayecto",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    634,
+    362
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Miel",
+   "contando": false,
+   "r": [
+    96,
+    358,
+    255,
+    477
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "304",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    317,
+    689
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    321,
+    595,
+    381,
+    646
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Miel",
+   "contando": false,
+   "r": [
+    412,
+    1053,
+    482,
+    1096
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "304",
+   "contando": false,
+   "r": [
+    369,
+    1094,
+    434,
+    1151
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    438,
+    1109,
+    482,
+    1146
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Parada I · Fin de trayecto",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    634,
+    362
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Miel",
+   "contando": false,
+   "r": [
+    96,
+    358,
+    255,
+    477
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "304",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    317,
+    689
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    321,
+    595,
+    381,
+    646
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1408,
+    482,
+    1451
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    598,
+    1340,
+    702,
+    1383
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "32",
+   "contando": false,
+   "r": [
+    598,
+    1381,
+    638,
+    1438
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    643,
+    1396,
+    686,
+    1433
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    343,
+    1299,
+    482,
+    1342
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "52",
+   "contando": false,
+   "r": [
+    395,
+    1339,
+    434,
+    1396
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    438,
+    1354,
+    482,
+    1391
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Plátano",
+   "contando": false,
+   "r": [
+    598,
+    1221,
+    729,
+    1264
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "89",
+   "contando": false,
+   "r": [
+    598,
+    1262,
+    639,
+    1319
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    644,
+    1277,
+    688,
+    1314
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "Miel",
+   "contando": false,
+   "r": [
+    412,
+    770,
+    482,
+    813
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "304",
+   "contando": false,
+   "r": [
+    369,
+    810,
+    434,
+    867
+   ]
+  },
+  {
+   "t": 14.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    438,
+    825,
+    482,
+    862
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "¿Y el salto, en cifras?",
+   "contando": false,
+   "r": [
+    96,
+    323,
+    804,
+    608
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "El dato",
+   "contando": false,
+   "r": [
+    174,
+    780,
+    303,
+    810
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "Plátano,",
+   "contando": false,
+   "r": [
+    96,
+    834,
+    369,
+    944
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "89",
+   "contando": false,
+   "r": [
+    387,
+    834,
+    468,
+    944
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "kcal;",
+   "contando": false,
+   "r": [
+    485,
+    834,
+    643,
+    944
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "miel,",
+   "contando": false,
+   "r": [
+    660,
+    834,
+    824,
+    944
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "304",
+   "contando": false,
+   "r": [
+    96,
+    918,
+    222,
+    1028
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "kcal.",
+   "contando": false,
+   "r": [
+    240,
+    918,
+    396,
+    1028
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    414,
+    918,
+    534,
+    1028
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "100",
+   "contando": false,
+   "r": [
+    552,
+    918,
+    674,
+    1028
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "g,",
+   "contando": false,
+   "r": [
+    691,
+    918,
+    751,
+    1028
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    769,
+    918,
+    852,
+    1028
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    96,
+    1001,
+    213,
+    1111
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "ración.",
+   "contando": false,
+   "r": [
+    231,
+    1001,
+    460,
+    1111
+   ]
+  },
+  {
+   "t": 19.3,
+   "texto": "Composición por 100 g (USDA). La energía no tiene declaración de salud autorizada. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1309,
+    894,
+    1362
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    821,
+    372,
+    909
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    387,
+    821,
+    419,
+    909
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    433,
+    821,
+    573,
+    909
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "endulza",
+   "contando": false,
+   "r": [
+    587,
+    821,
+    789,
+    909
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    804,
+    821,
+    854,
+    909
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "fruta",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    224,
+    975
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    239,
+    887,
+    326,
+    975
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "miel.",
+   "contando": false,
+   "r": [
+    340,
+    887,
+    461,
+    975
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    636,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    821,
+    372,
+    909
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    387,
+    821,
+    419,
+    909
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    433,
+    821,
+    573,
+    909
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "endulza",
+   "contando": false,
+   "r": [
+    587,
+    821,
+    789,
+    909
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    804,
+    821,
+    854,
+    909
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "fruta",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    224,
+    975
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    239,
+    887,
+    326,
+    975
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "miel.",
+   "contando": false,
+   "r": [
+    340,
+    887,
+    461,
+    975
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Mañana por la mañana, otra cuenta atrás: el picoteo del sábado.",
+   "contando": false,
+   "r": [
+    96,
+    1227,
+    836,
+    1330
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1376,
+    282,
+    1419
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.667,
+  8.7,
+  11.1,
+  13.867,
+  14.667,
+  19.3,
+  20.4,
+  21.767
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.62,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
+  "efectos_por_tipo": {
+   "tic": 1,
+   "tac": 4,
+   "ding": 3,
+   "whoosh": 2,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 21.779,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 264,
+   "lineas": [
+    {
+     "texto": "Cuenta atrás dulce: el último salto, más del triple.",
+     "hablado": "Cuenta atrás dulce: el último salto, más del triple.",
+     "t0": 0.0213,
+     "t1": 3.6213
+    },
+    {
+     "texto": "Cuatro, fresas: treinta y dos kilocalorías.",
+     "hablado": "Cuatro, fresas: treinta y dos kilocalorías.",
+     "t0": 3.7014,
+     "t1": 6.6664
+    },
+    {
+     "texto": "Tres, manzana: cincuenta y dos.",
+     "hablado": "Tres, manzana: cincuenta y dos.",
+     "t0": 6.7464,
+     "t1": 9.1014
+    },
+    {
+     "texto": "Dos, plátano: ochenta y nueve.",
+     "hablado": "Dos, plátano: ochenta y nueve.",
+     "t0": 9.1814,
+     "t1": 11.4414
+    },
+    {
+     "texto": "Uno, la miel: trescientas cuatro.",
+     "hablado": "Uno, la miel: trescientas cuatro.",
+     "t0": 11.5214,
+     "t1": 14.1164
+    },
+    {
+     "texto": "Por cien gramos, no por ración.",
+     "hablado": "Por cien gramos, no por ración.",
+     "t0": 15.4514,
+     "t1": 17.7464
+    },
+    {
+     "texto": "Mándaselo a quien endulza la fruta con miel.",
+     "hablado": "Mándaselo a quien endulza la fruta con miel.",
+     "t0": 17.8264,
+     "t1": 20.4664
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.0
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.35,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.241,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 5.161,
+   "tipo": "ding",
+   "intensidad": 0.32
+  },
+  {
+   "t": 7.281,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 8.201,
+   "tipo": "ding",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.666,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 10.586,
+   "tipo": "ding",
+   "intensidad": 0.32
+  },
+  {
+   "t": 12.151,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 13.371,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 13.301,
+   "tipo": "whoosh",
+   "intensidad": 0.32
+  },
+  {
+   "t": 15.451,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 19.411,
+   "tipo": "pop",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 654,
+ "tiempo_render_s": 73.2,
+ "tiempos_s": {
+  "preparar": 2.6,
+  "dibujar_y_codificar": 66.64
+ },
+ "voz_de_prueba": false
+}

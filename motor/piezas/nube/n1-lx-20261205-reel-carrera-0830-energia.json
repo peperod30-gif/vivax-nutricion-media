@@ -1,0 +1,108 @@
+{
+  "id": "n1-lx-20261205-reel-carrera-0830-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-carrera",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-077",
+    "ALI-081",
+    "DEB-025"
+  ],
+  "titulo": "[REEL-CARRERA] Picoteo: ¿cuál pasa de quinientas kilocalorías?",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "Picoteo: ¿cuál pasa de quinientas {kilocalorías}?",
+      "texto": "Cada alimento corre a la velocidad de su energía.",
+      "franja": "Meta",
+      "items": [
+        "palomitas de maíz sin aceite",
+        "patatas fritas de bolsa",
+        "zanahoria cruda",
+        "salami curado de cerdo"
+      ],
+      "dato": "Por 100 g de alimento"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Orden de llegada",
+      "titulo": "{Energía} por 100 g",
+      "filas": [
+        {
+          "detalle": "i.",
+          "nombre": "patatas fritas de bolsa",
+          "valor": "532",
+          "unidad": "kcal"
+        },
+        {
+          "detalle": "ii.",
+          "nombre": "salami curado de cerdo",
+          "valor": "407",
+          "unidad": "kcal"
+        },
+        {
+          "detalle": "iii.",
+          "nombre": "palomitas de maíz sin aceite",
+          "valor": "387",
+          "unidad": "kcal"
+        },
+        {
+          "detalle": "iv.",
+          "nombre": "zanahoria cruda",
+          "valor": "41",
+          "unidad": "kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Cada uno en su estado: zanahoria cruda, palomitas sin aceite, salami curado."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y cuáles son ultraprocesados?",
+      "resalte": "El dato",
+      "frase": "Ni los especialistas coinciden: con la escala NOVA, su acuerdo fue bajo (kappa de 0,32 y 0,34).",
+      "fuente": "Un kappa de 1 sería acuerdo total. Es un dato de una de las posturas del debate sobre los ultraprocesados, no un veredicto. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien prepara el picoteo del sábado.",
+      "texto": "A media mañana, en el Aula: pistachos contra cacahuetes."
+    }
+  ],
+  "pie_instagram": "Picoteo: ¿cuál pasa de quinientas kilocalorías?\n\nEnergía por 100 g, en orden de llegada: patatas fritas de bolsa, 532 kcal; salami curado de cerdo, 407 kcal; palomitas de maíz sin aceite, 387 kcal; zanahoria cruda, 41 kcal.\nCada uno en su estado: zanahoria cruda, palomitas sin aceite, salami curado.\nEn la carrera, cada alimento corre a la velocidad de su energía: en la foto de meta, cada uno ha recorrido la parte de la pista que marca su cifra.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nNi los especialistas coinciden: con la escala NOVA, su acuerdo fue bajo (kappa de 0,32 y 0,34).\n\nMándaselo a quien prepara el picoteo del sábado. A media mañana, en el Aula: pistachos contra cacahuetes.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#picoteo #kilocalorias #ultraprocesados #nutricion",
+  "alt": [
+    "Reel en blanco y verde oliva: una carrera de 4 alimentos dibujados en línea fina, uno por calle; cada uno corre a la velocidad de su energía por 100 g y, en la foto de meta, las distancias son sus cifras. Cuenta atrás de la mañana. Picoteo: ¿cuál pasa de quinientas kilocalorías? Cada alimento corre a la velocidad de su energía. Por 100 g de alimento. palomitas de maíz sin aceite. patatas fritas de bolsa. zanahoria cruda. salami curado de cerdo. Orden de llegada. Energía por 100 g. patatas fritas de bolsa 532 kcal. salami curado de cerdo 407 kcal. palomitas de maíz sin aceite 387 kcal. zanahoria cruda 41 kcal. Cada uno en su estado: zanahoria cruda, palomitas sin aceite, salami curado. ¿Y cuáles son ultraprocesados? El dato. Ni los especialistas coinciden: con la escala NOVA, su acuerdo fue bajo (kappa de 0,32 y 0,34). A media mañana, en el Aula: pistachos contra cacahuetes. Mándaselo a quien prepara el picoteo del sábado."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-05",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-carrera",
+    "formato": "REEL-CARRERA",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "nota": "plantilla reel_carrera (spec n1-lux-20261205-0830-picoteo-kilocalorias)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Debates con datos",
+    "mecanica": "reel_ranking",
+    "frente": "publico",
+    "plantilla_lux": "reel_carrera",
+    "spec_id": "n1-lux-20261205-0830-picoteo-kilocalorias",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261205-0830-picoteo-kilocalorias",
+    "plantilla_visual": "reel_carrera",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy, consultado en octubre de 2026: por cada 100 g, patatas fritas de bolsa 532 kcal, palomitas de maíz sin aceite 387 kcal y zanahoria cruda 41 kcal (ALI-077); salami curado de cerdo 407 kcal (ALI-081). Son kilocalorías por 100 g del alimento, no por ración. Conclusión: Braesco V et al. European Journal of Clinical Nutrition 2022;76:1245-1253 (DEB-025): en una encuesta a especialistas franceses en alimentación y nutrición (159 evaluadores para 120 productos y 177 para 111 alimentos genéricos), la coincidencia al clasificar los alimentos en los grupos NOVA fue baja (kappa de Fleiss de 0,32 y 0,34, donde 1 es acuerdo total). Salvedad: es una encuesta sobre la clasificación, no un estudio de salud; no dice si los ultraprocesados dañan, y hubo más acuerdo en algunos productos. La energía no tiene declaración de salud autorizada. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

@@ -1,0 +1,143 @@
+{
+  "id": "n1-lx-20261203-radiografia-1030-merienda-chocolate-grasa",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-radiografia",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-121",
+    "ALI-106",
+    "ALI-089"
+  ],
+  "titulo": "[RADIOGRAFIA] Merienda a la lupa: ¿quién pone más grasa?",
+  "hojas": [
+    {
+      "plantilla": "f_dato",
+      "kicker": "Radiografía del plato",
+      "titulo": "Merienda a la lupa: ¿quién pone más {grasa}?",
+      "texto": "Merienda de cruasán, chocolate y leche, a la lupa.",
+      "dato": "Por 100 g de cada uno"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina I",
+      "titulo": "Leche desnatada",
+      "dato": "grasa",
+      "cifra": "0,1",
+      "unidad": "g",
+      "texto": "El vaso que acompaña. Casi ni se nota.",
+      "frase": "Por 100 g de leche desnatada, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina II",
+      "titulo": "Cruasán de mantequilla",
+      "dato": "grasa",
+      "cifra": "21,0",
+      "unidad": "g",
+      "texto": "De mantequilla, como avisa su nombre.",
+      "resalte": "Láminas anteriores",
+      "items": [
+        {
+          "nombre": "Leche desnatada",
+          "valor": "0,1",
+          "unidad": "g"
+        }
+      ],
+      "frase": "Por 100 g de cruasán de mantequilla, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina III",
+      "titulo": "Chocolate con leche",
+      "dato": "grasa",
+      "cifra": "29,7",
+      "unidad": "g",
+      "texto": "La onza de la merienda, aquí en 100 g.",
+      "resalte": "Láminas anteriores",
+      "items": [
+        {
+          "nombre": "Leche desnatada",
+          "valor": "0,1",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "21,0",
+          "unidad": "g"
+        }
+      ],
+      "frase": "Por 100 g de chocolate con leche, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "La lámina completa",
+      "titulo": "Por 100 g de cada uno, el chocolate con leche lleva casi trescientas veces la grasa de la leche desnatada.",
+      "texto": "Por 100 g de cada ingrediente. Sin sumar.",
+      "items": [
+        {
+          "nombre": "Leche desnatada",
+          "valor": "0,1",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Cruasán de mantequilla",
+          "valor": "21,0",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Chocolate con leche",
+          "valor": "29,7",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y cuántas veces más?",
+      "resalte": "El dato",
+      "fuente": "Composición por 100 g de cada ingrediente, no de la merienda. No es una recomendación personal.",
+      "texto": "Por cada 100 g, el chocolate con leche lleva 29,7 g de grasa: casi trescientas veces la de la leche desnatada."
+    },
+    {
+      "plantilla": "f_frase",
+      "texto": "Mándaselo a quien merienda como en casa de la abuela.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "dato": "El sábado, otra Aula Vivax con la despensa a la lupa."
+    }
+  ],
+  "pie_instagram": "Merienda a la lupa: ¿quién pone más grasa?\n\nGrasa por cada 100 g de cada ingrediente: chocolate con leche, 29,7 g; cruasán de mantequilla, 21,0 g; leche desnatada, 0,1 g.\nSon cifras por 100 g de cada ingrediente, no del plato entero: no se suman.\nPor 100 g de cada uno, el chocolate con leche lleva casi trescientas veces la grasa de la leche desnatada.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato: Por cada 100 g, el chocolate con leche lleva 29,7 g de grasa: casi trescientas veces la de la leche desnatada.\n\n¿Cuál habías dicho tú?\nMándaselo a quien merienda como en casa de la abuela. El sábado, otra Aula Vivax con la despensa a la lupa.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasa #merienda #chocolate #nutricion",
+  "alt": [
+    "Portada en blanco y oliva: merienda de cruasán, chocolate y leche visto desde arriba, dibujado en línea fina con sus ingredientes, y una lupa sobre uno de ellos. Radiografía del plato. Merienda a la lupa: ¿quién pone más grasa? Merienda de cruasán, chocolate y leche, a la lupa. Por 100 g de cada uno.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre leche desnatada dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina I. Leche desnatada. 0,1 g. El vaso que acompaña. Casi ni se nota. grasa. Por 100 g de leche desnatada, no del plato.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre cruasán de mantequilla dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina II. Cruasán de mantequilla. 21,0 g. De mantequilla, como avisa su nombre. grasa. Leche desnatada 0,1 g. Láminas anteriores. Por 100 g de cruasán de mantequilla, no del plato.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre chocolate con leche dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina III. Chocolate con leche. 29,7 g. La onza de la merienda, aquí en 100 g. grasa. Leche desnatada 0,1 g. Cruasán de mantequilla 21,0 g. Láminas anteriores. Por 100 g de chocolate con leche, no del plato.",
+    "Lámina completa en oliva: el plato con una flecha a cada ingrediente, su nombre y su cifra. La lámina completa. Por 100 g de cada uno, el chocolate con leche lleva casi trescientas veces la grasa de la leche desnatada. Por 100 g de cada ingrediente. Sin sumar. Leche desnatada 0,1 g. Cruasán de mantequilla 21,0 g. Chocolate con leche 29,7 g.",
+    "Hoja en blanco y oliva profundo con el ingrediente dentro de una lupa en línea blanca. ¿Y cuántas veces más? Por cada 100 g, el chocolate con leche lleva 29,7 g de grasa: casi trescientas veces la de la leche desnatada. El dato.",
+    "Cierre en oliva con la firma de Vivax y el plato pequeño. Mándaselo a quien merienda como en casa de la abuela. El sábado, otra Aula Vivax con la despensa a la lupa."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-03",
+    "serie": "Aula Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "car_radiografia",
+    "formato": "RADIOGRAFIA",
+    "lote": "lux-2026-12",
+    "hora": "10:30",
+    "nota": "Plantilla car_radiografia (tpl_car_radiografia_lux).",
+    "pilar_plan": "Fibra e hidratos",
+    "familia": "car_plato",
+    "mecanica": "car_plato",
+    "spec_id": "n1-lux-20261203-1030-merienda-chocolate-grasa",
+    "frente": "publico",
+    "orden": "ascendente",
+    "spec": "n1-lux-20261203-1030-merienda-chocolate-grasa",
+    "plantilla_visual": "car_radiografia",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), grasa por 100 g: chocolate con leche 29,7 g (ALI-089); cruasán de mantequilla 21,0 g (ALI-106); leche desnatada 0,1 g (ALI-121). Cálculo propio: 29,7 entre 0,1 da 297, «casi trescientas veces». Son cifras por 100 g de cada ingrediente, no de la merienda entera: no se suman, y una onza o un vaso pesan otra cosa. La grasa no tiene declaración de salud autorizada: la conclusión es una lectura de las cifras del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada."
+}

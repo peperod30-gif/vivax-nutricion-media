@@ -1,0 +1,99 @@
+{
+  "id": "n1-lx-20261203-cinta-0830-cereales-zumo-hidratos",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-023",
+    "ALI-057",
+    "ALI-085"
+  ],
+  "titulo": "[CINTA] ¿Qué fruta pasa a la patata cocida en hidratos?",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Hidratos de carbono por 100 g",
+      "titulo": "¿Qué fruta pasa a la patata cocida en {hidratos}?",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "cuscús cocido",
+          "valor": "23,2",
+          "unidad": "g"
+        },
+        {
+          "cab": "II",
+          "nombre": "plátano",
+          "valor": "22,8",
+          "unidad": "g"
+        },
+        {
+          "cab": "III",
+          "nombre": "patata cocida",
+          "valor": "20,1",
+          "unidad": "g"
+        },
+        {
+          "cab": "IV",
+          "nombre": "kiwi",
+          "valor": "14,7",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "cuscús cocido",
+      "cifra": "23,2",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "La fruta que pasa a la patata",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g: plátano, 22,8 g de hidratos de carbono; patata cocida, 20,1 g.",
+      "fuente": "Composición por 100 g (USDA), no por ración. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien aparta la patata y se come el plátano.",
+      "texto": "Mañana temprano, otra cuenta atrás de la despensa."
+    }
+  ],
+  "pie_instagram": "¿Qué fruta pasa a la patata cocida en {hidratos}?\n\nHidratos de carbono por 100 g: cuscús cocido, 23,2 g; plátano, 22,8 g; patata cocida, 20,1 g; kiwi, 14,7 g.\nPor cada 100 g. La fruta, cruda; la patata y el cuscús, cocidos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: plátano, 22,8 g de hidratos de carbono; patata cocida, 20,1 g.\n\n¿Cuál habías puesto arriba?\nMándaselo a quien aparta la patata y se come el plátano.\nMañana temprano, otra cuenta atrás de la despensa.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #patata #cuentaatras #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Hidratos de carbono por 100 g. ¿Qué fruta pasa a la patata cocida en hidratos? Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: IV, kiwi, 14,7 g; III, patata cocida, 20,1 g; II, plátano, 22,8 g. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 23,2 g: I, cuscús cocido. La fruta que pasa a la patata El dato final: Por cada 100 g: plátano, 22,8 g de hidratos de carbono; patata cocida, 20,1 g. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien aparta la patata y se come el plátano. Mañana temprano, otra cuenta atrás de la despensa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-03",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261203-0830-cereales-zumo-hidratos",
+    "pilar_plan": "Fibra e hidratos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261203-0830-cereales-zumo-hidratos",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), hidratos de carbono por 100 g: kiwi 14,7 g y plátano 22,8 g, fruta cruda (ALI-023); patata cocida 20,1 g (ALI-057); cuscús cocido 23,2 g (ALI-085). Cálculo propio: 22,8 menos 20,1 son 2,7 g. Son cifras por 100 g de cada alimento, no por ración. Los hidratos de carbono no tienen declaración de salud autorizada: la conclusión es una lectura de las cifras del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

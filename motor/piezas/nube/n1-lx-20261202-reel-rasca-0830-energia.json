@@ -1,0 +1,105 @@
+{
+  "id": "n1-lx-20261202-reel-rasca-0830-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-rasca",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-131",
+    "ALI-136",
+    "ALI-144",
+    "ALI-081"
+  ],
+  "titulo": "[REEL-RASCA] Tres segundos: ¿pan blanco o salchicha arriba?",
+  "hojas": [
+    {
+      "plantilla": "f_frase",
+      "kicker": "Rasca el dato",
+      "titulo": "Tres segundos: ¿pan blanco o {salchicha} arriba?",
+      "dato": "Cuenta atrás de la mañana",
+      "texto": "Por 100 g de alimento",
+      "items": [
+        "Rasca",
+        "Sorpresa"
+      ],
+      "voz": "Tres segundos. ¿Pan blanco o salchicha arriba? Cuarto, el café solo: casi nada. Tercero, el tomate. Segundo, el pan blanco: doscientas sesenta y seis kilocalorías. Y arriba, la salchicha: doscientas sesenta y nueve. ¿Cuánto los separa? Tres, por cada cien gramos. Mándaselo a quien pide bocata de salchicha."
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "Café solo",
+          "valor": "1,0",
+          "unidad": "kcal"
+        },
+        {
+          "nombre": "Tomate crudo",
+          "valor": "18",
+          "unidad": "kcal"
+        },
+        {
+          "nombre": "Pan blanco",
+          "valor": "266",
+          "unidad": "kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_reel",
+      "items": [
+        {
+          "nombre": "Salchicha tipo frankfurt",
+          "valor": "269",
+          "unidad": "kcal"
+        }
+      ],
+      "texto": "de energía"
+    },
+    {
+      "plantilla": "f_frase",
+      "kicker": "Rasca el dato",
+      "resalte": "Lo que dice el dato",
+      "frase": "Por cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía; pan blanco, 266 kcal. Tres de diferencia.",
+      "fuente": "Composición por 100 g de alimento. No es una recomendación personal.",
+      "items": [
+        "Rasca"
+      ],
+      "titulo": "¿Y cuánto los separa?"
+    },
+    {
+      "plantilla": "f_frase",
+      "kicker": "Cuenta atrás de la mañana",
+      "texto": "Mándaselo a quien pide bocata de salchicha.",
+      "dato": "Mañana temprano: una fruta contra la patata, en hidratos."
+    }
+  ],
+  "pie_instagram": "Tres segundos: ¿pan blanco o salchicha arriba?\n\nEnergía por 100 g: café solo, 1,0 kcal; tomate crudo, 18 kcal; pan blanco, 266 kcal; y en la casilla sorpresa, salchicha tipo frankfurt, 269 kcal.\nPor cada 100 g. El café, solo; el tomate, crudo; el pan, blanco y sin tostar.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía; pan blanco, 266 kcal. Tres de diferencia.\n\n¿Habías apostado por el pan?\nMándaselo a quien pide bocata de salchicha. Mañana temprano: una fruta contra la patata, en hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#kilocalorias #cuentaatras #almuerzo #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una tarjeta de rasca de lujo, «Rasca el dato». Una moneda de oliva rasca la lámina oliva oscura de 3 filas y de la casilla sorpresa; luego el reverso de la tarjeta descubre la conclusión y cierra la firma de Vivax. Rasca el dato. Tres segundos: ¿pan blanco o salchicha arriba? Por 100 g de alimento. Cuenta atrás de la mañana. Rasca. Sorpresa. Café solo 1,0 kcal. Tomate crudo 18 kcal. Pan blanco 266 kcal. de energía. Salchicha tipo frankfurt 269 kcal. Rasca el dato. ¿Y cuánto los separa? Rasca. Lo que dice el dato. Por cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía; pan blanco, 266 kcal. Tres de diferencia. Cuenta atrás de la mañana. Mándaselo a quien pide bocata de salchicha. Mañana temprano: una fruta contra la patata, en hidratos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-02",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-rasca",
+    "formato": "REEL-RASCA",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "nota": "plantilla reel_rasca (Vivax Luxury); spec n1-lux-20261202-0830-cafe-miel-energia. En lo publicado se dice «tarjeta», nunca «boleto», «premio» ni «suerte» (sin connotación de juego, como el BD)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Vitaminas",
+    "spec": "n1-lux-20261202-0830-cafe-miel-energia",
+    "mecanica": "reel_ranking",
+    "voz_de_prueba": false,
+    "plantilla_visual": "reel_rasca",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), energía por 100 g: café solo 1,0 kcal (ALI-131); tomate crudo 18 kcal (ALI-136); pan blanco 266 kcal (ALI-144); salchicha de cerdo tipo frankfurt 269 kcal (ALI-081, la misma cifra que ALI-115). Cálculo propio: 269 menos 266 son 3 kcal. Son cifras por 100 g de cada alimento, no por ración: un bocadillo lleva más pan que salchicha. La energía no tiene declaración de salud autorizada: la conclusión es una lectura de las cifras del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

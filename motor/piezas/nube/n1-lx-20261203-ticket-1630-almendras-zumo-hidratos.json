@@ -1,0 +1,77 @@
+{
+  "id": "n1-lx-20261203-ticket-1630-almendras-zumo-hidratos",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-ticket",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-054",
+    "ALI-073",
+    "ALI-084"
+  ],
+  "titulo": "[TICKET] Las almendras, el doble de hidratos que el zumo.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Las almendras, el doble de {hidratos} que el zumo.",
+      "kicker": "Hidratos por 100 g",
+      "unidad": "g",
+      "filas": [
+        {
+          "nombre": "Almendras",
+          "valor": "21,6"
+        },
+        {
+          "nombre": "Zumo de naranja",
+          "valor": "10,4"
+        },
+        {
+          "nombre": "Cereales azucarados",
+          "valor": "90,2"
+        },
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "10,7"
+        }
+      ],
+      "respuesta": "Total*",
+      "etiqueta_si": "Pagado",
+      "fuentes": [
+        "*Aquí no se suma: se cobra la línea más alta."
+      ],
+      "resalte": "El dato",
+      "titular": "¿Y si fuera la naranja entera?",
+      "frase": "La naranja entera, además, lleva fibra; el zumo es el de naranja sin añadidos.",
+      "fuente": "Composición por 100 g (USDA). Los hidratos no tienen declaración de salud autorizada. No es una recomendación personal.",
+      "sigue": "Pásale el ticket a quien toma almendras porque no llevan hidratos.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Las almendras, el doble de hidratos que el zumo. 🧾\n\nPor cada 100 g, hidratos de carbono: almendras 21,6 g, zumo de naranja 10,4 g, cereales azucarados 90,2 g y pipas de calabaza 10,7 g.\nEn el ticket no se suma nada: cada línea es de 100 g de un alimento distinto, así que el total es la línea más alta.\nFrutos secos y semillas, tal cual; el zumo, sin añadidos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nLa naranja entera, además, lleva fibra; el zumo es el de naranja sin añadidos.\n\n¿Habrías dicho que la almendra dobla al zumo?\nPásale el ticket a quien toma almendras porque no llevan hidratos. Mañana por la tarde: la fruta que casi no lleva azúcares.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #frutossecos #desayuno #nutricion",
+  "alt": [
+    "Imagen en verde oliva con un ticket de caja de papel blanco, de bordes dentados, dibujado en línea fina negra. Debajo, un bloque en oliva oscuro. En lo alto del ticket, la firma Vivax Nutrición. Las almendras, el doble de hidratos que el zumo. Hidratos por 100 g; cifras en g. Líneas en orden de caja, cada una con una barra proporcional: Almendras 21,6 g; Zumo de naranja 10,4 g; Cereales azucarados 90,2 g; Pipas de calabaza 10,7 g. Total*: Cereales azucarados, 90,2 g, junto a un dibujo en línea de cereales azucarados y un sello que dice Pagado. *Aquí no se suma: se cobra la línea más alta. El dato. ¿Y si fuera la naranja entera? La naranja entera, además, lleva fibra; el zumo es el de naranja sin añadidos. Composición por 100 g (USDA). Los hidratos no tienen declaración de salud autorizada. No es una recomendación personal. Pásale el ticket a quien toma almendras porque no llevan hidratos. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-03",
+    "serie": "La cifra de la tarde",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "img_ticket",
+    "formato": "TICKET",
+    "lote": "lux-2026-12",
+    "hora": "16:30",
+    "nota": "plantilla img_ticket (tpl_img_ticket_lux.py)",
+    "pilar_plan": "Fibra e hidratos",
+    "mecanica": "img_ranking",
+    "familia": "img_ranking",
+    "spec_id": "n1-lux-20261203-1630-almendras-zumo-hidratos",
+    "frente": "publico",
+    "spec": "n1-lux-20261203-1630-almendras-zumo-hidratos",
+    "plantilla_visual": "img_ticket",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, consultado en octubre de 2026. Por cada 100 g de hidratos de carbono: almendras 21,6 g y pipas de calabaza 10,7 g, frutos secos y semillas tal cual (ALI-054); zumo de naranja 10,4 g, sin añadidos (ALI-073); cereales de desayuno azucarados 90,2 g (ALI-084). Cálculo: 21,6 / 10,4 = 2,1, de ahí «el doble». La conclusión es el matiz de ALI-073: la naranja entera, además, lleva fibra, y el zumo es el de naranja sin añadidos. Los hidratos no tienen declaración de salud autorizada. Es composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada."
+}

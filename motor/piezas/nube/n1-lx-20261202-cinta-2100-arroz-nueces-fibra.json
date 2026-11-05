@@ -1,0 +1,99 @@
+{
+  "id": "n1-lx-20261202-cinta-2100-arroz-nueces-fibra",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-109",
+    "ALI-038",
+    "ALI-006"
+  ],
+  "titulo": "[CINTA] Siete décimas de fibra separan a pipas y nueces.",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Fibra por 100 g",
+      "titulo": "Siete décimas de {fibra} separan a pipas y nueces.",
+      "dato": "El quiz de la noche"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "nueces",
+          "valor": "6,7",
+          "unidad": "g"
+        },
+        {
+          "cab": "II",
+          "nombre": "pipas de calabaza",
+          "valor": "6,0",
+          "unidad": "g"
+        },
+        {
+          "cab": "III",
+          "nombre": "boniato cocido",
+          "valor": "2,5",
+          "unidad": "g"
+        },
+        {
+          "cab": "IV",
+          "nombre": "arroz blanco cocido",
+          "valor": "0,4",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "nueces",
+      "cifra": "6,7",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y del arroz a las nueces?",
+      "resalte": "El dato final",
+      "frase": "Las nueces, 6,7 g de fibra por cada 100 g: casi diecisiete veces el arroz blanco cocido.",
+      "fuente": "Composición por 100 g (USDA). No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien casca nueces viendo la tele.",
+      "texto": "Mañana por la noche, otro quiz: este, para nutricionistas."
+    }
+  ],
+  "pie_instagram": "Siete décimas de {fibra} separan a pipas y nueces.\n\nFibra por 100 g: nueces, 6,7 g; pipas de calabaza, 6,0 g; boniato cocido, 2,5 g; arroz blanco cocido, 0,4 g.\nPor cada 100 g. El arroz, blanco y cocido; el boniato, cocido.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nLas nueces, 6,7 g de fibra por cada 100 g: casi diecisiete veces el arroz blanco cocido.\n\n¿Habías apostado por las pipas?\nMándaselo a quien casca nueces viendo la tele.\nMañana por la noche, otro quiz: este, para nutricionistas.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #nueces #arroz #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Fibra por 100 g. Siete décimas de fibra separan a pipas y nueces. Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: IV, arroz blanco cocido, 0,4 g; III, boniato cocido, 2,5 g; II, pipas de calabaza, 6,0 g. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 6,7 g: I, nueces. ¿Y del arroz a las nueces? El dato final: Las nueces, 6,7 g de fibra por cada 100 g: casi diecisiete veces el arroz blanco cocido. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien casca nueces viendo la tele. Mañana por la noche, otro quiz: este, para nutricionistas."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-02",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-12",
+    "hora": "21:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261202-2100-arroz-nueces-fibra",
+    "pilar_plan": "Vitaminas",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261202-2100-arroz-nueces-fibra",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), fibra por 100 g del alimento en el estado indicado: arroz blanco cocido 0,4 g (ALI-109); boniato cocido 2,5 g (ALI-038); pipas de calabaza 6,0 g y nueces 6,7 g (ALI-006). Cálculos propios: 6,7 menos 6,0 son 0,7 g, «siete décimas»; 6,7 entre 0,4 da 16,75, «casi diecisiete veces». 100 g de nueces o de pipas es mucho más que un puñado. La fibra no tiene declaración de salud autorizada en el banco: la conclusión es una lectura de las cifras. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

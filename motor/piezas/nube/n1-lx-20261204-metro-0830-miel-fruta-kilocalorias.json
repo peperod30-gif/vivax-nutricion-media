@@ -1,0 +1,108 @@
+{
+  "id": "n1-lx-20261204-metro-0830-miel-fruta-kilocalorias",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-metro",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-133",
+    "ALI-104",
+    "ALI-105",
+    "ALI-119"
+  ],
+  "titulo": "[METRO] Cuenta atrás dulce: el último salto, más del triple.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Línea energía",
+      "titulo": "Cuenta atrás dulce: el último salto, más del triple.",
+      "items": [
+        "Salida"
+      ],
+      "voz": "Cuenta atrás dulce: el último salto, más del triple. Cuatro, fresas: treinta y dos kilocalorías. Tres, manzana: cincuenta y dos. Dos, plátano: ochenta y nueve. Uno, la miel: trescientas cuatro. Por cien gramos, no por ración. Mándaselo a quien endulza la fruta con miel."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Kilocalorías por 100 g, no por ración. La fruta, cruda.",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada IV",
+          "nombre": "Fresas",
+          "valor": "32",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "Parada III",
+          "nombre": "Manzana",
+          "valor": "52",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "Parada II",
+          "nombre": "Plátano",
+          "valor": "89",
+          "unidad": "kcal"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada I · Fin de trayecto",
+          "nombre": "Miel",
+          "valor": "304",
+          "unidad": "kcal"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato",
+      "titulo": "¿Y el salto, en cifras?",
+      "texto": "Plátano, 89 kcal; miel, 304 kcal. Por 100 g, no por ración.",
+      "fuente": "Composición por 100 g (USDA). La energía no tiene declaración de salud autorizada. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Mándaselo a quien endulza la fruta con miel.",
+      "dato": "Mañana por la mañana, otra cuenta atrás: el picoteo del sábado."
+    }
+  ],
+  "pie_instagram": "Cuenta atrás dulce: el último salto, más del triple.\n\nPor cada 100 g: fresas 32 kcal, manzana 52 kcal, plátano 89 kcal y miel 304 kcal.\nEn este metro, la distancia desde la salida es la cantidad de energía por 100 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPlátano, 89 kcal; miel, 304 kcal. Por 100 g, no por ración.\n\n¿En qué estación te habrías bajado?\nMándaselo a quien endulza la fruta con miel. Mañana por la mañana, otra cuenta atrás: el picoteo del sábado.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#miel #fruta #kilocalorias #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con un plano de metro dibujado en línea fina: el tren de la línea energía para en cada alimento y la distancia desde la salida es la cantidad por 100 g. Línea energía. Cuenta atrás dulce: el último salto, más del triple. Salida. Kilocalorías por 100 g, no por ración. La fruta, cruda. Cuenta atrás de la mañana. por 100 g. Fresas 32 kcal. Manzana 52 kcal. Plátano 89 kcal. por 100 g. Miel 304 kcal. ¿Y el salto, en cifras? Plátano, 89 kcal; miel, 304 kcal. Por 100 g, no por ración. El dato. Mándaselo a quien endulza la fruta con miel. Mañana por la mañana, otra cuenta atrás: el picoteo del sábado."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-04",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_metro",
+    "formato": "METRO",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Azúcar y sal",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261204-0830-miel-fruta-kilocalorias",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261204-0830-miel-fruta-kilocalorias",
+    "plantilla_visual": "reel_metro",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, consultado en octubre de 2026. Por cada 100 g: fresas crudas 32 kcal (ALI-133), manzana cruda 52 kcal (ALI-104), plátano crudo 89 kcal (ALI-105) y miel 304 kcal (ALI-119). Cálculo: 304 / 89 = 3,4, de ahí «más del triple» en el último salto. Son kilocalorías por 100 g del alimento, no por ración. La energía no tiene declaración de salud autorizada: la conclusión es la lectura del propio dato. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

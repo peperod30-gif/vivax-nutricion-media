@@ -1,0 +1,90 @@
+{
+  "id": "n1-lx-20261202-reel-duelo-swipe-1300-pollo-lomo-niacina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-030",
+    "VIT-029"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Pollo o lomo? Uno dobla al otro en niacina.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Pollo o lomo? Uno dobla al otro en {niacina}.",
+      "voz": "¿Pollo o lomo? Todos le dan a paso al pollo. Al lomo, me gusta. Pero el pollo vuelve: trece coma siete miligramos de niacina. El lomo, cinco coma nueve. Más del doble. ¿Y para qué sirve la niacina? La niacina contribuye al funcionamiento normal del sistema nervioso. Mándaselo a quien pide lomo para no comer pollo."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "pechuga de pollo asada",
+      "texto": "Por 100 g",
+      "dato": "Vitamina B3",
+      "etiqueta_no": "Paso",
+      "cifra": "13,7",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "lomo de cerdo asado",
+      "texto": "Por 100 g",
+      "dato": "Vitamina B3",
+      "etiqueta_si": "Me gusta",
+      "cifra": "5,9",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g, los dos asados. El lomo, solo la parte magra."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y para qué sirve la niacina?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Vitamina B3",
+      "frase": "La niacina contribuye al funcionamiento normal del sistema nervioso.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B3. No es una recomendación personal.",
+      "vit": "VIT-029"
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien pide lomo para no comer pollo.",
+      "texto": "Mañana a la una: lentejas contra quinoa, la revancha."
+    }
+  ],
+  "pie_instagram": "¿Pollo o lomo? Uno dobla al otro en niacina.\n\nPor 100 g: pechuga de pollo asada, 13,7 mg de vitamina B3; lomo de cerdo asado, 5,9 mg.\nPor cada 100 g, los dos asados. El lomo, solo la parte magra.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La niacina contribuye al funcionamiento normal del sistema nervioso. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina B3; no es una recomendación personal.\n\n¿A quién le habías dado el me gusta?\nMándaselo a quien pide lomo para no comer pollo. Mañana a la una: lentejas contra quinoa, la revancha.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminab3 #niacina #pollo #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Pollo o lomo? Uno dobla al otro en niacina. La tarjeta de pechuga de pollo asada (por 100 g, vitamina B3: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de lomo de cerdo asado: 5,9 mg de vitamina B3, con el sello «Me gusta». Vuelve pechuga de pollo asada y su cifra cuenta hasta 13,7 mg. Las dos tarjetas, una junto a otra: pechuga de pollo asada, 13,7 mg; lomo de cerdo asado, 5,9 mg. Por cada 100 g, los dos asados. El lomo, solo la parte magra. Bloque verde oliva oscuro: ¿Y para qué sirve la niacina? Vitamina B3: La niacina contribuye al funcionamiento normal del sistema nervioso. Cierre con la firma Vivax Nutrición: Mándaselo a quien pide lomo para no comer pollo. Mañana a la una: lentejas contra quinoa, la revancha."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-02",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-12",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261202-1300-pollo-lomo-niacina",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Vitaminas",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261202-1300-pollo-lomo-niacina",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261202-1300-pollo-lomo-niacina",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, vitamina B3 (niacina) por 100 g (VIT-030; verificado el 13-oct-2026): pechuga de pollo asada 13,7 mg y lomo de cerdo asado, solo magro, 5,9 mg. Cálculo propio: 13,7 entre 5,9 da 2,32, «más del doble». La tabla da niacina preformada y mide lo que lleva el alimento, no lo que se absorbe. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-029), para alimentos que son fuente de niacina; los dos lo son (al menos 2,4 mg por 100 g, el 15 % del VRN de 16 mg). No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

@@ -1,0 +1,1183 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 19.84,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.79,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.767,
+ "n_cambios_visuales": 169,
+ "bucle_dif_ultimo_primero": 115.33,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Pollo o lomo? Uno dobla al otro en",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    800,
+    533
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "niacina",
+   "contando": false,
+   "r": [
+    681,
+    412,
+    931,
+    533
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    931,
+    412,
+    948,
+    533
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    671,
+    639,
+    816,
+    666
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    310,
+    1060,
+    777,
+    1219
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    484,
+    1189,
+    564,
+    1403
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    565,
+    1305,
+    614,
+    1357
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "¿Pollo o lomo? Uno dobla al otro en",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    800,
+    533
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "niacina",
+   "contando": false,
+   "r": [
+    681,
+    412,
+    931,
+    533
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    931,
+    412,
+    948,
+    533
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    671,
+    639,
+    816,
+    666
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    310,
+    1060,
+    777,
+    1219
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    484,
+    1189,
+    564,
+    1403
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    565,
+    1305,
+    614,
+    1357
+   ]
+  },
+  {
+   "t": 0.867,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    658,
+    759,
+    773,
+    856
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "¿Pollo o lomo? Uno dobla al otro en",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    800,
+    533
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "niacina",
+   "contando": false,
+   "r": [
+    681,
+    412,
+    931,
+    533
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    931,
+    412,
+    948,
+    533
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    257,
+    649,
+    377,
+    671
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    684,
+    649,
+    829,
+    671
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "lomo de cerdo asado",
+   "contando": false,
+   "r": [
+    257,
+    1096,
+    825,
+    1188
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "5,9",
+   "contando": false,
+   "r": [
+    433,
+    1189,
+    597,
+    1401
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    602,
+    1307,
+    649,
+    1358
+   ]
+  },
+  {
+   "t": 4.0,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    663,
+    756,
+    777,
+    876
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "¿Pollo o lomo? Uno dobla al otro en",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    800,
+    533
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "niacina",
+   "contando": false,
+   "r": [
+    681,
+    412,
+    931,
+    533
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    931,
+    412,
+    948,
+    533
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    671,
+    639,
+    816,
+    666
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    310,
+    1060,
+    777,
+    1219
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "13,7",
+   "contando": false,
+   "r": [
+    412,
+    1186,
+    636,
+    1405
+   ]
+  },
+  {
+   "t": 6.8,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    637,
+    1302,
+    686,
+    1355
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "¿Pollo o lomo? Uno dobla al otro en",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    800,
+    533
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "niacina",
+   "contando": false,
+   "r": [
+    681,
+    412,
+    931,
+    533
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    931,
+    412,
+    948,
+    533
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    854,
+    768,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "lomo de cerdo asado",
+   "contando": false,
+   "r": [
+    590,
+    1029,
+    932,
+    1094
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "5,9",
+   "contando": false,
+   "r": [
+    692,
+    1088,
+    794,
+    1218
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    794,
+    1162,
+    823,
+    1193
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    398,
+    761,
+    486,
+    777
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    180,
+    1013,
+    459,
+    1107
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "13,7",
+   "contando": false,
+   "r": [
+    241,
+    1088,
+    373,
+    1219
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    375,
+    1158,
+    404,
+    1190
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Por cada 100 g, los dos asados. El lomo, solo la parte magra.",
+   "contando": false,
+   "r": [
+    261,
+    1313,
+    785,
+    1421
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "¿Y para qué sirve la niacina?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    747,
+    553
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    854,
+    768,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "lomo de cerdo asado",
+   "contando": false,
+   "r": [
+    590,
+    1029,
+    932,
+    1094
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "5,9",
+   "contando": false,
+   "r": [
+    692,
+    1088,
+    794,
+    1218
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    794,
+    1162,
+    823,
+    1193
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    398,
+    761,
+    486,
+    777
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    180,
+    1013,
+    459,
+    1107
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "13,7",
+   "contando": false,
+   "r": [
+    241,
+    1088,
+    373,
+    1219
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    375,
+    1158,
+    404,
+    1190
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Por cada 100 g, los dos asados. El lomo, solo la parte magra.",
+   "contando": false,
+   "r": [
+    261,
+    1313,
+    785,
+    1421
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "¿Y para qué sirve la niacina?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    747,
+    553
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "Vitamina B3",
+   "contando": false,
+   "r": [
+    174,
+    672,
+    377,
+    702
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    735,
+    214,
+    894
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "niacina",
+   "contando": false,
+   "r": [
+    240,
+    735,
+    590,
+    894
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    620,
+    1008
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    645,
+    849,
+    736,
+    1008
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    96,
+    964,
+    852,
+    1123
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    96,
+    1078,
+    443,
+    1237
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    468,
+    1078,
+    620,
+    1237
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    96,
+    1193,
+    452,
+    1352
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "nervioso.",
+   "contando": false,
+   "r": [
+    477,
+    1193,
+    911,
+    1352
+   ]
+  },
+  {
+   "t": 16.133,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B3. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1437,
+    943,
+    1487
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    635,
+    533,
+    776
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    556,
+    635,
+    607,
+    776
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    630,
+    635,
+    851,
+    776
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    96,
+    738,
+    267,
+    879
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "lomo",
+   "contando": false,
+   "r": [
+    290,
+    738,
+    483,
+    879
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    506,
+    738,
+    696,
+    879
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    193,
+    982
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "comer",
+   "contando": false,
+   "r": [
+    216,
+    841,
+    458,
+    982
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "pollo.",
+   "contando": false,
+   "r": [
+    481,
+    841,
+    696,
+    982
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "Mañana a la una: lentejas contra quinoa, la revancha.",
+   "contando": false,
+   "r": [
+    96,
+    1125,
+    816,
+    1225
+   ]
+  },
+  {
+   "t": 19.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  0.867,
+  4.0,
+  6.8,
+  10.3,
+  11.367,
+  16.133,
+  19.767
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.03,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "sello": 2,
+   "whoosh": 5,
+   "contador": 12,
+   "ding": 2
+  },
+  "descartados": 0,
+  "duracion_s": 19.779,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 315,
+   "lineas": [
+    {
+     "texto": "¿Pollo o lomo? Todos le dan a paso al pollo. Al lomo, me gusta. Pero el pollo vuelve: trece coma siete miligramos de niacina. El lomo, cinco coma nueve. Más del doble. ¿Y para qué sirve la niacina? La niacina contribuye al funcionamiento normal del sistema nervioso. Mándaselo a quien pide lomo para no comer pollo.",
+     "hablado": "¿Pollo o lomo? Todos le dan a paso al pollo. Al lomo, me gusta. Pero el pollo vuelve: trece coma siete miligramos de niacina. El lomo, cinco coma nueve. Más del doble. ¿Y para qué sirve la niacina? La niacina contribuye al funcionamiento normal del sistema nervioso. Mándaselo a quien pide lomo para no comer pollo.",
+     "t0": 0.0213,
+     "t1": 18.8063
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.19
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.5,
+   "tipo": "sello",
+   "intensidad": 0.32
+  },
+  {
+   "t": 1.17,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 1.72,
+   "tipo": "sello",
+   "intensidad": 0.36
+  },
+  {
+   "t": 4.2700000000000005,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 6.336,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 7.136,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 11.606,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.375999999999998,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 17.176,
+   "tipo": "ding",
+   "intensidad": 0.28
+  },
+  {
+   "t": 4.886,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.006,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.126,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.246,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.366,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.486,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.606,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.726,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.846,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 5.966,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.086,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.206,
+   "tipo": "contador",
+   "intensidad": 0.16
+  }
+ ],
+ "fotogramas": 594,
+ "tiempo_render_s": 56.9,
+ "tiempos_s": {
+  "preparar": 1.09,
+  "dibujar_y_codificar": 48.57
+ },
+ "voz_de_prueba": false
+}
