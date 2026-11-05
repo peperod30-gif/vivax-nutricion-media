@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261129-reel-duelo-swipe-1300-atun-aceite-natural",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-126",
+    "ALI-127"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Escurres el atún en aceite. ¿Cuánta grasa queda?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "Escurres el atún en aceite. ¿Cuánta grasa queda?",
+      "voz": "Escurrido, ¿cuánta grasa queda? Todos le dan a paso al aceite. Al natural, me gusta. Pero el aceite vuelve: ocho coma dos gramos. El natural, cero coma ocho. Escurrido, ¿cambia también la energía? Ciento noventa y ocho kilocalorías frente a ciento dieciséis. Mándaselo a quien escurre la lata con el tenedor."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "atún en aceite, escurrido",
+      "texto": "Por 100 g",
+      "dato": "Grasa",
+      "etiqueta_no": "Paso",
+      "cifra": "8,2",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "atún al natural, escurrido",
+      "texto": "Por 100 g",
+      "dato": "Grasa",
+      "etiqueta_si": "Me gusta",
+      "cifra": "0,8",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Escurridos los dos: más de diez veces la grasa."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "Escurrido, ¿cambia también la energía?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Lo que dice el dato",
+      "frase": "Por cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía; atún al natural, 116 kcal de energía."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien escurre la lata con el tenedor.",
+      "texto": "Mañana a la una, otro duelo: la proteína en el plato."
+    }
+  ],
+  "pie_instagram": "Escurres el atún en aceite. ¿Cuánta grasa queda?\n\nPor 100 g: atún en aceite, escurrido, 8,2 g de grasa; atún al natural, escurrido, 0,8 g.\nEscurridos los dos: más de diez veces la grasa.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía; atún al natural, 116 kcal de energía.\n\nMándaselo a quien escurre la lata con el tenedor. Mañana a la una, otro duelo: la proteína en el plato.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#atun #grasas #despensa #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. Escurres el atún en aceite. ¿Cuánta grasa queda? La tarjeta de atún en aceite, escurrido (por 100 g, grasa: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de atún al natural, escurrido: 0,8 g de grasa, con el sello «Me gusta». Vuelve atún en aceite, escurrido y su cifra cuenta hasta 8,2 g. Las dos tarjetas, una junto a otra: atún en aceite, escurrido, 8,2 g; atún al natural, escurrido, 0,8 g. Escurridos los dos: más de diez veces la grasa. Bloque verde oliva oscuro: Escurrido, ¿cambia también la energía? Lo que dice el dato: Por cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía; atún al natural, 116 kcal de energía. Cierre con la firma Vivax Nutrición: Mándaselo a quien escurre la lata con el tenedor. Mañana a la una, otro duelo: la proteína en el plato."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261129-1300-atun-aceite-natural",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261129-1300-atun-aceite-natural",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261129-1300-atun-aceite-natural",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-126, banco de composición de octubre de 2026), por 100 g; atún claro en aceite, escurrido, y atún al natural, escurrido. La pregunta del pie enlaza con la pieza de las 10:30: contramuslo de pollo asado sin piel, 8,2 g de grasa por 100 g (ALI-127). Cálculo: 8,2 / 0,8 = 10,25 (más de diez veces). La grasa no tiene declaración autorizada en el banco: la conclusión es la lectura del dato, con sus dos cifras de energía (ALI-126 recortado, sin las cifras de grasa que ya salieron en el duelo, para que la frase se lea al ritmo de la voz). Voz sintética (IA).",
+  "ia": true
+}

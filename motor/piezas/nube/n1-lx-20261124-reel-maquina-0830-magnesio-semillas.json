@@ -1,0 +1,111 @@
+{
+  "id": "n1-lx-20261124-reel-maquina-0830-magnesio-semillas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-010",
+    "VIT-056"
+  ],
+  "titulo": "[REEL-MAQUINA] Del cinco al uno: el chocolate negro, sin podio.",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "Del cinco al uno: el chocolate negro, sin podio.",
+      "texto": "magnesio · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "chocolate negro 70-85 %",
+          "valor": "228"
+        },
+        {
+          "nombre": "semillas de chía",
+          "valor": "335"
+        },
+        {
+          "nombre": "cacahuetes",
+          "valor": "168"
+        },
+        {
+          "nombre": "pipas de calabaza",
+          "valor": "592"
+        },
+        {
+          "nombre": "almendras",
+          "valor": "270"
+        }
+      ],
+      "unidad": "mg",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Pipas de calabaza",
+      "cifra": "592",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "El magnesio ayuda a disminuir el cansancio y la fatiga.",
+      "titulo": "¿Y para qué sirve el magnesio?",
+      "vit": "VIT-056",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien justifica el chocolate con el magnesio.",
+      "texto": "Mañana por la mañana: cuenta atrás de folato."
+    }
+  ],
+  "pie_instagram": "Del cinco al uno: el chocolate negro, sin podio.\n\nPor cada 100 g, de menos a más magnesio: cacahuetes 168 mg, chocolate negro 70-85 % 228 mg, almendras 270 mg, semillas de chía 335 mg y pipas de calabaza 592 mg.\nPor cada 100 g. Es la cantidad que hay en el alimento, no la que se absorbe.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El magnesio ayuda a disminuir el cansancio y la fatiga. Es una declaración autorizada en la UE para alimentos que son fuente de magnesio; no es una recomendación personal.\n\nMándaselo a quien justifica el chocolate con el magnesio.\nMañana por la mañana: cuenta atrás de folato.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#magnesio #minerales #nutricion #semillas",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 5 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. Cuenta atrás de la mañana. Del cinco al uno: el chocolate negro, sin podio. Casillas: A, chocolate negro 70-85 %, 228 mg; B, semillas de chía, 335 mg; C, cacahuetes, 168 mg; D, pipas de calabaza, 592 mg; E, almendras, 270 mg. La que más lleva: pipas de calabaza, 592 mg por 100 g. Para qué sirve: El magnesio ayuda a disminuir el cansancio y la fatiga. Mándaselo a quien justifica el chocolate con el magnesio. Mañana por la mañana: cuenta atrás de folato."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-24",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261124-0830-magnesio-semillas",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Minerales",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 1.581,
+      "max": 9.546,
+      "card": 12.423,
+      "decl": 14.271,
+      "tapa": 15.644,
+      "fin": 17.186,
+      "dur": 20.8
+    },
+    "spec": "n1-lux-20261124-0830-magnesio-semillas",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-010), por 100 g: pipas de calabaza 592 mg; semillas de chía 335 mg; almendras 270 mg; chocolate negro 70-85 % 228 mg; cacahuetes 168 mg de magnesio. Es la cantidad que hay en el alimento, no la que se absorbe. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-056), para alimentos que son fuente de magnesio; no es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

@@ -1,0 +1,103 @@
+{
+  "id": "n1-lx-20261129-reel-maquina-0830-colesterol-lacteos",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-048"
+  ],
+  "titulo": "[REEL-MAQUINA] Cuenta atrás del colesterol: ¿qué lácteo cierra?",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "Cuenta atrás del colesterol: ¿qué lácteo cierra?",
+      "texto": "colesterol · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "parmesano",
+          "valor": "68"
+        },
+        {
+          "nombre": "yogur natural entero",
+          "valor": "13"
+        },
+        {
+          "nombre": "queso cheddar",
+          "valor": "99"
+        },
+        {
+          "nombre": "mozzarella",
+          "valor": "79"
+        }
+      ],
+      "unidad": "mg",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Queso cheddar",
+      "cifra": "99",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Lo que dice el dato",
+      "frase": "El colesterol de un alimento y el de la sangre no son lo mismo.",
+      "titulo": "¿Es el colesterol de tu analítica?"
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien remata con tabla de quesos.",
+      "texto": "Mañana por la mañana, otra cuenta atrás: la proteína."
+    }
+  ],
+  "pie_instagram": "Cuenta atrás del colesterol: ¿qué lácteo cierra?\n\nPor cada 100 g, de menos a más colesterol: yogur natural entero 13 mg, parmesano 68 mg, mozzarella 79 mg y queso cheddar 99 mg.\nEl cheddar, más de siete veces el colesterol del yogur.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nEl colesterol de un alimento y el de la sangre no son lo mismo.\n\n¿Qué lácteo pensabas que cerraba?\nMándaselo a quien remata con tabla de quesos.\nMañana por la mañana, otra cuenta atrás: la proteína.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #queso #lacteos #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 4 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. Cuenta atrás de la mañana. Cuenta atrás del colesterol: ¿qué lácteo cierra? Casillas: A, parmesano, 68 mg; B, yogur natural entero, 13 mg; C, queso cheddar, 99 mg; D, mozzarella, 79 mg. La que más lleva: queso cheddar, 99 mg por 100 g. Lo que dice el dato: El colesterol de un alimento y el de la sangre no son lo mismo. Mándaselo a quien remata con tabla de quesos. Mañana por la mañana, otra cuenta atrás: la proteína."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261129-0830-colesterol-lacteos",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 1.556,
+      "max": 9.226,
+      "card": 10.776,
+      "decl": 11.726,
+      "tapa": 13.018,
+      "fin": 16.071,
+      "dur": 19.2667
+    },
+    "spec": "n1-lux-20261129-0830-colesterol-lacteos",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-048, banco de composición de octubre de 2026), por 100 g del alimento. Selección de cuatro lácteos de ALI-048 (se deja fuera la mantequilla, cuya cifra ya salió el 15-nov con ALI-015). Cálculo: 99 / 13 = 7,6 (más de siete veces). El colesterol no tiene declaración autorizada en el banco: la conclusión es el matiz literal de ALI-048. Voz sintética (IA).",
+  "ia": true
+}

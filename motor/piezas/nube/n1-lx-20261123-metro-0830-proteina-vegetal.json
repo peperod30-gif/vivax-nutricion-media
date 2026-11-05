@@ -1,0 +1,113 @@
+{
+  "id": "n1-lx-20261123-metro-0830-proteina-vegetal",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-metro",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-036",
+    "VIT-059"
+  ],
+  "titulo": "[METRO] Cuenta atrás vegetal: proteína sin pizca de carne.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Línea proteína",
+      "titulo": "Cuenta atrás vegetal: proteína sin pizca de carne.",
+      "items": [
+        "Salida"
+      ],
+      "voz": "Proteína sin pizca de carne. Ojo a la avena. Cinco: quinoa. Cuatro: garbanzos. Tres: alubias. Dos: avena seca, trece coma dos. Y el uno, el tofu firme: diecisiete coma tres gramos. ¿Y para qué sirve la proteína? Las proteínas contribuyen a que aumente la masa muscular. Mándaselo a quien no concibe proteína sin filete."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g. Legumbres y quinoa, cocidas; la avena, en copos secos; el tofu, firme.",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada V",
+          "nombre": "Quinoa cocida",
+          "valor": "4,4",
+          "unidad": "g"
+        },
+        {
+          "cab": "Parada IV",
+          "nombre": "Garbanzos cocidos",
+          "valor": "8,9",
+          "unidad": "g"
+        },
+        {
+          "cab": "Parada III",
+          "nombre": "Alubias blancas cocidas",
+          "valor": "9,7",
+          "unidad": "g"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada II",
+          "nombre": "Copos de avena",
+          "valor": "13,2",
+          "unidad": "g"
+        },
+        {
+          "cab": "Parada I · Fin de trayecto",
+          "nombre": "Tofu firme",
+          "valor": "17,3",
+          "unidad": "g"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Para qué sirve",
+      "titulo": "¿Y para qué sirve la proteína?",
+      "vit": "VIT-059",
+      "frase": "Las proteínas contribuyen a que aumente la masa muscular.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Mándaselo a quien no concibe proteína sin filete.",
+      "dato": "Mañana por la mañana: el chocolate negro se queda sin podio."
+    }
+  ],
+  "pie_instagram": "Cuenta atrás vegetal: proteína sin pizca de carne.\n\nPor cada 100 g: quinoa cocida 4,4 g, garbanzos cocidos 8,9 g, alubias blancas cocidas 9,7 g, copos de avena 13,2 g y tofu firme 17,3 g.\nEn este metro, la distancia desde la salida es la cantidad de proteína por 100 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a que aumente la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿En qué estación te habrías bajado?\nMándaselo a quien no concibe proteína sin filete. Mañana por la mañana: el chocolate negro se queda sin podio.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteinavegetal #proteina #nutricion #legumbres",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con un plano de metro dibujado en línea fina: el tren de la línea proteína para en cada alimento y la distancia desde la salida es la cantidad por 100 g. Línea proteína. Cuenta atrás vegetal: proteína sin pizca de carne. Salida. Por cada 100 g. Legumbres y quinoa, cocidas; la avena, en copos secos; el tofu, firme. Cuenta atrás de la mañana. por 100 g. Quinoa cocida 4,4 g. Garbanzos cocidos 8,9 g. Alubias blancas cocidas 9,7 g. por 100 g. Copos de avena 13,2 g. Tofu firme 17,3 g. ¿Y para qué sirve la proteína? Para qué sirve. Las proteínas contribuyen a que aumente la masa muscular. Mándaselo a quien no concibe proteína sin filete. Mañana por la mañana: el chocolate negro se queda sin podio."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-23",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_metro",
+    "formato": "METRO",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Proteína y músculo",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261123-0830-proteina-vegetal",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261123-0830-proteina-vegetal",
+    "plantilla_visual": "reel_metro",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-036), por 100 g en el estado indicado: tofu firme 17,3 g; copos de avena (en seco) 13,2 g; alubias blancas cocidas 9,7 g; garbanzos cocidos 8,9 g; quinoa cocida 4,4 g de proteína. La avena se pesa en seco y las legumbres, cocidas. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-059), para alimentos que son fuente de proteínas; no es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

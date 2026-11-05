@@ -1,0 +1,3014 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 27.14,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.25,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.134,
+ "n_cambios_visuales": 279,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "helado",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    412,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    430,
+    768,
+    595,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    613,
+    768,
+    745,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    763,
+    768,
+    947,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    387,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    405,
+    852,
+    530,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    547,
+    852,
+    610,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    627,
+    852,
+    845,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "helado",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    412,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    430,
+    768,
+    595,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    613,
+    768,
+    745,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    763,
+    768,
+    947,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    387,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    405,
+    852,
+    530,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    547,
+    852,
+    610,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    627,
+    852,
+    845,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "helado",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    412,
+    878
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    430,
+    768,
+    595,
+    878
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    613,
+    768,
+    745,
+    878
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    763,
+    768,
+    947,
+    878
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    387,
+    962
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    405,
+    852,
+    530,
+    962
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    547,
+    852,
+    610,
+    962
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    627,
+    852,
+    845,
+    962
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "6,8",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    566,
+    1275
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    571,
+    1161,
+    596,
+    1223
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "Helado de vainilla",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    284,
+    1349
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "6,8 g",
+   "contando": false,
+   "r": [
+    883,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "Bacon frito",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    214,
+    1399
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "12,0 g",
+   "contando": false,
+   "r": [
+    868,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "salami",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    401,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    419,
+    768,
+    458,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    476,
+    768,
+    538,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "bacon",
+   "contando": false,
+   "r": [
+    556,
+    768,
+    759,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "van",
+   "contando": false,
+   "r": [
+    776,
+    768,
+    897,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    225,
+    962
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "empatados.",
+   "contando": false,
+   "r": [
+    242,
+    852,
+    619,
+    962
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "salami",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    401,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    419,
+    768,
+    458,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    476,
+    768,
+    538,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "bacon",
+   "contando": false,
+   "r": [
+    556,
+    768,
+    759,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "van",
+   "contando": false,
+   "r": [
+    776,
+    768,
+    897,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    225,
+    962
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "empatados.",
+   "contando": false,
+   "r": [
+    242,
+    852,
+    619,
+    962
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "11,9",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    615,
+    1275
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    621,
+    1161,
+    645,
+    1223
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Salami curado de cerdo",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    337,
+    1349
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "11,9 g",
+   "contando": false,
+   "r": [
+    873,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Bacon frito",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    214,
+    1399
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "12,0 g",
+   "contando": false,
+   "r": [
+    868,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    162,
+    873
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "queso",
+   "contando": false,
+   "r": [
+    179,
+    769,
+    365,
+    873
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "gouda",
+   "contando": false,
+   "r": [
+    382,
+    769,
+    580,
+    873
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    597,
+    769,
+    753,
+    873
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    770,
+    769,
+    895,
+    873
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    270,
+    952
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    287,
+    848,
+    561,
+    952
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    578,
+    848,
+    697,
+    952
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    155,
+    1031
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    171,
+    927,
+    377,
+    1031
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 14.033,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "Grasa",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    290,
+    461
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    307,
+    350,
+    612,
+    461
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    232,
+    546
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    249,
+    435,
+    376,
+    546
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "supera",
+   "contando": false,
+   "r": [
+    393,
+    435,
+    620,
+    546
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    158,
+    630
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    176,
+    519,
+    393,
+    630
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    162,
+    873
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "queso",
+   "contando": false,
+   "r": [
+    179,
+    769,
+    365,
+    873
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "gouda",
+   "contando": false,
+   "r": [
+    382,
+    769,
+    580,
+    873
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    597,
+    769,
+    753,
+    873
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    770,
+    769,
+    895,
+    873
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    270,
+    952
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    287,
+    848,
+    561,
+    952
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    578,
+    848,
+    697,
+    952
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    155,
+    1031
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "bacon.",
+   "contando": false,
+   "r": [
+    171,
+    927,
+    377,
+    1031
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "17,6",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    627,
+    1275
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    633,
+    1161,
+    657,
+    1223
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "Queso gouda",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    226,
+    1349
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "17,6 g",
+   "contando": false,
+   "r": [
+    871,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "Bacon frito",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    214,
+    1399
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "12,0 g",
+   "contando": false,
+   "r": [
+    868,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 15.467,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "Lo",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    202,
+    487
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    223,
+    346,
+    381,
+    487
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    403,
+    346,
+    579,
+    487
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    96,
+    453,
+    175,
+    594
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "nevera",
+   "contando": false,
+   "r": [
+    197,
+    453,
+    482,
+    594
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    407,
+    772
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    96,
+    792,
+    223,
+    908
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    241,
+    792,
+    408,
+    908
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "100 g,",
+   "contando": false,
+   "r": [
+    427,
+    792,
+    637,
+    908
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    656,
+    792,
+    721,
+    908
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "queso",
+   "contando": false,
+   "r": [
+    740,
+    792,
+    948,
+    908
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "gouda",
+   "contando": false,
+   "r": [
+    96,
+    880,
+    318,
+    996
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    337,
+    880,
+    512,
+    996
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "17,6 g",
+   "contando": false,
+   "r": [
+    530,
+    880,
+    728,
+    996
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    746,
+    880,
+    832,
+    996
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    96,
+    968,
+    291,
+    1084
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "saturada:",
+   "contando": false,
+   "r": [
+    309,
+    968,
+    632,
+    1084
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    651,
+    968,
+    787,
+    1084
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "vez",
+   "contando": false,
+   "r": [
+    805,
+    968,
+    919,
+    1084
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    1056,
+    138,
+    1172
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "media",
+   "contando": false,
+   "r": [
+    157,
+    1056,
+    373,
+    1172
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    391,
+    1056,
+    458,
+    1172
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    476,
+    1056,
+    588,
+    1172
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "bacon",
+   "contando": false,
+   "r": [
+    607,
+    1056,
+    821,
+    1172
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "frito",
+   "contando": false,
+   "r": [
+    96,
+    1145,
+    253,
+    1261
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "(12,0 g).",
+   "contando": false,
+   "r": [
+    271,
+    1145,
+    547,
+    1261
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "La grasa saturada no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación de comer o evitar nada.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    902,
+    1420
+   ]
+  },
+  {
+   "t": 22.333,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    776,
+    453,
+    892
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    776,
+    513,
+    892
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    776,
+    712,
+    892
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "aparta",
+   "contando": false,
+   "r": [
+    96,
+    866,
+    317,
+    982
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    335,
+    866,
+    392,
+    982
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "bacon",
+   "contando": false,
+   "r": [
+    411,
+    866,
+    602,
+    982
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    955,
+    134,
+    1071
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "repite",
+   "contando": false,
+   "r": [
+    152,
+    955,
+    336,
+    1071
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "queso.",
+   "contando": false,
+   "r": [
+    355,
+    955,
+    553,
+    1071
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "noche:",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    393,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "cuatro",
+   "contando": false,
+   "r": [
+    403,
+    1175,
+    487,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    497,
+    1175,
+    540,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "mar",
+   "contando": false,
+   "r": [
+    550,
+    1175,
+    600,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "separados",
+   "contando": false,
+   "r": [
+    610,
+    1175,
+    749,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    759,
+    1175,
+    806,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    816,
+    1175,
+    903,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    913,
+    1175,
+    947,
+    1216
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "dos",
+   "contando": false,
+   "r": [
+    96,
+    1214,
+    144,
+    1255
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "gramos.",
+   "contando": false,
+   "r": [
+    154,
+    1214,
+    263,
+    1255
+   ]
+  },
+  {
+   "t": 26.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.1,
+  4.533,
+  8.4,
+  9.8,
+  14.033,
+  15.467,
+  22.333,
+  26.5
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 4.0,
+  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "efectos_por_tipo": {
+   "tic": 9,
+   "tac": 3,
+   "sello": 3,
+   "golpe": 1,
+   "contador": 20,
+   "whoosh": 4,
+   "ding": 2,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 27.079,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 328,
+   "texto": "El helado lleva más grasa saturada que el bacon. ¡Falso! El salami y el bacon van casi empatados. ¡Verdadero! El queso gouda lleva más grasa saturada que el bacon. ¡Verdadero! Lo que dice la nevera. Gouda, diecisiete coma seis gramos. Bacon frito, doce gramos. Casi vez y media. Mándaselo a quien aparta el bacon y repite queso.",
+   "duracion_voz_s": 25.752,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "El helado lleva más grasa saturada que el bacon.",
+     "t0": 0.0213,
+     "t1": 2.4643
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso!",
+     "t0": 3.1928,
+     "t1": 3.6728
+    },
+    {
+     "id": "a1",
+     "texto": "El salami y el bacon van casi empatados.",
+     "t0": 5.3578,
+     "t1": 7.7578
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero!",
+     "t0": 8.4828,
+     "t1": 9.0028
+    },
+    {
+     "id": "a2",
+     "texto": "El queso gouda lleva más grasa saturada que el bacon.",
+     "t0": 10.5828,
+     "t1": 13.4628
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero!",
+     "t0": 14.1278,
+     "t1": 14.6878
+    },
+    {
+     "id": "c",
+     "texto": "Lo que dice la nevera. Gouda, diecisiete coma seis gramos. Bacon frito, doce gramos. Casi vez y media.",
+     "t0": 16.1478,
+     "t1": 22.4128
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien aparta el bacon y repite queso.",
+     "t0": 22.9728,
+     "t1": 25.6128
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 2.36
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.353,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.084,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.534,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.173,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.213,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.423,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.523,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.623,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.723,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.823,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.923,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.988,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.958,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 6.668,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.378,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.828,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.463,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.503,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 8.713,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 8.813,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 8.913,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.013,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.113,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.213,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.313,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.193,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.183,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 12.133,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.083,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.533,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.108,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.148,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 14.358,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.458,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.558,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.658,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.758,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.858,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.958,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.838,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 22.513,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 25.713,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 813,
+ "tiempo_render_s": 55.2,
+ "tiempos_s": {
+  "preparar": 1.22,
+  "dibujar_y_codificar": 49.33
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 27.1,
+  "loop": 26.6,
+  "conc": {
+   "t_in": 15.838,
+   "palabras": [
+    16.788,
+    16.788,
+    16.788,
+    17.0629,
+    17.2037,
+    17.5557,
+    17.9076,
+    18.2596,
+    18.682,
+    18.8227,
+    19.1747,
+    19.8082,
+    20.0898,
+    20.301,
+    20.3714,
+    20.7234,
+    20.8641,
+    21.0753,
+    21.4273,
+    21.7793
+   ],
+   "palabras_g": [
+    16.1478,
+    16.3078,
+    16.4678,
+    16.6678,
+    16.7878
+   ],
+   "t_sal": 16.638,
+   "t_frase": 22.329
+  },
+  "fin": {
+   "t_in": 22.513,
+   "palabras": [
+    22.9728,
+    23.4928,
+    23.5728,
+    23.7728,
+    24.0928,
+    24.1728,
+    24.6528,
+    24.8128,
+    25.3328
+   ],
+   "palabras_an": [
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713,
+    25.713
+   ],
+   "t_an": 25.713
+  },
+  "iconos": [
+   [
+    -1.0,
+    4.938000000000001
+   ],
+   [
+    4.938000000000001,
+    10.142999999999999
+   ],
+   [
+    10.142999999999999,
+    15.838
+   ],
+   [
+    15.838,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 25.613,
+  "avisos": [
+   "el Reel dura 27.1 s (con la voz simulada de prueba sale 1-2 s más largo que con Dani)"
+  ],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.534,
+    "tv": 3.173,
+    "pasos": [
+     0.621,
+     1.353,
+     2.084
+    ],
+    "t_out": 4.938
+   },
+   {
+    "t_in": 5.238,
+    "t0": 5.358,
+    "buzz": 7.828,
+    "tv": 8.463,
+    "pasos": [
+     5.958,
+     6.668,
+     7.378
+    ],
+    "t_out": 10.143
+   },
+   {
+    "t_in": 10.443,
+    "t0": 10.583,
+    "buzz": 13.533,
+    "tv": 14.108,
+    "pasos": [
+     11.183,
+     12.133,
+     13.083
+    ],
+    "t_out": 16.338
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.4333,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.3667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.5333,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 5.8,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 7.7333,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 8.6667,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 9.8,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 11.0333,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 13.4333,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 14.3,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 15.4667,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 16.3333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 22.3333,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 23.0,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 26.5,
+   "que": "cierre"
+  },
+  {
+   "t": 27.0667,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

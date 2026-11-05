@@ -1,0 +1,998 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 20.81,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.96,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.1,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.167,
+ "n_cambios_visuales": 237,
+ "bucle_dif_ultimo_primero": 57.07,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    507,
+    396
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Tienes tres segundos: ¿cuál lleva más",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    664,
+    538
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "vitamina C",
+   "contando": false,
+   "r": [
+    136,
+    455,
+    737,
+    593
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    172,
+    510,
+    201,
+    593
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    813,
+    457,
+    915,
+    518
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    677,
+    599,
+    709
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    795,
+    599,
+    827
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    913,
+    599,
+    945
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    1031,
+    599,
+    1063
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "SORPRESA",
+   "contando": false,
+   "r": [
+    415,
+    1263,
+    665,
+    1306
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    507,
+    396
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Tienes tres segundos: ¿cuál lleva más",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    664,
+    538
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "vitamina C",
+   "contando": false,
+   "r": [
+    136,
+    455,
+    737,
+    593
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    172,
+    510,
+    201,
+    593
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    813,
+    457,
+    915,
+    518
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Pimiento verde crudo",
+   "contando": false,
+   "r": [
+    258,
+    668,
+    673,
+    717
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "80",
+   "contando": false,
+   "r": [
+    817,
+    649,
+    884,
+    737
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    684,
+    928,
+    725
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Coles de Bruselas crudas",
+   "contando": false,
+   "r": [
+    258,
+    786,
+    741,
+    835
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "85",
+   "contando": false,
+   "r": [
+    824,
+    767,
+    884,
+    855
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    802,
+    928,
+    843
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Brócoli crudo",
+   "contando": false,
+   "r": [
+    258,
+    904,
+    528,
+    953
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "89",
+   "contando": false,
+   "r": [
+    821,
+    885,
+    884,
+    973
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    920,
+    928,
+    961
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Col rizada cruda",
+   "contando": false,
+   "r": [
+    258,
+    1022,
+    583,
+    1071
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "93",
+   "contando": false,
+   "r": [
+    822,
+    1003,
+    884,
+    1091
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    1038,
+    928,
+    1079
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "SORPRESA",
+   "contando": false,
+   "r": [
+    415,
+    1263,
+    665,
+    1306
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    507,
+    396
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Tienes tres segundos: ¿cuál lleva más",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    664,
+    538
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "vitamina C",
+   "contando": false,
+   "r": [
+    136,
+    455,
+    737,
+    593
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    172,
+    510,
+    201,
+    593
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    813,
+    457,
+    915,
+    518
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Pimiento verde crudo",
+   "contando": false,
+   "r": [
+    258,
+    668,
+    673,
+    717
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "80",
+   "contando": false,
+   "r": [
+    817,
+    649,
+    884,
+    737
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    684,
+    928,
+    725
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Coles de Bruselas crudas",
+   "contando": false,
+   "r": [
+    258,
+    786,
+    741,
+    835
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "85",
+   "contando": false,
+   "r": [
+    824,
+    767,
+    884,
+    855
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    802,
+    928,
+    843
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Brócoli crudo",
+   "contando": false,
+   "r": [
+    258,
+    904,
+    528,
+    953
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "89",
+   "contando": false,
+   "r": [
+    821,
+    885,
+    884,
+    973
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    920,
+    928,
+    961
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Col rizada cruda",
+   "contando": false,
+   "r": [
+    258,
+    1022,
+    583,
+    1071
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "93",
+   "contando": false,
+   "r": [
+    822,
+    1003,
+    884,
+    1091
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    890,
+    1038,
+    928,
+    1079
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "Perejil fresco",
+   "contando": false,
+   "r": [
+    456,
+    1149,
+    810,
+    1210
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "133",
+   "contando": false,
+   "r": [
+    450,
+    1214,
+    651,
+    1435
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    656,
+    1328,
+    718,
+    1394
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "de vitamina C",
+   "contando": false,
+   "r": [
+    456,
+    1384,
+    652,
+    1433
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    214,
+    378,
+    473,
+    408
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "El otro trabajo de la vitamina C.",
+   "contando": false,
+   "r": [
+    136,
+    417,
+    882,
+    500
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "La vitamina C mejora la absorción del hierro.",
+   "contando": false,
+   "r": [
+    144,
+    686,
+    843,
+    969
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    198,
+    1176,
+    227,
+    1192
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    163,
+    1188,
+    259,
+    1246
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    163,
+    1242,
+    261,
+    1258
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina C. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    136,
+    1353,
+    627,
+    1428
+   ]
+  },
+  {
+   "t": 19.233,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    518,
+    525,
+    548
+   ]
+  },
+  {
+   "t": 19.233,
+   "texto": "Mándaselo a quien aparta el perejil del plato.",
+   "contando": false,
+   "r": [
+    96,
+    831,
+    840,
+    997
+   ]
+  },
+  {
+   "t": 20.733,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    518,
+    525,
+    548
+   ]
+  },
+  {
+   "t": 20.733,
+   "texto": "Mándaselo a quien aparta el perejil del plato.",
+   "contando": false,
+   "r": [
+    96,
+    831,
+    840,
+    997
+   ]
+  },
+  {
+   "t": 20.733,
+   "texto": "El viernes por la noche, otro quiz: el sodio escondido.",
+   "contando": false,
+   "r": [
+    96,
+    1213,
+    740,
+    1254
+   ]
+  },
+  {
+   "t": 20.733,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1349,
+    282,
+    1392
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  7.1,
+  10.467,
+  16.467,
+  19.233,
+  20.733
+ ],
+ "sonido": {
+  "lufs": -16.0,
+  "pico_dbtp": -2.94,
+  "recortes": 0,
+  "reduccion_max_db": 0.0,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "tic": 5,
+   "subida": 1,
+   "ding": 1,
+   "whoosh": 2,
+   "sello": 1
+  },
+  "descartados": 0,
+  "duracion_s": 20.745,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "texto": "Tienes tres segundos: ¿cuál lleva más vitamina C? Pimiento verde, coles de Bruselas, brócoli, col rizada. Arriba, el perejil: ciento treinta y tres miligramos. Sí, cien gramos de perejil es mucho. El otro trabajo de la vitamina C. La vitamina C mejora la absorción del hierro. Mándaselo a quien aparta el perejil del plato.",
+   "caracteres": 323,
+   "lineas": [
+    {
+     "texto": "Tienes tres segundos:",
+     "t0": 0.0213,
+     "t1": 1.3663
+    },
+    {
+     "texto": "¿cuál lleva más vitamina C?",
+     "t0": 1.4163,
+     "t1": 2.8863
+    },
+    {
+     "texto": "Pimiento verde,",
+     "t0": 3.1063,
+     "t1": 3.9263
+    },
+    {
+     "texto": "coles de Bruselas,",
+     "t0": 4.0813,
+     "t1": 5.1313
+    },
+    {
+     "texto": "brócoli,",
+     "t0": 5.3513,
+     "t1": 5.9813
+    },
+    {
+     "texto": "col rizada.",
+     "t0": 6.3713,
+     "t1": 7.0763
+    },
+    {
+     "texto": "Arriba,",
+     "t0": 7.2963,
+     "t1": 7.8163
+    },
+    {
+     "texto": "el perejil:",
+     "t0": 7.8963,
+     "t1": 8.7563
+    },
+    {
+     "texto": "ciento treinta y tres miligramos.",
+     "t0": 8.8063,
+     "t1": 10.6863
+    },
+    {
+     "texto": "Sí,",
+     "t0": 10.7363,
+     "t1": 11.1963
+    },
+    {
+     "texto": "cien gramos de perejil es mucho.",
+     "t0": 11.2763,
+     "t1": 13.2563
+    },
+    {
+     "texto": "El otro trabajo de la vitamina C.",
+     "t0": 13.4563,
+     "t1": 15.2213
+    },
+    {
+     "texto": "La vitamina C mejora la absorción del hierro.",
+     "t0": 15.4413,
+     "t1": 17.8613
+    },
+    {
+     "texto": "Mándaselo a quien aparta el perejil del plato.",
+     "t0": 17.9413,
+     "t1": 20.1763
+    }
+   ]
+  },
+  "rascado": {
+   "motor": "propio (ruido filtrado con grano)",
+   "lufs_relativo_voz_db": -14
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.24
+  }
+ },
+ "efectos": [
+  {
+   "t": 3.6313,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 4.611300000000001,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 5.916300000000001,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.8963,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 9.2563,
+   "tipo": "subida",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.8563,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 10.7063,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 13.2063,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.6313,
+   "tipo": "whoosh",
+   "intensidad": 0.26
+  },
+  {
+   "t": 18.531299999999998,
+   "tipo": "sello",
+   "intensidad": 0.3
+  }
+ ],
+ "fotogramas": 623,
+ "tiempo_render_s": 55.9,
+ "tiempos_s": {
+  "preparar": 0.82,
+  "dibujar_y_codificar": 52.15
+ },
+ "voz_de_prueba": false
+}

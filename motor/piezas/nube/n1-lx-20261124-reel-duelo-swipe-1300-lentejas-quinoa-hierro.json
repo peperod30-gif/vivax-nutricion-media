@@ -1,0 +1,90 @@
+{
+  "id": "n1-lx-20261124-reel-duelo-swipe-1300-lentejas-quinoa-hierro",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-041",
+    "VIT-054"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Lentejas, paso. Quinoa, me gusta. Espera al hierro.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "Lentejas, paso. Quinoa, me gusta. Espera al hierro.",
+      "voz": "Lentejas de la abuela, paso. Quinoa, me gusta. Espera al hierro. Pero las lentejas vuelven: tres coma tres miligramos. La quinoa, uno coma cinco. Más del doble. ¿Y para qué sirve el hierro? El hierro contribuye al transporte normal de oxígeno en el cuerpo. Mándaselo a quien pide quinoa en cada brunch."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "lentejas cocidas",
+      "texto": "Por 100 g, cocidas",
+      "dato": "Hierro",
+      "etiqueta_no": "Paso",
+      "cifra": "3,3",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "quinoa cocida",
+      "texto": "Por 100 g, cocidas",
+      "dato": "Hierro",
+      "etiqueta_si": "Me gusta",
+      "cifra": "1,5",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por 100 g, cocidas: las lentejas llevan más del doble de hierro que la quinoa."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y para qué sirve el hierro?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Hierro",
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "vit": "VIT-054"
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien pide quinoa en cada brunch.",
+      "texto": "Mañana a la una: duelo de vitamina D."
+    }
+  ],
+  "pie_instagram": "Lentejas, paso. Quinoa, me gusta. Espera al hierro.\n\nPor 100 g, cocidas: lentejas cocidas, 3,3 mg de hierro; quinoa cocida, 1,5 mg.\nPor 100 g, cocidas: las lentejas llevan más del doble de hierro que la quinoa.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\nMándaselo a quien pide quinoa en cada brunch. Mañana a la una: duelo de vitamina D.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #lentejas #quinoa #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. Lentejas, paso. Quinoa, me gusta. Espera al hierro. La tarjeta de lentejas cocidas (por 100 g, cocidas, hierro: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de quinoa cocida: 1,5 mg de hierro, con el sello «Me gusta». Vuelve lentejas cocidas y su cifra cuenta hasta 3,3 mg. Las dos tarjetas, una junto a otra: lentejas cocidas, 3,3 mg; quinoa cocida, 1,5 mg. Por 100 g, cocidas: las lentejas llevan más del doble de hierro que la quinoa. Bloque verde oliva oscuro: ¿Y para qué sirve el hierro? Hierro: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Cierre con la firma Vivax Nutrición: Mándaselo a quien pide quinoa en cada brunch. Mañana a la una: duelo de vitamina D."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-24",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261124-1300-lentejas-quinoa-hierro",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Minerales",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261124-1300-lentejas-quinoa-hierro",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261124-1300-lentejas-quinoa-hierro",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-041), por 100 g, cocidas: lentejas 3,3 mg; quinoa 1,5 mg de hierro. Es la cantidad que hay en el alimento, no la que se absorbe. Cálculo: 3,3 / 1,5 = 2,2 (más del doble). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-054), para alimentos que son fuente de hierro: la sostienen las lentejas; la frase se dice del nutriente, no de la quinoa. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

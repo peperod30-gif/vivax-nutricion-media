@@ -1,0 +1,112 @@
+{
+  "id": "n1-lx-20261117-reel-maquina-0830-hierro-espinacas-ultimas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-008",
+    "ALI-034",
+    "VIT-054"
+  ],
+  "titulo": "[REEL-MAQUINA] ¿Espinacas, reinas del hierro? Mira dónde quedan.",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "¿Espinacas, reinas del {hierro}? Mira dónde quedan.",
+      "texto": "hierro · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "espinacas crudas",
+          "valor": "2,7"
+        },
+        {
+          "nombre": "mejillones cocidos",
+          "valor": "6,7"
+        },
+        {
+          "nombre": "semillas de chía",
+          "valor": "7,7"
+        },
+        {
+          "nombre": "pipas de calabaza",
+          "valor": "8,8"
+        },
+        {
+          "nombre": "cacahuetes",
+          "valor": "4,6"
+        }
+      ],
+      "unidad": "mg",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Pipas de calabaza",
+      "cifra": "8,8",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "titulo": "¿Y para qué sirve el {hierro}?",
+      "vit": "VIT-054",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien te daba espinacas por el hierro.",
+      "texto": "Mañana por la mañana: el marisco que rompe la escala."
+    }
+  ],
+  "pie_instagram": "¿Espinacas, reinas del hierro? Mira dónde quedan.\n\nPor cada 100 g, de menos a más hierro: espinacas crudas 2,7 mg, cacahuetes 4,6 mg, mejillones cocidos 6,7 mg, semillas de chía 7,7 mg y pipas de calabaza 8,8 mg.\nMiligramos de hierro por 100 g, de menos a más.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿En qué puesto habías puesto las espinacas?\nMándaselo a quien te daba espinacas por el hierro.\nMañana por la mañana: el marisco que rompe la escala.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #espinacas #minerales #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 5 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. Cuenta atrás de la mañana. ¿Espinacas, reinas del hierro? Mira dónde quedan. Casillas: A, espinacas crudas, 2,7 mg; B, mejillones cocidos, 6,7 mg; C, semillas de chía, 7,7 mg; D, pipas de calabaza, 8,8 mg; E, cacahuetes, 4,6 mg. La que más lleva: pipas de calabaza, 8,8 mg por 100 g. Para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Mándaselo a quien te daba espinacas por el hierro. Mañana por la mañana: el marisco que rompe la escala."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261117-0830-hierro-espinacas-ultimas",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Minerales",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 1.981,
+      "max": 8.926,
+      "card": 10.926,
+      "decl": 12.551,
+      "tapa": 14.019,
+      "fin": 15.656,
+      "dur": 18.7667
+    },
+    "spec": "n1-lux-20261117-0830-hierro-espinacas-ultimas",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, hierro por 100 g del alimento en el estado indicado: ALI-008 (cacahuetes 4,6 mg; mejillones cocidos 6,7 mg; semillas de chía 7,7 mg; pipas de calabaza 8,8 mg) y ALI-034 (espinacas crudas 2,7 mg); fichas verificadas en la API de USDA el 11-oct-2026. Es la cantidad que hay en el alimento, no la que se absorbe. Es una selección de cinco: el mismo banco trae también el chocolate negro 70-85 % (12 mg) y las aceitunas en conserva (6,3 mg). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-054), para alimentos que son fuente de hierro; los cinco lo son (al menos 2,1 mg por 100 g, el 15 % del VRN de 14 mg). No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

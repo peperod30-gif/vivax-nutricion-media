@@ -1,0 +1,77 @@
+{
+  "id": "n1-lx-20261123-ticket-1630-atun-doble-huevo",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-ticket",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-001",
+    "VIT-059"
+  ],
+  "titulo": "[TICKET] El doble de proteína que el huevo, en lata.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "titulo": "El doble de proteína que el huevo, en lata.",
+      "kicker": "Proteína por 100 g",
+      "unidad": "g",
+      "filas": [
+        {
+          "nombre": "Requesón con nata",
+          "valor": "11,1"
+        },
+        {
+          "nombre": "Atún claro al natural",
+          "valor": "25,5"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "9,02"
+        },
+        {
+          "nombre": "Huevo cocido",
+          "valor": "12,6"
+        }
+      ],
+      "respuesta": "Total*",
+      "etiqueta_si": "Pagado",
+      "fuentes": [
+        "*Aquí no se suma: se cobra la línea más alta."
+      ],
+      "resalte": "Para qué sirve",
+      "titular": "¿Para qué sirve tanta proteína?",
+      "vit": "VIT-059",
+      "frase": "Las proteínas contribuyen a conservar la masa muscular.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "sigue": "Mándaselo a quien guarda latas de atún para emergencias.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "El doble de proteína que el huevo, en lata. 🧾\n\nPor cada 100 g, proteína: requesón con nata 11,1 g, atún claro al natural 25,5 g, lentejas cocidas 9,02 g y huevo cocido 12,6 g.\nEn el ticket no se suma nada: cada línea es de 100 g de un alimento distinto, así que el total es la línea más alta.\nPor 100 g: atún claro al natural 25,5 g; huevo cocido 12,6 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a conservar la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Qué línea te ha sorprendido más?\nMándaselo a quien guarda latas de atún para emergencias. Mañana por la tarde: una cifra de potasio que no esperas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #atun #huevo #nutricion",
+  "alt": [
+    "Imagen en verde oliva con un ticket de caja de papel blanco, de bordes dentados, dibujado en línea fina negra. Debajo, un bloque en oliva oscuro. En lo alto del ticket, la firma Vivax Nutrición. El doble de proteína que el huevo, en lata. Proteína por 100 g; cifras en g. Líneas en orden de caja, cada una con una barra proporcional: Requesón con nata 11,1 g; Atún claro al natural 25,5 g; Lentejas cocidas 9,02 g; Huevo cocido 12,6 g. Total*: Atún claro al natural, 25,5 g, junto a un dibujo en línea de atún claro al natural y un sello que dice Pagado. *Aquí no se suma: se cobra la línea más alta. Para qué sirve. ¿Para qué sirve tanta proteína? Las proteínas contribuyen a conservar la masa muscular. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal. Mándaselo a quien guarda latas de atún para emergencias. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-23",
+    "serie": "La cifra de la tarde",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "img_ticket",
+    "formato": "TICKET",
+    "lote": "lux-2026-11",
+    "hora": "16:30",
+    "nota": "plantilla img_ticket (tpl_img_ticket_lux.py)",
+    "pilar_plan": "Proteína y músculo",
+    "mecanica": "img_ranking",
+    "familia": "img_ranking",
+    "spec_id": "n1-lux-20261123-1630-atun-doble-huevo",
+    "frente": "publico",
+    "spec": "n1-lux-20261123-1630-atun-doble-huevo",
+    "plantilla_visual": "img_ticket",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-001), por 100 g en el estado indicado: atún claro al natural escurrido 25,5 g; huevo cocido 12,6 g; requesón con nata 11,1 g; lentejas cocidas 9,02 g de proteína. Cálculo: 25,5 / 12,6 = 2,02 (el doble). La proteína del queso y la de la lenteja no se digieren igual, y esto no es una recomendación de cantidad. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-059), para alimentos que son fuente de proteínas; no es una recomendación personal."
+}

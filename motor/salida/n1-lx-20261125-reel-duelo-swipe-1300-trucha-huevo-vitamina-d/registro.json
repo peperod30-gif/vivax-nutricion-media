@@ -1,0 +1,1169 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 21.44,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.72,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.367,
+ "n_cambios_visuales": 160,
+ "bucle_dif_ultimo_primero": 115.87,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Huevo o trucha? Unas nueve veces más",
+   "contando": false,
+   "r": [
+    96,
+    335,
+    801,
+    505
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "vitamina D",
+   "contando": false,
+   "r": [
+    613,
+    403,
+    929,
+    505
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    929,
+    403,
+    943,
+    505
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    682,
+    639,
+    816,
+    666
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "trucha cocinada",
+   "contando": false,
+   "r": [
+    313,
+    1086,
+    776,
+    1197
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    488,
+    1188,
+    568,
+    1403
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    569,
+    1305,
+    610,
+    1357
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "¿Huevo o trucha? Unas nueve veces más",
+   "contando": false,
+   "r": [
+    96,
+    335,
+    801,
+    505
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "vitamina D",
+   "contando": false,
+   "r": [
+    613,
+    403,
+    929,
+    505
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    929,
+    403,
+    943,
+    505
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    682,
+    639,
+    816,
+    666
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "trucha cocinada",
+   "contando": false,
+   "r": [
+    313,
+    1086,
+    776,
+    1197
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    488,
+    1188,
+    568,
+    1403
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    569,
+    1305,
+    610,
+    1357
+   ]
+  },
+  {
+   "t": 1.333,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    658,
+    759,
+    773,
+    856
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "¿Huevo o trucha? Unas nueve veces más",
+   "contando": false,
+   "r": [
+    96,
+    335,
+    801,
+    505
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "vitamina D",
+   "contando": false,
+   "r": [
+    613,
+    403,
+    929,
+    505
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    929,
+    403,
+    943,
+    505
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    257,
+    649,
+    377,
+    671
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    696,
+    649,
+    829,
+    671
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "huevo cocido",
+   "contando": false,
+   "r": [
+    353,
+    1094,
+    729,
+    1189
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "2,2",
+   "contando": false,
+   "r": [
+    434,
+    1189,
+    604,
+    1401
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    609,
+    1307,
+    648,
+    1358
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    663,
+    756,
+    777,
+    876
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "¿Huevo o trucha? Unas nueve veces más",
+   "contando": false,
+   "r": [
+    96,
+    335,
+    801,
+    505
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "vitamina D",
+   "contando": false,
+   "r": [
+    613,
+    403,
+    929,
+    505
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    929,
+    403,
+    943,
+    505
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    682,
+    639,
+    816,
+    666
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "trucha cocinada",
+   "contando": false,
+   "r": [
+    313,
+    1086,
+    776,
+    1197
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "19,0",
+   "contando": false,
+   "r": [
+    406,
+    1185,
+    650,
+    1406
+   ]
+  },
+  {
+   "t": 7.433,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    652,
+    1302,
+    692,
+    1354
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "¿Huevo o trucha? Unas nueve veces más",
+   "contando": false,
+   "r": [
+    96,
+    335,
+    801,
+    505
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "vitamina D",
+   "contando": false,
+   "r": [
+    613,
+    403,
+    929,
+    505
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    929,
+    403,
+    943,
+    505
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    862,
+    768,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "huevo cocido",
+   "contando": false,
+   "r": [
+    648,
+    1030,
+    874,
+    1093
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "2,2",
+   "contando": false,
+   "r": [
+    693,
+    1088,
+    798,
+    1218
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    798,
+    1162,
+    822,
+    1193
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    406,
+    761,
+    486,
+    777
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "trucha cocinada",
+   "contando": false,
+   "r": [
+    182,
+    1029,
+    459,
+    1093
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "19,0",
+   "contando": false,
+   "r": [
+    237,
+    1088,
+    382,
+    1219
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    384,
+    1158,
+    408,
+    1190
+   ]
+  },
+  {
+   "t": 10.967,
+   "texto": "Por cada 100 g. La trucha cocinada lleva unas 9 veces la vitamina D del huevo cocido.",
+   "contando": false,
+   "r": [
+    147,
+    1313,
+    899,
+    1421
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "¿Y qué hace la vitamina D?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    674,
+    553
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    862,
+    768,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "huevo cocido",
+   "contando": false,
+   "r": [
+    648,
+    1030,
+    874,
+    1093
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "2,2",
+   "contando": false,
+   "r": [
+    693,
+    1088,
+    798,
+    1218
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    798,
+    1162,
+    822,
+    1193
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Vitamina D",
+   "contando": false,
+   "r": [
+    406,
+    761,
+    486,
+    777
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "trucha cocinada",
+   "contando": false,
+   "r": [
+    182,
+    1029,
+    459,
+    1093
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "19,0",
+   "contando": false,
+   "r": [
+    237,
+    1088,
+    382,
+    1219
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    384,
+    1158,
+    408,
+    1190
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Por cada 100 g. La trucha cocinada lleva unas 9 veces la vitamina D del huevo cocido.",
+   "contando": false,
+   "r": [
+    147,
+    1313,
+    899,
+    1421
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "¿Y qué hace la vitamina D?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    674,
+    553
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    672,
+    433,
+    702
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    735,
+    214,
+    894
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    240,
+    735,
+    657,
+    894
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "D",
+   "contando": false,
+   "r": [
+    682,
+    735,
+    758,
+    894
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    620,
+    1008
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    645,
+    849,
+    736,
+    1008
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    96,
+    964,
+    852,
+    1123
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    96,
+    1078,
+    443,
+    1237
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    468,
+    1078,
+    586,
+    1237
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    96,
+    1193,
+    234,
+    1352
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "músculos.",
+   "contando": false,
+   "r": [
+    259,
+    1193,
+    732,
+    1352
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina D. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1437,
+    935,
+    1487
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    635,
+    533,
+    776
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    556,
+    635,
+    607,
+    776
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    630,
+    635,
+    851,
+    776
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "desayuna",
+   "contando": false,
+   "r": [
+    96,
+    738,
+    476,
+    879
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "huevos",
+   "contando": false,
+   "r": [
+    499,
+    738,
+    774,
+    879
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    229,
+    982
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    252,
+    841,
+    331,
+    982
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    354,
+    841,
+    714,
+    982
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "D.",
+   "contando": false,
+   "r": [
+    737,
+    841,
+    820,
+    982
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "Mañana a la una: manzana contra kiwi, en fibra.",
+   "contando": false,
+   "r": [
+    96,
+    1145,
+    942,
+    1206
+   ]
+  },
+  {
+   "t": 21.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  1.333,
+  5.267,
+  7.433,
+  10.967,
+  12.067,
+  17.3,
+  21.367
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.1,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "sello": 2,
+   "whoosh": 5,
+   "contador": 7,
+   "ding": 2
+  },
+  "descartados": 0,
+  "duracion_s": 21.379,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 323,
+   "lineas": [
+    {
+     "texto": "¿Huevo o trucha? A la trucha, paso. Al huevo, me gusta, como siempre. Pero la trucha vuelve: diecinueve microgramos de vitamina D. El huevo, dos coma dos. Unas nueve veces más. ¿Y qué hace la vitamina D? La vitamina D contribuye al funcionamiento normal de los músculos. Mándaselo a quien desayuna huevos por la vitamina D.",
+     "hablado": "¿Huevo o trucha? A la trucha, paso. Al huevo, me gusta, como siempre. Pero la trucha vuelve: diecinueve microgramos de vitamina D. El huevo, dos coma dos. Unas nueve veces más. ¿Y qué hace la vitamina D? La vitamina D contribuye al funcionamiento normal de los músculos. Mándaselo a quien desayuna huevos por la vitamina D.",
+     "t0": 0.0213,
+     "t1": 20.2563
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.45
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.941,
+   "tipo": "sello",
+   "intensidad": 0.32
+  },
+  {
+   "t": 1.611,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.161,
+   "tipo": "sello",
+   "intensidad": 0.36
+  },
+  {
+   "t": 5.546,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 6.996,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 7.796,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 12.296000000000001,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.520999999999997,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 18.320999999999998,
+   "tipo": "ding",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.146,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.266,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.386,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.506,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.626,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.746,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.866,
+   "tipo": "contador",
+   "intensidad": 0.16
+  }
+ ],
+ "fotogramas": 642,
+ "tiempo_render_s": 51.5,
+ "tiempos_s": {
+  "preparar": 0.97,
+  "dibujar_y_codificar": 46.88
+ },
+ "voz_de_prueba": false
+}

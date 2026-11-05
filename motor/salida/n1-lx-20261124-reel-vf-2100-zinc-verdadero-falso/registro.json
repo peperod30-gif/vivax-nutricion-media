@@ -1,0 +1,2820 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.88,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.21,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -1.8,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.9,
+ "n_cambios_visuales": 265,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    212,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mejillones",
+   "contando": false,
+   "r": [
+    230,
+    768,
+    578,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    596,
+    768,
+    805,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    228,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    246,
+    852,
+    382,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    400,
+    852,
+    525,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    543,
+    852,
+    605,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    622,
+    852,
+    805,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    212,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "mejillones",
+   "contando": false,
+   "r": [
+    230,
+    768,
+    578,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    596,
+    768,
+    805,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    228,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    246,
+    852,
+    382,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    400,
+    852,
+    525,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    543,
+    852,
+    605,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    622,
+    852,
+    805,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    212,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "mejillones",
+   "contando": false,
+   "r": [
+    230,
+    768,
+    578,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    596,
+    768,
+    805,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    228,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    246,
+    852,
+    382,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    400,
+    852,
+    525,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    543,
+    852,
+    605,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    622,
+    852,
+    805,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "2,7",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    556,
+    1275
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    562,
+    1161,
+    620,
+    1223
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Mejillones cocidos",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    288,
+    1349
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "2,7 mg",
+   "contando": false,
+   "r": [
+    858,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Lomo de cerdo asado",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    310,
+    1399
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "2,5 mg",
+   "contando": false,
+   "r": [
+    858,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "salmón",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    424,
+    878
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    442,
+    768,
+    607,
+    878
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    625,
+    768,
+    757,
+    878
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    775,
+    768,
+    911,
+    878
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "gambas.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    624,
+    962
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 8.967,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "salmón",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    424,
+    878
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    442,
+    768,
+    607,
+    878
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    625,
+    768,
+    757,
+    878
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    775,
+    768,
+    911,
+    878
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "gambas.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    624,
+    962
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "1,6",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    546,
+    1275
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    552,
+    1161,
+    610,
+    1223
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "Gambas cocidas",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    255,
+    1349
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "1,6 mg",
+   "contando": false,
+   "r": [
+    860,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "Salmón cocinado",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    273,
+    1399
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "0,4 mg",
+   "contando": false,
+   "r": [
+    853,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 10.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    179,
+    878
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "pechuga",
+   "contando": false,
+   "r": [
+    196,
+    768,
+    484,
+    878
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    501,
+    768,
+    667,
+    878
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    684,
+    768,
+    817,
+    878
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    232,
+    962
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    250,
+    852,
+    375,
+    962
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    393,
+    852,
+    456,
+    962
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "ternera.",
+   "contando": false,
+   "r": [
+    473,
+    852,
+    735,
+    962
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Zinc:",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    254,
+    461
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    272,
+    350,
+    353,
+    461
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    371,
+    350,
+    497,
+    461
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "frases,",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    312,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    329,
+    435,
+    465,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    482,
+    435,
+    607,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    165,
+    630
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "verdad.",
+   "contando": false,
+   "r": [
+    182,
+    519,
+    431,
+    630
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    179,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "pechuga",
+   "contando": false,
+   "r": [
+    196,
+    768,
+    484,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    501,
+    768,
+    667,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    684,
+    768,
+    817,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    232,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    250,
+    852,
+    375,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    393,
+    852,
+    456,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "ternera.",
+   "contando": false,
+   "r": [
+    473,
+    852,
+    735,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "6,2",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    566,
+    1275
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    571,
+    1161,
+    629,
+    1223
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Ternera picada cocinada",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    347,
+    1349
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "6,2 mg",
+   "contando": false,
+   "r": [
+    856,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    338,
+    1399
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "1,0 mg",
+   "contando": false,
+   "r": [
+    858,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    213,
+    487
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    235,
+    346,
+    312,
+    487
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "zinc,",
+   "contando": false,
+   "r": [
+    334,
+    346,
+    525,
+    487
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    96,
+    453,
+    254,
+    594
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "hace?",
+   "contando": false,
+   "r": [
+    275,
+    453,
+    522,
+    594
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    433,
+    772
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    791,
+    176,
+    916
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "zinc",
+   "contando": false,
+   "r": [
+    196,
+    791,
+    351,
+    916
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    371,
+    791,
+    787,
+    916
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    807,
+    791,
+    879,
+    916
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    96,
+    886,
+    668,
+    1011
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    688,
+    886,
+    809,
+    1011
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "cabello",
+   "contando": false,
+   "r": [
+    96,
+    981,
+    379,
+    1106
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    399,
+    981,
+    491,
+    1106
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    96,
+    1076,
+    550,
+    1201
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    570,
+    1076,
+    942,
+    1201
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de zinc. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    942,
+    1420
+   ]
+  },
+  {
+   "t": 23.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    776,
+    453,
+    892
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    776,
+    513,
+    892
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    776,
+    712,
+    892
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    730,
+    776,
+    857,
+    892
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "come",
+   "contando": false,
+   "r": [
+    96,
+    866,
+    263,
+    982
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "pollo.",
+   "contando": false,
+   "r": [
+    281,
+    866,
+    457,
+    982
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "noche:",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    393,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    403,
+    1175,
+    426,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "hoja",
+   "contando": false,
+   "r": [
+    436,
+    1175,
+    494,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    504,
+    1175,
+    555,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "apartas",
+   "contando": false,
+   "r": [
+    565,
+    1175,
+    663,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    673,
+    1175,
+    716,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "plato.",
+   "contando": false,
+   "r": [
+    726,
+    1175,
+    802,
+    1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.1,
+  4.5,
+  8.967,
+  10.4,
+  14.1,
+  15.5,
+  23.0,
+  26.233
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.54,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
+  "efectos_por_tipo": {
+   "tic": 9,
+   "tac": 3,
+   "sello": 3,
+   "ding": 1,
+   "contador": 20,
+   "whoosh": 4,
+   "golpe": 2,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.812,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 329,
+   "texto": "Los mejillones llevan más zinc que el lomo. ¡Verdadero, por poco! El salmón lleva más zinc que las gambas. ¡Falso! La pechuga lleva más zinc que la ternera. ¡Falso! Ternera: seis coma dos miligramos. ¿Y el zinc, qué hace? El zinc contribuye al mantenimiento del cabello en condiciones normales. Mándaselo a quien solo come pollo.",
+   "duracion_voz_s": 25.46,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Los mejillones llevan más zinc que el lomo.",
+     "t0": 0.0213,
+     "t1": 2.4913
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero, por poco!",
+     "t0": 3.1763,
+     "t1": 4.6963
+    },
+    {
+     "id": "a1",
+     "texto": "El salmón lleva más zinc que las gambas.",
+     "t0": 5.9363,
+     "t1": 8.3863
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso!",
+     "t0": 9.0613,
+     "t1": 9.5013
+    },
+    {
+     "id": "a2",
+     "texto": "La pechuga lleva más zinc que la ternera.",
+     "t0": 11.2263,
+     "t1": 13.5463
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! Ternera: seis coma dos miligramos.",
+     "t0": 14.1863,
+     "t1": 16.9863
+    },
+    {
+     "id": "c",
+     "texto": "¿Y el zinc, qué hace? El zinc contribuye al mantenimiento del cabello en condiciones normales.",
+     "t0": 18.0113,
+     "t1": 23.0113
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien solo come pollo.",
+     "t0": 23.5613,
+     "t1": 25.3213
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.11
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.366,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.111,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.561,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.156,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.196,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.406,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.506,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.606,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.706,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.806,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.906,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.566,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.536,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.271,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.006,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.456,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.041,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.081,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.291,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.391,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.491,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.591,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.691,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.791,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.891,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.806,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.826,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 12.496,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.166,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.616,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.166,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.206,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 14.416,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.516,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.616,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.716,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.816,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.916,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.016,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.706,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 23.091,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 25.421,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 805,
+ "tiempo_render_s": 62.3,
+ "tiempos_s": {
+  "preparar": 1.11,
+  "dibujar_y_codificar": 55.17
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 26.8333,
+  "loop": 26.3333,
+  "conc": {
+   "t_in": 17.706,
+   "palabras": [
+    19.3313,
+    19.4913,
+    19.8913,
+    20.4913,
+    20.6113,
+    21.2513,
+    21.4113,
+    21.8113,
+    21.9713,
+    22.4513
+   ],
+   "palabras_g": [
+    18.0113,
+    18.0913,
+    18.2113,
+    18.7313,
+    18.8513
+   ],
+   "t_sal": 18.506,
+   "t_frase": 23.001
+  },
+  "fin": {
+   "t_in": 23.091,
+   "palabras": [
+    23.5613,
+    24.1613,
+    24.2413,
+    24.4813,
+    24.8013,
+    25.0013
+   ],
+   "palabras_an": [
+    25.421,
+    25.421,
+    25.421,
+    25.421,
+    25.421,
+    25.421,
+    25.421,
+    25.421,
+    25.421,
+    25.421
+   ],
+   "t_an": 25.421
+  },
+  "iconos": [
+   [
+    -1.0,
+    5.516
+   ],
+   [
+    5.516,
+    10.755999999999998
+   ],
+   [
+    10.755999999999998,
+    17.706
+   ],
+   [
+    17.706,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 25.321,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.561,
+    "tv": 3.156,
+    "pasos": [
+     0.621,
+     1.366,
+     2.111
+    ],
+    "t_out": 5.516
+   },
+   {
+    "t_in": 5.816,
+    "t0": 5.936,
+    "buzz": 8.456,
+    "tv": 9.041,
+    "pasos": [
+     6.536,
+     7.271,
+     8.006
+    ],
+    "t_out": 10.756
+   },
+   {
+    "t_in": 11.056,
+    "t0": 11.226,
+    "buzz": 13.616,
+    "tv": 14.166,
+    "pasos": [
+     11.826,
+     12.496,
+     13.166
+    ],
+    "t_out": 18.206
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.4667,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.3667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.5,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.4,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 8.3667,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 9.2333,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 10.4,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 11.6667,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 13.5,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 14.3667,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 15.5,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 18.2,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 23.0,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 23.6,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 26.2333,
+   "que": "cierre"
+  },
+  {
+   "t": 26.8,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

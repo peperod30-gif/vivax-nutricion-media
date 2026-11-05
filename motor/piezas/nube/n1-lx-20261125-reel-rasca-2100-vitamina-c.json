@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261125-reel-rasca-2100-vitamina-c",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-rasca",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-018",
+    "VIT-017"
+  ],
+  "titulo": "[REEL-RASCA] Tienes tres segundos: ¿cuál lleva más vitamina C?",
+  "hojas": [
+    {
+      "plantilla": "f_frase",
+      "kicker": "Rasca el dato",
+      "titulo": "Tienes tres segundos: ¿cuál lleva más {vitamina C}?",
+      "dato": "El quiz de la noche",
+      "texto": "Por 100 g de alimento",
+      "items": [
+        "Rasca",
+        "Sorpresa"
+      ],
+      "voz": "Tienes tres segundos: ¿cuál lleva más vitamina C? Pimiento verde, coles de Bruselas, brócoli, col rizada. Arriba, el perejil: ciento treinta y tres miligramos. Sí, cien gramos de perejil es mucho. El otro trabajo de la vitamina C. La vitamina C mejora la absorción del hierro. Mándaselo a quien aparta el perejil del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "Pimiento verde crudo",
+          "valor": "80",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Coles de Bruselas crudas",
+          "valor": "85",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Brócoli crudo",
+          "valor": "89",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Col rizada cruda",
+          "valor": "93",
+          "unidad": "mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_reel",
+      "items": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "133",
+          "unidad": "mg"
+        }
+      ],
+      "texto": "de vitamina C"
+    },
+    {
+      "plantilla": "f_frase",
+      "kicker": "Rasca el dato",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina C mejora la absorción del hierro.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina C. No es una recomendación personal.",
+      "items": [
+        "Rasca"
+      ],
+      "titulo": "El otro trabajo de la vitamina C.",
+      "vit": "VIT-017"
+    },
+    {
+      "plantilla": "f_frase",
+      "kicker": "El quiz de la noche",
+      "texto": "Mándaselo a quien aparta el perejil del plato.",
+      "dato": "El viernes por la noche, otro quiz: el sodio escondido."
+    }
+  ],
+  "pie_instagram": "Tienes tres segundos: ¿cuál lleva más vitamina C?\n\nVitamina C por 100 g: pimiento verde crudo, 80 mg; coles de Bruselas crudas, 85 mg; brócoli crudo, 89 mg; col rizada cruda, 93 mg; y en la casilla sorpresa, perejil fresco, 133 mg.\nPerejil fresco, lo demás crudo. Cien gramos de perejil es mucho.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La vitamina C mejora la absorción del hierro. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina C; no es una recomendación personal.\n\n¿Cuál habías dicho tú?\nMándaselo a quien aparta el perejil del plato. El viernes por la noche, otro quiz: el sodio escondido.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaC #perejil #nutricion #quiz",
+  "alt": [
+    "Reel en blanco, negro y oliva: una tarjeta de rasca de lujo, «Rasca el dato». Una moneda de oliva rasca la lámina oliva oscura de 4 filas y de la casilla sorpresa; luego el reverso de la tarjeta descubre la conclusión y cierra la firma de Vivax. Rasca el dato. Tienes tres segundos: ¿cuál lleva más vitamina C? Por 100 g de alimento. El quiz de la noche. Rasca. Sorpresa. Pimiento verde crudo 80 mg. Coles de Bruselas crudas 85 mg. Brócoli crudo 89 mg. Col rizada cruda 93 mg. de vitamina C. Perejil fresco 133 mg. Rasca el dato. El otro trabajo de la vitamina C. Rasca. Para qué sirve. La vitamina C mejora la absorción del hierro. El quiz de la noche. Mándaselo a quien aparta el perejil del plato. El viernes por la noche, otro quiz: el sodio escondido."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-25",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-rasca",
+    "formato": "REEL-RASCA",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_rasca (Vivax Luxury); spec n1-lux-20261125-2100-perejil-vitamina-c. En lo publicado se dice «tarjeta», nunca «boleto», «premio» ni «suerte» (sin connotación de juego, como el BD)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Vitaminas",
+    "spec": "n1-lux-20261125-2100-perejil-vitamina-c",
+    "mecanica": "reel_ranking",
+    "voz_de_prueba": false,
+    "plantilla_visual": "reel_rasca",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (VIT-018, fdcId 170416, 168421, 170379, 170383 y 170427; datos de 2018, consultados el 13-oct-2026): por cada 100 g, perejil fresco 133 mg de vitamina C (166 % del VRN), col rizada cruda 93 mg (117 %), brócoli crudo 89 mg (112 %), coles de Bruselas crudas 85 mg (106 %) y pimiento verde crudo 80 mg (101 %). 100 g es mucho más que una ración habitual de muchos de estos alimentos. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-017); todos son fuente de vitamina C. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}
