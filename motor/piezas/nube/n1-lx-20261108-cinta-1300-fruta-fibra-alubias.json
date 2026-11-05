@@ -1,0 +1,99 @@
+{
+  "id": "n1-lx-20261108-cinta-1300-fruta-fibra-alubias",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-007",
+    "ALI-038",
+    "GAN-007"
+  ],
+  "titulo": "[CINTA] Una fruta con más fibra que las alubias.",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Fibra por 100 g",
+      "titulo": "Una fruta con más {fibra} que las alubias.",
+      "dato": "Curiosidades Vivax"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "aguacate",
+          "valor": "6,7",
+          "unidad": "g"
+        },
+        {
+          "cab": "II",
+          "nombre": "alubias blancas cocidas",
+          "valor": "6,3",
+          "unidad": "g"
+        },
+        {
+          "cab": "III",
+          "nombre": "brócoli cocido",
+          "valor": "3,3",
+          "unidad": "g"
+        },
+        {
+          "cab": "IV",
+          "nombre": "kiwi",
+          "valor": "3,0",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "aguacate",
+      "cifra": "6,7",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y para qué sirve?",
+      "resalte": "El dato que importa",
+      "frase": "En adultos, 25 g de fibra al día bastan para un tránsito intestinal normal.",
+      "fuente": "Referencia europea para adultos. Las cifras, por 100 g. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien busca fibra solo en legumbres.",
+      "texto": "Esta noche: lo que lleva más grasa que el bacon."
+    }
+  ],
+  "pie_instagram": "Una fruta con más fibra que las alubias.\n\nFibra por 100 g: aguacate, 6,7 g; alubias blancas cocidas, 6,3 g; brócoli cocido, 3,3 g; kiwi, 3,0 g.\nGramos de fibra por cada 100 g. Alubias y brócoli, cocidos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nEn adultos, 25 g de fibra al día bastan para un tránsito intestinal normal.\n\n¿Habrías dicho aguacate?\nMándaselo a quien busca fibra solo en legumbres.\nEsta noche: lo que lleva más grasa que el bacon.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #fibra #aguacate #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Fibra por 100 g. Una fruta con más fibra que las alubias. Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: IV, kiwi, 3,0 g; III, brócoli cocido, 3,3 g; II, alubias blancas cocidas, 6,3 g. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 6,7 g: I, aguacate. ¿Y para qué sirve? El dato que importa: En adultos, 25 g de fibra al día bastan para un tránsito intestinal normal. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien busca fibra solo en legumbres. Esta noche: lo que lleva más grasa que el bacon."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-08",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261108-1300-fruta-fibra-alubias",
+    "pilar_plan": "curiosidad",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261108-1300-fruta-fibra-alubias",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), fibra por 100 g: aguacate crudo 6,7 g, alubias blancas cocidas 6,3 g y kiwi crudo 3,0 g (ALI-007); brócoli cocido 3,3 g (ALI-038). Es una selección: en ALI-007 las lentejas cocidas (7,9 g) y los garbanzos cocidos (7,6 g) llevan más que el aguacate. Conclusión: dictamen de la EFSA de 2010 sobre hidratos de carbono y fibra (GAN-007, comprobado el 5-nov-2026 en su nota de prensa del 26-mar-2010): 25 g de fibra al día se consideran suficientes para un tránsito intestinal normal en adultos. La fibra no tiene declaración de salud autorizada en el banco. Es composición, no una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}
