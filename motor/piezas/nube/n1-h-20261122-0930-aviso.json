@@ -1,0 +1,54 @@
+{
+  "id": "n1-h-20261122-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-061"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: domingo 22-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 22-nov a las 09:30. Hechos: VIT-061.",
+  "alt": [
+    "Historia en blanco y verde oliva. Domingo. Hoy en el feed. A la una: El tiroides, según la UE: yodo y uno más. A las siete: Mito o dato. A las nueve: Grasa saturada: solo uno supera al bacon."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Domingo",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "El tiroides, según la UE: yodo y uno más"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Mito o dato"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Grasa saturada: solo uno supera al bacon."
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261122-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

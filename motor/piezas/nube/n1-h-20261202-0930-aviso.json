@@ -1,0 +1,53 @@
+{
+  "id": "n1-h-20261202-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "S1-05",
+    "S2-01",
+    "S2-02",
+    "S2-03"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: miércoles 2-dic",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 2-dic a las 09:30. Hechos: S1-05, S2-01, S2-02, S2-03.",
+  "alt": [
+    "Historia en blanco y verde oliva. Miércoles. Hoy en el feed. A la una: 6 a 10 horas para comer: ¿baja la presión? A las nueve: Azúcar, edulcorante o cola: ¿qué subió en 2025?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Miércoles",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "6 a 10 horas para comer: ¿baja la presión?"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Azúcar, edulcorante o cola: ¿qué subió en 2025?"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-02",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261202-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

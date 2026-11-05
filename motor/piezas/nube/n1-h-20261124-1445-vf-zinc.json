@@ -1,0 +1,45 @@
+{
+  "id": "n1-h-20261124-1445-vf-zinc",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "Minerales",
+  "serie": "historias",
+  "hechos": [
+    "ALI-050"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: Los mejillones llevan más zinc que el l…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 24-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261124-2100-zinc-verdadero-falso). Respuesta: VERDADERO. Hechos: ALI-050.",
+  "alt": [
+    "Historia en verde oliva con dos zonas abajo, Verdadero en blanco y Falso en negro. ¿Verdadero o falso? Los mejillones llevan más zinc que el lomo. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "Los mejillones llevan más zinc que el lomo.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-24",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "Minerales",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "vf",
+    "spec": "n1-h-20261124-1445-vf-zinc",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261124-2100-zinc-verdadero-falso",
+    "veredicto": "verdadero"
+  }
+}

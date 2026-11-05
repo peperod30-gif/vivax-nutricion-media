@@ -1,0 +1,54 @@
+{
+  "id": "n1-h-20261124-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "GAN-009"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: martes 24-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 24-nov a las 09:30. Hechos: GAN-009.",
+  "alt": [
+    "Historia en blanco y verde oliva. Martes. Hoy en el feed. A la una: Estados Unidos estrena guías: ¿y los hidratos? A las siete: Menos grasa saturada, dos resultados distintos. A las nueve: Zinc: de tres frases, solo una es verdad."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Martes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Estados Unidos estrena guías: ¿y los hidratos?"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Menos grasa saturada, dos resultados distintos."
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Zinc: de tres frases, solo una es verdad."
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-24",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261124-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

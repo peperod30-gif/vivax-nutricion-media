@@ -1,0 +1,45 @@
+{
+  "id": "n1-h-20261122-1445-vf-grasa-saturada",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "Despensa: grasas y colesterol",
+  "serie": "historias",
+  "hechos": [
+    "ALI-091"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: El salami y el bacon van casi empatados.",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 22-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261122-2100-grasa-nevera-quiz). Respuesta: VERDADERO. Hechos: ALI-091.",
+  "alt": [
+    "Historia en verde oliva con dos zonas abajo, Verdadero en blanco y Falso en negro. ¿Verdadero o falso? El salami y el bacon van casi empatados. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "El salami y el bacon van casi empatados.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "vf",
+    "spec": "n1-h-20261122-1445-vf-grasa-saturada",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261122-2100-grasa-nevera-quiz",
+    "veredicto": "verdadero"
+  }
+}

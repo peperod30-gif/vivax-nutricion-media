@@ -1,0 +1,46 @@
+{
+  "id": "n1-h-20261129-0930-dato9-grasa",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "Despensa: grasas y colesterol",
+  "serie": "historias",
+  "hechos": [
+    "ALI-126"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Atún en aceite, escurrido: 8,2 g",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 29-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261129-1300-atun-aceite-natural). Hechos: ALI-126.",
+  "alt": [
+    "Historia en blanco, negro y verde oliva. El dato de las nueve. Atún en aceite, escurrido: 8,2 g de grasa por 100 g, en una cifra enorme. ¿Cuál lleva más? Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "El dato de las nueve",
+      "titulo": "Atún en aceite, escurrido",
+      "cifra": "8,2",
+      "unidad": "g",
+      "texto": "de grasa por 100 g",
+      "titular": "¿Cuál lleva más?",
+      "sigue": "Hoy a la una, en el feed."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "dato9",
+    "spec": "n1-h-20261129-0930-dato9-grasa",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261129-1300-atun-aceite-natural"
+  }
+}

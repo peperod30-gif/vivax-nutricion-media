@@ -1,0 +1,51 @@
+{
+  "id": "n1-h-20261127-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ALI-095",
+    "ALI-097"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: viernes 27-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 27-nov a las 09:30. Hechos: ALI-095, ALI-097.",
+  "alt": [
+    "Historia en blanco y verde oliva. Viernes. Hoy en el feed. A la una: Una analítica no cuenta infartos. Hay algo que sí. A las nueve: Gouda: 819 mg de sodio. ¿Y la salchicha?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Viernes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Una analítica no cuenta infartos. Hay algo que sí"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Gouda: 819 mg de sodio. ¿Y la salchicha?"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-27",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261127-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "n1-h-20261123-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "MIT-011"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: lunes 23-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 23-nov a las 09:30. Hechos: MIT-011.",
+  "alt": [
+    "Historia en blanco y verde oliva. Lunes. Hoy en el feed. A la una: La clave del día. A las cuatro y media: Cetosis o cetoacidosis: aprende a distinguirlas. A las nueve: El quiz de la noche."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Lunes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "La clave del día"
+        },
+        {
+          "cab": "A las cuatro y media",
+          "texto": "Cetosis o cetoacidosis: aprende a distinguirlas"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "El quiz de la noche"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-23",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261123-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

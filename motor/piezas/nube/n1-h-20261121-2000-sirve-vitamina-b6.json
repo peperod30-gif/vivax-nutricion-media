@@ -1,0 +1,44 @@
+{
+  "id": "n1-h-20261121-2000-sirve-vitamina-b6",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-sirve",
+  "pilar": "ensenar",
+  "pilar_plan": "ensenar",
+  "serie": "historias",
+  "hechos": [
+    "VIT-037"
+  ],
+  "titulo": "[HISTORIA] Para qué sirve: Vitamina B6 (VIT-037), 21-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Para qué sirve» del 21-nov a las 20:00. Declaración de VIT-037, de la publicación n1-lux-20261121-1630-b6-cambia-escala. Hechos: VIT-037.",
+  "alt": [
+    "Historia en blanco, oliva profundo y oliva. Para qué sirve: Vitamina B6. La vitamina B6 contribuye al metabolismo energético normal. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B6. No es una recomendación personal. Mañana, a las ocho y media: un dulce con más hierro que la ternera."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "Para qué sirve",
+      "titulo": "Vitamina B6",
+      "frase": "La vitamina B6 contribuye al metabolismo energético normal.",
+      "vit": "VIT-037",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B6. No es una recomendación personal.",
+      "sigue": "Mañana, a las ocho y media: un dulce con más hierro que la ternera."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "hora": "20:00",
+    "serie": "Para qué sirve",
+    "pilar_plan": "ensenar",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "sirve",
+    "spec": "n1-h-20261121-2000-sirve-vitamina-b6",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "n1-h-20261203-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ALI-049"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: jueves 3-dic",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 3-dic a las 09:30. Hechos: ALI-049.",
+  "alt": [
+    "Historia en blanco y verde oliva. Jueves. Hoy en el feed. A la una: Lentejas contra quinoa, la revancha: magnesio. A las cuatro y media: La lección de la tarde. A las siete: Insulina y corazón: lo separa una sola palabra."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Jueves",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Lentejas contra quinoa, la revancha: magnesio."
+        },
+        {
+          "cab": "A las cuatro y media",
+          "texto": "La lección de la tarde"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Insulina y corazón: lo separa una sola palabra."
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-03",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261203-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}
