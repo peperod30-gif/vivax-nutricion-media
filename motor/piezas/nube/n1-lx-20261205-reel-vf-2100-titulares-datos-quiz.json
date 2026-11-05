@@ -1,0 +1,119 @@
+{
+  "id": "n1-lx-20261205-reel-vf-2100-titulares-datos-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "LC-022",
+    "DEB-025",
+    "NOV-012"
+  ],
+  "titulo": "[REEL-VF] Titulares contra datos: ¿cuántos se sostienen?",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "Titulares contra {datos}: ¿cuántos se sostienen?"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "La keto quita el hambre: efecto enorme.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "efecto modesto",
+      "unidad": "",
+      "dato": "metaanálisis de 2015",
+      "items": [
+        {
+          "nombre": "Keto y hambre"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "Ni los especialistas coinciden al clasificar ultraprocesados.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "0,32 y 0,34",
+      "unidad": "",
+      "dato": "donde 1 es acuerdo total",
+      "items": [
+        {
+          "nombre": "Acuerdo entre especialistas"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "Primera comida pasado el mediodía: acorta la vida, demostrado.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "un único recordatorio de 24 horas",
+      "unidad": "",
+      "dato": "31.044 adultos",
+      "items": [
+        {
+          "nombre": "Primera comida tardía"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "El dato final",
+      "frase": "Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios.",
+      "fuente": "Hechos del banco Vivax con su fuente en el primer comentario; no es una recomendación personal.",
+      "titulo": "Asociar no es demostrar"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien comparte titulares sin leerlos.",
+      "texto": "Mañana por la mañana, otra lección corta."
+    }
+  ],
+  "pie_instagram": "Titulares contra datos: ¿cuántos se sostienen?\n\nLa keto quita el hambre: efecto enorme. Falso: efecto modesto (metaanálisis de 2015).\nNi los especialistas coinciden al clasificar ultraprocesados. Verdadero: 0,32 y 0,34 (donde 1 es acuerdo total).\nPrimera comida pasado el mediodía: acorta la vida, demostrado. Falso: un único recordatorio de 24 horas (31.044 adultos).\n\nY el dato final: Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios. Hechos del banco Vivax con su fuente en el primer comentario; no es una recomendación personal.\n\n¿Cuántos has acertado?\nMándaselo a quien comparte titulares sin leerlos.\nMañana por la mañana, otra lección corta.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #verdaderoofalso #mitos #evidencia",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. Titulares contra datos: ¿cuántos se sostienen? I. La keto quita el hambre: efecto enorme. Falso: efecto modesto, Keto y hambre, metaanálisis de 2015. II. Ni los especialistas coinciden al clasificar ultraprocesados. Verdadero: 0,32 y 0,34, Acuerdo entre especialistas, donde 1 es acuerdo total. III. Primera comida pasado el mediodía: acorta la vida, demostrado. Falso: un único recordatorio de 24 horas, Primera comida tardía, 31.044 adultos. Asociar no es demostrar. El dato final: Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios. Mándaselo a quien comparte titulares sin leerlos. Mañana por la mañana, otra lección corta."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-05",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-12",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury, quiz de ideas) · spec n1-lux-20261205-2100-titulares-datos-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261205-2100-titulares-datos-quiz",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261205-2100-titulares-datos-quiz",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "LC-022: metaanálisis de 2015 en Obesity Reviews («Do ketogenic diets really suppress appetite?»), con escalas visuales de hambre durante la pérdida de peso: el efecto sobre el hambre es modesto en términos absolutos y no mide la ingesta de energía; un ECA de 12 meses (cita secundaria) no halló diferencia en el apetito autopercibido. DEB-025: Braesco V et al. Eur J Clin Nutr 2022;76:1245-1253, encuesta a especialistas franceses: la coincidencia al clasificar con NOVA fue baja (kappa de Fleiss de 0,32 y 0,34, donde 1 es acuerdo total), incluso con la lista de ingredientes; no es un estudio de salud. NOV-012: Hu W et al. Eur J Clin Nutr 2026, cohorte NHANES de 31.044 adultos de 40 años o más: empezar a comer después de las 12:00 se asoció con más mortalidad total (HR 1,29) que empezar de 7:00 a 8:00; un solo recordatorio de 24 horas por persona; asocia, no demuestra causa (quien está enfermo puede cambiar sus horarios). NOV-012 tiene riesgo de publicar alto en el banco: pendiente de validación. Consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}

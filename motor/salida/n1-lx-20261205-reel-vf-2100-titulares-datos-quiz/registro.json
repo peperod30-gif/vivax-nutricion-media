@@ -1,0 +1,2574 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 27.61,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.23,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.9,
+ "n_cambios_visuales": 262,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    117,
+    758
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    159,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "keto",
+   "contando": false,
+   "r": [
+    175,
+    769,
+    302,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "quita",
+   "contando": false,
+   "r": [
+    318,
+    769,
+    462,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    478,
+    769,
+    531,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hambre:",
+   "contando": false,
+   "r": [
+    547,
+    769,
+    783,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    277,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "enorme.",
+   "contando": false,
+   "r": [
+    293,
+    853,
+    528,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    117,
+    758
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    159,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "keto",
+   "contando": false,
+   "r": [
+    175,
+    769,
+    302,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "quita",
+   "contando": false,
+   "r": [
+    318,
+    769,
+    462,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    478,
+    769,
+    531,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "hambre:",
+   "contando": false,
+   "r": [
+    547,
+    769,
+    783,
+    878
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    277,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "enorme.",
+   "contando": false,
+   "r": [
+    293,
+    853,
+    528,
+    962
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 3.1,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    117,
+    758
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    159,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "keto",
+   "contando": false,
+   "r": [
+    175,
+    769,
+    302,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "quita",
+   "contando": false,
+   "r": [
+    318,
+    769,
+    462,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    478,
+    769,
+    531,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "hambre:",
+   "contando": false,
+   "r": [
+    547,
+    769,
+    783,
+    878
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    277,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "enorme.",
+   "contando": false,
+   "r": [
+    293,
+    853,
+    528,
+    962
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    180,
+    1167,
+    246,
+    1203
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    356,
+    1111,
+    600,
+    1238
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "modesto",
+   "contando": false,
+   "r": [
+    619,
+    1111,
+    948,
+    1238
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "metaanálisis de 2015",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    727,
+    1312
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "Keto y hambre",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    236,
+    1349
+   ]
+  },
+  {
+   "t": 4.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    127,
+    758
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Ni",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    149,
+    878
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    165,
+    769,
+    251,
+    878
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "especialistas",
+   "contando": false,
+   "r": [
+    268,
+    769,
+    651,
+    878
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "coinciden",
+   "contando": false,
+   "r": [
+    668,
+    769,
+    948,
+    878
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    148,
+    962
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "clasificar",
+   "contando": false,
+   "r": [
+    164,
+    853,
+    432,
+    962
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "ultraprocesados.",
+   "contando": false,
+   "r": [
+    449,
+    853,
+    936,
+    962
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    127,
+    758
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "Ni",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    149,
+    878
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    165,
+    769,
+    251,
+    878
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "especialistas",
+   "contando": false,
+   "r": [
+    268,
+    769,
+    651,
+    878
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "coinciden",
+   "contando": false,
+   "r": [
+    668,
+    769,
+    948,
+    878
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    148,
+    962
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "clasificar",
+   "contando": false,
+   "r": [
+    164,
+    853,
+    432,
+    962
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "ultraprocesados.",
+   "contando": false,
+   "r": [
+    449,
+    853,
+    936,
+    962
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    152,
+    1167,
+    275,
+    1203
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "0,32",
+   "contando": false,
+   "r": [
+    356,
+    1102,
+    538,
+    1246
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    561,
+    1102,
+    613,
+    1246
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "0,34",
+   "contando": false,
+   "r": [
+    635,
+    1102,
+    825,
+    1246
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "donde 1 es acuerdo total",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    812,
+    1312
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "Acuerdo entre especialistas",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    378,
+    1349
+   ]
+  },
+  {
+   "t": 11.067,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    137,
+    758
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "Primera",
+   "contando": false,
+   "r": [
+    96,
+    770,
+    307,
+    872
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    322,
+    770,
+    522,
+    872
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "pasado",
+   "contando": false,
+   "r": [
+    537,
+    770,
+    735,
+    872
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    750,
+    770,
+    799,
+    872
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "mediodía:",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    360,
+    951
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "acorta",
+   "contando": false,
+   "r": [
+    376,
+    849,
+    551,
+    951
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    566,
+    849,
+    615,
+    951
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "vida,",
+   "contando": false,
+   "r": [
+    96,
+    928,
+    225,
+    1030
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "demostrado.",
+   "contando": false,
+   "r": [
+    240,
+    928,
+    581,
+    1030
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 16.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "Titulares",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    342,
+    461
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    359,
+    351,
+    545,
+    461
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "datos:",
+   "contando": false,
+   "r": [
+    96,
+    449,
+    264,
+    537
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "¿cuántos",
+   "contando": false,
+   "r": [
+    280,
+    436,
+    546,
+    546
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    96,
+    522,
+    165,
+    632
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "sostienen?",
+   "contando": false,
+   "r": [
+    181,
+    522,
+    498,
+    632
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    137,
+    758
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "Primera",
+   "contando": false,
+   "r": [
+    96,
+    770,
+    307,
+    872
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    322,
+    770,
+    522,
+    872
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "pasado",
+   "contando": false,
+   "r": [
+    537,
+    770,
+    735,
+    872
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    750,
+    770,
+    799,
+    872
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "mediodía:",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    360,
+    951
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "acorta",
+   "contando": false,
+   "r": [
+    376,
+    849,
+    551,
+    951
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    566,
+    849,
+    615,
+    951
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "vida,",
+   "contando": false,
+   "r": [
+    96,
+    928,
+    225,
+    1030
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "demostrado.",
+   "contando": false,
+   "r": [
+    240,
+    928,
+    581,
+    1030
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    180,
+    1167,
+    246,
+    1203
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    356,
+    1084,
+    423,
+    1176
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "único",
+   "contando": false,
+   "r": [
+    438,
+    1084,
+    588,
+    1176
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "recordatorio",
+   "contando": false,
+   "r": [
+    602,
+    1084,
+    949,
+    1176
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    356,
+    1173,
+    423,
+    1265
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "24",
+   "contando": false,
+   "r": [
+    437,
+    1173,
+    510,
+    1265
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "horas",
+   "contando": false,
+   "r": [
+    524,
+    1173,
+    680,
+    1265
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "31.044 adultos",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    619,
+    1312
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "Primera comida tardía",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    318,
+    1349
+   ]
+  },
+  {
+   "t": 17.933,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "Asociar",
+   "contando": false,
+   "r": [
+    96,
+    348,
+    366,
+    486
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    387,
+    348,
+    476,
+    486
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    455,
+    182,
+    593
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "demostrar",
+   "contando": false,
+   "r": [
+    203,
+    455,
+    579,
+    593
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    407,
+    772
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "Asocia,",
+   "contando": false,
+   "r": [
+    96,
+    791,
+    337,
+    918
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    356,
+    791,
+    439,
+    918
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "demuestra",
+   "contando": false,
+   "r": [
+    458,
+    791,
+    818,
+    918
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "causa:",
+   "contando": false,
+   "r": [
+    96,
+    888,
+    318,
+    1015
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    337,
+    888,
+    521,
+    1015
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "está",
+   "contando": false,
+   "r": [
+    540,
+    888,
+    686,
+    1015
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "enfermo",
+   "contando": false,
+   "r": [
+    96,
+    986,
+    374,
+    1113
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    394,
+    986,
+    599,
+    1113
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "cambiar",
+   "contando": false,
+   "r": [
+    618,
+    986,
+    893,
+    1113
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    96,
+    1083,
+    216,
+    1210
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "horarios.",
+   "contando": false,
+   "r": [
+    235,
+    1083,
+    535,
+    1210
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "Hechos del banco Vivax con su fuente en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    879,
+    1395
+   ]
+  },
+  {
+   "t": 23.033,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    789,
+    386,
+    880
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    401,
+    789,
+    434,
+    880
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    449,
+    789,
+    599,
+    880
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "comparte",
+   "contando": false,
+   "r": [
+    613,
+    789,
+    878,
+    880
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "titulares",
+   "contando": false,
+   "r": [
+    96,
+    879,
+    329,
+    970
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    344,
+    879,
+    425,
+    970
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "leerlos.",
+   "contando": false,
+   "r": [
+    439,
+    879,
+    646,
+    970
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "mañana,",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    415,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "otra",
+   "contando": false,
+   "r": [
+    424,
+    1175,
+    478,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "lección",
+   "contando": false,
+   "r": [
+    488,
+    1175,
+    585,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "corta.",
+   "contando": false,
+   "r": [
+    595,
+    1175,
+    673,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.1,
+  4.5,
+  9.633,
+  11.067,
+  16.5,
+  17.933,
+  23.033,
+  26.967
+ ],
+ "sonido": {
+  "lufs": -16.03,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.62,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
+  "efectos_por_tipo": {
+   "tic": 11,
+   "tac": 3,
+   "sello": 3,
+   "golpe": 2,
+   "contador": 19,
+   "whoosh": 4,
+   "ding": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 27.545,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 323,
+   "texto": "La keto quita el hambre: efecto enorme. ¡Falso! Ni los especialistas coinciden al clasificar ultraprocesados. ¡Verdadero! Acuerdo bajo. Primera comida pasado el mediodía: acorta la vida, demostrado. ¡Falso! Asociar no es demostrar. Quien enferma puede cambiar sus horarios. Mándaselo a quien comparte titulares sin leerlos.",
+   "duracion_voz_s": 26.21,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "La keto quita el hambre: efecto enorme.",
+     "t0": 0.0213,
+     "t1": 2.5013
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso!",
+     "t0": 3.1763,
+     "t1": 3.6963
+    },
+    {
+     "id": "a1",
+     "texto": "Ni los especialistas coinciden al clasificar ultraprocesados.",
+     "t0": 5.8513,
+     "t1": 9.0513
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero! Acuerdo bajo.",
+     "t0": 9.7263,
+     "t1": 11.3063
+    },
+    {
+     "id": "a2",
+     "texto": "Primera comida pasado el mediodía: acorta la vida, demostrado.",
+     "t0": 12.5063,
+     "t1": 15.9963
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso!",
+     "t0": 16.5963,
+     "t1": 17.0363
+    },
+    {
+     "id": "c",
+     "texto": "Asociar no es demostrar. Quien enferma puede cambiar sus horarios.",
+     "t0": 19.0713,
+     "t1": 23.0263
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien comparte titulares sin leerlos.",
+     "t0": 23.5913,
+     "t1": 26.0713
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.25
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.371,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.121,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.571,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.156,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.196,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.406,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.506,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.606,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.706,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.806,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.906,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.451,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.451,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.191,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.931,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.671,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.121,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.706,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.746,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 9.956,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.056,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.156,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.256,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.356,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.456,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.556,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 12.116,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.106,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.943,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.779,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.616,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.066,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 16.576,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 16.616,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 16.826,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.926,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.026,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.126,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.226,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.326,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 18.816,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 23.111,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 26.171,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 827,
+ "tiempo_render_s": 59.5,
+ "tiempos_s": {
+  "preparar": 1.75,
+  "dibujar_y_codificar": 55.34
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 27.5667,
+  "loop": 27.0667,
+  "conc": {
+   "t_in": 18.816,
+   "palabras": [
+    19.766,
+    19.766,
+    19.766,
+    20.1836,
+    20.5544,
+    20.8634,
+    21.1106,
+    21.5432,
+    21.8522,
+    22.2847,
+    22.4701
+   ],
+   "palabras_g": [
+    19.0713,
+    19.7913,
+    20.0313,
+    20.1913
+   ],
+   "t_sal": 19.616,
+   "t_frase": 23.02
+  },
+  "fin": {
+   "t_in": 23.111,
+   "palabras": [
+    23.5913,
+    24.1113,
+    24.1913,
+    24.5113,
+    24.8713,
+    25.4313,
+    25.5913
+   ],
+   "palabras_an": [
+    26.171,
+    26.171,
+    26.171,
+    26.171,
+    26.171,
+    26.171,
+    26.171
+   ],
+   "t_an": 26.171
+  },
+  "iconos": [
+   [
+    -1.0,
+    5.401
+   ],
+   [
+    5.401,
+    12.065999999999999
+   ],
+   [
+    12.065999999999999,
+    18.816
+   ],
+   [
+    18.816,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 26.071,
+  "avisos": [
+   "el Reel dura 27.5667 s (con la voz simulada de prueba sale 1-2 s más largo que con Dani)"
+  ],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.571,
+    "tv": 3.156,
+    "pasos": [
+     0.621,
+     1.371,
+     2.121
+    ],
+    "t_out": 5.401
+   },
+   {
+    "t_in": 5.701,
+    "t0": 5.851,
+    "buzz": 9.121,
+    "tv": 9.706,
+    "pasos": [
+     6.451,
+     7.191,
+     7.931,
+     8.671
+    ],
+    "t_out": 12.066
+   },
+   {
+    "t_in": 12.366,
+    "t0": 12.506,
+    "buzz": 16.066,
+    "tv": 16.576,
+    "pasos": [
+     13.106,
+     13.943,
+     14.779,
+     15.616
+    ],
+    "t_out": 19.316
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.4667,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.3667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.5,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.3,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 9.0333,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 9.9,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 11.0667,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 12.9667,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 15.9667,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 16.7667,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 17.9333,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 19.3,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 23.0333,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 23.6,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 26.9667,
+   "que": "cierre"
+  },
+  {
+   "t": 27.5333,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}
