@@ -1,0 +1,62 @@
+{
+  "id": "n1-lx-20261229-balanza-hierro-lentejas",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-balanza",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-062",
+    "VIT-054"
+  ],
+  "titulo": "[BALANZA] Pesan lo mismo. El hierro, no.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Hierro por cada 100 g",
+      "titulo": "Pesan lo mismo.\nEl {hierro}, no.",
+      "opciones": [
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "3,3",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Ternera picada cocinada",
+          "valor": "2,7",
+          "unidad": "mg"
+        }
+      ],
+      "resalte": "Para qué sirve",
+      "titular": "El trabajo secreto del {hierro}",
+      "vit": "VIT-054",
+      "frase": "El hierro contribuye al transporte normal de {oxígeno} en el cuerpo.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "sigue": "Mándaselo a quien cree que el hierro solo está en la carne.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "texto": "Mismo peso, más hierro en las lentejas.",
+      "fuentes": [
+        "Es la cantidad que hay en el alimento, no la que se absorbe."
+      ]
+    }
+  ],
+  "pie_instagram": "100 g de lentejas cocidas y 100 g de ternera picada cocinada pesan lo mismo. El hierro, no ⚖️\n\nPor cada 100 g, hierro: lentejas cocidas 3,3 mg y ternera picada cocinada 2,7 mg.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿En qué platillo habrías puesto más hierro?\nMándaselo a quien cree que el hierro solo está en la carne.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #legumbres #nutricion #comidareal",
+  "alt": [
+    "Imagen en blanco, negro y verde oliva. Una balanza de platillos dibujada en línea fina, en equilibrio, con lentejas cocidas en el platillo de la izquierda y ternera picada cocinada en el de la derecha; bajo cada platillo, una cota de 100 g y, entre las dos, el signo igual. Hierro por cada 100 g. Pesan lo mismo. El hierro, no. Mismo peso, más hierro en las lentejas. Lentejas cocidas: 3,3 mg. Ternera picada cocinada: 2,7 mg. Es la cantidad que hay en el alimento, no la que se absorbe. Para qué sirve. El trabajo secreto del hierro. El hierro contribuye al transporte normal de oxígeno en el cuerpo. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal. Mándaselo a quien cree que el hierro solo está en la carne. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": true,
+    "fecha": "2026-11-08",
+    "serie": "luxury",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "balanza",
+    "formato": "BALANZA",
+    "lote": "lux-2026-12",
+    "hora": "16:30",
+    "nota": "plantilla balanza (tpl_img_balanza_lux.py)",
+    "aprobado_por": "José, 5-nov-2026: botón ✅ Mandar del prototipo luxury en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}

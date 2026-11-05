@@ -1,0 +1,99 @@
+{
+  "id": "n1-lx-20261106-ranking-calcio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-ranking",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-009",
+    "VIT-055"
+  ],
+  "titulo": "[RANKING] ¿Quién lleva más calcio?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Calcio · por 100 g",
+      "titulo": "¿Quién lleva más {calcio}?",
+      "texto": "Cuenta atrás · de menos a más",
+      "voz": "¿Quién lleva más calcio?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "kicker": "V",
+      "texto": "Sardinas en lata",
+      "cifra": "382",
+      "unidad": "mg",
+      "voz": "Cinco: sardinas."
+    },
+    {
+      "plantilla": "lx_reel",
+      "kicker": "IV",
+      "texto": "Mozzarella",
+      "cifra": "505",
+      "unidad": "mg",
+      "voz": "Cuatro: mozzarella."
+    },
+    {
+      "plantilla": "lx_reel",
+      "kicker": "III",
+      "texto": "Semillas de chía",
+      "cifra": "631",
+      "unidad": "mg",
+      "voz": "Tres: chía."
+    },
+    {
+      "plantilla": "lx_reel",
+      "kicker": "II",
+      "texto": "Tofu firme",
+      "cifra": "683",
+      "unidad": "mg",
+      "voz": "Dos: tofu."
+    },
+    {
+      "plantilla": "lx_reel",
+      "kicker": "I",
+      "texto": "Parmesano",
+      "cifra": "1184",
+      "unidad": "mg",
+      "voz": "Y el uno... ¡parmesano!"
+    },
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Calcio",
+      "titulo": "¿Y para qué sirve?",
+      "vit": "VIT-055",
+      "frase": "El calcio es necesario para el mantenimiento de los huesos en condiciones normales.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de calcio. No es una recomendación personal.",
+      "voz": "¿Y para qué sirve? El calcio es necesario para el mantenimiento de los huesos en condiciones normales."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien le echa parmesano a todo.",
+      "voz": "Mándaselo a quien le echa parmesano a todo."
+    }
+  ],
+  "pie_instagram": "Cuenta atrás del calcio: cinco alimentos, de menos a más 🧀\n\nDe menos a más calcio, por cada 100 g: sardinas en lata 382 mg; mozzarella 505 mg; semillas de chía 631 mg; tofu firme 683 mg; parmesano 1184 mg.\nEl tofu es el preparado con sulfato de calcio.\nDatos: USDA FoodData Central, SR Legacy.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El calcio es necesario para el mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de calcio; no es una recomendación personal.\n\n¿Tenías al parmesano en lo más alto?\nMándaselo a quien le echa parmesano a todo. 💌\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#calcio #nutricion #comidareal #parmesano",
+  "alt": [
+    "Reel en blanco, negro y verde oliva, con letra de revista. Arriba, en blanco: ¿Quién lleva más calcio? (calcio · por 100 g). Abajo, sobre oliva, los cinco alimentos dibujados en línea y, en cuenta atrás, cada uno con su puesto en número romano, la cifra en grande y una lista que se va llenando con una barra proporcional: V, sardinas en lata, 382 mg; IV, mozzarella, 505 mg; III, semillas de chía, 631 mg; II, tofu firme, 683 mg; I, parmesano, 1184 mg. El número uno sale sobre negro. Después, sobre oliva profundo: ¿Y para qué sirve? El calcio es necesario para el mantenimiento de los huesos en condiciones normales. En letra pequeña: Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de calcio. No es una recomendación personal. Cierre: Mándaselo a quien le echa parmesano a todo. Firma Vivax Nutrición y @vivax_nutri."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": true,
+    "fecha": "2026-11-06",
+    "serie": "luxury",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "ranking",
+    "formato": "RANKING",
+    "lote": "lux-2026-11",
+    "hora": "19:00",
+    "nota": "plantilla PA tpl_reel_ranking_lux (Ranking que sube); voz real de Dani; conclusión VIT-055 literal",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "aprobado_por": "José, 5-nov-2026: botón ✅ Mandar del prototipo luxury en Telegram"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012. Voz sintética (IA).",
+  "ia": true
+}
