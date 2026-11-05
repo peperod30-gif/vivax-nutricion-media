@@ -1,0 +1,2650 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 25.51,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.5,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.667,
+ "n_cambios_visuales": 346,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    96,
+    362,
+    312,
+    542
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "analítica",
+   "contando": false,
+   "r": [
+    340,
+    362,
+    785,
+    542
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    813,
+    362,
+    947,
+    542
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    456,
+    679
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "infartos.",
+   "contando": false,
+   "r": [
+    484,
+    499,
+    925,
+    679
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Hay",
+   "contando": false,
+   "r": [
+    96,
+    636,
+    309,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "algo",
+   "contando": false,
+   "r": [
+    337,
+    636,
+    572,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    600,
+    636,
+    801,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sí",
+   "contando": false,
+   "r": [
+    829,
+    636,
+    915,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1016,
+    117,
+    1077
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    1092,
+    129,
+    1153
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    1168,
+    141,
+    1229
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    96,
+    1244,
+    138,
+    1305
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    1336,
+    167,
+    1431
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cuatro",
+   "contando": false,
+   "r": [
+    182,
+    1336,
+    349,
+    1431
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    365,
+    1336,
+    525,
+    1431
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "Marcador:",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    407,
+    449
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    420,
+    397,
+    498,
+    449
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    512,
+    397,
+    625,
+    449
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    496,
+    190,
+    621
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "tensión",
+   "contando": false,
+   "r": [
+    210,
+    496,
+    487,
+    621
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    507,
+    496,
+    553,
+    621
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    573,
+    496,
+    682,
+    621
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "lípidos",
+   "contando": false,
+   "r": [
+    96,
+    591,
+    358,
+    716
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    378,
+    591,
+    509,
+    716
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "factores",
+   "contando": false,
+   "r": [
+    529,
+    591,
+    803,
+    716
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    823,
+    591,
+    916,
+    716
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "riesgo,",
+   "contando": false,
+   "r": [
+    96,
+    686,
+    351,
+    811
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    371,
+    686,
+    467,
+    811
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "eventos.",
+   "contando": false,
+   "r": [
+    487,
+    686,
+    790,
+    811
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    204,
+    1454
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "Marcador:",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    407,
+    449
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    420,
+    397,
+    498,
+    449
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    512,
+    397,
+    625,
+    449
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    239,
+    541
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "marcadores,",
+   "contando": false,
+   "r": [
+    252,
+    489,
+    518,
+    541
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    531,
+    489,
+    577,
+    541
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "parecen",
+   "contando": false,
+   "r": [
+    590,
+    489,
+    762,
+    541
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "Baja",
+   "contando": false,
+   "r": [
+    96,
+    591,
+    231,
+    691
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    248,
+    591,
+    322,
+    691
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "carbohidratos",
+   "contando": false,
+   "r": [
+    338,
+    591,
+    727,
+    691
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    668,
+    133,
+    768
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "equilibrada,",
+   "contando": false,
+   "r": [
+    149,
+    668,
+    524,
+    768
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    540,
+    668,
+    650,
+    768
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    666,
+    668,
+    724,
+    768
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "misma",
+   "contando": false,
+   "r": [
+    740,
+    668,
+    939,
+    768
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "energía,",
+   "contando": false,
+   "r": [
+    96,
+    744,
+    345,
+    844
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "hasta",
+   "contando": false,
+   "r": [
+    361,
+    744,
+    522,
+    844
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "2",
+   "contando": false,
+   "r": [
+    538,
+    744,
+    575,
+    844
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "años.",
+   "contando": false,
+   "r": [
+    591,
+    744,
+    746,
+    844
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    273,
+    1454
+   ]
+  },
+  {
+   "t": 8.667,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "Marcador:",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    407,
+    449
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    420,
+    397,
+    498,
+    449
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    512,
+    397,
+    625,
+    449
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    239,
+    541
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "marcadores,",
+   "contando": false,
+   "r": [
+    252,
+    489,
+    518,
+    541
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    531,
+    489,
+    577,
+    541
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "parecen",
+   "contando": false,
+   "r": [
+    590,
+    489,
+    762,
+    541
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "Evento:",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    351,
+    633
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    364,
+    581,
+    412,
+    633
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    426,
+    581,
+    501,
+    633
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "pasa",
+   "contando": false,
+   "r": [
+    514,
+    581,
+    612,
+    633
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    625,
+    581,
+    675,
+    633
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "verdad",
+   "contando": false,
+   "r": [
+    688,
+    581,
+    839,
+    633
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    683,
+    176,
+    782
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "alto",
+   "contando": false,
+   "r": [
+    192,
+    683,
+    307,
+    782
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "riesgo,",
+   "contando": false,
+   "r": [
+    323,
+    683,
+    525,
+    782
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "mediterránea",
+   "contando": false,
+   "r": [
+    541,
+    683,
+    949,
+    782
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    96,
+    758,
+    205,
+    857
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "aceite",
+   "contando": false,
+   "r": [
+    221,
+    758,
+    398,
+    857
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    414,
+    758,
+    487,
+    857
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "oliva:",
+   "contando": false,
+   "r": [
+    503,
+    758,
+    665,
+    857
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    681,
+    758,
+    875,
+    857
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    96,
+    834,
+    302,
+    933
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "(cociente",
+   "contando": false,
+   "r": [
+    318,
+    834,
+    593,
+    933
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "0,69).",
+   "contando": false,
+   "r": [
+    609,
+    834,
+    775,
+    933
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    341,
+    1454
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "Marcador:",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    407,
+    449
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    420,
+    397,
+    498,
+    449
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    512,
+    397,
+    625,
+    449
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    239,
+    541
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "marcadores,",
+   "contando": false,
+   "r": [
+    252,
+    489,
+    518,
+    541
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    531,
+    489,
+    577,
+    541
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "parecen",
+   "contando": false,
+   "r": [
+    590,
+    489,
+    762,
+    541
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "Evento:",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    351,
+    633
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    364,
+    581,
+    412,
+    633
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    426,
+    581,
+    501,
+    633
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "pasa",
+   "contando": false,
+   "r": [
+    514,
+    581,
+    612,
+    633
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    625,
+    581,
+    675,
+    633
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "verdad",
+   "contando": false,
+   "r": [
+    688,
+    581,
+    839,
+    633
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    96,
+    663,
+    144,
+    733
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    188,
+    673,
+    236,
+    725
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "keto:",
+   "contando": false,
+   "r": [
+    249,
+    673,
+    362,
+    725
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    375,
+    673,
+    442,
+    725
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "datos",
+   "contando": false,
+   "r": [
+    455,
+    673,
+    581,
+    725
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    594,
+    673,
+    644,
+    725
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    657,
+    673,
+    831,
+    725
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "Aún",
+   "contando": false,
+   "r": [
+    96,
+    773,
+    244,
+    887
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    263,
+    773,
+    350,
+    887
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "hay",
+   "contando": false,
+   "r": [
+    368,
+    773,
+    493,
+    887
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "datos",
+   "contando": false,
+   "r": [
+    511,
+    773,
+    685,
+    887
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "aleatorizados",
+   "contando": false,
+   "r": [
+    96,
+    860,
+    562,
+    974
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    580,
+    860,
+    665,
+    974
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    683,
+    860,
+    945,
+    974
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    96,
+    947,
+    222,
+    1061
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "dieta",
+   "contando": false,
+   "r": [
+    240,
+    947,
+    414,
+    1061
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "cetogénica.",
+   "contando": false,
+   "r": [
+    432,
+    947,
+    824,
+    1061
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    325,
+    1454
+   ]
+  },
+  {
+   "t": 15.433,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "Marcador:",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    407,
+    449
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    420,
+    397,
+    498,
+    449
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    512,
+    397,
+    625,
+    449
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    239,
+    541
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "marcadores,",
+   "contando": false,
+   "r": [
+    252,
+    489,
+    518,
+    541
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    531,
+    489,
+    577,
+    541
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "parecen",
+   "contando": false,
+   "r": [
+    590,
+    489,
+    762,
+    541
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "Evento:",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    351,
+    633
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    364,
+    581,
+    412,
+    633
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    426,
+    581,
+    501,
+    633
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "pasa",
+   "contando": false,
+   "r": [
+    514,
+    581,
+    612,
+    633
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    625,
+    581,
+    675,
+    633
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "verdad",
+   "contando": false,
+   "r": [
+    688,
+    581,
+    839,
+    633
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    96,
+    663,
+    144,
+    733
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    188,
+    673,
+    236,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "keto:",
+   "contando": false,
+   "r": [
+    249,
+    673,
+    362,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    375,
+    673,
+    442,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "datos",
+   "contando": false,
+   "r": [
+    455,
+    673,
+    581,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    594,
+    673,
+    644,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    657,
+    673,
+    831,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "¿Por",
+   "contando": false,
+   "r": [
+    96,
+    816,
+    184,
+    884
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    195,
+    816,
+    263,
+    884
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "importa",
+   "contando": false,
+   "r": [
+    273,
+    816,
+    423,
+    884
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    434,
+    816,
+    472,
+    884
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "diferencia?",
+   "contando": false,
+   "r": [
+    482,
+    816,
+    695,
+    884
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "El dato que importa",
+   "contando": false,
+   "r": [
+    174,
+    781,
+    527,
+    811
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    902,
+    161,
+    989
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "mediterránea",
+   "contando": false,
+   "r": [
+    175,
+    902,
+    530,
+    989
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "redujo",
+   "contando": false,
+   "r": [
+    544,
+    902,
+    717,
+    989
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    731,
+    902,
+    930,
+    989
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    968,
+    160,
+    1055
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "prevención",
+   "contando": false,
+   "r": [
+    174,
+    968,
+    469,
+    1055
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "primaria,",
+   "contando": false,
+   "r": [
+    483,
+    968,
+    726,
+    1055
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    740,
+    968,
+    834,
+    1055
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "fallos",
+   "contando": false,
+   "r": [
+    96,
+    1034,
+    244,
+    1121
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    258,
+    1034,
+    322,
+    1121
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "aleatorización",
+   "contando": false,
+   "r": [
+    336,
+    1034,
+    709,
+    1121
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "señalados;",
+   "contando": false,
+   "r": [
+    96,
+    1100,
+    369,
+    1187
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    383,
+    1100,
+    432,
+    1187
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "cetogénica",
+   "contando": false,
+   "r": [
+    446,
+    1100,
+    730,
+    1187
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    744,
+    1100,
+    810,
+    1187
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    96,
+    1166,
+    226,
+    1253
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "datos",
+   "contando": false,
+   "r": [
+    240,
+    1166,
+    381,
+    1253
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "aleatorizados",
+   "contando": false,
+   "r": [
+    395,
+    1166,
+    747,
+    1253
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    761,
+    1166,
+    825,
+    1253
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "eventos.",
+   "contando": false,
+   "r": [
+    96,
+    1233,
+    307,
+    1320
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1352,
+    677,
+    1378
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1468,
+    232,
+    1500
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "habla",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    916,
+    942
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    172,
+    1030
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "dietas",
+   "contando": false,
+   "r": [
+    191,
+    914,
+    385,
+    1030
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    404,
+    914,
+    573,
+    1030
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    591,
+    914,
+    667,
+    1030
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "fútbol.",
+   "contando": false,
+   "r": [
+    686,
+    914,
+    890,
+    1030
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    231,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    242,
+    1205,
+    263,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    274,
+    1205,
+    311,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "una:",
+   "contando": false,
+   "r": [
+    322,
+    1205,
+    398,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "dónde",
+   "contando": false,
+   "r": [
+    409,
+    1205,
+    517,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    528,
+    1205,
+    614,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    625,
+    1205,
+    662,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "keto",
+   "contando": false,
+   "r": [
+    673,
+    1205,
+    749,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    760,
+    1205,
+    799,
+    1243
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "evidencia",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    260,
+    1279
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    271,
+    1241,
+    336,
+    1279
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "sólida.",
+   "contando": false,
+   "r": [
+    347,
+    1241,
+    468,
+    1279
+   ]
+  },
+  {
+   "t": 24.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.467,
+  8.667,
+  12.167,
+  15.433,
+  20.867,
+  24.867
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 6.01,
+  "tiempo_reduccion_mas_1db_pct": 0.08,
+  "efectos_por_tipo": {
+   "whoosh": 7,
+   "tic": 5,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 25.445,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 325,
+   "texto": "Una analítica no cuenta infartos. Hay algo que sí. Lípidos y tensión son marcadores. Ahí, baja en hidratos y equilibrada se parecen. Un evento es lo que pasa de verdad. En alto riesgo, la mediterránea redujo eventos. La cetogénica aún no tiene datos aleatorizados de eventos. Mándaselo a quien habla de dietas como de fútbol.",
+   "cortes": 9,
+   "silencios_s": 4.83,
+   "pausas_acortadas_s": 1.6,
+   "duracion_voz_s": 23.87
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.06
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.131,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.681,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 5.581,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.131,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 8.791,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.341,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 12.271,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.821,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 15.561,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 16.011,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 20.991,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 23.681,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 764,
+ "tiempo_render_s": 65.3,
+ "tiempos_s": {
+  "preparar": 0.9,
+  "dibujar_y_codificar": 58.41
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "b",
+ "linea_de_tiempo": {
+  "dur": 25.4667,
+  "loop": 24.9667,
+  "var": "b",
+  "n": 4,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.007,
+    0.03,
+    0.035,
+    0.05,
+    0.07,
+    0.078,
+    0.088,
+    0.095
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 2.131,
+    "t_out": 5.581,
+    "t_rom": 2.551,
+    "t_tit": 2.681,
+    "t_txt0": 3.181,
+    "t_ico": 2.931,
+    "voz": 2.551,
+    "pal_txt": [
+     3.861,
+     4.111,
+     4.251,
+     4.391,
+     4.531,
+     4.671,
+     4.881,
+     4.881,
+     4.881,
+     4.881,
+     4.881
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 5.581,
+    "t_out": 8.791,
+    "t_rom": 6.001,
+    "t_tit": 6.131,
+    "t_txt0": 6.631,
+    "t_ico": 6.381,
+    "voz": 6.001,
+    "pal_txt": [
+     6.441,
+     6.721,
+     7.001,
+     7.281,
+     7.561,
+     7.811,
+     8.061,
+     8.091,
+     8.091,
+     8.091,
+     8.091,
+     8.091
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 8.791,
+    "t_out": 12.271,
+    "t_rom": 9.211,
+    "t_tit": 9.341,
+    "t_txt0": 9.841,
+    "t_ico": 9.591,
+    "voz": 9.211,
+    "pal_txt": [
+     9.511,
+     9.575,
+     9.704,
+     9.897,
+     10.284,
+     10.38,
+     10.573,
+     10.638,
+     10.799,
+     10.959,
+     11.185,
+     11.442
+    ],
+    "bt": 560
+   },
+   {
+    "t_in": 12.271,
+    "t_out": 15.561,
+    "t_rom": 12.691,
+    "t_tit": 12.821,
+    "t_txt0": 13.321,
+    "t_ico": 13.071,
+    "voz": 12.691,
+    "pal_txt": [
+     13.511,
+     13.761,
+     14.011,
+     14.261,
+     14.511,
+     14.761,
+     15.011,
+     14.861,
+     14.861,
+     14.861
+    ],
+    "bt": 652
+   }
+  ],
+  "conc": {
+   "t_in": 15.561,
+   "t_g": 16.161,
+   "voz": 16.111,
+   "decl": 16.111,
+   "pal_g": [
+    16.161,
+    16.209,
+    16.257,
+    16.369,
+    16.401
+   ],
+   "pal_f": [
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.111,
+    16.191,
+    16.751,
+    17.311,
+    17.711,
+    17.951,
+    18.431,
+    18.911
+   ],
+   "t_f0": 16.661,
+   "bt": 744
+  },
+  "fin": {
+   "t_in": 20.991,
+   "voz": 21.411,
+   "t_c0": 21.741,
+   "t_fil": 22.091,
+   "t_an": 23.681,
+   "pal_c": [
+    21.411,
+    21.711,
+    22.011,
+    22.211,
+    22.371,
+    22.531,
+    23.011,
+    23.171,
+    23.331
+   ],
+   "B0": 23.291
+  },
+  "trans": [
+   2.131,
+   5.581,
+   8.791,
+   12.271,
+   15.561,
+   20.991
+  ],
+  "extra": [
+   23.591,
+   23.841,
+   25.1667,
+   25.366699999999998
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 2.131,
+    "off": 640
+   },
+   {
+    "t_in": 5.581,
+    "off": 1260
+   },
+   {
+    "t_in": 8.791,
+    "off": 1880
+   },
+   {
+    "t_in": 12.271,
+    "off": 2500
+   },
+   {
+    "t_in": 15.561,
+    "off": 3120
+   }
+  ],
+  "fin_voz": 23.871,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  2.4667,
+  5.4667,
+  5.9333,
+  8.6667,
+  9.1333,
+  12.1667,
+  12.6333,
+  15.4333,
+  16.0667,
+  20.8667,
+  21.6,
+  24.8667,
+  25.4333
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Una analítica no cuenta infartos.",
+   "t": 0.021,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Hay algo que sí. Lípidos y tensión son marcadores.",
+   "t": 2.551,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Ahí, baja en hidratos y equilibrada se parecen.",
+   "t": 6.001,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Un evento es lo que pasa de verdad.",
+   "t": 9.211,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso IV",
+   "voz": "En alto riesgo, la mediterránea redujo eventos.",
+   "t": 12.691,
+   "puntos": 1.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "La cetogénica aún no tiene datos aleatorizados de eventos.",
+   "t": 16.111,
+   "puntos": 4.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien habla de dietas como de fútbol.",
+   "t": 21.411,
+   "puntos": 12.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: LC-003, ENF-001, MIT-021",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «  i.  ii.  iii.  iv.  La clave del día  Marcador: una c»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #dietamediterranea #keto #nutricion #corazon»"
+ ]
+}

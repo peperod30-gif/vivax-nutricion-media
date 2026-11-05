@@ -1,0 +1,106 @@
+{
+  "id": "n1-lx-20261127-explica-1300-marcador-evento-corazon",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "LC-003",
+    "ENF-001",
+    "MIT-021"
+  ],
+  "titulo": "[EXPLICA] Una analítica no cuenta infartos. Hay algo que sí",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "La clave del día",
+      "titulo": "Una {analítica} no cuenta infartos. Hay algo que sí",
+      "dato": "En cuatro pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        },
+        {
+          "cab": "iv."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Marcador: una cifra",
+      "texto": "La tensión o los lípidos son {factores} de riesgo, no eventos."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "En marcadores, se parecen",
+      "texto": "Baja en {carbohidratos} y equilibrada, con la misma energía, hasta 2 años."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Evento: lo que pasa de verdad",
+      "texto": "En alto riesgo, mediterránea con aceite de oliva: menos {eventos} (cociente 0,69)."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iv.",
+      "titulo": "La keto: sin datos de eventos",
+      "texto": "Aún no hay {datos} aleatorizados de eventos con dieta cetogénica."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Por qué importa la diferencia?",
+      "resalte": "El dato que importa",
+      "frase": "La mediterránea redujo eventos en prevención primaria, con fallos de aleatorización señalados; la cetogénica no tiene datos aleatorizados de eventos.",
+      "fuente": "La fuente va en el primer comentario. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien habla de dietas como de fútbol.",
+      "texto": "Mañana a la una: dónde tiene la keto su evidencia más sólida."
+    }
+  ],
+  "pie_instagram": "Una analítica no cuenta infartos. Hay algo que sí\n\nI · Marcador: una cifra: la tensión o los lípidos son factores de riesgo, no eventos.\nII · En marcadores, se parecen: baja en carbohidratos y equilibrada, con la misma energía, hasta 2 años.\nIII · Evento: lo que pasa de verdad: en alto riesgo, mediterránea con aceite de oliva: menos eventos (cociente 0,69).\nIV · La keto: sin datos de eventos: aún no hay datos aleatorizados de eventos con dieta cetogénica.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nEl dato que importa: la mediterránea redujo eventos en prevención primaria, con fallos de aleatorización señalados; la cetogénica no tiene datos aleatorizados de eventos.\n\n¿Qué paso no conocías?\nMándaselo a quien habla de dietas como de fútbol.\nMañana a la una: dónde tiene la keto su evidencia más sólida.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#dietamediterranea #keto #nutricion #corazon",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: fichas a sangre en oliva que suben una tras otra y se apilan como pestañas con su número y su título. La clave del día. Una analítica no cuenta infartos. Hay algo que sí. I. Marcador: una cifra. La tensión o los lípidos son factores de riesgo, no eventos. II. En marcadores, se parecen. Baja en carbohidratos y equilibrada, con la misma energía, hasta 2 años. III. Evento: lo que pasa de verdad. En alto riesgo, mediterránea con aceite de oliva: menos eventos (cociente 0,69). IV. La keto: sin datos de eventos. Aún no hay datos aleatorizados de eventos con dieta cetogénica. ¿Por qué importa la diferencia? El dato que importa: La mediterránea redujo eventos en prevención primaria, con fallos de aleatorización señalados; la cetogénica no tiene datos aleatorizados de eventos. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien habla de dietas como de fútbol. Mañana a la una: dónde tiene la keto su evidencia más sólida."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-27",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante b: fichas que se apilan) · spec n1-lux-20261127-1300-marcador-evento-corazon",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "b",
+    "spec_id": "n1-lux-20261127-1300-marcador-evento-corazon",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261127-1300-marcador-evento-corazon",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "LC-003: Naude CE et al. PLoS One 2014;9(7):e100652 (19 ECA con 3.209 adultos, hasta 2 años; los desenlaces cardiovasculares medidos son factores de riesgo, no eventos clínicos). ENF-001: Estruch R et al. NEJM 2018, versión corregida de PREDIMED (prevención primaria en personas de alto riesgo; cociente de riesgo de 0,69 con aceite de oliva y de 0,72 con frutos secos; la versión de 2013 se retiró por fallos de aleatorización). MIT-021: no hay ECA con eventos cardiovasculares para la dieta cetogénica; la mediterránea con aceite de oliva o frutos secos redujo eventos en prevención primaria, con los problemas de aleatorización que se señalan en esa misma publicación. LC-003 compara dietas con la misma energía. Banco consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

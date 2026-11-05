@@ -1,0 +1,106 @@
+{
+  "id": "n1-lx-20261201-explica-1300-soja-leche-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "NOV-010",
+    "VIT-059"
+  ],
+  "titulo": "[EXPLICA] La soja empata con la leche. ¿Y el arroz?",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "La clave del día",
+      "titulo": "La soja empata con la leche. ¿Y el {arroz}?",
+      "dato": "En cuatro pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        },
+        {
+          "cab": "iv."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Vegetal frente a animal",
+      "texto": "En 30 investigaciones, la {vegetal} dio algo menos masa muscular."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "Una diferencia pequeña",
+      "texto": "De 0,20; igual fuerza; en mayores de 60, sin {diferencia} clara."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Soja frente a leche",
+      "texto": "Sin {diferencia} entre las dos: 0,02."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iv.",
+      "titulo": "Arroz, avena, patata, chía",
+      "texto": "Frente a la proteína animal, la {diferencia} crece: 0,58."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y para qué sirven las proteínas?",
+      "resalte": "Para qué sirve",
+      "frase": "Las proteínas contribuyen a conservar la masa muscular.",
+      "vit": "VIT-059",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien echa proteína de arroz al batido.",
+      "texto": "Mañana a mediodía: comer en pocas horas, ¿baja la presión?"
+    }
+  ],
+  "pie_instagram": "La soja empata con la leche. ¿Y el arroz?\n\nI · Vegetal frente a animal: en 30 investigaciones, la vegetal dio algo menos masa muscular.\nII · Una diferencia pequeña: de 0,20; igual fuerza; en mayores de 60, sin diferencia clara.\nIII · Soja frente a leche: sin diferencia entre las dos: 0,02.\nIV · Arroz, avena, patata, chía: frente a la proteína animal, la diferencia crece: 0,58.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a conservar la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Qué paso no conocías?\nMándaselo a quien echa proteína de arroz al batido.\nMañana a mediodía: comer en pocas horas, ¿baja la presión?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #proteinavegetal #soja #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: fichas a sangre en oliva que suben una tras otra y se apilan como pestañas con su número y su título. La clave del día. La soja empata con la leche. ¿Y el arroz? I. Vegetal frente a animal. En 30 investigaciones, la vegetal dio algo menos masa muscular. II. Una diferencia pequeña. De 0,20; igual fuerza; en mayores de 60, sin diferencia clara. III. Soja frente a leche. Sin diferencia entre las dos: 0,02. IV. Arroz, avena, patata, chía. Frente a la proteína animal, la diferencia crece: 0,58. ¿Y para qué sirven las proteínas? Para qué sirve: Las proteínas contribuyen a conservar la masa muscular. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien echa proteína de arroz al batido. Mañana a mediodía: comer en pocas horas, ¿baja la presión?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-01",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-12",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante b: fichas que se apilan) · spec n1-lux-20261201-1300-soja-leche-proteina",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "b",
+    "spec_id": "n1-lux-20261201-1300-soja-leche-proteina",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261201-1300-soja-leche-proteina",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: Reid-McCann RJ et al. Nutr Rev 2025;83(7):e1581-e1603 (NOV-010), revisión sistemática y metaanálisis de ensayos; 30 con masa muscular. Diferencias estandarizadas de la proteína vegetal frente a la animal: 0,20 menos en total y en menores de 60 años; 0,05 menos en mayores de 60, sin significación; soja frente a leche, 0,02 menos, sin diferencia; proteínas vegetales que no son de soja (arroz, chía, avena, patata), 0,58 menos (5 ensayos). Fuerza (14 ensayos) y rendimiento físico (5) no difirieron; «misma fuerza» en la voz resume ese dato. Ningún ensayo midió sarcopenia. Resumen consultado en Europe PMC el 09/10/2026; riesgo de publicar alto, pendiente de validación. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-059), para alimentos que son al menos fuente de proteínas; se dice del nutriente, no de un alimento. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

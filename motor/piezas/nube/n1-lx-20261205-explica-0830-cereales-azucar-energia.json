@@ -1,0 +1,96 @@
+{
+  "id": "n1-lx-20261205-explica-0830-cereales-azucar-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-101",
+    "ALI-100"
+  ],
+  "titulo": "[EXPLICA] Cereal: cinco veces menos azúcares. ¿Y la energía?",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "En treinta segundos",
+      "titulo": "Cereal: cinco veces menos {azúcares}. ¿Y la energía?",
+      "dato": "En tres pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Cereales azucarados: 39,3 g",
+      "texto": "De {azúcares} por cada 100 g, con 389 kcal."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "Copos de maíz: 7,8 g",
+      "texto": "Unas cinco veces menos {azúcares}, y 384 kcal."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Copos de avena: 1,0 g",
+      "texto": "En seco, apenas {azúcares}, y 379 kcal por cada 100 g."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "Azúcares y energía, dos cifras distintas",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g: cereales de desayuno azucarados, 389 kcal de energía; copos de maíz, 384 kcal de energía.",
+      "fuente": "La fuente va en el primer comentario. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien solo mira el azúcar del desayuno.",
+      "texto": "A media mañana, en el Aula: qué le pasa a la leche al desnatarla."
+    }
+  ],
+  "pie_instagram": "Cereal: cinco veces menos azúcares. ¿Y la energía?\n\nI · Cereales azucarados: 39,3 g: de azúcares por cada 100 g, con 389 kcal.\nII · Copos de maíz: 7,8 g: unas cinco veces menos azúcares, y 384 kcal.\nIII · Copos de avena: 1,0 g: en seco, apenas azúcares, y 379 kcal por cada 100 g.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nEl dato final: por cada 100 g: cereales de desayuno azucarados, 389 kcal de energía; copos de maíz, 384 kcal de energía.\n\n¿Qué paso no conocías?\nMándaselo a quien solo mira el azúcar del desayuno.\nA media mañana, en el Aula: qué le pasa a la leche al desnatarla.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #azucar #desayuno",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una columna de titulares que sube como una cinta, unidos por un raíl vertical. En treinta segundos. Cereal: cinco veces menos azúcares. ¿Y la energía? I. Cereales azucarados: 39,3 g. De azúcares por cada 100 g, con 389 kcal. II. Copos de maíz: 7,8 g. Unas cinco veces menos azúcares, y 384 kcal. III. Copos de avena: 1,0 g. En seco, apenas azúcares, y 379 kcal por cada 100 g. Azúcares y energía, dos cifras distintas. El dato final: Por cada 100 g: cereales de desayuno azucarados, 389 kcal de energía; copos de maíz, 384 kcal de energía. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien solo mira el azúcar del desayuno. A media mañana, en el Aula: qué le pasa a la leche al desnatarla."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-05",
+    "serie": "En 30 segundos",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante c: cinta vertical de titulares) · spec n1-lux-20261205-0830-cereales-azucar-energia",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "c",
+    "spec_id": "n1-lux-20261205-0830-cereales-azucar-energia",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261205-0830-cereales-azucar-energia",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, por 100 g: cereales de desayuno azucarados, 39,3 g de azúcares y 389 kcal; copos de maíz, 7,8 g de azúcares y 384 kcal (ALI-101); copos de avena en seco, 1,0 g de azúcares y 379 kcal (ALI-100). Son azúcares totales. Cálculo propio: 39,3 entre 7,8 = 5,04, unas cinco veces. Los azúcares no tienen declaración de salud autorizada: la conclusión es el hecho del banco. Consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "En 30 segundos",
+  "pilar_plan": "ensenar"
+}

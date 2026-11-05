@@ -1,0 +1,1675 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 20.58,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.24,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.7,
+ "n_cambios_visuales": 310,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Exprimir",
+   "contando": false,
+   "r": [
+    96,
+    363,
+    555,
+    534
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    582,
+    363,
+    677,
+    534
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "naranja",
+   "contando": false,
+   "r": [
+    96,
+    493,
+    487,
+    664
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "deja",
+   "contando": false,
+   "r": [
+    514,
+    493,
+    731,
+    664
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "algo",
+   "contando": false,
+   "r": [
+    96,
+    623,
+    319,
+    794
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "fuera",
+   "contando": false,
+   "r": [
+    346,
+    623,
+    621,
+    794
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    96,
+    753,
+    257,
+    924
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "zumo",
+   "contando": false,
+   "r": [
+    284,
+    753,
+    537,
+    924
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    1144,
+    192,
+    1273
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    212,
+    1144,
+    341,
+    1273
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    362,
+    1144,
+    579,
+    1273
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "Naranja:",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    349,
+    456
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "11,8 g",
+   "contando": false,
+   "r": [
+    367,
+    386,
+    524,
+    456
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    541,
+    386,
+    609,
+    456
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    627,
+    386,
+    891,
+    456
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    233,
+    624
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    253,
+    499,
+    433,
+    624
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    453,
+    499,
+    661,
+    624
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    681,
+    499,
+    774,
+    624
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "naranja",
+   "contando": false,
+   "r": [
+    96,
+    594,
+    376,
+    719
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "entera.",
+   "contando": false,
+   "r": [
+    396,
+    594,
+    656,
+    719
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    90,
+    1093,
+    206,
+    1459
+   ]
+  },
+  {
+   "t": 5.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "Zumo:",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    256,
+    456
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "10,4 g",
+   "contando": false,
+   "r": [
+    274,
+    386,
+    436,
+    456
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    454,
+    386,
+    521,
+    456
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    539,
+    386,
+    803,
+    456
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    233,
+    624
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    253,
+    499,
+    433,
+    624
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    453,
+    499,
+    661,
+    624
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    681,
+    499,
+    774,
+    624
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "zumo",
+   "contando": false,
+   "r": [
+    96,
+    594,
+    301,
+    719
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    321,
+    594,
+    414,
+    719
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "naranja,",
+   "contando": false,
+   "r": [
+    434,
+    594,
+    746,
+    719
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    766,
+    594,
+    877,
+    719
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "añadidos.",
+   "contando": false,
+   "r": [
+    96,
+    689,
+    433,
+    814
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    90,
+    1093,
+    275,
+    1459
+   ]
+  },
+  {
+   "t": 8.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "De",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    163,
+    456
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "ellos,",
+   "contando": false,
+   "r": [
+    181,
+    386,
+    356,
+    456
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "8,4 g",
+   "contando": false,
+   "r": [
+    373,
+    386,
+    508,
+    456
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    526,
+    386,
+    629,
+    456
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    647,
+    386,
+    909,
+    456
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    228,
+    624
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    248,
+    499,
+    391,
+    624
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "trae",
+   "contando": false,
+   "r": [
+    411,
+    499,
+    563,
+    624
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    583,
+    499,
+    653,
+    624
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "propio",
+   "contando": false,
+   "r": [
+    673,
+    499,
+    929,
+    624
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "zumo,",
+   "contando": false,
+   "r": [
+    96,
+    594,
+    320,
+    719
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    340,
+    594,
+    451,
+    719
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "nada",
+   "contando": false,
+   "r": [
+    471,
+    594,
+    658,
+    719
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "añadido.",
+   "contando": false,
+   "r": [
+    96,
+    689,
+    400,
+    814
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    90,
+    1093,
+    343,
+    1459
+   ]
+  },
+  {
+   "t": 11.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "Lo",
+   "contando": false,
+   "r": [
+    96,
+    378,
+    195,
+    507
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    215,
+    378,
+    362,
+    507
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    382,
+    378,
+    462,
+    507
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "queda",
+   "contando": false,
+   "r": [
+    483,
+    378,
+    726,
+    507
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    746,
+    378,
+    841,
+    507
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    861,
+    378,
+    935,
+    507
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "naranja",
+   "contando": false,
+   "r": [
+    96,
+    475,
+    396,
+    604
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    690,
+    407,
+    720
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    733,
+    198,
+    870
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "naranja",
+   "contando": false,
+   "r": [
+    220,
+    733,
+    540,
+    870
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "entera,",
+   "contando": false,
+   "r": [
+    562,
+    733,
+    848,
+    870
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "además,",
+   "contando": false,
+   "r": [
+    96,
+    837,
+    431,
+    974
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    453,
+    837,
+    658,
+    974
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "fibra;",
+   "contando": false,
+   "r": [
+    680,
+    837,
+    907,
+    974
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    96,
+    942,
+    173,
+    1079
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "zumo",
+   "contando": false,
+   "r": [
+    195,
+    942,
+    418,
+    1079
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    440,
+    942,
+    527,
+    1079
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    549,
+    942,
+    626,
+    1079
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    648,
+    942,
+    749,
+    1079
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "naranja",
+   "contando": false,
+   "r": [
+    96,
+    1046,
+    416,
+    1183
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    437,
+    1046,
+    558,
+    1183
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "añadidos.",
+   "contando": false,
+   "r": [
+    96,
+    1151,
+    491,
+    1288
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1337,
+    677,
+    1363
+   ]
+  },
+  {
+   "t": 15.6,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    889,
+    942
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    153,
+    1030
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "exprimidor",
+   "contando": false,
+   "r": [
+    171,
+    914,
+    532,
+    1030
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "siempre",
+   "contando": false,
+   "r": [
+    551,
+    914,
+    803,
+    1030
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    1002,
+    137,
+    1118
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "mano.",
+   "contando": false,
+   "r": [
+    156,
+    1002,
+    354,
+    1118
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "Esta",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    167,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "tarde:",
+   "contando": false,
+   "r": [
+    178,
+    1205,
+    282,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    292,
+    1205,
+    331,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    342,
+    1205,
+    405,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "sí",
+   "contando": false,
+   "r": [
+    416,
+    1205,
+    444,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    455,
+    1205,
+    491,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "sabe",
+   "contando": false,
+   "r": [
+    502,
+    1205,
+    578,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    589,
+    1205,
+    644,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    655,
+    1205,
+    774,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    785,
+    1205,
+    804,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    815,
+    1205,
+    872,
+    1243
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "dientes.",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    233,
+    1279
+   ]
+  },
+  {
+   "t": 19.933,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.367,
+  8.367,
+  11.267,
+  15.6,
+  19.933
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.93,
+  "tiempo_reduccion_mas_1db_pct": 0.1,
+  "efectos_por_tipo": {
+   "whoosh": 6,
+   "tic": 4,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 20.512,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 269,
+   "texto": "Exprimir la naranja deja algo fuera. Naranja entera: once coma ocho gramos de hidratos. Zumo: diez coma cuatro. De ellos, ocho coma cuatro son azúcares. Lo que se queda fuera. La naranja entera, además, lleva fibra. Mándaselo a quien tiene el exprimidor siempre a mano.",
+   "cortes": 11,
+   "silencios_s": 3.25,
+   "pausas_acortadas_s": 2.09,
+   "duracion_voz_s": 18.76
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.74
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.291,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.841,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 5.501,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.051,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 8.501,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.051,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 11.371,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 11.821,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.721,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 18.731,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 616,
+ "tiempo_render_s": 44.6,
+ "tiempos_s": {
+  "preparar": 1.24,
+  "dibujar_y_codificar": 40.09
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "a",
+ "linea_de_tiempo": {
+  "dur": 20.5333,
+  "loop": 20.0333,
+  "var": "a",
+  "n": 3,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.022,
+    0.027,
+    0.046,
+    0.057,
+    0.068,
+    0.081,
+    0.089
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 2.291,
+    "t_out": 5.501,
+    "t_rom": 2.711,
+    "t_tit": 2.841,
+    "t_txt0": 3.341,
+    "t_ico": 3.091,
+    "voz": 2.711,
+    "pal_txt": [
+     3.011,
+     3.011,
+     3.011,
+     3.011,
+     2.711,
+     3.271
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 5.501,
+    "t_out": 8.501,
+    "t_rom": 5.921,
+    "t_tit": 6.051,
+    "t_txt0": 6.551,
+    "t_ico": 6.301,
+    "voz": 5.921,
+    "pal_txt": [
+     6.221,
+     6.221,
+     6.221,
+     6.221,
+     5.921,
+     6.171,
+     6.421,
+     6.671,
+     6.921
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 8.501,
+    "t_out": 11.371,
+    "t_rom": 8.921,
+    "t_tit": 9.051,
+    "t_txt0": 9.551,
+    "t_ico": 9.301,
+    "voz": 8.921,
+    "pal_txt": [
+     9.221,
+     9.342,
+     9.463,
+     9.624,
+     9.704,
+     9.946,
+     10.107,
+     10.228,
+     10.389
+    ],
+    "bt": 560
+   }
+  ],
+  "conc": {
+   "t_in": 11.371,
+   "t_g": 11.971,
+   "voz": 11.921,
+   "decl": 13.161,
+   "pal_g": [
+    11.971,
+    12.041,
+    12.181,
+    12.321,
+    12.371,
+    12.371,
+    12.371
+   ],
+   "pal_f": [
+    13.161,
+    13.281,
+    13.761,
+    14.161,
+    14.761,
+    15.028,
+    14.921,
+    14.921,
+    14.921,
+    14.921,
+    14.921,
+    14.921,
+    14.921,
+    14.921
+   ],
+   "t_f0": 12.471,
+   "bt": 652
+  },
+  "fin": {
+   "t_in": 15.721,
+   "voz": 16.141,
+   "t_c0": 16.471,
+   "t_fil": 16.821,
+   "t_an": 18.731,
+   "pal_c": [
+    16.141,
+    16.461,
+    16.781,
+    17.021,
+    17.201,
+    17.381,
+    17.981,
+    18.181,
+    18.381
+   ],
+   "B0": 18.021
+  },
+  "trans": [
+   2.291,
+   5.501,
+   8.501,
+   11.371,
+   15.721
+  ],
+  "extra": [
+   18.321,
+   18.571,
+   20.2333,
+   20.4333
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 2.291,
+    "off": 640
+   },
+   {
+    "t_in": 5.501,
+    "off": 1260
+   },
+   {
+    "t_in": 8.501,
+    "off": 1880
+   },
+   {
+    "t_in": 11.371,
+    "off": 2500
+   }
+  ],
+  "fin_voz": 18.761,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  2.6333,
+  5.3667,
+  5.8667,
+  8.3667,
+  8.8667,
+  11.2667,
+  11.8667,
+  15.6,
+  16.3333,
+  19.9333,
+  20.5
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Exprimir la naranja deja algo fuera.",
+   "t": 0.021,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Naranja entera: once coma ocho gramos de hidratos.",
+   "t": 2.711,
+   "puntos": 7.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Zumo: diez coma cuatro.",
+   "t": 5.921,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "De ellos, ocho coma cuatro son azúcares.",
+   "t": 8.921,
+   "puntos": 3.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "Lo que se queda fuera. La naranja entera, además, lleva fibra.",
+   "t": 11.921,
+   "puntos": 10.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien tiene el exprimidor siempre a mano.",
+   "t": 16.141,
+   "puntos": 11.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ALI-073, ALI-033",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «asos.  i.  ii.  iii.  La clave del día  Naranja: 11,8 g»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #nutricion #fibra #fruta»"
+ ]
+}

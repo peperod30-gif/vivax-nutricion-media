@@ -1,0 +1,1864 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.31,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.91,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.734,
+ "n_cambios_visuales": 358,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Edulcorantes",
+   "contando": false,
+   "r": [
+    96,
+    364,
+    745,
+    529
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    489,
+    155,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cerebro:",
+   "contando": false,
+   "r": [
+    181,
+    489,
+    587,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    612,
+    489,
+    740,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hallazgo,",
+   "contando": false,
+   "r": [
+    96,
+    615,
+    542,
+    780
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    96,
+    740,
+    281,
+    905
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "peros",
+   "contando": false,
+   "r": [
+    307,
+    740,
+    545,
+    905
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    919,
+    159,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cuatro",
+   "contando": false,
+   "r": [
+    172,
+    919,
+    321,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    334,
+    919,
+    477,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    148,
+    382,
+    175,
+    465
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    150,
+    464,
+    233,
+    559
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "hallazgo",
+   "contando": false,
+   "r": [
+    257,
+    464,
+    617,
+    559
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "12.772",
+   "contando": false,
+   "r": [
+    150,
+    668,
+    312,
+    756
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "adultos,",
+   "contando": false,
+   "r": [
+    326,
+    668,
+    538,
+    756
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "8",
+   "contando": false,
+   "r": [
+    552,
+    668,
+    584,
+    756
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "años:",
+   "contando": false,
+   "r": [
+    598,
+    668,
+    734,
+    756
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    748,
+    668,
+    855,
+    756
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "edulcorante,",
+   "contando": false,
+   "r": [
+    150,
+    736,
+    457,
+    824
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "deterioro",
+   "contando": false,
+   "r": [
+    471,
+    736,
+    722,
+    824
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    736,
+    736,
+    843,
+    824
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "rápido",
+   "contando": false,
+   "r": [
+    150,
+    803,
+    329,
+    891
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "bajo",
+   "contando": false,
+   "r": [
+    343,
+    803,
+    461,
+    891
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    475,
+    803,
+    552,
+    891
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "60.",
+   "contando": false,
+   "r": [
+    566,
+    803,
+    648,
+    891
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    148,
+    386,
+    190,
+    469
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    150,
+    468,
+    244,
+    563
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "pero:",
+   "contando": false,
+   "r": [
+    269,
+    468,
+    468,
+    563
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "observacional",
+   "contando": false,
+   "r": [
+    150,
+    541,
+    722,
+    636
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "Asocia;",
+   "contando": false,
+   "r": [
+    150,
+    672,
+    345,
+    760
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    359,
+    672,
+    426,
+    760
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "demuestra",
+   "contando": false,
+   "r": [
+    440,
+    672,
+    724,
+    760
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    738,
+    672,
+    839,
+    760
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    853,
+    672,
+    903,
+    760
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    150,
+    739,
+    445,
+    827
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "sea",
+   "contando": false,
+   "r": [
+    459,
+    739,
+    545,
+    827
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    559,
+    739,
+    610,
+    827
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "causa.",
+   "contando": false,
+   "r": [
+    624,
+    739,
+    788,
+    827
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    148,
+    385,
+    206,
+    468
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Otro:",
+   "contando": false,
+   "r": [
+    150,
+    467,
+    357,
+    562
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    382,
+    467,
+    645,
+    562
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "pequeño",
+   "contando": false,
+   "r": [
+    150,
+    540,
+    469,
+    635
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    150,
+    671,
+    228,
+    759
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    242,
+    671,
+    387,
+    759
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "pequeño,",
+   "contando": false,
+   "r": [
+    401,
+    671,
+    649,
+    759
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    663,
+    671,
+    695,
+    759
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    709,
+    671,
+    774,
+    759
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "mayores",
+   "contando": false,
+   "r": [
+    150,
+    738,
+    376,
+    826
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    390,
+    738,
+    456,
+    826
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "60,",
+   "contando": false,
+   "r": [
+    470,
+    738,
+    553,
+    826
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    567,
+    738,
+    645,
+    826
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "asociación.",
+   "contando": false,
+   "r": [
+    150,
+    805,
+    444,
+    893
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    148,
+    387,
+    202,
+    470
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "Y",
+   "contando": false,
+   "r": [
+    150,
+    469,
+    195,
+    564
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "otro:",
+   "contando": false,
+   "r": [
+    219,
+    469,
+    427,
+    564
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "cómo",
+   "contando": false,
+   "r": [
+    451,
+    469,
+    646,
+    564
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    150,
+    542,
+    234,
+    637
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "midió",
+   "contando": false,
+   "r": [
+    258,
+    542,
+    474,
+    637
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "Con",
+   "contando": false,
+   "r": [
+    150,
+    673,
+    260,
+    761
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    274,
+    673,
+    344,
+    761
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "cuestionario",
+   "contando": false,
+   "r": [
+    358,
+    673,
+    691,
+    761
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    705,
+    673,
+    771,
+    761
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "frecuencia,",
+   "contando": false,
+   "r": [
+    150,
+    741,
+    451,
+    829
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    465,
+    741,
+    497,
+    829
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "hubo",
+   "contando": false,
+   "r": [
+    512,
+    741,
+    650,
+    829
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "pérdida",
+   "contando": false,
+   "r": [
+    664,
+    741,
+    877,
+    829
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    150,
+    808,
+    216,
+    896
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "participantes.",
+   "contando": false,
+   "r": [
+    230,
+    808,
+    570,
+    896
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    374,
+    206,
+    504
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    227,
+    374,
+    375,
+    504
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "queda",
+   "contando": false,
+   "r": [
+    396,
+    374,
+    641,
+    504
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    662,
+    374,
+    757,
+    504
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "pie?",
+   "contando": false,
+   "r": [
+    778,
+    374,
+    948,
+    504
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "El dato que importa",
+   "contando": false,
+   "r": [
+    174,
+    700,
+    527,
+    730
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "Más",
+   "contando": false,
+   "r": [
+    96,
+    745,
+    240,
+    864
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "edulcorantes",
+   "contando": false,
+   "r": [
+    259,
+    745,
+    727,
+    864
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    746,
+    745,
+    821,
+    864
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "asoció",
+   "contando": false,
+   "r": [
+    96,
+    835,
+    322,
+    954
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    341,
+    835,
+    470,
+    954
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    489,
+    835,
+    583,
+    954
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "deterioro",
+   "contando": false,
+   "r": [
+    602,
+    835,
+    937,
+    954
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "cognitivo",
+   "contando": false,
+   "r": [
+    96,
+    926,
+    429,
+    1045
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    448,
+    926,
+    591,
+    1045
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "rápido",
+   "contando": false,
+   "r": [
+    610,
+    926,
+    849,
+    1045
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    1016,
+    183,
+    1135
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "menores",
+   "contando": false,
+   "r": [
+    202,
+    1016,
+    510,
+    1135
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    529,
+    1016,
+    617,
+    1135
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "60",
+   "contando": false,
+   "r": [
+    636,
+    1016,
+    729,
+    1135
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "años:",
+   "contando": false,
+   "r": [
+    748,
+    1016,
+    930,
+    1135
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    96,
+    1107,
+    317,
+    1226
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "pequeño",
+   "contando": false,
+   "r": [
+    337,
+    1107,
+    650,
+    1226
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    669,
+    1107,
+    712,
+    1226
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    731,
+    1107,
+    835,
+    1226
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "probar",
+   "contando": false,
+   "r": [
+    96,
+    1197,
+    346,
+    1316
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "causa.",
+   "contando": false,
+   "r": [
+    365,
+    1197,
+    585,
+    1316
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1339,
+    677,
+    1365
+   ]
+  },
+  {
+   "t": 21.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    890,
+    942
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "sacarina",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    379,
+    1030
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    398,
+    914,
+    475,
+    1030
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    494,
+    914,
+    551,
+    1030
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "bolso.",
+   "contando": false,
+   "r": [
+    569,
+    914,
+    748,
+    1030
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "Esta",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    167,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "tarde:",
+   "contando": false,
+   "r": [
+    178,
+    1205,
+    282,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    292,
+    1205,
+    331,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    342,
+    1205,
+    405,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    416,
+    1205,
+    453,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "nota",
+   "contando": false,
+   "r": [
+    464,
+    1205,
+    545,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    556,
+    1205,
+    611,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "Nutri-Score",
+   "contando": false,
+   "r": [
+    622,
+    1205,
+    819,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    830,
+    1205,
+    901,
+    1243
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    115,
+    1279
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    126,
+    1241,
+    165,
+    1279
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    175,
+    1241,
+    238,
+    1279
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "no.",
+   "contando": false,
+   "r": [
+    249,
+    1241,
+    307,
+    1279
+   ]
+  },
+  {
+   "t": 25.667,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  6.967,
+  10.067,
+  13.267,
+  16.167,
+  21.767,
+  25.667
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 6.0,
+  "tiempo_reduccion_mas_1db_pct": 0.08,
+  "efectos_por_tipo": {
+   "whoosh": 7,
+   "tic": 5,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.245,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 322,
+   "texto": "Edulcorantes y cerebro: un hallazgo, tres peros. Hallazgo: más edulcorante, deterioro cognitivo más rápido. Un pero: asocia, no prueba causa. Otro: efecto pequeño, solo bajo los sesenta. Y otro: dieta por cuestionario. ¿Qué queda en pie? Asociación pequeña, sin causa probada. Mándaselo a quien lleva sacarina en el bolso.",
+   "cortes": 17,
+   "silencios_s": 5.04,
+   "pausas_acortadas_s": 4.08,
+   "duracion_voz_s": 24.56
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.1
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.651,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.201,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.101,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.651,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 10.191,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.741,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 13.401,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.951,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 16.271,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 16.721,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.881,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 24.451,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 788,
+ "tiempo_render_s": 75.9,
+ "tiempos_s": {
+  "preparar": 0.88,
+  "dibujar_y_codificar": 68.46
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "c",
+ "linea_de_tiempo": {
+  "dur": 26.2667,
+  "loop": 25.7667,
+  "var": "c",
+  "n": 4,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.031,
+    0.033,
+    0.051,
+    0.056,
+    0.077,
+    0.087
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 3.651,
+    "t_out": 7.101,
+    "t_rom": 4.071,
+    "t_tit": 4.201,
+    "t_txt0": 4.701,
+    "t_ico": 4.451,
+    "voz": 4.071,
+    "pal_txt": [
+     4.371,
+     4.371,
+     4.371,
+     4.371,
+     4.071,
+     4.311,
+     5.151,
+     6.431,
+     6.671,
+     6.401,
+     6.401,
+     6.401
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 7.101,
+    "t_out": 10.191,
+    "t_rom": 7.521,
+    "t_tit": 7.651,
+    "t_txt0": 8.151,
+    "t_ico": 7.901,
+    "voz": 7.521,
+    "pal_txt": [
+     8.121,
+     8.276,
+     8.431,
+     8.586,
+     8.741,
+     8.896,
+     9.051,
+     9.206,
+     9.361
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 10.191,
+    "t_out": 13.401,
+    "t_rom": 10.611,
+    "t_tit": 10.741,
+    "t_txt0": 11.241,
+    "t_ico": 10.991,
+    "voz": 10.611,
+    "pal_txt": [
+     10.911,
+     10.611,
+     10.931,
+     11.211,
+     11.491,
+     11.771,
+     12.051,
+     12.331,
+     12.581,
+     12.701
+    ],
+    "bt": 560
+   },
+   {
+    "t_in": 13.401,
+    "t_out": 16.271,
+    "t_rom": 13.821,
+    "t_tit": 13.951,
+    "t_txt0": 14.451,
+    "t_ico": 14.201,
+    "voz": 13.821,
+    "pal_txt": [
+     14.121,
+     14.121,
+     14.301,
+     14.551,
+     14.801,
+     15.051,
+     15.301,
+     15.551,
+     15.571,
+     15.571
+    ],
+    "bt": 652
+   }
+  ],
+  "conc": {
+   "t_in": 16.271,
+   "t_g": 16.871,
+   "voz": 16.821,
+   "decl": 16.821,
+   "pal_g": [
+    16.871,
+    16.9,
+    16.985,
+    17.128,
+    17.185
+   ],
+   "pal_f": [
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.821,
+    16.861,
+    17.111,
+    17.361,
+    17.611,
+    17.861,
+    18.111,
+    18.361,
+    18.611,
+    18.861,
+    18.941,
+    19.021
+   ],
+   "t_f0": 17.371,
+   "bt": 744
+  },
+  "fin": {
+   "t_in": 21.881,
+   "voz": 22.301,
+   "t_c0": 22.631,
+   "t_fil": 22.981,
+   "t_an": 24.451,
+   "pal_c": [
+    22.301,
+    22.641,
+    22.981,
+    23.194,
+    23.381,
+    23.621,
+    23.861,
+    24.101
+   ],
+   "B0": 24.181
+  },
+  "trans": [
+   3.651,
+   7.101,
+   10.191,
+   13.401,
+   16.271,
+   21.881
+  ],
+  "extra": [
+   24.481,
+   24.731,
+   25.9667,
+   26.1667
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 3.651,
+    "off": 640
+   },
+   {
+    "t_in": 7.101,
+    "off": 1260
+   },
+   {
+    "t_in": 10.191,
+    "off": 1880
+   },
+   {
+    "t_in": 13.401,
+    "off": 2500
+   },
+   {
+    "t_in": 16.271,
+    "off": 3120
+   }
+  ],
+  "fin_voz": 24.561,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  4.0,
+  6.9667,
+  7.4667,
+  10.0667,
+  10.5333,
+  13.2667,
+  13.7667,
+  16.1667,
+  16.7667,
+  21.7667,
+  22.4667,
+  25.6667,
+  26.2333
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Edulcorantes y cerebro: un hallazgo, tres peros.",
+   "t": 0.021,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Hallazgo: más edulcorante, deterioro cognitivo más rápido.",
+   "t": 4.071,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Un pero: asocia, no prueba causa.",
+   "t": 7.521,
+   "puntos": 2.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Otro: efecto pequeño, solo bajo los sesenta.",
+   "t": 10.611,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso IV",
+   "voz": "Y otro: dieta por cuestionario.",
+   "t": 13.821,
+   "puntos": 2.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "¿Qué queda en pie? Asociación pequeña, sin causa probada.",
+   "t": 16.821,
+   "puntos": 5.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien lleva sacarina en el bolso.",
+   "t": 22.301,
+   "puntos": 12.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [cifras] NOV-008: riesgo de publicar ALTO; hace falta validarlo (/validar en el bot) antes de publicar",
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: NOV-008",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «  i.  ii.  iii.  iv.  La clave del día  El hallazgo  12»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #edulcorantes #nutricion #cienciadelanutricion #novedades»"
+ ]
+}
