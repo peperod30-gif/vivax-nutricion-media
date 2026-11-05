@@ -16,7 +16,7 @@
     {
       "plantilla": "f_frase",
       "kicker": "Mito o dato",
-      "titulo": "Huevo diario: Asia y Estados Unidos no coinciden.",
+      "titulo": "Huevo diario: Asia y Estados Unidos no {coinciden}.",
       "resalte": "Respuesta corta",
       "frase": "Depende.",
       "texto": "La respuesta larga, deslizando"
@@ -24,42 +24,38 @@
     {
       "plantilla": "f_ranking",
       "kicker": "Sin más riesgo",
-      "titulo": "Un huevo más al día, sin más riesgo",
-      "dato": "Un huevo más al día no se asoció a más cardiopatía coronaria (RR 0,99) ni a más ictus (RR 0,91).",
-      "cifra": "0,99",
-      "unidad": "RR",
-      "fuente": "Metaanálisis de cohortes (BMJ, 2013)",
+      "titulo": "Un huevo más, mismo {riesgo}",
+      "dato": "Con un huevo más al día, el riesgo de problemas de corazón y de ictus quedó igual.",
+      "cifra": "igual",
+      "fuente": "British Medical Journal, 2013",
       "resalte": "Letra pequeña",
-      "texto": "RR por encima de uno: más riesgo. Por debajo: menos."
+      "texto": "Solo se vio quién comía qué. Y los que más huevo comían, un 25 % menos ictus hemorrágico; falta confirmarlo."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "Algo más de riesgo",
-      "titulo": "Algo más de riesgo en algunas cohortes",
-      "dato": "Por cada 50 g de huevo más al día: RR 1,04 (de 1,00 a 1,08), muy dispar entre cohortes.",
-      "cifra": "1,04",
-      "unidad": "RR",
-      "fuente": "Metaanálisis de cohortes (Circulation, 2022)",
+      "titulo": "Un poco más de {riesgo}",
+      "dato": "Cada 50 g de huevo más al día, una subida leve del riesgo de corazón, muy distinta de un grupo a otro.",
+      "cifra": "leve",
+      "fuente": "Revista Circulation, 2022",
       "resalte": "Letra pequeña",
-      "texto": "El efecto es pequeño y el límite inferior del intervalo es 1,00."
+      "texto": "Tan pequeña que está al borde de no ser nada. Solo se vio quién comía qué."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "Frente a frente",
-      "titulo": "¿Comer más huevo cada día se asocia a más enfermedad cardiovascular?",
+      "titulo": "¿Un huevo más al día es más riesgo para el corazón?",
       "texto": "¿Cuál te habían contado?",
       "items": [
         {
           "nombre": "Sin más riesgo",
-          "texto": "Un huevo más al día, sin más riesgo",
-          "valor": "0,99",
-          "unidad": "RR"
+          "texto": "Un huevo más, mismo {riesgo}",
+          "valor": "igual"
         },
         {
           "nombre": "Algo más de riesgo",
-          "texto": "Algo más de riesgo en algunas cohortes",
-          "valor": "1,04",
-          "unidad": "RR"
+          "texto": "Un poco más de {riesgo}",
+          "valor": "leve"
         }
       ]
     },
@@ -70,25 +66,25 @@
       "titulo": "de dónde y en quién se mire.",
       "items": [
         {
-          "nombre": "Cohortes de EE. UU.",
-          "texto": "RR 1,08 por cada 50 g de huevo más al día."
+          "nombre": "En Estados Unidos",
+          "texto": "Algo más de riesgo con cada 50 g de huevo al día."
         },
         {
-          "nombre": "Cohortes asiáticas",
-          "texto": "Sin asociación."
+          "nombre": "En Asia",
+          "texto": "Ninguna relación con el riesgo."
         },
         {
-          "nombre": "Personas con diabetes",
-          "texto": "RR 1,54 comparando mayor y menor consumo. Es un subgrupo."
+          "nombre": "Con diabetes",
+          "texto": "Más riesgo en los que más huevo comían: dato aparte, falta confirmarlo."
         }
       ],
-      "dato": "Según los metaanálisis de Circulation y del BMJ."
+      "dato": "Según las dos revisiones."
     },
     {
       "plantilla": "f_frase",
       "titulo": "¿Y lo que estos números no dicen?",
       "resalte": "El matiz final",
-      "frase": "Son cohortes: no prueban causa.",
+      "frase": "Solo se vio quién comía qué: no prueban que el huevo sea la causa.",
       "fuente": "Resumen de dos posturas con sus datos, no un veredicto ni una recomendación personal."
     },
     {
@@ -97,18 +93,18 @@
       "titulo": "{Depende} de dónde y en quién se mire.",
       "texto": "Mándaselo a quien compra huevos por docenas.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "fuente": "Según los metaanálisis de Circulation y del BMJ.",
+      "fuente": "Según las dos revisiones.",
       "dato": "Mañana, una para nutricionistas. El martes, la sal a debate."
     }
   ],
-  "pie_instagram": "Huevo diario: Asia y Estados Unidos no coinciden.\n\nSin más riesgo: Un huevo más al día no se asoció a más cardiopatía coronaria (RR 0,99) ni a más ictus (RR 0,91). Letra pequeña: RR por encima de uno: más riesgo. Por debajo: menos.\nAlgo más de riesgo: Por cada 50 g de huevo más al día: RR 1,04 (de 1,00 a 1,08), muy dispar entre cohortes. Letra pequeña: el efecto es pequeño y el límite inferior del intervalo es 1,00.\nEl matiz: Depende de dónde y en quién se mire. Cohortes de EE. UU.: RR 1,08 por cada 50 g de huevo más al día. Cohortes asiáticas: sin asociación. Personas con diabetes: RR 1,54 comparando mayor y menor consumo. Es un subgrupo. Según los metaanálisis de Circulation y del BMJ.\nY el dato final: Son cohortes: no prueban causa.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Cuál te habían contado?\nMándaselo a quien compra huevos por docenas.\nMañana, una para nutricionistas. El martes, la sal a debate.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#huevo #colesterol #mitoodato #nutricion",
+  "pie_instagram": "Huevo diario: Asia y Estados Unidos no coinciden.\n\nSin más riesgo: Con un huevo más al día, el riesgo de problemas de corazón y de ictus quedó igual. Letra pequeña: solo se vio quién comía qué. Y los que más huevo comían, un 25 % menos ictus hemorrágico; falta confirmarlo.\nAlgo más de riesgo: Cada 50 g de huevo más al día, una subida leve del riesgo de corazón, muy distinta de un grupo a otro. Letra pequeña: tan pequeña que está al borde de no ser nada. Solo se vio quién comía qué.\nEl matiz: Depende de dónde y en quién se mire. En Estados Unidos: algo más de riesgo con cada 50 g de huevo al día. En Asia: ninguna relación con el riesgo. Con diabetes: más riesgo en los que más huevo comían: dato aparte, falta confirmarlo. Según las dos revisiones.\nY el dato final: Solo se vio quién comía qué: no prueban que el huevo sea la causa.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Cuál te habían contado?\nMándaselo a quien compra huevos por docenas.\nMañana, una para nutricionistas. El martes, la sal a debate.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#huevo #colesterol #mitoodato #nutricion",
   "alt": [
     "Portada en blanco y oliva con huevo dibujado en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. Huevo diario: Asia y Estados Unidos no coinciden. La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Sin más riesgo. Un huevo más al día, sin más riesgo. 0,99 RR. RR por encima de uno: más riesgo. Por debajo: menos. Un huevo más al día no se asoció a más cardiopatía coronaria (RR 0,99) ni a más ictus (RR 0,91). Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Algo más de riesgo. Algo más de riesgo en algunas cohortes. 1,04 RR. El efecto es pequeño y el límite inferior del intervalo es 1,00. Por cada 50 g de huevo más al día: RR 1,04 (de 1,00 a 1,08), muy dispar entre cohortes. Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Comer más huevo cada día se asocia a más enfermedad cardiovascular? ¿Cuál te habían contado? Sin más riesgo 0,99 RR Un huevo más al día, sin más riesgo. Algo más de riesgo 1,04 RR Algo más de riesgo en algunas cohortes.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de dónde y en quién se mire. Según los metaanálisis de Circulation y del BMJ. Cohortes de EE. UU. RR 1,08 por cada 50 g de huevo más al día. Cohortes asiáticas Sin asociación. Personas con diabetes RR 1,54 comparando mayor y menor consumo. Es un subgrupo. Depende.",
-    "Hoja en blanco y oliva profundo con huevo dibujado en línea blanca. ¿Y lo que estos números no dicen? El matiz final. Son cohortes: no prueban causa.",
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Sin más riesgo. Un huevo más, mismo riesgo. igual. Solo se vio quién comía qué. Y los que más huevo comían, un 25 % menos ictus hemorrágico; falta confirmarlo. Con un huevo más al día, el riesgo de problemas de corazón y de ictus quedó igual. Letra pequeña.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Algo más de riesgo. Un poco más de riesgo. leve. Tan pequeña que está al borde de no ser nada. Solo se vio quién comía qué. Cada 50 g de huevo más al día, una subida leve del riesgo de corazón, muy distinta de un grupo a otro. Letra pequeña.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Un huevo más al día es más riesgo para el corazón? ¿Cuál te habían contado? Sin más riesgo igual Un huevo más, mismo riesgo. Algo más de riesgo leve Un poco más de riesgo.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de dónde y en quién se mire. Según las dos revisiones. En Estados Unidos Algo más de riesgo con cada 50 g de huevo al día. En Asia Ninguna relación con el riesgo. Con diabetes Más riesgo en los que más huevo comían: dato aparte, falta confirmarlo. Depende.",
+    "Hoja en blanco y oliva profundo con huevo dibujado en línea blanca. ¿Y lo que estos números no dicen? El matiz final. Solo se vio quién comía qué: no prueban que el huevo sea la causa.",
     "Cierre en oliva con la firma de Vivax. En una frase. Depende de dónde y en quién se mire. Mándaselo a quien compra huevos por docenas. Mañana, una para nutricionistas. El martes, la sal a debate."
   ],
   "produccion": {
@@ -129,7 +125,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Postura A: Rong Y et al. BMJ 2013;346:e8539 (DEB-002), metaanálisis dosis-respuesta de cohortes prospectivas: por cada huevo más al día, cardiopatía coronaria RR 0,99 (IC 95 % 0,85 a 1,15) e ictus RR 0,91 (0,81 a 1,02); en el subgrupo con diabetes, mayor frente a menor consumo, RR 1,54 (1,14 a 2,09), un subgrupo y no el objetivo principal. Postura B: Zhao B et al. Circulation 2022;145(20):1506-1520 (DEB-004), metaanálisis de cohortes: cada 50 g de huevo más al día, RR 1,04 (1,00 a 1,08) con heterogeneidad muy alta (I2 = 80,1 %); en las cohortes de EE. UU., RR 1,08 (1,02 a 1,14); en las asiáticas, sin asociación. Los dos son observacionales: no prueban causa. Un debate no tiene declaración de salud autorizada (guía 20): la conclusión es el matiz del banco.",
+  "comentario": "Postura A: Rong Y et al. BMJ 2013;346:e8539 (DEB-002), metaanálisis dosis-respuesta de cohortes prospectivas: por cada huevo más al día, cardiopatía coronaria RR 0,99 (IC 95 % 0,85 a 1,15) e ictus RR 0,91 (0,81 a 1,02), «quedó igual» en pantalla; con mayor consumo, un 25 % menos de ictus hemorrágico (0,57 a 0,99), un subgrupo que los autores piden estudiar más; en el subgrupo con diabetes, mayor frente a menor consumo, RR 1,54 (1,14 a 2,09), un subgrupo y no el objetivo principal. Postura B: Zhao B et al. Circulation 2022;145(20):1506-1520 (DEB-004), metaanálisis de cohortes: cada 50 g de huevo más al día, RR 1,04 (1,00 a 1,08), con el límite inferior en 1,00 («al borde de no ser nada») y heterogeneidad muy alta (I2 = 80,1 %); en las cohortes de EE. UU., RR 1,08 (1,02 a 1,14); en las asiáticas, sin asociación. Los dos son observacionales: no prueban causa. Un debate no tiene declaración de salud autorizada (guía 20): la conclusión es el matiz del banco.",
   "serie": "Mito o dato",
   "pilar_plan": "Despensa: grasas y colesterol"
 }

@@ -1,0 +1,125 @@
+{
+  "id": "n1-lx-20261116-reel-vf-2100-niacina-a-examen",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-031",
+    "VIT-029",
+    "VIT-032"
+  ],
+  "titulo": "[REEL-VF] Niacina (B3): ¿cosa de carne? ¿Quita el cansancio?",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "{Niacina (B3)}: ¿cosa de carne? ¿Quita el cansancio?"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "Solo la carne y el pescado llevan niacina.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "12,1",
+      "unidad": "mg",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Cacahuetes crudos",
+          "valor": "12,1 mg"
+        },
+        {
+          "nombre": "Pechuga de pollo asada",
+          "valor": "13,7 mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "Según la UE, la niacina quita el cansancio.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "ayuda a disminuir el cansancio",
+      "unidad": "",
+      "dato": "según la UE",
+      "items": [
+        {
+          "nombre": "La frase autorizada"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "Niacina en pastilla, a dosis altas: puede dar rubor.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "rubor en la piel",
+      "unidad": "",
+      "dato": "según el NHS",
+      "items": [
+        {
+          "nombre": "Ácido nicotínico"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "La niacina contribuye al funcionamiento normal del sistema nervioso.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de niacina. No es una recomendación personal.",
+      "titulo": "¿Y qué dice la UE, tal cual?",
+      "vit": "VIT-029"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien ve el fútbol con cacahuetes.",
+      "texto": "Mañana temprano: la vitamina A, más allá de la vista."
+    }
+  ],
+  "pie_instagram": "Niacina (B3): ¿cosa de carne? ¿Quita el cansancio?\n\nSolo la carne y el pescado llevan niacina. Falso: cacahuetes crudos 12,1 mg, pechuga de pollo asada 13,7 mg (por 100 g).\nSegún la UE, la niacina quita el cansancio. Falso: ayuda a disminuir el cansancio (según la UE).\nNiacina en pastilla, a dosis altas: puede dar rubor. Verdadero: rubor en la piel (según el NHS).\n\nLas cifras por 100 g son lo que lleva el alimento, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La niacina contribuye al funcionamiento normal del sistema nervioso. Es una declaración autorizada en la UE para alimentos que son fuente de niacina; no es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien ve el fútbol con cacahuetes.\nMañana temprano: la vitamina A, más allá de la vista.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#niacina #vitaminas #verdaderoofalso #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. Niacina (B3): ¿cosa de carne? ¿Quita el cansancio? I. Solo la carne y el pescado llevan niacina. Falso: Cacahuetes crudos 12,1 mg, Pechuga de pollo asada 13,7 mg, por 100 g. II. Según la UE, la niacina quita el cansancio. Falso: ayuda a disminuir el cansancio, La frase autorizada, según la UE. III. Niacina en pastilla, a dosis altas: puede dar rubor. Verdadero: rubor en la piel, Ácido nicotínico, según el NHS. ¿Y qué dice la UE, tal cual? Para qué sirve: La niacina contribuye al funcionamiento normal del sistema nervioso. Mándaselo a quien ve el fútbol con cacahuetes. Mañana temprano: la vitamina A, más allá de la vista."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-16",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury, quiz de ideas) · spec n1-lux-20261116-2100-niacina-a-examen",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261116-2100-niacina-a-examen",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261116-2100-niacina-a-examen",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Composición por 100 g: USDA FoodData Central, SR Legacy (VIT-031: pechuga de pollo asada 13,7 mg; cacahuetes crudos 12,1 mg de niacina). Declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012 (VIT-029): la afirmación II es falsa porque la frase autorizada dice «ayuda a disminuir el cansancio y la fatiga», no que lo quite; la de la conclusión (sistema nervioso) va literal y solo vale para alimentos que son, como mínimo, fuente de niacina; no son una recomendación personal. Aviso del NHS del Reino Unido, página revisada en agosto de 2020 (VIT-032): habla del ácido nicotínico, una forma de niacina, en suplementos a dosis altas; no es una pauta personal. Banco consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}
