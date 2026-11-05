@@ -1,0 +1,82 @@
+{
+  "id": "n1-lx-20261128-ticket-1630-fruta-energia-ticket",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-ticket",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-079"
+  ],
+  "titulo": "[TICKET] ¿Qué fruta suma más energía? Pista: no es tropical.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Qué fruta suma más energía? Pista: no es tropical.",
+      "kicker": "Energía por 100 g",
+      "unidad": "kcal",
+      "filas": [
+        {
+          "nombre": "Melón",
+          "valor": "34"
+        },
+        {
+          "nombre": "Pera",
+          "valor": "57"
+        },
+        {
+          "nombre": "Piña",
+          "valor": "50"
+        },
+        {
+          "nombre": "Cerezas",
+          "valor": "63"
+        },
+        {
+          "nombre": "Sandía",
+          "valor": "30"
+        },
+        {
+          "nombre": "Mango",
+          "valor": "60"
+        }
+      ],
+      "respuesta": "Total*",
+      "etiqueta_si": "Pagado",
+      "fuentes": [
+        "*Aquí no se suma: se cobra la línea más alta."
+      ],
+      "resalte": "Lo que dice el dato",
+      "frase": "Por cada 100 g de fruta cruda: cerezas 63 kcal y sandía 30 kcal, algo más del doble. Son kilocalorías por 100 g del alimento, no por ración.",
+      "fuente": "Fuente: USDA FoodData Central. No es una recomendación personal.",
+      "sigue": "Mándaselo a quien se come las cerezas de dos en dos.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "¿Qué fruta suma más energía? Pista: no es tropical. 🧾\n\nPor cada 100 g, energía: melón 34 kcal, pera 57 kcal, piña 50 kcal, cerezas 63 kcal, sandía 30 kcal y mango 60 kcal.\nEn el ticket no se suma nada: cada línea es de 100 g de un alimento distinto, así que el total es la línea más alta.\nFruta cruda, en kilocalorías por cada 100 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g de fruta cruda: cerezas 63 kcal y sandía 30 kcal, algo más del doble. Son kilocalorías por 100 g del alimento, no por ración.\n\n¿Cuál habías puesto arriba del ticket?\nMándaselo a quien se come las cerezas de dos en dos. Mañana por la tarde, otra cifra: la grasa del salami.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fruta #cerezas #energia #nutricion",
+  "alt": [
+    "Imagen en verde oliva con un ticket de caja de papel blanco, de bordes dentados, dibujado en línea fina negra. Debajo, un bloque en oliva oscuro. En lo alto del ticket, la firma Vivax Nutrición. ¿Qué fruta suma más energía? Pista: no es tropical. Energía por 100 g; cifras en kcal. Líneas en orden de caja, cada una con una barra proporcional: Melón 34 kcal; Pera 57 kcal; Piña 50 kcal; Cerezas 63 kcal; Sandía 30 kcal; Mango 60 kcal. Total*: Cerezas, 63 kcal, junto a una bolsa de papel de la compra dibujada en línea y un sello que dice Pagado. *Aquí no se suma: se cobra la línea más alta. Lo que dice el dato. Por cada 100 g de fruta cruda: cerezas 63 kcal y sandía 30 kcal, algo más del doble. Son kilocalorías por 100 g del alimento, no por ración. Fuente: USDA FoodData Central. No es una recomendación personal. Mándaselo a quien se come las cerezas de dos en dos. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-28",
+    "serie": "La cifra de la tarde",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "img_ticket",
+    "formato": "TICKET",
+    "lote": "lux-2026-11",
+    "hora": "16:30",
+    "nota": "plantilla img_ticket (tpl_img_ticket_lux.py)",
+    "pilar_plan": "Debates con datos",
+    "mecanica": "img_ranking",
+    "familia": "img_ranking",
+    "spec_id": "n1-lux-20261128-1630-fruta-energia-ticket",
+    "frente": "publico",
+    "spec": "n1-lux-20261128-1630-fruta-energia-ticket",
+    "plantilla_visual": "img_ticket",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-079, banco de composición de octubre de 2026), kilocalorías por 100 g de fruta cruda, no por ración. Cálculo: 63 / 30 = 2,1 (algo más del doble). La energía no tiene declaración autorizada en el banco: la conclusión es la lectura del dato con el matiz literal de ALI-079."
+}

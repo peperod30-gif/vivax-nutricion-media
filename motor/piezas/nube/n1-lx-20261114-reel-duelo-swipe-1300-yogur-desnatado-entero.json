@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261114-reel-duelo-swipe-1300-yogur-desnatado-entero",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-123"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Más azúcares: el desnatado de frutas o el entero?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Más azúcares: el desnatado de frutas o el entero?",
+      "voz": "¿Más azúcares: el desnatado de frutas o el entero? Mira cómo vuelve el desnatado: diecinueve gramos de azúcares. El entero, cuatro coma siete. Cuatro veces más. ¿Y en energía, el desnatado lleva menos? Tampoco: noventa y cinco kilocalorías contra sesenta y una. Mándaselo a quien compra el desnatado de frutas."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "yogur de frutas desnatado",
+      "texto": "Por 100 g",
+      "dato": "Azúcares",
+      "etiqueta_no": "De frutas",
+      "cifra": "19,0",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "yogur natural entero",
+      "texto": "Por 100 g",
+      "dato": "Azúcares",
+      "etiqueta_si": "Natural",
+      "cifra": "4,7",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Cuatro veces más azúcares en el yogur de frutas desnatado."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y en energía, el desnatado lleva menos?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g: yogur de frutas desnatado, 95 kcal de energía; yogur natural entero, 61 kcal de energía.",
+      "fuente": "Los azúcares no tienen declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien compra el desnatado de frutas.",
+      "texto": "Mañana a la una: otro duelo, ahora de grasa."
+    }
+  ],
+  "pie_instagram": "¿Más azúcares: el desnatado de frutas o el entero?\n\nPor 100 g: yogur de frutas desnatado, 19,0 g de azúcares; yogur natural entero, 4,7 g.\nCuatro veces más azúcares en el yogur de frutas desnatado.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: yogur de frutas desnatado, 95 kcal de energía; yogur natural entero, 61 kcal de energía.\n\nMándaselo a quien compra el desnatado de frutas. Mañana a la una: otro duelo, ahora de grasa.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #yogur #nutricion #duelo",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Más azúcares: el desnatado de frutas o el entero? La tarjeta de yogur de frutas desnatado (por 100 g, azúcares: ?) recibe el sello «De frutas» y sale por la izquierda. Llega la de yogur natural entero: 4,7 g de azúcares, con el sello «Natural». Vuelve yogur de frutas desnatado y su cifra cuenta hasta 19,0 g. Las dos tarjetas, una junto a otra: yogur de frutas desnatado, 19,0 g; yogur natural entero, 4,7 g. Cuatro veces más azúcares en el yogur de frutas desnatado. Bloque verde oliva oscuro: ¿Y en energía, el desnatado lleva menos? El dato final: Por cada 100 g: yogur de frutas desnatado, 95 kcal de energía; yogur natural entero, 61 kcal de energía. Cierre con la firma Vivax Nutrición: Mándaselo a quien compra el desnatado de frutas. Mañana a la una: otro duelo, ahora de grasa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261114-1300-yogur-desnatado-entero",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Debates con datos",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261114-1300-yogur-desnatado-entero",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261114-1300-yogur-desnatado-entero",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-123), por 100 g: yogur de frutas desnatado, 19,0 g de azúcares y 95 kcal; yogur natural entero, 4,7 g de azúcares y 61 kcal. «Cuatro veces» = 19,0 entre 4,7 (4,04). Son azúcares totales: en el natural son los de la propia leche; la tabla no separa los añadidos. La comparación es de un yogur de frutas desnatado con uno natural entero: no separa el efecto de la fruta del del desnatado. Los azúcares no tienen declaración de salud autorizada en el Reglamento (UE) nº 432/2012. Voz sintética (IA).",
+  "ia": true
+}

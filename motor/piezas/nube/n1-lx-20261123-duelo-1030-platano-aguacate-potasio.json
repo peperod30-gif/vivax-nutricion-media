@@ -1,0 +1,131 @@
+{
+  "id": "n1-lx-20261123-duelo-1030-platano-aguacate-potasio",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-duelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-031",
+    "VIT-057"
+  ],
+  "titulo": "[DUELO] ¿Más potasio: el plátano o el aguacate?",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Potasio por cada 100 g",
+      "titulo": "¿Más potasio: el plátano o el {aguacate}?",
+      "texto": "Por 100 g de alimento",
+      "items": [
+        "Plátano",
+        "Aguacate"
+      ]
+    },
+    {
+      "plantilla": "f_dato",
+      "kicker": "Contendiente I",
+      "titulo": "Plátano",
+      "dato": "Potasio por cada 100 g",
+      "cifra": "?",
+      "texto": "El que todos nombran."
+    },
+    {
+      "plantilla": "f_dato",
+      "kicker": "Contendiente II",
+      "titulo": "Aguacate",
+      "dato": "Potasio por cada 100 g",
+      "cifra": "?",
+      "texto": "Y la cifra más alta."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "Potasio por cada 100 g",
+      "titulo": "Aguacate",
+      "items": [
+        {
+          "nombre": "Plátano",
+          "valor": 358,
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": 485,
+          "unidad": "mg"
+        }
+      ],
+      "resalte": "Diferencia"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Qué significa",
+      "titulo": "Potasio por 100 g: el aguacate supera al plátano por más de cien miligramos.",
+      "dato": "Potasio por cada 100 g",
+      "items": [
+        {
+          "nombre": "Aguacate",
+          "valor": 485,
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Plátano",
+          "valor": 358,
+          "unidad": "mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y para qué sirve el {potasio}?",
+      "resalte": "Para qué sirve",
+      "frase": "El potasio contribuye al funcionamiento normal de los músculos.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de potasio. No es una recomendación personal.",
+      "vit": "VIT-057"
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "Marcador final",
+      "dato": "Potasio por cada 100 g",
+      "texto": "Mándaselo a quien hace guacamole para toda la cuadrilla.",
+      "items": [
+        {
+          "nombre": "Plátano",
+          "valor": 358,
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": 485,
+          "unidad": "mg"
+        }
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "¿Más potasio: el plátano o el aguacate?\n\nPor cada 100 g: plátano, 358 mg de potasio; aguacate, 485 mg de potasio.\nPotasio por 100 g: el aguacate supera al plátano por más de cien miligramos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El potasio contribuye al funcionamiento normal de los músculos. Es una declaración autorizada en la UE para alimentos que son fuente de potasio; no es una recomendación personal.\n\n¿Lo habrías dicho?\nMándaselo a quien hace guacamole para toda la cuadrilla.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#potasio #curiosidades #aguacate #nutricion",
+  "alt": [
+    "Portada en blanco y oliva con plátano y aguacate dibujados en línea fina, frente a frente. Potasio por cada 100 g. ¿Más potasio: el plátano o el aguacate? Por 100 g de alimento. Plátano. Aguacate.",
+    "Hoja partida en oliva y blanco con el dibujo de plátano en línea fina. La cifra queda escondida. Contendiente I. Plátano. El que todos nombran. Potasio por cada 100 g.",
+    "La misma hoja en espejo con el dibujo de aguacate en línea fina. La cifra queda escondida. Contendiente II. Aguacate. Y la cifra más alta. Potasio por cada 100 g.",
+    "Hoja oliva con dos piruletas en la misma escala: la altura de cada una es su cantidad. Potasio por cada 100 g. Aguacate. Plátano 358 mg. Aguacate 485 mg. Diferencia.",
+    "Hoja en blanco y oliva con una escala de barras finas, de más a menos. Qué significa. Potasio por 100 g: el aguacate supera al plátano por más de cien miligramos. Potasio por cada 100 g. Aguacate 485 mg. Plátano 358 mg.",
+    "Hoja en blanco y oliva profundo con el alimento dibujado en línea blanca. ¿Y para qué sirve el potasio? Para qué sirve. El potasio contribuye al funcionamiento normal de los músculos.",
+    "Cierre en oliva con la firma de Vivax. Marcador final. Mándaselo a quien hace guacamole para toda la cuadrilla. Potasio por cada 100 g. Plátano 358 mg. Aguacate 485 mg."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-23",
+    "serie": "luxury",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "duelo",
+    "formato": "DUELO",
+    "lote": "lux-2026-11",
+    "hora": "10:30",
+    "nota": "Plantilla tpl_car_duelo_lux (PB). Condición de uso de VIT-057: Plátano: 18 % del VRN por 100 g; fuente; Aguacate: 24 % del VRN por 100 g; fuente.",
+    "spec": "n1-lx-20261123-duelo-1030-platano-aguacate-potasio",
+    "plantilla_visual": "car_duelo",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}

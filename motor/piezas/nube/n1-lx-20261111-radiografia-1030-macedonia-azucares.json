@@ -1,0 +1,140 @@
+{
+  "id": "n1-lx-20261111-radiografia-1030-macedonia-azucares",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-radiografia",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-142",
+    "ALI-143",
+    "AZU-003"
+  ],
+  "titulo": "[RADIOGRAFIA] Reto: ordena esta macedonia por azúcares.",
+  "hojas": [
+    {
+      "plantilla": "f_dato",
+      "kicker": "Radiografía del plato",
+      "titulo": "Reto: ordena esta macedonia por {azúcares}.",
+      "texto": "Macedonia de melón, sandía y pera, a la lupa.",
+      "dato": "Por 100 g de cada uno"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina I",
+      "titulo": "Sandía",
+      "dato": "azúcares",
+      "cifra": "6,2",
+      "unidad": "g",
+      "frase": "Por 100 g de sandía, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina II",
+      "titulo": "Melón",
+      "dato": "azúcares",
+      "cifra": "7,9",
+      "unidad": "g",
+      "resalte": "Láminas anteriores",
+      "items": [
+        {
+          "nombre": "Sandía",
+          "valor": "6,2",
+          "unidad": "g"
+        }
+      ],
+      "frase": "Por 100 g de melón, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina III",
+      "titulo": "Pera",
+      "dato": "azúcares",
+      "cifra": "9,8",
+      "unidad": "g",
+      "resalte": "Láminas anteriores",
+      "items": [
+        {
+          "nombre": "Sandía",
+          "valor": "6,2",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Melón",
+          "valor": "7,9",
+          "unidad": "g"
+        }
+      ],
+      "frase": "Por 100 g de pera, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "La lámina completa",
+      "titulo": "Por cada 100 g, la pera lleva más azúcares que el melón y que la sandía.",
+      "texto": "Por 100 g de cada ingrediente. Sin sumar.",
+      "items": [
+        {
+          "nombre": "Sandía",
+          "valor": "6,2",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Melón",
+          "valor": "7,9",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Pera",
+          "valor": "9,8",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y cuentan como azúcares libres?",
+      "resalte": "El dato",
+      "fuente": "Los azúcares no tienen declaración de salud autorizada. Composición por 100 g de cada fruta y definición de la OMS; no es una recomendación personal.",
+      "texto": "Para la OMS, los azúcares libres son los añadidos y los de la miel, los jarabes y los zumos de fruta."
+    },
+    {
+      "plantilla": "f_frase",
+      "texto": "Mándaselo a quien siempre se queda con la pera.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "dato": "El viernes: brócoli contra pipas, en folato."
+    }
+  ],
+  "pie_instagram": "Reto: ordena esta macedonia por azúcares.\n\nAzúcares por cada 100 g de cada ingrediente: pera, 9,8 g; melón, 7,9 g; sandía, 6,2 g.\nSon cifras por 100 g de cada ingrediente, no del plato entero: no se suman.\nPor cada 100 g, la pera lleva más azúcares que el melón y que la sandía.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato: Para la OMS, los azúcares libres son los añadidos y los de la miel, los jarabes y los zumos de fruta.\n\n¿En qué orden las habías puesto?\nMándaselo a quien siempre se queda con la pera. El viernes: brócoli contra pipas, en folato.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #azucares #fruta #nutricion",
+  "alt": [
+    "Portada en blanco y oliva: macedonia de melón, sandía y pera visto desde arriba, dibujado en línea fina con sus ingredientes, y una lupa sobre uno de ellos. Radiografía del plato. Reto: ordena esta macedonia por azúcares. Macedonia de melón, sandía y pera, a la lupa. Por 100 g de cada uno.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre sandía dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina I. Sandía. 6,2 g. azúcares. Por 100 g de sandía, no del plato.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre melón dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina II. Melón. 7,9 g. azúcares. Sandía 6,2 g. Láminas anteriores. Por 100 g de melón, no del plato.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre pera dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina III. Pera. 9,8 g. azúcares. Sandía 6,2 g. Melón 7,9 g. Láminas anteriores. Por 100 g de pera, no del plato.",
+    "Lámina completa en oliva: el plato con una flecha a cada ingrediente, su nombre y su cifra. La lámina completa. Por cada 100 g, la pera lleva más azúcares que el melón y que la sandía. Por 100 g de cada ingrediente. Sin sumar. Sandía 6,2 g. Melón 7,9 g. Pera 9,8 g.",
+    "Hoja en blanco y oliva profundo con el ingrediente dentro de una lupa en línea blanca. ¿Y cuentan como azúcares libres? Para la OMS, los azúcares libres son los añadidos y los de la miel, los jarabes y los zumos de fruta. El dato.",
+    "Cierre en oliva con la firma de Vivax y el plato pequeño. Mándaselo a quien siempre se queda con la pera. El viernes: brócoli contra pipas, en folato."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-11",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "car_radiografia",
+    "formato": "RADIOGRAFIA",
+    "lote": "lux-2026-11",
+    "hora": "10:30",
+    "nota": "Plantilla car_radiografia (tpl_car_radiografia_lux).",
+    "pilar_plan": "curiosidad",
+    "familia": "car_plato",
+    "mecanica": "car_plato",
+    "spec_id": "n1-lux-20261111-1030-macedonia-azucares",
+    "frente": "publico",
+    "orden": "ascendente",
+    "spec": "n1-lux-20261111-1030-macedonia-azucares",
+    "plantilla_visual": "car_radiografia",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026): azúcares por 100 g de fruta: pera 9,8 g (ALI-143); melón 7,9 g y sandía 6,2 g (ALI-142). Son cifras por 100 g de cada fruta, no de la macedonia: no se suman. Definición de azúcares libres de la OMS (AZU-003): los añadidos por el fabricante, el cocinero o quien los consume, más los de la miel, los jarabes, los zumos de fruta y los concentrados de zumo. Los azúcares no tienen declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada."
+}

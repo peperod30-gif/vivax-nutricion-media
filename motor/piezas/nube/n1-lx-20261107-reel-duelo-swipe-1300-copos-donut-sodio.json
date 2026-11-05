@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261107-reel-duelo-swipe-1300-copos-donut-sodio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-096"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Casi el doble de sodio que un donut.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Curiosidades Vivax",
+      "titulo": "Casi el doble de {sodio} que un donut.",
+      "voz": "Casi el doble de sodio que un donut. Todos le dan paso a los copos de maíz. Al donut, me gusta. Pero los copos vuelven: quinientos setenta y un miligramos. El donut, trescientos dieciséis. ¿Y eso cuánto es? Por cada cien gramos, casi el doble de sodio. Mándaselo a quien cena copos a medianoche."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "copos de maíz",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_no": "Paso",
+      "cifra": "571",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "donut glaseado",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_si": "Me gusta",
+      "cifra": "316",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g, los copos de maíz llevan casi el doble de sodio que el donut glaseado."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y eso cuánto es?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, los copos de maíz llevan 571 mg de sodio y el donut glaseado, 316 mg.",
+      "fuente": "El sodio no es lo mismo que la sal y no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien cena copos a medianoche.",
+      "texto": "Esta noche, quiz: el atún y una carne casi empatados."
+    }
+  ],
+  "pie_instagram": "Casi el doble de sodio que un donut.\n\nPor 100 g: copos de maíz, 571 mg de sodio; donut glaseado, 316 mg.\nPor cada 100 g, los copos de maíz llevan casi el doble de sodio que el donut glaseado.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, los copos de maíz llevan 571 mg de sodio y el donut glaseado, 316 mg.\n\n¿A quién le habías dado el me gusta?\nMándaselo a quien cena copos a medianoche. Esta noche, quiz: el atún y una carne casi empatados.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #sodio #desayuno #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Curiosidades Vivax. Casi el doble de sodio que un donut. La tarjeta de copos de maíz (por 100 g, sodio: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de donut glaseado: 316 mg de sodio, con el sello «Me gusta». Vuelve copos de maíz y su cifra cuenta hasta 571 mg. Las dos tarjetas, una junto a otra: copos de maíz, 571 mg; donut glaseado, 316 mg. Por cada 100 g, los copos de maíz llevan casi el doble de sodio que el donut glaseado. Bloque verde oliva oscuro: ¿Y eso cuánto es? El dato final: Por cada 100 g, los copos de maíz llevan 571 mg de sodio y el donut glaseado, 316 mg. Cierre con la firma Vivax Nutrición: Mándaselo a quien cena copos a medianoche. Esta noche, quiz: el atún y una carne casi empatados."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-07",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261107-1300-copos-donut-sodio",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "curiosidad",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261107-1300-copos-donut-sodio",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261107-1300-copos-donut-sodio",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-096, verificado el 11-oct-2026): sodio por 100 g: copos de maíz 571 mg; donut glaseado 316 mg. Cálculo propio: 571 entre 316 da 1,81, «casi el doble». El sodio no es lo mismo que la sal. El sodio no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

@@ -1,0 +1,233 @@
+{
+  "id": "n1-lx-20261127-car-tabla-periodica-1030-vitamina-b12",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-car-tabla-periodica",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-013",
+    "ALI-051",
+    "VIT-045"
+  ],
+  "titulo": "[CAR-TABLA-PERIODICA] El salmón, tercero en B12. ¿Quién va primero?",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Curiosidades Vivax · Tabla periódica",
+      "titulo": "El salmón, tercero en B12. ¿Quién va {primero}?",
+      "dato": "Número: µg de vitamina B12 por cada 100 g",
+      "texto": "Apuesta antes de pasar la hoja.",
+      "filas": [
+        {
+          "cab": "Me",
+          "valor": "?",
+          "nombre": "mejillones cocidos"
+        },
+        {
+          "cab": "Yg",
+          "valor": "?",
+          "nombre": "yogur griego natural"
+        },
+        {
+          "cab": "Yo",
+          "valor": "?",
+          "nombre": "yogur natural entero"
+        },
+        {
+          "cab": "Sa",
+          "valor": "?",
+          "nombre": "salmón cocinado"
+        },
+        {
+          "cab": "An",
+          "valor": "?",
+          "nombre": "atún al natural"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Poquito, pero cuenta.",
+      "titulo": "Yogur natural entero",
+      "dato": "Número: µg de vitamina B12 por cada 100 g",
+      "filas": [
+        {
+          "cab": "Yo",
+          "valor": "0,4",
+          "nombre": "yogur natural entero",
+          "texto": "masa: 100 g"
+        },
+        {
+          "cab": "Sa",
+          "valor": "?"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Griego y por delante de su primo.",
+      "titulo": "Yogur griego natural",
+      "dato": "Número: µg de vitamina B12 por cada 100 g",
+      "filas": [
+        {
+          "cab": "Yg",
+          "valor": "0,8",
+          "nombre": "yogur griego natural",
+          "texto": "masa: 100 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Toda la fama, y tercero.",
+      "titulo": "Salmón cocinado",
+      "dato": "Número: µg de vitamina B12 por cada 100 g",
+      "filas": [
+        {
+          "cab": "Sa",
+          "valor": "2,8",
+          "nombre": "salmón cocinado",
+          "texto": "masa: 100 g"
+        },
+        {
+          "cab": "Yo",
+          "valor": "0,4"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "De lata, y por delante del salmón.",
+      "titulo": "Atún al natural",
+      "dato": "Número: µg de vitamina B12 por cada 100 g",
+      "filas": [
+        {
+          "cab": "An",
+          "valor": "3,0",
+          "nombre": "atún al natural",
+          "texto": "masa: 100 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Más de ocho veces el salmón.",
+      "titulo": "Mejillones cocidos",
+      "dato": "Número: µg de vitamina B12 por cada 100 g",
+      "filas": [
+        {
+          "cab": "Me",
+          "valor": "24",
+          "nombre": "mejillones cocidos",
+          "texto": "masa: 100 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Número: µg de vitamina B12 por cada 100 g",
+      "titulo": "La fila completa",
+      "filas": [
+        {
+          "cab": "Yo",
+          "valor": "0,4",
+          "nombre": "yogur natural entero"
+        },
+        {
+          "cab": "Yg",
+          "valor": "0,8",
+          "nombre": "yogur griego natural"
+        },
+        {
+          "cab": "Sa",
+          "valor": "2,8",
+          "nombre": "salmón cocinado"
+        },
+        {
+          "cab": "An",
+          "valor": "3,0",
+          "nombre": "atún al natural"
+        },
+        {
+          "cab": "Me",
+          "valor": "24",
+          "nombre": "mejillones cocidos"
+        }
+      ],
+      "texto": "Por 100 g de cada uno. ¿Dónde queda el salmón?"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y para qué sirve la {vitamina B12}?",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina B12 contribuye a la formación normal de glóbulos rojos.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal.",
+      "filas": [
+        {
+          "cab": "Vb",
+          "nombre": "vitamina B12"
+        }
+      ],
+      "vit": "VIT-045"
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "Curiosidades Vivax",
+      "texto": "Mándaselo a quien pide mejillones en cada terraza.",
+      "filas": [
+        {
+          "cab": "Yo"
+        },
+        {
+          "cab": "Yg"
+        },
+        {
+          "cab": "Sa"
+        },
+        {
+          "cab": "An"
+        },
+        {
+          "cab": "Me"
+        }
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "dato": "El lunes: la fibra del picoteo de sofá."
+    }
+  ],
+  "pie_instagram": "El salmón, tercero en B12. ¿Quién va primero?\n\nEn esta tabla periódica, el número de cada casilla es el vitamina B12 en µg por cada 100 g de alimento.\nPor cada 100 g: mejillones cocidos, 24 µg; atún al natural, 3,0 µg; salmón cocinado, 2,8 µg; yogur griego natural, 0,8 µg; yogur natural entero, 0,4 µg.\nPor 100 g de cada uno. ¿Dónde queda el salmón?\nLos símbolos de los alimentos son de broma: ninguno es un elemento químico.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La vitamina B12 contribuye a la formación normal de glóbulos rojos. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina B12; no es una recomendación personal.\n\nMándaselo a quien pide mejillones en cada terraza. El lunes: la fibra del picoteo de sofá.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminab12 #curiosidades #mejillones #nutricion",
+  "alt": [
+    "Portada en blanco y oliva: una tabla periódica dibujada en filete fino con 5 casillas de alimentos encendidas y su número tapado. Curiosidades Vivax · Tabla periódica. El salmón, tercero en B12. ¿Quién va primero? Apuesta antes de pasar la hoja. Me mejillones cocidos, número tapado. Yg yogur griego natural, número tapado. Yo yogur natural entero, número tapado. Sa salmón cocinado, número tapado. An atún al natural, número tapado. Número: µg de vitamina B12 por cada 100 g.",
+    "Zoom sobre la casilla Yo de la tabla periódica de la vitamina B12, con el minimapa de la tabla y la escala de zoom. Dibujo de yogur natural entero en línea fina. Poquito, pero cuenta. Yogur natural entero. Yo yogur natural entero 0,4 µg. Sa, número tapado. Número: µg de vitamina B12 por cada 100 g.",
+    "Zoom sobre la casilla Yg de la tabla periódica de la vitamina B12, con el minimapa de la tabla y la escala de zoom. Dibujo de yogur griego natural en línea fina. Griego y por delante de su primo. Yogur griego natural. Yg yogur griego natural 0,8 µg. Número: µg de vitamina B12 por cada 100 g.",
+    "Zoom sobre la casilla Sa de la tabla periódica de la vitamina B12, con el minimapa de la tabla y la escala de zoom. Dibujo de salmón cocinado en línea fina. Toda la fama, y tercero. Salmón cocinado. Sa salmón cocinado 2,8 µg. Yo 0,4 µg. Número: µg de vitamina B12 por cada 100 g.",
+    "Zoom sobre la casilla An de la tabla periódica de la vitamina B12, con el minimapa de la tabla y la escala de zoom. Dibujo de atún al natural en línea fina. De lata, y por delante del salmón. Atún al natural. An atún al natural 3,0 µg. Número: µg de vitamina B12 por cada 100 g.",
+    "Zoom sobre la casilla Me de la tabla periódica de la vitamina B12, con el minimapa de la tabla y la escala de zoom. Dibujo de mejillones cocidos en línea fina. Más de ocho veces el salmón. Mejillones cocidos. Me mejillones cocidos 24 µg. Número: µg de vitamina B12 por cada 100 g.",
+    "Hoja oliva con la fila completa: las casillas en orden creciente y un tallo encima de cada una que mide su cifra. Número: µg de vitamina B12 por cada 100 g. La fila completa. Por 100 g de cada uno. ¿Dónde queda el salmón? Yo yogur natural entero 0,4 µg. Yg yogur griego natural 0,8 µg. Sa salmón cocinado 2,8 µg. An atún al natural 3,0 µg. Me mejillones cocidos 24 µg.",
+    "Hoja en blanco y oliva profundo con la casilla del Vb, vitamina B12, dibujada en filete blanco. ¿Y para qué sirve la vitamina B12? Vb vitamina B12. Para qué sirve. La vitamina B12 contribuye a la formación normal de glóbulos rojos.",
+    "Cierre en oliva con la firma de Vivax y la fila de símbolos. Curiosidades Vivax. Mándaselo a quien pide mejillones en cada terraza. Yo. Yg. Sa. An. Me. El lunes: la fibra del picoteo de sofá."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-27",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "car-tabla-periodica",
+    "formato": "CAR-TABLA-PERIODICA",
+    "lote": "lux-2026-11",
+    "hora": "10:30",
+    "nota": "plantilla car_tabla_periodica (spec n1-lux-20261127-1030-atun-salmon-b12). Condición de uso de VIT-045: yogur natural entero 16 % del VRN; yogur griego natural 32 % del VRN; salmón cocinado 112 % del VRN; atún al natural 120 % del VRN; mejillones cocidos 960 % del VRN.",
+    "pilar_plan": "curiosidad",
+    "mecanica": "car_ranking",
+    "frente": "publico",
+    "plantilla_lux": "car_tabla_periodica",
+    "spec_id": "n1-lux-20261127-1030-atun-salmon-b12",
+    "spec": "n1-lux-20261127-1030-atun-salmon-b12",
+    "plantilla_visual": "car_tabla_periodica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, vitamina B12 por 100 g: mejillones cocidos 24 µg, atún al natural 3,0 µg y salmón cocinado 2,8 µg (ALI-013); yogur griego natural 0,8 µg y yogur natural entero 0,4 µg (ALI-051). El salmón queda tercero de cinco. Cálculo: 24 / 2,8 = 8,57 (más de ocho veces el salmón). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-045), para alimentos que son fuente de vitamina B12; los cinco lo son (al menos 0,375 µg por 100 g, el 15 % del VRN de 2,5 µg). Es composición, no una recomendación personal."
+}
