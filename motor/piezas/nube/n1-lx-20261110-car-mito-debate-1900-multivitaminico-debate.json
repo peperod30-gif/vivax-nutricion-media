@@ -11,35 +11,36 @@
     "DEB-026",
     "DEB-027"
   ],
-  "titulo": "[CAR-MITO-DEBATE] Multivitamínico diario: un sí y un no.",
+  "titulo": "[CAR-MITO-DEBATE] Once años tomando multivitamínico: un sí y un no.",
   "hojas": [
     {
       "plantilla": "f_frase",
       "kicker": "Mito o dato",
-      "titulo": "Multivitamínico diario: un sí y un no.",
+      "titulo": "Once años tomando multivitamínico: un sí y un {no}.",
       "resalte": "Respuesta corta",
       "frase": "Depende.",
       "texto": "La respuesta larga, deslizando"
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura A",
-      "titulo": "Un sí pequeño: cáncer total",
-      "dato": "Cáncer total: 17,0 frente a 18,3 casos por 1.000 personas-año, frente a placebo (cociente de riesgos 0,92; IC 95 % 0,86 a 0,998).",
-      "cifra": "0,92",
-      "dia": "Mito o dato",
+      "kicker": "El sí pequeño",
+      "titulo": "Un poco menos de {cáncer}",
+      "dato": "Sí, por poco: los que tomaron el multivitamínico tuvieron algo menos de cáncer que los de la pastilla vacía.",
+      "cifra": "Sí",
+      "unidad": "por poco",
+      "fuente": "Journal of the American Medical Association, 2012",
       "resalte": "Letra pequeña",
-      "texto": "Por muy poco: el límite superior casi toca el 1 (0,998). Solo médicos varones de EE. UU."
+      "texto": "Muy justo, casi en el límite. Y eran solo médicos hombres de Estados Unidos."
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura B",
-      "titulo": "El corazón, sin efecto significativo",
-      "dato": "Eventos cardiovasculares importantes: 11,0 frente a 10,8 por 1.000 personas-año (cociente de riesgos 1,01; IC 95 % 0,91 a 1,10).",
-      "cifra": "1,01",
-      "dia": "Mito o dato",
+      "kicker": "El no del corazón",
+      "titulo": "El corazón, {igual}",
+      "dato": "Igual con el multivitamínico que con la pastilla vacía: los problemas graves de corazón, casi los mismos.",
+      "cifra": "Igual",
+      "fuente": "Journal of the American Medical Association, 2012",
       "resalte": "Letra pequeña",
-      "texto": "Tampoco hubo efecto en el infarto, el ictus ni la mortalidad total."
+      "texto": "Tampoco cambiaron los infartos, los ictus ni las muertes."
     },
     {
       "plantilla": "f_ranking",
@@ -48,50 +49,50 @@
       "texto": "¿Con cuál te quedas?",
       "items": [
         {
-          "nombre": "Postura A",
-          "texto": "Un sí pequeño: cáncer total",
-          "valor": "0,92"
+          "nombre": "El sí pequeño",
+          "texto": "Un poco menos de {cáncer}",
+          "valor": "Sí",
+          "unidad": "por poco"
         },
         {
-          "nombre": "Postura B",
-          "texto": "El corazón, sin efecto significativo",
-          "valor": "1,01"
+          "nombre": "El no del corazón",
+          "texto": "El corazón, {igual}",
+          "valor": "Igual"
         }
       ],
-      "dato": "El mismo grupo dio un sí pequeño y un no. Por eso se discute."
+      "dato": "Mismas personas, misma pastilla: un sí pequeño y un no. Por eso se discute."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "El matiz",
       "frase": "Depende",
-      "titulo": "de qué se mida y en quién.",
-      "texto": "14.641 médicos varones de EE. UU., de 50 años o más, y con ese preparado."
+      "titulo": "de qué se mire y en quién: médicos hombres de Estados Unidos, de 50 años o más."
     },
     {
       "plantilla": "f_frase",
-      "titulo": "¿Y la mortalidad por cáncer?",
+      "titulo": "¿Y murió menos gente de cáncer?",
       "resalte": "Lo que dice el dato",
-      "frase": "La mortalidad por cáncer no cambió de forma significativa (0,88; IC 95 % 0,77 a 1,01).",
+      "frase": "No está claro: la diferencia en las muertes por cáncer pudo ser casualidad.",
       "fuente": "Es un dato de una de las posturas del debate, no un veredicto ni una recomendación personal."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "En una frase",
-      "titulo": "{Depende} de qué se mida y en quién.",
+      "titulo": "{Depende} de qué se mire y en quién: médicos hombres de Estados Unidos, de 50 años o más.",
       "texto": "Mándaselo a quien tiene un bote de vitaminas en la cocina.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "dato": "El jueves por la tarde: medio huevo al día, dos lecturas."
+      "dato": "El jueves por la tarde: el huevo y el corazón, a debate."
     }
   ],
-  "pie_instagram": "Multivitamínico diario: un sí y un no.\n\nPostura A: Cáncer total: 17,0 frente a 18,3 casos por 1.000 personas-año, frente a placebo (cociente de riesgos 0,92; IC 95 % 0,86 a 0,998). Letra pequeña: por muy poco: el límite superior casi toca el 1 (0,998). Solo médicos varones de EE. UU.\nPostura B: Eventos cardiovasculares importantes: 11,0 frente a 10,8 por 1.000 personas-año (cociente de riesgos 1,01; IC 95 % 0,91 a 1,10). Letra pequeña: tampoco hubo efecto en el infarto, el ictus ni la mortalidad total.\nEl mismo grupo dio un sí pequeño y un no. Por eso se discute.\nEl matiz: Depende de qué se mida y en quién: 14.641 médicos varones de EE. UU., de 50 años o más, y con ese preparado.\nY el dato final: La mortalidad por cáncer no cambió de forma significativa (0,88; IC 95 % 0,77 a 1,01).\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien tiene un bote de vitaminas en la cocina.\nEl jueves por la tarde: medio huevo al día, dos lecturas.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#multivitaminico #suplementos #mitoodato #nutricion",
+  "pie_instagram": "Once años tomando multivitamínico: un sí y un no.\n\nEl sí pequeño: Sí, por poco: los que tomaron el multivitamínico tuvieron algo menos de cáncer que los de la pastilla vacía. Letra pequeña: muy justo, casi en el límite. Y eran solo médicos hombres de Estados Unidos.\nEl no del corazón: Igual con el multivitamínico que con la pastilla vacía: los problemas graves de corazón, casi los mismos. Letra pequeña: tampoco cambiaron los infartos, los ictus ni las muertes.\nMismas personas, misma pastilla: un sí pequeño y un no. Por eso se discute.\nEl matiz: Depende de qué se mire y en quién: médicos hombres de Estados Unidos, de 50 años o más.\nY el dato final: Las muertes por cáncer no cambiaron de forma clara: la diferencia pudo ser casualidad.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien tiene un bote de vitaminas en la cocina.\nEl jueves por la tarde: el huevo y el corazón, a debate.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#multivitaminico #suplementos #mitoodato #nutricion",
   "alt": [
-    "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. Multivitamínico diario: un sí y un no. La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Postura A. Un sí pequeño: cáncer total. 0,92. Por muy poco: el límite superior casi toca el 1 (0,998). Solo médicos varones de EE. UU. Cáncer total: 17,0 frente a 18,3 casos por 1.000 personas-año, frente a placebo (cociente de riesgos 0,92; IC 95 % 0,86 a 0,998). Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Postura B. El corazón, sin efecto significativo. 1,01. Tampoco hubo efecto en el infarto, el ictus ni la mortalidad total. Eventos cardiovasculares importantes: 11,0 frente a 10,8 por 1.000 personas-año (cociente de riesgos 1,01; IC 95 % 0,91 a 1,10). Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Tomar un multivitamínico cada día cambia algo? ¿Con cuál te quedas? El mismo grupo dio un sí pequeño y un no. Por eso se discute. Postura A 0,92 Un sí pequeño: cáncer total. Postura B 1,01 El corazón, sin efecto significativo.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de qué se mida y en quién. 14.641 médicos varones de EE. UU., de 50 años o más, y con ese preparado. Depende.",
-    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y la mortalidad por cáncer? Lo que dice el dato. La mortalidad por cáncer no cambió de forma significativa (0,88; IC 95 % 0,77 a 1,01).",
-    "Cierre en oliva con la firma de Vivax. En una frase. Depende de qué se mida y en quién. Mándaselo a quien tiene un bote de vitaminas en la cocina. El jueves por la tarde: medio huevo al día, dos lecturas."
+    "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. Once años tomando multivitamínico: un sí y un no. La respuesta larga, deslizando. Respuesta corta. Depende.",
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. El sí pequeño. Un poco menos de cáncer. Sí por poco. Muy justo, casi en el límite. Y eran solo médicos hombres de Estados Unidos. Sí, por poco: los que tomaron el multivitamínico tuvieron algo menos de cáncer que los de la pastilla vacía. Letra pequeña.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. El no del corazón. El corazón, igual. Igual. Tampoco cambiaron los infartos, los ictus ni las muertes. Igual con el multivitamínico que con la pastilla vacía: los problemas graves de corazón, casi los mismos. Letra pequeña.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Tomar un multivitamínico cada día cambia algo? ¿Con cuál te quedas? Mismas personas, misma pastilla: un sí pequeño y un no. Por eso se discute. El sí pequeño Sí por poco Un poco menos de cáncer. El no del corazón Igual El corazón, igual.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de qué se mire y en quién: médicos hombres de Estados Unidos, de 50 años o más. Depende.",
+    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y murió menos gente de cáncer? Lo que dice el dato. No está claro: la diferencia en las muertes por cáncer pudo ser casualidad.",
+    "Cierre en oliva con la firma de Vivax. En una frase. Depende de qué se mire y en quién: médicos hombres de Estados Unidos, de 50 años o más. Mándaselo a quien tiene un bote de vitaminas en la cocina. El jueves por la tarde: el huevo y el corazón, a debate."
   ],
   "produccion": {
     "autoaprobar": false,
@@ -111,7 +112,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: Gaziano JM et al. JAMA 2012;308:1871-1880 (DEB-027) y Sesso HD et al. JAMA 2012;308:1751-1760 (DEB-026): el mismo ensayo aleatorizado con placebo en 14.641 médicos varones de EE. UU. de 50 años o más. Vale para esa población y ese preparado; los autores describen la reducción del cáncer como modesta pero significativa.",
+  "comentario": "Fuentes: Gaziano JM et al. JAMA 2012;308:1871-1880 (DEB-027) y Sesso HD et al. JAMA 2012;308:1751-1760 (DEB-026): el mismo ensayo aleatorizado con placebo en 14.641 médicos varones de EE. UU. de 50 años o más, con una mediana de 11,2 años («once años» en la portada). Cáncer total 17,0 frente a 18,3 casos por 1.000 personas-año (cociente de riesgos 0,92; IC 95 % 0,86 a 0,998); eventos cardiovasculares importantes 11,0 frente a 10,8 (1,01; 0,91 a 1,10); mortalidad por cáncer 0,88 (0,77 a 1,01), no significativa. En pantalla, «pastilla vacía» es el placebo. Vale para esa población y ese preparado; los autores describen la reducción del cáncer como modesta pero significativa.",
   "serie": "Mito o dato",
   "pilar_plan": "Minerales"
 }
