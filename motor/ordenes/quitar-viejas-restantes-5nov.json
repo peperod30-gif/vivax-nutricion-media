@@ -1,0 +1,10 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 4-nov-2026 17:56: respondió «Sí, quítalas todas» a la pregunta 53 sobre las piezas antiguas de estilo g y v3; quedaban dos aprobadas sin quitar",
+  "texto": "Quito de la cola las dos piezas antiguas que seguían programadas (las del quiz de la fruta y de la proteína del desayuno), como pediste con «Sí, quítalas todas». Quedan pendientes y puedo recuperar cualquiera.",
+  "lista": [
+    {"accion": "quitar", "pieza_id": "n1-v3-quiz-1112a-fruta-mas-dulce"},
+    {"accion": "quitar", "pieza_id": "n1-v3-quiz-r2-proteina-desayuno"}
+  ]
+}
