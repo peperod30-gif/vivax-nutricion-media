@@ -1,0 +1,125 @@
+{
+  "id": "n1-lx-20261204-reel-vf-2100-palomitas-proteina-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-083",
+    "VIT-002",
+    "ALI-053",
+    "VIT-059",
+    "ALI-077"
+  ],
+  "titulo": "[REEL-VF] Palomitas, espinacas y huevo: solo una acierta.",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "Palomitas, espinacas y huevo: solo una {acierta}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "Palomitas sin aceite: llevan proteína.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "12,9",
+      "unidad": "g",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Palomitas sin aceite",
+          "valor": "12,9 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "Espinacas crudas: nada de vitamina A.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "469",
+      "unidad": "µg",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Espinacas crudas",
+          "valor": "469 µg"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "Huevo cocido: nada de grasa.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "10,6",
+      "unidad": "g",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Huevo cocido",
+          "valor": "10,6 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "Las proteínas contribuyen a conservar la masa muscular.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "titulo": "¿Para qué sirve la proteína?",
+      "vit": "VIT-059"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien siempre responde «falso».",
+      "texto": "Mañana por la mañana: las palomitas vuelven, en el picoteo."
+    }
+  ],
+  "pie_instagram": "Palomitas, espinacas y huevo: solo una acierta.\n\nPalomitas sin aceite: llevan proteína. Verdadero: palomitas sin aceite 12,9 g (por 100 g).\nEspinacas crudas: nada de vitamina A. Falso: espinacas crudas 469 µg (por 100 g).\nHuevo cocido: nada de grasa. Falso: huevo cocido 10,6 g (por 100 g).\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a conservar la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien siempre responde «falso».\nMañana por la mañana: las palomitas vuelven, en el picoteo.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #palomitas #quiz #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y el alimento dibujado en línea fina. El quiz de la noche. Palomitas, espinacas y huevo: solo una acierta. I. Palomitas sin aceite: llevan proteína. Verdadero: Palomitas sin aceite 12,9 g, por 100 g. II. Espinacas crudas: nada de vitamina A. Falso: Espinacas crudas 469 µg, por 100 g. III. Huevo cocido: nada de grasa. Falso: Huevo cocido 10,6 g, por 100 g. ¿Para qué sirve la proteína? Para qué sirve: Las proteínas contribuyen a conservar la masa muscular. Mándaselo a quien siempre responde «falso». Mañana por la mañana: las palomitas vuelven, en el picoteo."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-04",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-12",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury) · spec n1-lux-20261204-2100-palomitas-proteina-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Azúcar y sal",
+    "spec_id": "n1-lux-20261204-2100-palomitas-proteina-quiz",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261204-2100-palomitas-proteina-quiz",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy, consultado en octubre de 2026: palomitas de maíz sin aceite, 12,9 g de proteína por 100 g, tal cual (ALI-083); espinacas crudas, 469 µg de vitamina A por 100 g (VIT-002); huevo cocido, 10,6 g de grasa por 100 g (ALI-053). En la voz, «casi trece gramos» redondea los 12,9 g. Para la vitamina A no se calcula el porcentaje del VRN: la tabla da actividad de retinol y el reglamento no precisa la base (matiz de VIT-002). Declaración: «Las proteínas contribuyen a conservar la masa muscular», Reglamento (UE) nº 432/2012 (VIT-059). Condición de uso: un alimento es fuente de proteínas si al menos el 12 % de su valor energético procede de ellas. Las palomitas sin aceite llevan 12,9 g de proteína y 387 kcal por 100 g (ALI-083 y ALI-077): 12,9 × 4 = 51,6 kcal, un 13 % de la energía, así que son fuente. La declaración se dice del nutriente, no del huevo ni de las espinacas. Declaración autorizada por la UE para alimentos que son fuente de proteínas. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "Azúcar y sal"
+}

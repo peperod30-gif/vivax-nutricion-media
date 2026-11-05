@@ -1,0 +1,2438 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.41,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.14,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.2,
+ "n_cambios_visuales": 262,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Palomitas",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    423,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    441,
+    768,
+    538,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "aceite:",
+   "contando": false,
+   "r": [
+    556,
+    768,
+    767,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    305,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "proteína.",
+   "contando": false,
+   "r": [
+    323,
+    852,
+    621,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Palomitas",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    423,
+    878
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    441,
+    768,
+    538,
+    878
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "aceite:",
+   "contando": false,
+   "r": [
+    556,
+    768,
+    767,
+    878
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    305,
+    962
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "proteína.",
+   "contando": false,
+   "r": [
+    323,
+    852,
+    621,
+    962
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "Palomitas",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    423,
+    878
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    441,
+    768,
+    538,
+    878
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "aceite:",
+   "contando": false,
+   "r": [
+    556,
+    768,
+    767,
+    878
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    305,
+    962
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "proteína.",
+   "contando": false,
+   "r": [
+    323,
+    852,
+    621,
+    962
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "12,9",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    634,
+    1275
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    640,
+    1161,
+    664,
+    1223
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "Palomitas sin aceite",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    297,
+    1349
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "12,9 g",
+   "contando": false,
+   "r": [
+    869,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 4.333,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    428,
+    878
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "crudas:",
+   "contando": false,
+   "r": [
+    445,
+    768,
+    688,
+    878
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "nada",
+   "contando": false,
+   "r": [
+    705,
+    768,
+    870,
+    878
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    178,
+    962
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    195,
+    852,
+    486,
+    962
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "A.",
+   "contando": false,
+   "r": [
+    503,
+    852,
+    570,
+    962
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Espinacas",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    428,
+    878
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "crudas:",
+   "contando": false,
+   "r": [
+    445,
+    768,
+    688,
+    878
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "nada",
+   "contando": false,
+   "r": [
+    705,
+    768,
+    870,
+    878
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    178,
+    962
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    195,
+    852,
+    486,
+    962
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "A.",
+   "contando": false,
+   "r": [
+    503,
+    852,
+    570,
+    962
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "469",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    632,
+    1275
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    638,
+    1161,
+    685,
+    1223
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Espinacas crudas",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    270,
+    1349
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "469 µg",
+   "contando": false,
+   "r": [
+    853,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "Huevo",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    309,
+    878
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "cocido:",
+   "contando": false,
+   "r": [
+    327,
+    768,
+    562,
+    878
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "nada",
+   "contando": false,
+   "r": [
+    580,
+    768,
+    744,
+    878
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    178,
+    962
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "grasa.",
+   "contando": false,
+   "r": [
+    195,
+    852,
+    395,
+    962
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 14.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Palomitas,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    419,
+    457
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    96,
+    431,
+    401,
+    537
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    418,
+    431,
+    456,
+    537
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "huevo:",
+   "contando": false,
+   "r": [
+    472,
+    431,
+    676,
+    537
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    96,
+    511,
+    224,
+    617
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    241,
+    511,
+    359,
+    617
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "acierta.",
+   "contando": false,
+   "r": [
+    375,
+    511,
+    592,
+    617
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Huevo",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    309,
+    878
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "cocido:",
+   "contando": false,
+   "r": [
+    327,
+    768,
+    562,
+    878
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "nada",
+   "contando": false,
+   "r": [
+    580,
+    768,
+    744,
+    878
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    178,
+    962
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "grasa.",
+   "contando": false,
+   "r": [
+    195,
+    852,
+    395,
+    962
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "10,6",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    646,
+    1275
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    652,
+    1161,
+    676,
+    1223
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Huevo cocido",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    234,
+    1349
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "10,6 g",
+   "contando": false,
+   "r": [
+    867,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "¿Para",
+   "contando": false,
+   "r": [
+    96,
+    349,
+    317,
+    475
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    336,
+    349,
+    478,
+    475
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "sirve",
+   "contando": false,
+   "r": [
+    498,
+    349,
+    680,
+    475
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    96,
+    445,
+    167,
+    571
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "proteína?",
+   "contando": false,
+   "r": [
+    187,
+    445,
+    553,
+    571
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    433,
+    772
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    790,
+    229,
+    919
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "proteínas",
+   "contando": false,
+   "r": [
+    250,
+    790,
+    617,
+    919
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    573,
+    1016
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    985,
+    141,
+    1114
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "conservar",
+   "contando": false,
+   "r": [
+    161,
+    985,
+    549,
+    1114
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    569,
+    985,
+    643,
+    1114
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "masa",
+   "contando": false,
+   "r": [
+    96,
+    1082,
+    295,
+    1211
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "muscular.",
+   "contando": false,
+   "r": [
+    315,
+    1082,
+    696,
+    1211
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    948,
+    1420
+   ]
+  },
+  {
+   "t": 21.933,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    776,
+    453,
+    892
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    776,
+    513,
+    892
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    776,
+    712,
+    892
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "siempre",
+   "contando": false,
+   "r": [
+    96,
+    866,
+    348,
+    982
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "responde",
+   "contando": false,
+   "r": [
+    96,
+    955,
+    386,
+    1071
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "«falso».",
+   "contando": false,
+   "r": [
+    404,
+    955,
+    681,
+    1071
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "mañana:",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    415,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    424,
+    1175,
+    461,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "palomitas",
+   "contando": false,
+   "r": [
+    471,
+    1175,
+    600,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "vuelven,",
+   "contando": false,
+   "r": [
+    610,
+    1175,
+    724,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    734,
+    1175,
+    767,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    777,
+    1175,
+    801,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "picoteo.",
+   "contando": false,
+   "r": [
+    811,
+    1175,
+    921,
+    1216
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.933,
+  4.333,
+  9.367,
+  10.767,
+  14.5,
+  15.9,
+  21.933,
+  25.767
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.66,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
+  "efectos_por_tipo": {
+   "tic": 8,
+   "tac": 3,
+   "sello": 3,
+   "ding": 1,
+   "contador": 20,
+   "whoosh": 4,
+   "golpe": 2,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.345,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 315,
+   "texto": "Palomitas sin aceite: llevan proteína. ¡Verdadero! Casi trece gramos. Espinacas crudas: nada de vitamina A. ¡Falso! Y no poca. Huevo cocido: nada de grasa. ¡Falso! Diez coma seis gramos. ¿Para qué sirve la proteína? Las proteínas contribuyen a conservar la masa muscular. Mándaselo a quien siempre responde «falso».",
+   "duracion_voz_s": 25.09,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Palomitas sin aceite: llevan proteína.",
+     "t0": 0.0213,
+     "t1": 2.3313
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero! Casi trece gramos.",
+     "t0": 3.0013,
+     "t1": 5.0813
+    },
+    {
+     "id": "a1",
+     "texto": "Espinacas crudas: nada de vitamina A.",
+     "t0": 6.2663,
+     "t1": 8.7763
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! Y no poca.",
+     "t0": 9.4363,
+     "t1": 10.9163
+    },
+    {
+     "id": "a2",
+     "texto": "Huevo cocido: nada de grasa.",
+     "t0": 12.0713,
+     "t1": 13.9663
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! Diez coma seis gramos.",
+     "t0": 14.5864,
+     "t1": 16.6114
+    },
+    {
+     "id": "c",
+     "texto": "¿Para qué sirve la proteína? Las proteínas contribuyen a conservar la masa muscular.",
+     "t0": 17.6563,
+     "t1": 21.9263
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien siempre responde «falso».",
+     "t0": 22.4814,
+     "t1": 24.8814
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.15
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.286,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.951,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.401,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.981,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.021,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.231,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.331,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.431,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.531,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.631,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.731,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.861,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.866,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.631,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.396,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.846,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.416,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.456,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.666,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.766,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.866,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.966,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.066,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.166,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.266,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 11.696,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.671,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.586,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.036,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.566,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.606,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 14.816,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.916,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.016,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.116,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.216,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.316,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.416,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.316,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.996,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 24.981,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 791,
+ "tiempo_render_s": 49.9,
+ "tiempos_s": {
+  "preparar": 1.07,
+  "dibujar_y_codificar": 44.22
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 26.3667,
+  "loop": 25.8667,
+  "conc": {
+   "t_in": 17.316,
+   "palabras": [
+    19.0463,
+    19.2863,
+    19.9263,
+    20.3663,
+    20.4863,
+    21.0463,
+    21.2063,
+    21.4463
+   ],
+   "palabras_g": [
+    17.6563,
+    17.8163,
+    17.9363,
+    18.2563,
+    18.3763
+   ],
+   "t_sal": 18.116,
+   "t_frase": 21.996
+  },
+  "fin": {
+   "t_in": 21.996,
+   "palabras": [
+    22.4814,
+    23.0014,
+    23.1214,
+    23.3614,
+    23.8014,
+    24.4814
+   ],
+   "palabras_an": [
+    24.981,
+    24.981,
+    24.981,
+    24.981,
+    24.981,
+    24.981,
+    24.981,
+    24.981,
+    24.981,
+    24.981
+   ],
+   "t_an": 24.981
+  },
+  "iconos": [
+   [
+    -1.0,
+    5.811
+   ],
+   [
+    5.811,
+    11.645999999999999
+   ],
+   [
+    11.645999999999999,
+    17.316
+   ],
+   [
+    17.316,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 24.881,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.401,
+    "tv": 2.981,
+    "pasos": [
+     0.621,
+     1.286,
+     1.951
+    ],
+    "t_out": 5.811
+   },
+   {
+    "t_in": 6.111,
+    "t0": 6.266,
+    "buzz": 8.846,
+    "tv": 9.416,
+    "pasos": [
+     6.866,
+     7.631,
+     8.396
+    ],
+    "t_out": 11.646
+   },
+   {
+    "t_in": 11.946,
+    "t0": 12.071,
+    "buzz": 14.036,
+    "tv": 14.566,
+    "pasos": [
+     12.671,
+     13.586
+    ],
+    "t_out": 17.816
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.3,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.1667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.3333,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.7,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 8.7333,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 9.6,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 10.7667,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 12.5333,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 13.9333,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 14.7667,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 15.9,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 17.8,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.9333,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 22.5,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 25.7667,
+   "que": "cierre"
+  },
+  {
+   "t": 26.3333,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}
