@@ -1,0 +1,16 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 5-nov-2026: «si te rechazo una hazme otra» y cambio de foco; se retiran de la cola versiones antiguas que habían vuelto a aprobarse por error",
+  "texto": "Retiro 2 piezas antiguas que habían vuelto a la cola por error (quedan pendientes, no se pierden).",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-v3-quiz-r2-proteina-desayuno"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261108-car-mito-debate-1900-huevo-cohortes-pruebas"
+    }
+  ]
+}
