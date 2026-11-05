@@ -1,0 +1,90 @@
+{
+  "id": "n1-lx-20261116-reel-duelo-swipe-1300-almendras-platano-magnesio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-035",
+    "VIT-056"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Plátano o almendras: cuál lleva más magnesio?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Plátano o almendras: cuál lleva más {magnesio}?",
+      "voz": "¿Quién lleva más magnesio? Almendras, a la izquierda: paso. Plátano, a la derecha: me gusta. Pero las almendras vuelven. Doscientos setenta miligramos. El plátano, veintisiete. Diez veces menos. ¿Y para qué sirve el magnesio? El magnesio contribuye a la síntesis proteica normal. Mándaselo a quien lleva plátano al gimnasio."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "almendras",
+      "texto": "Por 100 g",
+      "dato": "Magnesio",
+      "etiqueta_no": "Paso",
+      "cifra": "270",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "plátano",
+      "texto": "Por 100 g",
+      "dato": "Magnesio",
+      "etiqueta_si": "Me gusta",
+      "cifra": "27",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g, diez veces más magnesio en las almendras."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y para qué sirve el magnesio?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Magnesio",
+      "frase": "El magnesio contribuye a la síntesis proteica normal.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal.",
+      "vit": "VIT-056"
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien lleva plátano al gimnasio.",
+      "texto": "Mañana a la una: espinacas contra mejillones, en hierro."
+    }
+  ],
+  "pie_instagram": "¿Plátano o almendras: cuál lleva más magnesio?\n\nPor 100 g: almendras, 270 mg de magnesio; plátano, 27 mg.\nPor cada 100 g, diez veces más magnesio en las almendras.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El magnesio contribuye a la síntesis proteica normal. Es una declaración autorizada en la UE para alimentos que son fuente de magnesio; no es una recomendación personal.\n\n¿Habías apostado por el plátano?\nMándaselo a quien lleva plátano al gimnasio. Mañana a la una: espinacas contra mejillones, en hierro.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#magnesio #almendras #duelodelacomida #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Plátano o almendras: cuál lleva más magnesio? La tarjeta de almendras (por 100 g, magnesio: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de plátano: 27 mg de magnesio, con el sello «Me gusta». Vuelve almendras y su cifra cuenta hasta 270 mg. Las dos tarjetas, una junto a otra: almendras, 270 mg; plátano, 27 mg. Por cada 100 g, diez veces más magnesio en las almendras. Bloque verde oliva oscuro: ¿Y para qué sirve el magnesio? Magnesio: El magnesio contribuye a la síntesis proteica normal. Cierre con la firma Vivax Nutrición: Mándaselo a quien lleva plátano al gimnasio. Mañana a la una: espinacas contra mejillones, en hierro."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-16",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261116-1300-almendras-platano-magnesio",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Proteína y músculo",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261116-1300-almendras-platano-magnesio",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261116-1300-almendras-platano-magnesio",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, magnesio por 100 g: almendras, 270 mg; plátano, 27 mg (ALI-035; es la cantidad que hay en el alimento, no la que se absorbe). Cálculo de la lectura: 270 / 27 = 10 («diez veces»). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-056). Condición de uso: las almendras son fuente de magnesio y el plátano no, por eso la frase se dice del nutriente, no del alimento. Voz sintética (IA). Voz sintética (IA).",
+  "ia": true
+}

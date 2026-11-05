@@ -1,0 +1,89 @@
+{
+  "id": "n1-lx-20261115-reel-duelo-swipe-1300-cheddar-lomo-saturada",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-047",
+    "ALI-114"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] En grasa saturada, ¿cuántos lomos vale un cheddar?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "En {grasa saturada}, ¿cuántos lomos vale un cheddar?",
+      "voz": "¿Quién lleva más grasa saturada? Al cheddar, paso. Al lomo, me gusta: es cerdo. Pero el cheddar vuelve. Diecinueve coma cuatro gramos. El lomo, tres coma cinco. Más de cinco lomos. ¿Y el jamón cocido, también de cerdo? Cero coma cinco gramos. Mándaselo a quien gratina todo con cheddar."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "queso cheddar",
+      "texto": "Por 100 g",
+      "dato": "Grasa saturada",
+      "etiqueta_no": "Paso",
+      "cifra": "19,4",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "lomo de cerdo asado",
+      "texto": "Por 100 g",
+      "dato": "Grasa saturada",
+      "etiqueta_si": "Me gusta",
+      "cifra": "3,5",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g, un cheddar vale más de cinco lomos."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y el jamón cocido, también de cerdo?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, el jamón cocido lleva 0,5 g de grasa saturada.",
+      "fuente": "La grasa saturada no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien gratina todo con cheddar.",
+      "texto": "Mañana a la una: almendras contra plátano."
+    }
+  ],
+  "pie_instagram": "En grasa saturada, ¿cuántos lomos vale un cheddar?\n\nPor 100 g: queso cheddar, 19,4 g de grasa saturada; lomo de cerdo asado, 3,5 g.\nPor cada 100 g, un cheddar vale más de cinco lomos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, el jamón cocido lleva 0,5 g de grasa saturada.\n\n¿A cuál le habías dado el paso?\nMándaselo a quien gratina todo con cheddar. Mañana a la una: almendras contra plátano.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasasaturada #queso #duelodelacomida #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. En grasa saturada, ¿cuántos lomos vale un cheddar? La tarjeta de queso cheddar (por 100 g, grasa saturada: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de lomo de cerdo asado: 3,5 g de grasa saturada, con el sello «Me gusta». Vuelve queso cheddar y su cifra cuenta hasta 19,4 g. Las dos tarjetas, una junto a otra: queso cheddar, 19,4 g; lomo de cerdo asado, 3,5 g. Por cada 100 g, un cheddar vale más de cinco lomos. Bloque verde oliva oscuro: ¿Y el jamón cocido, también de cerdo? El dato final: Por cada 100 g, el jamón cocido lleva 0,5 g de grasa saturada. Cierre con la firma Vivax Nutrición: Mándaselo a quien gratina todo con cheddar. Mañana a la una: almendras contra plátano."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261115-1300-cheddar-lomo-saturada",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261115-1300-cheddar-lomo-saturada",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261115-1300-cheddar-lomo-saturada",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, grasa saturada por 100 g: queso cheddar, 19,4 g, y lomo de cerdo asado, 3,5 g (ALI-047, la carne cocinada); jamón cocido, 0,5 g (ALI-114). Cálculo de la lectura: 19,4 / 3,5 = 5,5 («un cheddar vale más de cinco lomos»: por cada 100 g de cada uno, más de cinco veces la grasa saturada del lomo). La grasa saturada no tiene declaración de salud autorizada (guía 20): la conclusión es una lectura numérica del banco. Es composición, no una recomendación de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

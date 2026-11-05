@@ -1,0 +1,144 @@
+{
+  "id": "n1-lx-20261115-radiografia-1030-sandwich-pan-pavo-grasa",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-radiografia",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-115",
+    "ALI-106",
+    "ALI-125",
+    "ALI-089"
+  ],
+  "titulo": "[RADIOGRAFIA] Sándwich de pavo: ¿qué capa lleva menos grasa?",
+  "hojas": [
+    {
+      "plantilla": "f_dato",
+      "kicker": "Radiografía del plato",
+      "titulo": "Sándwich de pavo: ¿qué capa lleva menos {grasa}?",
+      "texto": "Sándwich de pavo y queso, a la lupa.",
+      "dato": "Por 100 g de cada uno"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina I",
+      "titulo": "Pechuga de pavo asada",
+      "dato": "grasa",
+      "cifra": "2,1",
+      "unidad": "g",
+      "texto": "La parte que todos miran.",
+      "frase": "Por 100 g de pechuga de pavo asada, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina II",
+      "titulo": "Pan blanco tostado",
+      "dato": "grasa",
+      "cifra": "4,0",
+      "unidad": "g",
+      "texto": "Tostado, callado y por encima del pavo.",
+      "resalte": "Láminas anteriores",
+      "items": [
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "2,1",
+          "unidad": "g"
+        }
+      ],
+      "frase": "Por 100 g de pan blanco tostado, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Lámina III",
+      "titulo": "Queso gouda",
+      "dato": "grasa",
+      "cifra": "27,4",
+      "unidad": "g",
+      "texto": "El que todos esperaban. Y de largo.",
+      "resalte": "Láminas anteriores",
+      "items": [
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "2,1",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Pan blanco tostado",
+          "valor": "4,0",
+          "unidad": "g"
+        }
+      ],
+      "frase": "Por 100 g de queso gouda, no del plato."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "La lámina completa",
+      "titulo": "Por 100 g, el pan blanco tostado lleva casi el doble de grasa que la pechuga de pavo asada.",
+      "texto": "Por 100 g de cada ingrediente. Sin sumar.",
+      "items": [
+        {
+          "nombre": "Pechuga de pavo asada",
+          "valor": "2,1",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Pan blanco tostado",
+          "valor": "4,0",
+          "unidad": "g"
+        },
+        {
+          "nombre": "Queso gouda",
+          "valor": "27,4",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y es la misma grasa en los tres?",
+      "resalte": "El dato",
+      "fuente": "Composición por 100 g. No es una recomendación personal.",
+      "texto": "Es la grasa total; la proporción de cada tipo cambia de un alimento a otro."
+    },
+    {
+      "plantilla": "f_frase",
+      "texto": "Mándaselo a quien come sándwich frente al ordenador.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "dato": "El martes en el Aula: un duelo de zinc con cheddar."
+    }
+  ],
+  "pie_instagram": "Sándwich de pavo: ¿qué capa lleva menos grasa?\n\nGrasa por cada 100 g de cada ingrediente: queso gouda, 27,4 g; pan blanco tostado, 4,0 g; pechuga de pavo asada, 2,1 g.\nSon cifras por 100 g de cada ingrediente, no del plato entero: no se suman.\nPor 100 g, el pan blanco tostado lleva casi el doble de grasa que la pechuga de pavo asada.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato: Es la grasa total; la proporción de cada tipo cambia de un alimento a otro.\n\n¿Habías apostado por el pan?\nMándaselo a quien come sándwich frente al ordenador. El martes en el Aula: un duelo de zinc con cheddar.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #sandwich #aulavivax #nutricion",
+  "alt": [
+    "Portada en blanco y oliva: sándwich de pavo y queso visto desde arriba, dibujado en línea fina con sus ingredientes, y una lupa sobre uno de ellos. Radiografía del plato. Sándwich de pavo: ¿qué capa lleva menos grasa? Sándwich de pavo y queso, a la lupa. Por 100 g de cada uno.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre pechuga de pavo asada dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina I. Pechuga de pavo asada. 2,1 g. La parte que todos miran. grasa. Por 100 g de pechuga de pavo asada, no del plato.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre pan blanco tostado dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina II. Pan blanco tostado. 4,0 g. Tostado, callado y por encima del pavo. grasa. Pechuga de pavo asada 2,1 g. Láminas anteriores. Por 100 g de pan blanco tostado, no del plato.",
+    "Lámina en blanco, negro y oliva: una lupa grande sobre queso gouda dibujado en línea fina y, arriba, el plato pequeño con su sitio marcado. Una línea de llamada lleva a la cifra. Lámina III. Queso gouda. 27,4 g. El que todos esperaban. Y de largo. grasa. Pechuga de pavo asada 2,1 g. Pan blanco tostado 4,0 g. Láminas anteriores. Por 100 g de queso gouda, no del plato.",
+    "Lámina completa en oliva: el plato con una flecha a cada ingrediente, su nombre y su cifra. La lámina completa. Por 100 g, el pan blanco tostado lleva casi el doble de grasa que la pechuga de pavo asada. Por 100 g de cada ingrediente. Sin sumar. Pechuga de pavo asada 2,1 g. Pan blanco tostado 4,0 g. Queso gouda 27,4 g.",
+    "Hoja en blanco y oliva profundo con el ingrediente dentro de una lupa en línea blanca. ¿Y es la misma grasa en los tres? Es la grasa total; la proporción de cada tipo cambia de un alimento a otro. El dato.",
+    "Cierre en oliva con la firma de Vivax y el plato pequeño. Mándaselo a quien come sándwich frente al ordenador. El martes en el Aula: un duelo de zinc con cheddar."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "serie": "Aula Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "car_radiografia",
+    "formato": "RADIOGRAFIA",
+    "lote": "lux-2026-11",
+    "hora": "10:30",
+    "nota": "Plantilla car_radiografia (tpl_car_radiografia_lux).",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "familia": "car_plato",
+    "mecanica": "car_plato",
+    "spec_id": "n1-lux-20261115-1030-sandwich-pan-pavo-grasa",
+    "frente": "publico",
+    "orden": "ascendente",
+    "spec": "n1-lux-20261115-1030-sandwich-pan-pavo-grasa",
+    "plantilla_visual": "car_radiografia",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, grasa por 100 g de cada ingrediente (no del sándwich entero; no se suman): pechuga de pavo asada, 2,1 g (ALI-115); pan blanco tostado, 4,0 g (ALI-106); queso gouda, 27,4 g (ALI-125). Cálculo de la lectura: 4,0 / 2,1 = 1,9 («casi el doble»). El hecho final es el matiz de ALI-089: es grasa total y la proporción de cada tipo cambia de un alimento a otro. La grasa no tiene declaración de salud autorizada (guía 20): la conclusión es un hecho del banco."
+}

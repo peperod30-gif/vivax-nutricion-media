@@ -1,0 +1,79 @@
+{
+  "id": "n1-lx-20261118-ticket-1630-folato-ticket-lentejas",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-ticket",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-052",
+    "VIT-042",
+    "VIT-041"
+  ],
+  "titulo": "[TICKET] El total del folato se come con cuchara.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "franja": "La cifra de la tarde",
+      "titulo": "El total del {folato} se come con cuchara.",
+      "kicker": "Folato por 100 g",
+      "unidad": "µg",
+      "filas": [
+        {
+          "nombre": "Perejil fresco",
+          "valor": "152"
+        },
+        {
+          "nombre": "Coliflor cruda",
+          "valor": "57"
+        },
+        {
+          "nombre": "Lentejas cocidas",
+          "valor": "181"
+        },
+        {
+          "nombre": "Avellanas crudas",
+          "valor": "113"
+        }
+      ],
+      "respuesta": "Total*",
+      "etiqueta_si": "Pagado",
+      "fuentes": [
+        "*Aquí no se suma: se cobra la línea más alta."
+      ],
+      "resalte": "Para qué sirve",
+      "titular": "¿Y para qué sirve el {folato}?",
+      "vit": "VIT-041",
+      "frase": "Los folatos contribuyen a la formación normal de {células sanguíneas}.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de folato. No es una recomendación personal.",
+      "sigue": "Pásale el ticket a quien siempre repite de lentejas.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "El total del folato se come con cuchara. 🧾\n\nPor cada 100 g, folato: perejil fresco 152 µg, coliflor cruda 57 µg, lentejas cocidas 181 µg y avellanas crudas 113 µg.\nEn el ticket no se suma nada: cada línea es de 100 g de un alimento distinto, así que el total es la línea más alta.\nLas lentejas llevan más de tres veces el folato de la coliflor.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Los folatos contribuyen a la formación normal de células sanguíneas. Es una declaración autorizada en la UE para alimentos que son fuente de folato; no es una recomendación personal.\n\n¿Qué línea esperabas en el total?\nPásale el ticket a quien siempre repite de lentejas. Mañana por la tarde: la cifra de las patatas de bolsa.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#folato #lentejas #legumbres #nutricion",
+  "alt": [
+    "Imagen en verde oliva con un ticket de caja de papel blanco, de bordes dentados, dibujado en línea fina negra. Debajo, un bloque en oliva oscuro. En lo alto del ticket, la firma Vivax Nutrición. La cifra de la tarde. El total del folato se come con cuchara. Folato por 100 g; cifras en µg. Líneas en orden de caja, cada una con una barra proporcional: Perejil fresco 152 µg; Coliflor cruda 57 µg; Lentejas cocidas 181 µg; Avellanas crudas 113 µg. Total*: Lentejas cocidas, 181 µg, junto a un dibujo en línea de lentejas cocidas y un sello que dice Pagado. *Aquí no se suma: se cobra la línea más alta. Para qué sirve. ¿Y para qué sirve el folato? Los folatos contribuyen a la formación normal de células sanguíneas. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de folato. No es una recomendación personal. Pásale el ticket a quien siempre repite de lentejas. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-18",
+    "serie": "La cifra de la tarde",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "img_ticket",
+    "formato": "TICKET",
+    "lote": "lux-2026-11",
+    "hora": "16:30",
+    "nota": "plantilla img_ticket (tpl_img_ticket_lux.py)",
+    "pilar_plan": "Vitaminas",
+    "mecanica": "img_ranking",
+    "familia": "img_ranking",
+    "spec_id": "n1-lux-20261118-1630-folato-ticket-lentejas",
+    "frente": "publico",
+    "spec": "n1-lux-20261118-1630-folato-ticket-lentejas",
+    "plantilla_visual": "img_ticket",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, folato por 100 g del alimento en el estado indicado: ALI-052 (lentejas cocidas 181 µg; coliflor cruda 57 µg) y VIT-042 (perejil fresco 152 µg; avellanas crudas 113 µg); descargas oficiales de SR Legacy contrastadas el 11 y el 13-oct-2026. Es la cantidad que hay en el alimento, no la que se absorbe, y 100 g de perejil es mucho más de lo que lleva un plato. En el ticket no se suma nada: el total es la línea más alta. Cálculo propio: 181 entre 57 da 3,18, «más de tres veces». Es una selección: se dejan fuera las espinacas, los garbanzos, las nueces y los cacahuetes (salieron el 12-nov y vuelven el 25-nov), el brócoli y las alubias (van en piezas del 17-nov) y las pipas de girasol, para no repetir pipas tras la cuenta atrás del 17-nov. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-041), para alimentos que son fuente de folato; los cuatro lo son (al menos 30 µg por 100 g, el 15 % del VRN de 200 µg que da el propio VIT-041). No es una recomendación personal."
+}

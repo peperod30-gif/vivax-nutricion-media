@@ -1,0 +1,128 @@
+{
+  "id": "n1-lx-20261117-ruleta-hierro-pipas-chia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel_ruleta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-041",
+    "ALI-008",
+    "VIT-054"
+  ],
+  "titulo": "[RULETA] Cuenta atrás del hierro: el uno, de bolsillo.",
+  "hojas": [
+    {
+      "plantilla": "lx_ruleta",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "Cuenta atrás del {hierro}: el uno, de bolsillo.",
+      "texto": "hierro 100 g",
+      "voz": "Cuenta atrás del hierro: el uno, de bolsillo."
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "brócoli cocido"
+        },
+        {
+          "nombre": "cacahuetes"
+        },
+        {
+          "nombre": "semillas de chía"
+        },
+        {
+          "nombre": "pipas de calabaza"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_ruleta",
+      "izq": "brócoli cocido",
+      "texto": "por 100 g",
+      "cifra": "0,7",
+      "unidad": "mg",
+      "voz": "Cuatro: brócoli. Tres: cacahuetes. Dos: chía."
+    },
+    {
+      "plantilla": "lx_ruleta",
+      "izq": "pipas de calabaza",
+      "texto": "por 100 g",
+      "cifra": "8,8",
+      "unidad": "mg",
+      "voz": "Y el uno: pipas, ocho coma ocho. ¿Para qué sirve?"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Hierro por 100 g",
+      "items": [
+        {
+          "nombre": "pipas de calabaza",
+          "valor": "8,8",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "semillas de chía",
+          "valor": "7,7",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "cacahuetes",
+          "valor": "4,6",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "brócoli cocido",
+          "valor": "0,7",
+          "unidad": "mg"
+        }
+      ],
+      "texto": "Miligramos de hierro por 100 g, de menos a más."
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "titulo": "¿Y para qué sirve el {hierro}?",
+      "vit": "VIT-054",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "voz": "El hierro contribuye al transporte normal de oxígeno en el cuerpo."
+    },
+    {
+      "plantilla": "f_frase",
+      "voz": "Mándaselo a quien lleva pipas en el abrigo.",
+      "titular": "Mándaselo a quien lleva pipas en el abrigo.",
+      "texto": "Mañana por la mañana: una concha que rompe la cuenta atrás."
+    }
+  ],
+  "pie_instagram": "Cuenta atrás del {hierro}: el uno, de bolsillo.\n\nHierro por cada 100 g: pipas de calabaza 8,8 mg, semillas de chía 7,7 mg, cacahuetes 4,6 mg y brócoli cocido 0,7 mg.\nMiligramos de hierro por 100 g, de menos a más.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿Por cuál habías apostado?\nMándaselo a quien lleva pipas en el abrigo.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #semillas #minerales #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva. Una ruleta como una esfera de reloj, con 4 alimentos grabados en el borde y dibujados en línea. Cuenta atrás de la mañana. Cuenta atrás del hierro: el uno, de bolsillo. hierro 100 g. En la ruleta: brócoli cocido. cacahuetes. semillas de chía. pipas de calabaza. La ruleta gira y para en brócoli cocido. 0,7 mg. por 100 g. Otra vuelta: frena despacio, se arrastra por brócoli cocido y pasa a pipas de calabaza. 8,8 mg. por 100 g. El orden completo. Hierro por 100 g. Miligramos de hierro por 100 g, de menos a más. pipas de calabaza 8,8 mg. semillas de chía 7,7 mg. cacahuetes 4,6 mg. brócoli cocido 0,7 mg. ¿Y para qué sirve el hierro? Para qué sirve. El hierro contribuye al transporte normal de oxígeno en el cuerpo. Cierre con la firma de Vivax. Mándaselo a quien lleva pipas en el abrigo. Mañana por la mañana: una concha que rompe la cuenta atrás."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_ruleta",
+    "formato": "RULETA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_ruleta (spec n1-lux-20261117-0830-hierro-pipas-chia)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Minerales",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261117-0830-hierro-pipas-chia",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261117-0830-hierro-pipas-chia",
+    "plantilla_visual": "reel_ruleta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, hierro por 100 g del alimento en el estado indicado: ALI-041 (brócoli cocido 0,7 mg) y ALI-008 (cacahuetes 4,6 mg; semillas de chía 7,7 mg; pipas de calabaza 8,8 mg); descarga oficial de SR Legacy contrastada el 11-oct-2026. Es la cantidad que hay en el alimento, no la que se absorbe. Es una selección: ALI-008 trae también el chocolate negro 70-85 % (12 mg) y las aceitunas en conserva (6,3 mg), que salieron el 6-nov en el menú de la pizarra, y los mejillones cocidos (6,7 mg), que van en el duelo de la una. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-054), para alimentos que son fuente de hierro (al menos 2,1 mg por 100 g, el 15 % del VRN de 14 mg): las pipas, la chía y los cacahuetes lo son; el brócoli cocido no, así que la frase se dice del hierro y nunca del brócoli. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

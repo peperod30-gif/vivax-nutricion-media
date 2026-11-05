@@ -1,0 +1,1150 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 21.61,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.71,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.867,
+ "n_cambios_visuales": 158,
+ "bucle_dif_ultimo_primero": 115.67,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Plátano o almendras: cuál lleva más",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    853,
+    524
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "magnesio",
+   "contando": false,
+   "r": [
+    600,
+    410,
+    906,
+    524
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    906,
+    410,
+    947,
+    524
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    697,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "almendras",
+   "contando": false,
+   "r": [
+    392,
+    1088,
+    697,
+    1194
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    484,
+    1189,
+    564,
+    1403
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    565,
+    1305,
+    614,
+    1357
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "¿Plátano o almendras: cuál lleva más",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    853,
+    524
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "magnesio",
+   "contando": false,
+   "r": [
+    600,
+    410,
+    906,
+    524
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    906,
+    410,
+    947,
+    524
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    697,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "almendras",
+   "contando": false,
+   "r": [
+    392,
+    1088,
+    697,
+    1194
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    484,
+    1189,
+    564,
+    1403
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    565,
+    1305,
+    614,
+    1357
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    658,
+    759,
+    773,
+    856
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "¿Plátano o almendras: cuál lleva más",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    853,
+    524
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "magnesio",
+   "contando": false,
+   "r": [
+    600,
+    410,
+    906,
+    524
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    906,
+    410,
+    947,
+    524
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    257,
+    649,
+    377,
+    671
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    711,
+    649,
+    829,
+    671
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    432,
+    1094,
+    650,
+    1189
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "27",
+   "contando": false,
+   "r": [
+    446,
+    1189,
+    584,
+    1401
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    589,
+    1307,
+    636,
+    1358
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    663,
+    756,
+    777,
+    876
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "¿Plátano o almendras: cuál lleva más",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    853,
+    524
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "magnesio",
+   "contando": false,
+   "r": [
+    600,
+    410,
+    906,
+    524
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    906,
+    410,
+    947,
+    524
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    697,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "almendras",
+   "contando": false,
+   "r": [
+    392,
+    1088,
+    697,
+    1194
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "270",
+   "contando": false,
+   "r": [
+    410,
+    1186,
+    638,
+    1405
+   ]
+  },
+  {
+   "t": 9.733,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    639,
+    1302,
+    688,
+    1355
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "¿Plátano o almendras: cuál lleva más",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    853,
+    524
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "magnesio",
+   "contando": false,
+   "r": [
+    600,
+    410,
+    906,
+    524
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    906,
+    410,
+    947,
+    524
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    870,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    695,
+    1031,
+    827,
+    1091
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "27",
+   "contando": false,
+   "r": [
+    700,
+    1088,
+    786,
+    1218
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    786,
+    1161,
+    815,
+    1193
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    414,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "almendras",
+   "contando": false,
+   "r": [
+    229,
+    1030,
+    411,
+    1092
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "270",
+   "contando": false,
+   "r": [
+    239,
+    1088,
+    375,
+    1219
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    376,
+    1158,
+    405,
+    1190
+   ]
+  },
+  {
+   "t": 13.267,
+   "texto": "Por cada 100 g, diez veces más magnesio en las almendras.",
+   "contando": false,
+   "r": [
+    261,
+    1313,
+    785,
+    1421
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "¿Y para qué sirve el magnesio?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    799,
+    553
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    870,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    695,
+    1031,
+    827,
+    1091
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "27",
+   "contando": false,
+   "r": [
+    700,
+    1088,
+    786,
+    1218
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    786,
+    1161,
+    815,
+    1193
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    414,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "almendras",
+   "contando": false,
+   "r": [
+    229,
+    1030,
+    411,
+    1092
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "270",
+   "contando": false,
+   "r": [
+    239,
+    1088,
+    375,
+    1219
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    376,
+    1158,
+    405,
+    1190
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Por cada 100 g, diez veces más magnesio en las almendras.",
+   "contando": false,
+   "r": [
+    261,
+    1313,
+    785,
+    1421
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "¿Y para qué sirve el magnesio?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    799,
+    553
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "Magnesio",
+   "contando": false,
+   "r": [
+    174,
+    672,
+    339,
+    702
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    735,
+    195,
+    894
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "magnesio",
+   "contando": false,
+   "r": [
+    220,
+    735,
+    679,
+    894
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    620,
+    1008
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    964,
+    151,
+    1123
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    177,
+    964,
+    267,
+    1123
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "síntesis",
+   "contando": false,
+   "r": [
+    292,
+    964,
+    643,
+    1123
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "proteica",
+   "contando": false,
+   "r": [
+    96,
+    1078,
+    493,
+    1237
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    519,
+    1078,
+    887,
+    1237
+   ]
+  },
+  {
+   "t": 18.3,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1437,
+    928,
+    1487
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    635,
+    533,
+    776
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    556,
+    635,
+    607,
+    776
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    630,
+    635,
+    851,
+    776
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    96,
+    738,
+    292,
+    879
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    315,
+    738,
+    624,
+    879
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    174,
+    982
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "gimnasio.",
+   "contando": false,
+   "r": [
+    197,
+    841,
+    585,
+    982
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "Mañana a la una: espinacas contra mejillones, en hierro.",
+   "contando": false,
+   "r": [
+    96,
+    1125,
+    911,
+    1225
+   ]
+  },
+  {
+   "t": 21.533,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.233,
+  6.3,
+  9.733,
+  13.267,
+  14.0,
+  18.3,
+  21.533
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.16,
+  "tiempo_reduccion_mas_1db_pct": 0.01,
+  "efectos_por_tipo": {
+   "sello": 2,
+   "whoosh": 5,
+   "contador": 12,
+   "ding": 2
+  },
+  "descartados": 0,
+  "duracion_s": 21.545,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 324,
+   "lineas": [
+    {
+     "texto": "¿Quién lleva más magnesio? Almendras, a la izquierda: paso. Plátano, a la derecha: me gusta. Pero las almendras vuelven. Doscientos setenta miligramos. El plátano, veintisiete. Diez veces menos. ¿Y para qué sirve el magnesio? El magnesio contribuye a la síntesis proteica normal. Mándaselo a quien lleva plátano al gimnasio.",
+     "hablado": "¿Quién lleva más magnesio? Almendras, a la izquierda: paso. Plátano, a la derecha: me gusta. Pero las almendras vuelven. Doscientos setenta miligramos. El plátano, veintisiete. Diez veces menos. ¿Y para qué sirve el magnesio? El magnesio contribuye a la síntesis proteica normal. Mándaselo a quien lleva plátano al gimnasio.",
+     "t0": 0.0213,
+     "t1": 20.7414
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.74
+  }
+ },
+ "efectos": [
+  {
+   "t": 1.841,
+   "tipo": "sello",
+   "intensidad": 0.32
+  },
+  {
+   "t": 2.511,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.036,
+   "tipo": "sello",
+   "intensidad": 0.36
+  },
+  {
+   "t": 6.586,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 9.281,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 10.081,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 14.246,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 18.535999999999998,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 19.336,
+   "tipo": "ding",
+   "intensidad": 0.28
+  },
+  {
+   "t": 7.831,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.951,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.071,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.191,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.311,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.431,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.551,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.671,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.791,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.911,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 9.031,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 9.151,
+   "tipo": "contador",
+   "intensidad": 0.16
+  }
+ ],
+ "fotogramas": 647,
+ "tiempo_render_s": 56.2,
+ "tiempos_s": {
+  "preparar": 1.56,
+  "dibujar_y_codificar": 50.64
+ },
+ "voz_de_prueba": false
+}

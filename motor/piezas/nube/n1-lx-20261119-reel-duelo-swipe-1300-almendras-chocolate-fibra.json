@@ -1,0 +1,87 @@
+{
+  "id": "n1-lx-20261119-reel-duelo-swipe-1300-almendras-chocolate-fibra",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-138"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Más fibra: chocolate con leche o almendras?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Más {fibra}: chocolate con leche o almendras?",
+      "voz": "¿Más fibra: chocolate con leche o almendras? A las almendras, paso. Al chocolate, me gusta. Pero las almendras vuelven. Doce coma cinco gramos de fibra. El chocolate, tres coma cuatro. ¿Cuántas veces más fibra? Más del triple, por cada cien gramos. Mándaselo a quien pide almendras y acaba en chocolate."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "almendras",
+      "texto": "Por 100 g",
+      "dato": "Fibra",
+      "etiqueta_no": "Paso",
+      "cifra": "12,5",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "chocolate con leche",
+      "texto": "Por 100 g",
+      "dato": "Fibra",
+      "etiqueta_si": "Me gusta",
+      "cifra": "3,4",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g. Las almendras, tal cual: más del triple de fibra."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Cuántas veces más fibra?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato que importa",
+      "frase": "Por cada 100 g, las almendras llevan 12,5 g de fibra y el chocolate con leche, 3,4 g: más del triple."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien pide almendras y acaba en chocolate.",
+      "texto": "Mañana a la una: la tostada contra la pizza, en sodio."
+    }
+  ],
+  "pie_instagram": "¿Más fibra: chocolate con leche o almendras?\n\nPor 100 g: almendras, 12,5 g de fibra; chocolate con leche, 3,4 g.\nPor cada 100 g. Las almendras, tal cual: más del triple de fibra.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, las almendras llevan 12,5 g de fibra y el chocolate con leche, 3,4 g: más del triple.\n\nMándaselo a quien pide almendras y acaba en chocolate. Mañana a la una: la tostada contra la pizza, en sodio.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #almendras #chocolate #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Más fibra: chocolate con leche o almendras? La tarjeta de almendras (por 100 g, fibra: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de chocolate con leche: 3,4 g de fibra, con el sello «Me gusta». Vuelve almendras y su cifra cuenta hasta 12,5 g. Las dos tarjetas, una junto a otra: almendras, 12,5 g; chocolate con leche, 3,4 g. Por cada 100 g. Las almendras, tal cual: más del triple de fibra. Bloque verde oliva oscuro: ¿Cuántas veces más fibra? El dato que importa: Por cada 100 g, las almendras llevan 12,5 g de fibra y el chocolate con leche, 3,4 g: más del triple. Cierre con la firma Vivax Nutrición: Mándaselo a quien pide almendras y acaba en chocolate. Mañana a la una: la tostada contra la pizza, en sodio."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-19",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261119-1300-almendras-chocolate-fibra",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Fibra e hidratos",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261119-1300-almendras-chocolate-fibra",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261119-1300-almendras-chocolate-fibra",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-138, verificado el 11-oct-2026): fibra por 100 g de almendras, tal cual (12,5 g), y de chocolate con leche (3,4 g). «Más del triple»: cálculo propio (12,5 entre 3,4 da 3,7). La fibra no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

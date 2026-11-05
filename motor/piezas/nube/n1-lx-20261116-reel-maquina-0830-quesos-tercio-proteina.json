@@ -1,0 +1,108 @@
+{
+  "id": "n1-lx-20261116-reel-maquina-0830-quesos-tercio-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-139",
+    "ALI-004",
+    "VIT-059"
+  ],
+  "titulo": "[REEL-MAQUINA] Más de un tercio es proteína. ¿Qué lácteo?",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "Más de un tercio es {proteína}. ¿Qué lácteo?",
+      "texto": "proteína · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "yogur griego natural",
+          "valor": "10,2"
+        },
+        {
+          "nombre": "mozzarella",
+          "valor": "22,2"
+        },
+        {
+          "nombre": "parmesano",
+          "valor": "35,8"
+        },
+        {
+          "nombre": "leche desnatada",
+          "valor": "3,4"
+        }
+      ],
+      "unidad": "g",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Parmesano",
+      "cifra": "35,8",
+      "unidad": "g",
+      "titulo": "¿Y el que más lleva?"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales.",
+      "titulo": "¿Y para qué sirve la proteína?",
+      "vit": "VIT-059",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien ralla parmesano sin medir.",
+      "texto": "Mañana por la mañana: el hierro, en cuenta atrás."
+    }
+  ],
+  "pie_instagram": "Más de un tercio es proteína. ¿Qué lácteo?\n\nPor cada 100 g, de menos a más proteína: leche desnatada 3,4 g, yogur griego natural 10,2 g, mozzarella 22,2 g y parmesano 35,8 g.\nPor cada 100 g, el parmesano lleva 35,8 g de proteína: más de un tercio.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Qué letra habías pulsado?\nMándaselo a quien ralla parmesano sin medir.\nMañana por la mañana: el hierro, en cuenta atrás.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #lacteos #cuentaatras #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 4 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. Cuenta atrás de la mañana. Más de un tercio es proteína. ¿Qué lácteo? Casillas: A, yogur griego natural, 10,2 g; B, mozzarella, 22,2 g; C, parmesano, 35,8 g; D, leche desnatada, 3,4 g. ¿Y el que más lleva? La que más lleva: parmesano, 35,8 g por 100 g. Para qué sirve: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien ralla parmesano sin medir. Mañana por la mañana: el hierro, en cuenta atrás."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-16",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261116-0830-quesos-tercio-proteina",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Proteína y músculo",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 1.341,
+      "max": 9.841,
+      "card": 11.541,
+      "decl": 12.541,
+      "tapa": 13.638,
+      "fin": 16.301,
+      "dur": 19.4667
+    },
+    "spec": "n1-lux-20261116-0830-quesos-tercio-proteina",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, proteína por 100 g: parmesano 35,8 g, mozzarella 22,2 g y yogur griego natural 10,2 g (ALI-004); leche desnatada 3,4 g (ALI-139). Cálculo: 35,8 g de cada 100 g es más de un tercio (33,3 g). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-059), para alimentos que son fuente de proteínas; la frase se dice del nutriente, no de un alimento. Voz sintética (IA). Voz sintética (IA).",
+  "ia": true
+}

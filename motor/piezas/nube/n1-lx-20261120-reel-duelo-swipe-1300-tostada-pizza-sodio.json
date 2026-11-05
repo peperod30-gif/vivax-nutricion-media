@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261120-reel-duelo-swipe-1300-tostada-pizza-sodio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-096",
+    "ALI-046"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Más sodio que la pizza, y es de desayuno.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "Más {sodio} que la pizza, y es de desayuno.",
+      "voz": "Más sodio que la pizza, y es de desayuno. Tostada, paso sin mirar. Pizza, me gusta. Pero la tostada vuelve. Quinientos treinta y siete miligramos. La pizza, cuatrocientos cuarenta y siete. ¿Y las galletas tipo María? Doscientos ochenta y dos miligramos. Mándaselo a quien desayuna tostada y critica la pizza."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "pan blanco tostado",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_no": "Paso",
+      "cifra": "537",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "pizza de queso",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_si": "Me gusta",
+      "cifra": "447",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g. La pizza, de queso y cocinada; el pan, tostado."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y las galletas tipo María?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato que importa",
+      "frase": "Por cada 100 g: galletas tipo María, 282 mg de sodio; pan blanco tostado, 537 mg. Algo más de la mitad."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien desayuna tostada y critica la pizza.",
+      "texto": "Mañana a la una: pistachos contra feta, en proteína."
+    }
+  ],
+  "pie_instagram": "Más sodio que la pizza, y es de desayuno.\n\nPor 100 g: pan blanco tostado, 537 mg de sodio; pizza de queso, 447 mg.\nPor cada 100 g. La pizza, de queso y cocinada; el pan, tostado.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: galletas tipo María, 282 mg de sodio; pan blanco tostado, 537 mg. Algo más de la mitad.\n\nMándaselo a quien desayuna tostada y critica la pizza. Mañana a la una: pistachos contra feta, en proteína.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sodio #sal #desayuno #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. Más sodio que la pizza, y es de desayuno. La tarjeta de pan blanco tostado (por 100 g, sodio: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de pizza de queso: 447 mg de sodio, con el sello «Me gusta». Vuelve pan blanco tostado y su cifra cuenta hasta 537 mg. Las dos tarjetas, una junto a otra: pan blanco tostado, 537 mg; pizza de queso, 447 mg. Por cada 100 g. La pizza, de queso y cocinada; el pan, tostado. Bloque verde oliva oscuro: ¿Y las galletas tipo María? El dato que importa: Por cada 100 g: galletas tipo María, 282 mg de sodio; pan blanco tostado, 537 mg. Algo más de la mitad. Cierre con la firma Vivax Nutrición: Mándaselo a quien desayuna tostada y critica la pizza. Mañana a la una: pistachos contra feta, en proteína."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-20",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261120-1300-tostada-pizza-sodio",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Azúcar y sal",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261120-1300-tostada-pizza-sodio",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261120-1300-tostada-pizza-sodio",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026): sodio por 100 g de pan blanco tostado (537 mg) y de galletas tipo maría (282 mg) (ALI-096), y de pizza de queso, cocinada (447 mg) (ALI-046). «Algo más de la mitad»: cálculo propio (282 entre 537 da 0,53). El sodio no es lo mismo que la sal. El sodio no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

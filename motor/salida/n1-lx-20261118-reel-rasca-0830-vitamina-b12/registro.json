@@ -1,0 +1,910 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 17.54,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.96,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.78,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.833,
+ "n_cambios_visuales": 224,
+ "bucle_dif_ultimo_primero": 57.1,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    619,
+    396
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    220,
+    483
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ": casi cien microgramos, y viene con concha.",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    666,
+    593
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    813,
+    457,
+    915,
+    518
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    694,
+    599,
+    726
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    822,
+    599,
+    854
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    950,
+    599,
+    982
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "SORPRESA",
+   "contando": false,
+   "r": [
+    415,
+    1219,
+    665,
+    1262
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    619,
+    396
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    220,
+    483
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": ": casi cien microgramos, y viene con concha.",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    666,
+    593
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    813,
+    457,
+    915,
+    518
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Huevo cocido",
+   "contando": false,
+   "r": [
+    258,
+    685,
+    512,
+    734
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "1,1",
+   "contando": false,
+   "r": [
+    829,
+    666,
+    891,
+    754
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    897,
+    701,
+    928,
+    742
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Sardinas en aceite, escurridas",
+   "contando": false,
+   "r": [
+    258,
+    796,
+    630,
+    879
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "8,9",
+   "contando": false,
+   "r": [
+    815,
+    794,
+    891,
+    882
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    897,
+    829,
+    928,
+    870
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Caballa cocinada",
+   "contando": false,
+   "r": [
+    258,
+    941,
+    595,
+    990
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "19,0",
+   "contando": false,
+   "r": [
+    786,
+    922,
+    891,
+    1010
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    897,
+    957,
+    928,
+    998
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "SORPRESA",
+   "contando": false,
+   "r": [
+    415,
+    1219,
+    665,
+    1262
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    619,
+    396
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    220,
+    483
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": ": casi cien microgramos, y viene con concha.",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    666,
+    593
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    813,
+    457,
+    915,
+    518
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Huevo cocido",
+   "contando": false,
+   "r": [
+    258,
+    685,
+    512,
+    734
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "1,1",
+   "contando": false,
+   "r": [
+    829,
+    666,
+    891,
+    754
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    897,
+    701,
+    928,
+    742
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Sardinas en aceite, escurridas",
+   "contando": false,
+   "r": [
+    258,
+    796,
+    630,
+    879
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "8,9",
+   "contando": false,
+   "r": [
+    815,
+    794,
+    891,
+    882
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    897,
+    829,
+    928,
+    870
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Caballa cocinada",
+   "contando": false,
+   "r": [
+    258,
+    941,
+    595,
+    990
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "19,0",
+   "contando": false,
+   "r": [
+    786,
+    922,
+    891,
+    1010
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    897,
+    957,
+    928,
+    998
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "Almejas cocidas",
+   "contando": false,
+   "r": [
+    468,
+    1073,
+    867,
+    1134
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "98,9",
+   "contando": false,
+   "r": [
+    462,
+    1159,
+    721,
+    1383
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "µg",
+   "contando": false,
+   "r": [
+    726,
+    1274,
+    778,
+    1342
+   ]
+  },
+  {
+   "t": 9.767,
+   "texto": "de vitamina B12",
+   "contando": false,
+   "r": [
+    468,
+    1343,
+    694,
+    1392
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    214,
+    378,
+    473,
+    408
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "¿Y para qué sirve la",
+   "contando": false,
+   "r": [
+    136,
+    417,
+    625,
+    500
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    625,
+    417,
+    711,
+    500
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    711,
+    417,
+    741,
+    500
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "La vitamina B12 ayuda a disminuir el cansancio y la fatiga.",
+   "contando": false,
+   "r": [
+    144,
+    686,
+    935,
+    969
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    198,
+    1176,
+    227,
+    1192
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    163,
+    1188,
+    259,
+    1246
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    163,
+    1242,
+    261,
+    1258
+   ]
+  },
+  {
+   "t": 14.133,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    136,
+    1353,
+    627,
+    1428
+   ]
+  },
+  {
+   "t": 15.767,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    518,
+    656,
+    548
+   ]
+  },
+  {
+   "t": 15.767,
+   "texto": "Mándaselo a quien moja pan en las almejas.",
+   "contando": false,
+   "r": [
+    96,
+    831,
+    846,
+    997
+   ]
+  },
+  {
+   "t": 17.467,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    518,
+    656,
+    548
+   ]
+  },
+  {
+   "t": 17.467,
+   "texto": "Mándaselo a quien moja pan en las almejas.",
+   "contando": false,
+   "r": [
+    96,
+    831,
+    846,
+    997
+   ]
+  },
+  {
+   "t": 17.467,
+   "texto": "Mañana por la mañana: cuatro frutas y sus hidratos.",
+   "contando": false,
+   "r": [
+    96,
+    1213,
+    705,
+    1254
+   ]
+  },
+  {
+   "t": 17.467,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1349,
+    282,
+    1392
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  6.767,
+  9.767,
+  14.133,
+  15.767,
+  17.467
+ ],
+ "sonido": {
+  "lufs": -16.0,
+  "pico_dbtp": -2.71,
+  "recortes": 0,
+  "reduccion_max_db": 0.0,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "tic": 4,
+   "subida": 1,
+   "ding": 1,
+   "whoosh": 2,
+   "sello": 1
+  },
+  "descartados": 0,
+  "duracion_s": 17.479,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "texto": "Be doce: casi cien, y viene con concha. Cuatro: huevo. Tres: sardinas. Dos: caballa. Y el uno, almejas: noventa y ocho coma nueve. ¿Para qué sirve? La vitamina be doce ayuda a disminuir el cansancio y la fatiga. Mándaselo a quien moja pan en las almejas.",
+   "caracteres": 254,
+   "lineas": [
+    {
+     "texto": "Be doce:",
+     "t0": 0.0213,
+     "t1": 0.7013
+    },
+    {
+     "texto": "casi cien,",
+     "t0": 0.9213,
+     "t1": 1.5963
+    },
+    {
+     "texto": "y viene con concha.",
+     "t0": 1.8163,
+     "t1": 2.8163
+    },
+    {
+     "texto": "Cuatro:",
+     "t0": 2.8663,
+     "t1": 3.3113
+    },
+    {
+     "texto": "huevo.",
+     "t0": 3.3913,
+     "t1": 3.8598
+    },
+    {
+     "texto": "Tres:",
+     "t0": 3.9668,
+     "t1": 4.4633
+    },
+    {
+     "texto": "sardinas.",
+     "t0": 4.5133,
+     "t1": 5.3683
+    },
+    {
+     "texto": "Dos:",
+     "t0": 5.5683,
+     "t1": 5.9233
+    },
+    {
+     "texto": "caballa.",
+     "t0": 6.0033,
+     "t1": 6.5283
+    },
+    {
+     "texto": "Y el uno,",
+     "t0": 6.5783,
+     "t1": 7.0983
+    },
+    {
+     "texto": "almejas:",
+     "t0": 7.3533,
+     "t1": 8.1332
+    },
+    {
+     "texto": "noventa y ocho coma nueve.",
+     "t0": 8.2132,
+     "t1": 9.5282
+    },
+    {
+     "texto": "¿Para qué sirve?",
+     "t0": 9.5813,
+     "t1": 10.2763
+    },
+    {
+     "texto": "La vitamina be doce ayuda a disminuir el cansancio y la fatiga.",
+     "t0": 10.9433,
+     "t1": 14.4533
+    },
+    {
+     "texto": "Mándaselo a quien moja pan en las almejas.",
+     "t0": 14.5033,
+     "t1": 16.8933
+    }
+   ]
+  },
+  "rascado": {
+   "motor": "propio (ruido filtrado con grano)",
+   "lufs_relativo_voz_db": -14
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 0.9
+  }
+ },
+ "efectos": [
+  {
+   "t": 3.9313,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 5.0533,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.563300000000001,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 8.6632,
+   "tipo": "subida",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.2632,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 9.8133,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 12.3133,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 14.1733,
+   "tipo": "whoosh",
+   "intensidad": 0.26
+  },
+  {
+   "t": 15.0733,
+   "tipo": "sello",
+   "intensidad": 0.3
+  }
+ ],
+ "fotogramas": 525,
+ "tiempo_render_s": 64.3,
+ "tiempos_s": {
+  "preparar": 1.67,
+  "dibujar_y_codificar": 59.08
+ },
+ "voz_de_prueba": false
+}

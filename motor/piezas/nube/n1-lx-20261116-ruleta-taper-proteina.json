@@ -1,0 +1,130 @@
+{
+  "id": "n1-lx-20261116-ruleta-taper-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel_ruleta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-109",
+    "ALI-083",
+    "ALI-111",
+    "ALI-036",
+    "VIT-059"
+  ],
+  "titulo": "[RULETA] ¿Dónde para la proteína de tu táper?",
+  "hojas": [
+    {
+      "plantilla": "lx_ruleta",
+      "kicker": "El quiz de la noche",
+      "titulo": "¿Dónde para la {proteína} de tu táper?",
+      "texto": "proteína 100 g",
+      "voz": "¿Dónde para la proteína de tu táper?"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "arroz blanco cocido"
+        },
+        {
+          "nombre": "cuscús cocido"
+        },
+        {
+          "nombre": "pasta cocida"
+        },
+        {
+          "nombre": "lentejas cocidas"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_ruleta",
+      "izq": "arroz blanco cocido",
+      "texto": "por 100 g",
+      "cifra": "2,7",
+      "unidad": "g",
+      "voz": "Para en arroz: dos coma siete. Otra vuelta más."
+    },
+    {
+      "plantilla": "lx_ruleta",
+      "izq": "lentejas cocidas",
+      "texto": "por 100 g",
+      "cifra": "9,0",
+      "unidad": "g",
+      "voz": "Cae en lentejas: nueve coma cero."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Proteína por 100 g",
+      "items": [
+        {
+          "nombre": "lentejas cocidas",
+          "valor": "9,0",
+          "unidad": "g"
+        },
+        {
+          "nombre": "pasta cocida",
+          "valor": "5,8",
+          "unidad": "g"
+        },
+        {
+          "nombre": "cuscús cocido",
+          "valor": "3,8",
+          "unidad": "g"
+        },
+        {
+          "nombre": "arroz blanco cocido",
+          "valor": "2,7",
+          "unidad": "g"
+        }
+      ],
+      "texto": "Del arroz a las lentejas, por cada 100 g cocinados."
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "Las proteínas contribuyen a que aumente la masa muscular.",
+      "titulo": "¿Y para qué sirve la proteína?",
+      "vit": "VIT-059",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "voz": "Las proteínas contribuyen a que aumente la masa muscular."
+    },
+    {
+      "plantilla": "f_frase",
+      "voz": "Mándaselo a tu compañero de táper.",
+      "titular": "Mándaselo a tu compañero de táper.",
+      "texto": "Mañana por la noche: la riboflavina, a verdadero o falso."
+    }
+  ],
+  "pie_instagram": "¿Dónde para la {proteína} de tu táper?\n\nProteína por cada 100 g: lentejas cocidas 9,0 g, pasta cocida 5,8 g, cuscús cocido 3,8 g y arroz blanco cocido 2,7 g.\nDel arroz a las lentejas, por cada 100 g cocinados.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a que aumente la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Dónde habías apostado?\nMándaselo a tu compañero de táper.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #taper #quizdelanoche #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva. Una ruleta como una esfera de reloj, con 4 alimentos grabados en el borde y dibujados en línea. El quiz de la noche. ¿Dónde para la proteína de tu táper? proteína 100 g. En la ruleta: arroz blanco cocido. cuscús cocido. pasta cocida. lentejas cocidas. La ruleta gira y para en arroz blanco cocido. 2,7 g. por 100 g. Otra vuelta: frena despacio, se arrastra por arroz blanco cocido y pasa a lentejas cocidas. 9,0 g. por 100 g. El orden completo. Proteína por 100 g. Del arroz a las lentejas, por cada 100 g cocinados. lentejas cocidas 9,0 g. pasta cocida 5,8 g. cuscús cocido 3,8 g. arroz blanco cocido 2,7 g. ¿Y para qué sirve la proteína? Para qué sirve. Las proteínas contribuyen a que aumente la masa muscular. Cierre con la firma de Vivax. Mándaselo a tu compañero de táper. Mañana por la noche: la riboflavina, a verdadero o falso."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-16",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_ruleta",
+    "formato": "RULETA",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_ruleta (spec n1-lux-20261116-2100-ruleta-taper-proteina)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Proteína y músculo",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261116-2100-ruleta-taper-proteina",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261116-2100-ruleta-taper-proteina",
+    "plantilla_visual": "reel_ruleta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, proteína por 100 g: arroz blanco cocido, 2,7 g (ALI-109); cuscús cocido, 3,8 g (ALI-083); pasta cocida, 5,8 g (ALI-111); lentejas cocidas, 9,0 g (ALI-036). Los cuatro, cocinados; es proteína por 100 g del alimento, no por ración. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-059), para alimentos que son fuente de proteínas; la frase se dice del nutriente, no de un alimento. Voz sintética (IA). Voz sintética (IA).",
+  "ia": true
+}
