@@ -1,0 +1,1735 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 23.04,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.3,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.634,
+ "n_cambios_visuales": 330,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Sal",
+   "contando": false,
+   "r": [
+    96,
+    360,
+    272,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    301,
+    360,
+    369,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sodio:",
+   "contando": false,
+   "r": [
+    398,
+    360,
+    723,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    752,
+    360,
+    914,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "separa",
+   "contando": false,
+   "r": [
+    96,
+    504,
+    450,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    480,
+    504,
+    626,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "2,5",
+   "contando": false,
+   "r": [
+    655,
+    504,
+    812,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    1144,
+    192,
+    1273
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    212,
+    1144,
+    341,
+    1273
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    362,
+    1144,
+    579,
+    1273
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    160,
+    456
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "etiqueta",
+   "contando": false,
+   "r": [
+    178,
+    386,
+    439,
+    456
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "declara",
+   "contando": false,
+   "r": [
+    457,
+    386,
+    688,
+    456
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "sal",
+   "contando": false,
+   "r": [
+    706,
+    386,
+    801,
+    456
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    190,
+    624
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "sal",
+   "contando": false,
+   "r": [
+    210,
+    499,
+    317,
+    624
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    337,
+    499,
+    416,
+    624
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    436,
+    499,
+    535,
+    624
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "equivalente",
+   "contando": false,
+   "r": [
+    96,
+    594,
+    501,
+    719
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "calculado",
+   "contando": false,
+   "r": [
+    521,
+    594,
+    895,
+    719
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    689,
+    140,
+    814
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "partir",
+   "contando": false,
+   "r": [
+    160,
+    689,
+    382,
+    814
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    402,
+    689,
+    523,
+    814
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "sodio.",
+   "contando": false,
+   "r": [
+    543,
+    689,
+    764,
+    814
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    90,
+    1093,
+    206,
+    1459
+   ]
+  },
+  {
+   "t": 5.667,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "Sal",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    191,
+    456
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "=",
+   "contando": false,
+   "r": [
+    209,
+    386,
+    241,
+    456
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    259,
+    386,
+    419,
+    456
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "×",
+   "contando": false,
+   "r": [
+    437,
+    386,
+    468,
+    456
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "2,5",
+   "contando": false,
+   "r": [
+    486,
+    386,
+    561,
+    456
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "Si",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    169,
+    624
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    189,
+    499,
+    345,
+    624
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "ves",
+   "contando": false,
+   "r": [
+    365,
+    499,
+    485,
+    624
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    505,
+    499,
+    576,
+    624
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "sodio,",
+   "contando": false,
+   "r": [
+    596,
+    499,
+    793,
+    624
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "multiplícalo",
+   "contando": false,
+   "r": [
+    96,
+    594,
+    562,
+    719
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    582,
+    594,
+    716,
+    719
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "2,5.",
+   "contando": false,
+   "r": [
+    736,
+    594,
+    858,
+    719
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    90,
+    1093,
+    275,
+    1459
+   ]
+  },
+  {
+   "t": 8.6,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1029,
+    117,
+    1090
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    390,
+    1029,
+    423,
+    1090
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    684,
+    1029,
+    729,
+    1090
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "Ejemplo:",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    342,
+    456
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "jamón",
+   "contando": false,
+   "r": [
+    360,
+    386,
+    536,
+    456
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "cocido",
+   "contando": false,
+   "r": [
+    554,
+    386,
+    750,
+    456
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "814 mg",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    369,
+    624
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    389,
+    499,
+    482,
+    624
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    502,
+    499,
+    705,
+    624
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    725,
+    499,
+    859,
+    624
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "100 g:",
+   "contando": false,
+   "r": [
+    96,
+    594,
+    322,
+    719
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "unos",
+   "contando": false,
+   "r": [
+    342,
+    594,
+    523,
+    719
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "dos",
+   "contando": false,
+   "r": [
+    543,
+    594,
+    675,
+    719
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    96,
+    689,
+    361,
+    814
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    382,
+    689,
+    475,
+    814
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "sal.",
+   "contando": false,
+   "r": [
+    495,
+    689,
+    619,
+    814
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    90,
+    1093,
+    343,
+    1459
+   ]
+  },
+  {
+   "t": 13.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    378,
+    193,
+    507
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "fórmula,",
+   "contando": false,
+   "r": [
+    213,
+    378,
+    549,
+    507
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    569,
+    378,
+    663,
+    507
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    96,
+    475,
+    243,
+    604
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "línea",
+   "contando": false,
+   "r": [
+    263,
+    475,
+    457,
+    604
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "La regla",
+   "contando": false,
+   "r": [
+    174,
+    690,
+    326,
+    720
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    735,
+    193,
+    857
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    213,
+    735,
+    282,
+    857
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "etiqueta,",
+   "contando": false,
+   "r": [
+    302,
+    735,
+    621,
+    857
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    641,
+    735,
+    710,
+    857
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "sal",
+   "contando": false,
+   "r": [
+    730,
+    735,
+    834,
+    857
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    853,
+    735,
+    930,
+    857
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    96,
+    828,
+    164,
+    950
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "contenido",
+   "contando": false,
+   "r": [
+    184,
+    828,
+    551,
+    950
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "equivalente",
+   "contando": false,
+   "r": [
+    96,
+    921,
+    530,
+    1043
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    549,
+    921,
+    639,
+    1043
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "sal",
+   "contando": false,
+   "r": [
+    658,
+    921,
+    762,
+    1043
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "calculado",
+   "contando": false,
+   "r": [
+    96,
+    1013,
+    457,
+    1135
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    477,
+    1013,
+    610,
+    1135
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    629,
+    1013,
+    699,
+    1135
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "fórmula",
+   "contando": false,
+   "r": [
+    96,
+    1106,
+    394,
+    1228
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "sal",
+   "contando": false,
+   "r": [
+    96,
+    1199,
+    200,
+    1321
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "=",
+   "contando": false,
+   "r": [
+    220,
+    1199,
+    264,
+    1321
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    283,
+    1199,
+    480,
+    1321
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "×",
+   "contando": false,
+   "r": [
+    500,
+    1199,
+    538,
+    1321
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "2,5.",
+   "contando": false,
+   "r": [
+    557,
+    1199,
+    677,
+    1321
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "La sal no tiene declaración de salud autorizada. Norma de etiquetado de la UE; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1337,
+    924,
+    1388
+   ]
+  },
+  {
+   "t": 18.833,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "monta",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    938,
+    942
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "tablas",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    295,
+    1030
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    313,
+    914,
+    389,
+    1030
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "embutido.",
+   "contando": false,
+   "r": [
+    408,
+    914,
+    724,
+    1030
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Esta",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    167,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "noche,",
+   "contando": false,
+   "r": [
+    178,
+    1205,
+    298,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    309,
+    1205,
+    393,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    404,
+    1205,
+    438,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    448,
+    1205,
+    546,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    557,
+    1205,
+    596,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    607,
+    1205,
+    664,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "envasados,",
+   "contando": false,
+   "r": [
+    675,
+    1205,
+    870,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    881,
+    1205,
+    944,
+    1243
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    187,
+    1279
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    198,
+    1241,
+    217,
+    1279
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    228,
+    1241,
+    290,
+    1279
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "bajó.",
+   "contando": false,
+   "r": [
+    301,
+    1241,
+    385,
+    1279
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.667,
+  8.6,
+  13.4,
+  18.833,
+  22.4
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.94,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
+  "efectos_por_tipo": {
+   "whoosh": 6,
+   "tic": 4,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.979,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 307,
+   "texto": "Sal y sodio. Los separa un dos coma cinco. La etiqueta declara sal, calculada del sodio. Si solo ves sodio, multiplica por dos coma cinco. Jamón cocido: ochocientos catorce miligramos de sodio. Unos dos gramos de sal. Sal en la etiqueta: sodio por dos coma cinco. Mándaselo a quien monta tablas de embutido.",
+   "cortes": 11,
+   "silencios_s": 3.95,
+   "pausas_acortadas_s": 2.64,
+   "duracion_voz_s": 21.47
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.64
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.811,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.361,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 5.781,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.331,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 8.711,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.261,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 13.521,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 13.971,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.951,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 21.201,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 690,
+ "tiempo_render_s": 47.9,
+ "tiempos_s": {
+  "preparar": 0.84,
+  "dibujar_y_codificar": 43.03
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "a",
+ "linea_de_tiempo": {
+  "dur": 23.0,
+  "loop": 22.5,
+  "var": "a",
+  "n": 3,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.013,
+    0.017,
+    0.039,
+    0.052,
+    0.078,
+    0.087
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 2.811,
+    "t_out": 5.781,
+    "t_rom": 3.231,
+    "t_tit": 3.361,
+    "t_txt0": 3.861,
+    "t_ico": 3.611,
+    "voz": 3.231,
+    "pal_txt": [
+     4.141,
+     4.391,
+     4.517,
+     4.642,
+     4.768,
+     4.894,
+     5.02,
+     5.145,
+     5.271,
+     5.431
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 5.781,
+    "t_out": 8.711,
+    "t_rom": 6.201,
+    "t_tit": 6.331,
+    "t_txt0": 6.831,
+    "t_ico": 6.581,
+    "voz": 6.201,
+    "pal_txt": [
+     6.501,
+     6.321,
+     6.561,
+     6.661,
+     6.761,
+     7.281,
+     7.801,
+     8.041
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 8.711,
+    "t_out": 13.521,
+    "t_rom": 9.131,
+    "t_tit": 9.261,
+    "t_txt0": 9.761,
+    "t_ico": 9.511,
+    "voz": 9.131,
+    "pal_txt": [
+     10.051,
+     10.891,
+     11.731,
+     11.904,
+     12.078,
+     12.251,
+     12.571,
+     12.731,
+     12.931,
+     13.131
+    ],
+    "bt": 560
+   }
+  ],
+  "conc": {
+   "t_in": 13.521,
+   "t_g": 14.121,
+   "voz": 14.071,
+   "decl": 14.231,
+   "pal_g": [
+    14.121,
+    14.163,
+    14.31,
+    14.353,
+    14.416
+   ],
+   "pal_f": [
+    14.231,
+    14.231,
+    14.431,
+    14.476,
+    14.522,
+    14.567,
+    14.612,
+    14.658,
+    14.703,
+    14.748,
+    14.794,
+    14.839,
+    14.884,
+    14.93,
+    14.975,
+    15.02,
+    15.066,
+    15.111,
+    15.471,
+    15.831
+   ],
+   "t_f0": 14.621,
+   "bt": 652
+  },
+  "fin": {
+   "t_in": 18.951,
+   "voz": 19.371,
+   "t_c0": 19.701,
+   "t_fil": 20.051,
+   "t_an": 21.201,
+   "pal_c": [
+    19.371,
+    19.691,
+    20.011,
+    20.211,
+    20.451,
+    20.651,
+    20.851
+   ],
+   "B0": 21.0
+  },
+  "trans": [
+   2.811,
+   5.781,
+   8.711,
+   13.521,
+   18.951
+  ],
+  "extra": [
+   21.3,
+   21.55,
+   22.7,
+   22.9
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 2.811,
+    "off": 640
+   },
+   {
+    "t_in": 5.781,
+    "off": 1260
+   },
+   {
+    "t_in": 8.711,
+    "off": 1880
+   },
+   {
+    "t_in": 13.521,
+    "off": 2500
+   }
+  ],
+  "fin_voz": 21.471,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  3.1667,
+  5.6667,
+  6.1333,
+  8.6,
+  9.0667,
+  13.4,
+  14.0333,
+  18.8333,
+  19.5667,
+  22.4,
+  22.9667
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Sal y sodio. Los separa un dos coma cinco.",
+   "t": 0.021,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "La etiqueta declara sal, calculada del sodio.",
+   "t": 3.231,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Si solo ves sodio, multiplica por dos coma cinco.",
+   "t": 6.201,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Jamón cocido: ochocientos catorce miligramos de sodio. Unos dos gramos de sal.",
+   "t": 9.131,
+   "puntos": 7.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "Sal en la etiqueta: sodio por dos coma cinco.",
+   "t": 14.071,
+   "puntos": 8.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien monta tablas de embutido.",
+   "t": 19.371,
+   "puntos": 12.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ETI-004, ALI-140",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «asos.  i.  ii.  iii.  La clave del día  La etiqueta dec»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #sal #sodio #etiquetado #nutricion»"
+ ]
+}

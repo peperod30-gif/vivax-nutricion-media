@@ -1,0 +1,1977 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 22.88,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.39,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.667,
+ "n_cambios_visuales": 316,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "En treinta segundos",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    538,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cada",
+   "contando": false,
+   "r": [
+    96,
+    360,
+    388,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tabla",
+   "contando": false,
+   "r": [
+    417,
+    360,
+    704,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "habla",
+   "contando": false,
+   "r": [
+    96,
+    504,
+    414,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    444,
+    504,
+    582,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g.",
+   "contando": false,
+   "r": [
+    611,
+    504,
+    946,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Tu",
+   "contando": false,
+   "r": [
+    96,
+    648,
+    245,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "envase,",
+   "contando": false,
+   "r": [
+    274,
+    648,
+    655,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "no.",
+   "contando": false,
+   "r": [
+    685,
+    648,
+    851,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1016,
+    117,
+    1077
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    1092,
+    129,
+    1153
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    1168,
+    141,
+    1229
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    1260,
+    171,
+    1360
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    188,
+    1260,
+    289,
+    1360
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    305,
+    1260,
+    476,
+    1360
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "En treinta segundos",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    538,
+    328
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Siempre",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    354,
+    449
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    367,
+    397,
+    442,
+    449
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "100",
+   "contando": false,
+   "r": [
+    455,
+    397,
+    523,
+    449
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Energía",
+   "contando": false,
+   "r": [
+    96,
+    496,
+    396,
+    621
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    416,
+    496,
+    461,
+    621
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "nutrientes",
+   "contando": false,
+   "r": [
+    481,
+    496,
+    838,
+    621
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    858,
+    496,
+    936,
+    621
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "expresan",
+   "contando": false,
+   "r": [
+    96,
+    591,
+    445,
+    716
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    465,
+    591,
+    599,
+    716
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    619,
+    591,
+    828,
+    716
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    686,
+    142,
+    811
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    162,
+    686,
+    296,
+    811
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "100 ml.",
+   "contando": false,
+   "r": [
+    316,
+    686,
+    591,
+    811
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    204,
+    1454
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "En treinta segundos",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    538,
+    328
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Siempre",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    354,
+    449
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    367,
+    397,
+    442,
+    449
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "100",
+   "contando": false,
+   "r": [
+    455,
+    397,
+    523,
+    449
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    236,
+    541
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "porción,",
+   "contando": false,
+   "r": [
+    249,
+    489,
+    431,
+    541
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    444,
+    489,
+    551,
+    541
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "extra",
+   "contando": false,
+   "r": [
+    565,
+    489,
+    689,
+    541
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Puede",
+   "contando": false,
+   "r": [
+    96,
+    590,
+    294,
+    694
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "añadirse",
+   "contando": false,
+   "r": [
+    311,
+    590,
+    583,
+    694
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    600,
+    590,
+    711,
+    694
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "porción,",
+   "contando": false,
+   "r": [
+    96,
+    669,
+    324,
+    773
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    341,
+    669,
+    470,
+    773
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    487,
+    669,
+    563,
+    773
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    580,
+    669,
+    670,
+    773
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "casos",
+   "contando": false,
+   "r": [
+    687,
+    669,
+    855,
+    773
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    748,
+    214,
+    852
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "permite",
+   "contando": false,
+   "r": [
+    231,
+    748,
+    477,
+    852
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    494,
+    748,
+    553,
+    852
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "reglamento.",
+   "contando": false,
+   "r": [
+    569,
+    748,
+    947,
+    852
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    273,
+    1454
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "En treinta segundos",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    538,
+    328
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "Siempre",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    354,
+    449
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    367,
+    397,
+    442,
+    449
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "100",
+   "contando": false,
+   "r": [
+    455,
+    397,
+    523,
+    449
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    236,
+    541
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "porción,",
+   "contando": false,
+   "r": [
+    249,
+    489,
+    431,
+    541
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    444,
+    489,
+    551,
+    541
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "extra",
+   "contando": false,
+   "r": [
+    565,
+    489,
+    689,
+    541
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "Misma",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    316,
+    633
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "base",
+   "contando": false,
+   "r": [
+    329,
+    581,
+    426,
+    633
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    439,
+    581,
+    538,
+    633
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "comparar",
+   "contando": false,
+   "r": [
+    551,
+    581,
+    755,
+    633
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    96,
+    680,
+    206,
+    805
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "dato",
+   "contando": false,
+   "r": [
+    226,
+    680,
+    393,
+    805
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    413,
+    680,
+    547,
+    805
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "porción",
+   "contando": false,
+   "r": [
+    567,
+    680,
+    864,
+    805
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    96,
+    775,
+    191,
+    900
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    211,
+    775,
+    290,
+    900
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "compara",
+   "contando": false,
+   "r": [
+    310,
+    775,
+    620,
+    900
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    640,
+    775,
+    777,
+    900
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    797,
+    775,
+    942,
+    900
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    96,
+    870,
+    230,
+    995
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "100 g.",
+   "contando": false,
+   "r": [
+    250,
+    870,
+    476,
+    995
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    341,
+    1454
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "En treinta segundos",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    538,
+    328
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "Siempre",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    354,
+    449
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    367,
+    397,
+    442,
+    449
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "100",
+   "contando": false,
+   "r": [
+    455,
+    397,
+    523,
+    449
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    236,
+    541
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "porción,",
+   "contando": false,
+   "r": [
+    249,
+    489,
+    431,
+    541
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    444,
+    489,
+    551,
+    541
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "extra",
+   "contando": false,
+   "r": [
+    565,
+    489,
+    689,
+    541
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "Misma",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    316,
+    633
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "base",
+   "contando": false,
+   "r": [
+    329,
+    581,
+    426,
+    633
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    439,
+    581,
+    538,
+    633
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "comparar",
+   "contando": false,
+   "r": [
+    551,
+    581,
+    755,
+    633
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    724,
+    145,
+    792
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "regla,",
+   "contando": false,
+   "r": [
+    156,
+    724,
+    264,
+    792
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "tal",
+   "contando": false,
+   "r": [
+    275,
+    724,
+    326,
+    792
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "cual",
+   "contando": false,
+   "r": [
+    337,
+    724,
+    418,
+    792
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "La regla",
+   "contando": false,
+   "r": [
+    174,
+    689,
+    326,
+    719
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    805,
+    198,
+    934
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    219,
+    805,
+    291,
+    934
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "etiqueta,",
+   "contando": false,
+   "r": [
+    312,
+    805,
+    648,
+    934
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    668,
+    805,
+    741,
+    934
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "energía",
+   "contando": false,
+   "r": [
+    96,
+    902,
+    392,
+    1031
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    412,
+    902,
+    459,
+    1031
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    479,
+    902,
+    591,
+    1031
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "nutrientes",
+   "contando": false,
+   "r": [
+    96,
+    1000,
+    490,
+    1129
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    511,
+    1000,
+    591,
+    1129
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "expresan",
+   "contando": false,
+   "r": [
+    96,
+    1097,
+    452,
+    1226
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    472,
+    1097,
+    608,
+    1226
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    628,
+    1097,
+    842,
+    1226
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    1195,
+    143,
+    1324
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    163,
+    1195,
+    299,
+    1324
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "100 ml.",
+   "contando": false,
+   "r": [
+    319,
+    1195,
+    600,
+    1324
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "Norma de etiquetado de la UE; es información sobre cómo se etiqueta, no una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1352,
+    916,
+    1378
+   ]
+  },
+  {
+   "t": 18.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1468,
+    232,
+    1500
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "compara",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    383,
+    1030
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "bolsas",
+   "contando": false,
+   "r": [
+    402,
+    914,
+    601,
+    1030
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    620,
+    914,
+    696,
+    1030
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "distinto",
+   "contando": false,
+   "r": [
+    96,
+    1002,
+    340,
+    1118
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "tamaño.",
+   "contando": false,
+   "r": [
+    359,
+    1002,
+    622,
+    1118
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    117,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "media",
+   "contando": false,
+   "r": [
+    128,
+    1205,
+    224,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "mañana,",
+   "contando": false,
+   "r": [
+    235,
+    1205,
+    382,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    393,
+    1205,
+    434,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    445,
+    1205,
+    479,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "Aula:",
+   "contando": false,
+   "r": [
+    490,
+    1205,
+    579,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    590,
+    1205,
+    629,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    640,
+    1205,
+    703,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "aporta",
+   "contando": false,
+   "r": [
+    714,
+    1205,
+    830,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    841,
+    1205,
+    885,
+    1243
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "gramo",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    208,
+    1279
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    219,
+    1241,
+    259,
+    1279
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    269,
+    1241,
+    353,
+    1279
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "nutriente.",
+   "contando": false,
+   "r": [
+    364,
+    1241,
+    539,
+    1279
+   ]
+  },
+  {
+   "t": 22.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  7.1,
+  10.267,
+  13.3,
+  18.167,
+  22.233
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 6.01,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
+  "efectos_por_tipo": {
+   "whoosh": 6,
+   "tic": 4,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.812,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 312,
+   "texto": "Cada tabla habla de cien gramos. Tu envase, no. Energía y nutrientes van por cien gramos. O por cien mililitros. La porción se añade solo en casos permitidos. Porción y cien gramos no se comparan. La regla, tal cual. Siempre por cien gramos o cien mililitros. Mándaselo a quien compara bolsas de distinto tamaño.",
+   "cortes": 10,
+   "silencios_s": 2.74,
+   "pausas_acortadas_s": 1.61,
+   "duracion_voz_s": 21.21
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.46
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.091,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.641,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 7.221,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.771,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 10.381,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.931,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 13.411,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 13.861,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.301,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 21.018,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 685,
+ "tiempo_render_s": 48.7,
+ "tiempos_s": {
+  "preparar": 0.82,
+  "dibujar_y_codificar": 44.06
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "b",
+ "linea_de_tiempo": {
+  "dur": 22.8333,
+  "loop": 22.3333,
+  "var": "b",
+  "n": 3,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.013,
+    0.029,
+    0.045,
+    0.052,
+    0.068,
+    0.074,
+    0.094
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 3.091,
+    "t_out": 7.221,
+    "t_rom": 3.511,
+    "t_tit": 3.641,
+    "t_txt0": 4.141,
+    "t_ico": 3.891,
+    "voz": 3.511,
+    "pal_txt": [
+     3.511,
+     3.791,
+     4.071,
+     4.338,
+     4.604,
+     4.871,
+     5.111,
+     5.631,
+     6.151,
+     6.311
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 7.221,
+    "t_out": 10.381,
+    "t_rom": 7.641,
+    "t_tit": 7.771,
+    "t_txt0": 8.271,
+    "t_ico": 8.021,
+    "voz": 7.641,
+    "pal_txt": [
+     7.941,
+     7.941,
+     7.941,
+     7.801,
+     8.681,
+     8.841,
+     9.001,
+     9.161,
+     9.411,
+     9.661,
+     9.681,
+     9.681
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 10.381,
+    "t_out": 13.411,
+    "t_rom": 10.801,
+    "t_tit": 10.931,
+    "t_txt0": 11.431,
+    "t_ico": 11.181,
+    "voz": 10.801,
+    "pal_txt": [
+     11.101,
+     11.101,
+     11.101,
+     10.801,
+     10.904,
+     11.007,
+     11.11,
+     11.212,
+     11.315,
+     11.418,
+     11.521
+    ],
+    "bt": 560
+   }
+  ],
+  "conc": {
+   "t_in": 13.411,
+   "t_g": 14.011,
+   "voz": 13.961,
+   "decl": 13.961,
+   "pal_g": [
+    14.011,
+    14.068,
+    14.211,
+    14.297
+   ],
+   "pal_f": [
+    13.961,
+    13.961,
+    13.961,
+    13.961,
+    14.061,
+    14.311,
+    14.561,
+    14.811,
+    15.061,
+    15.311,
+    15.561,
+    15.801,
+    16.068,
+    16.334,
+    16.601
+   ],
+   "t_f0": 14.511,
+   "bt": 652
+  },
+  "fin": {
+   "t_in": 18.301,
+   "voz": 18.721,
+   "t_c0": 19.051,
+   "t_fil": 19.401,
+   "t_an": 21.018,
+   "pal_c": [
+    18.721,
+    18.995,
+    19.268,
+    19.468,
+    19.868,
+    20.068,
+    20.268,
+    20.668
+   ],
+   "B0": 20.601
+  },
+  "trans": [
+   3.091,
+   7.221,
+   10.381,
+   13.411,
+   18.301
+  ],
+  "extra": [
+   20.901,
+   21.151,
+   22.5333,
+   22.7333
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 3.091,
+    "off": 640
+   },
+   {
+    "t_in": 7.221,
+    "off": 1260
+   },
+   {
+    "t_in": 10.381,
+    "off": 1880
+   },
+   {
+    "t_in": 13.411,
+    "off": 2500
+   }
+  ],
+  "fin_voz": 21.208,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  3.4333,
+  7.1,
+  7.5667,
+  10.2667,
+  10.7333,
+  13.3,
+  13.9,
+  18.1667,
+  18.9,
+  22.2333,
+  22.8
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Cada tabla habla de cien gramos. Tu envase, no.",
+   "t": 0.021,
+   "puntos": 6.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Energía y nutrientes van por cien gramos. O por cien mililitros.",
+   "t": 3.511,
+   "puntos": 6.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "La porción se añade solo en casos permitidos.",
+   "t": 7.641,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Porción y cien gramos no se comparan.",
+   "t": 10.801,
+   "puntos": 4.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "La regla, tal cual. Siempre por cien gramos o cien mililitros.",
+   "t": 13.961,
+   "puntos": 4.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien compara bolsas de distinto tamaño.",
+   "t": 18.721,
+   "puntos": 13.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ETQ-001",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #etiquetado #nutricion #tablanutricional #aprendeconvivax»"
+ ]
+}

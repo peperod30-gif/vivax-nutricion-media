@@ -1,0 +1,95 @@
+{
+  "id": "n1-lx-20261123-explica-1300-comer-cada-tres-horas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-010"
+  ],
+  "titulo": "[EXPLICA] ¿Comer cada tres horas acelera el metabolismo?",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "La clave del día",
+      "titulo": "¿Comer cada tres horas acelera el {metabolismo}?",
+      "dato": "En tres pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Lo que se midió",
+      "texto": "El gasto de energía de 24 horas, con las mismas {calorías}."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "El resultado",
+      "texto": "Comer más o menos veces casi no {cambia} ese gasto."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "El matiz",
+      "texto": "{Comer} más veces sí puede subir lo que se come en total."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "Lo que de verdad dicen los datos",
+      "resalte": "El dato que importa",
+      "frase": "Con calorías iguales, la frecuencia de comidas casi no cambia el gasto energético total de 24 horas.",
+      "fuente": "La fuente va en el primer comentario. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien pone alarma para comer.",
+      "texto": "Mañana a mediodía: qué dicen de los hidratos las guías de Estados Unidos."
+    }
+  ],
+  "pie_instagram": "¿Comer cada tres horas acelera el metabolismo?\n\nI · Lo que se midió: el gasto de energía de 24 horas, con las mismas calorías.\nII · El resultado: comer más o menos veces casi no cambia ese gasto.\nIII · El matiz: comer más veces sí puede subir lo que se come en total.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nEl dato que importa: con calorías iguales, la frecuencia de comidas casi no cambia el gasto energético total de 24 horas.\n\n¿Qué paso no conocías?\nMándaselo a quien pone alarma para comer.\nMañana a mediodía: qué dicen de los hidratos las guías de Estados Unidos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #metabolismo #mitosdenutricion #aprendenutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: un tablero de papel donde se escribe cada paso, con subrayados oliva, y el índice de la lección abajo, en oliva. La clave del día. ¿Comer cada tres horas acelera el metabolismo? I. Lo que se midió. El gasto de energía de 24 horas, con las mismas calorías. II. El resultado. Comer más o menos veces casi no cambia ese gasto. III. El matiz. Comer más veces sí puede subir lo que se come en total. Lo que de verdad dicen los datos. El dato que importa: Con calorías iguales, la frecuencia de comidas casi no cambia el gasto energético total de 24 horas. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien pone alarma para comer. Mañana a mediodía: qué dicen de los hidratos las guías de Estados Unidos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-23",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante a: pizarra) · spec n1-lux-20261123-1300-comer-cada-tres-horas",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "a",
+    "spec_id": "n1-lux-20261123-1300-comer-cada-tres-horas",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261123-1300-comer-cada-tres-horas",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: revisión sistemática sobre frecuencia de comidas (Front Nutr 2015) y metaanálisis de Schoenfeld, Aragon y Krieger (2015) (MIT-010). Con las mismas calorías, la frecuencia de comidas casi no cambia el gasto energético total de 24 horas, medido con calorimetría; comer más veces sí puede aumentar la ingesta total. Sin declaración de salud autorizada para este tema; no es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

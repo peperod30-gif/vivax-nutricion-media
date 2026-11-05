@@ -1,0 +1,96 @@
+{
+  "id": "n1-lx-20261117-explica-0830-vitamina-a-vista",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-001"
+  ],
+  "titulo": "[EXPLICA] La vitamina A no va solo de los ojos",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "En treinta segundos",
+      "titulo": "La {vitamina A} no va solo de los ojos",
+      "dato": "En tres pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "La conocida: la visión",
+      "texto": "Contribuye al mantenimiento de la {visión} en condiciones normales."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "También, la piel",
+      "texto": "Contribuye al {mantenimiento} de la piel en condiciones normales."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Y las mucosas",
+      "texto": "Contribuye al mantenimiento de las {mucosas} en condiciones normales."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y otra frase de la UE?",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina A contribuye al funcionamiento normal del sistema inmunitario.",
+      "vit": "VIT-001",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina A. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien solo la asocia a los ojos.",
+      "texto": "Próxima entrega: adivina con pistas qué hace la vitamina E."
+    }
+  ],
+  "pie_instagram": "La vitamina A no va solo de los ojos\n\nI · La conocida: la visión: contribuye al mantenimiento de la visión en condiciones normales.\nII · También, la piel: contribuye al mantenimiento de la piel en condiciones normales.\nIII · Y las mucosas: contribuye al mantenimiento de las mucosas en condiciones normales.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nY para qué sirve: La vitamina A contribuye al funcionamiento normal del sistema inmunitario. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina A; no es una recomendación personal.\n\n¿Qué paso no conocías?\nMándaselo a quien solo la asocia a los ojos.\nPróxima entrega: adivina con pistas qué hace la vitamina E.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaA #vitaminas #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una columna de titulares que sube como una cinta, unidos por un raíl vertical. En treinta segundos. La vitamina A no va solo de los ojos. I. La conocida: la visión. Contribuye al mantenimiento de la visión en condiciones normales. II. También, la piel. Contribuye al mantenimiento de la piel en condiciones normales. III. Y las mucosas. Contribuye al mantenimiento de las mucosas en condiciones normales. ¿Y otra frase de la UE? Para qué sirve: La vitamina A contribuye al funcionamiento normal del sistema inmunitario. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien solo la asocia a los ojos. Próxima entrega: adivina con pistas qué hace la vitamina E."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "serie": "En 30 segundos",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante c: cinta vertical de titulares) · spec n1-lux-20261117-0830-vitamina-a-vista",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "c",
+    "spec_id": "n1-lux-20261117-0830-vitamina-a-vista",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261117-0830-vitamina-a-vista",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Las cuatro declaraciones de salud de la vitamina A que se citan (visión, piel, mucosas y sistema inmunitario) están copiadas del Reglamento (UE) nº 432/2012 (VIT-001); la de la conclusión va literal y todas solo valen para alimentos que son, como mínimo, fuente de vitamina A; no son una recomendación personal. No se afirma que sean todas las que tiene. Sin cifras de composición, para no repetir la comparación hígado y zanahoria del 25-nov. Banco consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "En 30 segundos",
+  "pilar_plan": "ensenar"
+}

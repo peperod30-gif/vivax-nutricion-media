@@ -1,0 +1,1625 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 22.64,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.69,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.734,
+ "n_cambios_visuales": 302,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    364,
+    217,
+    529
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tabla",
+   "contando": false,
+   "r": [
+    242,
+    364,
+    492,
+    529
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    518,
+    364,
+    641,
+    529
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    666,
+    364,
+    757,
+    529
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    96,
+    489,
+    302,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "si",
+   "contando": false,
+   "r": [
+    328,
+    489,
+    406,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hay",
+   "contando": false,
+   "r": [
+    431,
+    489,
+    609,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    96,
+    615,
+    492,
+    780
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "añadidos",
+   "contando": false,
+   "r": [
+    96,
+    740,
+    540,
+    905
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    919,
+    159,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    172,
+    919,
+    257,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    270,
+    919,
+    412,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    148,
+    389,
+    175,
+    472
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    150,
+    471,
+    290,
+    566
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "línea,",
+   "contando": false,
+   "r": [
+    315,
+    471,
+    547,
+    566
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "todos",
+   "contando": false,
+   "r": [
+    572,
+    471,
+    802,
+    566
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    150,
+    544,
+    279,
+    639
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    303,
+    544,
+    655,
+    639
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Suma",
+   "contando": false,
+   "r": [
+    150,
+    675,
+    300,
+    763
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "todos",
+   "contando": false,
+   "r": [
+    314,
+    675,
+    459,
+    763
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    474,
+    675,
+    551,
+    763
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "monosacáridos",
+   "contando": false,
+   "r": [
+    565,
+    675,
+    937,
+    763
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    150,
+    742,
+    182,
+    830
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "disacáridos",
+   "contando": false,
+   "r": [
+    196,
+    742,
+    504,
+    830
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    518,
+    742,
+    604,
+    830
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "alimento.",
+   "contando": false,
+   "r": [
+    618,
+    742,
+    867,
+    830
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    148,
+    382,
+    190,
+    465
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    150,
+    464,
+    279,
+    559
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    303,
+    464,
+    394,
+    559
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    418,
+    464,
+    504,
+    559
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "fruta",
+   "contando": false,
+   "r": [
+    528,
+    464,
+    750,
+    559
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    150,
+    537,
+    195,
+    632
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    219,
+    537,
+    305,
+    632
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "leche",
+   "contando": false,
+   "r": [
+    329,
+    537,
+    550,
+    632
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    150,
+    668,
+    244,
+    756
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    258,
+    668,
+    359,
+    756
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "ya",
+   "contando": false,
+   "r": [
+    373,
+    668,
+    436,
+    756
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "traía",
+   "contando": false,
+   "r": [
+    450,
+    668,
+    576,
+    756
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    590,
+    668,
+    640,
+    756
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "alimento",
+   "contando": false,
+   "r": [
+    654,
+    668,
+    872,
+    756
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "también",
+   "contando": false,
+   "r": [
+    150,
+    735,
+    370,
+    823
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "entran",
+   "contando": false,
+   "r": [
+    384,
+    735,
+    561,
+    823
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    575,
+    735,
+    641,
+    823
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "esa",
+   "contando": false,
+   "r": [
+    655,
+    735,
+    741,
+    823
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "línea.",
+   "contando": false,
+   "r": [
+    755,
+    735,
+    901,
+    823
+   ]
+  },
+  {
+   "t": 8.733,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    148,
+    378,
+    206,
+    461
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "Y",
+   "contando": false,
+   "r": [
+    150,
+    460,
+    195,
+    555
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    219,
+    460,
+    348,
+    555
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "añadidos,",
+   "contando": false,
+   "r": [
+    372,
+    460,
+    752,
+    555
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    777,
+    460,
+    899,
+    555
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "separar",
+   "contando": false,
+   "r": [
+    150,
+    533,
+    457,
+    628
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "Si",
+   "contando": false,
+   "r": [
+    150,
+    664,
+    202,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    216,
+    664,
+    294,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "hay,",
+   "contando": false,
+   "r": [
+    308,
+    664,
+    414,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    429,
+    664,
+    481,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    495,
+    664,
+    608,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    623,
+    664,
+    673,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "lista",
+   "contando": false,
+   "r": [
+    687,
+    664,
+    801,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    815,
+    664,
+    881,
+    752
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "ingredientes.",
+   "contando": false,
+   "r": [
+    150,
+    731,
+    467,
+    819
+   ]
+  },
+  {
+   "t": 12.667,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    374,
+    195,
+    505
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "línea,",
+   "contando": false,
+   "r": [
+    216,
+    374,
+    434,
+    505
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "explicada",
+   "contando": false,
+   "r": [
+    455,
+    374,
+    847,
+    505
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "La regla",
+   "contando": false,
+   "r": [
+    174,
+    700,
+    326,
+    730
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    744,
+    203,
+    878
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    224,
+    744,
+    301,
+    878
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "etiqueta",
+   "contando": false,
+   "r": [
+    322,
+    744,
+    654,
+    878
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "europea,",
+   "contando": false,
+   "r": [
+    96,
+    846,
+    449,
+    980
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "«azúcares»",
+   "contando": false,
+   "r": [
+    471,
+    846,
+    950,
+    980
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "incluyen",
+   "contando": false,
+   "r": [
+    96,
+    948,
+    449,
+    1082
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    471,
+    948,
+    588,
+    1082
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    609,
+    948,
+    709,
+    1082
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    730,
+    948,
+    807,
+    1082
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "fruta,",
+   "contando": false,
+   "r": [
+    96,
+    1050,
+    320,
+    1184
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    341,
+    1050,
+    458,
+    1184
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    479,
+    1050,
+    579,
+    1184
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    600,
+    1050,
+    677,
+    1184
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "leche",
+   "contando": false,
+   "r": [
+    698,
+    1050,
+    917,
+    1184
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    1152,
+    145,
+    1286
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    166,
+    1152,
+    283,
+    1286
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "añadidos.",
+   "contando": false,
+   "r": [
+    305,
+    1152,
+    691,
+    1286
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "Los azúcares no tienen declaración de salud autorizada. Norma de etiquetado de la UE; mirar la lista es un consejo práctico, no texto del reglamento.",
+   "contando": false,
+   "r": [
+    96,
+    1339,
+    930,
+    1390
+   ]
+  },
+  {
+   "t": 17.567,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "lee",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    822,
+    942
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "«azúcares»",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    486,
+    1030
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    504,
+    914,
+    542,
+    1030
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    561,
+    914,
+    640,
+    1030
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "mira",
+   "contando": false,
+   "r": [
+    96,
+    1002,
+    251,
+    1118
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "más.",
+   "contando": false,
+   "r": [
+    270,
+    1002,
+    419,
+    1118
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    130,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "martes,",
+   "contando": false,
+   "r": [
+    141,
+    1205,
+    269,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    280,
+    1205,
+    321,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "Mito",
+   "contando": false,
+   "r": [
+    332,
+    1205,
+    406,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    417,
+    1205,
+    441,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "dato:",
+   "contando": false,
+   "r": [
+    452,
+    1205,
+    542,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    553,
+    1205,
+    661,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "sal,",
+   "contando": false,
+   "r": [
+    672,
+    1205,
+    739,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "¿siempre",
+   "contando": false,
+   "r": [
+    750,
+    1205,
+    895,
+    1243
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    205,
+    1279
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "riesgo?",
+   "contando": false,
+   "r": [
+    216,
+    1241,
+    347,
+    1279
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.267,
+  8.733,
+  12.667,
+  17.567,
+  22.0
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.93,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
+  "efectos_por_tipo": {
+   "whoosh": 6,
+   "tic": 4,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.579,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 275,
+   "texto": "La tabla no te dice si hay azúcares añadidos. Una línea suma todos los azúcares. Los de la fruta y la leche, también. Y los añadidos, sin separar. Si los hay, lo dice la lista. Azúcares, en la etiqueta: fruta, leche y añadidos. Mándaselo a quien lee «azúcares» y no mira más.",
+   "cortes": 12,
+   "silencios_s": 3.68,
+   "pausas_acortadas_s": 2.01,
+   "duracion_voz_s": 20.79
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.34
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.691,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.241,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 5.371,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.921,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 8.851,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.401,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 12.781,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 13.231,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.671,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 20.801,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 678,
+ "tiempo_render_s": 54.3,
+ "tiempos_s": {
+  "preparar": 1.23,
+  "dibujar_y_codificar": 49.25
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "c",
+ "linea_de_tiempo": {
+  "dur": 22.6,
+  "loop": 22.1,
+  "var": "c",
+  "n": 3,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.006,
+    0.019,
+    0.025,
+    0.031,
+    0.042,
+    0.047,
+    0.056,
+    0.078
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 2.691,
+    "t_out": 5.371,
+    "t_rom": 3.111,
+    "t_tit": 3.241,
+    "t_txt0": 3.741,
+    "t_ico": 3.491,
+    "voz": 3.111,
+    "pal_txt": [
+     3.671,
+     4.151,
+     4.551,
+     4.671,
+     4.671,
+     4.671,
+     4.671,
+     4.671
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 5.371,
+    "t_out": 8.851,
+    "t_rom": 5.791,
+    "t_tit": 5.921,
+    "t_txt0": 6.421,
+    "t_ico": 6.171,
+    "voz": 5.791,
+    "pal_txt": [
+     5.791,
+     6.051,
+     6.311,
+     6.571,
+     6.831,
+     7.091,
+     7.351,
+     7.601,
+     7.851,
+     8.101,
+     8.151
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 8.851,
+    "t_out": 12.781,
+    "t_rom": 9.271,
+    "t_tit": 9.401,
+    "t_txt0": 9.901,
+    "t_ico": 9.651,
+    "voz": 9.271,
+    "pal_txt": [
+     11.021,
+     11.271,
+     11.511,
+     11.711,
+     11.911,
+     12.111,
+     12.311,
+     12.081,
+     12.081
+    ],
+    "bt": 560
+   }
+  ],
+  "conc": {
+   "t_in": 12.781,
+   "t_g": 13.381,
+   "voz": 13.331,
+   "decl": 14.091,
+   "pal_g": [
+    13.381,
+    13.431,
+    13.556
+   ],
+   "pal_f": [
+    14.091,
+    14.091,
+    14.291,
+    14.388,
+    14.485,
+    14.582,
+    14.68,
+    14.777,
+    14.874,
+    14.971,
+    15.121,
+    15.271,
+    15.421,
+    15.571,
+    15.771,
+    15.971,
+    16.171
+   ],
+   "t_f0": 13.881,
+   "bt": 652
+  },
+  "fin": {
+   "t_in": 17.671,
+   "voz": 18.091,
+   "t_c0": 18.421,
+   "t_fil": 18.771,
+   "t_an": 20.801,
+   "pal_c": [
+    18.091,
+    18.411,
+    18.731,
+    19.011,
+    19.211,
+    19.544,
+    19.878,
+    20.211,
+    20.451
+   ],
+   "B0": 19.971
+  },
+  "trans": [
+   2.691,
+   5.371,
+   8.851,
+   12.781,
+   17.671
+  ],
+  "extra": [
+   20.271,
+   20.521,
+   22.3,
+   22.5
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 2.691,
+    "off": 640
+   },
+   {
+    "t_in": 5.371,
+    "off": 1260
+   },
+   {
+    "t_in": 8.851,
+    "off": 1880
+   },
+   {
+    "t_in": 12.781,
+    "off": 2500
+   }
+  ],
+  "fin_voz": 20.791,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  3.0333,
+  5.2667,
+  5.7333,
+  8.7333,
+  9.2,
+  12.6667,
+  13.2667,
+  17.5667,
+  18.2667,
+  22.0,
+  22.5667
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "La tabla no te dice si hay azúcares añadidos.",
+   "t": 0.021,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Una línea suma todos los azúcares.",
+   "t": 3.111,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Los de la fruta y la leche, también.",
+   "t": 5.791,
+   "puntos": 2.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Y los añadidos, sin separar. Si los hay, lo dice la lista.",
+   "t": 9.271,
+   "puntos": 3.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "Azúcares, en la etiqueta: fruta, leche y añadidos.",
+   "t": 13.331,
+   "puntos": 9.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien lee «azúcares» y no mira más.",
+   "t": 18.091,
+   "puntos": 11.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ETQ-002",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «asos.  i.  ii.  iii.  La clave del día  Una línea, todo»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #azucar #etiquetado #nutricion #leeretiquetas»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: « Mito o dato: menos sal, ¿siempre menos riesgo?  Vo»"
+ ]
+}

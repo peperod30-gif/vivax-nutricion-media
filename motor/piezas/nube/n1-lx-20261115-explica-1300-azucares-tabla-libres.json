@@ -1,0 +1,95 @@
+{
+  "id": "n1-lx-20261115-explica-1300-azucares-tabla-libres",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "ETQ-002"
+  ],
+  "titulo": "[EXPLICA] La tabla no te dice si hay azúcares añadidos",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "La clave del día",
+      "titulo": "La tabla no te dice si hay {azúcares} añadidos",
+      "dato": "En tres pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Una línea, todos los azúcares",
+      "texto": "Suma todos los {monosacáridos} y disacáridos del alimento."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "Los de la fruta y la leche",
+      "texto": "Los que ya traía el {alimento} también entran en esa línea."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Y los añadidos, sin separar",
+      "texto": "Si los hay, lo dice la lista de {ingredientes}."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "La línea, explicada",
+      "resalte": "La regla",
+      "frase": "En la etiqueta europea, «azúcares» incluyen los de la fruta, los de la leche y los añadidos.",
+      "fuente": "Los azúcares no tienen declaración de salud autorizada. Norma de etiquetado de la UE; mirar la lista es un consejo práctico, no texto del reglamento."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien lee «azúcares» y no mira más.",
+      "texto": "El martes, en Mito o dato: menos sal, ¿siempre menos riesgo?"
+    }
+  ],
+  "pie_instagram": "La tabla no te dice si hay azúcares añadidos\n\nI · Una línea, todos los azúcares: suma todos los monosacáridos y disacáridos del alimento.\nII · Los de la fruta y la leche: los que ya traía el alimento también entran en esa línea.\nIII · Y los añadidos, sin separar: si los hay, lo dice la lista de ingredientes.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLa regla: en la etiqueta europea, «azúcares» incluyen los de la fruta, los de la leche y los añadidos.\n\n¿Qué paso no conocías?\nMándaselo a quien lee «azúcares» y no mira más.\nEl martes, en Mito o dato: menos sal, ¿siempre menos riesgo?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #etiquetado #nutricion #leeretiquetas",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una columna de titulares que sube como una cinta, unidos por un raíl vertical. La clave del día. La tabla no te dice si hay azúcares añadidos. I. Una línea, todos los azúcares. Suma todos los monosacáridos y disacáridos del alimento. II. Los de la fruta y la leche. Los que ya traía el alimento también entran en esa línea. III. Y los añadidos, sin separar. Si los hay, lo dice la lista de ingredientes. La línea, explicada. La regla: En la etiqueta europea, «azúcares» incluyen los de la fruta, los de la leche y los añadidos. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien lee «azúcares» y no mira más. El martes, en Mito o dato: menos sal, ¿siempre menos riesgo?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante c: cinta vertical de titulares) · spec n1-lux-20261115-1300-azucares-tabla-libres",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "c",
+    "spec_id": "n1-lux-20261115-1300-azucares-tabla-libres",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261115-1300-azucares-tabla-libres",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: Reglamento (UE) nº 1169/2011, anexo I, definición de azúcares (ETQ-002), comprobada en el resumen de la AESAN y en la copia en inglés: «azúcares» son todos los monosacáridos y disacáridos del alimento, sin contar los polialcoholes, e incluyen los naturales (fruta, leche) y los añadidos. La tabla no separa los añadidos; mirar la lista de ingredientes para saber si los hay es un consejo práctico, no texto del reglamento. Sin cálculos propios. Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

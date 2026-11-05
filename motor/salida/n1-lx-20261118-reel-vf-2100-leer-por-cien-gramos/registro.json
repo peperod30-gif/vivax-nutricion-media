@@ -1,0 +1,2866 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 25.81,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.22,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.466,
+ "n_cambios_visuales": 284,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    227,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    244,
+    769,
+    399,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    416,
+    769,
+    530,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cien",
+   "contando": false,
+   "r": [
+    547,
+    769,
+    683,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    700,
+    769,
+    943,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    96,
+    850,
+    233,
+    957
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cuánto",
+   "contando": false,
+   "r": [
+    250,
+    850,
+    470,
+    957
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    487,
+    850,
+    554,
+    957
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "absorbe.",
+   "contando": false,
+   "r": [
+    571,
+    850,
+    847,
+    957
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    227,
+    876
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    244,
+    769,
+    399,
+    876
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    416,
+    769,
+    530,
+    876
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "cien",
+   "contando": false,
+   "r": [
+    547,
+    769,
+    683,
+    876
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    700,
+    769,
+    943,
+    876
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    96,
+    850,
+    233,
+    957
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "cuánto",
+   "contando": false,
+   "r": [
+    250,
+    850,
+    470,
+    957
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    487,
+    850,
+    554,
+    957
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "absorbe.",
+   "contando": false,
+   "r": [
+    571,
+    850,
+    847,
+    957
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    227,
+    876
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    244,
+    769,
+    399,
+    876
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    416,
+    769,
+    530,
+    876
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "cien",
+   "contando": false,
+   "r": [
+    547,
+    769,
+    683,
+    876
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    700,
+    769,
+    943,
+    876
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    96,
+    850,
+    233,
+    957
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "cuánto",
+   "contando": false,
+   "r": [
+    250,
+    850,
+    470,
+    957
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    487,
+    850,
+    554,
+    957
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "absorbe.",
+   "contando": false,
+   "r": [
+    571,
+    850,
+    847,
+    957
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "0,81",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    645,
+    1275
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    650,
+    1161,
+    708,
+    1223
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "B6, pechuga de pavo asada",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    363,
+    1349
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "0,81 mg",
+   "contando": false,
+   "r": [
+    841,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 4.733,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "Cada",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    269,
+    878
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    287,
+    768,
+    446,
+    878
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    464,
+    768,
+    541,
+    878
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    559,
+    768,
+    679,
+    878
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    697,
+    768,
+    771,
+    878
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "estado:",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    327,
+    962
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "crudo",
+   "contando": false,
+   "r": [
+    344,
+    852,
+    542,
+    962
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    560,
+    852,
+    600,
+    962
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "cocido.",
+   "contando": false,
+   "r": [
+    618,
+    852,
+    853,
+    962
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Cada",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    269,
+    878
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "cifra",
+   "contando": false,
+   "r": [
+    287,
+    768,
+    446,
+    878
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    464,
+    768,
+    541,
+    878
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    559,
+    768,
+    679,
+    878
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    697,
+    768,
+    771,
+    878
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "estado:",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    327,
+    962
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "crudo",
+   "contando": false,
+   "r": [
+    344,
+    852,
+    542,
+    962
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    560,
+    852,
+    600,
+    962
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "cocido.",
+   "contando": false,
+   "r": [
+    618,
+    852,
+    853,
+    962
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "28,2",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    652,
+    1275
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    658,
+    1161,
+    682,
+    1223
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "Hidratos, arroz blanco cocido",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    411,
+    1349
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "28,2 g",
+   "contando": false,
+   "r": [
+    866,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 10.667,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "Cien",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    252,
+    878
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    269,
+    768,
+    518,
+    878
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    536,
+    768,
+    651,
+    878
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "siempre",
+   "contando": false,
+   "r": [
+    669,
+    768,
+    937,
+    878
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    222,
+    962
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "ración",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    453,
+    962
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    471,
+    852,
+    728,
+    962
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 14.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "¿Sabes",
+   "contando": false,
+   "r": [
+    96,
+    353,
+    278,
+    440
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "leer",
+   "contando": false,
+   "r": [
+    291,
+    353,
+    394,
+    440
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    408,
+    353,
+    475,
+    440
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "«por",
+   "contando": false,
+   "r": [
+    489,
+    353,
+    619,
+    440
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "100 g»?",
+   "contando": false,
+   "r": [
+    96,
+    419,
+    310,
+    506
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "Compruébalo",
+   "contando": false,
+   "r": [
+    323,
+    419,
+    681,
+    506
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "Cien",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    252,
+    878
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    269,
+    768,
+    518,
+    878
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    536,
+    768,
+    651,
+    878
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "siempre",
+   "contando": false,
+   "r": [
+    669,
+    768,
+    937,
+    878
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    222,
+    962
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "ración",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    453,
+    962
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    471,
+    852,
+    728,
+    962
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "133",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    592,
+    1275
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    597,
+    1161,
+    655,
+    1223
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "Vitamina C, perejil fresco",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    353,
+    1349
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "133 mg",
+   "contando": false,
+   "r": [
+    852,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 16.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    349,
+    195,
+    468
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "entonces",
+   "contando": false,
+   "r": [
+    214,
+    349,
+    528,
+    468
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    546,
+    349,
+    680,
+    468
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    96,
+    439,
+    170,
+    558
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "esa",
+   "contando": false,
+   "r": [
+    188,
+    439,
+    303,
+    558
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "cifra?",
+   "contando": false,
+   "r": [
+    321,
+    439,
+    532,
+    558
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    407,
+    772
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "Valores",
+   "contando": false,
+   "r": [
+    96,
+    793,
+    346,
+    901
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    363,
+    793,
+    479,
+    901
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    496,
+    793,
+    677,
+    901
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    694,
+    793,
+    799,
+    901
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "alimento",
+   "contando": false,
+   "r": [
+    96,
+    875,
+    385,
+    983
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    403,
+    875,
+    482,
+    983
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    500,
+    875,
+    561,
+    983
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "estado",
+   "contando": false,
+   "r": [
+    578,
+    875,
+    791,
+    983
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "indicado.",
+   "contando": false,
+   "r": [
+    96,
+    958,
+    399,
+    1066
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "Es",
+   "contando": false,
+   "r": [
+    416,
+    958,
+    492,
+    1066
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "composición,",
+   "contando": false,
+   "r": [
+    509,
+    958,
+    940,
+    1066
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    96,
+    1040,
+    179,
+    1148
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    196,
+    1040,
+    320,
+    1148
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "recomendación",
+   "contando": false,
+   "r": [
+    337,
+    1040,
+    846,
+    1148
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    864,
+    1040,
+    944,
+    1148
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "cantidad",
+   "contando": false,
+   "r": [
+    96,
+    1122,
+    384,
+    1230
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    401,
+    1122,
+    466,
+    1230
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    1122,
+    564,
+    1230
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "comer",
+   "contando": false,
+   "r": [
+    582,
+    1122,
+    789,
+    1230
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    136,
+    1313
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "evitar",
+   "contando": false,
+   "r": [
+    153,
+    1205,
+    345,
+    1313
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "nada.",
+   "contando": false,
+   "r": [
+    362,
+    1205,
+    539,
+    1313
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "Composición por 100 g (USDA FoodData Central); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    777,
+    1395
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    776,
+    453,
+    892
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    776,
+    513,
+    892
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    776,
+    712,
+    892
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "lee",
+   "contando": false,
+   "r": [
+    730,
+    776,
+    822,
+    892
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    96,
+    866,
+    255,
+    982
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "tabla",
+   "contando": false,
+   "r": [
+    273,
+    866,
+    441,
+    982
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    459,
+    866,
+    628,
+    982
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    96,
+    955,
+    223,
+    1071
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "receta.",
+   "contando": false,
+   "r": [
+    242,
+    955,
+    452,
+    1071
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "mañana:",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    415,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "adivina",
+   "contando": false,
+   "r": [
+    424,
+    1175,
+    522,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    532,
+    1175,
+    581,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    591,
+    1175,
+    641,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "pistas",
+   "contando": false,
+   "r": [
+    651,
+    1175,
+    728,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    738,
+    1175,
+    789,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "hace",
+   "contando": false,
+   "r": [
+    799,
+    1175,
+    863,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    872,
+    1175,
+    896,
+    1216
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    96,
+    1214,
+    209,
+    1255
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "E.",
+   "contando": false,
+   "r": [
+    219,
+    1214,
+    246,
+    1255
+   ]
+  },
+  {
+   "t": 25.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.333,
+  4.733,
+  9.267,
+  10.667,
+  14.867,
+  16.267,
+  21.2,
+  25.167
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.5,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
+  "efectos_por_tipo": {
+   "tic": 9,
+   "tac": 3,
+   "sello": 3,
+   "golpe": 2,
+   "contador": 21,
+   "whoosh": 4,
+   "ding": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 25.745,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 327,
+   "texto": "Una cifra por cien gramos dice cuánto se absorbe. ¡Falso! Lo que lleva. Cada cifra va con su estado: crudo o cocido. ¡Verdadero! Arroz cocido. Cien gramos son siempre una ración normal. ¡Falso! ¿Quién come cien gramos de perejil? ¿Y entonces? Composición, no una recomendación. Mándaselo a quien lee cada tabla como una receta.",
+   "duracion_voz_s": 24.415,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Una cifra por cien gramos dice cuánto se absorbe.",
+     "t0": 0.0213,
+     "t1": 2.7063
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso! Lo que lleva.",
+     "t0": 3.4013,
+     "t1": 4.8113
+    },
+    {
+     "id": "a1",
+     "texto": "Cada cifra va con su estado: crudo o cocido.",
+     "t0": 5.9913,
+     "t1": 8.6713
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero! Arroz cocido.",
+     "t0": 9.3414,
+     "t1": 10.8314
+    },
+    {
+     "id": "a2",
+     "texto": "Cien gramos son siempre una ración normal.",
+     "t0": 12.0464,
+     "t1": 14.2864
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! ¿Quién come cien gramos de perejil?",
+     "t0": 14.9464,
+     "t1": 17.2714
+    },
+    {
+     "id": "c",
+     "texto": "¿Y entonces? Composición, no una recomendación.",
+     "t0": 18.3164,
+     "t1": 21.1944
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien lee cada tabla como una receta.",
+     "t0": 21.7714,
+     "t1": 24.2784
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.76
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.474,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.326,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.776,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.381,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.421,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.631,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.731,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.831,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.931,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.031,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.131,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.231,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.601,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.591,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.441,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.291,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.741,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.321,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.361,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 9.571,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.671,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.771,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.871,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.971,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.071,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.171,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 11.601,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.646,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.276,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.906,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.356,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.926,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.966,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.176,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.276,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.376,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.476,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.576,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.676,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.776,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 18.021,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.261,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 24.378,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 773,
+ "tiempo_render_s": 61.5,
+ "tiempos_s": {
+  "preparar": 1.55,
+  "dibujar_y_codificar": 57.03
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 25.7667,
+  "loop": 25.2667,
+  "conc": {
+   "t_in": 18.021,
+   "palabras": [
+    18.971,
+    18.971,
+    18.971,
+    18.971,
+    18.971,
+    19.0093,
+    19.0625,
+    19.1158,
+    19.2757,
+    19.5156,
+    19.5689,
+    19.8886,
+    19.9419,
+    20.0219,
+    20.3683,
+    20.4216,
+    20.6348,
+    20.6881,
+    20.7414,
+    20.8746,
+    20.9013,
+    21.0612
+   ],
+   "palabras_g": [
+    18.471,
+    18.471,
+    18.471,
+    18.471,
+    18.471,
+    18.471
+   ],
+   "t_sal": 18.821,
+   "t_frase": 21.611
+  },
+  "fin": {
+   "t_in": 21.261,
+   "palabras": [
+    21.7714,
+    22.2384,
+    22.3184,
+    22.6384,
+    22.7984,
+    23.0784,
+    23.3984,
+    23.6384,
+    23.8784
+   ],
+   "palabras_an": [
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378,
+    24.378
+   ],
+   "t_an": 24.378
+  },
+  "iconos": [
+   [
+    -1.0,
+    5.551
+   ],
+   [
+    5.551,
+    11.551
+   ],
+   [
+    11.551,
+    18.021
+   ],
+   [
+    18.021,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 24.278,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.776,
+    "tv": 3.381,
+    "pasos": [
+     0.621,
+     1.474,
+     2.326
+    ],
+    "t_out": 5.551
+   },
+   {
+    "t_in": 5.851,
+    "t0": 5.991,
+    "buzz": 8.741,
+    "tv": 9.321,
+    "pasos": [
+     6.591,
+     7.441,
+     8.291
+    ],
+    "t_out": 11.551
+   },
+   {
+    "t_in": 11.851,
+    "t0": 12.046,
+    "buzz": 14.356,
+    "tv": 14.926,
+    "pasos": [
+     12.646,
+     13.276,
+     13.906
+    ],
+    "t_out": 18.521
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.6667,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.5667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.7333,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.4333,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 8.6333,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 9.5333,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 10.6667,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 12.5,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 14.2667,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 15.1333,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 16.2667,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 18.5333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.2,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 21.7667,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 25.1667,
+   "que": "cierre"
+  },
+  {
+   "t": 25.7333,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

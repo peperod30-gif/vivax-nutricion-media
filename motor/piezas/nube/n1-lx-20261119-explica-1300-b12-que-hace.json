@@ -1,0 +1,97 @@
+{
+  "id": "n1-lx-20261119-explica-1300-b12-que-hace",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-045",
+    "VIT-048"
+  ],
+  "titulo": "[EXPLICA] Dónde no está la B12, y por qué importa",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "La clave del día",
+      "titulo": "Dónde no está la B12, y por qué {importa}",
+      "dato": "En tres pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Uno: glóbulos rojos",
+      "texto": "Contribuye a la formación normal de {glóbulos} rojos."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "Dos: sistema nervioso",
+      "texto": "Contribuye al funcionamiento normal del {sistema} nervioso."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Dónde no está, según el NHS",
+      "texto": "No está de forma natural en frutas, {verduras} ni cereales."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "Y su tercer trabajo, según la UE",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina B12 contribuye al funcionamiento normal del sistema inmunitario.",
+      "vit": "VIT-045",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien está empezando a comer vegano.",
+      "texto": "Mañana: la vitamina del pelo, y qué hay de cierto."
+    }
+  ],
+  "pie_instagram": "Dónde no está la B12, y por qué importa\n\nI · Uno: glóbulos rojos: contribuye a la formación normal de glóbulos rojos.\nII · Dos: sistema nervioso: contribuye al funcionamiento normal del sistema nervioso.\nIII · Dónde no está, según el NHS: no está de forma natural en frutas, verduras ni cereales.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nY para qué sirve: La vitamina B12 contribuye al funcionamiento normal del sistema inmunitario. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina B12; no es una recomendación personal.\n\n¿Qué paso no conocías?\nMándaselo a quien está empezando a comer vegano.\nMañana: la vitamina del pelo, y qué hay de cierto.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminab12 #nutricion #vitaminas",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: un tablero de papel donde se escribe cada paso, con subrayados oliva, y el índice de la lección abajo, en oliva. La clave del día. Dónde no está la B12, y por qué importa. I. Uno: glóbulos rojos. Contribuye a la formación normal de glóbulos rojos. II. Dos: sistema nervioso. Contribuye al funcionamiento normal del sistema nervioso. III. Dónde no está, según el NHS. No está de forma natural en frutas, verduras ni cereales. Y su tercer trabajo, según la UE. Para qué sirve: La vitamina B12 contribuye al funcionamiento normal del sistema inmunitario. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien está empezando a comer vegano. Mañana: la vitamina del pelo, y qué hay de cierto."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-19",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante a: pizarra) · spec n1-lux-20261119-1300-b12-que-hace",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "a",
+    "spec_id": "n1-lux-20261119-1300-b12-que-hace",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261119-1300-b12-que-hace",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Funciones de la vitamina B12: declaraciones de salud autorizadas del Reglamento (UE) nº 432/2012 (VIT-045, EUR-Lex). Dónde no está: NHS del Reino Unido, Vitamins and minerals, página revisada en agosto de 2020 (VIT-048): la vitamina B12 no se encuentra de forma natural en frutas, verduras ni cereales, por lo que las personas veganas pueden no obtener suficiente. Es información de salud pública, no una pauta personal. La declaración vale para alimentos que son, como mínimo, fuente de vitamina B12. Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

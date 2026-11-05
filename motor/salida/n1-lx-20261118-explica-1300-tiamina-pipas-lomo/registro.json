@@ -1,0 +1,1410 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 21.78,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.78,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.7,
+ "n_cambios_visuales": 304,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Pipas",
+   "contando": false,
+   "r": [
+    96,
+    360,
+    404,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    434,
+    360,
+    502,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lomo:",
+   "contando": false,
+   "r": [
+    531,
+    360,
+    838,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    96,
+    504,
+    375,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    404,
+    504,
+    894,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "comparten?",
+   "contando": false,
+   "r": [
+    96,
+    648,
+    721,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    919,
+    159,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    172,
+    919,
+    257,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    270,
+    919,
+    412,
+    1003
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    148,
+    375,
+    175,
+    458
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "Pipas",
+   "contando": false,
+   "r": [
+    150,
+    457,
+    356,
+    552
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    380,
+    457,
+    425,
+    552
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "lomo,",
+   "contando": false,
+   "r": [
+    449,
+    457,
+    664,
+    552
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    150,
+    530,
+    285,
+    625
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    309,
+    530,
+    504,
+    625
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "Pipas",
+   "contando": false,
+   "r": [
+    150,
+    661,
+    288,
+    749
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "peladas:",
+   "contando": false,
+   "r": [
+    303,
+    661,
+    523,
+    749
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "1,48 mg.",
+   "contando": false,
+   "r": [
+    537,
+    661,
+    755,
+    749
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "Lomo",
+   "contando": false,
+   "r": [
+    769,
+    661,
+    921,
+    749
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "asado,",
+   "contando": false,
+   "r": [
+    150,
+    728,
+    318,
+    816
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    332,
+    728,
+    442,
+    816
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "magro:",
+   "contando": false,
+   "r": [
+    456,
+    728,
+    644,
+    816
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "1,02 mg.",
+   "contando": false,
+   "r": [
+    658,
+    728,
+    878,
+    816
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    148,
+    382,
+    190,
+    465
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "Es",
+   "contando": false,
+   "r": [
+    150,
+    464,
+    234,
+    559
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    258,
+    464,
+    344,
+    559
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "tiamina",
+   "contando": false,
+   "r": [
+    368,
+    464,
+    676,
+    559
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "(vitamina",
+   "contando": false,
+   "r": [
+    150,
+    537,
+    535,
+    632
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "B1)",
+   "contando": false,
+   "r": [
+    559,
+    537,
+    673,
+    632
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "Contribuye",
+   "contando": false,
+   "r": [
+    150,
+    668,
+    457,
+    756
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    471,
+    668,
+    522,
+    756
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "metabolismo",
+   "contando": false,
+   "r": [
+    536,
+    668,
+    849,
+    756
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "energético",
+   "contando": false,
+   "r": [
+    150,
+    735,
+    437,
+    823
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    451,
+    735,
+    658,
+    823
+   ]
+  },
+  {
+   "t": 10.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    148,
+    382,
+    206,
+    465
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Otra",
+   "contando": false,
+   "r": [
+    150,
+    464,
+    334,
+    559
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "frase",
+   "contando": false,
+   "r": [
+    358,
+    464,
+    572,
+    559
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    596,
+    464,
+    687,
+    559
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    711,
+    464,
+    797,
+    559
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "UE",
+   "contando": false,
+   "r": [
+    822,
+    464,
+    910,
+    559
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Contribuye",
+   "contando": false,
+   "r": [
+    150,
+    668,
+    457,
+    756
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    471,
+    668,
+    522,
+    756
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    536,
+    668,
+    926,
+    756
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    150,
+    735,
+    345,
+    823
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    359,
+    735,
+    445,
+    823
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    459,
+    735,
+    658,
+    823
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "nervioso.",
+   "contando": false,
+   "r": [
+    672,
+    735,
+    916,
+    823
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    382,
+    206,
+    512
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    227,
+    382,
+    375,
+    512
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "tercera",
+   "contando": false,
+   "r": [
+    396,
+    382,
+    679,
+    512
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "frase?",
+   "contando": false,
+   "r": [
+    700,
+    382,
+    946,
+    512
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    700,
+    433,
+    730
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    743,
+    198,
+    880
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "tiamina",
+   "contando": false,
+   "r": [
+    220,
+    743,
+    532,
+    880
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    96,
+    847,
+    549,
+    984
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    571,
+    847,
+    619,
+    984
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    641,
+    847,
+    719,
+    984
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "función",
+   "contando": false,
+   "r": [
+    96,
+    952,
+    416,
+    1089
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "psicológica",
+   "contando": false,
+   "r": [
+    438,
+    952,
+    910,
+    1089
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    96,
+    1056,
+    415,
+    1193
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de tiamina. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1339,
+    932,
+    1390
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    870,
+    942
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "lomo",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    253,
+    1030
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    272,
+    914,
+    310,
+    1030
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "pipas",
+   "contando": false,
+   "r": [
+    328,
+    914,
+    506,
+    1030
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    525,
+    914,
+    602,
+    1030
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    621,
+    914,
+    678,
+    1030
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "bar.",
+   "contando": false,
+   "r": [
+    696,
+    914,
+    813,
+    1030
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "Próxima",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    231,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "clave",
+   "contando": false,
+   "r": [
+    242,
+    1205,
+    337,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    348,
+    1205,
+    403,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "día:",
+   "contando": false,
+   "r": [
+    414,
+    1205,
+    478,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    489,
+    1205,
+    553,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    564,
+    1205,
+    710,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    721,
+    1205,
+    776,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "grupo",
+   "contando": false,
+   "r": [
+    787,
+    1205,
+    891,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    902,
+    1205,
+    921,
+    1243
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    115,
+    1279
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "dónde",
+   "contando": false,
+   "r": [
+    126,
+    1241,
+    234,
+    1279
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    245,
+    1241,
+    292,
+    1279
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "está.",
+   "contando": false,
+   "r": [
+    303,
+    1241,
+    386,
+    1279
+   ]
+  },
+  {
+   "t": 21.133,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  6.5,
+  10.0,
+  13.467,
+  16.8,
+  21.133
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.92,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
+  "efectos_por_tipo": {
+   "whoosh": 6,
+   "tic": 4,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 21.712,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 325,
+   "texto": "Pipas o lomo: ¿qué vitamina comparten? Pipas: uno con cuarenta y ocho miligramos. Lomo: uno con cero dos. Es la tiamina. Contribuye al metabolismo energético normal. Y al funcionamiento normal del sistema nervioso. ¿Y otra? La tiamina contribuye a la función psicológica normal. Mándaselo a quien pide lomo y pipas en el bar.",
+   "cortes": 11,
+   "silencios_s": 1.5,
+   "pausas_acortadas_s": 3.11,
+   "duracion_voz_s": 19.83
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.75
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.251,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.801,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 6.621,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.171,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 10.111,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.661,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 13.574,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 14.024,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 16.914,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 19.924,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 652,
+ "tiempo_render_s": 61.3,
+ "tiempos_s": {
+  "preparar": 1.35,
+  "dibujar_y_codificar": 54.7
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "c",
+ "linea_de_tiempo": {
+  "dur": 21.7333,
+  "loop": 21.2333,
+  "var": "c",
+  "n": 3,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.017,
+    0.02,
+    0.033,
+    0.043,
+    0.07
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 2.251,
+    "t_out": 6.621,
+    "t_rom": 2.671,
+    "t_tit": 2.801,
+    "t_txt0": 3.301,
+    "t_ico": 3.051,
+    "voz": 2.671,
+    "pal_txt": [
+     2.671,
+     2.991,
+     3.311,
+     5.191,
+     5.321,
+     5.451,
+     5.581,
+     5.711
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 6.621,
+    "t_out": 10.111,
+    "t_rom": 7.041,
+    "t_tit": 7.171,
+    "t_txt0": 7.671,
+    "t_ico": 7.421,
+    "voz": 7.041,
+    "pal_txt": [
+     8.081,
+     8.321,
+     8.561,
+     9.121,
+     9.881
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 10.111,
+    "t_out": 13.574,
+    "t_rom": 10.531,
+    "t_tit": 10.661,
+    "t_txt0": 11.161,
+    "t_ico": 10.911,
+    "voz": 10.531,
+    "pal_txt": [
+     10.831,
+     10.831,
+     10.784,
+     11.384,
+     11.784,
+     11.944,
+     12.344
+    ],
+    "bt": 560
+   }
+  ],
+  "conc": {
+   "t_in": 13.574,
+   "t_g": 14.174,
+   "voz": 14.124,
+   "decl": 14.124,
+   "pal_g": [
+    14.174,
+    14.199,
+    14.274,
+    14.449
+   ],
+   "pal_f": [
+    14.124,
+    14.244,
+    14.884,
+    15.071,
+    15.257,
+    15.444,
+    15.844,
+    16.484
+   ],
+   "t_f0": 14.674,
+   "bt": 652
+  },
+  "fin": {
+   "t_in": 16.914,
+   "voz": 17.334,
+   "t_c0": 17.664,
+   "t_fil": 18.014,
+   "t_an": 19.924,
+   "pal_c": [
+    17.334,
+    17.654,
+    17.974,
+    18.214,
+    18.494,
+    18.734,
+    18.974,
+    19.174,
+    19.374,
+    19.574
+   ],
+   "B0": 19.214
+  },
+  "trans": [
+   2.251,
+   6.621,
+   10.111,
+   13.574,
+   16.914
+  ],
+  "extra": [
+   19.514,
+   19.764,
+   21.4333,
+   21.6333
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 2.251,
+    "off": 640
+   },
+   {
+    "t_in": 6.621,
+    "off": 1260
+   },
+   {
+    "t_in": 10.111,
+    "off": 1880
+   },
+   {
+    "t_in": 13.574,
+    "off": 2500
+   }
+  ],
+  "fin_voz": 19.834,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  2.6,
+  6.5,
+  6.9667,
+  10.0,
+  10.4667,
+  13.4667,
+  14.0667,
+  16.8,
+  17.5,
+  21.1333,
+  21.7
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Pipas o lomo: ¿qué vitamina comparten?",
+   "t": 0.021,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Pipas: uno con cuarenta y ocho miligramos. Lomo: uno con cero dos.",
+   "t": 2.671,
+   "puntos": 6.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Es la tiamina. Contribuye al metabolismo energético normal.",
+   "t": 7.041,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Y al funcionamiento normal del sistema nervioso. ¿Y otra?",
+   "t": 10.531,
+   "puntos": 4.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "La tiamina contribuye a la función psicológica normal.",
+   "t": 14.124,
+   "puntos": 9.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien pide lomo y pipas en el bar.",
+   "t": 17.334,
+   "puntos": 12.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: VIT-023, VIT-021",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «asos.  i.  ii.  iii.  La clave del día  Pipas y lomo, p»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #tiamina #vitaminas #nutricion»",
+  "controles: [texto IA (pie)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «pipas en el bar. Próxima clave del día: una vitamina de»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Qué paso no conocías? Mán»"
+ ]
+}

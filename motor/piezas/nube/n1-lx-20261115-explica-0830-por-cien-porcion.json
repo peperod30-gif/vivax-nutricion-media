@@ -1,0 +1,95 @@
+{
+  "id": "n1-lx-20261115-explica-0830-por-cien-porcion",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-explica",
+  "pilar": "ensenar",
+  "hechos": [
+    "ETQ-001"
+  ],
+  "titulo": "[EXPLICA] Cada tabla habla de 100 g. Tu envase, no.",
+  "hojas": [
+    {
+      "plantilla": "lx_explica_portada",
+      "kicker": "En treinta segundos",
+      "titulo": "Cada tabla habla de 100 g. Tu {envase}, no.",
+      "dato": "En tres pasos.",
+      "items": [
+        {
+          "cab": "i."
+        },
+        {
+          "cab": "ii."
+        },
+        {
+          "cab": "iii."
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "i.",
+      "titulo": "Siempre por 100",
+      "texto": "Energía y {nutrientes} se expresan por 100 g o por 100 ml."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "ii.",
+      "titulo": "La porción, como extra",
+      "texto": "Puede añadirse por {porción}, solo en los casos que permite el reglamento."
+    },
+    {
+      "plantilla": "lx_explica_paso",
+      "kicker": "iii.",
+      "titulo": "Misma base para comparar",
+      "texto": "Un dato por porción no se {compara} con uno por 100 g."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "La regla, tal cual",
+      "resalte": "La regla",
+      "frase": "En la etiqueta, la energía y los nutrientes se expresan por 100 g o por 100 ml.",
+      "fuente": "Norma de etiquetado de la UE; es información sobre cómo se etiqueta, no una recomendación personal."
+    },
+    {
+      "plantilla": "lx_explica_cierre",
+      "frase": "Mándaselo a quien compara bolsas de distinto tamaño.",
+      "texto": "A media mañana, en el Aula: lo que aporta un gramo de cada nutriente."
+    }
+  ],
+  "pie_instagram": "Cada tabla habla de 100 g. Tu envase, no.\n\nI · Siempre por 100: energía y nutrientes se expresan por 100 g o por 100 ml.\nII · La porción, como extra: puede añadirse por porción, solo en los casos que permite el reglamento.\nIII · Misma base para comparar: un dato por porción no se compara con uno por 100 g.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLa regla: en la etiqueta, la energía y los nutrientes se expresan por 100 g o por 100 ml.\n\n¿Qué paso no conocías?\nMándaselo a quien compara bolsas de distinto tamaño.\nA media mañana, en el Aula: lo que aporta un gramo de cada nutriente.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#etiquetado #nutricion #tablanutricional #aprendeconvivax",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: fichas a sangre en oliva que suben una tras otra y se apilan como pestañas con su número y su título. En treinta segundos. Cada tabla habla de 100 g. Tu envase, no. I. Siempre por 100. Energía y nutrientes se expresan por 100 g o por 100 ml. II. La porción, como extra. Puede añadirse por porción, solo en los casos que permite el reglamento. III. Misma base para comparar. Un dato por porción no se compara con uno por 100 g. La regla, tal cual. La regla: En la etiqueta, la energía y los nutrientes se expresan por 100 g o por 100 ml. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien compara bolsas de distinto tamaño. A media mañana, en el Aula: lo que aporta un gramo de cada nutriente."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "serie": "En 30 segundos",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica",
+    "formato": "EXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_explica (Vivax Luxury, variante b: fichas que se apilan) · spec n1-lux-20261115-0830-por-cien-porcion",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "b",
+    "spec_id": "n1-lux-20261115-0830-por-cien-porcion",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261115-0830-por-cien-porcion",
+    "plantilla_visual": "reel_explica",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: Reglamento (UE) nº 1169/2011, artículo 32, apartado 2 (por 100 g o 100 ml), y artículo 33 (por porción o por unidad de consumo, de forma complementaria o en supuestos concretos), ETQ-001, comprobado en la copia en inglés de legislation.gov.uk y en el portal Your Europe. Que un dato por porción no se compara con uno por 100 g es la consecuencia de usar bases distintas, no texto del reglamento. Sin cálculos propios. Voz sintética (IA).",
+  "ia": true,
+  "serie": "En 30 segundos",
+  "pilar_plan": "ensenar"
+}

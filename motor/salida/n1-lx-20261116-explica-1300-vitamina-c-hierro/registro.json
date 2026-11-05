@@ -1,0 +1,1873 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 21.08,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.35,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.6,
+ "n_cambios_visuales": 281,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    96,
+    360,
+    258,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "favor",
+   "contando": false,
+   "r": [
+    287,
+    360,
+    580,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    609,
+    360,
+    747,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    776,
+    360,
+    882,
+    550
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    96,
+    504,
+    565,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    594,
+    504,
+    676,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    705,
+    504,
+    811,
+    694
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hierro.",
+   "contando": false,
+   "r": [
+    96,
+    648,
+    472,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Cuál?",
+   "contando": false,
+   "r": [
+    501,
+    648,
+    899,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1016,
+    117,
+    1077
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    1092,
+    129,
+    1153
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    1168,
+    141,
+    1229
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    1260,
+    171,
+    1360
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    188,
+    1260,
+    289,
+    1360
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasos.",
+   "contando": false,
+   "r": [
+    305,
+    1260,
+    476,
+    1360
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    266,
+    449
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "frase:",
+   "contando": false,
+   "r": [
+    279,
+    397,
+    409,
+    449
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    422,
+    397,
+    468,
+    449
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "colágeno",
+   "contando": false,
+   "r": [
+    481,
+    397,
+    681,
+    449
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "Formación",
+   "contando": false,
+   "r": [
+    96,
+    499,
+    407,
+    594
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    422,
+    499,
+    631,
+    594
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    646,
+    499,
+    716,
+    594
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "colágeno",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    335,
+    666
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    350,
+    571,
+    483,
+    666
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    498,
+    571,
+    551,
+    666
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    96,
+    643,
+    550,
+    738
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    566,
+    643,
+    774,
+    738
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    789,
+    643,
+    860,
+    738
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    96,
+    715,
+    179,
+    810
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "vasos",
+   "contando": false,
+   "r": [
+    194,
+    715,
+    349,
+    810
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "sanguíneos.",
+   "contando": false,
+   "r": [
+    364,
+    715,
+    701,
+    810
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    204,
+    1454
+   ]
+  },
+  {
+   "t": 5.833,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    266,
+    449
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "frase:",
+   "contando": false,
+   "r": [
+    279,
+    397,
+    409,
+    449
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    422,
+    397,
+    468,
+    449
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "colágeno",
+   "contando": false,
+   "r": [
+    481,
+    397,
+    681,
+    449
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Otra:",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    301,
+    541
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    314,
+    489,
+    384,
+    541
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    398,
+    489,
+    563,
+    541
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Contribuye",
+   "contando": false,
+   "r": [
+    96,
+    589,
+    493,
+    703
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    511,
+    589,
+    551,
+    703
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    569,
+    589,
+    635,
+    703
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "protección",
+   "contando": false,
+   "r": [
+    96,
+    676,
+    470,
+    790
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    488,
+    676,
+    573,
+    790
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    591,
+    676,
+    690,
+    790
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    708,
+    676,
+    935,
+    790
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "frente",
+   "contando": false,
+   "r": [
+    96,
+    763,
+    309,
+    877
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    327,
+    763,
+    393,
+    877
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "daño",
+   "contando": false,
+   "r": [
+    411,
+    763,
+    584,
+    877
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "oxidativo.",
+   "contando": false,
+   "r": [
+    603,
+    763,
+    939,
+    877
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    273,
+    1454
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    266,
+    449
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "frase:",
+   "contando": false,
+   "r": [
+    279,
+    397,
+    409,
+    449
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    422,
+    397,
+    468,
+    449
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "colágeno",
+   "contando": false,
+   "r": [
+    481,
+    397,
+    681,
+    449
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Otra:",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    301,
+    541
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    314,
+    489,
+    384,
+    541
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    398,
+    489,
+    563,
+    541
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Dónde",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    317,
+    633
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "está:",
+   "contando": false,
+   "r": [
+    331,
+    581,
+    439,
+    633
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "pimiento",
+   "contando": false,
+   "r": [
+    453,
+    581,
+    645,
+    633
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "verde",
+   "contando": false,
+   "r": [
+    658,
+    581,
+    781,
+    633
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Pimiento",
+   "contando": false,
+   "r": [
+    96,
+    680,
+    408,
+    805
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "verde",
+   "contando": false,
+   "r": [
+    428,
+    680,
+    643,
+    805
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "crudo:",
+   "contando": false,
+   "r": [
+    663,
+    680,
+    906,
+    805
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "80 mg",
+   "contando": false,
+   "r": [
+    96,
+    775,
+    334,
+    900
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    354,
+    775,
+    488,
+    900
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "100 g.",
+   "contando": false,
+   "r": [
+    508,
+    775,
+    734,
+    900
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    88,
+    1088,
+    341,
+    1454
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    462,
+    328
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    387,
+    120,
+    457
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    188,
+    397,
+    266,
+    449
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "frase:",
+   "contando": false,
+   "r": [
+    279,
+    397,
+    409,
+    449
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    422,
+    397,
+    468,
+    449
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "colágeno",
+   "contando": false,
+   "r": [
+    481,
+    397,
+    681,
+    449
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    479,
+    134,
+    549
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "Otra:",
+   "contando": false,
+   "r": [
+    188,
+    489,
+    301,
+    541
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    314,
+    489,
+    384,
+    541
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "células",
+   "contando": false,
+   "r": [
+    398,
+    489,
+    563,
+    541
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    571,
+    148,
+    641
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "Dónde",
+   "contando": false,
+   "r": [
+    188,
+    581,
+    317,
+    633
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "está:",
+   "contando": false,
+   "r": [
+    331,
+    581,
+    439,
+    633
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "pimiento",
+   "contando": false,
+   "r": [
+    453,
+    581,
+    645,
+    633
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "verde",
+   "contando": false,
+   "r": [
+    658,
+    581,
+    781,
+    633
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    724,
+    152,
+    792
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    162,
+    724,
+    195,
+    792
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "favor",
+   "contando": false,
+   "r": [
+    206,
+    724,
+    305,
+    792
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    316,
+    724,
+    353,
+    792
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "hierro?",
+   "contando": false,
+   "r": [
+    363,
+    724,
+    498,
+    792
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    689,
+    433,
+    719
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    804,
+    198,
+    941
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    220,
+    804,
+    582,
+    941
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    604,
+    804,
+    667,
+    941
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "mejora",
+   "contando": false,
+   "r": [
+    96,
+    908,
+    387,
+    1045
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    409,
+    908,
+    487,
+    1045
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "absorción",
+   "contando": false,
+   "r": [
+    509,
+    908,
+    918,
+    1045
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    96,
+    1013,
+    228,
+    1150
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "hierro.",
+   "contando": false,
+   "r": [
+    250,
+    1013,
+    528,
+    1150
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina C. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1352,
+    936,
+    1403
+   ]
+  },
+  {
+   "t": 16.333,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1468,
+    232,
+    1500
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    453,
+    942
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    826,
+    513,
+    942
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    826,
+    712,
+    942
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "pica",
+   "contando": false,
+   "r": [
+    730,
+    826,
+    869,
+    942
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "pimiento",
+   "contando": false,
+   "r": [
+    96,
+    914,
+    382,
+    1030
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "verde",
+   "contando": false,
+   "r": [
+    401,
+    914,
+    574,
+    1030
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    593,
+    914,
+    671,
+    1030
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    689,
+    914,
+    753,
+    1030
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "ensalada.",
+   "contando": false,
+   "r": [
+    96,
+    1002,
+    409,
+    1118
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "Próxima",
+   "contando": false,
+   "r": [
+    96,
+    1205,
+    231,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "clave",
+   "contando": false,
+   "r": [
+    242,
+    1205,
+    337,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    348,
+    1205,
+    403,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "día:",
+   "contando": false,
+   "r": [
+    414,
+    1205,
+    478,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    489,
+    1205,
+    551,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    562,
+    1205,
+    708,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "comparten",
+   "contando": false,
+   "r": [
+    719,
+    1205,
+    903,
+    1243
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    1241,
+    152,
+    1279
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "pipas",
+   "contando": false,
+   "r": [
+    163,
+    1241,
+    247,
+    1279
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    257,
+    1241,
+    276,
+    1279
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    287,
+    1241,
+    321,
+    1279
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    332,
+    1241,
+    430,
+    1279
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.833,
+  9.367,
+  12.4,
+  16.333,
+  20.433
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.94,
+  "tiempo_reduccion_mas_1db_pct": 0.1,
+  "efectos_por_tipo": {
+   "whoosh": 6,
+   "tic": 4,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 21.012,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 323,
+   "texto": "Un favor de la vitamina C al hierro: ¿cuál? Una frase: formación normal de colágeno, para los vasos. Otra: protección de las células frente al daño oxidativo. Pimiento verde crudo: ochenta miligramos. ¿Y el favor al hierro? La vitamina C mejora la absorción del hierro. Mándaselo a quien pica pimiento verde en la ensalada.",
+   "cortes": 11,
+   "silencios_s": 1.5,
+   "pausas_acortadas_s": 2.73,
+   "duracion_voz_s": 19.41
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.61
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.1,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.358,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.908,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 5.968,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.518,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 9.498,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.048,
+   "tipo": "tic",
+   "intensidad": 0.24
+  },
+  {
+   "t": 12.508,
+   "tipo": "whoosh",
+   "intensidad": 0.36
+  },
+  {
+   "t": 12.958,
+   "tipo": "sello",
+   "intensidad": 0.4
+  },
+  {
+   "t": 16.448,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 19.218,
+   "tipo": "pop",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 631,
+ "tiempo_render_s": 51.0,
+ "tiempos_s": {
+  "preparar": 0.87,
+  "dibujar_y_codificar": 44.75
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica",
+ "variante": "b",
+ "linea_de_tiempo": {
+  "dur": 21.0333,
+  "loop": 20.5333,
+  "var": "b",
+  "n": 3,
+  "port": {
+   "t_idx": 1.1,
+   "t_sub": 0.5,
+   "pal": [
+    0.0,
+    0.006,
+    0.022,
+    0.028,
+    0.034,
+    0.059,
+    0.062,
+    0.069,
+    0.088
+   ]
+  },
+  "pasos": [
+   {
+    "t_in": 2.358,
+    "t_out": 5.968,
+    "t_rom": 2.778,
+    "t_tit": 2.908,
+    "t_txt0": 3.408,
+    "t_ico": 3.158,
+    "voz": 2.778,
+    "pal_txt": [
+     3.538,
+     3.978,
+     4.218,
+     4.458,
+     5.138,
+     5.186,
+     5.234,
+     5.282,
+     5.33,
+     5.378,
+     5.538,
+     5.268
+    ],
+    "bt": 376
+   },
+   {
+    "t_in": 5.968,
+    "t_out": 9.498,
+    "t_rom": 6.388,
+    "t_tit": 6.518,
+    "t_txt0": 7.018,
+    "t_ico": 6.768,
+    "voz": 6.388,
+    "pal_txt": [
+     6.688,
+     6.688,
+     6.688,
+     6.908,
+     7.228,
+     7.548,
+     7.708,
+     8.148,
+     8.368,
+     8.588,
+     8.828
+    ],
+    "bt": 468
+   },
+   {
+    "t_in": 9.498,
+    "t_out": 12.508,
+    "t_rom": 9.918,
+    "t_tit": 10.048,
+    "t_txt0": 10.548,
+    "t_ico": 10.298,
+    "voz": 9.918,
+    "pal_txt": [
+     9.918,
+     10.398,
+     10.718,
+     11.238,
+     11.488,
+     11.738
+    ],
+    "bt": 560
+   }
+  ],
+  "conc": {
+   "t_in": 12.508,
+   "t_g": 13.108,
+   "voz": 13.058,
+   "decl": 14.098,
+   "pal_g": [
+    13.108,
+    13.108,
+    13.258,
+    13.458,
+    13.658
+   ],
+   "pal_f": [
+    14.098,
+    14.258,
+    14.638,
+    15.018,
+    15.291,
+    15.565,
+    16.018,
+    16.178
+   ],
+   "t_f0": 13.608,
+   "bt": 652
+  },
+  "fin": {
+   "t_in": 16.448,
+   "voz": 16.868,
+   "t_c0": 17.198,
+   "t_fil": 17.548,
+   "t_an": 19.218,
+   "pal_c": [
+    16.868,
+    17.188,
+    17.508,
+    17.748,
+    17.988,
+    18.468,
+    18.601,
+    18.735,
+    18.868
+   ],
+   "B0": 18.748
+  },
+  "trans": [
+   2.358,
+   5.968,
+   9.498,
+   12.508,
+   16.448
+  ],
+  "extra": [
+   19.048000000000002,
+   19.298000000000002,
+   20.7333,
+   20.9333
+  ],
+  "cinta": [
+   {
+    "t_in": 0.0,
+    "off": 0.0
+   },
+   {
+    "t_in": 2.358,
+    "off": 640
+   },
+   {
+    "t_in": 5.968,
+    "off": 1260
+   },
+   {
+    "t_in": 9.498,
+    "off": 1880
+   },
+   {
+    "t_in": 12.508,
+    "off": 2500
+   }
+  ],
+  "fin_voz": 19.408,
+  "deriva": [
+   9.0,
+   30.0
+  ]
+ },
+ "muestras": [
+  0.0,
+  1.3,
+  2.7,
+  5.8333,
+  6.3333,
+  9.3667,
+  9.8333,
+  12.4,
+  13.0,
+  16.3333,
+  17.0333,
+  20.4333,
+  21.0
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Un favor de la vitamina C al hierro: ¿cuál?",
+   "t": 0.021,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Una frase: formación normal de colágeno, para los vasos.",
+   "t": 2.778,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Otra: protección de las células frente al daño oxidativo.",
+   "t": 6.388,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Pimiento verde crudo: ochenta miligramos.",
+   "t": 9.918,
+   "puntos": 5.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "¿Y el favor al hierro? La vitamina C mejora la absorción del hierro.",
+   "t": 13.058,
+   "puntos": 10.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien pica pimiento verde en la ensalada.",
+   "t": 16.868,
+   "puntos": 13.0
+  }
+ ],
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: VIT-017, VIT-019",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «asos.  i.  ii.  iii.  La clave del día  Una frase: el c»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #vitaminaC #hierro #nutricion»",
+  "controles: [texto IA (pie)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: « en la ensalada. Próxima clave del día: qué vitamina co»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Qué paso no conocías? Mán»"
+ ]
+}
