@@ -1,0 +1,120 @@
+{
+  "id": "n1-lx-20261130-reel-vf-2100-grasas-frases-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "DEB-039",
+    "NOV-003",
+    "DEB-014"
+  ],
+  "titulo": "[REEL-VF] ¿Todas las LDL son iguales? Y dos dudas más",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "¿Todas las LDL son iguales? Y dos dudas {más}"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "Todas las partículas de LDL son iguales.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "un conjunto heterogéneo",
+      "unidad": "",
+      "dato": "revisión de 2025",
+      "items": [
+        {
+          "nombre": "LDL modificadas"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "Cambiar saturada por poliinsaturada bajó el LDL.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "9,83",
+      "unidad": "mg/dl",
+      "dato": "bajada media del LDL",
+      "items": [
+        {
+          "nombre": "Más poliinsaturada",
+          "valor": "9,83 mg/dl"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "Más ácido linoleico subió marcadores de inflamación en sanos.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "no subió marcadores de inflamación",
+      "unidad": "",
+      "dato": "en personas sanas",
+      "items": [
+        {
+          "nombre": "Ácido linoleico"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "El dato final",
+      "frase": "La bajada del LDL depende de que la grasa poliinsaturada sustituya a la saturada.",
+      "fuente": "Hecho del banco de Vivax con su fuente en el primer comentario. No es una recomendación personal.",
+      "titulo": "¿De qué depende esa bajada?"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien opina de grasas en cada sobremesa.",
+      "texto": "Mañana por la mañana: la dieta mediterránea, ¿la seguimos?"
+    }
+  ],
+  "pie_instagram": "¿Todas las LDL son iguales? Y dos dudas más\n\nTodas las partículas de LDL son iguales. Falso: un conjunto heterogéneo (revisión de 2025).\nCambiar saturada por poliinsaturada bajó el LDL. Verdadero: más poliinsaturada 9,83 mg/dl (bajada media del LDL).\nMás ácido linoleico subió marcadores de inflamación en sanos. Falso: no subió marcadores de inflamación (en personas sanas).\n\nY el dato final: La bajada del LDL depende de que la grasa poliinsaturada sustituya a la saturada. Hecho del banco de Vivax con su fuente en el primer comentario. No es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien opina de grasas en cada sobremesa.\nMañana por la mañana: la dieta mediterránea, ¿la seguimos?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #colesterol #nutricion #verdaderoofalso",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. ¿Todas las LDL son iguales? Y dos dudas más. I. Todas las partículas de LDL son iguales. Falso: un conjunto heterogéneo, LDL modificadas, revisión de 2025. II. Cambiar saturada por poliinsaturada bajó el LDL. Verdadero: Más poliinsaturada 9,83 mg/dl, bajada media del LDL. III. Más ácido linoleico subió marcadores de inflamación en sanos. Falso: no subió marcadores de inflamación, Ácido linoleico, en personas sanas. ¿De qué depende esa bajada? El dato final: La bajada del LDL depende de que la grasa poliinsaturada sustituya a la saturada. Mándaselo a quien opina de grasas en cada sobremesa. Mañana por la mañana: la dieta mediterránea, ¿la seguimos?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-30",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury, quiz de ideas) · spec n1-lux-20261130-2100-grasas-frases-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261130-2100-grasas-frases-quiz",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261130-2100-grasas-frases-quiz",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: Dabravolski SA et al. Clin Biochem 2025;140:111016 (DEB-039), revisión de mecanismos: las LDL modificadas (carbamiladas, nitradas, desializadas y otras) forman un conjunto heterogéneo y muy aterogénico de partículas, la LDL electronegativa; no compara la LDL modificada con la no modificada ni dice que el colesterol LDL deje de importar, y aún no hay análisis de laboratorio estandarizados para medirlas. Hart TL et al. Adv Nutr 2025;16(10):100502 (NOV-003), 24 ensayos de alimentación controlada con 1.011 adultos; si las dietas se igualan en grasa saturada, la diferencia no es significativa; es un desenlace intermedio (LDL), no eventos clínicos. Johnson GH, Fritsche K. J Acad Nutr Diet 2012;112:1029-1041 (DEB-014), 15 ensayos en personas sanas; ninguno halló diferencias significativas en marcadores de inflamación (proteína C reactiva, fibrinógeno, factor de necrosis tumoral alfa); miden marcadores, no enfermedades. Resúmenes consultados en Europe PMC. NOV-003 tiene riesgo de publicar alto: pendiente de validación. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}

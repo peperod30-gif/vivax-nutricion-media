@@ -1,0 +1,2908 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 25.88,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.14,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.767,
+ "n_cambios_visuales": 247,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    117,
+    758
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    193,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hogares",
+   "contando": false,
+   "r": [
+    210,
+    769,
+    444,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "compraron",
+   "contando": false,
+   "r": [
+    461,
+    769,
+    775,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    791,
+    769,
+    914,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    287,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    304,
+    853,
+    409,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    426,
+    853,
+    478,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "año",
+   "contando": false,
+   "r": [
+    494,
+    853,
+    599,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "anterior.",
+   "contando": false,
+   "r": [
+    616,
+    853,
+    859,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    117,
+    758
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    193,
+    878
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "hogares",
+   "contando": false,
+   "r": [
+    210,
+    769,
+    444,
+    878
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "compraron",
+   "contando": false,
+   "r": [
+    461,
+    769,
+    775,
+    878
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    791,
+    769,
+    914,
+    878
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    287,
+    962
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    304,
+    853,
+    409,
+    962
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    426,
+    853,
+    478,
+    962
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "año",
+   "contando": false,
+   "r": [
+    494,
+    853,
+    599,
+    962
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "anterior.",
+   "contando": false,
+   "r": [
+    616,
+    853,
+    859,
+    962
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 3.3,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    117,
+    758
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    193,
+    878
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "hogares",
+   "contando": false,
+   "r": [
+    210,
+    769,
+    444,
+    878
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "compraron",
+   "contando": false,
+   "r": [
+    461,
+    769,
+    775,
+    878
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    791,
+    769,
+    914,
+    878
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    287,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    304,
+    853,
+    409,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    426,
+    853,
+    478,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "año",
+   "contando": false,
+   "r": [
+    494,
+    853,
+    599,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "anterior.",
+   "contando": false,
+   "r": [
+    616,
+    853,
+    859,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    180,
+    1167,
+    246,
+    1203
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    356,
+    1073,
+    431,
+    1176
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "5,3 %",
+   "contando": false,
+   "r": [
+    447,
+    1073,
+    618,
+    1176
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    634,
+    1073,
+    839,
+    1176
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    356,
+    1173,
+    468,
+    1276
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    484,
+    1173,
+    559,
+    1276
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "2024",
+   "contando": false,
+   "r": [
+    575,
+    1173,
+    731,
+    1276
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "por persona",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    578,
+    1312
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Azúcar en casa",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    250,
+    1349
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    127,
+    758
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    159,
+    878
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "compra",
+   "contando": false,
+   "r": [
+    175,
+    769,
+    394,
+    878
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    410,
+    769,
+    481,
+    878
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "edulcorantes",
+   "contando": false,
+   "r": [
+    497,
+    769,
+    875,
+    878
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "también",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    329,
+    962
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "bajó.",
+   "contando": false,
+   "r": [
+    345,
+    853,
+    485,
+    962
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 8.633,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    127,
+    758
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    159,
+    878
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "compra",
+   "contando": false,
+   "r": [
+    175,
+    769,
+    394,
+    878
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    410,
+    769,
+    481,
+    878
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "edulcorantes",
+   "contando": false,
+   "r": [
+    497,
+    769,
+    875,
+    878
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "también",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    329,
+    962
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "bajó.",
+   "contando": false,
+   "r": [
+    345,
+    853,
+    485,
+    962
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    180,
+    1167,
+    246,
+    1203
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    356,
+    1102,
+    461,
+    1246
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "3,8 %",
+   "contando": false,
+   "r": [
+    483,
+    1102,
+    721,
+    1246
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    743,
+    1102,
+    926,
+    1246
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "en volumen",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    563,
+    1312
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Edulcorantes",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    233,
+    1349
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    137,
+    758
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    193,
+    878
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "hogares",
+   "contando": false,
+   "r": [
+    210,
+    769,
+    444,
+    878
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "compraron",
+   "contando": false,
+   "r": [
+    461,
+    769,
+    775,
+    878
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    289,
+    962
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "refresco",
+   "contando": false,
+   "r": [
+    306,
+    853,
+    548,
+    962
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    565,
+    853,
+    635,
+    962
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    651,
+    853,
+    789,
+    962
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 14.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "Azúcar,",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    304,
+    461
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    664,
+    461
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    131,
+    546
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "cola:",
+   "contando": false,
+   "r": [
+    148,
+    436,
+    286,
+    546
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    303,
+    436,
+    444,
+    546
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    460,
+    436,
+    617,
+    546
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    166,
+    630
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "2025?",
+   "contando": false,
+   "r": [
+    183,
+    533,
+    343,
+    621
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    703,
+    137,
+    758
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    193,
+    878
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "hogares",
+   "contando": false,
+   "r": [
+    210,
+    769,
+    444,
+    878
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "compraron",
+   "contando": false,
+   "r": [
+    461,
+    769,
+    775,
+    878
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    96,
+    853,
+    289,
+    962
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "refresco",
+   "contando": false,
+   "r": [
+    306,
+    853,
+    548,
+    962
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    565,
+    853,
+    635,
+    962
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    651,
+    853,
+    789,
+    962
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    152,
+    1167,
+    275,
+    1203
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "bajaron",
+   "contando": false,
+   "r": [
+    356,
+    1073,
+    589,
+    1176
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    605,
+    1073,
+    680,
+    1176
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "3,9 %",
+   "contando": false,
+   "r": [
+    696,
+    1073,
+    867,
+    1176
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    356,
+    1173,
+    431,
+    1276
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "volumen",
+   "contando": false,
+   "r": [
+    447,
+    1173,
+    708,
+    1276
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "según el MAPA",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    610,
+    1312
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "Refresco de cola",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    269,
+    1349
+   ]
+  },
+  {
+   "t": 15.7,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    348,
+    180,
+    486
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "eso",
+   "contando": false,
+   "r": [
+    201,
+    348,
+    332,
+    486
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    352,
+    348,
+    438,
+    486
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    459,
+    348,
+    525,
+    486
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    455,
+    229,
+    593
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "comemos?",
+   "contando": false,
+   "r": [
+    250,
+    455,
+    651,
+    593
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    407,
+    772
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    791,
+    150,
+    918
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "dato",
+   "contando": false,
+   "r": [
+    170,
+    791,
+    317,
+    918
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    337,
+    791,
+    479,
+    918
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "recoge",
+   "contando": false,
+   "r": [
+    498,
+    791,
+    731,
+    918
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    751,
+    791,
+    811,
+    918
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "categoría",
+   "contando": false,
+   "r": [
+    96,
+    888,
+    414,
+    1015
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "«azúcar»",
+   "contando": false,
+   "r": [
+    433,
+    888,
+    752,
+    1015
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    771,
+    888,
+    853,
+    1015
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    872,
+    888,
+    932,
+    1015
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "compra,",
+   "contando": false,
+   "r": [
+    96,
+    986,
+    371,
+    1113
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    390,
+    986,
+    473,
+    1113
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    492,
+    986,
+    553,
+    1113
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    572,
+    986,
+    795,
+    1113
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    814,
+    986,
+    937,
+    1113
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "ya",
+   "contando": false,
+   "r": [
+    96,
+    1083,
+    174,
+    1210
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "trae",
+   "contando": false,
+   "r": [
+    194,
+    1083,
+    328,
+    1210
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    347,
+    1083,
+    409,
+    1210
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "envasado.",
+   "contando": false,
+   "r": [
+    428,
+    1083,
+    769,
+    1210
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "Hecho del banco de Vivax con su fuente en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    900,
+    1395
+   ]
+  },
+  {
+   "t": 21.567,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    789,
+    386,
+    880
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    401,
+    789,
+    434,
+    880
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    449,
+    789,
+    599,
+    880
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "hace",
+   "contando": false,
+   "r": [
+    613,
+    789,
+    746,
+    880
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    760,
+    789,
+    810,
+    880
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "compra",
+   "contando": false,
+   "r": [
+    96,
+    879,
+    304,
+    970
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "grande",
+   "contando": false,
+   "r": [
+    318,
+    879,
+    509,
+    970
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    523,
+    879,
+    606,
+    970
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "mes.",
+   "contando": false,
+   "r": [
+    621,
+    879,
+    754,
+    970
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "mañana:",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    415,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    424,
+    1175,
+    475,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "significa",
+   "contando": false,
+   "r": [
+    485,
+    1175,
+    600,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "«evidencia",
+   "contando": false,
+   "r": [
+    610,
+    1175,
+    756,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "muy",
+   "contando": false,
+   "r": [
+    766,
+    1175,
+    821,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "débil».",
+   "contando": false,
+   "r": [
+    830,
+    1175,
+    926,
+    1216
+   ]
+  },
+  {
+   "t": 25.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.3,
+  4.7,
+  8.633,
+  10.033,
+  14.267,
+  15.7,
+  21.567,
+  25.233
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.44,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
+  "efectos_por_tipo": {
+   "tic": 9,
+   "tac": 3,
+   "sello": 3,
+   "golpe": 2,
+   "contador": 20,
+   "whoosh": 4,
+   "ding": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 25.812,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 307,
+   "texto": "Los hogares compraron más azúcar que el año anterior. ¡Falso! La compra de edulcorantes también bajó. ¡Falso! Los hogares compraron menos refresco de cola. ¡Verdadero! ¿Y eso es lo que comemos? Solo cuenta el azúcar de paquete. No el que ya trae lo envasado. Mándaselo a quien hace la compra grande del mes.",
+   "duracion_voz_s": 24.465,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Los hogares compraron más azúcar que el año anterior.",
+     "t0": 0.0213,
+     "t1": 2.7313
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso!",
+     "t0": 3.3713,
+     "t1": 3.8113
+    },
+    {
+     "id": "a1",
+     "texto": "La compra de edulcorantes también bajó.",
+     "t0": 6.0213,
+     "t1": 8.0213
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso!",
+     "t0": 8.7113,
+     "t1": 9.2313
+    },
+    {
+     "id": "a2",
+     "texto": "Los hogares compraron menos refresco de cola.",
+     "t0": 11.3413,
+     "t1": 13.6613
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero!",
+     "t0": 14.3563,
+     "t1": 14.9163
+    },
+    {
+     "id": "c",
+     "texto": "¿Y eso es lo que comemos? Solo cuenta el azúcar de paquete. No el que ya trae lo envasado.",
+     "t0": 16.8563,
+     "t1": 21.5913
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien hace la compra grande del mes.",
+     "t0": 22.1263,
+     "t1": 24.3263
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.79
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.486,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.351,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.801,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.351,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.391,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.601,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.701,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.801,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.901,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.001,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.101,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.621,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.131,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.641,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.091,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.691,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.731,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.941,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.041,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.141,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.241,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.341,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.441,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.541,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.956,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.941,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 12.611,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.281,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.731,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.336,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.376,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 14.586,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.686,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.786,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.886,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.986,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.086,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.186,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.561,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.661,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 24.426,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 775,
+ "tiempo_render_s": 80.0,
+ "tiempos_s": {
+  "preparar": 2.04,
+  "dibujar_y_codificar": 68.26
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 25.8333,
+  "loop": 25.3333,
+  "conc": {
+   "t_in": 16.561,
+   "palabras": [
+    17.511,
+    17.511,
+    17.511,
+    17.511,
+    17.8531,
+    17.9777,
+    18.5385,
+    19.0369,
+    19.1615,
+    19.2861,
+    19.7222,
+    19.8468,
+    19.9714,
+    20.3452,
+    20.5322,
+    20.6568,
+    20.906,
+    21.0306
+   ],
+   "palabras_g": [
+    16.8563,
+    16.9763,
+    17.2563,
+    17.3363,
+    17.4563,
+    17.6163
+   ],
+   "t_sal": 17.361,
+   "t_frase": 21.581
+  },
+  "fin": {
+   "t_in": 21.661,
+   "palabras": [
+    22.1263,
+    22.6863,
+    22.8063,
+    23.0193,
+    23.1663,
+    23.2863,
+    23.6063,
+    23.9263,
+    24.0863
+   ],
+   "palabras_an": [
+    24.426,
+    24.426,
+    24.426,
+    24.426,
+    24.426,
+    24.426,
+    24.426,
+    24.426,
+    24.426
+   ],
+   "t_an": 24.426
+  },
+  "iconos": [
+   [
+    -1.0,
+    5.571000000000001
+   ],
+   [
+    5.571000000000001,
+    10.905999999999999
+   ],
+   [
+    10.905999999999999,
+    16.561
+   ],
+   [
+    16.561,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 24.326,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.801,
+    "tv": 3.351,
+    "pasos": [
+     0.621,
+     1.486,
+     2.351
+    ],
+    "t_out": 5.571
+   },
+   {
+    "t_in": 5.871,
+    "t0": 6.021,
+    "buzz": 8.091,
+    "tv": 8.691,
+    "pasos": [
+     6.621,
+     7.131,
+     7.641
+    ],
+    "t_out": 10.906
+   },
+   {
+    "t_in": 11.206,
+    "t0": 11.341,
+    "buzz": 13.731,
+    "tv": 14.336,
+    "pasos": [
+     11.941,
+     12.611,
+     13.281
+    ],
+    "t_out": 17.061
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.7,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.5667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.7,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.4667,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 8.0,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 8.9,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 10.0333,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 11.8,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 13.6333,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 14.5333,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 15.7,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 17.0667,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.5667,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 22.1667,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 25.2333,
+   "que": "cierre"
+  },
+  {
+   "t": 25.8,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

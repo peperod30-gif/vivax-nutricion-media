@@ -23,24 +23,21 @@
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "La corriente del riesgo",
-      "titulo": "La resistencia a la insulina se asocia a más {cardiopatía}",
-      "dato": "En 516.325 personas sin diabetes, HOMA-IR alto frente a bajo: cardiopatía coronaria 1,64.",
-      "cifra": "1,64",
-      "fuente": "Metaanálisis, PLoS ONE, 2012",
-      "resalte": "Letra pequeña",
-      "texto": "Es observacional: asocia, no demuestra causa."
+      "kicker": "La resistencia",
+      "titulo": "Resistencia a la insulina: más {riesgo}",
+      "dato": "En personas sin diabetes, quien tenía más resistencia a la insulina tenía más enfermedad del corazón.",
+      "fuente": "Revista PLoS ONE, 2012",
+      "resalte": "Ojo",
+      "texto": "Solo se vio quién tenía qué, no se probó la causa."
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "La corriente hormonal",
-      "titulo": "La insulina bajó marcadores de {inflamación} en horas",
-      "dato": "10 personas, 4 horas de insulina en vena: bajaron marcadores de inflamación. Con glucosa o suero solos, nada.",
-      "cifra": "4",
-      "unidad": "horas",
-      "fuente": "J Clin Endocrinol Metab, 2001",
-      "resalte": "Letra pequeña",
-      "texto": "Pequeño y de 4 horas: mide marcadores, no enfermedad, y no habla de la insulina alta crónica."
+      "kicker": "La insulina sola",
+      "titulo": "La insulina bajó señales de {inflamación}",
+      "dato": "Insulina por la vena: bajaron las señales de inflamación de la sangre. Con azúcar o suero solos, nada.",
+      "fuente": "Journal of Clinical Endocrinology & Metabolism, 2001",
+      "resalte": "Ojo",
+      "texto": "Muy pocas personas y solo 4 horas. Mide señales, no enfermedad, ni la insulina alta durante años."
     },
     {
       "plantilla": "f_ranking",
@@ -49,15 +46,12 @@
       "texto": "¿Tú las distinguías?",
       "items": [
         {
-          "nombre": "La corriente del riesgo",
-          "texto": "La resistencia a la insulina se asocia a más {cardiopatía}",
-          "valor": "1,64"
+          "nombre": "La resistencia",
+          "texto": "Resistencia a la insulina: más {riesgo}"
         },
         {
-          "nombre": "La corriente hormonal",
-          "texto": "La insulina bajó marcadores de {inflamación} en horas",
-          "valor": "4",
-          "unidad": "horas"
+          "nombre": "La insulina sola",
+          "texto": "La insulina bajó señales de {inflamación}"
         }
       ]
     },
@@ -68,22 +62,22 @@
       "titulo": "de si se mide la resistencia a la insulina o la insulina sola.",
       "items": [
         {
-          "nombre": "Insulina en ayunas, sola",
-          "texto": "Cardiopatía coronaria: 1,12, sin significación estadística."
+          "nombre": "La insulina en ayunas, sola",
+          "texto": "Con el corazón, la relación no fue clara."
         },
         {
-          "nombre": "Glucosa en ayunas",
-          "texto": "Cardiopatía coronaria: 1,52 al comparar concentraciones altas con bajas."
+          "nombre": "El azúcar en sangre en ayunas",
+          "texto": "Alto, sí se asoció a más enfermedad del corazón."
         }
       ],
-      "dato": "Según el metaanálisis de PLoS ONE."
+      "dato": "Según la postura de la resistencia."
     },
     {
       "plantilla": "f_ranking",
-      "titulo": "¿Y la insulina en ayunas, sola?",
+      "titulo": "La palabra que lo separa: resistencia.",
       "resalte": "El dato final",
-      "frase": "En el mismo metaanálisis, la insulina en ayunas sola no se asoció de forma significativa: 1,12. La resistencia a la insulina, 1,64.",
-      "fuente": "Es un dato de una de las posturas del debate, no un veredicto. Son asociaciones, no causa. No es una recomendación personal."
+      "frase": "La resistencia a la insulina se asoció a más riesgo del corazón. Con la insulina en ayunas sola, la relación no fue clara.",
+      "fuente": "Es un dato de una de las posturas, no un veredicto. Se vio quién tenía qué, no la causa. No es una recomendación personal."
     },
     {
       "plantilla": "f_ranking",
@@ -91,18 +85,18 @@
       "titulo": "{Depende} de si se mide la resistencia a la insulina o la insulina sola.",
       "texto": "Mándaselo a quien habla de insulina en cada comida.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "fuente": "Según el metaanálisis de PLoS ONE.",
+      "fuente": "Según la postura de la resistencia.",
       "dato": "Mañana a media mañana: los hidratos y la inflamación."
     }
   ],
-  "pie_instagram": "Insulina y corazón: lo separa una sola palabra.\n\nLa corriente del riesgo: En 516.325 personas sin diabetes, HOMA-IR alto frente a bajo: cardiopatía coronaria 1,64. Letra pequeña: es observacional: asocia, no demuestra causa.\nLa corriente hormonal: 10 personas, 4 horas de insulina en vena: bajaron marcadores de inflamación. Con glucosa o suero solos, nada. Letra pequeña: pequeño y de 4 horas: mide marcadores, no enfermedad, y no habla de la insulina alta crónica.\nEl matiz: Depende de si se mide la resistencia a la insulina o la insulina sola. Insulina en ayunas, sola: cardiopatía coronaria: 1,12, sin significación estadística. Glucosa en ayunas: cardiopatía coronaria: 1,52 al comparar concentraciones altas con bajas. Según el metaanálisis de PLoS ONE.\nY el dato final: En el metaanálisis de 65 estudios con 516.325 personas sin diabetes, el riesgo relativo de cardiopatía coronaria fue de 1,64 para la resistencia a la insulina (HOMA-IR), de 1,52 para la glucosa en ayunas y de 1,12, no significativo, para la insulina en ayunas.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Tú las distinguías?\nMándaselo a quien habla de insulina en cada comida.\nMañana a media mañana: los hidratos y la inflamación.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#insulina #resistenciaalainsulina #nutricion #mitoodato",
+  "pie_instagram": "Insulina y corazón: lo separa una sola palabra.\n\nLa resistencia: En personas sin diabetes, quien tenía más resistencia a la insulina tenía más enfermedad del corazón. Ojo: solo se vio quién tenía qué, no se probó la causa.\nLa insulina sola: Insulina por la vena: bajaron las señales de inflamación de la sangre. Con azúcar o suero solos, nada. Ojo: muy pocas personas y solo 4 horas. Mide señales, no enfermedad, ni la insulina alta durante años.\nEl matiz: Depende de si se mide la resistencia a la insulina o la insulina sola. La insulina en ayunas, sola: con el corazón, la relación no fue clara. El azúcar en sangre en ayunas: alto, sí se asoció a más enfermedad del corazón. Según la postura de la resistencia.\nY el dato final: Al juntar 65 trabajos con más de medio millón de personas sin diabetes, la resistencia a la insulina y el azúcar alto en ayunas se asociaron a más enfermedad del corazón; con la insulina en ayunas sola, la relación no fue clara. Es una asociación: no prueba la causa.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Tú las distinguías?\nMándaselo a quien habla de insulina en cada comida.\nMañana a media mañana: los hidratos y la inflamación.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#insulina #resistenciaalainsulina #nutricion #mitoodato",
   "alt": [
     "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. Insulina y corazón: lo separa una sola palabra. La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. La corriente del riesgo. La resistencia a la insulina se asocia a más cardiopatía. 1,64. Es observacional: asocia, no demuestra causa. En 516.325 personas sin diabetes, HOMA-IR alto frente a bajo: cardiopatía coronaria 1,64. Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. La corriente hormonal. La insulina bajó marcadores de inflamación en horas. 4 horas. Pequeño y de 4 horas: mide marcadores, no enfermedad, y no habla de la insulina alta crónica. 10 personas, 4 horas de insulina en vena: bajaron marcadores de inflamación. Con glucosa o suero solos, nada. Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Pesa más la insulina o la resistencia a la insulina? ¿Tú las distinguías? La corriente del riesgo 1,64 La resistencia a la insulina se asocia a más cardiopatía. La corriente hormonal 4 horas La insulina bajó marcadores de inflamación en horas.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de si se mide la resistencia a la insulina o la insulina sola. Según el metaanálisis de PLoS ONE. Insulina en ayunas, sola Cardiopatía coronaria: 1,12, sin significación estadística. Glucosa en ayunas Cardiopatía coronaria: 1,52 al comparar concentraciones altas con bajas. Depende.",
-    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y la insulina en ayunas, sola? El dato final. En el mismo metaanálisis, la insulina en ayunas sola no se asoció de forma significativa: 1,12. La resistencia a la insulina, 1,64.",
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. La resistencia. Resistencia a la insulina: más riesgo. Solo se vio quién tenía qué, no se probó la causa. En personas sin diabetes, quien tenía más resistencia a la insulina tenía más enfermedad del corazón. Ojo.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. La insulina sola. La insulina bajó señales de inflamación. Muy pocas personas y solo 4 horas. Mide señales, no enfermedad, ni la insulina alta durante años. Insulina por la vena: bajaron las señales de inflamación de la sangre. Con azúcar o suero solos, nada. Ojo.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Pesa más la insulina o la resistencia a la insulina? ¿Tú las distinguías? La resistencia Resistencia a la insulina: más riesgo. La insulina sola La insulina bajó señales de inflamación.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de si se mide la resistencia a la insulina o la insulina sola. Según la postura de la resistencia. La insulina en ayunas, sola Con el corazón, la relación no fue clara. El azúcar en sangre en ayunas Alto, sí se asoció a más enfermedad del corazón. Depende.",
+    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. La palabra que lo separa: resistencia. El dato final. La resistencia a la insulina se asoció a más riesgo del corazón. Con la insulina en ayunas sola, la relación no fue clara.",
     "Cierre en oliva con la firma de Vivax. En una frase. Depende de si se mide la resistencia a la insulina o la insulina sola. Mándaselo a quien habla de insulina en cada comida. Mañana a media mañana: los hidratos y la inflamación."
   ],
   "produccion": {
@@ -123,7 +117,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: Gast KB et al. PLoS ONE 2012;7:e52036 (DEB-043), revisión con metaanálisis de 65 estudios (516.325 personas sin diabetes): riesgo relativo de cardiopatía coronaria al comparar concentraciones altas con bajas de 1,64 (IC 95 % 1,35 a 2,00) para la resistencia a la insulina medida con HOMA-IR, de 1,52 (1,31 a 1,76) para la glucosa en ayunas y de 1,12 (0,92 a 1,37), no significativo, para la insulina en ayunas; es observacional y asocia, no demuestra causa. Dandona P et al. The Journal of Clinical Endocrinology & Metabolism 2001;86:3257-3265 (DEB-046): en 10 personas con obesidad, una infusión de insulina de 4 horas redujo el NF-kB intranuclear y otros marcadores de inflamación, y la infusión de glucosa o de suero sin insulina no cambió nada; es un estudio pequeño y a corto plazo, mide marcadores y no enfermedad, y no dice nada de la insulina alta de forma crónica. El depende y las ramas salen del enunciado y del matiz de DEB-043. Resumen de corrientes con sus datos, no una recomendación personal.",
+  "comentario": "Fuentes: Gast KB et al. PLoS ONE 2012;7:e52036 (DEB-043), revisión con metaanálisis de 65 estudios (516.325 personas sin diabetes): riesgo relativo de cardiopatía coronaria al comparar concentraciones altas con bajas de 1,64 (IC 95 % 1,35 a 2,00) para la resistencia a la insulina medida con HOMA-IR, de 1,52 (1,31 a 1,76) para la glucosa en ayunas y de 1,12 (0,92 a 1,37), no significativo, para la insulina en ayunas; es observacional y asocia, no demuestra causa. Dandona P et al. The Journal of Clinical Endocrinology & Metabolism 2001;86:3257-3265 (DEB-046): en 10 personas, una infusión de insulina de 4 horas redujo el NF-kB intranuclear y otros marcadores de inflamación, y la infusión de glucosa o de suero sin insulina no cambió nada; es un estudio pequeño y a corto plazo, mide marcadores y no enfermedad, y no dice nada de la insulina alta de forma crónica. Lenguaje de la pantalla (5-nov): sin los riesgos relativos ni HOMA-IR, que solo se entienden con estadística y quedan aquí; «enfermedad del corazón» por «cardiopatía coronaria»; «la relación no fue clara» por «no significativo»; «azúcar en sangre en ayunas» por «glucosa en ayunas»; «solo se vio quién tenía qué, no se probó la causa» por «observacional»; «señales de inflamación» por «marcadores de inflamación»; «insulina por la vena» por «infusión de insulina»; «azúcar o suero solos» por «infusión de glucosa o de suero sin insulina». El depende y las ramas salen del enunciado y del matiz de DEB-043. Se presentan las dos posturas; no se afirma que la insulina inflame. Resumen de corrientes con sus datos, no una recomendación personal.",
   "serie": "Mito o dato",
   "pilar_plan": "Fibra e hidratos"
 }
