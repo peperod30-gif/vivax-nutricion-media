@@ -23,41 +23,39 @@
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura A",
-      "titulo": "Hacen comer más {por sí mismos}",
-      "dato": "20 adultos ingresados, dos semanas con cada dieta: con la ultraprocesada comieron 508 kcal más al día.",
+      "kicker": "Culpa del procesado",
+      "titulo": "Con ultraprocesados, se come {más}",
+      "dato": "Con menús pensados para ofrecer las mismas calorías por bocado, azúcar, sal y fibra, comieron 508 kcal más al día.",
       "cifra": "508",
       "unidad": "kcal",
-      "fuente": "Cell Metabolism, 2019",
-      "resalte": "Letra pequeña",
-      "texto": "Menús diseñados para igualarse en calorías ofrecidas, densidad energética, azúcar, sodio y fibra."
+      "fuente": "Revista Cell Metabolism, 2019",
+      "resalte": "Ojo",
+      "texto": "Pocas personas, dos semanas con cada menú y comida servida en un centro."
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura B",
-      "titulo": "Puede ser la {densidad energética}",
-      "dato": "En 10 intervenciones al azar, efecto en la energía ingerida: 0,71 con menús más densos y 0,02 con densidad similar.",
-      "cifra": "0,02",
-      "fuente": "Metaanálisis, Crit Rev Food Sci Nutr 2026",
-      "resalte": "Letra pequeña",
-      "texto": "Diferencias de medias estandarizadas, de un análisis por subgrupos y con certeza baja."
+      "kicker": "Culpa de la densidad",
+      "titulo": "Cuentan las calorías por {bocado}",
+      "dato": "Juntando experimentos: se comió más cuando el ultraprocesado concentraba más calorías por bocado. Si no, casi nada.",
+      "fuente": "Critical Reviews in Food Science and Nutrition, 2026",
+      "resalte": "Ojo",
+      "texto": "Es una pista con datos flojos, y los menús no llevaban los mismos nutrientes."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "Frente a frente",
       "titulo": "¿Los ultraprocesados hacen comer más por sí mismos?",
-      "texto": "¿Procesado o densidad?",
+      "texto": "¿Procesado o calorías por bocado?",
       "items": [
         {
-          "nombre": "Postura A",
-          "texto": "Hacen comer más {por sí mismos}",
+          "nombre": "Culpa del procesado",
+          "texto": "Con ultraprocesados, se come {más}",
           "valor": "508",
           "unidad": "kcal"
         },
         {
-          "nombre": "Postura B",
-          "texto": "Puede ser la {densidad energética}",
-          "valor": "0,02"
+          "nombre": "Culpa de la densidad",
+          "texto": "Cuentan las calorías por {bocado}"
         }
       ]
     },
@@ -65,45 +63,45 @@
       "plantilla": "f_ranking",
       "kicker": "El matiz",
       "frase": "Depende",
-      "titulo": "de la densidad energética de los menús y de dónde se coma.",
+      "titulo": "de cuántas calorías concentre cada bocado y de dónde se coma.",
       "items": [
         {
-          "nombre": "El entorno",
-          "texto": "Se servía la comida en un centro: no dice qué pasa fuera ni a más largo plazo."
+          "nombre": "Dónde se come",
+          "texto": "Comida servida en un centro: no dice qué pasa en casa ni a la larga."
         },
         {
-          "nombre": "El perfil de nutrientes",
-          "texto": "En el metaanálisis, los menús no estaban igualados en perfil de nutrientes."
+          "nombre": "Lo que lleva el menú",
+          "texto": "Los menús comparados no tenían los mismos nutrientes."
         }
       ],
-      "dato": "Según el metaanálisis de Robinson y colaboradores."
+      "dato": "Según las dos posturas."
     },
     {
-      "plantilla": "f_ranking",
-      "titulo": "¿Es el procesado o la densidad?",
+      "plantilla": "f_frase",
+      "titulo": "¿Entonces, es culpa del procesado?",
       "resalte": "El dato final",
-      "frase": "Los autores piden más investigación para saber si el grado de procesado afecta a la salud con independencia del perfil de nutrientes.",
+      "frase": "Los autores piden más investigación para saber si el procesado afecta a la salud por sí solo, aparte de los nutrientes.",
       "fuente": "Es un dato de una de las posturas del debate, no un veredicto ni una recomendación personal."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "En una frase",
-      "titulo": "{Depende} de la densidad energética de los menús y de dónde se coma.",
+      "titulo": "{Depende} de cuántas calorías concentre cada bocado y de dónde se coma.",
       "texto": "Mándaselo a quien lee todas las etiquetas del súper.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "fuente": "Según el metaanálisis de Robinson y colaboradores.",
-      "dato": "El martes, otro Mito o dato: el café."
+      "fuente": "Según las dos posturas.",
+      "dato": "El martes, otro Mito o dato: la sal con potasio."
     }
   ],
-  "pie_instagram": "508 kcal más al día con ultraprocesados. ¿Por qué?\n\nPostura A: 20 adultos ingresados, dos semanas con cada dieta: con la ultraprocesada comieron 508 kcal más al día. Letra pequeña: menús diseñados para igualarse en calorías ofrecidas, densidad energética, azúcar, sodio y fibra.\nPostura B: En 10 intervenciones al azar, efecto en la energía ingerida: 0,71 con menús más densos y 0,02 con densidad similar. Letra pequeña: diferencias de medias estandarizadas, de un análisis por subgrupos y con certeza baja.\nEl matiz: Depende de la densidad energética de los menús y de dónde se coma. El entorno: se servía la comida en un centro: no dice qué pasa fuera ni a más largo plazo. El perfil de nutrientes: en el metaanálisis, los menús no estaban igualados en perfil de nutrientes. Según el metaanálisis de Robinson y colaboradores.\nY el dato final: Los autores piden más investigación para saber si el grado de procesado afecta a la salud con independencia del perfil de nutrientes.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Procesado o densidad?\nMándaselo a quien lee todas las etiquetas del súper.\nEl martes, otro Mito o dato: el café.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#ultraprocesados #debates #nutricion #evidencia",
+  "pie_instagram": "508 kcal más al día con ultraprocesados. ¿Por qué?\n\nCulpa del procesado: Con menús pensados para ofrecer las mismas calorías por bocado, azúcar, sal y fibra, comieron 508 kcal más al día. Ojo: pocas personas, dos semanas con cada menú y comida servida en un centro.\nCulpa de la densidad: Juntando experimentos: se comió más cuando el ultraprocesado concentraba más calorías por bocado. Si no, casi nada. Ojo: es una pista con datos flojos, y los menús no llevaban los mismos nutrientes.\nEl matiz: Depende de cuántas calorías concentre cada bocado y de dónde se coma. Dónde se come: comida servida en un centro: no dice qué pasa en casa ni a la larga. Lo que lleva el menú: los menús comparados no tenían los mismos nutrientes. Según las dos posturas.\nY el dato final: Los autores piden más investigación para saber si el procesado afecta a la salud por sí solo, aparte de los nutrientes.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Procesado o calorías por bocado?\nMándaselo a quien lee todas las etiquetas del súper.\nEl martes, otro Mito o dato: la sal con potasio.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#ultraprocesados #debates #nutricion #evidencia",
   "alt": [
     "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. 508 kcal más al día con ultraprocesados. ¿Por qué? La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Postura A. Hacen comer más por sí mismos. 508 kcal. Menús diseñados para igualarse en calorías ofrecidas, densidad energética, azúcar, sodio y fibra. 20 adultos ingresados, dos semanas con cada dieta: con la ultraprocesada comieron 508 kcal más al día. Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Postura B. Puede ser la densidad energética. 0,02. Diferencias de medias estandarizadas, de un análisis por subgrupos y con certeza baja. En 10 intervenciones al azar, efecto en la energía ingerida: 0,71 con menús más densos y 0,02 con densidad similar. Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Los ultraprocesados hacen comer más por sí mismos? ¿Procesado o densidad? Postura A 508 kcal Hacen comer más por sí mismos. Postura B 0,02 Puede ser la densidad energética.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de la densidad energética de los menús y de dónde se coma. Según el metaanálisis de Robinson y colaboradores. El entorno Se servía la comida en un centro: no dice qué pasa fuera ni a más largo plazo. El perfil de nutrientes En el metaanálisis, los menús no estaban igualados en perfil de nutrientes. Depende.",
-    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Es el procesado o la densidad? El dato final. Los autores piden más investigación para saber si el grado de procesado afecta a la salud con independencia del perfil de nutrientes.",
-    "Cierre en oliva con la firma de Vivax. En una frase. Depende de la densidad energética de los menús y de dónde se coma. Mándaselo a quien lee todas las etiquetas del súper. El martes, otro Mito o dato: el café."
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Culpa del procesado. Con ultraprocesados, se come más. 508 kcal. Pocas personas, dos semanas con cada menú y comida servida en un centro. Con menús pensados para ofrecer las mismas calorías por bocado, azúcar, sal y fibra, comieron 508 kcal más al día. Ojo.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Culpa de la densidad. Cuentan las calorías por bocado. Es una pista con datos flojos, y los menús no llevaban los mismos nutrientes. Juntando experimentos: se comió más cuando el ultraprocesado concentraba más calorías por bocado. Si no, casi nada. Ojo.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Los ultraprocesados hacen comer más por sí mismos? ¿Procesado o calorías por bocado? Culpa del procesado 508 kcal Con ultraprocesados, se come más. Culpa de la densidad Cuentan las calorías por bocado.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de cuántas calorías concentre cada bocado y de dónde se coma. Según las dos posturas. Dónde se come Comida servida en un centro: no dice qué pasa en casa ni a la larga. Lo que lleva el menú Los menús comparados no tenían los mismos nutrientes. Depende.",
+    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Entonces, es culpa del procesado? El dato final. Los autores piden más investigación para saber si el procesado afecta a la salud por sí solo, aparte de los nutrientes.",
+    "Cierre en oliva con la firma de Vivax. En una frase. Depende de cuántas calorías concentre cada bocado y de dónde se coma. Mándaselo a quien lee todas las etiquetas del súper. El martes, otro Mito o dato: la sal con potasio."
   ],
   "produccion": {
     "autoaprobar": false,
@@ -123,7 +121,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: Hall KD et al. Cell Metabolism 2019;30:67-77, ensayo aleatorizado cruzado con 20 adultos ingresados en un centro de los NIH, dos semanas con cada dieta y menús diseñados para igualarse en calorías ofrecidas, densidad energética, macronutrientes, azúcar, sodio y fibra (DEB-022, verificado en Europe PMC el 11-oct-2026). Robinson E et al. Critical Reviews in Food Science and Nutrition 2026, metaanálisis preregistrado de 10 ensayos aleatorizados (DEB-023, verificado en Europe PMC el 11-oct-2026); 0,71 y 0,02 son diferencias de medias estandarizadas del efecto sobre la ingesta de energía, de un análisis secundario por subgrupos. En pantalla se dice «intervenciones al azar» por «ensayos aleatorizados». No se muestran las cifras de peso de los dos registros. El depende y sus ramas salen de los matices de DEB-022 y DEB-023; la conclusión, del matiz de DEB-023. No es una recomendación personal.",
+  "comentario": "Fuentes: Hall KD et al. Cell Metabolism 2019;30:67-77, ensayo aleatorizado cruzado con 20 adultos ingresados en un centro de los NIH, dos semanas con cada dieta y menús diseñados para igualarse en calorías ofrecidas, densidad energética, macronutrientes, azúcar, sodio y fibra (DEB-022, verificado en Europe PMC el 11-oct-2026). Robinson E et al. Critical Reviews in Food Science and Nutrition 2026, metaanálisis preregistrado de 10 ensayos aleatorizados (DEB-023, verificado en Europe PMC el 11-oct-2026); el efecto sobre la ingesta de energía fue de 0,71 (diferencia de medias estandarizada) cuando los menús ultraprocesados eran más densos en energía y de 0,02 cuando la densidad era similar, en un análisis secundario por subgrupos, con certeza baja y menús no igualados en perfil de nutrientes. Lenguaje de la pantalla (5-nov): «menús pensados para ofrecer las mismas calorías, azúcar, sal y fibra» por «menús diseñados para igualarse en calorías ofrecidas… sodio y fibra» (ofrecidas, no comidas); «pocas personas» por los 20 participantes; «juntando experimentos» por «metaanálisis de ensayos aleatorizados»; «calorías por bocado» por «densidad energética»; «si no, casi nada» por el 0,02 con densidad similar (las dos cifras solo se entienden con estadística y quedan aquí); «una pista con datos flojos» por «análisis por subgrupos con certeza baja». No se muestran las cifras de peso de los dos registros. El depende y sus ramas salen de los matices de DEB-022 y DEB-023; la conclusión, del matiz de DEB-023. No es una recomendación personal.",
   "serie": "Mito o dato",
   "pilar_plan": "Despensa: grasas y colesterol"
 }

@@ -1,22 +1,22 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 24.31,
+ "duracion_s": 24.88,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 1.38,
+ "tamano_mb": 1.33,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -16.0,
- "pico_dbtp": -1.9,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 0.7,
- "n_cambios_visuales": 380,
+ "n_cambios_visuales": 335,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -38,13 +38,24 @@
   },
   {
    "t": 0.0,
-   "texto": "Carnívora:",
+   "texto": "Dieta",
    "contando": false,
    "r": [
     96,
-    363,
-    605,
-    534
+    362,
+    337,
+    549
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "carnívora:",
+   "contando": false,
+   "r": [
+    364,
+    362,
+    853,
+    549
    ]
   },
   {
@@ -52,10 +63,10 @@
    "texto": "todo",
    "contando": false,
    "r": [
-    632,
-    363,
-    859,
-    534
+    96,
+    506,
+    312,
+    693
    ]
   },
   {
@@ -63,32 +74,21 @@
    "texto": "lo",
    "contando": false,
    "r": [
-    96,
-    493,
-    194,
-    664
+    339,
+    506,
+    428,
+    693
    ]
   },
   {
    "t": 0.0,
-   "texto": "sabido",
+   "texto": "sabido,",
    "contando": false,
    "r": [
-    220,
-    493,
-    556,
-    664
-   ]
-  },
-  {
-   "t": 0.0,
-   "texto": "cabe",
-   "contando": false,
-   "r": [
-    582,
-    493,
-    822,
-    664
+    455,
+    506,
+    807,
+    693
    ]
   },
   {
@@ -97,9 +97,9 @@
    "contando": false,
    "r": [
     96,
-    623,
-    219,
-    794
+    650,
+    215,
+    837
    ]
   },
   {
@@ -107,10 +107,10 @@
    "texto": "nueve",
    "contando": false,
    "r": [
-    246,
-    623,
-    550,
-    794
+    242,
+    672,
+    506,
+    821
    ]
   },
   {
@@ -118,10 +118,10 @@
    "texto": "trabajos",
    "contando": false,
    "r": [
-    96,
-    753,
-    510,
-    924
+    533,
+    650,
+    935,
+    837
    ]
   },
   {
@@ -130,9 +130,9 @@
    "contando": false,
    "r": [
     96,
-    1029,
-    117,
-    1090
+    1036,
+    114,
+    1084
    ]
   },
   {
@@ -141,9 +141,9 @@
    "contando": false,
    "r": [
     316,
-    1029,
-    349,
-    1090
+    1036,
+    343,
+    1084
    ]
   },
   {
@@ -152,9 +152,9 @@
    "contando": false,
    "r": [
     537,
-    1029,
-    582,
-    1090
+    1036,
+    573,
+    1084
    ]
   },
   {
@@ -163,9 +163,9 @@
    "contando": false,
    "r": [
     758,
-    1029,
-    800,
-    1090
+    1036,
+    794,
+    1084
    ]
   },
   {
@@ -174,9 +174,9 @@
    "contando": false,
    "r": [
     96,
-    1144,
-    192,
-    1273
+    1158,
+    169,
+    1259
    ]
   },
   {
@@ -184,10 +184,10 @@
    "texto": "cuatro",
    "contando": false,
    "r": [
-    212,
-    1144,
-    439,
-    1273
+    185,
+    1158,
+    384,
+    1259
    ]
   },
   {
@@ -195,10 +195,10 @@
    "texto": "pasos.",
    "contando": false,
    "r": [
-    460,
-    1144,
-    677,
-    1273
+    400,
+    1158,
+    601,
+    1259
    ]
   },
   {
@@ -213,7 +213,7 @@
    ]
   },
   {
-   "t": 5.733,
+   "t": 5.767,
    "texto": "En treinta segundos",
    "contando": false,
    "r": [
@@ -224,469 +224,216 @@
    ]
   },
   {
-   "t": 5.733,
+   "t": 5.767,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    1029,
-    117,
-    1090
+    1036,
+    114,
+    1084
    ]
   },
   {
-   "t": 5.733,
+   "t": 5.767,
    "texto": "ii.",
    "contando": false,
    "r": [
     316,
-    1029,
-    349,
-    1090
+    1036,
+    343,
+    1084
    ]
   },
   {
-   "t": 5.733,
+   "t": 5.767,
    "texto": "iii.",
    "contando": false,
    "r": [
     537,
-    1029,
-    582,
-    1090
+    1036,
+    573,
+    1084
    ]
   },
   {
-   "t": 5.733,
+   "t": 5.767,
    "texto": "iv.",
    "contando": false,
    "r": [
     758,
-    1029,
-    800,
-    1090
+    1036,
+    794,
+    1084
    ]
   },
   {
-   "t": 5.733,
-   "texto": "Nueve",
+   "t": 5.767,
+   "texto": "Solo",
    "contando": false,
    "r": [
     96,
     386,
-    265,
-    456
+    206,
+    455
    ]
   },
   {
-   "t": 5.733,
-   "texto": "trabajos",
-   "contando": false,
-   "r": [
-    283,
-    386,
-    545,
-    456
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "en",
-   "contando": false,
-   "r": [
-    563,
-    386,
-    632,
-    456
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "humanos",
-   "contando": false,
-   "r": [
-    650,
-    386,
-    901,
-    456
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "Una",
-   "contando": false,
-   "r": [
-    96,
-    499,
-    249,
-    624
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "revisión",
-   "contando": false,
-   "r": [
-    269,
-    499,
-    576,
-    624
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    596,
-    499,
-    689,
-    624
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "2026",
-   "contando": false,
-   "r": [
-    709,
-    499,
-    898,
-    624
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "reunió",
-   "contando": false,
-   "r": [
-    96,
-    594,
-    347,
-    719
-   ]
-  },
-  {
-   "t": 5.733,
+   "t": 5.767,
    "texto": "nueve,",
    "contando": false,
    "r": [
-    367,
-    594,
-    591,
-    719
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "publicados",
-   "contando": false,
-   "r": [
-    96,
-    689,
-    518,
-    814
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "entre",
-   "contando": false,
-   "r": [
-    538,
-    689,
-    738,
-    814
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "2021",
-   "contando": false,
-   "r": [
-    758,
-    689,
-    937,
-    814
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "y",
-   "contando": false,
-   "r": [
-    96,
-    784,
-    141,
-    909
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "2025.",
-   "contando": false,
-   "r": [
-    161,
-    784,
-    363,
-    909
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "i.",
-   "contando": false,
-   "r": [
-    90,
-    1093,
-    206,
-    1459
-   ]
-  },
-  {
-   "t": 5.733,
-   "texto": "@vivax_nutri",
-   "contando": false,
-   "r": [
-    96,
-    1467,
-    232,
-    1499
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "En treinta segundos",
-   "contando": false,
-   "r": [
-    174,
-    298,
-    538,
-    328
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "i.",
-   "contando": false,
-   "r": [
-    96,
-    1029,
-    117,
-    1090
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "ii.",
-   "contando": false,
-   "r": [
-    316,
-    1029,
-    349,
-    1090
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "iii.",
-   "contando": false,
-   "r": [
-    537,
-    1029,
-    582,
-    1090
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "iv.",
-   "contando": false,
-   "r": [
-    758,
-    1029,
-    800,
-    1090
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "Ninguno",
-   "contando": false,
-   "r": [
-    96,
+    223,
     386,
-    335,
-    456
+    377,
+    455
    ]
   },
   {
-   "t": 9.333,
-   "texto": "al",
+   "t": 5.767,
+   "texto": "en",
    "contando": false,
    "r": [
-    353,
+    394,
     386,
-    417,
-    456
+    449,
+    455
    ]
   },
   {
-   "t": 9.333,
-   "texto": "azar",
-   "contando": false,
-   "r": [
-    435,
-    386,
-    568,
-    456
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "Ninguno",
-   "contando": false,
-   "r": [
-    96,
-    499,
-    406,
-    624
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "repartió",
-   "contando": false,
-   "r": [
-    426,
-    499,
-    736,
-    624
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "a",
-   "contando": false,
-   "r": [
-    757,
-    499,
-    800,
-    624
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "las",
-   "contando": false,
-   "r": [
-    820,
-    499,
-    928,
-    624
-   ]
-  },
-  {
-   "t": 9.333,
+   "t": 5.767,
    "texto": "personas",
    "contando": false,
    "r": [
-    96,
-    594,
-    437,
-    719
+    466,
+    386,
+    690,
+    455
    ]
   },
   {
-   "t": 9.333,
-   "texto": "al",
-   "contando": false,
-   "r": [
-    457,
-    594,
-    529,
-    719
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "azar.",
-   "contando": false,
-   "r": [
-    549,
-    594,
-    727,
-    719
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "Dos",
-   "contando": false,
-   "r": [
-    747,
-    594,
-    889,
-    719
-   ]
-  },
-  {
-   "t": 9.333,
-   "texto": "eran",
+   "t": 5.767,
+   "texto": "Todo",
    "contando": false,
    "r": [
     96,
-    689,
-    269,
-    814
+    500,
+    247,
+    623
    ]
   },
   {
-   "t": 9.333,
-   "texto": "encuestas",
+   "t": 5.767,
+   "texto": "lo",
    "contando": false,
    "r": [
-    289,
-    689,
-    658,
-    814
+    266,
+    500,
+    326,
+    623
    ]
   },
   {
-   "t": 9.333,
+   "t": 5.767,
+   "texto": "publicado",
+   "contando": false,
+   "r": [
+    345,
+    500,
+    665,
+    623
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "entre",
+   "contando": false,
+   "r": [
+    684,
+    500,
+    856,
+    623
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "2021",
+   "contando": false,
+   "r": [
+    96,
+    595,
+    243,
+    718
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    261,
+    595,
+    299,
+    718
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "2025",
+   "contando": false,
+   "r": [
+    317,
+    595,
+    478,
+    718
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "cabe",
+   "contando": false,
+   "r": [
+    496,
+    595,
+    655,
+    718
+   ]
+  },
+  {
+   "t": 5.767,
    "texto": "en",
    "contando": false,
    "r": [
     96,
-    784,
-    188,
-    909
+    690,
+    176,
+    813
    ]
   },
   {
-   "t": 9.333,
-   "texto": "redes.",
+   "t": 5.767,
+   "texto": "nueve.",
    "contando": false,
    "r": [
-    208,
-    784,
-    434,
-    909
+    195,
+    704,
+    391,
+    802
    ]
   },
   {
-   "t": 9.333,
-   "texto": "ii.",
+   "t": 5.767,
+   "texto": "i.",
    "contando": false,
    "r": [
     90,
-    1093,
-    275,
-    1459
+    1132,
+    200,
+    1420
    ]
   },
   {
-   "t": 9.333,
+   "t": 5.767,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -697,7 +444,7 @@
    ]
   },
   {
-   "t": 12.5,
+   "t": 9.467,
    "texto": "En treinta segundos",
    "contando": false,
    "r": [
@@ -708,227 +455,469 @@
    ]
   },
   {
-   "t": 12.5,
+   "t": 9.467,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    1029,
-    117,
-    1090
+    1036,
+    114,
+    1084
    ]
   },
   {
-   "t": 12.5,
+   "t": 9.467,
    "texto": "ii.",
    "contando": false,
    "r": [
     316,
-    1029,
-    349,
-    1090
+    1036,
+    343,
+    1084
    ]
   },
   {
-   "t": 12.5,
+   "t": 9.467,
    "texto": "iii.",
    "contando": false,
    "r": [
     537,
-    1029,
-    582,
-    1090
+    1036,
+    573,
+    1084
    ]
   },
   {
-   "t": 12.5,
+   "t": 9.467,
    "texto": "iv.",
    "contando": false,
    "r": [
     758,
-    1029,
-    800,
-    1090
+    1036,
+    794,
+    1084
    ]
   },
   {
-   "t": 12.5,
+   "t": 9.467,
+   "texto": "Ninguno",
+   "contando": false,
+   "r": [
+    96,
+    386,
+    287,
+    455
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "echado",
+   "contando": false,
+   "r": [
+    304,
+    386,
+    474,
+    455
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    491,
+    386,
+    520,
+    455
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "suertes",
+   "contando": false,
+   "r": [
+    537,
+    386,
+    724,
+    455
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "Así",
+   "contando": false,
+   "r": [
+    96,
+    500,
+    193,
+    623
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    211,
+    500,
+    292,
+    623
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    311,
+    500,
+    389,
+    623
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "prueba",
+   "contando": false,
+   "r": [
+    407,
+    500,
+    636,
+    623
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    654,
+    500,
+    713,
+    623
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "causa.",
+   "contando": false,
+   "r": [
+    732,
+    500,
+    947,
+    623
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    595,
+    215,
+    718
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "eran",
+   "contando": false,
+   "r": [
+    233,
+    595,
+    380,
+    718
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "encuestas",
+   "contando": false,
+   "r": [
+    399,
+    609,
+    707,
+    707
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    692,
+    176,
+    815
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "redes.",
+   "contando": false,
+   "r": [
+    195,
+    692,
+    399,
+    815
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    90,
+    1132,
+    252,
+    1420
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 12.633,
+   "texto": "En treinta segundos",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    538,
+    328
+   ]
+  },
+  {
+   "t": 12.633,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    1036,
+    114,
+    1084
+   ]
+  },
+  {
+   "t": 12.633,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    316,
+    1036,
+    343,
+    1084
+   ]
+  },
+  {
+   "t": 12.633,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    537,
+    1036,
+    573,
+    1084
+   ]
+  },
+  {
+   "t": 12.633,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    758,
+    1036,
+    794,
+    1084
+   ]
+  },
+  {
+   "t": 12.633,
    "texto": "Lo",
    "contando": false,
    "r": [
     96,
     386,
-    161,
-    456
+    150,
+    455
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "que",
    "contando": false,
    "r": [
-    179,
+    167,
     386,
-    281,
-    456
+    250,
+    455
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "sí",
    "contando": false,
    "r": [
-    299,
+    267,
     386,
-    353,
-    456
+    312,
+    455
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "se",
    "contando": false,
    "r": [
-    371,
+    329,
     386,
-    433,
-    456
+    382,
+    455
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "vio",
    "contando": false,
    "r": [
-    451,
+    399,
     386,
-    545,
-    456
+    473,
+    455
    ]
   },
   {
-   "t": 12.5,
-   "texto": "Subidas",
+   "t": 12.633,
+   "texto": "Subió",
    "contando": false,
    "r": [
     96,
-    499,
-    375,
-    624
+    500,
+    274,
+    623
    ]
   },
   {
-   "t": 12.5,
-   "texto": "de",
+   "t": 12.633,
+   "texto": "el",
    "contando": false,
    "r": [
-    395,
-    499,
-    488,
-    624
+    293,
+    500,
+    352,
+    623
    ]
   },
   {
-   "t": 12.5,
-   "texto": "LDL;",
+   "t": 12.633,
+   "texto": "LDL:",
    "contando": false,
    "r": [
-    508,
-    499,
-    689,
-    624
+    371,
+    514,
+    504,
+    612
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "en",
    "contando": false,
    "r": [
-    709,
-    499,
-    801,
-    624
+    522,
+    500,
+    602,
+    623
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "un",
    "contando": false,
    "r": [
-    821,
-    499,
-    920,
-    624
+    621,
+    500,
+    702,
+    623
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "caso,",
    "contando": false,
    "r": [
-    96,
-    594,
-    282,
-    719
+    721,
+    500,
+    897,
+    623
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "de",
    "contando": false,
    "r": [
-    302,
-    594,
-    395,
-    719
+    96,
+    597,
+    176,
+    720
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "157",
    "contando": false,
    "r": [
-    415,
-    594,
-    534,
-    719
+    195,
+    597,
+    301,
+    720
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "a",
    "contando": false,
    "r": [
-    96,
-    689,
-    140,
-    814
+    320,
+    597,
+    359,
+    720
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "256 mg/dl.",
    "contando": false,
    "r": [
-    160,
-    689,
-    575,
-    814
+    378,
+    597,
+    730,
+    720
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "iii.",
    "contando": false,
    "r": [
     90,
-    1093,
-    343,
-    1459
+    1132,
+    305,
+    1420
    ]
   },
   {
-   "t": 12.5,
+   "t": 12.633,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -939,7 +928,7 @@
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "En treinta segundos",
    "contando": false,
    "r": [
@@ -950,216 +939,205 @@
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    1029,
-    117,
-    1090
+    1036,
+    114,
+    1084
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "ii.",
    "contando": false,
    "r": [
     316,
-    1029,
-    349,
-    1090
+    1036,
+    343,
+    1084
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "iii.",
    "contando": false,
    "r": [
     537,
-    1029,
-    582,
-    1090
+    1036,
+    573,
+    1084
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "iv.",
    "contando": false,
    "r": [
     758,
-    1029,
-    800,
-    1090
+    1036,
+    794,
+    1084
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "Y",
    "contando": false,
    "r": [
     96,
     386,
-    129,
-    456
+    123,
+    455
    ]
   },
   {
-   "t": 15.2,
-   "texto": "posibles",
+   "t": 16.067,
+   "texto": "lo",
    "contando": false,
    "r": [
-    147,
+    140,
     386,
-    395,
-    456
+    194,
+    455
    ]
   },
   {
-   "t": 15.2,
-   "texto": "carencias",
+   "t": 16.067,
+   "texto": "que",
    "contando": false,
    "r": [
-    413,
+    211,
     386,
-    703,
-    456
+    294,
+    455
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    311,
+    386,
+    447,
+    455
+   ]
+  },
+  {
+   "t": 16.067,
+   "texto": "faltar",
+   "contando": false,
+   "r": [
+    464,
+    386,
+    623,
+    455
+   ]
+  },
+  {
+   "t": 16.067,
    "texto": "Vitaminas",
    "contando": false,
    "r": [
     96,
-    499,
-    465,
-    624
+    500,
+    416,
+    623
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "C",
    "contando": false,
    "r": [
-    485,
-    499,
-    544,
-    624
+    435,
+    500,
+    473,
+    623
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "y",
    "contando": false,
    "r": [
-    564,
-    499,
-    610,
-    624
+    492,
+    500,
+    529,
+    623
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "D,",
    "contando": false,
    "r": [
-    630,
-    499,
-    709,
-    624
+    548,
+    500,
+    607,
+    623
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "calcio,",
    "contando": false,
    "r": [
-    96,
-    594,
-    341,
-    719
+    626,
+    500,
+    843,
+    623
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "magnesio",
    "contando": false,
    "r": [
-    361,
-    594,
-    725,
-    719
+    96,
+    595,
+    416,
+    718
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "y",
    "contando": false,
    "r": [
-    96,
-    689,
-    141,
-    814
+    434,
+    595,
+    472,
+    718
    ]
   },
   {
-   "t": 15.2,
-   "texto": "fibra,",
+   "t": 16.067,
+   "texto": "fibra.",
    "contando": false,
    "r": [
-    161,
-    689,
-    370,
-    814
+    490,
+    609,
+    649,
+    707
    ]
   },
   {
-   "t": 15.2,
-   "texto": "según",
-   "contando": false,
-   "r": [
-    390,
-    689,
-    617,
-    814
-   ]
-  },
-  {
-   "t": 15.2,
-   "texto": "los",
-   "contando": false,
-   "r": [
-    637,
-    689,
-    747,
-    814
-   ]
-  },
-  {
-   "t": 15.2,
-   "texto": "autores.",
-   "contando": false,
-   "r": [
-    96,
-    784,
-    396,
-    909
-   ]
-  },
-  {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "iv.",
    "contando": false,
    "r": [
     90,
-    1093,
-    327,
-    1459
+    1132,
+    303,
+    1420
    ]
   },
   {
-   "t": 15.2,
+   "t": 16.067,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1170,7 +1148,7 @@
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "En treinta segundos",
    "contando": false,
    "r": [
@@ -1181,84 +1159,84 @@
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "Lo",
    "contando": false,
    "r": [
     96,
-    378,
-    195,
-    507
+    379,
+    170,
+    506
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "que",
    "contando": false,
    "r": [
-    215,
-    378,
-    362,
-    507
+    189,
+    379,
+    313,
+    506
    ]
   },
   {
-   "t": 20.1,
-   "texto": "todavía",
+   "t": 20.6,
+   "texto": "aún",
    "contando": false,
    "r": [
-    382,
-    378,
-    666,
-    507
+    332,
+    379,
+    455,
+    506
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "no",
    "contando": false,
    "r": [
-    687,
-    378,
-    785,
-    507
+    474,
+    379,
+    556,
+    506
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "se",
    "contando": false,
    "r": [
-    805,
-    378,
-    885,
-    507
+    576,
+    379,
+    655,
+    506
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "puede",
    "contando": false,
    "r": [
     96,
-    475,
-    338,
-    604
+    476,
+    301,
+    603
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "saber",
    "contando": false,
    "r": [
-    358,
-    475,
-    573,
-    604
+    321,
+    476,
+    511,
+    603
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "El dato que importa",
    "contando": false,
    "r": [
@@ -1269,172 +1247,183 @@
    ]
   },
   {
-   "t": 20.1,
-   "texto": "Sin",
+   "t": 20.6,
+   "texto": "Con",
    "contando": false,
    "r": [
     96,
-    735,
-    214,
-    857
+    734,
+    227,
+    870
    ]
   },
   {
-   "t": 20.1,
-   "texto": "trabajos",
-   "contando": false,
-   "r": [
-    234,
-    735,
-    535,
-    857
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "aleatorizados,",
-   "contando": false,
-   "r": [
-    96,
-    828,
-    608,
-    950
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "su",
-   "contando": false,
-   "r": [
-    628,
-    828,
-    710,
-    950
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "seguridad",
-   "contando": false,
-   "r": [
-    96,
-    921,
-    469,
-    1043
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "a",
-   "contando": false,
-   "r": [
-    489,
-    921,
-    531,
-    1043
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "largo",
-   "contando": false,
-   "r": [
-    551,
-    921,
-    749,
-    1043
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "plazo",
-   "contando": false,
-   "r": [
-    96,
-    1013,
-    296,
-    1135
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "no",
-   "contando": false,
-   "r": [
-    316,
-    1013,
-    408,
-    1135
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "puede",
-   "contando": false,
-   "r": [
-    427,
-    1013,
-    656,
-    1135
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "evaluarse",
-   "contando": false,
-   "r": [
-    96,
-    1106,
-    453,
-    1228
-   ]
-  },
-  {
-   "t": 20.1,
-   "texto": "con",
-   "contando": false,
-   "r": [
-    473,
-    1106,
-    605,
-    1228
-   ]
-  },
-  {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "los",
    "contando": false,
    "r": [
-    625,
-    1106,
-    731,
-    1228
+    247,
+    734,
+    355,
+    870
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
    "texto": "datos",
    "contando": false,
    "r": [
-    751,
-    1106,
-    949,
-    1228
+    376,
+    734,
+    576,
+    870
    ]
   },
   {
-   "t": 20.1,
-   "texto": "actuales.",
+   "t": 20.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    597,
+    734,
+    685,
+    870
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "hoy",
+   "contando": false,
+   "r": [
+    705,
+    734,
+    835,
+    870
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    856,
+    734,
+    944,
+    870
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "se",
    "contando": false,
    "r": [
     96,
-    1199,
-    416,
-    1321
+    838,
+    182,
+    974
    ]
   },
   {
-   "t": 20.1,
+   "t": 20.6,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    202,
+    838,
+    422,
+    974
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "saber",
+   "contando": false,
+   "r": [
+    443,
+    838,
+    647,
+    974
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "si",
+   "contando": false,
+   "r": [
+    667,
+    838,
+    731,
+    974
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    751,
+    838,
+    837,
+    974
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "segura",
+   "contando": false,
+   "r": [
+    96,
+    943,
+    344,
+    1079
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    365,
+    943,
+    408,
+    1079
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "largo",
+   "contando": false,
+   "r": [
+    429,
+    943,
+    613,
+    1079
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "plazo.",
+   "contando": false,
+   "r": [
+    633,
+    943,
+    841,
+    1079
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1337,
+    677,
+    1363
+   ]
+  },
+  {
+   "t": 20.6,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1445,95 +1434,95 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
     96,
-    826,
-    453,
-    942
+    838,
+    386,
+    929
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "a",
    "contando": false,
    "r": [
-    472,
-    826,
-    513,
-    942
+    401,
+    838,
+    434,
+    929
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "quien",
    "contando": false,
    "r": [
-    532,
-    826,
-    712,
-    942
+    449,
+    838,
+    599,
+    929
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "vive",
    "contando": false,
    "r": [
-    730,
-    826,
-    862,
-    942
+    613,
+    838,
+    729,
+    929
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "a",
    "contando": false,
    "r": [
-    96,
-    914,
-    137,
-    1030
+    744,
+    838,
+    777,
+    929
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "base",
    "contando": false,
    "r": [
-    156,
-    914,
-    300,
-    1030
+    791,
+    838,
+    923,
+    929
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "de",
    "contando": false,
    "r": [
-    319,
-    914,
-    395,
-    1030
+    96,
+    926,
+    163,
+    1017
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "chuletón.",
    "contando": false,
    "r": [
-    414,
-    914,
-    708,
-    1030
+    177,
+    926,
+    433,
+    1017
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "El",
    "contando": false,
    "r": [
@@ -1544,7 +1533,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "domingo,",
    "contando": false,
    "r": [
@@ -1555,7 +1544,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "en",
    "contando": false,
    "r": [
@@ -1566,7 +1555,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "treinta",
    "contando": false,
    "r": [
@@ -1577,7 +1566,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "segundos:",
    "contando": false,
    "r": [
@@ -1588,7 +1577,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "la",
    "contando": false,
    "r": [
@@ -1599,7 +1588,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "dieta",
    "contando": false,
    "r": [
@@ -1610,7 +1599,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "que",
    "contando": false,
    "r": [
@@ -1621,7 +1610,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "bajó",
    "contando": false,
    "r": [
@@ -1632,7 +1621,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "la",
    "contando": false,
    "r": [
@@ -1643,7 +1632,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "tensión",
    "contando": false,
    "r": [
@@ -1654,7 +1643,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "arterial.",
    "contando": false,
    "r": [
@@ -1665,7 +1654,7 @@
    ]
   },
   {
-   "t": 23.667,
+   "t": 24.233,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1678,18 +1667,18 @@
  ],
  "comprobar_s": [
   0.0,
-  5.733,
-  9.333,
-  12.5,
-  15.2,
-  20.1,
-  23.667
+  5.767,
+  9.467,
+  12.633,
+  16.067,
+  20.6,
+  24.233
  ],
  "sonido": {
-  "lufs": -16.02,
+  "lufs": -16.01,
   "pico_dbtp": -2.05,
   "recortes": 0,
-  "reduccion_max_db": 5.94,
+  "reduccion_max_db": 6.0,
   "tiempo_reduccion_mas_1db_pct": 0.08,
   "efectos_por_tipo": {
    "whoosh": 7,
@@ -1698,7 +1687,7 @@
    "pop": 1
   },
   "descartados": 0,
-  "duracion_s": 24.245,
+  "duracion_s": 24.812,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -1708,18 +1697,18 @@
    "voz": "7QQzpAyzlKTVrRzQJmTE",
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
-   "caracteres": 311,
-   "texto": "Carnívora: todo lo sabido cabe en nueve trabajos. Todos en humanos. Ninguno repartido al azar. Dos eran encuestas en redes. Se vieron subidas de ele de ele. Y posibles carencias, como la fibra. Faltan datos aleatorizados. Su seguridad a largo plazo no puede evaluarse. Mándaselo a quien vive a base de chuletón.",
-   "cortes": 10,
-   "silencios_s": 4.43,
-   "pausas_acortadas_s": 2.0,
-   "duracion_voz_s": 22.75
+   "caracteres": 316,
+   "texto": "Dieta carnívora: todo lo sabido, en nueve trabajos. Uno: solo nueve, en personas. Dos: ninguno echado a suertes, así no se prueba la causa. Tres: subió el ele de ele. Cuatro: pueden faltar vitaminas, calcio y fibra. Lo que aún no se puede saber: si es segura a largo plazo. Mándaselo a quien vive a base de chuletón.",
+   "cortes": 16,
+   "silencios_s": 4.35,
+   "pausas_acortadas_s": 3.92,
+   "duracion_voz_s": 23.31
   },
   "mezcla": {
    "efectos_db": -7,
    "ducking": 0.5,
-   "lufs_wav": -16.01,
-   "limitador_max_db": 0.87
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.03
   }
  },
  "efectos": [
@@ -1734,78 +1723,78 @@
    "intensidad": 0.22
   },
   {
-   "t": 2.851,
+   "t": 3.051,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 3.401,
+   "t": 3.601,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 5.851,
+   "t": 5.891,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 6.401,
+   "t": 6.441,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 9.461,
+   "t": 9.581,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 10.011,
+   "t": 10.131,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 12.621,
+   "t": 12.741,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 13.171,
+   "t": 13.291,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 15.331,
+   "t": 16.191,
    "tipo": "whoosh",
    "intensidad": 0.36
   },
   {
-   "t": 15.781,
+   "t": 16.641,
    "tipo": "sello",
    "intensidad": 0.4
   },
   {
-   "t": 20.231,
+   "t": 20.721,
    "tipo": "whoosh",
    "intensidad": 0.34
   },
   {
-   "t": 22.481,
+   "t": 23.038,
    "tipo": "pop",
    "intensidad": 0.24
   }
  ],
- "fotogramas": 728,
- "tiempo_render_s": 60.8,
+ "fotogramas": 745,
+ "tiempo_render_s": 78.7,
  "tiempos_s": {
-  "preparar": 0.87,
-  "dibujar_y_codificar": 53.47
+  "preparar": 2.11,
+  "dibujar_y_codificar": 68.34
  },
  "voz_de_prueba": false,
  "plantilla": "reel_explica",
  "variante": "a",
  "linea_de_tiempo": {
-  "dur": 24.2667,
-  "loop": 23.7667,
+  "dur": 24.8333,
+  "loop": 24.3333,
   "var": "a",
   "n": 4,
   "port": {
@@ -1813,174 +1802,169 @@
    "t_sub": 0.5,
    "pal": [
     0.0,
-    0.023,
-    0.033,
-    0.038,
-    0.053,
-    0.062,
+    0.012,
+    0.034,
+    0.044,
+    0.049,
+    0.063,
     0.068,
     0.08
    ]
   },
   "pasos": [
    {
-    "t_in": 2.851,
-    "t_out": 5.851,
-    "t_rom": 3.271,
-    "t_tit": 3.401,
-    "t_txt0": 3.901,
-    "t_ico": 3.651,
-    "voz": 3.271,
+    "t_in": 3.051,
+    "t_out": 5.891,
+    "t_rom": 3.471,
+    "t_tit": 3.601,
+    "t_txt0": 4.101,
+    "t_ico": 3.851,
+    "voz": 3.471,
     "pal_txt": [
-     3.571,
-     3.662,
-     3.905,
-     3.966,
-     4.088,
-     4.27,
-     4.422,
-     4.726,
-     4.878,
-     4.999,
-     5.029
+     3.771,
+     3.771,
+     3.771,
+     3.771,
+     3.771,
+     3.771,
+     3.771,
+     3.771,
+     3.821,
+     4.071
     ],
     "bt": 376
    },
    {
-    "t_in": 5.851,
-    "t_out": 9.461,
-    "t_rom": 6.271,
-    "t_tit": 6.401,
-    "t_txt0": 6.901,
-    "t_ico": 6.651,
-    "voz": 6.271,
+    "t_in": 5.891,
+    "t_out": 9.581,
+    "t_rom": 6.311,
+    "t_tit": 6.441,
+    "t_txt0": 6.941,
+    "t_ico": 6.691,
+    "voz": 6.311,
     "pal_txt": [
-     6.271,
-     6.484,
-     6.698,
-     6.911,
-     7.124,
-     7.338,
-     7.551,
-     7.911,
      8.151,
-     8.471,
-     8.751,
-     9.031
+     8.378,
+     8.604,
+     8.831,
+     9.011,
+     9.191,
+     8.881,
+     8.881,
+     8.881,
+     8.881,
+     8.881
     ],
     "bt": 468
    },
    {
-    "t_in": 9.461,
-    "t_out": 12.621,
-    "t_rom": 9.881,
-    "t_tit": 10.011,
-    "t_txt0": 10.511,
-    "t_ico": 10.261,
-    "voz": 9.881,
+    "t_in": 9.581,
+    "t_out": 12.741,
+    "t_rom": 10.001,
+    "t_tit": 10.131,
+    "t_txt0": 10.631,
+    "t_ico": 10.381,
+    "voz": 10.001,
     "pal_txt": [
-     10.361,
-     10.701,
-     11.041,
-     11.291,
-     11.541,
-     11.791,
-     11.921,
-     11.921,
-     11.921,
-     11.921
+     10.414,
+     10.674,
+     10.934,
+     11.184,
+     11.434,
+     11.684,
+     11.934,
+     12.041,
+     12.041,
+     12.041
     ],
     "bt": 560
    },
    {
-    "t_in": 12.621,
-    "t_out": 15.331,
-    "t_rom": 13.041,
-    "t_tit": 13.171,
-    "t_txt0": 13.671,
-    "t_ico": 13.421,
-    "voz": 13.041,
+    "t_in": 12.741,
+    "t_out": 16.191,
+    "t_rom": 13.161,
+    "t_tit": 13.291,
+    "t_txt0": 13.791,
+    "t_ico": 13.541,
+    "voz": 13.161,
     "pal_txt": [
-     13.341,
-     13.341,
-     13.431,
-     13.681,
-     13.931,
-     14.181,
-     14.431,
-     14.681,
-     14.631,
-     14.631,
-     14.631
+     14.321,
+     14.531,
+     14.741,
+     14.951,
+     15.161,
+     15.348,
+     15.534,
+     15.721
     ],
     "bt": 652
    }
   ],
   "conc": {
-   "t_in": 15.331,
-   "t_g": 15.931,
-   "voz": 15.881,
-   "decl": 15.881,
+   "t_in": 16.191,
+   "t_g": 16.791,
+   "voz": 16.741,
+   "decl": 16.741,
    "pal_g": [
-    15.931,
-    15.962,
-    16.008,
-    16.116,
-    16.146,
-    16.177,
-    16.254
+    16.791,
+    16.827,
+    16.882,
+    16.936,
+    16.973,
+    17.009,
+    17.1
    ],
    "pal_f": [
-    16.101,
-    16.351,
-    16.601,
-    17.161,
-    17.721,
-    18.001,
-    18.281,
-    18.601,
-    18.961,
-    19.321,
-    19.681,
-    19.431,
-    19.431,
-    19.431,
-    19.431
+    16.741,
+    16.741,
+    16.741,
+    16.741,
+    16.831,
+    17.081,
+    17.331,
+    17.581,
+    17.928,
+    18.186,
+    18.443,
+    18.701,
+    18.921,
+    19.141,
+    19.461
    ],
-   "t_f0": 16.431,
+   "t_f0": 17.291,
    "bt": 744
   },
   "fin": {
-   "t_in": 20.231,
-   "voz": 20.651,
-   "t_c0": 20.981,
-   "t_fil": 21.331,
-   "t_an": 22.481,
+   "t_in": 20.721,
+   "voz": 21.141,
+   "t_c0": 21.471,
+   "t_fil": 21.821,
+   "t_an": 23.038,
    "pal_c": [
-    20.651,
-    20.951,
-    21.251,
-    21.451,
-    21.651,
-    21.851,
-    21.991,
-    22.131
+    21.141,
+    21.434,
+    21.728,
+    21.968,
+    22.188,
+    22.408,
+    22.548,
+    22.688
    ],
-   "B0": 22.267
+   "B0": 22.833
   },
   "trans": [
-   2.851,
-   5.851,
-   9.461,
-   12.621,
-   15.331,
-   20.231
+   3.051,
+   5.891,
+   9.581,
+   12.741,
+   16.191,
+   20.721
   ],
   "extra": [
-   22.567,
-   22.817,
-   23.9667,
-   24.1667
+   23.133,
+   23.383,
+   24.5333,
+   24.7333
   ],
   "cinta": [
    {
@@ -1988,27 +1972,27 @@
     "off": 0.0
    },
    {
-    "t_in": 2.851,
+    "t_in": 3.051,
     "off": 640
    },
    {
-    "t_in": 5.851,
+    "t_in": 5.891,
     "off": 1260
    },
    {
-    "t_in": 9.461,
+    "t_in": 9.581,
     "off": 1880
    },
    {
-    "t_in": 12.621,
+    "t_in": 12.741,
     "off": 2500
    },
    {
-    "t_in": 15.331,
+    "t_in": 16.191,
     "off": 3120
    }
   ],
-  "fin_voz": 22.751,
+  "fin_voz": 23.308,
   "deriva": [
    9.0,
    30.0
@@ -2017,61 +2001,61 @@
  "muestras": [
   0.0,
   1.3,
-  3.2,
-  5.7333,
-  6.2,
-  9.3333,
-  9.8,
-  12.5,
-  12.9667,
-  15.2,
-  15.8333,
-  20.1,
-  20.8333,
-  23.6667,
-  24.2333
+  3.4,
+  5.7667,
+  6.2333,
+  9.4667,
+  9.9333,
+  12.6333,
+  13.1,
+  16.0667,
+  16.7,
+  20.6,
+  21.3333,
+  24.2333,
+  24.8
  ],
  "reparto_voz": [
   {
    "parte": "gancho",
-   "voz": "Carnívora: todo lo sabido cabe en nueve trabajos.",
+   "voz": "Dieta carnívora: todo lo sabido, en nueve trabajos.",
    "t": 0.021,
    "puntos": 6.0
   },
   {
    "parte": "paso I",
-   "voz": "Todos en humanos.",
-   "t": 3.271,
-   "puntos": 1.0
+   "voz": "Uno: solo nueve, en personas.",
+   "t": 3.471,
+   "puntos": 5.0
   },
   {
    "parte": "paso II",
-   "voz": "Ninguno repartido al azar. Dos eran encuestas en redes.",
-   "t": 6.271,
-   "puntos": 9.0
+   "voz": "Dos: ninguno echado a suertes, así no se prueba la causa.",
+   "t": 6.311,
+   "puntos": 8.0
   },
   {
    "parte": "paso III",
-   "voz": "Se vieron subidas de ele de ele.",
-   "t": 9.881,
-   "puntos": 1.0
+   "voz": "Tres: subió el ele de ele.",
+   "t": 10.001,
+   "puntos": 4.0
   },
   {
    "parte": "paso IV",
-   "voz": "Y posibles carencias, como la fibra.",
-   "t": 13.041,
-   "puntos": 3.0
+   "voz": "Cuatro: pueden faltar vitaminas, calcio y fibra.",
+   "t": 13.161,
+   "puntos": 7.0
   },
   {
    "parte": "conclusión",
-   "voz": "Faltan datos aleatorizados. Su seguridad a largo plazo no puede evaluarse.",
-   "t": 15.881,
-   "puntos": 6.0
+   "voz": "Lo que aún no se puede saber: si es segura a largo plazo.",
+   "t": 16.741,
+   "puntos": 4.0
   },
   {
    "parte": "cierre",
    "voz": "Mándaselo a quien vive a base de chuletón.",
-   "t": 20.651,
+   "t": 21.141,
    "puntos": 12.0
   }
  ],

@@ -1,22 +1,22 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 24.28,
+ "duracion_s": 26.04,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
- "fps": 29.97,
+ "fps": 29.98,
  "pixel": "yuv420p",
- "tamano_mb": 1.91,
+ "tamano_mb": 1.74,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -16.0,
+ "lufs": -16.1,
  "pico_dbtp": -2.0,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 0.733,
- "n_cambios_visuales": 376,
+ "hueco_max_s": 0.767,
+ "n_cambios_visuales": 368,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -38,24 +38,24 @@
   },
   {
    "t": 0.0,
-   "texto": "Solo",
+   "texto": "El",
    "contando": false,
    "r": [
     96,
-    361,
-    339,
-    547
+    362,
+    174,
+    549
    ]
   },
   {
    "t": 0.0,
-   "texto": "un",
+   "texto": "único",
    "contando": false,
    "r": [
-    368,
-    361,
-    512,
-    547
+    202,
+    362,
+    469,
+    549
    ]
   },
   {
@@ -63,10 +63,10 @@
    "texto": "uso",
    "contando": false,
    "r": [
-    541,
-    361,
-    732,
-    547
+    497,
+    362,
+    674,
+    549
    ]
   },
   {
@@ -74,10 +74,10 @@
    "texto": "de",
    "contando": false,
    "r": [
-    761,
-    361,
-    897,
-    547
+    701,
+    362,
+    820,
+    549
    ]
   },
   {
@@ -85,10 +85,10 @@
    "texto": "la",
    "contando": false,
    "r": [
-    96,
-    503,
-    200,
-    689
+    847,
+    362,
+    934,
+    549
    ]
   },
   {
@@ -96,43 +96,43 @@
    "texto": "keto",
    "contando": false,
    "r": [
-    229,
-    503,
-    467,
-    689
+    96,
+    506,
+    310,
+    693
    ]
   },
   {
    "t": 0.0,
-   "texto": "tiene",
+   "texto": "con",
    "contando": false,
    "r": [
-    496,
-    503,
-    769,
-    689
+    337,
+    506,
+    516,
+    693
    ]
   },
   {
    "t": 0.0,
-   "texto": "evidencia",
+   "texto": "pruebas",
+   "contando": false,
+   "r": [
+    544,
+    506,
+    940,
+    693
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sólidas",
    "contando": false,
    "r": [
     96,
-    644,
-    582,
-    830
-   ]
-  },
-  {
-   "t": 0.0,
-   "texto": "sólida",
-   "contando": false,
-   "r": [
-    611,
-    644,
-    944,
-    830
+    672,
+    410,
+    821
    ]
   },
   {
@@ -141,9 +141,9 @@
    "contando": false,
    "r": [
     96,
-    919,
-    159,
-    1003
+    928,
+    145,
+    995
    ]
   },
   {
@@ -151,10 +151,10 @@
    "texto": "cuatro",
    "contando": false,
    "r": [
-    172,
-    919,
-    321,
-    1003
+    155,
+    928,
+    288,
+    995
    ]
   },
   {
@@ -162,10 +162,10 @@
    "texto": "pasos.",
    "contando": false,
    "r": [
-    334,
-    919,
-    477,
-    1003
+    298,
+    928,
+    432,
+    995
    ]
   },
   {
@@ -180,7 +180,7 @@
    ]
   },
   {
-   "t": 5.533,
+   "t": 5.767,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -191,161 +191,183 @@
    ]
   },
   {
-   "t": 5.533,
+   "t": 5.767,
    "texto": "i.",
    "contando": false,
    "r": [
     148,
-    387,
-    175,
-    470
+    392,
+    173,
+    457
    ]
   },
   {
-   "t": 5.533,
-   "texto": "Epilepsia",
-   "contando": false,
-   "r": [
-    150,
-    469,
-    513,
-    564
-   ]
-  },
-  {
-   "t": 5.533,
-   "texto": "infantil",
-   "contando": false,
-   "r": [
-    538,
-    469,
-    872,
-    564
-   ]
-  },
-  {
-   "t": 5.533,
-   "texto": "resistente",
-   "contando": false,
-   "r": [
-    150,
-    542,
-    578,
-    637
-   ]
-  },
-  {
-   "t": 5.533,
+   "t": 5.767,
    "texto": "Niños",
    "contando": false,
    "r": [
     150,
-    673,
-    306,
-    761
+    466,
+    328,
+    559
    ]
   },
   {
-   "t": 5.533,
+   "t": 5.767,
    "texto": "con",
    "contando": false,
    "r": [
-    320,
-    673,
-    418,
-    761
+    351,
+    466,
+    468,
+    559
    ]
   },
   {
-   "t": 5.533,
+   "t": 5.767,
    "texto": "epilepsia",
    "contando": false,
    "r": [
-    432,
-    673,
-    654,
-    761
+    491,
+    466,
+    790,
+    559
    ]
   },
   {
-   "t": 5.533,
-   "texto": "que",
-   "contando": false,
-   "r": [
-    668,
-    673,
-    769,
-    761
-   ]
-  },
-  {
-   "t": 5.533,
-   "texto": "no",
-   "contando": false,
-   "r": [
-    783,
-    673,
-    851,
-    761
-   ]
-  },
-  {
-   "t": 5.533,
-   "texto": "responde",
+   "t": 5.767,
+   "texto": "difícil",
    "contando": false,
    "r": [
     150,
-    740,
-    401,
-    828
+    539,
+    364,
+    632
    ]
   },
   {
-   "t": 5.533,
-   "texto": "a",
+   "t": 5.767,
+   "texto": "Cuando",
+   "contando": false,
+   "r": [
+    150,
+    670,
+    319,
+    757
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    332,
+    670,
+    402,
+    757
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "fármacos",
    "contando": false,
    "r": [
     415,
-    740,
-    446,
-    828
+    670,
+    634,
+    757
    ]
   },
   {
-   "t": 5.533,
-   "texto": "fármacos:",
+   "t": 5.767,
+   "texto": "no",
    "contando": false,
    "r": [
-    460,
-    740,
-    721,
-    828
+    647,
+    670,
+    704,
+    757
    ]
   },
   {
-   "t": 5.533,
-   "texto": "evidencia",
+   "t": 5.767,
+   "texto": "frenan",
+   "contando": false,
+   "r": [
+    717,
+    670,
+    866,
+    757
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    879,
+    670,
+    948,
+    757
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "crisis,",
    "contando": false,
    "r": [
     150,
-    807,
-    408,
-    895
+    737,
+    293,
+    824
    ]
   },
   {
-   "t": 5.533,
-   "texto": "establecida.",
+   "t": 5.767,
+   "texto": "las",
    "contando": false,
    "r": [
-    423,
-    807,
-    740,
-    895
+    306,
+    737,
+    375,
+    824
    ]
   },
   {
-   "t": 5.533,
+   "t": 5.767,
+   "texto": "pruebas",
+   "contando": false,
+   "r": [
+    389,
+    737,
+    577,
+    824
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    590,
+    737,
+    675,
+    824
+   ]
+  },
+  {
+   "t": 5.767,
+   "texto": "sólidas.",
+   "contando": false,
+   "r": [
+    688,
+    747,
+    852,
+    817
+   ]
+  },
+  {
+   "t": 5.767,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -356,7 +378,7 @@
    ]
   },
   {
-   "t": 9.267,
+   "t": 10.467,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -367,205 +389,216 @@
    ]
   },
   {
-   "t": 9.267,
+   "t": 10.467,
    "texto": "ii.",
    "contando": false,
    "r": [
     148,
-    380,
-    190,
-    463
+    384,
+    185,
+    449
    ]
   },
   {
-   "t": 9.267,
-   "texto": "Unos",
-   "contando": false,
-   "r": [
-    150,
-    462,
-    333,
-    557
-   ]
-  },
-  {
-   "t": 9.267,
-   "texto": "37",
-   "contando": false,
-   "r": [
-    357,
-    462,
-    440,
-    557
-   ]
-  },
-  {
-   "t": 9.267,
-   "texto": "puntos",
-   "contando": false,
-   "r": [
-    464,
-    462,
-    736,
-    557
-   ]
-  },
-  {
-   "t": 9.267,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    760,
-    462,
-    851,
-    557
-   ]
-  },
-  {
-   "t": 9.267,
-   "texto": "diferencia",
-   "contando": false,
-   "r": [
-    150,
-    535,
-    571,
-    630
-   ]
-  },
-  {
-   "t": 9.267,
+   "t": 10.467,
    "texto": "Crisis",
    "contando": false,
    "r": [
     150,
-    666,
-    292,
-    754
+    458,
+    346,
+    551
    ]
   },
   {
-   "t": 9.267,
+   "t": 10.467,
    "texto": "a",
    "contando": false,
    "r": [
-    306,
-    666,
-    337,
-    754
+    370,
+    458,
+    408,
+    551
    ]
   },
   {
-   "t": 9.267,
+   "t": 10.467,
    "texto": "la",
    "contando": false,
    "r": [
-    351,
-    666,
-    402,
-    754
+    432,
+    458,
+    504,
+    551
    ]
   },
   {
-   "t": 9.267,
-   "texto": "mitad",
+   "t": 10.467,
+   "texto": "mitad,",
    "contando": false,
    "r": [
-    416,
-    666,
-    571,
-    754
+    527,
+    458,
+    738,
+    551
    ]
   },
   {
-   "t": 9.267,
+   "t": 10.467,
    "texto": "o",
-   "contando": false,
-   "r": [
-    585,
-    666,
-    618,
-    754
-   ]
-  },
-  {
-   "t": 9.267,
-   "texto": "menos,",
-   "contando": false,
-   "r": [
-    632,
-    666,
-    818,
-    754
-   ]
-  },
-  {
-   "t": 9.267,
-   "texto": "a",
    "contando": false,
    "r": [
     150,
-    733,
-    181,
-    821
+    531,
+    189,
+    624
    ]
   },
   {
-   "t": 9.267,
-   "texto": "los",
+   "t": 10.467,
+   "texto": "menos",
    "contando": false,
    "r": [
-    195,
-    733,
-    273,
-    821
+    212,
+    531,
+    417,
+    624
    ]
   },
   {
-   "t": 9.267,
-   "texto": "3",
+   "t": 10.467,
+   "texto": "Con",
    "contando": false,
    "r": [
-    287,
-    733,
-    317,
-    821
+    150,
+    662,
+    234,
+    749
    ]
   },
   {
-   "t": 9.267,
-   "texto": "o",
+   "t": 10.467,
+   "texto": "la",
    "contando": false,
    "r": [
-    332,
-    733,
-    364,
-    821
+    247,
+    662,
+    289,
+    749
    ]
   },
   {
-   "t": 9.267,
-   "texto": "4",
+   "t": 10.467,
+   "texto": "dieta,",
    "contando": false,
    "r": [
-    378,
-    733,
-    413,
-    821
+    302,
+    662,
+    431,
+    749
    ]
   },
   {
-   "t": 9.267,
-   "texto": "meses.",
+   "t": 10.467,
+   "texto": "unos",
    "contando": false,
    "r": [
-    427,
-    733,
-    601,
-    821
+    444,
+    662,
+    557,
+    749
    ]
   },
   {
-   "t": 9.267,
+   "t": 10.467,
+   "texto": "37",
+   "contando": false,
+   "r": [
+    570,
+    662,
+    627,
+    749
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "niños",
+   "contando": false,
+   "r": [
+    640,
+    662,
+    767,
+    749
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    780,
+    662,
+    879,
+    749
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    892,
+    662,
+    948,
+    749
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    150,
+    729,
+    262,
+    816
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "cien",
+   "contando": false,
+   "r": [
+    275,
+    729,
+    374,
+    816
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    387,
+    729,
+    430,
+    816
+   ]
+  },
+  {
+   "t": 10.467,
+   "texto": "lograron.",
+   "contando": false,
+   "r": [
+    443,
+    739,
+    633,
+    809
+   ]
+  },
+  {
+   "t": 10.467,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -576,7 +609,7 @@
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -587,172 +620,161 @@
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "iii.",
    "contando": false,
    "r": [
     148,
-    388,
-    206,
-    471
+    398,
+    196,
+    463
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "Siempre",
    "contando": false,
    "r": [
     150,
-    470,
-    453,
+    472,
+    410,
     565
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "con",
    "contando": false,
    "r": [
-    477,
-    470,
-    617,
+    433,
+    472,
+    549,
     565
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "equipo",
    "contando": false,
    "r": [
-    642,
-    470,
-    901,
+    572,
+    472,
+    784,
     565
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "médico",
    "contando": false,
    "r": [
     150,
-    543,
-    421,
+    545,
+    378,
     638
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "Se",
    "contando": false,
    "r": [
     150,
-    674,
-    214,
-    762
+    676,
+    204,
+    763
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "hace",
    "contando": false,
    "r": [
-    228,
-    674,
-    354,
-    762
+    218,
+    676,
+    330,
+    763
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "con",
    "contando": false,
    "r": [
-    368,
-    674,
-    465,
-    762
+    344,
+    676,
+    429,
+    763
    ]
   },
   {
-   "t": 12.1,
-   "texto": "equipo",
+   "t": 13.167,
+   "texto": "médicos",
    "contando": false,
    "r": [
-    479,
-    674,
-    644,
-    762
+    442,
+    676,
+    640,
+    763
    ]
   },
   {
-   "t": 12.1,
-   "texto": "médico",
-   "contando": false,
-   "r": [
-    658,
-    674,
-    854,
-    762
-   ]
-  },
-  {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "y",
    "contando": false,
    "r": [
-    150,
-    741,
-    182,
-    829
+    653,
+    676,
+    679,
+    763
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "dietista,",
    "contando": false,
    "r": [
-    196,
-    741,
-    406,
-    829
+    693,
+    686,
+    864,
+    756
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "según",
    "contando": false,
    "r": [
-    420,
-    741,
-    581,
-    829
+    150,
+    745,
+    291,
+    832
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "el",
    "contando": false,
    "r": [
-    595,
-    741,
-    645,
-    829
+    304,
+    745,
+    346,
+    832
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "consenso.",
    "contando": false,
    "r": [
-    660,
-    741,
-    917,
-    829
+    360,
+    745,
+    597,
+    832
    ]
   },
   {
-   "t": 12.1,
+   "t": 13.167,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -763,7 +785,7 @@
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -774,183 +796,172 @@
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "iv.",
    "contando": false,
    "r": [
     148,
-    388,
-    202,
-    471
+    398,
+    196,
+    463
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "En",
    "contando": false,
    "r": [
     150,
-    470,
-    242,
+    472,
+    224,
     565
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "adultos,",
    "contando": false,
    "r": [
-    266,
-    470,
-    603,
+    247,
+    472,
+    527,
     565
    ]
   },
   {
-   "t": 14.967,
-   "texto": "poca",
+   "t": 15.867,
+   "texto": "pocas",
    "contando": false,
    "r": [
-    627,
-    470,
-    808,
+    551,
+    472,
+    742,
     565
    ]
   },
   {
-   "t": 14.967,
-   "texto": "evidencia",
+   "t": 15.867,
+   "texto": "pruebas",
    "contando": false,
    "r": [
     150,
-    543,
-    533,
+    545,
+    413,
     638
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "Solo",
    "contando": false,
    "r": [
     150,
-    674,
-    269,
-    762
+    676,
+    247,
+    763
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "dos",
    "contando": false,
    "r": [
-    283,
-    674,
-    376,
-    762
+    261,
+    676,
+    345,
+    763
    ]
   },
   {
-   "t": 14.967,
-   "texto": "trabajos",
+   "t": 15.867,
+   "texto": "experimentos,",
    "contando": false,
    "r": [
-    390,
-    674,
-    610,
-    762
+    358,
+    676,
+    688,
+    763
    ]
   },
   {
-   "t": 14.967,
-   "texto": "aleatorizados",
-   "contando": false,
-   "r": [
-    150,
-    741,
-    510,
-    829
-   ]
-  },
-  {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "y",
    "contando": false,
    "r": [
-    524,
-    741,
-    556,
-    829
+    702,
+    676,
+    728,
+    763
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "ningún",
    "contando": false,
    "r": [
-    571,
     741,
-    764,
-    829
+    676,
+    898,
+    763
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "adulto",
    "contando": false,
    "r": [
-    778,
-    741,
-    938,
-    829
+    150,
+    743,
+    295,
+    830
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    308,
+    743,
+    363,
+    830
+   ]
+  },
+  {
+   "t": 15.867,
    "texto": "quedó",
    "contando": false,
    "r": [
-    150,
-    808,
-    319,
-    896
+    376,
+    743,
+    518,
+    830
    ]
   },
   {
-   "t": 14.967,
-   "texto": "libre",
+   "t": 15.867,
+   "texto": "sin",
    "contando": false,
    "r": [
-    333,
-    808,
-    463,
-    896
+    532,
+    743,
+    601,
+    830
    ]
   },
   {
-   "t": 14.967,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    478,
-    808,
-    543,
-    896
-   ]
-  },
-  {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "crisis.",
    "contando": false,
    "r": [
-    558,
-    808,
-    712,
-    896
+    614,
+    753,
+    746,
+    823
    ]
   },
   {
-   "t": 14.967,
+   "t": 15.867,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -961,7 +972,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -972,62 +983,62 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "¿Y",
    "contando": false,
    "r": [
     96,
     375,
-    200,
-    497
+    176,
+    504
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "para",
    "contando": false,
    "r": [
-    219,
+    195,
     375,
-    390,
-    497
+    349,
+    504
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "todo",
    "contando": false,
    "r": [
-    410,
+    369,
     375,
-    575,
-    497
+    521,
+    504
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "lo",
    "contando": false,
    "r": [
-    96,
-    468,
-    168,
-    590
+    541,
+    375,
+    604,
+    504
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "demás?",
    "contando": false,
    "r": [
-    188,
-    468,
-    470,
-    590
+    624,
+    375,
+    895,
+    504
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "El dato que importa",
    "contando": false,
    "r": [
@@ -1038,183 +1049,238 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "Tiene",
    "contando": false,
    "r": [
     96,
-    745,
-    297,
-    863
+    746,
+    267,
+    869
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "uso",
    "contando": false,
    "r": [
-    316,
-    745,
-    439,
-    863
+    286,
+    746,
+    405,
+    869
    ]
   },
   {
-   "t": 19.7,
-   "texto": "clínico",
+   "t": 21.467,
+   "texto": "médico",
    "contando": false,
    "r": [
-    457,
-    745,
-    697,
-    863
+    423,
+    746,
+    664,
+    869
    ]
   },
   {
-   "t": 19.7,
-   "texto": "establecido",
+   "t": 21.467,
+   "texto": "claro",
    "contando": false,
    "r": [
-    96,
-    834,
-    501,
-    952
+    683,
+    746,
+    850,
+    869
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "en",
    "contando": false,
    "r": [
-    520,
-    834,
-    606,
-    952
+    869,
+    746,
+    949,
+    869
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
+   "texto": "niños",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    275,
+    964
+   ]
+  },
+  {
+   "t": 21.467,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    294,
+    841,
+    414,
+    964
+   ]
+  },
+  {
+   "t": 21.467,
    "texto": "epilepsia",
    "contando": false,
    "r": [
-    625,
-    834,
-    946,
-    952
+    433,
+    841,
+    729,
+    964
    ]
   },
   {
-   "t": 19.7,
-   "texto": "farmacorresistente",
+   "t": 21.467,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    748,
+    841,
+    869,
+    964
+   ]
+  },
+  {
+   "t": 21.467,
+   "texto": "no",
    "contando": false,
    "r": [
     96,
-    924,
-    768,
-    1042
+    936,
+    177,
+    1059
    ]
   },
   {
-   "t": 19.7,
-   "texto": "infantil;",
+   "t": 21.467,
+   "texto": "cede",
+   "contando": false,
+   "r": [
+    195,
+    936,
+    355,
+    1059
+   ]
+  },
+  {
+   "t": 21.467,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    373,
+    936,
+    494,
+    1059
+   ]
+  },
+  {
+   "t": 21.467,
+   "texto": "fármacos;",
+   "contando": false,
+   "r": [
+    512,
+    936,
+    841,
+    1059
+   ]
+  },
+  {
+   "t": 21.467,
+   "texto": "para",
    "contando": false,
    "r": [
     96,
-    1013,
-    374,
-    1131
+    1031,
+    243,
+    1154
    ]
   },
   {
-   "t": 19.7,
-   "texto": "en",
+   "t": 21.467,
+   "texto": "lo",
    "contando": false,
    "r": [
-    393,
-    1013,
-    479,
-    1131
+    262,
+    1031,
+    322,
+    1154
    ]
   },
   {
-   "t": 19.7,
-   "texto": "otras",
+   "t": 21.467,
+   "texto": "demás,",
    "contando": false,
    "r": [
-    498,
-    1013,
-    676,
-    1131
+    340,
+    1031,
+    578,
+    1154
    ]
   },
   {
-   "t": 19.7,
-   "texto": "indicaciones",
-   "contando": false,
-   "r": [
-    96,
-    1102,
-    541,
-    1220
-   ]
-  },
-  {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "se",
    "contando": false,
    "r": [
-    559,
-    1102,
-    633,
-    1220
+    597,
+    1031,
+    675,
+    1154
    ]
   },
   {
-   "t": 19.7,
-   "texto": "estudia",
+   "t": 21.467,
+   "texto": "prueba",
    "contando": false,
    "r": [
-    652,
-    1102,
-    908,
-    1220
+    694,
+    1031,
+    922,
+    1154
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "con",
    "contando": false,
    "r": [
     96,
-    1192,
-    224,
-    1310
+    1126,
+    216,
+    1249
    ]
   },
   {
-   "t": 19.7,
-   "texto": "trabajos",
+   "t": 21.467,
+   "texto": "grupos",
    "contando": false,
    "r": [
-    243,
-    1192,
-    533,
-    1310
+    235,
+    1126,
+    464,
+    1249
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "pequeños.",
    "contando": false,
    "r": [
-    551,
-    1192,
-    910,
-    1310
+    482,
+    1126,
+    820,
+    1249
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
    "contando": false,
    "r": [
@@ -1225,7 +1291,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 21.467,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1236,106 +1302,106 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
     96,
-    826,
-    453,
-    942
+    838,
+    386,
+    929
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "a",
    "contando": false,
    "r": [
-    472,
-    826,
-    513,
-    942
+    401,
+    838,
+    434,
+    929
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "quien",
    "contando": false,
    "r": [
-    532,
-    826,
-    712,
-    942
+    449,
+    838,
+    599,
+    929
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "ve",
    "contando": false,
    "r": [
-    730,
-    826,
-    802,
-    942
+    613,
+    838,
+    679,
+    929
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "la",
    "contando": false,
    "r": [
-    820,
-    826,
-    885,
-    942
+    693,
+    838,
+    743,
+    929
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "keto",
    "contando": false,
    "r": [
-    96,
-    914,
-    230,
-    1030
+    757,
+    838,
+    878,
+    929
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "como",
    "contando": false,
    "r": [
-    249,
-    914,
-    418,
-    1030
+    96,
+    926,
+    247,
+    1017
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "una",
    "contando": false,
    "r": [
-    436,
-    914,
-    563,
-    1030
+    261,
+    926,
+    362,
+    1017
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "moda.",
    "contando": false,
    "r": [
-    582,
-    914,
-    779,
-    1030
+    376,
+    926,
+    545,
+    1017
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "El",
    "contando": false,
    "r": [
@@ -1346,7 +1412,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "lunes",
    "contando": false,
    "r": [
@@ -1357,7 +1423,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "a",
    "contando": false,
    "r": [
@@ -1368,7 +1434,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "la",
    "contando": false,
    "r": [
@@ -1379,7 +1445,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "una:",
    "contando": false,
    "r": [
@@ -1390,7 +1456,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "edulcorantes",
    "contando": false,
    "r": [
@@ -1401,7 +1467,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "y",
    "contando": false,
    "r": [
@@ -1412,29 +1478,29 @@
    ]
   },
   {
-   "t": 23.633,
-   "texto": "cognición,",
+   "t": 25.4,
+   "texto": "cerebro,",
    "contando": false,
    "r": [
     689,
     1205,
-    882,
+    837,
     1243
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "un",
    "contando": false,
    "r": [
-    893,
+    848,
     1205,
-    937,
+    891,
     1243
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "hallazgo",
    "contando": false,
    "r": [
@@ -1445,7 +1511,7 @@
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "con",
    "contando": false,
    "r": [
@@ -1456,18 +1522,18 @@
    ]
   },
   {
-   "t": 23.633,
-   "texto": "matices.",
+   "t": 25.4,
+   "texto": "peros.",
    "contando": false,
    "r": [
     347,
     1241,
-    487,
+    455,
     1279
    ]
   },
   {
-   "t": 23.633,
+   "t": 25.4,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1480,18 +1546,18 @@
  ],
  "comprobar_s": [
   0.0,
-  5.533,
-  9.267,
-  12.1,
-  14.967,
-  19.7,
-  23.633
+  5.767,
+  10.467,
+  13.167,
+  15.867,
+  21.467,
+  25.4
  ],
  "sonido": {
-  "lufs": -16.01,
+  "lufs": -16.02,
   "pico_dbtp": -2.05,
   "recortes": 0,
-  "reduccion_max_db": 5.94,
+  "reduccion_max_db": 6.07,
   "tiempo_reduccion_mas_1db_pct": 0.08,
   "efectos_por_tipo": {
    "whoosh": 7,
@@ -1500,7 +1566,7 @@
    "pop": 1
   },
   "descartados": 0,
-  "duracion_s": 24.212,
+  "duracion_s": 25.979,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -1510,18 +1576,18 @@
    "voz": "7QQzpAyzlKTVrRzQJmTE",
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
-   "caracteres": 320,
-   "texto": "Solo un uso de la keto tiene evidencia sólida. Epilepsia infantil que no responde a fármacos. Crisis a la mitad o menos. Unos treinta y siete puntos más. Siempre con equipo médico. En adultos, poca evidencia. Uso clínico, establecido en niños. Lo demás, con trabajos pequeños. Mándaselo a quien ve la keto como una moda.",
-   "cortes": 11,
-   "silencios_s": 3.85,
-   "pausas_acortadas_s": 1.56,
-   "duracion_voz_s": 22.45
+   "caracteres": 327,
+   "texto": "El único uso de la keto con pruebas sólidas. Uno: niños con epilepsia que no cede con fármacos. Dos: unos treinta y siete niños más de cada cien bajaron sus crisis a la mitad. Tres: siempre con equipo médico. Cuatro: en adultos, pocas pruebas. ¿Y para todo lo demás? Grupos pequeños. Mándaselo a quien ve la keto como una moda.",
+   "cortes": 12,
+   "silencios_s": 5.35,
+   "pausas_acortadas_s": 2.96,
+   "duracion_voz_s": 24.31
   },
   "mezcla": {
    "efectos_db": -7,
    "ducking": 0.5,
-   "lufs_wav": -16.01,
-   "limitador_max_db": 0.66
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.2
   }
  },
  "efectos": [
@@ -1536,78 +1602,78 @@
    "intensidad": 0.22
   },
   {
-   "t": 2.691,
+   "t": 2.531,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 3.241,
+   "t": 3.081,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 5.661,
+   "t": 5.901,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 6.211,
+   "t": 6.451,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 9.391,
+   "t": 10.591,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 9.941,
+   "t": 11.141,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 12.231,
+   "t": 13.271,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 12.781,
+   "t": 13.821,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 15.101,
+   "t": 15.981,
    "tipo": "whoosh",
    "intensidad": 0.36
   },
   {
-   "t": 15.551,
+   "t": 16.431,
    "tipo": "sello",
    "intensidad": 0.4
   },
   {
-   "t": 19.811,
+   "t": 21.591,
    "tipo": "whoosh",
    "intensidad": 0.34
   },
   {
-   "t": 22.421,
+   "t": 24.201,
    "tipo": "pop",
    "intensidad": 0.24
   }
  ],
- "fotogramas": 727,
- "tiempo_render_s": 71.3,
+ "fotogramas": 780,
+ "tiempo_render_s": 111.5,
  "tiempos_s": {
-  "preparar": 0.9,
-  "dibujar_y_codificar": 64.94
+  "preparar": 2.21,
+  "dibujar_y_codificar": 99.52
  },
  "voz_de_prueba": false,
  "plantilla": "reel_explica",
  "variante": "c",
  "linea_de_tiempo": {
-  "dur": 24.2333,
-  "loop": 23.7333,
+  "dur": 26.0,
+  "loop": 25.5,
   "var": "c",
   "n": 4,
   "port": {
@@ -1615,174 +1681,178 @@
    "t_sub": 0.5,
    "pal": [
     0.0,
-    0.011,
-    0.016,
-    0.024,
-    0.03,
-    0.035,
-    0.046,
-    0.059,
-    0.084
+    0.006,
+    0.02,
+    0.029,
+    0.034,
+    0.04,
+    0.051,
+    0.06,
+    0.08
    ]
   },
   "pasos": [
    {
-    "t_in": 2.691,
-    "t_out": 5.661,
-    "t_rom": 3.111,
-    "t_tit": 3.241,
-    "t_txt0": 3.741,
-    "t_ico": 3.491,
-    "voz": 3.111,
+    "t_in": 2.531,
+    "t_out": 5.901,
+    "t_rom": 2.951,
+    "t_tit": 3.081,
+    "t_txt0": 3.581,
+    "t_ico": 3.331,
+    "voz": 2.951,
     "pal_txt": [
-     3.411,
-     3.411,
-     3.111,
-     4.191,
-     4.351,
-     4.511,
-     4.791,
-     5.071,
-     4.961,
-     4.961
+     4.811,
+     5.061,
+     5.311,
+     5.201,
+     5.201,
+     5.201,
+     5.201,
+     5.201,
+     5.201,
+     5.201,
+     5.201
     ],
     "bt": 376
    },
    {
-    "t_in": 5.661,
-    "t_out": 9.391,
-    "t_rom": 6.081,
-    "t_tit": 6.211,
-    "t_txt0": 6.711,
-    "t_ico": 6.461,
-    "voz": 6.081,
+    "t_in": 5.901,
+    "t_out": 10.591,
+    "t_rom": 6.321,
+    "t_tit": 6.451,
+    "t_txt0": 6.951,
+    "t_ico": 6.701,
+    "voz": 6.321,
     "pal_txt": [
-     6.081,
-     6.281,
-     6.481,
-     6.681,
-     6.961,
-     7.241,
-     7.491,
-     7.741,
-     7.991,
-     8.241,
-     8.491,
-     8.691
+     6.621,
+     6.621,
+     6.621,
+     6.841,
+     7.041,
+     7.681,
+     8.001,
+     8.161,
+     8.321,
+     8.561,
+     8.811,
+     9.061
     ],
     "bt": 468
    },
    {
-    "t_in": 9.391,
-    "t_out": 12.231,
-    "t_rom": 9.811,
-    "t_tit": 9.941,
-    "t_txt0": 10.441,
-    "t_ico": 10.191,
-    "voz": 9.811,
+    "t_in": 10.591,
+    "t_out": 13.271,
+    "t_rom": 11.011,
+    "t_tit": 11.141,
+    "t_txt0": 11.641,
+    "t_ico": 11.391,
+    "voz": 11.011,
     "pal_txt": [
-     10.111,
-     10.111,
-     10.211,
-     10.371,
-     10.691,
-     10.941,
-     11.191,
-     11.441,
-     11.531,
-     11.531
+     11.324,
+     11.574,
+     11.824,
+     12.074,
+     12.324,
+     12.571,
+     12.571,
+     12.571,
+     12.571
     ],
     "bt": 560
    },
    {
-    "t_in": 12.231,
-    "t_out": 15.101,
-    "t_rom": 12.651,
-    "t_tit": 12.781,
-    "t_txt0": 13.281,
-    "t_ico": 13.031,
-    "voz": 12.651,
+    "t_in": 13.271,
+    "t_out": 15.981,
+    "t_rom": 13.691,
+    "t_tit": 13.821,
+    "t_txt0": 14.321,
+    "t_ico": 14.071,
+    "voz": 13.691,
     "pal_txt": [
-     12.951,
-     13.049,
-     13.123,
-     13.32,
-     13.639,
-     13.664,
-     13.811,
-     13.959,
-     14.082,
-     14.204,
-     14.254
+     13.991,
+     14.099,
+     14.179,
+     14.502,
+     14.529,
+     14.69,
+     14.851,
+     14.905,
+     15.039,
+     15.12
     ],
     "bt": 652
    }
   ],
   "conc": {
-   "t_in": 15.101,
-   "t_g": 15.701,
-   "voz": 15.651,
-   "decl": 15.651,
+   "t_in": 15.981,
+   "t_g": 16.581,
+   "voz": 16.531,
+   "decl": 16.531,
    "pal_g": [
-    15.701,
-    15.726,
-    15.826,
-    15.926,
-    15.976
+    16.581,
+    16.606,
+    16.706,
+    16.806,
+    16.856
    ],
    "pal_f": [
-    15.651,
-    15.651,
-    15.891,
-    16.491,
-    16.675,
-    16.859,
-    17.043,
-    17.227,
-    17.411,
-    17.595,
-    17.779,
-    17.963,
-    18.147,
-    18.331,
-    18.531,
-    18.971
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.531,
+    16.691,
+    16.971,
+    17.251,
+    17.381,
+    17.511,
+    17.641,
+    17.771,
+    18.171
    ],
-   "t_f0": 16.201,
+   "t_f0": 17.081,
    "bt": 744
   },
   "fin": {
-   "t_in": 19.811,
-   "voz": 20.231,
-   "t_c0": 20.561,
-   "t_fil": 20.911,
-   "t_an": 22.421,
+   "t_in": 21.591,
+   "voz": 22.011,
+   "t_c0": 22.341,
+   "t_fil": 22.691,
+   "t_an": 24.201,
    "pal_c": [
-    20.231,
-    20.551,
-    20.871,
-    21.018,
-    21.164,
-    21.311,
-    21.711,
-    21.911,
-    22.071
+    22.011,
+    22.331,
+    22.651,
+    22.798,
+    22.944,
+    23.091,
+    23.491,
+    23.691,
+    23.851
    ],
-   "B0": 22.111
+   "B0": 23.891
   },
   "trans": [
-   2.691,
-   5.661,
-   9.391,
-   12.231,
-   15.101,
-   19.811
+   2.531,
+   5.901,
+   10.591,
+   13.271,
+   15.981,
+   21.591
   ],
   "extra": [
-   22.411,
-   22.661,
-   23.9333,
-   24.1333
+   24.191,
+   24.441,
+   25.7,
+   25.9
   ],
   "cinta": [
    {
@@ -1790,27 +1860,27 @@
     "off": 0.0
    },
    {
-    "t_in": 2.691,
+    "t_in": 2.531,
     "off": 640
    },
    {
-    "t_in": 5.661,
+    "t_in": 5.901,
     "off": 1260
    },
    {
-    "t_in": 9.391,
+    "t_in": 10.591,
     "off": 1880
    },
    {
-    "t_in": 12.231,
+    "t_in": 13.271,
     "off": 2500
    },
    {
-    "t_in": 15.101,
+    "t_in": 15.981,
     "off": 3120
    }
   ],
-  "fin_voz": 22.451,
+  "fin_voz": 24.311,
   "deriva": [
    9.0,
    30.0
@@ -1819,61 +1889,61 @@
  "muestras": [
   0.0,
   1.3,
-  3.0333,
-  5.5333,
-  6.0,
-  9.2667,
-  9.7333,
-  12.1,
-  12.5667,
-  14.9667,
-  15.6,
-  19.7,
-  20.4,
-  23.6333,
-  24.2
+  2.8667,
+  5.7667,
+  6.2667,
+  10.4667,
+  10.9333,
+  13.1667,
+  13.6333,
+  15.8667,
+  16.4667,
+  21.4667,
+  22.2,
+  25.4,
+  25.9667
  ],
  "reparto_voz": [
   {
    "parte": "gancho",
-   "voz": "Solo un uso de la keto tiene evidencia sólida.",
+   "voz": "El único uso de la keto con pruebas sólidas.",
    "t": 0.021,
-   "puntos": 4.0
+   "puntos": 5.0
   },
   {
    "parte": "paso I",
-   "voz": "Epilepsia infantil que no responde a fármacos.",
-   "t": 3.111,
-   "puntos": 4.0
+   "voz": "Uno: niños con epilepsia que no cede con fármacos.",
+   "t": 2.951,
+   "puntos": 6.0
   },
   {
    "parte": "paso II",
-   "voz": "Crisis a la mitad o menos. Unos treinta y siete puntos más.",
-   "t": 6.081,
-   "puntos": 5.0
+   "voz": "Dos: unos treinta y siete niños más de cada cien bajaron sus crisis a la mitad.",
+   "t": 6.321,
+   "puntos": 9.0
   },
   {
    "parte": "paso III",
-   "voz": "Siempre con equipo médico.",
-   "t": 9.811,
-   "puntos": 2.0
+   "voz": "Tres: siempre con equipo médico.",
+   "t": 11.011,
+   "puntos": 5.0
   },
   {
    "parte": "paso IV",
-   "voz": "En adultos, poca evidencia.",
-   "t": 12.651,
-   "puntos": 3.0
+   "voz": "Cuatro: en adultos, pocas pruebas.",
+   "t": 13.691,
+   "puntos": 6.0
   },
   {
    "parte": "conclusión",
-   "voz": "Uso clínico, establecido en niños. Lo demás, con trabajos pequeños.",
-   "t": 15.651,
-   "puntos": 5.0
+   "voz": "¿Y para todo lo demás? Grupos pequeños.",
+   "t": 16.531,
+   "puntos": 3.0
   },
   {
    "parte": "cierre",
    "voz": "Mándaselo a quien ve la keto como una moda.",
-   "t": 20.231,
+   "t": 22.011,
    "puntos": 11.0
   }
  ],
@@ -1883,7 +1953,7 @@
   "controles: [cifras] LC-019: riesgo de publicar ALTO; hace falta validarlo (/validar en el bot) antes de publicar",
   "controles: [validación] sin validar por dietista-nutricionista colegiado: ENF-003, LC-018, LC-019, MIT-027",
   "controles: [salud] menciona «epilepsia» en alt, hoja 2, hoja 6, pie: solo vale como límite o riesgo, nunca como promesa",
-  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «  i.  ii.  iii.  iv.  La clave del día  Epilepsia infan»",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «  i.  ii.  iii.  iv.  La clave del día  Niños con epile»",
   "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #keto #dietacetogenica #epilepsia #nutricion»"
  ]
 }
