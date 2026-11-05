@@ -1,0 +1,107 @@
+{
+  "id": "n1-lx-20261121-reel-carrera-2100-hidratos-de-carbono",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-carrera",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-084",
+    "ALI-021"
+  ],
+  "titulo": "[REEL-CARRERA] Del cuatro al uno en hidratos: busca la miel",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "El quiz de la noche",
+      "titulo": "Del cuatro al uno en {hidratos}: busca la miel",
+      "texto": "Cada alimento corre a la velocidad de su hidratos de carbono.",
+      "franja": "Meta",
+      "items": [
+        "crema de cacao y avellanas",
+        "copos de maíz",
+        "donut glaseado",
+        "miel"
+      ],
+      "dato": "Por 100 g de alimento"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Orden de llegada",
+      "titulo": "{Hidratos de carbono} por 100 g",
+      "filas": [
+        {
+          "detalle": "i.",
+          "nombre": "copos de maíz",
+          "valor": "88,0",
+          "unidad": "g"
+        },
+        {
+          "detalle": "ii.",
+          "nombre": "miel",
+          "valor": "82,4",
+          "unidad": "g"
+        },
+        {
+          "detalle": "iii.",
+          "nombre": "crema de cacao y avellanas",
+          "valor": "62,4",
+          "unidad": "g"
+        },
+        {
+          "detalle": "iv.",
+          "nombre": "donut glaseado",
+          "valor": "47,9",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Una selección por cada 100 g, de menos a más hidratos."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y qué cuenta como hidrato?",
+      "resalte": "Lo que dice el dato",
+      "frase": "Los hidratos incluyen los azúcares y la fibra.",
+      "fuente": "Los hidratos de carbono no tienen declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien desayuna copos de maíz con miel.",
+      "texto": "Mañana por la noche: el que supera al bacon en grasa saturada."
+    }
+  ],
+  "pie_instagram": "Del cuatro al uno en hidratos: busca la miel\n\nHidratos de carbono por 100 g, en orden de llegada: copos de maíz, 88,0 g; miel, 82,4 g; crema de cacao y avellanas, 62,4 g; donut glaseado, 47,9 g.\nUna selección por cada 100 g, de menos a más hidratos.\nEn la carrera, cada alimento corre a la velocidad de su hidratos de carbono: en la foto de meta, cada uno ha recorrido la parte de la pista que marca su cifra.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nLos hidratos incluyen los azúcares y la fibra.\n\n¿Habías apostado por la miel?\nMándaselo a quien desayuna copos de maíz con miel. Mañana por la noche: el que supera al bacon en grasa saturada.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratos #lowcarb #desayuno #nutricion",
+  "alt": [
+    "Reel en blanco y verde oliva: una carrera de 4 alimentos dibujados en línea fina, uno por calle; cada uno corre a la velocidad de su hidratos de carbono por 100 g y, en la foto de meta, las distancias son sus cifras. El quiz de la noche. Del cuatro al uno en hidratos: busca la miel. Cada alimento corre a la velocidad de su hidratos de carbono. Por 100 g de alimento. crema de cacao y avellanas. copos de maíz. donut glaseado. miel. Orden de llegada. Hidratos de carbono por 100 g. copos de maíz 88,0 g. miel 82,4 g. crema de cacao y avellanas 62,4 g. donut glaseado 47,9 g. Una selección por cada 100 g, de menos a más hidratos. ¿Y qué cuenta como hidrato? Lo que dice el dato. Los hidratos incluyen los azúcares y la fibra. Mañana por la noche: el que supera al bacon en grasa saturada. Mándaselo a quien desayuna copos de maíz con miel."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-carrera",
+    "formato": "REEL-CARRERA",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_carrera (spec n1-lux-20261121-2100-hidratos-miel-copos)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Debates con datos",
+    "mecanica": "reel_ranking",
+    "frente": "publico",
+    "plantilla_lux": "reel_carrera",
+    "spec_id": "n1-lux-20261121-2100-hidratos-miel-copos",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261121-2100-hidratos-miel-copos",
+    "plantilla_visual": "reel_carrera",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, hidratos de carbono por 100 g: copos de maíz 88,0 g, miel 82,4 g y donut glaseado 47,9 g (ALI-084); crema de cacao y avellanas 62,4 g (ALI-021); verificado el 11-oct-2026. La miel se queda a 5,6 g de los copos de maíz (88,0 menos 82,4). Los hidratos incluyen los azúcares y la fibra (matiz de ALI-084). Los hidratos de carbono no tienen declaración de salud autorizada: la conclusión es el matiz del propio hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

@@ -1,0 +1,1370 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 22.81,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.87,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.1,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.234,
+ "n_cambios_visuales": 165,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    525,
+    348
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Del cuatro al uno en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    505,
+    524
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    328,
+    417,
+    572,
+    524
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ": busca la miel",
+   "contando": false,
+   "r": [
+    96,
+    417,
+    586,
+    596
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cada alimento corre a la velocidad de su hidratos de carbono.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    949,
+    654
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    152,
+    748,
+    622,
+    789
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    152,
+    933,
+    384,
+    974
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    152,
+    1118,
+    418,
+    1159
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "miel",
+   "contando": false,
+   "r": [
+    152,
+    1303,
+    226,
+    1344
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    525,
+    348
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Del cuatro al uno en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    505,
+    524
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    328,
+    417,
+    572,
+    524
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": ": busca la miel",
+   "contando": false,
+   "r": [
+    96,
+    417,
+    586,
+    596
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Cada alimento corre a la velocidad de su hidratos de carbono.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    949,
+    654
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    152,
+    748,
+    622,
+    789
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    152,
+    933,
+    384,
+    974
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    152,
+    1118,
+    418,
+    1159
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "miel",
+   "contando": false,
+   "r": [
+    152,
+    1303,
+    226,
+    1344
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    525,
+    348
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "Del cuatro al uno en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    505,
+    524
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    328,
+    417,
+    572,
+    524
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": ": busca la miel",
+   "contando": false,
+   "r": [
+    96,
+    417,
+    586,
+    596
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "Cada alimento corre a la velocidad de su hidratos de carbono.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    949,
+    654
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    152,
+    747,
+    622,
+    788
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "62,4",
+   "contando": false,
+   "r": [
+    819,
+    740,
+    896,
+    801
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    762,
+    912,
+    793
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    152,
+    932,
+    384,
+    973
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "88,0",
+   "contando": false,
+   "r": [
+    818,
+    925,
+    896,
+    986
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    947,
+    912,
+    978
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    152,
+    1117,
+    418,
+    1158
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "47,9",
+   "contando": false,
+   "r": [
+    821,
+    1110,
+    896,
+    1171
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1132,
+    912,
+    1163
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "miel",
+   "contando": false,
+   "r": [
+    152,
+    1302,
+    226,
+    1343
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "82,4",
+   "contando": false,
+   "r": [
+    819,
+    1295,
+    896,
+    1356
+   ]
+  },
+  {
+   "t": 11.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1317,
+    912,
+    1348
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Orden de llegada",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    485,
+    348
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Hidratos de carbono",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    369,
+    492
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    284,
+    407,
+    541,
+    492
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Una selección por cada 100 g, de menos a más hidratos.",
+   "contando": false,
+   "r": [
+    96,
+    502,
+    748,
+    602
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    152,
+    1117,
+    622,
+    1158
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    1114,
+    129,
+    1161
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "62,4",
+   "contando": false,
+   "r": [
+    819,
+    1110,
+    896,
+    1171
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1132,
+    912,
+    1163
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    152,
+    747,
+    384,
+    788
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    744,
+    111,
+    791
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "88,0",
+   "contando": false,
+   "r": [
+    818,
+    740,
+    896,
+    801
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    762,
+    912,
+    793
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    152,
+    1302,
+    418,
+    1343
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    96,
+    1299,
+    127,
+    1346
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "47,9",
+   "contando": false,
+   "r": [
+    821,
+    1295,
+    896,
+    1356
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1317,
+    912,
+    1348
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "miel",
+   "contando": false,
+   "r": [
+    152,
+    932,
+    226,
+    973
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    929,
+    120,
+    976
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "82,4",
+   "contando": false,
+   "r": [
+    819,
+    925,
+    896,
+    986
+   ]
+  },
+  {
+   "t": 13.867,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    947,
+    912,
+    978
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    525,
+    348
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "¿Y qué cuenta como hidrato?",
+   "contando": false,
+   "r": [
+    96,
+    339,
+    742,
+    588
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "Lo que dice el dato",
+   "contando": false,
+   "r": [
+    174,
+    744,
+    519,
+    774
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "Los",
+   "contando": false,
+   "r": [
+    96,
+    787,
+    219,
+    903
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    238,
+    787,
+    531,
+    903
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "incluyen",
+   "contando": false,
+   "r": [
+    550,
+    787,
+    859,
+    903
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    96,
+    871,
+    198,
+    987
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    217,
+    871,
+    526,
+    987
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    544,
+    871,
+    586,
+    987
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    605,
+    871,
+    672,
+    987
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "fibra.",
+   "contando": false,
+   "r": [
+    690,
+    871,
+    883,
+    987
+   ]
+  },
+  {
+   "t": 15.133,
+   "texto": "Los hidratos de carbono no tienen declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1279,
+    931,
+    1329
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    762,
+    395,
+    854
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    409,
+    762,
+    441,
+    854
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    455,
+    762,
+    613,
+    854
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "desayuna",
+   "contando": false,
+   "r": [
+    627,
+    762,
+    886,
+    854
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "copos",
+   "contando": false,
+   "r": [
+    96,
+    826,
+    255,
+    918
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    269,
+    826,
+    337,
+    918
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "maíz",
+   "contando": false,
+   "r": [
+    351,
+    826,
+    480,
+    918
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    495,
+    826,
+    594,
+    918
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "miel.",
+   "contando": false,
+   "r": [
+    608,
+    826,
+    742,
+    918
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "Mañana por la noche: el que supera al bacon en grasa saturada.",
+   "contando": false,
+   "r": [
+    96,
+    938,
+    840,
+    1038
+   ]
+  },
+  {
+   "t": 19.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1352,
+    282,
+    1395
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    525,
+    348
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "Del cuatro al uno en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    505,
+    524
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "hidratos",
+   "contando": false,
+   "r": [
+    328,
+    417,
+    572,
+    524
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": ": busca la miel",
+   "contando": false,
+   "r": [
+    96,
+    417,
+    586,
+    596
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "Cada alimento corre a la velocidad de su hidratos de carbono.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    949,
+    654
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    152,
+    748,
+    622,
+    789
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    152,
+    933,
+    384,
+    974
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    152,
+    1118,
+    418,
+    1159
+   ]
+  },
+  {
+   "t": 22.733,
+   "texto": "miel",
+   "contando": false,
+   "r": [
+    152,
+    1303,
+    226,
+    1344
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.9,
+  11.8,
+  13.867,
+  15.133,
+  19.867,
+  22.733
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 0.64,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "whoosh": 3,
+   "sello": 2,
+   "tic": 3,
+   "ding": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.745,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 308,
+   "lineas": [
+    {
+     "texto": "Del cuatro al uno en hidratos. Busca la miel. Donut, cuarenta y siete coma nueve. Crema de cacao, sesenta y dos coma cuatro. Miel, ochenta y dos coma cuatro. Y arriba: ¡copos de maíz! Ochenta y ocho gramos.",
+     "hablado": "Del cuatro al uno en hidratos. Busca la miel. Donut, cuarenta y siete coma nueve. Crema de cacao, sesenta y dos coma cuatro. Miel, ochenta y dos coma cuatro. Y arriba: ¡copos de maíz! Ochenta y ocho gramos.",
+     "t0": 0.0213,
+     "t1": 12.5763
+    },
+    {
+     "texto": "¿Y qué cuenta como hidrato? Los azúcares y la fibra.",
+     "hablado": "¿Y qué cuenta como hidrato? Los azúcares y la fibra.",
+     "t0": 14.55,
+     "t1": 17.875
+    },
+    {
+     "texto": "Mándaselo a quien desayuna copos de maíz con miel.",
+     "hablado": "Mándaselo a quien desayuna copos de maíz con miel.",
+     "t0": 18.775,
+     "t1": 21.81
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.63
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.75,
+   "tipo": "whoosh",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.15,
+   "tipo": "sello",
+   "intensidad": 0.42
+  },
+  {
+   "t": 10.85,
+   "tipo": "ding",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.45,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.05,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.65,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.05,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.05,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 18.275,
+   "tipo": "sello",
+   "intensidad": 0.3
+  }
+ ],
+ "fotogramas": 683,
+ "tiempo_render_s": 56.9,
+ "tiempos_s": {
+  "preparar": 1.8,
+  "dibujar_y_codificar": 52.52
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_carrera",
+ "linea_de_tiempo": {
+  "rs": 0.75,
+  "fin": 3.15,
+  "rev": [
+   10.85,
+   8.45,
+   6.05,
+   3.65
+  ],
+  "ord": 12.05,
+  "con": 14.05,
+  "dec0": 14.55,
+  "pal": [
+   15.548,
+   15.838,
+   16.129,
+   16.42,
+   16.711,
+   17.002,
+   17.293,
+   17.584
+  ],
+  "palc": [
+   18.775,
+   19.41,
+   19.53,
+   19.81,
+   20.37,
+   20.77,
+   20.85,
+   21.17,
+   21.41
+  ],
+  "dec_fin": 17.875,
+  "cie": 18.275,
+  "post0": 18.775,
+  "loop": 21.91,
+  "dur": 22.7667,
+  "pre0": 0.0213,
+  "sincronia": "repartida",
+  "voz_conclusion": true
+ },
+ "voz_partes": {
+  "pre": "Del cuatro al uno en hidratos. Busca la miel. Donut, cuarenta y siete coma nueve. Crema de cacao, sesenta y dos coma cuatro. Miel, ochenta y dos coma cuatro. Y arriba: ¡copos de maíz! Ochenta y ocho gramos.",
+  "dec": "¿Y qué cuenta como hidrato? Los azúcares y la fibra.",
+  "post": "Mándaselo a quien desayuna copos de maíz con miel.",
+  "hallada": false
+ }
+}

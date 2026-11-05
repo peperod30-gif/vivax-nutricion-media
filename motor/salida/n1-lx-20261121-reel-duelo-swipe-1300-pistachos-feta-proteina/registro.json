@@ -1,0 +1,1194 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 20.91,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.84,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.9,
+ "n_cambios_visuales": 175,
+ "bucle_dif_ultimo_primero": 116.28,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Seis gramos más de",
+   "contando": false,
+   "r": [
+    96,
+    334,
+    716,
+    441
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    405,
+    345,
+    512
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ": ¿pistachos o feta?",
+   "contando": false,
+   "r": [
+    345,
+    405,
+    946,
+    512
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    705,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pistachos",
+   "contando": false,
+   "r": [
+    410,
+    1089,
+    679,
+    1193
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    498,
+    1188,
+    577,
+    1402
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    579,
+    1305,
+    600,
+    1357
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Seis gramos más de",
+   "contando": false,
+   "r": [
+    96,
+    334,
+    716,
+    441
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    405,
+    345,
+    512
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": ": ¿pistachos o feta?",
+   "contando": false,
+   "r": [
+    345,
+    405,
+    946,
+    512
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    705,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "pistachos",
+   "contando": false,
+   "r": [
+    410,
+    1089,
+    679,
+    1193
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    498,
+    1188,
+    577,
+    1402
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    579,
+    1305,
+    600,
+    1357
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    658,
+    759,
+    773,
+    856
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "Seis gramos más de",
+   "contando": false,
+   "r": [
+    96,
+    334,
+    716,
+    441
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    405,
+    345,
+    512
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": ": ¿pistachos o feta?",
+   "contando": false,
+   "r": [
+    345,
+    405,
+    946,
+    512
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    257,
+    649,
+    377,
+    671
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    719,
+    649,
+    829,
+    671
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "queso feta",
+   "contando": false,
+   "r": [
+    394,
+    1094,
+    688,
+    1189
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "14,2",
+   "contando": false,
+   "r": [
+    413,
+    1189,
+    645,
+    1401
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    650,
+    1307,
+    669,
+    1358
+   ]
+  },
+  {
+   "t": 6.4,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    663,
+    756,
+    777,
+    876
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "Seis gramos más de",
+   "contando": false,
+   "r": [
+    96,
+    334,
+    716,
+    441
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    405,
+    345,
+    512
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": ": ¿pistachos o feta?",
+   "contando": false,
+   "r": [
+    345,
+    405,
+    946,
+    512
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    705,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "pistachos",
+   "contando": false,
+   "r": [
+    410,
+    1089,
+    679,
+    1193
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "20,2",
+   "contando": false,
+   "r": [
+    408,
+    1185,
+    667,
+    1406
+   ]
+  },
+  {
+   "t": 9.967,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    669,
+    1302,
+    690,
+    1354
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Seis gramos más de",
+   "contando": false,
+   "r": [
+    96,
+    334,
+    716,
+    441
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    405,
+    345,
+    512
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": ": ¿pistachos o feta?",
+   "contando": false,
+   "r": [
+    345,
+    405,
+    946,
+    512
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    875,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "queso feta",
+   "contando": false,
+   "r": [
+    672,
+    1030,
+    850,
+    1092
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "14,2",
+   "contando": false,
+   "r": [
+    680,
+    1088,
+    823,
+    1219
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    823,
+    1162,
+    835,
+    1193
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    419,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "pistachos",
+   "contando": false,
+   "r": [
+    239,
+    1031,
+    401,
+    1092
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "20,2",
+   "contando": false,
+   "r": [
+    238,
+    1088,
+    393,
+    1219
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    394,
+    1158,
+    406,
+    1189
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Por cada 100 g, los pistachos llevan seis gramos más de proteína que el feta.",
+   "contando": false,
+   "r": [
+    185,
+    1313,
+    861,
+    1421
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "¿Y para qué sirve la proteína?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    794,
+    553
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    875,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "queso feta",
+   "contando": false,
+   "r": [
+    672,
+    1030,
+    850,
+    1092
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "14,2",
+   "contando": false,
+   "r": [
+    680,
+    1088,
+    823,
+    1219
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    823,
+    1162,
+    835,
+    1193
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    419,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "pistachos",
+   "contando": false,
+   "r": [
+    239,
+    1031,
+    401,
+    1092
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "20,2",
+   "contando": false,
+   "r": [
+    238,
+    1088,
+    393,
+    1219
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    394,
+    1158,
+    406,
+    1189
+   ]
+  },
+  {
+   "t": 11.833,
+   "texto": "Por cada 100 g, los pistachos llevan seis gramos más de proteína que el feta.",
+   "contando": false,
+   "r": [
+    185,
+    1313,
+    861,
+    1421
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "¿Y para qué sirve la proteína?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    794,
+    553
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Proteínas",
+   "contando": false,
+   "r": [
+    174,
+    672,
+    347,
+    702
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    737,
+    244,
+    881
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "proteínas",
+   "contando": false,
+   "r": [
+    267,
+    737,
+    675,
+    881
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    96,
+    840,
+    626,
+    984
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    649,
+    840,
+    730,
+    984
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    96,
+    944,
+    747,
+    1088
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    1047,
+    202,
+    1191
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    225,
+    1047,
+    350,
+    1191
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "huesos",
+   "contando": false,
+   "r": [
+    373,
+    1047,
+    669,
+    1191
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    1151,
+    201,
+    1295
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    224,
+    1151,
+    741,
+    1295
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    96,
+    1254,
+    519,
+    1398
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1437,
+    948,
+    1487
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    635,
+    533,
+    776
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    556,
+    635,
+    607,
+    776
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    630,
+    635,
+    851,
+    776
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "pica",
+   "contando": false,
+   "r": [
+    96,
+    738,
+    266,
+    879
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "pistachos",
+   "contando": false,
+   "r": [
+    289,
+    738,
+    661,
+    879
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    191,
+    982
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    214,
+    841,
+    284,
+    982
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "sofá.",
+   "contando": false,
+   "r": [
+    307,
+    841,
+    491,
+    982
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "Mañana a la una, otro duelo: hamburguesa contra pechuga.",
+   "contando": false,
+   "r": [
+    96,
+    1125,
+    924,
+    1225
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.267,
+  6.4,
+  9.967,
+  11.4,
+  11.833,
+  17.267,
+  20.833
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 0.98,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "sello": 2,
+   "whoosh": 5,
+   "contador": 12,
+   "ding": 2
+  },
+  "descartados": 0,
+  "duracion_s": 20.845,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 323,
+   "lineas": [
+    {
+     "texto": "Seis gramos más de proteína. ¿Cuál de los dos? A los pistachos, paso. Al feta, me gusta: catorce coma dos gramos. Pero los pistachos vuelven: veinte coma dos gramos. ¿Y para qué sirve la proteína? Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien pica pistachos en el sofá.",
+     "hablado": "Seis gramos más de proteína. ¿Cuál de los dos? A los pistachos, paso. Al feta, me gusta: catorce coma dos gramos. Pero los pistachos vuelven: veinte coma dos gramos. ¿Y para qué sirve la proteína? Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien pica pistachos en el sofá.",
+     "t0": 0.0213,
+     "t1": 19.9463
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.59
+  }
+ },
+ "efectos": [
+  {
+   "t": 1.9,
+   "tipo": "sello",
+   "intensidad": 0.32
+  },
+  {
+   "t": 2.57,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.12,
+   "tipo": "sello",
+   "intensidad": 0.36
+  },
+  {
+   "t": 6.67,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 9.57,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 10.32,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 12.061,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.511,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 18.311,
+   "tipo": "ding",
+   "intensidad": 0.28
+  },
+  {
+   "t": 8.12,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.24,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.36,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.48,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.6,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.72,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.84,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.96,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 9.08,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 9.2,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 9.32,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 9.44,
+   "tipo": "contador",
+   "intensidad": 0.16
+  }
+ ],
+ "fotogramas": 626,
+ "tiempo_render_s": 54.1,
+ "tiempos_s": {
+  "preparar": 1.76,
+  "dibujar_y_codificar": 49.34
+ },
+ "voz_de_prueba": false
+}
