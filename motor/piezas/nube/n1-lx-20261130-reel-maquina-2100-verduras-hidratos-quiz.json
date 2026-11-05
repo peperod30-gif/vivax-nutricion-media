@@ -1,0 +1,103 @@
+{
+  "id": "n1-lx-20261130-reel-maquina-2100-verduras-hidratos-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-022"
+  ],
+  "titulo": "[REEL-MAQUINA] Tu ensalada: la verdura con más hidratos es roja.",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "El quiz de la noche",
+      "titulo": "Tu ensalada: la verdura con más {hidratos} es roja.",
+      "texto": "hidratos de carbono · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "espinacas crudas",
+          "valor": "3,6"
+        },
+        {
+          "nombre": "pimiento rojo crudo",
+          "valor": "6,0"
+        },
+        {
+          "nombre": "champiñones",
+          "valor": "3,3"
+        },
+        {
+          "nombre": "tomate crudo",
+          "valor": "3,9"
+        }
+      ],
+      "unidad": "g",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Pimiento rojo crudo",
+      "cifra": "6,0",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Lo que dice el dato",
+      "frase": "Pimiento rojo crudo: casi el doble que los champiñones, por 100 g.",
+      "titulo": "¿Y cuánto le saca al champiñón?"
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien cuenta hidratos en la ensalada.",
+      "texto": "Mañana por la noche, otro quiz: el calcio."
+    }
+  ],
+  "pie_instagram": "Tu ensalada: la verdura con más hidratos es roja.\n\nPor cada 100 g, de menos a más hidratos de carbono: champiñones 3,3 g, espinacas crudas 3,6 g, tomate crudo 3,9 g y pimiento rojo crudo 6,0 g.\nTodas crudas, por 100 g. Apuesta antes de que salga la última.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPimiento rojo crudo: casi el doble que los champiñones, por 100 g.\n\n¿Por cuál habías apostado?\nMándaselo a quien cuenta hidratos en la ensalada.\nMañana por la noche, otro quiz: el calcio.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hidratosdecarbono #verduras #ensalada #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 4 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. El quiz de la noche. Tu ensalada: la verdura con más hidratos es roja. Casillas: A, espinacas crudas, 3,6 g; B, pimiento rojo crudo, 6,0 g; C, champiñones, 3,3 g; D, tomate crudo, 3,9 g. La que más lleva: pimiento rojo crudo, 6,0 g por 100 g. Lo que dice el dato: Pimiento rojo crudo: casi el doble que los champiñones, por 100 g. Mándaselo a quien cuenta hidratos en la ensalada. Mañana por la noche, otro quiz: el calcio."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-30",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261130-2100-verduras-hidratos-quiz",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Fibra e hidratos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 1.3,
+      "max": 4.599,
+      "card": 6.749,
+      "decl": 7.849,
+      "tapa": null,
+      "fin": 9.749,
+      "dur": 14.0
+    },
+    "spec": "n1-lux-20261130-2100-verduras-hidratos-quiz",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-022, banco de composición de octubre de 2026), hidratos de carbono por 100 g, todas crudas: pimiento rojo 6,0 g; tomate 3,9 g; espinacas 3,6 g; champiñones 3,3 g. Cálculo: 6,0 entre 3,3 da 1,8 («casi el doble»). Se dejan fuera la coliflor y el calabacín de ALI-022, cuyas cifras ya salieron en otras piezas. Los hidratos de carbono no tienen declaración de salud autorizada: es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

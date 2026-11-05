@@ -1,0 +1,111 @@
+{
+  "id": "n1-lx-20261130-reel-carrera-0830-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-carrera",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-082",
+    "VIT-059",
+    "ALI-081",
+    "ALI-125",
+    "ALI-126"
+  ],
+  "titulo": "[REEL-CARRERA] ¿Qué supera al atún en proteína? Apuesta.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "¿Qué supera al atún en {proteína}? Apuesta.",
+      "texto": "Cada alimento corre a la velocidad de su proteína.",
+      "franja": "Meta",
+      "items": [
+        "hamburguesa cocinada",
+        "bacon frito",
+        "queso gouda",
+        "atún en aceite, escurrido"
+      ],
+      "dato": "Por 100 g de alimento"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Orden de llegada",
+      "titulo": "{Proteína} por 100 g",
+      "filas": [
+        {
+          "detalle": "i.",
+          "nombre": "bacon frito",
+          "valor": "33,9",
+          "unidad": "g"
+        },
+        {
+          "detalle": "ii.",
+          "nombre": "atún en aceite, escurrido",
+          "valor": "29,1",
+          "unidad": "g"
+        },
+        {
+          "detalle": "iii.",
+          "nombre": "hamburguesa cocinada",
+          "valor": "25,8",
+          "unidad": "g"
+        },
+        {
+          "detalle": "iv.",
+          "nombre": "queso gouda",
+          "valor": "24,9",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Todo cocinado o escurrido. Del atún al bacon, casi cinco gramos."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y para qué sirven las proteínas?",
+      "resalte": "Para qué sirve",
+      "frase": "Las proteínas contribuyen a que aumente la masa muscular.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "vit": "VIT-059"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien vive de latas de atún.",
+      "texto": "Mañana por la mañana, otra cuenta atrás: el desayuno."
+    }
+  ],
+  "pie_instagram": "¿Qué supera al atún en proteína? Apuesta.\n\nProteína por 100 g, en orden de llegada: bacon frito, 33,9 g; atún en aceite, escurrido, 29,1 g; hamburguesa cocinada, 25,8 g; queso gouda, 24,9 g.\nTodo cocinado o escurrido. Del atún al bacon, casi cinco gramos.\nEn la carrera, cada alimento corre a la velocidad de su proteína: en la foto de meta, cada uno ha recorrido la parte de la pista que marca su cifra.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a que aumente la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Quién creías que iba primero?\nMándaselo a quien vive de latas de atún. Mañana por la mañana, otra cuenta atrás: el desayuno.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #atun #nutricion #cuentaatras",
+  "alt": [
+    "Reel en blanco y verde oliva: una carrera de 4 alimentos dibujados en línea fina, uno por calle; cada uno corre a la velocidad de su proteína por 100 g y, en la foto de meta, las distancias son sus cifras. Cuenta atrás de la mañana. ¿Qué supera al atún en proteína? Apuesta. Cada alimento corre a la velocidad de su proteína. Por 100 g de alimento. hamburguesa cocinada. bacon frito. queso gouda. atún en aceite, escurrido. Orden de llegada. Proteína por 100 g. bacon frito 33,9 g. atún en aceite, escurrido 29,1 g. hamburguesa cocinada 25,8 g. queso gouda 24,9 g. Todo cocinado o escurrido. Del atún al bacon, casi cinco gramos. ¿Y para qué sirven las proteínas? Para qué sirve. Las proteínas contribuyen a que aumente la masa muscular. Mañana por la mañana, otra cuenta atrás: el desayuno. Mándaselo a quien vive de latas de atún."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-30",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-carrera",
+    "formato": "REEL-CARRERA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_carrera (spec n1-lux-20261130-0830-proteina-atun-segundo)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Proteína y músculo",
+    "mecanica": "reel_ranking",
+    "frente": "publico",
+    "plantilla_lux": "reel_carrera",
+    "spec_id": "n1-lux-20261130-0830-proteina-atun-segundo",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261130-0830-proteina-atun-segundo",
+    "plantilla_visual": "reel_carrera",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-082, banco de composición de octubre de 2026), proteína por 100 g, todo cocinado o escurrido: bacon frito 33,9 g; atún claro en aceite, escurrido, 29,1 g; hamburguesa de ternera cocinada (80 % magra) 25,8 g; queso gouda 24,9 g. Cálculo: 33,9 menos 29,1 = 4,8 g («casi cinco gramos»). Declaración autorizada (Reglamento (UE) nº 432/2012, VIT-059), para alimentos que son al menos fuente de proteínas (12 % de la energía): bacon frito 33,9 g y 468 kcal (ALI-081), 29 %; atún en aceite 29,1 g y 198 kcal (ALI-126), 59 %; hamburguesa 25,8 g y 270 kcal (ALI-081), 38 %; gouda 24,9 g y 356 kcal (ALI-125), 28 %. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

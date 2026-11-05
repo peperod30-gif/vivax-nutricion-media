@@ -1,0 +1,2996 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 25.54,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.25,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.1,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.066,
+ "n_cambios_visuales": 274,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    210,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "nueces,",
+   "contando": false,
+   "r": [
+    228,
+    768,
+    474,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    492,
+    768,
+    624,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    642,
+    768,
+    826,
+    878
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "almendras.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    719,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    210,
+    878
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "nueces,",
+   "contando": false,
+   "r": [
+    228,
+    768,
+    474,
+    878
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    492,
+    768,
+    624,
+    878
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    642,
+    768,
+    826,
+    878
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "almendras.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    719,
+    962
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    210,
+    878
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "nueces,",
+   "contando": false,
+   "r": [
+    228,
+    768,
+    474,
+    878
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    492,
+    768,
+    624,
+    878
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    642,
+    768,
+    826,
+    878
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "almendras.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    719,
+    962
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "65,2",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    646,
+    1275
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    651,
+    1161,
+    675,
+    1223
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "Nueces",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    165,
+    1349
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "65,2 g",
+   "contando": false,
+   "r": [
+    868,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "Almendras",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    202,
+    1399
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "49,9 g",
+   "contando": false,
+   "r": [
+    864,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 4.633,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "aguacate,",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    500,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    518,
+    768,
+    650,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    668,
+    768,
+    852,
+    878
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "almendras.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    719,
+    962
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    166,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "aguacate,",
+   "contando": false,
+   "r": [
+    184,
+    768,
+    500,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    518,
+    768,
+    650,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    668,
+    768,
+    852,
+    878
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    333,
+    962
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "almendras.",
+   "contando": false,
+   "r": [
+    351,
+    852,
+    719,
+    962
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "49,9",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    663,
+    1275
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    669,
+    1161,
+    693,
+    1223
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Almendras",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    202,
+    1349
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "49,9 g",
+   "contando": false,
+   "r": [
+    864,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Aguacate",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    188,
+    1399
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "14,7 g",
+   "contando": false,
+   "r": [
+    870,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    177,
+    876
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "mantequilla,",
+   "contando": false,
+   "r": [
+    194,
+    769,
+    604,
+    876
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    621,
+    769,
+    750,
+    876
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    767,
+    769,
+    946,
+    876
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    850,
+    218,
+    957
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    235,
+    850,
+    295,
+    957
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "aceite",
+   "contando": false,
+   "r": [
+    312,
+    850,
+    503,
+    957
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    520,
+    850,
+    600,
+    957
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "oliva.",
+   "contando": false,
+   "r": [
+    617,
+    850,
+    791,
+    957
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 14.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Quiz",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    249,
+    461
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    266,
+    350,
+    348,
+    461
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "grasa:",
+   "contando": false,
+   "r": [
+    365,
+    350,
+    558,
+    461
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    575,
+    350,
+    638,
+    461
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    499,
+    546
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    516,
+    435,
+    578,
+    546
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    595,
+    435,
+    673,
+    546
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    134,
+    630
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "pillar.",
+   "contando": false,
+   "r": [
+    152,
+    519,
+    350,
+    630
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    177,
+    876
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "mantequilla,",
+   "contando": false,
+   "r": [
+    194,
+    769,
+    604,
+    876
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    621,
+    769,
+    750,
+    876
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    767,
+    769,
+    946,
+    876
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    850,
+    218,
+    957
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    235,
+    850,
+    295,
+    957
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "aceite",
+   "contando": false,
+   "r": [
+    312,
+    850,
+    503,
+    957
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    520,
+    850,
+    600,
+    957
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "oliva.",
+   "contando": false,
+   "r": [
+    617,
+    850,
+    791,
+    957
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "100,0",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    757,
+    1275
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    762,
+    1161,
+    787,
+    1223
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Aceite de oliva",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    246,
+    1349
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "100,0 g",
+   "contando": false,
+   "r": [
+    847,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    219,
+    1399
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "81,1 g",
+   "contando": false,
+   "r": [
+    873,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    213,
+    487
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    235,
+    346,
+    322,
+    487
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "toda",
+   "contando": false,
+   "r": [
+    344,
+    346,
+    529,
+    487
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    551,
+    346,
+    630,
+    487
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "misma",
+   "contando": false,
+   "r": [
+    96,
+    453,
+    369,
+    594
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "grasa?",
+   "contando": false,
+   "r": [
+    391,
+    453,
+    673,
+    594
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    407,
+    772
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "Es",
+   "contando": false,
+   "r": [
+    96,
+    790,
+    186,
+    919
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    206,
+    790,
+    280,
+    919
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    300,
+    790,
+    515,
+    919
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "total",
+   "contando": false,
+   "r": [
+    536,
+    790,
+    713,
+    919
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    734,
+    790,
+    858,
+    919
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "alimento;",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    457,
+    1016
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    478,
+    887,
+    551,
+    1016
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "proporción",
+   "contando": false,
+   "r": [
+    96,
+    985,
+    537,
+    1114
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    557,
+    985,
+    653,
+    1114
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    673,
+    985,
+    857,
+    1114
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "tipo",
+   "contando": false,
+   "r": [
+    96,
+    1082,
+    249,
+    1211
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "cambia",
+   "contando": false,
+   "r": [
+    270,
+    1082,
+    552,
+    1211
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    573,
+    1082,
+    668,
+    1211
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    689,
+    1082,
+    837,
+    1211
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    1180,
+    141,
+    1309
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "otro.",
+   "contando": false,
+   "r": [
+    161,
+    1180,
+    340,
+    1309
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "La grasa no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    831,
+    1420
+   ]
+  },
+  {
+   "t": 20.833,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    776,
+    453,
+    892
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    776,
+    513,
+    892
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    776,
+    712,
+    892
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "ve",
+   "contando": false,
+   "r": [
+    730,
+    776,
+    802,
+    892
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    820,
+    776,
+    885,
+    892
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "mantequilla",
+   "contando": false,
+   "r": [
+    96,
+    866,
+    492,
+    982
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    511,
+    866,
+    679,
+    982
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "pura",
+   "contando": false,
+   "r": [
+    96,
+    955,
+    253,
+    1071
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "grasa.",
+   "contando": false,
+   "r": [
+    271,
+    955,
+    475,
+    1071
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "noche,",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    392,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    401,
+    1175,
+    456,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    466,
+    1175,
+    534,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    544,
+    1175,
+    581,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "verduras",
+   "contando": false,
+   "r": [
+    591,
+    1175,
+    709,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    718,
+    1175,
+    733,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    743,
+    1175,
+    786,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "hidratos.",
+   "contando": false,
+   "r": [
+    796,
+    1175,
+    916,
+    1216
+   ]
+  },
+  {
+   "t": 24.9,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.233,
+  4.633,
+  8.4,
+  9.8,
+  14.4,
+  15.833,
+  20.833,
+  24.9
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.72,
+  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "efectos_por_tipo": {
+   "tic": 9,
+   "tac": 3,
+   "sello": 3,
+   "ding": 1,
+   "contador": 20,
+   "whoosh": 4,
+   "golpe": 2,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 25.479,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 315,
+   "texto": "Las nueces, más grasa que las almendras. ¡Verdadero! El aguacate, más grasa que las almendras. ¡Falso! Ni un tercio. La mantequilla, más grasa que el aceite de oliva. ¡Falso! Cien gramos de cada cien. ¿Y es toda la misma grasa? La proporción de cada tipo cambia. Mándaselo a quien ve la mantequilla como pura grasa.",
+   "duracion_voz_s": 24.22,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Las nueces, más grasa que las almendras.",
+     "t0": 0.0213,
+     "t1": 2.6263
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.3063,
+     "t1": 3.9063
+    },
+    {
+     "id": "a1",
+     "texto": "El aguacate, más grasa que las almendras.",
+     "t0": 5.3863,
+     "t1": 7.8363
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! Ni un tercio.",
+     "t0": 8.4813,
+     "t1": 9.9613
+    },
+    {
+     "id": "a2",
+     "texto": "La mantequilla, más grasa que el aceite de oliva.",
+     "t0": 11.2113,
+     "t1": 13.8513
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! Cien gramos de cada cien.",
+     "t0": 14.4913,
+     "t1": 16.5313
+    },
+    {
+     "id": "c",
+     "texto": "¿Y es toda la misma grasa? La proporción de cada tipo cambia.",
+     "t0": 17.5363,
+     "t1": 20.7713
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien ve la mantequilla como pura grasa.",
+     "t0": 21.3613,
+     "t1": 24.0013
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.2
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.434,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.246,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.696,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.286,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.326,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.536,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.636,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.736,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.836,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.936,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.036,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.016,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.986,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 6.721,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.456,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.906,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.461,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.501,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.711,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 8.811,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 8.911,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.011,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.111,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.211,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.311,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.786,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.811,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 12.641,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.471,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.921,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.471,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.511,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 14.721,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.821,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.921,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.021,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.121,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.221,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.321,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.236,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.871,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 24.101,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 765,
+ "tiempo_render_s": 76.0,
+ "tiempos_s": {
+  "preparar": 1.54,
+  "dibujar_y_codificar": 66.52
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 25.5,
+  "loop": 25.0,
+  "conc": {
+   "t_in": 17.236,
+   "palabras": [
+    18.186,
+    18.186,
+    18.186,
+    18.186,
+    18.2331,
+    18.3824,
+    18.8303,
+    18.9298,
+    19.4275,
+    19.5271,
+    19.7261,
+    19.9252,
+    20.2238,
+    20.3234,
+    20.4727,
+    20.5225
+   ],
+   "palabras_g": [
+    17.5363,
+    17.6563,
+    17.8963,
+    18.2163,
+    18.3763,
+    18.6163
+   ],
+   "t_sal": 18.036,
+   "t_frase": 21.073
+  },
+  "fin": {
+   "t_in": 20.871,
+   "palabras": [
+    21.3613,
+    21.8813,
+    22.0013,
+    22.2013,
+    22.3213,
+    22.4813,
+    23.0413,
+    23.3613,
+    23.6813
+   ],
+   "palabras_an": [
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101,
+    24.101
+   ],
+   "t_an": 24.101
+  },
+  "iconos": [
+   [
+    -1.0,
+    4.966
+   ],
+   [
+    4.966,
+    10.735999999999999
+   ],
+   [
+    10.735999999999999,
+    17.236
+   ],
+   [
+    17.236,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 24.001,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.696,
+    "tv": 3.286,
+    "pasos": [
+     0.621,
+     1.434,
+     2.246
+    ],
+    "t_out": 4.966
+   },
+   {
+    "t_in": 5.266,
+    "t0": 5.386,
+    "buzz": 7.906,
+    "tv": 8.461,
+    "pasos": [
+     5.986,
+     6.721,
+     7.456
+    ],
+    "t_out": 10.736
+   },
+   {
+    "t_in": 11.036,
+    "t0": 11.211,
+    "buzz": 13.921,
+    "tv": 14.471,
+    "pasos": [
+     11.811,
+     12.641,
+     13.471
+    ],
+    "t_out": 17.736
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.6,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.5,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 4.6333,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 5.8333,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 7.8,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 8.6667,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 9.8,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 11.6667,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 13.8333,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 14.6667,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 15.8333,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 17.7333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 20.8333,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 21.3667,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 24.9,
+   "que": "cierre"
+  },
+  {
+   "t": 25.4667,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

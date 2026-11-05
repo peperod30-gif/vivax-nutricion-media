@@ -1,0 +1,61 @@
+{
+  "id": "n1-lx-20261130-balanza-1630-yogur-griego-proteina",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-balanza",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-124",
+    "VIT-059"
+  ],
+  "titulo": "[BALANZA] Adivina cuánta proteína separa a dos yogures.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Proteína por cada 100 g",
+      "titulo": "Adivina cuánta {proteína} separa a dos yogures.",
+      "opciones": [
+        {
+          "nombre": "yogur griego natural",
+          "valor": "10,2",
+          "unidad": "g"
+        },
+        {
+          "nombre": "yogur de frutas desnatado",
+          "valor": "4,4",
+          "unidad": "g"
+        }
+      ],
+      "resalte": "Para qué sirve",
+      "titular": "¿Y qué hace esa proteína?",
+      "frase": "Las proteínas contribuyen a conservar la masa muscular.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "sigue": "Mándaselo a quien elige el yogur por el sabor.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "vit": "VIT-059",
+      "texto": "Más del doble, por cada 100 g. El de frutas, desnatado."
+    }
+  ],
+  "pie_instagram": "Adivina cuánta proteína separa a dos yogures.\n\nPor cada 100 g, proteína (proteínas): yogur griego natural 10,2 g y yogur de frutas desnatado 4,4 g.\nMás del doble, por cada 100 g. El de frutas, desnatado.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen a conservar la masa muscular. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Cuánto habías calculado?\nMándaselo a quien elige el yogur por el sabor.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #yogur #yogurgriego #nutricion",
+  "alt": [
+    "Imagen en blanco, negro y verde oliva. Una balanza de platillos dibujada en línea fina, en equilibrio, con yogur griego natural en el platillo de la izquierda y yogur de frutas desnatado en el de la derecha; bajo cada platillo, una cota de 100 g y, entre las dos, el signo igual. Proteína por cada 100 g. Adivina cuánta proteína separa a dos yogures. Más del doble, por cada 100 g. El de frutas, desnatado. yogur griego natural: 10,2 g. yogur de frutas desnatado: 4,4 g. Para qué sirve. ¿Y qué hace esa proteína? Las proteínas contribuyen a conservar la masa muscular. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal. Mándaselo a quien elige el yogur por el sabor. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-30",
+    "serie": "luxury",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "balanza",
+    "formato": "BALANZA",
+    "lote": "lux-2026-11",
+    "hora": "16:30",
+    "nota": "plantilla balanza (tpl_img_balanza_lux.py)",
+    "spec": "n1-lx-20261130-balanza-1630-yogur-griego-proteina",
+    "plantilla_visual": "img_balanza",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}

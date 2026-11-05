@@ -1,0 +1,102 @@
+{
+  "id": "n1-lx-20261201-cinta-0830-desayuno-galletas-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-076"
+  ],
+  "titulo": "[CINTA] El desayuno con más kilocalorías no es el donut.",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Energía por 100 g",
+      "titulo": "El desayuno con más {kilocalorías} no es el donut.",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "galletas tipo maría",
+          "valor": "467",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "II",
+          "nombre": "donut glaseado",
+          "valor": "421",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "III",
+          "nombre": "cruasán de mantequilla",
+          "valor": "406",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "IV",
+          "nombre": "copos de maíz",
+          "valor": "384",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "V",
+          "nombre": "pan blanco tostado",
+          "valor": "290",
+          "unidad": "kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "galletas tipo maría",
+      "cifra": "467",
+      "unidad": "kcal"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y esto es por galleta?",
+      "resalte": "Lo que dice el dato",
+      "frase": "Son kilocalorías por 100 g del alimento, no por ración."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien moja galletas en el café.",
+      "texto": "Mañana por la mañana, otra cuenta atrás con sorpresa."
+    }
+  ],
+  "pie_instagram": "El desayuno con más {kilocalorías} no es el donut.\n\nEnergía por 100 g: galletas tipo maría, 467 kcal; donut glaseado, 421 kcal; cruasán de mantequilla, 406 kcal; copos de maíz, 384 kcal; pan blanco tostado, 290 kcal.\nPor 100 g. El pan, tostado; el cruasán, de mantequilla.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nSon kilocalorías por 100 g del alimento, no por ración.\n\n¿Cuál pensabas que cerraba?\nMándaselo a quien moja galletas en el café.\nMañana por la mañana, otra cuenta atrás con sorpresa.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#desayuno #kilocalorias #galletas #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Energía por 100 g. El desayuno con más kilocalorías no es el donut. Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: V, pan blanco tostado, 290 kcal; IV, copos de maíz, 384 kcal; III, cruasán de mantequilla, 406 kcal; II, donut glaseado, 421 kcal. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 467 kcal: I, galletas tipo maría. ¿Y esto es por galleta? Lo que dice el dato: Son kilocalorías por 100 g del alimento, no por ración. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien moja galletas en el café. Mañana por la mañana, otra cuenta atrás con sorpresa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-01",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261201-0830-desayuno-galletas-energia",
+    "pilar_plan": "Fibra e hidratos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261201-0830-desayuno-galletas-energia",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-076, banco de composición de octubre de 2026), energía por 100 g: galletas tipo maría 467 kcal; donut glaseado 421 kcal; cruasán de mantequilla 406 kcal; copos de maíz 384 kcal; pan blanco tostado 290 kcal. Se deja fuera la cifra de los cereales de desayuno azucarados (389 kcal), que ya salió el 20-nov. Son kilocalorías por 100 g del alimento, no por ración (matiz de ALI-076, que es la conclusión). La energía no tiene declaración de salud autorizada: es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

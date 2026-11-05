@@ -1,0 +1,1370 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 22.64,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.94,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -1.9,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 2.2,
+ "n_cambios_visuales": 168,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    656,
+    348
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Qué supera al atún en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    498,
+    524
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    489,
+    345,
+    596
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "? Apuesta.",
+   "contando": false,
+   "r": [
+    345,
+    489,
+    677,
+    596
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cada alimento corre a la velocidad de su proteína.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    837,
+    657
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    152,
+    748,
+    536,
+    789
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "bacon frito",
+   "contando": false,
+   "r": [
+    152,
+    933,
+    353,
+    974
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "queso gouda",
+   "contando": false,
+   "r": [
+    152,
+    1118,
+    360,
+    1159
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "atún en aceite, escurrido",
+   "contando": false,
+   "r": [
+    152,
+    1303,
+    590,
+    1344
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    656,
+    348
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "¿Qué supera al atún en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    498,
+    524
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    489,
+    345,
+    596
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "? Apuesta.",
+   "contando": false,
+   "r": [
+    345,
+    489,
+    677,
+    596
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Cada alimento corre a la velocidad de su proteína.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    837,
+    657
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    152,
+    748,
+    536,
+    789
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "bacon frito",
+   "contando": false,
+   "r": [
+    152,
+    933,
+    353,
+    974
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "queso gouda",
+   "contando": false,
+   "r": [
+    152,
+    1118,
+    360,
+    1159
+   ]
+  },
+  {
+   "t": 2.933,
+   "texto": "atún en aceite, escurrido",
+   "contando": false,
+   "r": [
+    152,
+    1303,
+    590,
+    1344
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    656,
+    348
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "¿Qué supera al atún en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    498,
+    524
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    489,
+    345,
+    596
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "? Apuesta.",
+   "contando": false,
+   "r": [
+    345,
+    489,
+    677,
+    596
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Cada alimento corre a la velocidad de su proteína.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    837,
+    657
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    152,
+    747,
+    536,
+    788
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "25,8",
+   "contando": false,
+   "r": [
+    823,
+    740,
+    896,
+    801
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    762,
+    912,
+    793
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "bacon frito",
+   "contando": false,
+   "r": [
+    152,
+    932,
+    353,
+    973
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "33,9",
+   "contando": false,
+   "r": [
+    823,
+    925,
+    896,
+    986
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    947,
+    912,
+    978
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "queso gouda",
+   "contando": false,
+   "r": [
+    152,
+    1117,
+    360,
+    1158
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "24,9",
+   "contando": false,
+   "r": [
+    819,
+    1110,
+    896,
+    1171
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1132,
+    912,
+    1163
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "atún en aceite, escurrido",
+   "contando": false,
+   "r": [
+    152,
+    1302,
+    590,
+    1343
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "29,1",
+   "contando": false,
+   "r": [
+    825,
+    1295,
+    896,
+    1356
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1317,
+    912,
+    1348
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "Orden de llegada",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    485,
+    348
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    96,
+    343,
+    388,
+    466
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    388,
+    343,
+    759,
+    466
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "Todo cocinado o escurrido. Del atún al bacon, casi cinco gramos.",
+   "contando": false,
+   "r": [
+    96,
+    502,
+    870,
+    602
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    152,
+    1117,
+    536,
+    1158
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    1114,
+    129,
+    1161
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "25,8",
+   "contando": false,
+   "r": [
+    823,
+    1110,
+    896,
+    1171
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1132,
+    912,
+    1163
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "bacon frito",
+   "contando": false,
+   "r": [
+    152,
+    747,
+    353,
+    788
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    744,
+    111,
+    791
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "33,9",
+   "contando": false,
+   "r": [
+    823,
+    740,
+    896,
+    801
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    762,
+    912,
+    793
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "queso gouda",
+   "contando": false,
+   "r": [
+    152,
+    1302,
+    360,
+    1343
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "iv.",
+   "contando": false,
+   "r": [
+    96,
+    1299,
+    127,
+    1346
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "24,9",
+   "contando": false,
+   "r": [
+    819,
+    1295,
+    896,
+    1356
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    1317,
+    912,
+    1348
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "atún en aceite, escurrido",
+   "contando": false,
+   "r": [
+    152,
+    932,
+    590,
+    973
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    929,
+    120,
+    976
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "29,1",
+   "contando": false,
+   "r": [
+    825,
+    925,
+    896,
+    986
+   ]
+  },
+  {
+   "t": 12.3,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    900,
+    947,
+    912,
+    978
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    656,
+    348
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "¿Y para qué sirven las proteínas?",
+   "contando": false,
+   "r": [
+    96,
+    339,
+    937,
+    588
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    744,
+    433,
+    774
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    787,
+    217,
+    903
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "proteínas",
+   "contando": false,
+   "r": [
+    235,
+    787,
+    569,
+    903
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    96,
+    871,
+    529,
+    987
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    547,
+    871,
+    588,
+    987
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    606,
+    871,
+    739,
+    987
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "aumente",
+   "contando": false,
+   "r": [
+    96,
+    954,
+    400,
+    1070
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    418,
+    954,
+    485,
+    1070
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "masa",
+   "contando": false,
+   "r": [
+    504,
+    954,
+    684,
+    1070
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "muscular.",
+   "contando": false,
+   "r": [
+    96,
+    1038,
+    442,
+    1154
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1279,
+    948,
+    1329
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    760,
+    455,
+    870
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    760,
+    510,
+    870
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    527,
+    760,
+    716,
+    870
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "vive",
+   "contando": false,
+   "r": [
+    733,
+    760,
+    867,
+    870
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    836,
+    177,
+    946
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "latas",
+   "contando": false,
+   "r": [
+    194,
+    836,
+    349,
+    946
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    366,
+    836,
+    447,
+    946
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "atún.",
+   "contando": false,
+   "r": [
+    464,
+    836,
+    627,
+    946
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "Mañana por la mañana, otra cuenta atrás: el desayuno.",
+   "contando": false,
+   "r": [
+    96,
+    964,
+    761,
+    1063
+   ]
+  },
+  {
+   "t": 20.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1352,
+    282,
+    1395
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    318,
+    656,
+    348
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "¿Qué supera al atún en",
+   "contando": false,
+   "r": [
+    96,
+    346,
+    498,
+    524
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    489,
+    345,
+    596
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "? Apuesta.",
+   "contando": false,
+   "r": [
+    345,
+    489,
+    677,
+    596
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Cada alimento corre a la velocidad de su proteína.",
+   "contando": false,
+   "r": [
+    96,
+    605,
+    837,
+    657
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    866,
+    351,
+    895,
+    367
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    833,
+    363,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    831,
+    415,
+    929,
+    431
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Meta",
+   "contando": false,
+   "r": [
+    889,
+    706,
+    950,
+    729
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    152,
+    748,
+    536,
+    789
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "bacon frito",
+   "contando": false,
+   "r": [
+    152,
+    933,
+    353,
+    974
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "queso gouda",
+   "contando": false,
+   "r": [
+    152,
+    1118,
+    360,
+    1159
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "atún en aceite, escurrido",
+   "contando": false,
+   "r": [
+    152,
+    1303,
+    590,
+    1344
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.933,
+  10.267,
+  12.3,
+  13.667,
+  20.367,
+  22.567
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 0.74,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "whoosh": 3,
+   "sello": 2,
+   "tic": 3,
+   "ding": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.579,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 317,
+   "lineas": [
+    {
+     "texto": "¿Qué supera al atún en proteína? Apuesta antes del uno. Cuatro: queso gouda. Tres: la hamburguesa. Dos: el atún, veintinueve coma uno. Uno: bacon frito, treinta y tres coma nueve gramos.",
+     "hablado": "¿Qué supera al atún en proteína? Apuesta antes del uno. Cuatro: queso gouda. Tres: la hamburguesa. Dos: el atún, veintinueve coma uno. Uno: bacon frito, treinta y tres coma nueve gramos.",
+     "t0": 0.0213,
+     "t1": 12.2713
+    },
+    {
+     "texto": "¿Y para qué sirven las proteínas? Las proteínas contribuyen a que aumente la masa muscular.",
+     "hablado": "¿Y para qué sirven las proteínas? Las proteínas contribuyen a que aumente la masa muscular.",
+     "t0": 13.071,
+     "t1": 18.376
+    },
+    {
+     "texto": "Mándaselo a quien vive de latas de atún.",
+     "hablado": "Mándaselo a quien vive de latas de atún.",
+     "t0": 19.276,
+     "t1": 21.666
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.74
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.75,
+   "tipo": "whoosh",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.186,
+   "tipo": "sello",
+   "intensidad": 0.42
+  },
+  {
+   "t": 9.306,
+   "tipo": "ding",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.901,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.246,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.636,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.506,
+   "tipo": "whoosh",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.571,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 18.776,
+   "tipo": "sello",
+   "intensidad": 0.3
+  }
+ ],
+ "fotogramas": 678,
+ "tiempo_render_s": 70.6,
+ "tiempos_s": {
+  "preparar": 4.33,
+  "dibujar_y_codificar": 65.05
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_carrera",
+ "linea_de_tiempo": {
+  "rs": 0.75,
+  "fin": 3.186,
+  "rev": [
+   9.306,
+   6.901,
+   5.246,
+   3.636
+  ],
+  "ord": 10.506,
+  "con": 12.571,
+  "dec0": 13.071,
+  "pal": [
+   15.176,
+   15.416,
+   16.136,
+   16.576,
+   16.656,
+   16.776,
+   17.296,
+   17.416,
+   17.736
+  ],
+  "palc": [
+   19.276,
+   19.946,
+   20.066,
+   20.386,
+   20.626,
+   20.786,
+   21.066,
+   21.186
+  ],
+  "dec_fin": 18.376,
+  "cie": 18.776,
+  "post0": 19.276,
+  "loop": 21.766,
+  "dur": 22.6,
+  "pre0": 0.0213,
+  "sincronia": "nombres de la voz",
+  "voz_conclusion": true
+ },
+ "voz_partes": {
+  "pre": "¿Qué supera al atún en proteína? Apuesta antes del uno. Cuatro: queso gouda. Tres: la hamburguesa. Dos: el atún, veintinueve coma uno. Uno: bacon frito, treinta y tres coma nueve gramos.",
+  "dec": "¿Y para qué sirven las proteínas? Las proteínas contribuyen a que aumente la masa muscular.",
+  "post": "Mándaselo a quien vive de latas de atún.",
+  "hallada": true
+ }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "n1-lx-20261130-reel-duelo-swipe-1300-salchicha-muslo-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-145",
+    "VIT-059",
+    "ALI-081"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Salchicha o muslo? La proteína, en el plato.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Salchicha o muslo? La {proteína}, en el plato.",
+      "voz": "¿Salchicha o muslo? Todos le dan a paso al muslo. A la salchicha, me gusta. Pero el muslo vuelve: veinticuatro coma ocho gramos. La salchicha, doce coma ocho. ¿Proteína para los huesos? Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien pide perritos en la feria."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "muslo de pollo asado sin piel",
+      "texto": "Por 100 g",
+      "dato": "Proteína",
+      "etiqueta_no": "Paso",
+      "cifra": "24,8",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "salchicha de cerdo frankfurt",
+      "texto": "Por 100 g",
+      "dato": "Proteína",
+      "etiqueta_si": "Me gusta",
+      "cifra": "12,8",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Casi el doble. El muslo, asado y sin piel; la salchicha, tipo frankfurt."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Proteína para los huesos?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Para qué sirve",
+      "frase": "Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+      "vit": "VIT-059"
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien pide perritos en la feria.",
+      "texto": "Mañana a la una, otro duelo: el hierro de las legumbres."
+    }
+  ],
+  "pie_instagram": "¿Salchicha o muslo? La proteína, en el plato.\n\nPor 100 g: muslo de pollo asado sin piel, 24,8 g de proteína; salchicha de cerdo frankfurt, 12,8 g.\nCasi el doble. El muslo, asado y sin piel; la salchicha, tipo frankfurt.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\nMándaselo a quien pide perritos en la feria. Mañana a la una, otro duelo: el hierro de las legumbres.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #pollo #nutricion #duelo",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Salchicha o muslo? La proteína, en el plato. La tarjeta de muslo de pollo asado sin piel (por 100 g, proteína: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de salchicha de cerdo frankfurt: 12,8 g de proteína, con el sello «Me gusta». Vuelve muslo de pollo asado sin piel y su cifra cuenta hasta 24,8 g. Las dos tarjetas, una junto a otra: muslo de pollo asado sin piel, 24,8 g; salchicha de cerdo frankfurt, 12,8 g. Casi el doble. El muslo, asado y sin piel; la salchicha, tipo frankfurt. Bloque verde oliva oscuro: ¿Proteína para los huesos? Para qué sirve: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Cierre con la firma Vivax Nutrición: Mándaselo a quien pide perritos en la feria. Mañana a la una, otro duelo: el hierro de las legumbres."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-30",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261130-1300-salchicha-muslo-proteina",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Proteína y músculo",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261130-1300-salchicha-muslo-proteina",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261130-1300-salchicha-muslo-proteina",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-145, banco de composición de octubre de 2026), proteína por 100 g: muslo de pollo asado sin piel 24,8 g; salchicha de cerdo tipo frankfurt 12,8 g. Cálculo: 24,8 entre 12,8 da 1,94 («casi el doble»). Declaración autorizada (Reglamento (UE) nº 432/2012, VIT-059), para alimentos que son al menos fuente de proteínas (12 % de la energía): muslo 24,8 g y 179 kcal (ALI-081), 55 %; salchicha 12,8 g y 269 kcal (ALI-081), 19 %. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

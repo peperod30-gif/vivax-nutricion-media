@@ -1,0 +1,1194 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 19.58,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.75,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.1,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.233,
+ "n_cambios_visuales": 173,
+ "bucle_dif_ultimo_primero": 115.2,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Salchicha o muslo? La",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    860,
+    540
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    208,
+    415,
+    499,
+    540
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ", en el plato.",
+   "contando": false,
+   "r": [
+    499,
+    415,
+    944,
+    540
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    705,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "muslo de pollo asado sin piel",
+   "contando": false,
+   "r": [
+    260,
+    1058,
+    827,
+    1219
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    498,
+    1188,
+    577,
+    1402
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    579,
+    1305,
+    600,
+    1357
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "¿Salchicha o muslo? La",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    860,
+    540
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    208,
+    415,
+    499,
+    540
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": ", en el plato.",
+   "contando": false,
+   "r": [
+    499,
+    415,
+    944,
+    540
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    705,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "muslo de pollo asado sin piel",
+   "contando": false,
+   "r": [
+    260,
+    1058,
+    827,
+    1219
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    498,
+    1188,
+    577,
+    1402
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    579,
+    1305,
+    600,
+    1357
+   ]
+  },
+  {
+   "t": 1.6,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    658,
+    759,
+    773,
+    856
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "¿Salchicha o muslo? La",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    860,
+    540
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    208,
+    415,
+    499,
+    540
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": ", en el plato.",
+   "contando": false,
+   "r": [
+    499,
+    415,
+    944,
+    540
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    257,
+    649,
+    377,
+    671
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    719,
+    649,
+    829,
+    671
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "salchicha de cerdo frankfurt",
+   "contando": false,
+   "r": [
+    292,
+    1068,
+    790,
+    1216
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "12,8",
+   "contando": false,
+   "r": [
+    416,
+    1189,
+    642,
+    1401
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    647,
+    1307,
+    666,
+    1358
+   ]
+  },
+  {
+   "t": 5.2,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    663,
+    756,
+    777,
+    876
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "¿Salchicha o muslo? La",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    860,
+    540
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    208,
+    415,
+    499,
+    540
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": ", en el plato.",
+   "contando": false,
+   "r": [
+    499,
+    415,
+    944,
+    540
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    705,
+    639,
+    816,
+    665
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "muslo de pollo asado sin piel",
+   "contando": false,
+   "r": [
+    260,
+    1058,
+    827,
+    1219
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "24,8",
+   "contando": false,
+   "r": [
+    410,
+    1185,
+    666,
+    1406
+   ]
+  },
+  {
+   "t": 8.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    667,
+    1302,
+    688,
+    1354
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "¿Salchicha o muslo? La",
+   "contando": false,
+   "r": [
+    96,
+    331,
+    860,
+    540
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    208,
+    415,
+    499,
+    540
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": ", en el plato.",
+   "contando": false,
+   "r": [
+    499,
+    415,
+    944,
+    540
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    875,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "salchicha de cerdo frankfurt",
+   "contando": false,
+   "r": [
+    611,
+    1013,
+    912,
+    1108
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "12,8",
+   "contando": false,
+   "r": [
+    682,
+    1088,
+    821,
+    1219
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    821,
+    1162,
+    834,
+    1193
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    419,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "muslo de pollo asado sin piel",
+   "contando": false,
+   "r": [
+    150,
+    1013,
+    489,
+    1107
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "24,8",
+   "contando": false,
+   "r": [
+    239,
+    1088,
+    391,
+    1219
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    393,
+    1158,
+    405,
+    1189
+   ]
+  },
+  {
+   "t": 10.167,
+   "texto": "Casi el doble. El muslo, asado y sin piel; la salchicha, tipo frankfurt.",
+   "contando": false,
+   "r": [
+    230,
+    1313,
+    816,
+    1421
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "¿Proteína para los huesos?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    693,
+    553
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    875,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "salchicha de cerdo frankfurt",
+   "contando": false,
+   "r": [
+    611,
+    1013,
+    912,
+    1108
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "12,8",
+   "contando": false,
+   "r": [
+    682,
+    1088,
+    821,
+    1219
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    821,
+    1162,
+    834,
+    1193
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Proteína",
+   "contando": false,
+   "r": [
+    419,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "muslo de pollo asado sin piel",
+   "contando": false,
+   "r": [
+    150,
+    1013,
+    489,
+    1107
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "24,8",
+   "contando": false,
+   "r": [
+    239,
+    1088,
+    391,
+    1219
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    393,
+    1158,
+    405,
+    1189
+   ]
+  },
+  {
+   "t": 10.767,
+   "texto": "Casi el doble. El muslo, asado y sin piel; la salchicha, tipo frankfurt.",
+   "contando": false,
+   "r": [
+    230,
+    1313,
+    816,
+    1421
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "¿Proteína para los huesos?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    693,
+    553
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    672,
+    433,
+    702
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    737,
+    244,
+    881
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "proteínas",
+   "contando": false,
+   "r": [
+    267,
+    737,
+    675,
+    881
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    96,
+    840,
+    626,
+    984
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    649,
+    840,
+    730,
+    984
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    96,
+    944,
+    747,
+    1088
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    1047,
+    202,
+    1191
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    225,
+    1047,
+    350,
+    1191
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "huesos",
+   "contando": false,
+   "r": [
+    373,
+    1047,
+    669,
+    1191
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    1151,
+    201,
+    1295
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    224,
+    1151,
+    741,
+    1295
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    96,
+    1254,
+    519,
+    1398
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1437,
+    948,
+    1487
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    635,
+    533,
+    776
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    556,
+    635,
+    607,
+    776
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    96,
+    738,
+    317,
+    879
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    340,
+    738,
+    511,
+    879
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "perritos",
+   "contando": false,
+   "r": [
+    534,
+    738,
+    842,
+    879
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    191,
+    982
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    214,
+    841,
+    293,
+    982
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "feria.",
+   "contando": false,
+   "r": [
+    316,
+    841,
+    524,
+    982
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "Mañana a la una, otro duelo: el hierro de las legumbres.",
+   "contando": false,
+   "r": [
+    96,
+    1125,
+    823,
+    1225
+   ]
+  },
+  {
+   "t": 19.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  1.6,
+  5.2,
+  8.0,
+  10.167,
+  10.767,
+  16.167,
+  19.5
+ ],
+ "sonido": {
+  "lufs": -16.08,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.16,
+  "tiempo_reduccion_mas_1db_pct": 0.01,
+  "efectos_por_tipo": {
+   "sello": 2,
+   "whoosh": 5,
+   "contador": 12,
+   "ding": 2
+  },
+  "descartados": 0,
+  "duracion_s": 19.512,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 312,
+   "lineas": [
+    {
+     "texto": "¿Salchicha o muslo? Todos le dan a paso al muslo. A la salchicha, me gusta. Pero el muslo vuelve: veinticuatro coma ocho gramos. La salchicha, doce coma ocho. ¿Proteína para los huesos? Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien pide perritos en la feria.",
+     "hablado": "¿Salchicha o muslo? Todos le dan a paso al muslo. A la salchicha, me gusta. Pero el muslo vuelve: veinticuatro coma ocho gramos. La salchicha, doce coma ocho. ¿Proteína para los huesos? Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien pide perritos en la feria.",
+     "t0": 0.0213,
+     "t1": 18.5664
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.23
+  }
+ },
+ "efectos": [
+  {
+   "t": 1.211,
+   "tipo": "sello",
+   "intensidad": 0.32
+  },
+  {
+   "t": 1.881,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.431,
+   "tipo": "sello",
+   "intensidad": 0.36
+  },
+  {
+   "t": 5.481,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 7.541,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 8.341,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 11.011000000000001,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.381,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 17.181,
+   "tipo": "ding",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.091,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.211,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.331,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.451,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.571,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.691,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.811,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.931,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.051,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.171,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.291,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.411,
+   "tipo": "contador",
+   "intensidad": 0.16
+  }
+ ],
+ "fotogramas": 586,
+ "tiempo_render_s": 57.6,
+ "tiempos_s": {
+  "preparar": 1.36,
+  "dibujar_y_codificar": 49.95
+ },
+ "voz_de_prueba": false
+}

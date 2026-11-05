@@ -1,0 +1,132 @@
+{
+  "id": "n1-lx-20261129-reel-vf-2100-mantequilla-aceite-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-053"
+  ],
+  "titulo": "[REEL-VF] Quiz de grasa: la mantequilla te va a pillar.",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "Quiz de {grasa}: la mantequilla te va a pillar."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "Las nueces, más grasa que las almendras.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "65,2",
+      "unidad": "g",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Nueces",
+          "valor": "65,2 g"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "49,9 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "El aguacate, más grasa que las almendras.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "49,9",
+      "unidad": "g",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Almendras",
+          "valor": "49,9 g"
+        },
+        {
+          "nombre": "Aguacate",
+          "valor": "14,7 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "La mantequilla, más grasa que el aceite de oliva.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "100,0",
+      "unidad": "g",
+      "dato": "por 100 g",
+      "items": [
+        {
+          "nombre": "Aceite de oliva",
+          "valor": "100,0 g"
+        },
+        {
+          "nombre": "Mantequilla",
+          "valor": "81,1 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "El dato final",
+      "frase": "Es la grasa total del alimento; la proporción de cada tipo cambia de uno a otro.",
+      "fuente": "La grasa no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal.",
+      "titulo": "¿Y es toda la misma grasa?"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien ve la mantequilla como pura grasa.",
+      "texto": "Mañana por la noche, otro quiz: las verduras y sus hidratos."
+    }
+  ],
+  "pie_instagram": "Quiz de grasa: la mantequilla te va a pillar.\n\nLas nueces, más grasa que las almendras. Verdadero: nueces 65,2 g, almendras 49,9 g (por 100 g).\nEl aguacate, más grasa que las almendras. Falso: almendras 49,9 g, aguacate 14,7 g (por 100 g).\nLa mantequilla, más grasa que el aceite de oliva. Falso: aceite de oliva 100,0 g, mantequilla 81,1 g (por 100 g).\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato final: Es la grasa total del alimento; la proporción de cada tipo cambia de uno a otro.\n\n¿Cuántas has acertado?\nMándaselo a quien ve la mantequilla como pura grasa.\nMañana por la noche, otro quiz: las verduras y sus hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #aceitedeoliva #nutricion #verdaderoofalso",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y el alimento dibujado en línea fina. El quiz de la noche. Quiz de grasa: la mantequilla te va a pillar. I. Las nueces, más grasa que las almendras. Verdadero: Nueces 65,2 g, Almendras 49,9 g, por 100 g. II. El aguacate, más grasa que las almendras. Falso: Almendras 49,9 g, Aguacate 14,7 g, por 100 g. III. La mantequilla, más grasa que el aceite de oliva. Falso: Aceite de oliva 100,0 g, Mantequilla 81,1 g, por 100 g. ¿Y es toda la misma grasa? El dato final: Es la grasa total del alimento; la proporción de cada tipo cambia de uno a otro. Mándaselo a quien ve la mantequilla como pura grasa. Mañana por la noche, otro quiz: las verduras y sus hidratos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury) · spec n1-lux-20261129-2100-mantequilla-aceite-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "spec_id": "n1-lux-20261129-2100-mantequilla-aceite-quiz",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261129-2100-mantequilla-aceite-quiz",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-053, banco de composición de octubre de 2026), grasa total por 100 g: aceite de oliva 100,0 g; mantequilla 81,1 g; nueces 65,2 g; almendras 49,9 g; aguacate 14,7 g. Cálculo: 14,7 entre 49,9 da 0,29 («ni un tercio»). Es la grasa total del alimento; la proporción de cada tipo cambia de uno a otro (matiz de ALI-053, que es la conclusión: la grasa no tiene declaración de salud autorizada). Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "Despensa: grasas y colesterol"
+}
