@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261122-reel-duelo-swipe-1300-hamburguesa-pechuga",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-113"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Hamburguesa y pechuga: apuesta cuántas veces más",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "Hamburguesa y pechuga: apuesta cuántas {veces más}",
+      "voz": "Apuesta cuántas veces más. A la hamburguesa, paso. A la pechuga, me gusta: uno coma cero gramos. Pero la hamburguesa vuelve: seis coma ocho gramos. Casi siete veces más grasa saturada. ¿Y en energía? Doscientas setenta kilocalorías frente a ciento sesenta y cinco. Mándaselo a quien pide hamburguesa porque es magra."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "hamburguesa de ternera",
+      "texto": "Por 100 g",
+      "dato": "Grasa saturada",
+      "etiqueta_no": "Paso",
+      "cifra": "6,8",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "pechuga de pollo asada",
+      "texto": "Por 100 g",
+      "dato": "Grasa saturada",
+      "etiqueta_si": "Me gusta",
+      "cifra": "1,0",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g. La hamburguesa, de ternera cocinada y 80 % magra."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y en energía?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, la hamburguesa de ternera cocinada (80 % magra) lleva 270 kcal; la pechuga de pollo asada, 165 kcal.",
+      "fuente": "La grasa saturada no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien pide hamburguesa porque es magra.",
+      "texto": "Mañana a la una: ternera contra salmón, casi empate."
+    }
+  ],
+  "pie_instagram": "Hamburguesa y pechuga: apuesta cuántas veces más\n\nPor 100 g: hamburguesa de ternera, 6,8 g de grasa saturada; pechuga de pollo asada, 1,0 g.\nPor cada 100 g. La hamburguesa, de ternera cocinada y 80 % magra.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, la hamburguesa de ternera cocinada (80 % magra) lleva 270 kcal; la pechuga de pollo asada, 165 kcal.\n\n¿Cuántas veces más habías dicho?\nMándaselo a quien pide hamburguesa porque es magra. Mañana a la una: ternera contra salmón, casi empate.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasasaturada #hamburguesa #pollo #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. Hamburguesa y pechuga: apuesta cuántas veces más La tarjeta de hamburguesa de ternera (por 100 g, grasa saturada: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de pechuga de pollo asada: 1,0 g de grasa saturada, con el sello «Me gusta». Vuelve hamburguesa de ternera y su cifra cuenta hasta 6,8 g. Las dos tarjetas, una junto a otra: hamburguesa de ternera, 6,8 g; pechuga de pollo asada, 1,0 g. Por cada 100 g. La hamburguesa, de ternera cocinada y 80 % magra. Bloque verde oliva oscuro: ¿Y en energía? El dato final: Por cada 100 g, la hamburguesa de ternera cocinada (80 % magra) lleva 270 kcal; la pechuga de pollo asada, 165 kcal. Cierre con la firma Vivax Nutrición: Mándaselo a quien pide hamburguesa porque es magra. Mañana a la una: ternera contra salmón, casi empate."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261122-1300-hamburguesa-pechuga",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261122-1300-hamburguesa-pechuga",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261122-1300-hamburguesa-pechuga",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-113, verificado el 11-oct-2026), por 100 g: hamburguesa de ternera cocinada (80 % magra) 6,8 g de grasa saturada y 270 kcal; pechuga de pollo asada 1,0 g y 165 kcal. Cálculo: 6,8 / 1,0 = 6,8 («casi siete veces»). La grasa saturada no tiene declaración de salud autorizada: la conclusión es otra cifra del mismo hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

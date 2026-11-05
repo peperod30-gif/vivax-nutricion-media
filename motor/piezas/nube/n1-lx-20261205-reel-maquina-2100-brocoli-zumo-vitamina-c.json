@@ -1,0 +1,107 @@
+{
+  "id": "n1-lx-20261205-reel-maquina-2100-brocoli-zumo-vitamina-c",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-043",
+    "ALI-063",
+    "VIT-017"
+  ],
+  "titulo": "[REEL-MAQUINA] Más vitamina C que el zumo de naranja. ¿Cuál?",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "El quiz de la noche",
+      "titulo": "Más {vitamina C} que el zumo de naranja. ¿Cuál?",
+      "texto": "vitamina C · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "zumo de naranja",
+          "valor": "50"
+        },
+        {
+          "nombre": "tomate crudo",
+          "valor": "14"
+        },
+        {
+          "nombre": "brócoli cocido",
+          "valor": "65"
+        },
+        {
+          "nombre": "coliflor cruda",
+          "valor": "48"
+        }
+      ],
+      "unidad": "mg",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Brócoli cocido",
+      "cifra": "65",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los vasos sanguíneos.",
+      "titulo": "¿Y para qué sirve?",
+      "vit": "VIT-017",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina C. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien desayuna zumo.",
+      "texto": "Mañana por la noche, otro quiz: la grasa."
+    }
+  ],
+  "pie_instagram": "Más vitamina C que el zumo de naranja. ¿Cuál?\n\nPor cada 100 g, de menos a más vitamina C: tomate crudo 14 mg, coliflor cruda 48 mg, zumo de naranja 50 mg y brócoli cocido 65 mg.\nPor cada 100 g. El brócoli va cocido, y la cocción baja la vitamina C.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los vasos sanguíneos. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina C; no es una recomendación personal.\n\n¿Habías apostado por el zumo?\nMándaselo a quien desayuna zumo.\nMañana por la noche, otro quiz: la grasa.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaC #brocoli #quiz #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 4 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. El quiz de la noche. Más vitamina C que el zumo de naranja. ¿Cuál? Casillas: A, zumo de naranja, 50 mg; B, tomate crudo, 14 mg; C, brócoli cocido, 65 mg; D, coliflor cruda, 48 mg. La que más lleva: brócoli cocido, 65 mg por 100 g. Para qué sirve: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los vasos sanguíneos. Mándaselo a quien desayuna zumo. Mañana por la noche, otro quiz: la grasa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-05",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-12",
+    "hora": "21:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261205-2100-brocoli-zumo-vitamina-c",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Vitaminas",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 2.731,
+      "max": 8.776,
+      "card": 10.744,
+      "decl": 12.011,
+      "tapa": 13.711,
+      "fin": 17.581,
+      "dur": 20.1667
+    },
+    "spec": "n1-lux-20261205-2100-brocoli-zumo-vitamina-c",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, vitamina C por 100 g: tomate crudo 14 mg, coliflor cruda 48 mg y brócoli cocido 65 mg (ALI-043; fdcId 170457, 169986 y 169967); zumo de naranja sin añadidos 50 mg (ALI-063; fdcId 169098). Las dos entradas son de la misma tabla y la misma base. El brócoli, cocido; el tomate y la coliflor, crudos. La cocción y el almacenamiento bajan la vitamina C (matiz de ALI-043). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-017); los cuatro son fuente de vitamina C (al menos 12 mg por 100 g, el 15 % del VRN de 80 mg). No es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

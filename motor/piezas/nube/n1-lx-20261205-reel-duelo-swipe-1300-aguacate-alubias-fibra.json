@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261205-reel-duelo-swipe-1300-aguacate-alubias-fibra",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-007"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Aguacate o alubias? Desliza con la fibra.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Aguacate o alubias? Desliza con la {fibra}.",
+      "voz": "¿Cuál lleva más fibra? Todos le dan paso al aguacate. A las alubias, me gusta, como siempre. Pero el aguacate vuelve: seis coma siete gramos. Las alubias, seis coma tres. ¿Y los garbanzos, dónde quedan? Por encima de los dos: siete coma seis gramos. Mándaselo a quien le pone aguacate a todo."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "aguacate",
+      "texto": "Por 100 g",
+      "dato": "Fibra",
+      "etiqueta_no": "Paso",
+      "cifra": "6,7",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "alubias blancas cocidas",
+      "texto": "Por 100 g",
+      "dato": "Fibra",
+      "etiqueta_si": "Me gusta",
+      "cifra": "6,3",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g, cuatro décimas a favor del aguacate. Las alubias, cocidas."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y los garbanzos, dónde quedan?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "Lo que dice el dato",
+      "frase": "Por cada 100 g: garbanzos cocidos 7,6 g; aguacate 6,7 g; alubias blancas cocidas 6,3 g.",
+      "fuente": "Valores por 100 g del alimento en el estado indicado. Legumbres cocidas; el resto, crudo. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien le pone aguacate a todo.",
+      "texto": "Mañana a la una, otro duelo: el colesterol."
+    }
+  ],
+  "pie_instagram": "¿Aguacate o alubias? Desliza con la fibra.\n\nPor 100 g: aguacate, 6,7 g de fibra; alubias blancas cocidas, 6,3 g.\nPor cada 100 g, cuatro décimas a favor del aguacate. Las alubias, cocidas.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: garbanzos cocidos 7,6 g; aguacate 6,7 g; alubias blancas cocidas 6,3 g.\n\nMándaselo a quien le pone aguacate a todo. Mañana a la una, otro duelo: el colesterol.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #aguacate #legumbres #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Aguacate o alubias? Desliza con la fibra. La tarjeta de aguacate (por 100 g, fibra: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de alubias blancas cocidas: 6,3 g de fibra, con el sello «Me gusta». Vuelve aguacate y su cifra cuenta hasta 6,7 g. Las dos tarjetas, una junto a otra: aguacate, 6,7 g; alubias blancas cocidas, 6,3 g. Por cada 100 g, cuatro décimas a favor del aguacate. Las alubias, cocidas. Bloque verde oliva oscuro: ¿Y los garbanzos, dónde quedan? Lo que dice el dato: Por cada 100 g: garbanzos cocidos 7,6 g; aguacate 6,7 g; alubias blancas cocidas 6,3 g. Cierre con la firma Vivax Nutrición: Mándaselo a quien le pone aguacate a todo. Mañana a la una, otro duelo: el colesterol."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-05",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-12",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261205-1300-aguacate-alubias-fibra",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Fibra e hidratos",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261205-1300-aguacate-alubias-fibra",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261205-1300-aguacate-alubias-fibra",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-007; fdcId 171705, 175203, 172421 y 173757; descarga oficial contrastada el 11-oct-2026), fibra por 100 g: aguacate crudo 6,7 g; alubias blancas cocidas 6,3 g; garbanzos cocidos 7,6 g. Legumbres cocidas; el resto, crudo. Cálculo de la lectura: 6,7 menos 6,3 son 0,4 g («cuatro décimas»). Es composición, no una recomendación de cantidad ni de comer o evitar nada. La fibra no tiene declaración de salud autorizada en el banco: la conclusión es la lectura del mismo ranking de ALI-007 (garbanzos, aguacate y alubias, en su orden), sin las lentejas ni la guayaba, que salen el 1-dic. Voz sintética (IA).",
+  "ia": true
+}

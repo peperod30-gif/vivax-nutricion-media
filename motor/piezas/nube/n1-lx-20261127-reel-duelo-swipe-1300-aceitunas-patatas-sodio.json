@@ -1,0 +1,88 @@
+{
+  "id": "n1-lx-20261127-reel-duelo-swipe-1300-aceitunas-patatas-sodio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-060"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] Reto: aceitunas contra patatas fritas, en sodio.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "Reto: aceitunas contra patatas fritas, en {sodio}.",
+      "voz": "Reto de aperitivo, en sodio. Todos le dan a paso a las aceitunas. A las patatas, me gusta. Pero las aceitunas vuelven: setecientos treinta y cinco. Las patatas, quinientos veintisiete miligramos. ¿Cuánto más lleva la aceituna? Unos doscientos miligramos por cien gramos. Mándaselo a quien pide aceitunas para no picar patatas."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "aceitunas en conserva",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_no": "Paso",
+      "cifra": "735",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "patatas fritas de bolsa",
+      "texto": "Por 100 g",
+      "dato": "Sodio",
+      "etiqueta_si": "Me gusta",
+      "cifra": "527",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Unos doscientos miligramos más de sodio por 100 g en las aceitunas."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Cuánto más lleva la aceituna?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, las aceitunas en conserva llevan 735 mg de sodio y las patatas fritas de bolsa, 527 mg.",
+      "fuente": "El sodio no es lo mismo que la sal y no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien pide aceitunas para no picar patatas.",
+      "texto": "Mañana a la una: leche contra soja, en proteína."
+    }
+  ],
+  "pie_instagram": "Reto: aceitunas contra patatas fritas, en sodio.\n\nPor 100 g: aceitunas en conserva, 735 mg de sodio; patatas fritas de bolsa, 527 mg.\nUnos doscientos miligramos más de sodio por 100 g en las aceitunas.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, las aceitunas en conserva llevan 735 mg de sodio y las patatas fritas de bolsa, 527 mg.\n\n¿Habías apostado por las patatas?\nMándaselo a quien pide aceitunas para no picar patatas. Mañana a la una: leche contra soja, en proteína.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sodio #aperitivo #nutricion #duelodelacomida",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. Reto: aceitunas contra patatas fritas, en sodio. La tarjeta de aceitunas en conserva (por 100 g, sodio: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de patatas fritas de bolsa: 527 mg de sodio, con el sello «Me gusta». Vuelve aceitunas en conserva y su cifra cuenta hasta 735 mg. Las dos tarjetas, una junto a otra: aceitunas en conserva, 735 mg; patatas fritas de bolsa, 527 mg. Unos doscientos miligramos más de sodio por 100 g en las aceitunas. Bloque verde oliva oscuro: ¿Cuánto más lleva la aceituna? El dato final: Por cada 100 g, las aceitunas en conserva llevan 735 mg de sodio y las patatas fritas de bolsa, 527 mg. Cierre con la firma Vivax Nutrición: Mándaselo a quien pide aceitunas para no picar patatas. Mañana a la una: leche contra soja, en proteína."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-27",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261127-1300-aceitunas-patatas-sodio",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Azúcar y sal",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261127-1300-aceitunas-patatas-sodio",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261127-1300-aceitunas-patatas-sodio",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-060; fdcId 169094 y 169677), por 100 g, verificado el 11-oct-2026. Las aceitunas son negras en conserva: es el mismo fdcId 169094 que ALI-097 describe así. El sodio no es lo mismo que la sal. Cálculo: 735 menos 527 = 208 mg, «unos doscientos miligramos más». El sodio no tiene declaración de salud autorizada: es composición, no una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

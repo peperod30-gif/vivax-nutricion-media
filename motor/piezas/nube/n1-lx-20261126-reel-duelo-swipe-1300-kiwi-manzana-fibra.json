@@ -1,0 +1,87 @@
+{
+  "id": "n1-lx-20261126-reel-duelo-swipe-1300-kiwi-manzana-fibra",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-duelo-swipe",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-065"
+  ],
+  "titulo": "[REEL-DUELO-SWIPE] ¿Cuál lleva más fibra: manzana o kiwi?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Cuál lleva más {fibra}: manzana o kiwi?",
+      "voz": "¿Cuál lleva más fibra: manzana o kiwi? La diferencia, un cuarto. Manzana: dos coma cuatro gramos. Kiwi: tres coma cero gramos. ¿Y la fama de la manzana? El kiwi lleva un cuarto más de fibra. Siempre por cada cien gramos. Mándaselo a quien se come el kiwi con cuchara."
+    },
+    {
+      "plantilla": "lx_reel",
+      "izq": "kiwi",
+      "texto": "Por 100 g",
+      "dato": "Fibra",
+      "etiqueta_no": "Paso",
+      "cifra": "3,0",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "der": "manzana",
+      "texto": "Por 100 g",
+      "dato": "Fibra",
+      "etiqueta_si": "Me gusta",
+      "cifra": "2,4",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Un cuarto más de fibra por 100 g en el kiwi. Fruta cruda."
+    },
+    {
+      "plantilla": "lx_reel",
+      "titulo": "¿Y la fama de la manzana?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, el kiwi lleva 3,0 g de fibra y la manzana, 2,4 g: un cuarto más."
+    },
+    {
+      "plantilla": "lx_reel",
+      "frase": "Mándaselo a quien se come el kiwi con cuchara.",
+      "texto": "Mañana a la una, otro duelo: aceitunas contra patatas."
+    }
+  ],
+  "pie_instagram": "¿Cuál lleva más fibra: manzana o kiwi?\n\nPor 100 g: kiwi, 3,0 g de fibra; manzana, 2,4 g.\nUn cuarto más de fibra por 100 g en el kiwi. Fruta cruda.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, el kiwi lleva 3,0 g de fibra y la manzana, 2,4 g: un cuarto más.\n\n¿Habías apostado por la manzana?\nMándaselo a quien se come el kiwi con cuchara. Mañana a la una, otro duelo: aceitunas contra patatas.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #kiwi #nutricion #duelodelacomida",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con dos tarjetas de papel dibujadas en línea fina, como una app de citas. Duelo de la comida. ¿Cuál lleva más fibra: manzana o kiwi? La tarjeta de kiwi (por 100 g, fibra: ?) recibe el sello «Paso» y sale por la izquierda. Llega la de manzana: 2,4 g de fibra, con el sello «Me gusta». Vuelve kiwi y su cifra cuenta hasta 3,0 g. Las dos tarjetas, una junto a otra: kiwi, 3,0 g; manzana, 2,4 g. Un cuarto más de fibra por 100 g en el kiwi. Fruta cruda. Bloque verde oliva oscuro: ¿Y la fama de la manzana? El dato final: Por cada 100 g, el kiwi lleva 3,0 g de fibra y la manzana, 2,4 g: un cuarto más. Cierre con la firma Vivax Nutrición: Mándaselo a quien se come el kiwi con cuchara. Mañana a la una, otro duelo: aceitunas contra patatas."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-26",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-duelo-swipe",
+    "formato": "REEL-DUELO-SWIPE",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_swipe (Vivax Luxury); spec n1-lux-20261126-1300-kiwi-manzana-fibra",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Fibra e hidratos",
+    "mecanica": "reel_duelo",
+    "spec_id": "n1-lux-20261126-1300-kiwi-manzana-fibra",
+    "plantilla_lux": "reel_duelo_swipe",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261126-1300-kiwi-manzana-fibra",
+    "plantilla_visual": "reel_duelo_swipe",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-065; fdcId 168153, kiwi verde crudo, y 171688, manzana cruda con piel), por 100 g, verificado el 11-oct-2026. Cálculo: 3,0 / 2,4 = 1,25, «un cuarto más». Fruta cruda, según el matiz de ALI-065. La fibra no tiene declaración de salud autorizada en el banco: es composición, no una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

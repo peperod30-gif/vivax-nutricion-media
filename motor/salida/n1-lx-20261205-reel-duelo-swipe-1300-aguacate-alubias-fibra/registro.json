@@ -1,0 +1,1205 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 19.04,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.8,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.9,
+ "n_cambios_visuales": 169,
+ "bucle_dif_ultimo_primero": 115.42,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Aguacate o alubias? Desliza con la",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    946,
+    551
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    662,
+    418,
+    839,
+    551
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    839,
+    418,
+    856,
+    551
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    751,
+    639,
+    816,
+    663
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    415,
+    1089,
+    674,
+    1193
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    498,
+    1188,
+    577,
+    1402
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    579,
+    1305,
+    600,
+    1357
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "¿Aguacate o alubias? Desliza con la",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    946,
+    551
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    662,
+    418,
+    839,
+    551
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    839,
+    418,
+    856,
+    551
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    751,
+    639,
+    816,
+    663
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    415,
+    1089,
+    674,
+    1193
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "?",
+   "contando": true,
+   "r": [
+    498,
+    1188,
+    577,
+    1402
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    579,
+    1305,
+    600,
+    1357
+   ]
+  },
+  {
+   "t": 2.267,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    658,
+    759,
+    773,
+    856
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "¿Aguacate o alubias? Desliza con la",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    946,
+    551
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    662,
+    418,
+    839,
+    551
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    839,
+    418,
+    856,
+    551
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    257,
+    649,
+    377,
+    671
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    765,
+    649,
+    829,
+    671
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "alubias blancas cocidas",
+   "contando": false,
+   "r": [
+    334,
+    1068,
+    748,
+    1216
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "6,3",
+   "contando": false,
+   "r": [
+    445,
+    1189,
+    613,
+    1401
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    617,
+    1307,
+    637,
+    1358
+   ]
+  },
+  {
+   "t": 5.467,
+   "texto": "Me gusta",
+   "contando": false,
+   "r": [
+    663,
+    756,
+    777,
+    876
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "¿Aguacate o alubias? Desliza con la",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    946,
+    551
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    662,
+    418,
+    839,
+    551
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    839,
+    418,
+    856,
+    551
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    243,
+    655,
+    364,
+    681
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    751,
+    639,
+    816,
+    663
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    415,
+    1089,
+    674,
+    1193
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "6,7",
+   "contando": false,
+   "r": [
+    451,
+    1186,
+    624,
+    1404
+   ]
+  },
+  {
+   "t": 8.433,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    625,
+    1303,
+    647,
+    1355
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "¿Aguacate o alubias? Desliza con la",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    946,
+    551
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "fibra",
+   "contando": false,
+   "r": [
+    662,
+    418,
+    839,
+    551
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    839,
+    418,
+    856,
+    551
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    903,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "alubias blancas cocidas",
+   "contando": false,
+   "r": [
+    637,
+    1014,
+    886,
+    1108
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "6,3",
+   "contando": false,
+   "r": [
+    699,
+    1088,
+    803,
+    1218
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    803,
+    1162,
+    816,
+    1193
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    447,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    242,
+    1031,
+    398,
+    1092
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "6,7",
+   "contando": false,
+   "r": [
+    264,
+    1089,
+    366,
+    1218
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    368,
+    1159,
+    380,
+    1190
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Por cada 100 g, cuatro décimas a favor del aguacate. Las alubias, cocidas.",
+   "contando": false,
+   "r": [
+    192,
+    1313,
+    854,
+    1421
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "¿Y los garbanzos, dónde quedan?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    800,
+    553
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    598,
+    761,
+    670,
+    777
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    903,
+    769,
+    941,
+    784
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "alubias blancas cocidas",
+   "contando": false,
+   "r": [
+    637,
+    1014,
+    886,
+    1108
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "6,3",
+   "contando": false,
+   "r": [
+    699,
+    1088,
+    803,
+    1218
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    803,
+    1162,
+    816,
+    1193
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Por 100 g",
+   "contando": false,
+   "r": [
+    142,
+    768,
+    214,
+    784
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Fibra",
+   "contando": false,
+   "r": [
+    447,
+    761,
+    486,
+    776
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    242,
+    1031,
+    398,
+    1092
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "6,7",
+   "contando": false,
+   "r": [
+    264,
+    1089,
+    366,
+    1218
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    368,
+    1159,
+    380,
+    1190
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Por cada 100 g, cuatro décimas a favor del aguacate. Las alubias, cocidas.",
+   "contando": false,
+   "r": [
+    192,
+    1313,
+    854,
+    1421
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "Duelo de la comida",
+   "contando": false,
+   "r": [
+    174,
+    298,
+    516,
+    328
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "¿Y los garbanzos, dónde quedan?",
+   "contando": false,
+   "r": [
+    96,
+    329,
+    800,
+    553
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "Lo que dice el dato",
+   "contando": false,
+   "r": [
+    174,
+    672,
+    519,
+    702
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    96,
+    737,
+    251,
+    881
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    274,
+    737,
+    479,
+    881
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "100 g:",
+   "contando": false,
+   "r": [
+    502,
+    737,
+    761,
+    881
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "garbanzos",
+   "contando": false,
+   "r": [
+    96,
+    840,
+    545,
+    984
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "cocidos",
+   "contando": false,
+   "r": [
+    96,
+    944,
+    423,
+    1088
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "7,6 g;",
+   "contando": false,
+   "r": [
+    446,
+    944,
+    669,
+    1088
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    96,
+    1047,
+    487,
+    1191
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "6,7 g;",
+   "contando": false,
+   "r": [
+    510,
+    1047,
+    733,
+    1191
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "alubias",
+   "contando": false,
+   "r": [
+    96,
+    1151,
+    410,
+    1295
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "blancas",
+   "contando": false,
+   "r": [
+    433,
+    1151,
+    767,
+    1295
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "cocidas",
+   "contando": false,
+   "r": [
+    96,
+    1254,
+    421,
+    1398
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "6,3 g.",
+   "contando": false,
+   "r": [
+    444,
+    1254,
+    667,
+    1398
+   ]
+  },
+  {
+   "t": 16.667,
+   "texto": "Valores por 100 g del alimento en el estado indicado. Legumbres cocidas; el resto, crudo. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1437,
+    887,
+    1487
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    635,
+    533,
+    776
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    556,
+    635,
+    607,
+    776
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    96,
+    738,
+    317,
+    879
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "le",
+   "contando": false,
+   "r": [
+    340,
+    738,
+    410,
+    879
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "pone",
+   "contando": false,
+   "r": [
+    433,
+    738,
+    624,
+    879
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "aguacate",
+   "contando": false,
+   "r": [
+    96,
+    841,
+    469,
+    982
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    492,
+    841,
+    542,
+    982
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "todo.",
+   "contando": false,
+   "r": [
+    565,
+    841,
+    755,
+    982
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "Mañana a la una, otro duelo: el colesterol.",
+   "contando": false,
+   "r": [
+    96,
+    1142,
+    889,
+    1210
+   ]
+  },
+  {
+   "t": 18.967,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.267,
+  5.467,
+  8.433,
+  10.5,
+  11.0,
+  16.667,
+  18.967
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 0.92,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "sello": 2,
+   "whoosh": 5,
+   "contador": 12,
+   "ding": 2
+  },
+  "descartados": 0,
+  "duracion_s": 18.979,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 292,
+   "lineas": [
+    {
+     "texto": "¿Cuál lleva más fibra? Todos le dan paso al aguacate. A las alubias, me gusta, como siempre. Pero el aguacate vuelve: seis coma siete gramos. Las alubias, seis coma tres. ¿Y los garbanzos, dónde quedan? Por encima de los dos: siete coma seis gramos. Mándaselo a quien le pone aguacate a todo.",
+     "hablado": "¿Cuál lleva más fibra? Todos le dan paso al aguacate. A las alubias, me gusta, como siempre. Pero el aguacate vuelve: seis coma siete gramos. Las alubias, seis coma tres. ¿Y los garbanzos, dónde quedan? Por encima de los dos: siete coma seis gramos. Mándaselo a quien le pone aguacate a todo.",
+     "t0": 0.0213,
+     "t1": 17.9263
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.45
+  }
+ },
+ "efectos": [
+  {
+   "t": 1.9,
+   "tipo": "sello",
+   "intensidad": 0.32
+  },
+  {
+   "t": 2.57,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.376,
+   "tipo": "sello",
+   "intensidad": 0.36
+  },
+  {
+   "t": 5.751,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 7.981,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 8.781,
+   "tipo": "whoosh",
+   "intensidad": 0.24
+  },
+  {
+   "t": 11.224,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.884,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 17.684,
+   "tipo": "ding",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.531,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.651,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.771,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.891,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.011,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.131,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.251,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.371,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.491,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.611,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.731,
+   "tipo": "contador",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.851,
+   "tipo": "contador",
+   "intensidad": 0.16
+  }
+ ],
+ "fotogramas": 570,
+ "tiempo_render_s": 36.3,
+ "tiempos_s": {
+  "preparar": 0.84,
+  "dibujar_y_codificar": 32.47
+ },
+ "voz_de_prueba": false
+}
