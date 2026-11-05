@@ -1,0 +1,51 @@
+{
+  "id": "n1-h-20261114-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ETI-004",
+    "ALI-140"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: sábado 14-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 14-nov a las 09:30. Hechos: ETI-004, ALI-140.",
+  "alt": [
+    "Historia en blanco y verde oliva. Sábado. Hoy en el feed. A la una: Sal y sodio: los separa un 2,5. A las nueve: ¿Subió o bajó el sodio de los envasados españoles?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Sábado",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Sal y sodio: los separa un 2,5"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "¿Subió o bajó el sodio de los envasados españoles?"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261114-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

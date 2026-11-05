@@ -1,0 +1,45 @@
+{
+  "id": "n1-h-20261114-1445-vf-sodio",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "ensenar",
+  "serie": "historias",
+  "hechos": [
+    "S1-07"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: En los snacks envasados, el sodio subió.",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 14-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261114-2100-sodio-envasados-quiz). Respuesta: FALSO. Hechos: S1-07.",
+  "alt": [
+    "Historia en verde oliva con dos zonas abajo, Verdadero en blanco y Falso en negro. ¿Verdadero o falso? En los snacks envasados, el sodio subió. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "En los snacks envasados, el sodio subió.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "ensenar",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "vf",
+    "spec": "n1-h-20261114-1445-vf-sodio",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261114-2100-sodio-envasados-quiz",
+    "veredicto": "falso"
+  }
+}

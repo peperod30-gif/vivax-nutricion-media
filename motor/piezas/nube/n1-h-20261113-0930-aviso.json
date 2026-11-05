@@ -1,0 +1,54 @@
+{
+  "id": "n1-h-20261113-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ALI-018"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: viernes 13-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 13-nov a las 09:30. Hechos: ALI-018.",
+  "alt": [
+    "Historia en blanco y verde oliva. Viernes. Hoy en el feed. A las diez y media: Las pipas esconden más folato que el brócoli. A las siete: Mito o dato. A las nueve: Tres frases sobre azúcar: una falla por dos décimas."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Viernes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A las diez y media",
+          "texto": "Las pipas esconden más folato que el brócoli."
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Mito o dato"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Tres frases sobre azúcar: una falla por dos décimas"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-13",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261113-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

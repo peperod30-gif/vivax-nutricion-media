@@ -1,0 +1,44 @@
+{
+  "id": "n1-h-20261110-2000-sirve-magnesio",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-sirve",
+  "pilar": "ensenar",
+  "pilar_plan": "Minerales",
+  "serie": "historias",
+  "hechos": [
+    "VIT-056"
+  ],
+  "titulo": "[HISTORIA] Para qué sirve: Magnesio (VIT-056), 10-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Para qué sirve» del 10-nov a las 20:00. Declaración de VIT-056, de la publicación n1-lux-20261110-1630-magnesio-lentejas-cola. Hechos: VIT-056.",
+  "alt": [
+    "Historia en blanco, oliva profundo y oliva. Para qué sirve: Magnesio. El magnesio contribuye al mantenimiento de los dientes en condiciones normales. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal. Mañana, a las diez y media: reto: ordena esta macedonia por azúcares."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "Para qué sirve",
+      "titulo": "Magnesio",
+      "frase": "El magnesio contribuye al mantenimiento de los dientes en condiciones normales.",
+      "vit": "VIT-056",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal.",
+      "sigue": "Mañana, a las diez y media: reto: ordena esta macedonia por azúcares."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-10",
+    "hora": "20:00",
+    "serie": "Para qué sirve",
+    "pilar_plan": "Minerales",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "sirve",
+    "spec": "n1-h-20261110-2000-sirve-magnesio",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

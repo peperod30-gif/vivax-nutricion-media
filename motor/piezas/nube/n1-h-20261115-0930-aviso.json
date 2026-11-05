@@ -1,0 +1,50 @@
+{
+  "id": "n1-h-20261115-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ETQ-002"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: domingo 15-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 15-nov a las 09:30. Hechos: ETQ-002.",
+  "alt": [
+    "Historia en blanco y verde oliva. Domingo. Hoy en el feed. A la una: La tabla no te dice si hay azúcares añadidos. A las nueve: El aguacate tiene un gemelo de grasa saturada."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Domingo",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "La tabla no te dice si hay azúcares añadidos"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "El aguacate tiene un gemelo de grasa saturada."
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261115-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

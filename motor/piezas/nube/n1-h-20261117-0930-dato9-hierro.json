@@ -1,0 +1,46 @@
+{
+  "id": "n1-h-20261117-0930-dato9-hierro",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "Minerales",
+  "serie": "historias",
+  "hechos": [
+    "ALI-034"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Mejillones cocidos: 6,7 mg",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 17-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261117-1300-hierro-espinacas-mejillones). Hechos: ALI-034.",
+  "alt": [
+    "Historia en blanco, negro y verde oliva. El dato de las nueve. Mejillones cocidos: 6,7 mg de hierro por 100 g, en una cifra enorme. ¿Cuál lleva más? Los demás alimentos aparecen tapados con barras negras. Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "El dato de las nueve",
+      "titulo": "Mejillones cocidos",
+      "cifra": "6,7",
+      "unidad": "mg",
+      "texto": "de hierro por 100 g",
+      "titular": "¿Cuál lleva más?",
+      "sigue": "Hoy a la una, en el feed."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "Minerales",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "dato9",
+    "spec": "n1-h-20261117-0930-dato9-hierro",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261117-1300-hierro-espinacas-mejillones"
+  }
+}

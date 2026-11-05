@@ -1,0 +1,53 @@
+{
+  "id": "n1-h-20261118-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-023",
+    "VIT-038",
+    "ALI-024",
+    "VIT-018"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: miércoles 18-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 18-nov a las 09:30. Hechos: VIT-023, VIT-038, ALI-024, VIT-018.",
+  "alt": [
+    "Historia en blanco y verde oliva. Miércoles. Hoy en el feed. A la una: Pipas o lomo: ¿qué vitamina comparten? A las nueve: ¿Sabes leer un «por 100 g»? Compruébalo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Miércoles",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Pipas o lomo: ¿qué vitamina comparten?"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "¿Sabes leer un «por 100 g»? Compruébalo"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-18",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261118-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

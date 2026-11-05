@@ -1,0 +1,50 @@
+{
+  "id": "n1-h-20261119-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-045"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: jueves 19-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 19-nov a las 09:30. Hechos: VIT-045.",
+  "alt": [
+    "Historia en blanco y verde oliva. Jueves. Hoy en el feed. A la una: Dónde no está la B12, y por qué importa. A las siete: Dieta cetogénica: el LDL sube. ¿Qué cifra baja?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Jueves",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Dónde no está la B12, y por qué importa"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Dieta cetogénica: el LDL sube. ¿Qué cifra baja?"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-19",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261119-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}

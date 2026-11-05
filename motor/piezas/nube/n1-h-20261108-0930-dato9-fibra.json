@@ -1,0 +1,46 @@
+{
+  "id": "n1-h-20261108-0930-dato9-fibra",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "curiosidad",
+  "serie": "historias",
+  "hechos": [
+    "ALI-007"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Kiwi: 3,0 g",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 8-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261108-1300-fruta-fibra-alubias). Hechos: ALI-007.",
+  "alt": [
+    "Historia en blanco, negro y verde oliva. El dato de las nueve. Kiwi: 3,0 g de fibra por 100 g, en una cifra enorme. Una fruta con más fibra que las alubias. Los demás alimentos aparecen tapados con barras negras. Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "El dato de las nueve",
+      "titulo": "Kiwi",
+      "cifra": "3,0",
+      "unidad": "g",
+      "texto": "de fibra por 100 g",
+      "titular": "Una fruta con más fibra que las alubias.",
+      "sigue": "Hoy a la una, en el feed."
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-08",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "curiosidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "dato9",
+    "spec": "n1-h-20261108-0930-dato9-fibra",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261108-1300-fruta-fibra-alubias"
+  }
+}

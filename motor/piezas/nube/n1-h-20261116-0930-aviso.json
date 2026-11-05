@@ -1,0 +1,50 @@
+{
+  "id": "n1-h-20261116-0930-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-017"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: lunes 16-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 16-nov a las 09:30. Hechos: VIT-017.",
+  "alt": [
+    "Historia en blanco y verde oliva. Lunes. Hoy en el feed. A la una: Un favor de la vitamina C al hierro. ¿Cuál? A las nueve: Niacina (B3): ¿cosa de carne? ¿Quita el cansancio?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Lunes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Un favor de la vitamina C al hierro. ¿Cuál?"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Niacina (B3): ¿cosa de carne? ¿Quita el cansancio?"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-16",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "historia",
+    "variante": "aviso",
+    "spec": "n1-h-20261116-0930-aviso",
+    "lote_serie": "historias-lux",
+    "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto"
+  }
+}
