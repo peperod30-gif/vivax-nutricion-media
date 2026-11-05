@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261124-reel-rasca-0830-magnesio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-rasca",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-010",
+    "VIT-056"
+  ],
+  "titulo": "[REEL-RASCA] Del cinco al uno: el chocolate negro, sin podio.",
+  "hojas": [
+    {
+      "plantilla": "f_frase",
+      "kicker": "Rasca el dato",
+      "titulo": "Del cinco al uno: el chocolate negro, sin podio.",
+      "dato": "Cuenta atrás de la mañana",
+      "texto": "Por 100 g de alimento",
+      "items": [
+        "Rasca",
+        "Sorpresa"
+      ],
+      "voz": "Del cinco al uno, magnesio.\nCinco: cacahuetes.\nCuatro: chocolate negro, fuera del podio.\nTres: almendras.\nDos: chía.\nY el uno, pipas de calabaza: quinientos noventa y dos miligramos.\n¿Y para qué sirve el magnesio? El magnesio ayuda a disminuir el cansancio y la fatiga.\nMándaselo a quien justifica el chocolate con el magnesio."
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "Cacahuetes",
+          "valor": "168",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Chocolate negro 70-85 %",
+          "valor": "228",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Almendras",
+          "valor": "270",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "Semillas de chía",
+          "valor": "335",
+          "unidad": "mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_reel",
+      "items": [
+        {
+          "nombre": "Pipas de calabaza",
+          "valor": "592",
+          "unidad": "mg"
+        }
+      ],
+      "texto": "de magnesio"
+    },
+    {
+      "plantilla": "f_frase",
+      "kicker": "Rasca el dato",
+      "resalte": "Para qué sirve",
+      "frase": "El magnesio ayuda a disminuir el cansancio y la fatiga.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal.",
+      "items": [
+        "Rasca"
+      ],
+      "titulo": "¿Y para qué sirve el magnesio?",
+      "vit": "VIT-056"
+    },
+    {
+      "plantilla": "f_frase",
+      "kicker": "Cuenta atrás de la mañana",
+      "texto": "Mándaselo a quien justifica el chocolate con el magnesio.",
+      "dato": "Mañana por la mañana: cuenta atrás de folato."
+    }
+  ],
+  "pie_instagram": "Del cinco al uno: el chocolate negro, sin podio.\n\nMagnesio por 100 g: cacahuetes, 168 mg; chocolate negro 70-85 %, 228 mg; almendras, 270 mg; semillas de chía, 335 mg; y en la casilla sorpresa, pipas de calabaza, 592 mg.\nPor cada 100 g. Es la cantidad que hay en el alimento, no la que se absorbe.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El magnesio ayuda a disminuir el cansancio y la fatiga. Es una declaración autorizada en la UE para alimentos que son fuente de magnesio; no es una recomendación personal.\n\nMándaselo a quien justifica el chocolate con el magnesio. Mañana por la mañana: cuenta atrás de folato.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#magnesio #minerales #nutricion #semillas",
+  "alt": [
+    "Reel en blanco, negro y oliva: una tarjeta de rasca de lujo, «Rasca el dato». Una moneda de oliva rasca la lámina oliva oscura de 4 filas y de la casilla sorpresa; luego el reverso de la tarjeta descubre la conclusión y cierra la firma de Vivax. Rasca el dato. Del cinco al uno: el chocolate negro, sin podio. Por 100 g de alimento. Cuenta atrás de la mañana. Rasca. Sorpresa. Cacahuetes 168 mg. Chocolate negro 70-85 % 228 mg. Almendras 270 mg. Semillas de chía 335 mg. de magnesio. Pipas de calabaza 592 mg. Rasca el dato. ¿Y para qué sirve el magnesio? Rasca. Para qué sirve. El magnesio ayuda a disminuir el cansancio y la fatiga. Cuenta atrás de la mañana. Mándaselo a quien justifica el chocolate con el magnesio. Mañana por la mañana: cuenta atrás de folato."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-24",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-rasca",
+    "formato": "REEL-RASCA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_rasca (Vivax Luxury); spec n1-lux-20261124-0830-magnesio-semillas. En lo publicado se dice «tarjeta», nunca «boleto», «premio» ni «suerte» (sin connotación de juego, como el BD)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Minerales",
+    "spec": "n1-lux-20261124-0830-magnesio-semillas",
+    "mecanica": "reel_ranking",
+    "voz_de_prueba": false,
+    "plantilla_visual": "reel_rasca",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-010), por 100 g: pipas de calabaza 592 mg; semillas de chía 335 mg; almendras 270 mg; chocolate negro 70-85 % 228 mg; cacahuetes 168 mg de magnesio. Es la cantidad que hay en el alimento, no la que se absorbe. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-056), para alimentos que son fuente de magnesio; no es una recomendación personal. Voz sintética (IA).",
+  "ia": true
+}

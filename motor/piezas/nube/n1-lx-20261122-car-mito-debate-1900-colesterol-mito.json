@@ -11,99 +11,96 @@
     "DEB-034",
     "DEB-035"
   ],
-  "titulo": "[CAR-MITO-DEBATE] ¿Colesterol villano o necesario? Depende de cuánto.",
+  "titulo": "[CAR-MITO-DEBATE] Colesterol: vital en las células. ¿Y en el plato?",
   "hojas": [
     {
       "plantilla": "f_frase",
       "kicker": "Mito o dato",
-      "titulo": "¿Colesterol villano o necesario? Depende de cuánto.",
+      "titulo": "Colesterol: {vital} en las células. ¿Y en el plato?",
       "resalte": "Respuesta corta",
       "frase": "Depende.",
       "texto": "La respuesta larga, deslizando"
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura A",
-      "titulo": "Imprescindible para cada célula",
-      "dato": "Su equilibrio es vital para las células y todo el organismo; su desequilibrio, detrás de la enfermedad cardiovascular.",
+      "kicker": "En las células",
+      "titulo": "Necesario para cada {célula}",
+      "dato": "Su equilibrio es vital para las células y todo el organismo; si se descompensa, está detrás de enfermedades del corazón.",
       "cifra": "vital",
-      "fuente": "Nature Reviews Molecular Cell Biology, 2020",
+      "fuente": "Nature Reviews, 2020",
       "resalte": "Letra pequeña",
-      "texto": "Revisión de mecanismos: no dice que cualquier nivel en sangre sea inocuo."
+      "texto": "Explica cómo funciona; no dice que cualquier nivel en sangre sea inofensivo."
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura B",
-      "titulo": "En la dieta, la cantidad cuenta",
-      "dato": "Cada 100 mg diarios más de colesterol de la dieta: un 6 % más riesgo de muerte por todas las causas.",
+      "kicker": "En el plato",
+      "titulo": "En el plato, la cantidad cuenta",
+      "dato": "Cada 100 mg más de colesterol al día en la comida iba con un 6 % más riesgo de morir por cualquier causa.",
       "cifra": "6",
       "unidad": "%",
       "fuente": "Frontiers in Nutrition, 2022",
       "resalte": "Letra pequeña",
-      "texto": "Observacional, los autores piden cautela; no hubo más muerte cardiovascular en el análisis lineal."
+      "texto": "Solo se vio quién comía qué, y los autores piden cautela: las cifras son pequeñas."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "Frente a frente",
-      "titulo": "¿El colesterol es el villano de la película o una pieza imprescindible?",
+      "titulo": "¿El colesterol es el villano o una pieza necesaria?",
       "texto": "¿Con cuál te quedas?",
       "items": [
         {
-          "nombre": "Postura A",
-          "texto": "Imprescindible para cada célula",
+          "nombre": "En las células",
+          "texto": "Necesario para cada {célula}",
           "valor": "vital"
         },
         {
-          "nombre": "Postura B",
-          "texto": "En la dieta, la cantidad cuenta",
+          "nombre": "En el plato",
+          "texto": "En el plato, la cantidad cuenta",
           "valor": "6",
           "unidad": "%"
         }
-      ]
+      ],
+      "dato": "Una habla de lo que hace dentro; la otra, de cuánto llega del plato."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "El matiz",
       "frase": "Depende",
-      "titulo": "de la cantidad: con menos de 250 mg al día, poca evidencia de riesgo elevado.",
+      "titulo": "de la cantidad: por debajo de 250 mg al día, apenas se vio más riesgo.",
       "items": [
         {
-          "nombre": "¿Y el huevo?",
-          "texto": "Con menos de medio huevo al día, poca evidencia de riesgo elevado."
-        },
-        {
-          "nombre": "A partir de unos 450 mg al día",
-          "texto": "Más riesgo de muerte cardiovascular en los análisis no lineales."
+          "nombre": "Muertes de corazón",
+          "texto": "No subieron en el cálculo principal; solo por encima de unos 450 mg al día."
         }
       ],
-      "dato": "Según un metaanálisis de 55 cohortes."
+      "dato": "Según la revisión de Frontiers in Nutrition."
     },
     {
-      "plantilla": "f_ranking",
+      "plantilla": "f_frase",
       "titulo": "¿Y para qué sirve el colesterol?",
       "resalte": "El dato final",
-      "frase": "El equilibrio del colesterol (producirlo, captarlo, exportarlo y esterificarlo) es vital para el buen funcionamiento de las células y de todo el organismo.",
+      "frase": "Fabricarlo, recogerlo, sacarlo y guardarlo en su justa medida es vital para las células y todo el organismo.",
       "fuente": "Es un dato de una de las posturas del debate, no un veredicto ni una recomendación personal."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "En una frase",
-      "titulo": "{Depende} de la cantidad: con menos de 250 mg al día, poca evidencia de riesgo elevado.",
+      "titulo": "{Depende} de la cantidad: por debajo de 250 mg al día, apenas se vio más riesgo.",
       "texto": "Mándaselo a quien pide la tortilla solo de claras.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "fuente": "Según un metaanálisis de 55 cohortes.",
+      "fuente": "Según la revisión de Frontiers in Nutrition.",
       "dato": "El martes por la tarde, otro mito o dato: la grasa saturada y su gran «depende»."
     }
   ],
-  "pie_instagram": "¿Colesterol villano o necesario? Depende de cuánto.\n\nPostura A: Su equilibrio es vital para las células y todo el organismo; su desequilibrio, detrás de la enfermedad cardiovascular. Letra pequeña: revisión de mecanismos: no dice que cualquier nivel en sangre sea inocuo.\nPostura B: Cada 100 mg diarios más de colesterol de la dieta: un 6 % más riesgo de muerte por todas las causas. Letra pequeña: observacional, los autores piden cautela; no hubo más muerte cardiovascular en el análisis lineal.\nUna corriente habla de lo que hace en las células; la otra, de cuánto llega con la dieta.\nEl matiz: Depende de la cantidad: con menos de 250 mg al día, poca evidencia de riesgo elevado. ¿Y el huevo?: con menos de medio huevo al día, poca evidencia de riesgo elevado. A partir de unos 450 mg al día: más riesgo de muerte cardiovascular en los análisis no lineales. Según un metaanálisis de 55 cohortes.\nY el dato final: Una revisión de Nature Reviews Molecular Cell Biology señala que la homeostasis del colesterol, el equilibrio entre producirlo, captarlo, exportarlo y esterificarlo, es vital para el buen funcionamiento de las células y de todo el organismo.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien pide la tortilla solo de claras.\nEl martes por la tarde, otro mito o dato: la grasa saturada y su gran «depende».\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #nutricion #mitoodato",
+  "pie_instagram": "Colesterol: vital en las células. ¿Y en el plato?\n\nEn las células: Su equilibrio es vital para las células y todo el organismo; si se descompensa, está detrás de enfermedades del corazón. Letra pequeña: explica cómo funciona; no dice que cualquier nivel en sangre sea inofensivo.\nEn el plato: Cada 100 mg más de colesterol al día en la comida iba con un 6 % más riesgo de morir por cualquier causa. Letra pequeña: solo se vio quién comía qué, y los autores piden cautela: las cifras son pequeñas.\nUna habla de lo que hace dentro; la otra, de cuánto llega del plato.\nEl matiz: Depende de la cantidad: por debajo de 250 mg al día, apenas se vio más riesgo. Muertes de corazón: no subieron en el cálculo principal; solo por encima de unos 450 mg al día. Según la revisión de Frontiers in Nutrition.\nY el dato final: Una revisión de Nature Reviews Molecular Cell Biology señala que el equilibrio del colesterol (fabricarlo, captarlo, sacarlo de la célula y guardarlo) es vital para el buen funcionamiento de las células y de todo el organismo.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien pide la tortilla solo de claras.\nEl martes por la tarde, otro mito o dato: la grasa saturada y su gran «depende».\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #nutricion #mitoodato",
   "alt": [
-    "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. ¿Colesterol villano o necesario? Depende de cuánto. La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Postura A. Imprescindible para cada célula. vital. Revisión de mecanismos: no dice que cualquier nivel en sangre sea inocuo. Su equilibrio es vital para las células y todo el organismo; su desequilibrio, detrás de la enfermedad cardiovascular. Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Postura B. En la dieta, la cantidad cuenta. 6 %. Observacional, los autores piden cautela; no hubo más muerte cardiovascular en el análisis lineal. Cada 100 mg diarios más de colesterol de la dieta: un 6 % más riesgo de muerte por todas las causas. Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿El colesterol es el villano de la película o una pieza imprescindible? ¿Con cuál te quedas? Postura A vital Imprescindible para cada célula. Postura B 6 % En la dieta, la cantidad cuenta.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de la cantidad: con menos de 250 mg al día, poca evidencia de riesgo elevado. Según un metaanálisis de 55 cohortes. ¿Y el huevo? Con menos de medio huevo al día, poca evidencia de riesgo elevado. A partir de unos 450 mg al día Más riesgo de muerte cardiovascular en los análisis no lineales. Depende.",
-    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y para qué sirve el colesterol? El dato final. El equilibrio del colesterol (producirlo, captarlo, exportarlo y esterificarlo) es vital para el buen funcionamiento de las células y de todo el organismo.",
-    "Cierre en oliva con la firma de Vivax. En una frase. Depende de la cantidad: con menos de 250 mg al día, poca evidencia de riesgo elevado. Mándaselo a quien pide la tortilla solo de claras. El martes por la tarde, otro mito o dato: la grasa saturada y su gran «depende»."
+    "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. Colesterol: vital en las células. ¿Y en el plato? La respuesta larga, deslizando. Respuesta corta. Depende.",
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. En las células. Necesario para cada célula. vital. Explica cómo funciona; no dice que cualquier nivel en sangre sea inofensivo. Su equilibrio es vital para las células y todo el organismo; si se descompensa, está detrás de enfermedades del corazón. Letra pequeña.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. En el plato. En el plato, la cantidad cuenta. 6 %. Solo se vio quién comía qué, y los autores piden cautela: las cifras son pequeñas. Cada 100 mg más de colesterol al día en la comida iba con un 6 % más riesgo de morir por cualquier causa. Letra pequeña.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿El colesterol es el villano o una pieza necesaria? ¿Con cuál te quedas? Una habla de lo que hace dentro; la otra, de cuánto llega del plato. En las células vital Necesario para cada célula. En el plato 6 % En el plato, la cantidad cuenta.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de la cantidad: por debajo de 250 mg al día, apenas se vio más riesgo. Según la revisión de Frontiers in Nutrition. Muertes de corazón No subieron en el cálculo principal; solo por encima de unos 450 mg al día. Depende.",
+    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y para qué sirve el colesterol? El dato final. Fabricarlo, recogerlo, sacarlo y guardarlo en su justa medida es vital para las células y todo el organismo.",
+    "Cierre en oliva con la firma de Vivax. En una frase. Depende de la cantidad: por debajo de 250 mg al día, apenas se vio más riesgo. Mándaselo a quien pide la tortilla solo de claras. El martes por la tarde, otro mito o dato: la grasa saturada y su gran «depende»."
   ],
   "produccion": {
     "autoaprobar": false,
@@ -123,7 +120,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: Luo J, Yang H, Song BL. Nature Reviews Molecular Cell Biology 2020;21:225-245 (DEB-034), revisión de mecanismos: dice que el equilibrio del colesterol es vital y que su desequilibrio está detrás de la enfermedad cardiovascular; no da cifras ni dice que cualquier nivel en sangre sea inocuo (por eso la portada de esa postura lleva la palabra «vital» del propio banco, no una cifra). Darooghegi Mofrad M et al. Frontiers in Nutrition 2022;9:878979 (DEB-035), metaanálisis dosis-respuesta de 55 cohortes con 2.772.486 personas: riesgo relativo 1,06 (IC 95 % 1,03 a 1,08) por cada 100 mg diarios más; sin más muerte cardiovascular en el análisis lineal (1,04; 0,99 a 1,10); en los no lineales, más riesgo de muerte cardiovascular por encima de unos 450 mg al día y poca evidencia de riesgo con menos de medio huevo o de 250 mg al día; observacional, estimaciones pequeñas y heterogeneidad moderada. El colesterol no tiene declaración de salud autorizada: la conclusión es el hecho de DEB-034. No es una recomendación personal.",
+  "comentario": "Fuentes: Luo J, Yang H, Song BL. Nature Reviews Molecular Cell Biology 2020;21:225-245 (DEB-034), revisión de mecanismos: dice que el equilibrio del colesterol (biosíntesis, captación, exportación y esterificación: «fabricarlo, recogerlo, sacarlo y guardarlo» en pantalla) es vital y que su desequilibrio está detrás de la enfermedad cardiovascular; no da cifras ni dice que cualquier nivel en sangre sea inocuo (por eso la portada de esa postura lleva la palabra «vital» del propio banco, no una cifra). Darooghegi Mofrad M et al. Frontiers in Nutrition 2022;9:878979 (DEB-035), metaanálisis dosis-respuesta de 55 cohortes con 2.772.486 personas: riesgo relativo 1,06 (IC 95 % 1,03 a 1,08) por cada 100 mg diarios más; sin más muerte cardiovascular en el análisis lineal (1,04; 0,99 a 1,10), «el cálculo principal» en pantalla; en los no lineales, más riesgo de muerte cardiovascular por encima de unos 450 mg al día y poca evidencia de riesgo con menos de medio huevo o de 250 mg al día; observacional, estimaciones pequeñas y heterogeneidad moderada. El colesterol no tiene declaración de salud autorizada: la conclusión es el hecho de DEB-034. No es una recomendación personal.",
   "serie": "Mito o dato",
   "pilar_plan": "Despensa: grasas y colesterol"
 }

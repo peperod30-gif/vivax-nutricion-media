@@ -17,44 +17,46 @@
     {
       "plantilla": "f_frase",
       "kicker": "Curiosidades Vivax",
-      "titulo": "Mismo LDL en la analítica. ¿Mismo {riesgo}?",
+      "titulo": "Mismo LDL en la analítica. ¿{Mismo} riesgo?",
       "resalte": "Respuesta corta",
       "frase": "Depende.",
       "texto": "La respuesta larga, deslizando"
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "La corriente del tamaño",
-      "titulo": "El tamaño de la LDL también {cuenta}",
-      "dato": "271.760 personas: la LDL pequeña y densa fue, con la apolipoproteína B, el factor lipídico más significativo: 1,18.",
-      "cifra": "1,18",
-      "fuente": "UK Biobank, 2025",
-      "resalte": "Letra pequeña",
-      "texto": "Réplica: observacional, sin enfermedad previa y con la LDL estimada por fórmula."
+      "kicker": "Importa el tipo",
+      "titulo": "La LDL pequeña {pesa}",
+      "dato": "Con el mismo LDL, quien tenía más LDL pequeña de la que tocaba tuvo un 31 % más riesgo cardiovascular.",
+      "cifra": "31",
+      "unidad": "%",
+      "fuente": "Reino Unido, 2025",
+      "resalte": "Ojo",
+      "texto": "Personas sanas. Se vio quién tenía qué, no se probó la causa. Y esa LDL se estimó con una fórmula."
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "La corriente del total",
-      "titulo": "Tras un síndrome coronario, el LDL total predice {igual}",
-      "dato": "La LDL pequeña y densa y el LDL total predijeron el riesgo casi igual: curvas superpuestas.",
-      "fuente": "Odyssey Outcomes, 2026",
-      "resalte": "Letra pequeña",
-      "texto": "Réplica: pacientes coronarios con estatinas; no vale para personas sanas."
+      "kicker": "Basta con el total",
+      "titulo": "Ya enfermos del corazón: {empate}",
+      "dato": "En personas con un problema de corazón reciente, la LDL pequeña y el LDL total avisaron del riesgo casi igual.",
+      "fuente": "Revista de cardiología, 2026",
+      "resalte": "Ojo",
+      "texto": "Todos tomaban pastillas para el colesterol. No vale para personas sanas."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "Frente a frente",
-      "titulo": "¿Cuenta solo cuánto LDL hay, o también su tipo?",
-      "texto": "¿Tú qué miras en tu analítica?",
+      "titulo": "¿Cuenta solo cuánto LDL tienes, o también de qué tipo es?",
+      "texto": "¿Tú miras solo el número?",
       "items": [
         {
-          "nombre": "La corriente del tamaño",
-          "texto": "El tamaño de la LDL también {cuenta}",
-          "valor": "1,18"
+          "nombre": "Importa el tipo",
+          "texto": "La LDL pequeña {pesa}",
+          "valor": "31",
+          "unidad": "%"
         },
         {
-          "nombre": "La corriente del total",
-          "texto": "Tras un síndrome coronario, el LDL total predice {igual}"
+          "nombre": "Basta con el total",
+          "texto": "Ya enfermos del corazón: {empate}"
         }
       ]
     },
@@ -62,45 +64,45 @@
       "plantilla": "f_ranking",
       "kicker": "El matiz",
       "frase": "Depende",
-      "titulo": "de quién se mire: personas sin enfermedad o pacientes coronarios.",
+      "titulo": "de quién se mire: personas sanas o enfermos del corazón.",
       "items": [
         {
-          "nombre": "Sin enfermedad cardiovascular previa",
-          "texto": "Más LDL pequeña y densa de la esperable por el LDL: riesgo un 31 % mayor."
+          "nombre": "Personas sanas",
+          "texto": "Con más LDL pequeña de la que tocaba por su LDL, un 31 % más riesgo."
         },
         {
-          "nombre": "Tras un síndrome coronario agudo",
-          "texto": "Medirla no pareció aportar información pronóstica adicional."
+          "nombre": "Ya enfermos del corazón",
+          "texto": "Medir el tipo de LDL no aportó nada nuevo."
         }
       ],
-      "dato": "Según UK Biobank y Odyssey Outcomes."
+      "dato": "Según los datos de las dos posturas."
     },
     {
-      "plantilla": "f_ranking",
+      "plantilla": "f_frase",
       "titulo": "¿Y la cantidad deja de importar?",
       "resalte": "El dato final",
-      "frase": "El consenso europeo concluye que la LDL causa la enfermedad cardiovascular aterosclerótica, y el riesgo parece crecer con la duración de la exposición.",
-      "fuente": "Es un dato de una de las corrientes del debate, no un veredicto. No es una recomendación personal; con el LDL alto, consulta con tu médico."
+      "frase": "El consenso europeo: la LDL causa la enfermedad de las arterias, y el riesgo parece crecer cuantos más años dura.",
+      "fuente": "Es lo que dice la otra corriente, no un veredicto. No es una recomendación personal; con el LDL alto, consulta con tu médico."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "En una frase",
-      "titulo": "{Depende} de quién se mire: personas sin enfermedad o pacientes coronarios.",
+      "titulo": "{Depende} de quién se mire: personas sanas o enfermos del corazón.",
       "texto": "Mándaselo a quien compara su analítica con la de su cuñado.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "fuente": "Según UK Biobank y Odyssey Outcomes.",
+      "fuente": "Según los datos de las dos posturas.",
       "dato": "El viernes: el pescado con más fama no va primero."
     }
   ],
-  "pie_instagram": "Mismo LDL en la analítica y dos corrientes que lo leen distinto.\n\nLa corriente del tamaño: 271.760 personas: la LDL pequeña y densa fue, con la apolipoproteína B, el factor lipídico más significativo: 1,18. Letra pequeña: réplica: observacional, sin enfermedad previa y con la LDL estimada por fórmula.\nLa corriente del total: La LDL pequeña y densa y el LDL total predijeron el riesgo casi igual: curvas superpuestas. Letra pequeña: réplica: pacientes coronarios con estatinas; no vale para personas sanas.\nEl matiz: Depende de quién se mire: personas sin enfermedad o pacientes coronarios. Sin enfermedad cardiovascular previa: más LDL pequeña y densa de la esperable por el LDL: riesgo un 31 % mayor. Tras un síndrome coronario agudo: medirla no pareció aportar información pronóstica adicional. Según UK Biobank y Odyssey Outcomes.\nY el dato final: El consenso de la Sociedad Europea de Aterosclerosis concluye que hay una asociación dosis-dependiente entre la exposición al colesterol LDL y el riesgo de enfermedad cardiovascular aterosclerótica, que parece aumentar con la duración de la exposición, y que la LDL causa esa enfermedad.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Tú qué miras en tu analítica?\nMándaselo a quien compara su analítica con la de su cuñado.\nEl viernes: el pescado con más fama no va primero.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #ldl #curiosidades #nutricion",
+  "pie_instagram": "Mismo LDL en la analítica y dos maneras de leerlo.\n\nImporta el tipo: Con el mismo LDL, quien tenía más LDL pequeña de la que tocaba tuvo un 31 % más riesgo cardiovascular. Ojo: personas sanas. Se vio quién tenía qué, no se probó la causa. Y esa LDL se estimó con una fórmula.\nBasta con el total: En personas con un problema de corazón reciente, la LDL pequeña y el LDL total avisaron del riesgo casi igual. Ojo: todos tomaban pastillas para el colesterol. No vale para personas sanas.\nEl matiz: Depende de quién se mire: personas sanas o enfermos del corazón. Personas sanas: con más LDL pequeña de la que tocaba por su LDL, un 31 % más riesgo. Ya enfermos del corazón: medir el tipo de LDL no aportó nada nuevo. Según los datos de las dos posturas.\nY el dato final: El consenso europeo concluye que la LDL causa la enfermedad cardiovascular y que el riesgo sube con la cantidad y parece crecer con los años.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Tú miras solo el número?\nMándaselo a quien compara su analítica con la de su cuñado.\nEl viernes: el pescado con más fama no va primero.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #ldl #curiosidades #nutricion",
   "alt": [
     "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Curiosidades Vivax. Mismo LDL en la analítica. ¿Mismo riesgo? La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. La corriente del tamaño. El tamaño de la LDL también cuenta. 1,18. Réplica: observacional, sin enfermedad previa y con la LDL estimada por fórmula. 271.760 personas: la LDL pequeña y densa fue, con la apolipoproteína B, el factor lipídico más significativo: 1,18. Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. La corriente del total. Tras un síndrome coronario, el LDL total predice igual. Réplica: pacientes coronarios con estatinas; no vale para personas sanas. La LDL pequeña y densa y el LDL total predijeron el riesgo casi igual: curvas superpuestas. Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Cuenta solo cuánto LDL hay, o también su tipo? ¿Tú qué miras en tu analítica? La corriente del tamaño 1,18 El tamaño de la LDL también cuenta. La corriente del total Tras un síndrome coronario, el LDL total predice igual.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de quién se mire: personas sin enfermedad o pacientes coronarios. Según UK Biobank y Odyssey Outcomes. Sin enfermedad cardiovascular previa Más LDL pequeña y densa de la esperable por el LDL: riesgo un 31 % mayor. Tras un síndrome coronario agudo Medirla no pareció aportar información pronóstica adicional. Depende.",
-    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y la cantidad deja de importar? El dato final. El consenso europeo concluye que la LDL causa la enfermedad cardiovascular aterosclerótica, y el riesgo parece crecer con la duración de la exposición.",
-    "Cierre en oliva con la firma de Vivax. En una frase. Depende de quién se mire: personas sin enfermedad o pacientes coronarios. Mándaselo a quien compara su analítica con la de su cuñado. El viernes: el pescado con más fama no va primero."
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Importa el tipo. La LDL pequeña pesa. 31 %. Personas sanas. Se vio quién tenía qué, no se probó la causa. Y esa LDL se estimó con una fórmula. Con el mismo LDL, quien tenía más LDL pequeña de la que tocaba tuvo un 31 % más riesgo cardiovascular. Ojo.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Basta con el total. Ya enfermos del corazón: empate. Todos tomaban pastillas para el colesterol. No vale para personas sanas. En personas con un problema de corazón reciente, la LDL pequeña y el LDL total avisaron del riesgo casi igual. Ojo.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Cuenta solo cuánto LDL tienes, o también de qué tipo es? ¿Tú miras solo el número? Importa el tipo 31 % La LDL pequeña pesa. Basta con el total Ya enfermos del corazón: empate.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de quién se mire: personas sanas o enfermos del corazón. Según los datos de las dos posturas. Personas sanas Con más LDL pequeña de la que tocaba por su LDL, un 31 % más riesgo. Ya enfermos del corazón Medir el tipo de LDL no aportó nada nuevo. Depende.",
+    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Y la cantidad deja de importar? El dato final. El consenso europeo: la LDL causa la enfermedad de las arterias, y el riesgo parece crecer cuantos más años dura.",
+    "Cierre en oliva con la firma de Vivax. En una frase. Depende de quién se mire: personas sanas o enfermos del corazón. Mándaselo a quien compara su analítica con la de su cuñado. El viernes: el pescado con más fama no va primero."
   ],
   "produccion": {
     "autoaprobar": false,
@@ -120,7 +122,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: Zubiran R et al. Arteriosclerosis, Thrombosis, and Vascular Biology 2025;45:e512-e522 (DEB-038): UK Biobank, 271.760 personas sin medicación para bajar los lípidos y sin enfermedad cardiovascular aterosclerótica previa, mediana de 10 años; el colesterol estimado de la LDL pequeña y densa (1,18 por desviación estándar) y la apolipoproteína B (1,17), los factores de riesgo lipídico más significativos; ajustando además por la apolipoproteína B, LDL pequeña y densa 1,11 (IC 95 % 1,08 a 1,13); cuando la LDL pequeña y densa era más alta de lo que cabría por el colesterol LDL, el riesgo fue un 31 % mayor (matiz de DEB-038, es lo que paga el gancho «Mismo LDL… ¿Mismo riesgo?»). Es observacional y la LDL pequeña y densa se estima con una fórmula. Que el colesterol LDL total salga con 0,84 al ajustar por la apolipoproteína B es un resultado estadístico entre medidas muy relacionadas: no dice que proteja ni que no importe, y no se muestra en la pieza. Schwartz GG et al. American Journal of Preventive Cardiology 2026;27:101643 (DEB-042): análisis del ensayo ODYSSEY OUTCOMES, 11.837 pacientes con un síndrome coronario agudo reciente en tratamiento con estatinas; en el grupo placebo (5.920 personas) el colesterol de la LDL pequeña y densa y el LDL total predijeron el riesgo casi igual; no vale para personas sanas. Ference BA et al. European Heart Journal 2017;38:2459-2472 (DEB-040), consenso de la Sociedad Europea de Aterosclerosis. El colesterol LDL no tiene declaración de salud autorizada. Se presentan las dos corrientes con su réplica; no se afirma que un LDL alto no importe. No es una recomendación personal.",
+  "comentario": "Fuentes: Zubiran R et al. Arteriosclerosis, Thrombosis, and Vascular Biology 2025;45:e512-e522 (DEB-038): UK Biobank, 271.760 personas sin medicación para bajar los lípidos y sin enfermedad cardiovascular aterosclerótica previa, mediana de 10 años; el colesterol estimado de la LDL pequeña y densa (1,18 por desviación estándar) y la apolipoproteína B (1,17), los factores de riesgo lipídico más significativos; ajustando además por la apolipoproteína B, LDL pequeña y densa 1,11 (IC 95 % 1,08 a 1,13); cuando la LDL pequeña y densa era más alta de lo que cabría por el colesterol LDL, el riesgo fue un 31 % mayor (matiz de DEB-038, es lo que paga el gancho «Mismo LDL… ¿Mismo riesgo?»). Es observacional y la LDL pequeña y densa se estima con una fórmula. Que el colesterol LDL total salga con 0,84 al ajustar por la apolipoproteína B es un resultado estadístico entre medidas muy relacionadas: no dice que proteja ni que no importe, y no se muestra en la pieza. Schwartz GG et al. American Journal of Preventive Cardiology 2026;27:101643 (DEB-042): análisis del ensayo ODYSSEY OUTCOMES, 11.837 pacientes con un síndrome coronario agudo reciente en tratamiento con estatinas; en el grupo placebo (5.920 personas) el colesterol de la LDL pequeña y densa y el LDL total predijeron el riesgo casi igual; no vale para personas sanas. Ference BA et al. European Heart Journal 2017;38:2459-2472 (DEB-040), consenso de la Sociedad Europea de Aterosclerosis. Lenguaje de la pantalla (5-nov): «riesgo cardiovascular» por «eventos de enfermedad cardiovascular aterosclerótica»; «la que tocaba por su LDL» por «más alta de lo que cabría por el colesterol LDL»; «solo se vio quién tenía qué, no se probó la causa» por «observacional»; «un problema de corazón reciente» y «enfermos del corazón» por «síndrome coronario agudo reciente»; «pastillas para el colesterol» por «estatinas»; «no aportó nada nuevo» por «no aporta información pronóstica adicional»; «la enfermedad de las arterias» por «enfermedad cardiovascular aterosclerótica»; «cuantos más años dura» por «la duración de la exposición». El colesterol LDL no tiene declaración de salud autorizada. Se presentan las dos corrientes con su réplica; no se afirma que un LDL alto no importe. No es una recomendación personal.",
   "serie": "Curiosidades Vivax",
   "pilar_plan": "curiosidad"
 }

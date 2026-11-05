@@ -1,0 +1,947 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 20.51,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.03,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.4,
+ "n_cambios_visuales": 256,
+ "bucle_dif_ultimo_primero": 56.86,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    619,
+    396
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Del cinco al uno: el chocolate negro, sin podio.",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    742,
+    544
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    823,
+    458,
+    905,
+    518
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    677,
+    599,
+    709
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    795,
+    599,
+    827
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    913,
+    599,
+    945
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "RASCA",
+   "contando": false,
+   "r": [
+    481,
+    1031,
+    599,
+    1063
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "SORPRESA",
+   "contando": false,
+   "r": [
+    415,
+    1263,
+    665,
+    1306
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    619,
+    396
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Del cinco al uno: el chocolate negro, sin podio.",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    742,
+    544
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    823,
+    458,
+    905,
+    518
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Cacahuetes",
+   "contando": false,
+   "r": [
+    258,
+    668,
+    436,
+    717
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "168",
+   "contando": false,
+   "r": [
+    815,
+    649,
+    888,
+    736
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    686,
+    928,
+    726
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Chocolate negro 70-85 %",
+   "contando": false,
+   "r": [
+    258,
+    786,
+    668,
+    835
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "228",
+   "contando": false,
+   "r": [
+    806,
+    767,
+    888,
+    854
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    804,
+    928,
+    844
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Almendras",
+   "contando": false,
+   "r": [
+    258,
+    904,
+    429,
+    953
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "270",
+   "contando": false,
+   "r": [
+    806,
+    885,
+    888,
+    972
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    922,
+    928,
+    962
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    258,
+    1022,
+    522,
+    1071
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "335",
+   "contando": false,
+   "r": [
+    806,
+    1003,
+    888,
+    1090
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    1040,
+    928,
+    1080
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "SORPRESA",
+   "contando": false,
+   "r": [
+    415,
+    1263,
+    665,
+    1306
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    206,
+    370,
+    619,
+    396
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Del cinco al uno: el chocolate negro, sin podio.",
+   "contando": false,
+   "r": [
+    136,
+    400,
+    742,
+    544
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    851,
+    446,
+    880,
+    462
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    823,
+    458,
+    905,
+    518
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    816,
+    514,
+    914,
+    530
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Cacahuetes",
+   "contando": false,
+   "r": [
+    258,
+    668,
+    436,
+    717
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "168",
+   "contando": false,
+   "r": [
+    815,
+    649,
+    888,
+    736
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    686,
+    928,
+    726
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Chocolate negro 70-85 %",
+   "contando": false,
+   "r": [
+    258,
+    786,
+    668,
+    835
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "228",
+   "contando": false,
+   "r": [
+    806,
+    767,
+    888,
+    854
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    804,
+    928,
+    844
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Almendras",
+   "contando": false,
+   "r": [
+    258,
+    904,
+    429,
+    953
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "270",
+   "contando": false,
+   "r": [
+    806,
+    885,
+    888,
+    972
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    922,
+    928,
+    962
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    258,
+    1022,
+    522,
+    1071
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "335",
+   "contando": false,
+   "r": [
+    806,
+    1003,
+    888,
+    1090
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    894,
+    1040,
+    928,
+    1080
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "Pipas de calabaza",
+   "contando": false,
+   "r": [
+    456,
+    1149,
+    825,
+    1209
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "592",
+   "contando": false,
+   "r": [
+    450,
+    1215,
+    652,
+    1434
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    657,
+    1335,
+    712,
+    1400
+   ]
+  },
+  {
+   "t": 12.133,
+   "texto": "de magnesio",
+   "contando": false,
+   "r": [
+    456,
+    1384,
+    621,
+    1433
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "Rasca el dato",
+   "contando": false,
+   "r": [
+    747,
+    309,
+    944,
+    333
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    214,
+    378,
+    473,
+    408
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "¿Y para qué sirve el magnesio?",
+   "contando": false,
+   "r": [
+    136,
+    418,
+    816,
+    500
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "El magnesio ayuda a disminuir el cansancio y la fatiga.",
+   "contando": false,
+   "r": [
+    144,
+    687,
+    883,
+    968
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    198,
+    1176,
+    227,
+    1192
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    172,
+    1188,
+    250,
+    1246
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "de alimento",
+   "contando": false,
+   "r": [
+    163,
+    1242,
+    261,
+    1258
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    136,
+    1353,
+    627,
+    1428
+   ]
+  },
+  {
+   "t": 18.433,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    518,
+    656,
+    548
+   ]
+  },
+  {
+   "t": 18.433,
+   "texto": "Mándaselo a quien justifica el chocolate con el magnesio.",
+   "contando": false,
+   "r": [
+    96,
+    831,
+    821,
+    996
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    174,
+    518,
+    656,
+    548
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "Mándaselo a quien justifica el chocolate con el magnesio.",
+   "contando": false,
+   "r": [
+    96,
+    831,
+    821,
+    996
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "Mañana por la mañana: cuenta atrás de folato.",
+   "contando": false,
+   "r": [
+    96,
+    1213,
+    643,
+    1254
+   ]
+  },
+  {
+   "t": 20.433,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1349,
+    282,
+    1392
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  8.833,
+  12.133,
+  16.767,
+  18.433,
+  20.433
+ ],
+ "sonido": {
+  "lufs": -16.0,
+  "pico_dbtp": -2.73,
+  "recortes": 0,
+  "reduccion_max_db": 0.0,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "tic": 5,
+   "subida": 1,
+   "ding": 1,
+   "whoosh": 2,
+   "sello": 1
+  },
+  "descartados": 0,
+  "duracion_s": 20.445,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "texto": "Del cinco al uno, magnesio. Cinco: cacahuetes. Cuatro: chocolate negro, fuera del podio. Tres: almendras. Dos: chía. Y el uno, pipas de calabaza: quinientos noventa y dos miligramos. ¿Y para qué sirve el magnesio? El magnesio ayuda a disminuir el cansancio y la fatiga. Mándaselo a quien justifica el chocolate con el magnesio.",
+   "caracteres": 327,
+   "lineas": [
+    {
+     "texto": "Del cinco al uno,",
+     "t0": 0.0213,
+     "t1": 1.1263
+    },
+    {
+     "texto": "magnesio.",
+     "t0": 1.2064,
+     "t1": 1.9714
+    },
+    {
+     "texto": "Cinco:",
+     "t0": 2.0214,
+     "t1": 2.4714
+    },
+    {
+     "texto": "cacahuetes.",
+     "t0": 2.5514,
+     "t1": 3.3664
+    },
+    {
+     "texto": "Cuatro:",
+     "t0": 3.4163,
+     "t1": 3.8063
+    },
+    {
+     "texto": "chocolate negro,",
+     "t0": 3.8563,
+     "t1": 4.7963
+    },
+    {
+     "texto": "fuera del podio.",
+     "t0": 4.8763,
+     "t1": 5.8348
+    },
+    {
+     "texto": "Tres:",
+     "t0": 5.9419,
+     "t1": 6.4134
+    },
+    {
+     "texto": "almendras.",
+     "t0": 6.5334,
+     "t1": 7.4184
+    },
+    {
+     "texto": "Dos:",
+     "t0": 7.6184,
+     "t1": 8.0284
+    },
+    {
+     "texto": "chía.",
+     "t0": 8.0783,
+     "t1": 8.4433
+    },
+    {
+     "texto": "Y el uno,",
+     "t0": 8.4933,
+     "t1": 8.9833
+    },
+    {
+     "texto": "pipas de calabaza:",
+     "t0": 9.3483,
+     "t1": 10.4733
+    },
+    {
+     "texto": "quinientos noventa y dos miligramos.",
+     "t0": 10.5933,
+     "t1": 12.3233
+    },
+    {
+     "texto": "¿Y para qué sirve el magnesio?",
+     "t0": 12.4128,
+     "t1": 13.9928
+    },
+    {
+     "texto": "El magnesio ayuda a disminuir el cansancio y la fatiga.",
+     "t0": 14.0428,
+     "t1": 17.0578
+    },
+    {
+     "texto": "Mándaselo a quien justifica el chocolate con el magnesio.",
+     "t0": 17.1378,
+     "t1": 19.8578
+    }
+   ]
+  },
+  "rascado": {
+   "motor": "propio (ruido filtrado con grano)",
+   "lufs_relativo_voz_db": -14
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.05,
+   "limitador_max_db": 5.78
+  }
+ },
+ "efectos": [
+  {
+   "t": 3.1114,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 4.3963,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 7.1134,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 8.6183,
+   "tipo": "tic",
+   "intensidad": 0.28
+  },
+  {
+   "t": 11.0433,
+   "tipo": "subida",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.6433,
+   "tipo": "ding",
+   "intensidad": 0.42
+  },
+  {
+   "t": 12.1933,
+   "tipo": "whoosh",
+   "intensidad": 0.28
+  },
+  {
+   "t": 14.6933,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.8278,
+   "tipo": "whoosh",
+   "intensidad": 0.26
+  },
+  {
+   "t": 17.7278,
+   "tipo": "sello",
+   "intensidad": 0.3
+  }
+ ],
+ "fotogramas": 614,
+ "tiempo_render_s": 125.1,
+ "tiempos_s": {
+  "preparar": 3.52,
+  "dibujar_y_codificar": 112.93
+ },
+ "voz_de_prueba": false
+}
