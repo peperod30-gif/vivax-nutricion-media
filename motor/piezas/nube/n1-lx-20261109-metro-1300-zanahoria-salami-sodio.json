@@ -1,0 +1,110 @@
+{
+  "id": "n1-lx-20261109-metro-1300-zanahoria-salami-sodio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-metro",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-130",
+    "ALI-095",
+    "ALI-096"
+  ],
+  "titulo": "[METRO] De la zanahoria al salami: adivina el salto.",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Línea sodio",
+      "titulo": "De la zanahoria al salami: adivina el salto.",
+      "items": [
+        "Salida"
+      ],
+      "voz": "De la zanahoria al salami: adivina el salto. Zanahoria, sesenta y nueve. Hamburguesa, poco más. Cereales, cuatrocientos cincuenta y uno. Arriba, el salami. Dos mil doscientos sesenta. ¿Y cuántas veces más? Más de treinta veces la hamburguesa. Mándaselo a tu compi del bocata de salami."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Miligramos de sodio por cada 100 g, de menos a más.",
+      "dato": "Curiosidades Vivax"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada IV",
+          "nombre": "Zanahoria cruda",
+          "valor": "69",
+          "unidad": "mg"
+        },
+        {
+          "cab": "Parada III",
+          "nombre": "Hamburguesa cocinada",
+          "valor": "75",
+          "unidad": "mg"
+        },
+        {
+          "cab": "Parada II",
+          "nombre": "Cereales azucarados",
+          "valor": "451",
+          "unidad": "mg"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada I · Fin de trayecto",
+          "nombre": "Salami curado de cerdo",
+          "valor": "2260",
+          "unidad": "mg"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "titulo": "¿Y cuántas veces más?"
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Por cada 100 g, el salami curado de cerdo lleva 2260 mg de sodio y la hamburguesa de ternera cocinada, 75 mg.",
+      "fuente": "El sodio no es lo mismo que la sal y no tiene declaración de salud autorizada. Composición por 100 g; no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Mándaselo a tu compi del bocata de salami.",
+      "dato": "Mañana a mediodía: avena contra cacahuetes, en tiamina."
+    }
+  ],
+  "pie_instagram": "De la zanahoria al salami: adivina el salto.\n\nPor cada 100 g: zanahoria cruda 69 mg, hamburguesa cocinada 75 mg, cereales azucarados 451 mg y salami curado de cerdo 2260 mg.\nEn este metro, la distancia desde la salida es la cantidad de sodio por 100 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, el salami curado de cerdo lleva 2260 mg de sodio y la hamburguesa de ternera cocinada, 75 mg.\n\n¿Te esperabas ese salto?\nMándaselo a tu compi del bocata de salami. Mañana a mediodía: avena contra cacahuetes, en tiamina.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #sodio #embutidos #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con un plano de metro dibujado en línea fina: el tren de la línea sodio para en cada alimento y la distancia desde la salida es la cantidad por 100 g. Línea sodio. De la zanahoria al salami: adivina el salto. Salida. Miligramos de sodio por cada 100 g, de menos a más. Curiosidades Vivax. por 100 g. Zanahoria cruda 69 mg. Hamburguesa cocinada 75 mg. Cereales azucarados 451 mg. por 100 g. Salami curado de cerdo 2260 mg. ¿Y cuántas veces más? El dato final. Por cada 100 g, el salami curado de cerdo lleva 2260 mg de sodio y la hamburguesa de ternera cocinada, 75 mg. Mándaselo a tu compi del bocata de salami. Mañana a mediodía: avena contra cacahuetes, en tiamina."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-09",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_metro",
+    "formato": "METRO",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "curiosidad",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261109-1300-zanahoria-salami-sodio",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261109-1300-zanahoria-salami-sodio",
+    "plantilla_visual": "reel_metro",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026): sodio por 100 g: salami curado de cerdo 2260 mg y hamburguesa de ternera cocinada (80 % magra) 75 mg (ALI-095); cereales de desayuno azucarados 451 mg (ALI-096); zanahoria cruda 69 mg (ALI-130). Cálculo propio: 2260 entre 75 da 30,1, «más de treinta veces». El sodio no es lo mismo que la sal. El sodio no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

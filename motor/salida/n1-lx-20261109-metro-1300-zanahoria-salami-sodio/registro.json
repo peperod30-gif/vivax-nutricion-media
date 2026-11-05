@@ -1,0 +1,1552 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 22.64,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 1.77,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.1,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.467,
+ "n_cambios_visuales": 226,
+ "bucle_dif_ultimo_primero": 74.88,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Línea sodio",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    379,
+    362
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "De la zanahoria al salami: adivina el salto.",
+   "contando": false,
+   "r": [
+    96,
+    357,
+    944,
+    563
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Miligramos de sodio por cada 100 g, de menos a más.",
+   "contando": false,
+   "r": [
+    96,
+    625,
+    791,
+    671
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1378,
+    482,
+    1421
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Zanahoria cruda",
+   "contando": false,
+   "r": [
+    598,
+    1290,
+    866,
+    1333
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    143,
+    1284,
+    482,
+    1323
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cereales azucarados",
+   "contando": false,
+   "r": [
+    598,
+    805,
+    932,
+    848
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Parada IV",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    342,
+    362
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Zanahoria cruda",
+   "contando": false,
+   "r": [
+    96,
+    358,
+    689,
+    477
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "69",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    235,
+    689
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    240,
+    595,
+    287,
+    646
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1237,
+    482,
+    1280
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Zanahoria cruda",
+   "contando": false,
+   "r": [
+    598,
+    1150,
+    866,
+    1193
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "69",
+   "contando": false,
+   "r": [
+    598,
+    1190,
+    640,
+    1247
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    645,
+    1205,
+    679,
+    1242
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    143,
+    1144,
+    482,
+    1183
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Parada III",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    346,
+    362
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    96,
+    362,
+    485,
+    515
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "75",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    219,
+    689
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    224,
+    595,
+    271,
+    646
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1365,
+    482,
+    1408
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Zanahoria cruda",
+   "contando": false,
+   "r": [
+    598,
+    1295,
+    866,
+    1338
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "69",
+   "contando": false,
+   "r": [
+    598,
+    1335,
+    640,
+    1392
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    645,
+    1350,
+    679,
+    1387
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    143,
+    1275,
+    482,
+    1314
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "75",
+   "contando": false,
+   "r": [
+    406,
+    1312,
+    443,
+    1369
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    448,
+    1327,
+    482,
+    1364
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Cereales azucarados",
+   "contando": false,
+   "r": [
+    598,
+    1005,
+    932,
+    1048
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Parada II",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    333,
+    362
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Cereales azucarados",
+   "contando": false,
+   "r": [
+    96,
+    362,
+    690,
+    458
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "451",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    288,
+    689
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    293,
+    595,
+    340,
+    646
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1381,
+    482,
+    1424
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Zanahoria cruda",
+   "contando": false,
+   "r": [
+    598,
+    1321,
+    866,
+    1364
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "69",
+   "contando": false,
+   "r": [
+    598,
+    1362,
+    640,
+    1419
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    645,
+    1377,
+    679,
+    1414
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    143,
+    1291,
+    482,
+    1330
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "75",
+   "contando": false,
+   "r": [
+    406,
+    1329,
+    443,
+    1386
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    448,
+    1344,
+    482,
+    1381
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "Cereales azucarados",
+   "contando": false,
+   "r": [
+    598,
+    1149,
+    932,
+    1192
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "451",
+   "contando": false,
+   "r": [
+    598,
+    1189,
+    655,
+    1246
+   ]
+  },
+  {
+   "t": 8.2,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    660,
+    1204,
+    694,
+    1241
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Parada I · Fin de trayecto",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    634,
+    362
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Salami curado de cerdo",
+   "contando": false,
+   "r": [
+    96,
+    362,
+    574,
+    515
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "2260",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    388,
+    689
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    393,
+    595,
+    440,
+    646
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "Salami curado de cerdo",
+   "contando": false,
+   "r": [
+    227,
+    1059,
+    482,
+    1127
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "2260",
+   "contando": false,
+   "r": [
+    358,
+    1125,
+    443,
+    1182
+   ]
+  },
+  {
+   "t": 12.067,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    448,
+    1140,
+    482,
+    1177
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Parada I · Fin de trayecto",
+   "contando": false,
+   "r": [
+    174,
+    332,
+    634,
+    362
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Salami curado de cerdo",
+   "contando": false,
+   "r": [
+    96,
+    362,
+    574,
+    515
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "2260",
+   "contando": false,
+   "r": [
+    88,
+    477,
+    388,
+    689
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    393,
+    595,
+    440,
+    646
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    779,
+    607,
+    893,
+    648
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Salida",
+   "contando": false,
+   "r": [
+    379,
+    1443,
+    482,
+    1486
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Zanahoria cruda",
+   "contando": false,
+   "r": [
+    598,
+    1388,
+    866,
+    1431
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "69",
+   "contando": false,
+   "r": [
+    598,
+    1429,
+    640,
+    1486
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    645,
+    1444,
+    679,
+    1481
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Hamburguesa cocinada",
+   "contando": false,
+   "r": [
+    143,
+    1353,
+    482,
+    1392
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "75",
+   "contando": false,
+   "r": [
+    406,
+    1391,
+    443,
+    1448
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    448,
+    1406,
+    482,
+    1443
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Cereales azucarados",
+   "contando": false,
+   "r": [
+    598,
+    1280,
+    932,
+    1323
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "451",
+   "contando": false,
+   "r": [
+    598,
+    1321,
+    655,
+    1378
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    660,
+    1336,
+    694,
+    1373
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "Salami curado de cerdo",
+   "contando": false,
+   "r": [
+    227,
+    772,
+    482,
+    839
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "2260",
+   "contando": false,
+   "r": [
+    358,
+    838,
+    443,
+    895
+   ]
+  },
+  {
+   "t": 12.867,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    448,
+    853,
+    482,
+    890
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "¿Y cuántas veces más?",
+   "contando": false,
+   "r": [
+    96,
+    323,
+    664,
+    608
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    780,
+    407,
+    810
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    96,
+    834,
+    216,
+    944
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    234,
+    834,
+    392,
+    944
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "100",
+   "contando": false,
+   "r": [
+    409,
+    834,
+    531,
+    944
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "g,",
+   "contando": false,
+   "r": [
+    549,
+    834,
+    609,
+    944
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    626,
+    834,
+    688,
+    944
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "salami",
+   "contando": false,
+   "r": [
+    706,
+    834,
+    923,
+    944
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "curado",
+   "contando": false,
+   "r": [
+    96,
+    918,
+    332,
+    1028
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    350,
+    918,
+    432,
+    1028
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "cerdo",
+   "contando": false,
+   "r": [
+    449,
+    918,
+    641,
+    1028
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    658,
+    918,
+    824,
+    1028
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "2260",
+   "contando": false,
+   "r": [
+    96,
+    1001,
+    262,
+    1111
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    280,
+    1001,
+    386,
+    1111
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    404,
+    1001,
+    485,
+    1111
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    503,
+    1001,
+    681,
+    1111
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    699,
+    1001,
+    739,
+    1111
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    757,
+    1001,
+    820,
+    1111
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "hamburguesa",
+   "contando": false,
+   "r": [
+    96,
+    1085,
+    556,
+    1195
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    573,
+    1085,
+    655,
+    1195
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "ternera",
+   "contando": false,
+   "r": [
+    672,
+    1085,
+    919,
+    1195
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "cocinada,",
+   "contando": false,
+   "r": [
+    96,
+    1168,
+    413,
+    1278
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "75",
+   "contando": false,
+   "r": [
+    430,
+    1168,
+    503,
+    1278
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "mg.",
+   "contando": false,
+   "r": [
+    521,
+    1168,
+    642,
+    1278
+   ]
+  },
+  {
+   "t": 20.1,
+   "texto": "El sodio no es lo mismo que la sal y no tiene declaración de salud autorizada. Composición por 100 g; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1309,
+    948,
+    1362
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    821,
+    372,
+    909
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    387,
+    821,
+    419,
+    909
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "tu",
+   "contando": false,
+   "r": [
+    433,
+    821,
+    486,
+    909
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "compi",
+   "contando": false,
+   "r": [
+    500,
+    821,
+    652,
+    909
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    666,
+    821,
+    742,
+    909
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "bocata",
+   "contando": false,
+   "r": [
+    757,
+    821,
+    923,
+    909
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    155,
+    975
+   ]
+  },
+  {
+   "t": 21.2,
+   "texto": "salami.",
+   "contando": false,
+   "r": [
+    169,
+    887,
+    352,
+    975
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    731,
+    261,
+    950,
+    281
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    821,
+    372,
+    909
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    387,
+    821,
+    419,
+    909
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "tu",
+   "contando": false,
+   "r": [
+    433,
+    821,
+    486,
+    909
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "compi",
+   "contando": false,
+   "r": [
+    500,
+    821,
+    652,
+    909
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    666,
+    821,
+    742,
+    909
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "bocata",
+   "contando": false,
+   "r": [
+    757,
+    821,
+    923,
+    909
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    155,
+    975
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "salami.",
+   "contando": false,
+   "r": [
+    169,
+    887,
+    352,
+    975
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "Mañana a mediodía: avena contra cacahuetes, en tiamina.",
+   "contando": false,
+   "r": [
+    96,
+    1227,
+    912,
+    1330
+   ]
+  },
+  {
+   "t": 22.567,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1376,
+    282,
+    1419
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  4.3,
+  6.3,
+  8.2,
+  12.067,
+  12.867,
+  20.1,
+  21.2,
+  22.567
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 5.17,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
+  "efectos_por_tipo": {
+   "tic": 1,
+   "tac": 4,
+   "ding": 3,
+   "whoosh": 2,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.579,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 277,
+   "lineas": [
+    {
+     "texto": "De la zanahoria al salami: adivina el salto.",
+     "hablado": "De la zanahoria al salami: adivina el salto.",
+     "t0": 0.0213,
+     "t1": 2.9163
+    },
+    {
+     "texto": "Zanahoria, sesenta y nueve.",
+     "hablado": "Zanahoria, sesenta y nueve.",
+     "t0": 2.9964,
+     "t1": 4.9064
+    },
+    {
+     "texto": "Hamburguesa, poco más.",
+     "hablado": "Hamburguesa, poco más.",
+     "t0": 4.9864,
+     "t1": 6.7914
+    },
+    {
+     "texto": "Cereales, cuatrocientos cincuenta y uno.",
+     "hablado": "Cereales, cuatrocientos cincuenta y uno.",
+     "t0": 6.8714,
+     "t1": 9.4514
+    },
+    {
+     "texto": "Arriba, el salami.",
+     "hablado": "Arriba, el salami.",
+     "t0": 9.5314,
+     "t1": 11.0964
+    },
+    {
+     "texto": "Dos mil doscientos sesenta.",
+     "hablado": "Dos mil doscientos sesenta.",
+     "t0": 11.1764,
+     "t1": 13.1714
+    },
+    {
+     "texto": "¿Y cuántas veces más?",
+     "hablado": "¿Y cuántas veces más?",
+     "t0": 13.5544,
+     "t1": 15.0694
+    },
+    {
+     "texto": "Más de treinta veces la hamburguesa.",
+     "hablado": "Más de treinta veces la hamburguesa.",
+     "t0": 15.1494,
+     "t1": 17.4694
+    },
+    {
+     "texto": "Mándaselo a tu compi del bocata de salami.",
+     "hablado": "Mándaselo a tu compi del bocata de salami.",
+     "t0": 17.5494,
+     "t1": 19.9444
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.0
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.35,
+   "tipo": "tic",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.896,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 3.816,
+   "tipo": "ding",
+   "intensidad": 0.32
+  },
+  {
+   "t": 4.886,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 5.806,
+   "tipo": "ding",
+   "intensidad": 0.32
+  },
+  {
+   "t": 6.771,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 7.691,
+   "tipo": "ding",
+   "intensidad": 0.32
+  },
+  {
+   "t": 10.356,
+   "tipo": "tac",
+   "intensidad": 0.42
+  },
+  {
+   "t": 11.576,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 11.506,
+   "tipo": "whoosh",
+   "intensidad": 0.32
+  },
+  {
+   "t": 13.656,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 20.216,
+   "tipo": "pop",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 678,
+ "tiempo_render_s": 41.0,
+ "tiempos_s": {
+  "preparar": 0.88,
+  "dibujar_y_codificar": 37.52
+ },
+ "voz_de_prueba": false
+}
