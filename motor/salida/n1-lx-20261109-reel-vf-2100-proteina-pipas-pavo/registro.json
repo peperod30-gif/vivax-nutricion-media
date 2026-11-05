@@ -1,0 +1,2986 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 25.98,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.3,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.7,
+ "n_cambios_visuales": 284,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Pipas",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    269,
+    873
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    286,
+    769,
+    363,
+    873
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "calabaza:",
+   "contando": false,
+   "r": [
+    380,
+    769,
+    671,
+    873
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    687,
+    769,
+    812,
+    873
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    364,
+    952
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    380,
+    848,
+    499,
+    952
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pechuga",
+   "contando": false,
+   "r": [
+    515,
+    848,
+    787,
+    952
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    173,
+    1031
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pavo.",
+   "contando": false,
+   "r": [
+    190,
+    927,
+    352,
+    1031
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "Pipas",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    269,
+    873
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    286,
+    769,
+    363,
+    873
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "calabaza:",
+   "contando": false,
+   "r": [
+    380,
+    769,
+    671,
+    873
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    687,
+    769,
+    812,
+    873
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    364,
+    952
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    380,
+    848,
+    499,
+    952
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "pechuga",
+   "contando": false,
+   "r": [
+    515,
+    848,
+    787,
+    952
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    173,
+    1031
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "pavo.",
+   "contando": false,
+   "r": [
+    190,
+    927,
+    352,
+    1031
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 3.6,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    119,
+    766
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "Pipas",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    269,
+    873
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    286,
+    769,
+    363,
+    873
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "calabaza:",
+   "contando": false,
+   "r": [
+    380,
+    769,
+    671,
+    873
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    687,
+    769,
+    812,
+    873
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    364,
+    952
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    380,
+    848,
+    499,
+    952
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "pechuga",
+   "contando": false,
+   "r": [
+    515,
+    848,
+    787,
+    952
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    173,
+    1031
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "pavo.",
+   "contando": false,
+   "r": [
+    190,
+    927,
+    352,
+    1031
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "30,2",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    659,
+    1275
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    665,
+    1161,
+    689,
+    1223
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "Pipas de calabaza",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    273,
+    1349
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "30,2 g",
+   "contando": false,
+   "r": [
+    865,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "Pechuga de pavo asada",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    328,
+    1399
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "30,1 g",
+   "contando": false,
+   "r": [
+    868,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 5.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Pechuga",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    370,
+    873
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    386,
+    769,
+    464,
+    873
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "pollo",
+   "contando": false,
+   "r": [
+    480,
+    769,
+    646,
+    873
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    663,
+    769,
+    701,
+    873
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    717,
+    769,
+    794,
+    873
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "pavo:",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    258,
+    952
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    275,
+    848,
+    337,
+    952
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    353,
+    848,
+    436,
+    952
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "gramo",
+   "contando": false,
+   "r": [
+    452,
+    848,
+    658,
+    952
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    173,
+    1031
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "diferencia.",
+   "contando": false,
+   "r": [
+    190,
+    927,
+    529,
+    1031
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    132,
+    766
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Pechuga",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    370,
+    873
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    386,
+    769,
+    464,
+    873
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "pollo",
+   "contando": false,
+   "r": [
+    480,
+    769,
+    646,
+    873
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    663,
+    769,
+    701,
+    873
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    717,
+    769,
+    794,
+    873
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "pavo:",
+   "contando": false,
+   "r": [
+    96,
+    848,
+    258,
+    952
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    275,
+    848,
+    337,
+    952
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    353,
+    848,
+    436,
+    952
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "gramo",
+   "contando": false,
+   "r": [
+    452,
+    848,
+    658,
+    952
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    927,
+    173,
+    1031
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "diferencia.",
+   "contando": false,
+   "r": [
+    190,
+    927,
+    529,
+    1031
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    139,
+    1167,
+    288,
+    1203
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "31,0",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    640,
+    1275
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    645,
+    1161,
+    670,
+    1223
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Pechuga de pollo asada",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    338,
+    1349
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "31,0 g",
+   "contando": false,
+   "r": [
+    868,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Pechuga de pavo asada",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    328,
+    1399
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "30,1 g",
+   "contando": false,
+   "r": [
+    868,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Cacahuetes:",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    495,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    512,
+    768,
+    644,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    662,
+    768,
+    945,
+    878
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "lomo",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    407,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    424,
+    852,
+    506,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "cerdo.",
+   "contando": false,
+   "r": [
+    524,
+    852,
+    730,
+    962
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    127,
+    1164,
+    300,
+    1205
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    444,
+    1164,
+    535,
+    1205
+   ]
+  },
+  {
+   "t": 15.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    221,
+    461
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "verdades",
+   "contando": false,
+   "r": [
+    238,
+    350,
+    541,
+    461
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    435,
+    136,
+    546
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    154,
+    435,
+    279,
+    546
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "falsa:",
+   "contando": false,
+   "r": [
+    296,
+    435,
+    462,
+    546
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "pipas,",
+   "contando": false,
+   "r": [
+    479,
+    435,
+    675,
+    546
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "pavo",
+   "contando": false,
+   "r": [
+    96,
+    519,
+    254,
+    630
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    271,
+    519,
+    311,
+    630
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "lomo.",
+   "contando": false,
+   "r": [
+    328,
+    519,
+    510,
+    630
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    146,
+    766
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Cacahuetes:",
+   "contando": false,
+   "r": [
+    96,
+    768,
+    495,
+    878
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    512,
+    768,
+    644,
+    878
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "proteína",
+   "contando": false,
+   "r": [
+    662,
+    768,
+    945,
+    878
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    96,
+    852,
+    221,
+    962
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "lomo",
+   "contando": false,
+   "r": [
+    239,
+    852,
+    407,
+    962
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    424,
+    852,
+    506,
+    962
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "cerdo.",
+   "contando": false,
+   "r": [
+    524,
+    852,
+    730,
+    962
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    174,
+    1167,
+    253,
+    1203
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "28,6",
+   "contando": false,
+   "r": [
+    356,
+    1016,
+    654,
+    1275
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    660,
+    1161,
+    684,
+    1223
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    527,
+    1312
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Lomo de cerdo asado",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    310,
+    1349
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "28,6 g",
+   "contando": false,
+   "r": [
+    866,
+    1312,
+    950,
+    1358
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Cacahuetes",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    210,
+    1399
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "25,8 g",
+   "contando": false,
+   "r": [
+    868,
+    1362,
+    950,
+    1408
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    350,
+    190,
+    463
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    208,
+    350,
+    363,
+    463
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    381,
+    350,
+    508,
+    463
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "sirve",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    258,
+    549
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    276,
+    436,
+    339,
+    549
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "proteína?",
+   "contando": false,
+   "r": [
+    357,
+    436,
+    683,
+    549
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    433,
+    772
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    96,
+    790,
+    229,
+    919
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "proteínas",
+   "contando": false,
+   "r": [
+    250,
+    790,
+    617,
+    919
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "contribuyen",
+   "contando": false,
+   "r": [
+    96,
+    887,
+    573,
+    1016
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    96,
+    985,
+    141,
+    1114
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "conservar",
+   "contando": false,
+   "r": [
+    161,
+    985,
+    549,
+    1114
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    569,
+    985,
+    643,
+    1114
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "masa",
+   "contando": false,
+   "r": [
+    96,
+    1082,
+    295,
+    1211
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "muscular.",
+   "contando": false,
+   "r": [
+    315,
+    1082,
+    696,
+    1211
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    948,
+    1420
+   ]
+  },
+  {
+   "t": 22.033,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    776,
+    453,
+    892
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    472,
+    776,
+    513,
+    892
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    532,
+    776,
+    712,
+    892
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "vive",
+   "contando": false,
+   "r": [
+    730,
+    776,
+    862,
+    892
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    96,
+    866,
+    172,
+    982
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "pechuga",
+   "contando": false,
+   "r": [
+    191,
+    866,
+    472,
+    982
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    490,
+    866,
+    566,
+    982
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "pavo.",
+   "contando": false,
+   "r": [
+    585,
+    866,
+    756,
+    982
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    201,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    211,
+    1175,
+    257,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    291,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "noche:",
+   "contando": false,
+   "r": [
+    301,
+    1175,
+    393,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    403,
+    1175,
+    426,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "fruta",
+   "contando": false,
+   "r": [
+    436,
+    1175,
+    499,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    509,
+    1175,
+    562,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "dulce",
+   "contando": false,
+   "r": [
+    571,
+    1175,
+    646,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    656,
+    1175,
+    698,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "frutero.",
+   "contando": false,
+   "r": [
+    708,
+    1175,
+    809,
+    1216
+   ]
+  },
+  {
+   "t": 25.333,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.6,
+  5.0,
+  10.033,
+  11.433,
+  15.5,
+  16.9,
+  22.033,
+  25.333
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.65,
+  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "efectos_por_tipo": {
+   "tic": 9,
+   "tac": 3,
+   "sello": 3,
+   "ding": 2,
+   "contador": 20,
+   "whoosh": 4,
+   "golpe": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 25.912,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 329,
+   "texto": "Pipas de calabaza: más proteína que pechuga de pavo. ¡Verdadero! Por una décima. Pechuga de pollo y de pavo: ni un gramo de diferencia. ¡Verdadero! Cacahuetes: más proteína que lomo de cerdo. ¡Falso! ¿Y para qué sirve la proteína? Las proteínas contribuyen a conservar la masa muscular. Mándaselo a quien vive de pechuga de pavo.",
+   "duracion_voz_s": 24.64,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Pipas de calabaza: más proteína que pechuga de pavo.",
+     "t0": 0.0213,
+     "t1": 2.9663
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero! Por una décima.",
+     "t0": 3.6813,
+     "t1": 5.2763
+    },
+    {
+     "id": "a1",
+     "texto": "Pechuga de pollo y de pavo: ni un gramo de diferencia.",
+     "t0": 6.4713,
+     "t1": 9.4113
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero!",
+     "t0": 10.1063,
+     "t1": 10.6663
+    },
+    {
+     "id": "a2",
+     "texto": "Cacahuetes: más proteína que lomo de cerdo.",
+     "t0": 12.2113,
+     "t1": 14.8863
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso!",
+     "t0": 15.5813,
+     "t1": 16.1013
+    },
+    {
+     "id": "c",
+     "texto": "¿Y para qué sirve la proteína? Las proteínas contribuyen a conservar la masa muscular.",
+     "t0": 17.5313,
+     "t1": 21.9713
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien vive de pechuga de pavo.",
+     "t0": 22.5113,
+     "t1": 24.4313
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.01
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.604,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.586,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.036,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.661,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.701,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.911,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.011,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.111,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.211,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.311,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.411,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.511,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 6.101,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.071,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.051,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.031,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.481,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 10.086,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 10.126,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 10.336,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.436,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.536,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.636,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.736,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.836,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.936,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 11.826,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.811,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.659,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.506,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.956,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 15.561,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 15.601,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 15.811,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.911,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.011,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.111,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.211,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 16.311,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.241,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 22.071,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 24.531,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 778,
+ "tiempo_render_s": 47.2,
+ "tiempos_s": {
+  "preparar": 0.87,
+  "dibujar_y_codificar": 42.33
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 25.9333,
+  "loop": 25.4333,
+  "conc": {
+   "t_in": 17.241,
+   "palabras": [
+    19.1713,
+    19.3313,
+    19.8913,
+    20.4913,
+    20.6513,
+    21.0913,
+    21.2513,
+    21.4913
+   ],
+   "palabras_g": [
+    17.5313,
+    17.7313,
+    17.9713,
+    18.0913,
+    18.3713,
+    18.4513
+   ],
+   "t_sal": 18.041,
+   "t_frase": 22.041
+  },
+  "fin": {
+   "t_in": 22.071,
+   "palabras": [
+    22.5113,
+    23.1113,
+    23.1913,
+    23.3913,
+    23.5913,
+    23.7113,
+    24.0713,
+    24.1913
+   ],
+   "palabras_an": [
+    24.531,
+    24.531,
+    24.531,
+    24.531,
+    24.531,
+    24.531,
+    24.531,
+    24.531,
+    24.531,
+    24.531
+   ],
+   "t_an": 24.531
+  },
+  "iconos": [
+   [
+    -1.0,
+    6.051
+   ],
+   [
+    6.051,
+    11.776
+   ],
+   [
+    11.776,
+    17.241
+   ],
+   [
+    17.241,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 24.431,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 3.036,
+    "tv": 3.661,
+    "pasos": [
+     0.621,
+     1.604,
+     2.586
+    ],
+    "t_out": 6.051
+   },
+   {
+    "t_in": 6.351,
+    "t0": 6.471,
+    "buzz": 9.481,
+    "tv": 10.086,
+    "pasos": [
+     7.071,
+     8.051,
+     9.031
+    ],
+    "t_out": 11.776
+   },
+   {
+    "t_in": 12.076,
+    "t0": 12.211,
+    "buzz": 14.956,
+    "tv": 15.561,
+    "pasos": [
+     12.811,
+     13.659,
+     14.506
+    ],
+    "t_out": 17.741
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 2.9333,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 3.8667,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 5.0,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.9333,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 9.3667,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 10.3,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 11.4333,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 12.6667,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 14.8667,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 15.7667,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 16.9,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 17.7333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 22.0333,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 22.5667,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 25.3333,
+   "que": "cierre"
+  },
+  {
+   "t": 25.9,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

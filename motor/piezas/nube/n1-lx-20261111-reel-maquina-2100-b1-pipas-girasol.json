@@ -1,0 +1,107 @@
+{
+  "id": "n1-lx-20261111-reel-maquina-2100-b1-pipas-girasol",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-022",
+    "VIT-021"
+  ],
+  "titulo": "[REEL-MAQUINA] Ranking B1: el número uno no es carne.",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "El quiz de la noche",
+      "titulo": "Ranking B1: el número uno no es carne.",
+      "texto": "vitamina B1 (tiamina) · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "pistachos crudos",
+          "valor": "0,87"
+        },
+        {
+          "nombre": "jamón cocido",
+          "valor": "0,63"
+        },
+        {
+          "nombre": "pipas de girasol peladas secas",
+          "valor": "1,48"
+        },
+        {
+          "nombre": "lomo de cerdo asado solo magro",
+          "valor": "1,02"
+        }
+      ],
+      "unidad": "mg",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Pipas de girasol peladas secas",
+      "cifra": "1,48",
+      "unidad": "mg",
+      "titulo": "¿Y el número uno?"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "La tiamina contribuye al funcionamiento normal del sistema nervioso.",
+      "titulo": "¿Y para qué sirve la tiamina?",
+      "vit": "VIT-021",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de tiamina. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien deja el banco lleno de cáscaras.",
+      "texto": "Mañana por la noche: la ficha de rol del garbanzo."
+    }
+  ],
+  "pie_instagram": "Ranking B1: el número uno no es carne.\n\nPor cada 100 g, de menos a más vitamina B1 (tiamina): jamón cocido 0,63 mg, pistachos crudos 0,87 mg, lomo de cerdo asado solo magro 1,02 mg y pipas de girasol peladas secas 1,48 mg.\nLas pipas de girasol superan al lomo de cerdo en tiamina.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La tiamina contribuye al funcionamiento normal del sistema nervioso. Es una declaración autorizada en la UE para alimentos que son fuente de tiamina; no es una recomendación personal.\n\n¿Por cuál habías apostado?\nMándaselo a quien deja el banco lleno de cáscaras.\nMañana por la noche: la ficha de rol del garbanzo.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaB1 #tiamina #pipas #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 4 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. El quiz de la noche. Ranking B1: el número uno no es carne. Casillas: A, pistachos crudos, 0,87 mg; B, jamón cocido, 0,63 mg; C, pipas de girasol peladas secas, 1,48 mg; D, lomo de cerdo asado solo magro, 1,02 mg. ¿Y el número uno? La que más lleva: pipas de girasol peladas secas, 1,48 mg por 100 g. Para qué sirve: La tiamina contribuye al funcionamiento normal del sistema nervioso. Mándaselo a quien deja el banco lleno de cáscaras. Mañana por la noche: la ficha de rol del garbanzo."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-11",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261111-2100-b1-pipas-girasol",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Vitaminas",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 2.786,
+      "max": 9.326,
+      "card": 11.706,
+      "decl": 12.706,
+      "tapa": 13.701,
+      "fin": 16.159,
+      "dur": 19.5333
+    },
+    "spec": "n1-lux-20261111-2100-b1-pipas-girasol",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (VIT-022: fdcId 173864, 170184, 168233 y 170562), por 100 g y en el estado indicado: jamón cocido, pistachos crudos, lomo de cerdo asado solo magro y pipas de girasol peladas y secas. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-021); los cuatro superan el 15 % del VRN de 1,1 mg (del 57 % al 135 %). Voz sintética (IA).",
+  "ia": true
+}

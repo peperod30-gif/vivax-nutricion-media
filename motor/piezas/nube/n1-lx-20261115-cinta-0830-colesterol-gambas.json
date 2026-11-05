@@ -1,0 +1,103 @@
+{
+  "id": "n1-lx-20261115-cinta-0830-colesterol-gambas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-015"
+  ],
+  "titulo": "[CINTA] Un marisco roza a la mantequilla en colesterol",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Colesterol por 100 g",
+      "titulo": "Un marisco roza a la mantequilla en {colesterol}",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "mantequilla",
+          "valor": "215",
+          "unidad": "mg"
+        },
+        {
+          "cab": "II",
+          "nombre": "gambas cocidas",
+          "valor": "211",
+          "unidad": "mg"
+        },
+        {
+          "cab": "III",
+          "nombre": "sardinas en lata",
+          "valor": "142",
+          "unidad": "mg"
+        },
+        {
+          "cab": "IV",
+          "nombre": "pechuga de pollo asada",
+          "valor": "85",
+          "unidad": "mg"
+        },
+        {
+          "cab": "V",
+          "nombre": "ternera picada cocinada",
+          "valor": "84",
+          "unidad": "mg"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "mantequilla",
+      "cifra": "215",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y el pollo, por debajo de la ternera?",
+      "resalte": "El dato final",
+      "frase": "Pechuga de pollo asada, 85 mg. Ternera picada cocinada, 84 mg.",
+      "fuente": "El colesterol no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien pela gambas los domingos.",
+      "texto": "Mañana por la mañana: la proteína, en cuenta atrás."
+    }
+  ],
+  "pie_instagram": "Un marisco roza a la mantequilla en colesterol\n\nColesterol por 100 g: mantequilla, 215 mg; gambas cocidas, 211 mg; sardinas en lata, 142 mg; pechuga de pollo asada, 85 mg; ternera picada cocinada, 84 mg.\nPollo y ternera, a un miligramo; gambas y mantequilla, a cuatro.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPechuga de pollo asada, 85 mg. Ternera picada cocinada, 84 mg.\n\n¿Habías apostado por las gambas?\nMándaselo a quien pela gambas los domingos.\nMañana por la mañana: la proteína, en cuenta atrás.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #gambas #nutricion #cuentaatras",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Colesterol por 100 g. Un marisco roza a la mantequilla en colesterol. Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: V, ternera picada cocinada, 84 mg; IV, pechuga de pollo asada, 85 mg; III, sardinas en lata, 142 mg; II, gambas cocidas, 211 mg. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 215 mg: I, mantequilla. ¿Y el pollo, por debajo de la ternera? El dato final: Pechuga de pollo asada, 85 mg. Ternera picada cocinada, 84 mg. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien pela gambas los domingos. Mañana por la mañana: la proteína, en cuenta atrás."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261115-0830-colesterol-gambas",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261115-0830-colesterol-gambas",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-015), colesterol por 100 g y en el estado indicado. «A un miligramo» = 85 menos 84; «a cuatro» = 215 menos 211. El colesterol de un alimento y el de la sangre no son lo mismo. El colesterol no tiene declaración de salud autorizada en el Reglamento (UE) nº 432/2012: la conclusión es una lectura de la tabla. Voz sintética (IA).",
+  "ia": true
+}
