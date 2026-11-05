@@ -1,0 +1,408 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 4-nov-2026 17:56: «Sí, quítalas todas» (las piezas antiguas de estilo g y v3) y 5-nov: cambio de foco y de letra; las antiguas con autoaprobar volvían a la cola solas por el autopiloto, así que se rechazan",
+  "texto": "Descarto 99 piezas antiguas (estilo g, v3 y v4) para que el autopiloto no las vuelva a meter en la cola cuando quede un hueco libre.",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-v3-quiz-r2-proteina-desayuno"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v3-quiz-r2-proteina-desayuno"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v-09-b5"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1020c-dietas-famosas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1020d-huevo-colesterol"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1021c-cambios-desayuno"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1021d-reels-o-carruseles"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1022c-fruta-menos-hidratos"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1022d-zumo-para-cuidarme"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1023a-platano-no-es-el-rey"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1023c-comidas-taper"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1023d-ayuno-intermitente"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1024a-azucar-libre"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1024c-desayunos-salados"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1024d-mito-hashtags"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1025a-low-carb-lo-que-cambia"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1025c-cambios-merienda"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1025d-grasa-saturada"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1026c-que-lleva-mas-hidratos"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1026d-colaboraciones"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1027c-reyes-fibra"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1027d-mito-colesterol"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1028d-oferta-semana-contenido"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1029a-mito-cerebro-glucosa"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1029c-cenas-calientes"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1029d-miel-natural"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1030a-cambios-guarnicion"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1030d-aceites-semillas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-sr-1020b-reyes-proteina"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-sr-1029b-que-lleva-mas-sodio"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-sr-1030b-reyes-fibra"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1031b-truco-o-trato-azucar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1031d-lo-que-la-ley-no-te-deja-publicar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1101a-low-carb-adelgaza-mas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1101b-zumo-o-cola"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1101d-menos-sal-menos-riesgo"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1102a-suplementos-con-tope"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1102d-sois-8683"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1103a-la-grasa-engorda"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1103c-fruta-con-menos-azucar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1103d-importa-el-tipo-de-ldl"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1104a-vitamina-que-estropea-la-luz"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1104d-carruseles-reciclados"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1105a-la-keto-cura-la-diabetes"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1105c-bacon-proteina"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1105d-aguacate-y-crema-de-cacao"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1106a-cereales-mas-hidratos-que-miel"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1106d-refresco-zero-o-normal"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1107a-calorias-por-gramo"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1107c-un-dia-pocos-hidratos"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1107d-4-preguntas-antes-de-contratar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1108a-la-insulina-inflama"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1108c-3-sitios-con-azucar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1108d-dietas-milagro"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1109a-pera-mas-fibra-que-lechuga"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1109c-el-porcentaje-de-la-etiqueta"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1109d-3-ideas-para-publicar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1110a-ultraprocesados-engordan"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1110c-desayuno-dulce-cambios"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1110d-comer-cada-3-horas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1111a-naranja-no-es-la-reina"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1111c-comida-rapida-en-casa"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1111d-tu-bio-no-trae-pacientes"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1112a-fruta-mas-dulce"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1112c-3-clasicos-para-el-finde"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1112d-atun-escurrido"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1113a-vitamina-e-pipas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1113c-keto-lo-que-no-te-cuentan"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1113d-saltarse-el-desayuno"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1114a-cerebro-solo-glucosa"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1114c-desayuno-dulce-con-sal"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1114d-asi-preparamos-tu-contenido"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1115a-hiperproteica-adelgaza-mucho-mas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1115c-taper-lunes-a-jueves"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-1115d-sirve-un-multivitaminico"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v3-quiz-azucar"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v3-ranking-fibra"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v3-quiz-1026c-que-lleva-mas-hidratos"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v3-quiz-1105c-bacon-proteina"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-aperitivo-calorias"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-cambio-galletas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-cambio-pistachos"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-cambio-platano-b6"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-galletas-hidratos"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-hamburguesa-salchicha"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-hierro-lentejas-ternera"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-mito-arroz-grano-entero"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-mito-chocolate-negro"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-mito-muslo-pechuga"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-mito-pan-tostado"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-palomitas-fibra"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-proteina-desayuno"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-tostada-calorias"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-untables-calorias"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-g-r2-vitamina-b5"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v4-cambio-azucar-mermelada"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v4-quiz-latas-tres-voz"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v4-cambio-vitamina-c-naranja"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v4-mito-azucar-fruta"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-v4-quiz-potasio-platano"
+    }
+  ]
+}
