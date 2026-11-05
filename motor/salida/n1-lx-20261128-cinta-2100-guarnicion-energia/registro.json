@@ -1,0 +1,1418 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 22.84,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 4.32,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.433,
+ "n_cambios_visuales": 425,
+ "bucle_dif_ultimo_primero": 85.4,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Apuesta: ¿qué guarnición trae más kilocalorías?",
+   "contando": false,
+   "r": [
+    96,
+    337,
+    949,
+    530
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    236,
+    519
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "patata cocida",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    529,
+    383
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "87",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    433,
+    589
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    438,
+    500,
+    495,
+    549
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 4.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    230,
+    519
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "cuscús cocido",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    546,
+    383
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "112",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    477,
+    589
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    482,
+    500,
+    539,
+    549
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "patata cocida",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    430,
+    1361
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "87",
+   "contando": false,
+   "r": [
+    872,
+    1321,
+    908,
+    1373
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 6.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    186,
+    519
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "arroz blanco cocido",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    655,
+    383
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "130",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    498,
+    589
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    502,
+    500,
+    559,
+    549
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "cuscús cocido",
+   "contando": false,
+   "r": [
+    246,
+    1252,
+    445,
+    1281
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "patata cocida",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    430,
+    1361
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "87",
+   "contando": false,
+   "r": [
+    872,
+    1321,
+    908,
+    1373
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 8.3,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    141,
+    519
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "pasta cocida",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    517,
+    383
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "158",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    511,
+    616
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    516,
+    515,
+    581,
+    570
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "arroz blanco cocido",
+   "contando": false,
+   "r": [
+    246,
+    1172,
+    537,
+    1201
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "130",
+   "contando": false,
+   "r": [
+    853,
+    1161,
+    908,
+    1213
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1175,
+    950,
+    1207
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "cuscús cocido",
+   "contando": false,
+   "r": [
+    246,
+    1252,
+    445,
+    1281
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "112",
+   "contando": false,
+   "r": [
+    859,
+    1241,
+    908,
+    1293
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1255,
+    950,
+    1287
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "patata cocida",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    430,
+    1361
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "87",
+   "contando": false,
+   "r": [
+    872,
+    1321,
+    908,
+    1373
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    141,
+    519
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "pasta cocida",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    517,
+    383
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "158",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    511,
+    616
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    516,
+    515,
+    581,
+    570
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "pasta cocida",
+   "contando": false,
+   "r": [
+    246,
+    1092,
+    419,
+    1121
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "arroz blanco cocido",
+   "contando": false,
+   "r": [
+    246,
+    1172,
+    537,
+    1201
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "130",
+   "contando": false,
+   "r": [
+    853,
+    1161,
+    908,
+    1213
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1175,
+    950,
+    1207
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "cuscús cocido",
+   "contando": false,
+   "r": [
+    246,
+    1252,
+    445,
+    1281
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "112",
+   "contando": false,
+   "r": [
+    859,
+    1241,
+    908,
+    1293
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1255,
+    950,
+    1287
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "patata cocida",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    430,
+    1361
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "87",
+   "contando": false,
+   "r": [
+    872,
+    1321,
+    908,
+    1373
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    912,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 13.033,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "La patata cocida, la que menos suma.",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    902,
+    577
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "Lo que dice el dato",
+   "contando": false,
+   "r": [
+    174,
+    1054,
+    519,
+    1084
+   ]
+  },
+  {
+   "t": 14.1,
+   "texto": "Pasta cocida, 158 kcal; patata cocida, 87 kcal. Por 100 g del alimento, no por ración.",
+   "contando": false,
+   "r": [
+    96,
+    1098,
+    892,
+    1455
+   ]
+  },
+  {
+   "t": 19.833,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 19.833,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 19.833,
+   "texto": "La patata cocida, la que menos suma.",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    902,
+    577
+   ]
+  },
+  {
+   "t": 19.833,
+   "texto": "Lo que dice el dato",
+   "contando": false,
+   "r": [
+    174,
+    1054,
+    519,
+    1084
+   ]
+  },
+  {
+   "t": 19.833,
+   "texto": "Pasta cocida, 158 kcal; patata cocida, 87 kcal. Por 100 g del alimento, no por ración.",
+   "contando": false,
+   "r": [
+    96,
+    1098,
+    892,
+    1455
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "Mándaselo a quien elige el menú por la guarnición.",
+   "contando": false,
+   "r": [
+    96,
+    824,
+    898,
+    1110
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "Mañana por la noche, otro quiz: la grasa.",
+   "contando": false,
+   "r": [
+    96,
+    1212,
+    765,
+    1244
+   ]
+  },
+  {
+   "t": 22.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  },
+  {
+   "t": 22.767,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    487,
+    796
+   ]
+  },
+  {
+   "t": 22.767,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    491,
+    318
+   ]
+  },
+  {
+   "t": 22.767,
+   "texto": "Mándaselo a quien elige el menú por la guarnición.",
+   "contando": false,
+   "r": [
+    96,
+    824,
+    898,
+    1110
+   ]
+  },
+  {
+   "t": 22.767,
+   "texto": "Mañana por la noche, otro quiz: la grasa.",
+   "contando": false,
+   "r": [
+    96,
+    1212,
+    765,
+    1244
+   ]
+  },
+  {
+   "t": 22.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  4.867,
+  6.767,
+  8.3,
+  12.4,
+  13.033,
+  14.1,
+  19.833,
+  22.0,
+  22.767
+ ],
+ "sonido": {
+  "lufs": -16.0,
+  "pico_dbtp": -3.48,
+  "recortes": 0,
+  "reduccion_max_db": 0.0,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "whoosh": 3,
+   "tic": 3,
+   "tac": 4,
+   "subida": 1,
+   "ding": 2,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 22.779,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 319,
+   "texto": "¿Qué guarnición trae más kilocalorías? Te adelanto algo: la patata, no. Patata cocida, ochenta y siete. Cuscús, ciento doce. Arroz blanco, ciento treinta. Y arriba, la pasta cocida. Ciento cincuenta y ocho kilocalorías. Son kilocalorías por cien gramos, no por ración. Mándaselo a quien elige el menú por la guarnición.",
+   "cortes": 15,
+   "silencios_s": 0.0,
+   "pausas_acortadas_s": 2.12,
+   "duracion_voz_s": 19.0
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.45
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.364,
+   "tipo": "tic",
+   "intensidad": 0.34
+  },
+  {
+   "t": 5.964,
+   "tipo": "tac",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.244,
+   "tipo": "tic",
+   "intensidad": 0.34
+  },
+  {
+   "t": 7.844,
+   "tipo": "tac",
+   "intensidad": 0.28
+  },
+  {
+   "t": 7.804,
+   "tipo": "tic",
+   "intensidad": 0.34
+  },
+  {
+   "t": 9.404,
+   "tipo": "tac",
+   "intensidad": 0.28
+  },
+  {
+   "t": 10.464,
+   "tipo": "subida",
+   "intensidad": 0.32
+  },
+  {
+   "t": 10.484,
+   "tipo": "ding",
+   "intensidad": 0.8
+  },
+  {
+   "t": 10.724,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 12.194,
+   "tipo": "sello",
+   "intensidad": 0.55
+  },
+  {
+   "t": 12.954,
+   "tipo": "tac",
+   "intensidad": 0.36
+  },
+  {
+   "t": 13.104,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 19.887,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 20.737000000000002,
+   "tipo": "pop",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 684,
+ "tiempo_render_s": 62.5,
+ "tiempos_s": {
+  "preparar": 1.94,
+  "dibujar_y_codificar": 58.42
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_cinta",
+ "linea_de_tiempo": {
+  "arr": [
+   4.364,
+   6.244,
+   7.804,
+   10.484
+  ],
+  "cap": [
+   4.314,
+   6.194,
+   7.754,
+   10.434
+  ],
+  "gl": [
+   5.164,
+   7.044,
+   8.604,
+   12.154
+  ],
+  "G": [
+   0.8,
+   0.8,
+   0.8,
+   0.8
+  ],
+  "land": [
+   5.964,
+   7.844,
+   9.404,
+   12.954
+  ],
+  "c0": 10.834,
+  "c1": 12.194,
+  "C0": 13.104,
+  "D0": 13.724,
+  "D1": 19.537,
+  "E1": 14.801,
+  "E2": 15.997,
+  "E3": 17.194,
+  "E4": 18.39,
+  "E5": 999.0,
+  "K0": 19.887,
+  "B0": 21.337,
+  "dur": 22.8,
+  "anclas": [
+   4.584,
+   6.464,
+   8.024,
+   10.804
+  ],
+  "v_top": 11.744
+ },
+ "avisos_plantilla": []
+}

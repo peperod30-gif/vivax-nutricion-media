@@ -1,0 +1,1451 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 19.68,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 3.77,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.266,
+ "n_cambios_visuales": 380,
+ "bucle_dif_ultimo_primero": 85.71,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Aquí, lo más dulce no es el donut",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    870,
+    577
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    236,
+    519
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    537,
+    383
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "7,8",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    458,
+    589
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    462,
+    500,
+    481,
+    549
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 4.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    230,
+    519
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "cruasán de mantequilla",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    701,
+    383
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "11,3",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    498,
+    589
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    502,
+    500,
+    521,
+    549
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    437,
+    1361
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "7,8",
+   "contando": false,
+   "r": [
+    890,
+    1321,
+    934,
+    1373
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 6.133,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    186,
+    519
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    571,
+    383
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "22,8",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    532,
+    589
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    537,
+    500,
+    555,
+    549
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "cruasán de mantequilla",
+   "contando": false,
+   "r": [
+    246,
+    1252,
+    575,
+    1281
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "11,3",
+   "contando": false,
+   "r": [
+    877,
+    1244,
+    934,
+    1296
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1258,
+    950,
+    1290
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    437,
+    1361
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "7,8",
+   "contando": false,
+   "r": [
+    890,
+    1321,
+    934,
+    1373
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 7.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    141,
+    519
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "mermelada",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    481,
+    383
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "48,5",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    563,
+    616
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    568,
+    515,
+    589,
+    570
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    246,
+    1172,
+    467,
+    1201
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "22,8",
+   "contando": false,
+   "r": [
+    869,
+    1161,
+    934,
+    1213
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1175,
+    950,
+    1207
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "cruasán de mantequilla",
+   "contando": false,
+   "r": [
+    246,
+    1252,
+    575,
+    1281
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "11,3",
+   "contando": false,
+   "r": [
+    877,
+    1241,
+    934,
+    1293
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1255,
+    950,
+    1287
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    437,
+    1361
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "7,8",
+   "contando": false,
+   "r": [
+    890,
+    1321,
+    934,
+    1373
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 11.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    317,
+    141,
+    519
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "mermelada",
+   "contando": false,
+   "r": [
+    310,
+    351,
+    481,
+    383
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "48,5",
+   "contando": false,
+   "r": [
+    302,
+    387,
+    563,
+    616
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    568,
+    515,
+    589,
+    570
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    96,
+    1089,
+    108,
+    1141
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "mermelada",
+   "contando": false,
+   "r": [
+    246,
+    1092,
+    391,
+    1121
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    96,
+    1169,
+    121,
+    1221
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    246,
+    1172,
+    467,
+    1201
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "22,8",
+   "contando": false,
+   "r": [
+    869,
+    1161,
+    934,
+    1213
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1175,
+    950,
+    1207
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    96,
+    1249,
+    133,
+    1301
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "cruasán de mantequilla",
+   "contando": false,
+   "r": [
+    246,
+    1252,
+    575,
+    1281
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "11,3",
+   "contando": false,
+   "r": [
+    877,
+    1241,
+    934,
+    1293
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1255,
+    950,
+    1287
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    134,
+    1381
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    246,
+    1332,
+    437,
+    1361
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "7,8",
+   "contando": false,
+   "r": [
+    890,
+    1321,
+    934,
+    1373
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    937,
+    1335,
+    950,
+    1367
+   ]
+  },
+  {
+   "t": 12.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "¿Y la fruta fresca?",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    876,
+    474
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    1054,
+    407,
+    1084
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Fresas, 4,9 g de azúcares.",
+   "contando": false,
+   "r": [
+    96,
+    1098,
+    621,
+    1292
+   ]
+  },
+  {
+   "t": 16.633,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 16.633,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 16.633,
+   "texto": "¿Y la fruta fresca?",
+   "contando": false,
+   "r": [
+    96,
+    333,
+    876,
+    474
+   ]
+  },
+  {
+   "t": 16.633,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    1054,
+    407,
+    1084
+   ]
+  },
+  {
+   "t": 16.633,
+   "texto": "Fresas, 4,9 g de azúcares.",
+   "contando": false,
+   "r": [
+    96,
+    1098,
+    621,
+    1292
+   ]
+  },
+  {
+   "t": 16.633,
+   "texto": "Los azúcares no tienen declaración de salud autorizada. Azúcares totales por 100 g (USDA); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1409,
+    899,
+    1459
+   ]
+  },
+  {
+   "t": 18.767,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 18.767,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 18.767,
+   "texto": "Mándaselo a quien apostaba por el donut.",
+   "contando": false,
+   "r": [
+    96,
+    824,
+    826,
+    1025
+   ]
+  },
+  {
+   "t": 18.767,
+   "texto": "Mañana por la mañana: el colesterol, en cuenta atrás.",
+   "contando": false,
+   "r": [
+    96,
+    1212,
+    855,
+    1274
+   ]
+  },
+  {
+   "t": 18.767,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Cuenta atrás de la mañana",
+   "contando": false,
+   "r": [
+    242,
+    774,
+    578,
+    796
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Azúcares por 100 g",
+   "contando": false,
+   "r": [
+    174,
+    288,
+    514,
+    318
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Mándaselo a quien apostaba por el donut.",
+   "contando": false,
+   "r": [
+    96,
+    824,
+    826,
+    1025
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Mañana por la mañana: el colesterol, en cuenta atrás.",
+   "contando": false,
+   "r": [
+    96,
+    1212,
+    855,
+    1274
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1420,
+    282,
+    1463
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  4.167,
+  6.133,
+  7.8,
+  11.4,
+  12.4,
+  13.467,
+  16.633,
+  18.767,
+  19.6
+ ],
+ "sonido": {
+  "lufs": -16.0,
+  "pico_dbtp": -3.87,
+  "recortes": 0,
+  "reduccion_max_db": 0.0,
+  "tiempo_reduccion_mas_1db_pct": 0.0,
+  "efectos_por_tipo": {
+   "whoosh": 3,
+   "tic": 3,
+   "tac": 4,
+   "subida": 1,
+   "ding": 2,
+   "sello": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 19.612,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 299,
+   "texto": "Aquí, lo más dulce no es el donut. Del cuatro al uno. Copos de maíz, siete coma ocho. Cruasán, once coma tres. Donut, veintidós coma ocho. Arriba, mermelada: cuarenta y ocho coma cinco gramos. ¿Y la fruta fresca? Fresas, cuatro coma nueve gramos de azúcares. Mándaselo a quien apostaba por el donut.",
+   "cortes": 15,
+   "silencios_s": 0.28,
+   "pausas_acortadas_s": 2.31,
+   "duracion_voz_s": 18.85
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.0,
+   "limitador_max_db": 0.0
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.05,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.661,
+   "tipo": "tic",
+   "intensidad": 0.34
+  },
+  {
+   "t": 5.261,
+   "tipo": "tac",
+   "intensidad": 0.28
+  },
+  {
+   "t": 5.621,
+   "tipo": "tic",
+   "intensidad": 0.34
+  },
+  {
+   "t": 7.221,
+   "tipo": "tac",
+   "intensidad": 0.28
+  },
+  {
+   "t": 7.301,
+   "tipo": "tic",
+   "intensidad": 0.34
+  },
+  {
+   "t": 8.901,
+   "tipo": "tac",
+   "intensidad": 0.28
+  },
+  {
+   "t": 9.641,
+   "tipo": "subida",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.661,
+   "tipo": "ding",
+   "intensidad": 0.8
+  },
+  {
+   "t": 9.901,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 11.211,
+   "tipo": "sello",
+   "intensidad": 0.55
+  },
+  {
+   "t": 12.331,
+   "tipo": "tac",
+   "intensidad": 0.36
+  },
+  {
+   "t": 12.481,
+   "tipo": "whoosh",
+   "intensidad": 0.34
+  },
+  {
+   "t": 16.678,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 17.528000000000002,
+   "tipo": "pop",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 589,
+ "tiempo_render_s": 56.8,
+ "tiempos_s": {
+  "preparar": 0.91,
+  "dibujar_y_codificar": 51.7
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_cinta",
+ "linea_de_tiempo": {
+  "arr": [
+   3.661,
+   5.621,
+   7.301,
+   9.661
+  ],
+  "cap": [
+   3.611,
+   5.571,
+   7.251,
+   9.611
+  ],
+  "gl": [
+   4.461,
+   6.421,
+   8.101,
+   11.531
+  ],
+  "G": [
+   0.8,
+   0.8,
+   0.8,
+   0.8
+  ],
+  "land": [
+   5.261,
+   7.221,
+   8.901,
+   12.331
+  ],
+  "c0": 10.011,
+  "c1": 11.211,
+  "C0": 12.481,
+  "D0": 13.748,
+  "D1": 16.328,
+  "E1": 14.113,
+  "E2": 15.246,
+  "E3": 999.0,
+  "E4": 999.0,
+  "E5": 999.0,
+  "K0": 16.678,
+  "B0": 18.128,
+  "dur": 19.6333,
+  "anclas": [
+   3.881,
+   5.841,
+   7.521,
+   9.981
+  ],
+  "v_top": 10.761
+ },
+ "avisos_plantilla": []
+}

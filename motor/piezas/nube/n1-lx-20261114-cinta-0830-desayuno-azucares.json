@@ -1,0 +1,98 @@
+{
+  "id": "n1-lx-20261114-cinta-0830-desayuno-azucares",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-086",
+    "ALI-120"
+  ],
+  "titulo": "[CINTA] Aquí, lo más dulce no es el donut",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Azúcares por 100 g",
+      "titulo": "Aquí, lo más dulce no es el donut",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "mermelada",
+          "valor": "48,5",
+          "unidad": "g"
+        },
+        {
+          "cab": "II",
+          "nombre": "donut glaseado",
+          "valor": "22,8",
+          "unidad": "g"
+        },
+        {
+          "cab": "III",
+          "nombre": "cruasán de mantequilla",
+          "valor": "11,3",
+          "unidad": "g"
+        },
+        {
+          "cab": "IV",
+          "nombre": "copos de maíz",
+          "valor": "7,8",
+          "unidad": "g"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "mermelada",
+      "cifra": "48,5",
+      "unidad": "g"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y la fruta fresca?",
+      "resalte": "El dato final",
+      "frase": "Fresas, 4,9 g de azúcares.",
+      "fuente": "Los azúcares no tienen declaración de salud autorizada. Azúcares totales por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien apostaba por el donut.",
+      "texto": "Mañana por la mañana: el colesterol, en cuenta atrás."
+    }
+  ],
+  "pie_instagram": "Aquí, lo más dulce no es el donut\n\nAzúcares por 100 g: mermelada, 48,5 g; donut glaseado, 22,8 g; cruasán de mantequilla, 11,3 g; copos de maíz, 7,8 g.\nLa mermelada lleva más del doble de azúcares que el donut glaseado.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nFresas, 4,9 g de azúcares.\n\n¿Habías apostado por el donut?\nMándaselo a quien apostaba por el donut.\nMañana por la mañana: el colesterol, en cuenta atrás.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #desayuno #nutricion #cuentaatras",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Azúcares por 100 g. Aquí, lo más dulce no es el donut. Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: IV, copos de maíz, 7,8 g; III, cruasán de mantequilla, 11,3 g; II, donut glaseado, 22,8 g. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 48,5 g: I, mermelada. ¿Y la fruta fresca? El dato final: Fresas, 4,9 g de azúcares. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien apostaba por el donut. Mañana por la mañana: el colesterol, en cuenta atrás."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261114-0830-desayuno-azucares",
+    "pilar_plan": "Debates con datos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261114-0830-desayuno-azucares",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-086 y ALI-120), azúcares totales por 100 g; las fresas, crudas. «Más del doble» = 48,5 entre 22,8 (2,1). Son azúcares totales del alimento: la etiqueta los suma todos, libres y propios. Los azúcares no tienen declaración de salud autorizada en el Reglamento (UE) nº 432/2012. Voz sintética (IA).",
+  "ia": true
+}

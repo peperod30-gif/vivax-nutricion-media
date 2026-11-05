@@ -1,0 +1,98 @@
+{
+  "id": "n1-lx-20261128-cinta-2100-guarnicion-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-129",
+    "ALI-110",
+    "ALI-112"
+  ],
+  "titulo": "[CINTA] Apuesta: ¿qué guarnición trae más kilocalorías?",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Energía por 100 g",
+      "titulo": "Apuesta: ¿qué guarnición trae más kilocalorías?",
+      "dato": "El quiz de la noche"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "pasta cocida",
+          "valor": "158",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "II",
+          "nombre": "arroz blanco cocido",
+          "valor": "130",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "III",
+          "nombre": "cuscús cocido",
+          "valor": "112",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "IV",
+          "nombre": "patata cocida",
+          "valor": "87",
+          "unidad": "kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "pasta cocida",
+      "cifra": "158",
+      "unidad": "kcal"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "La patata cocida, la que menos suma.",
+      "resalte": "Lo que dice el dato",
+      "frase": "Pasta cocida, 158 kcal; patata cocida, 87 kcal. Por 100 g del alimento, no por ración."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien elige el menú por la guarnición.",
+      "texto": "Mañana por la noche, otro quiz: la grasa."
+    }
+  ],
+  "pie_instagram": "Apuesta: ¿qué guarnición trae más kilocalorías?\n\nEnergía por 100 g: pasta cocida, 158 kcal; arroz blanco cocido, 130 kcal; cuscús cocido, 112 kcal; patata cocida, 87 kcal.\nLas cuatro, cocidas. Kilocalorías por cada 100 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPasta cocida, 158 kcal; patata cocida, 87 kcal. Por 100 g del alimento, no por ración.\n\n¿Habías puesto la patata arriba?\nMándaselo a quien elige el menú por la guarnición.\nMañana por la noche, otro quiz: la grasa.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#guarniciones #energia #pasta #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Energía por 100 g. Apuesta: ¿qué guarnición trae más kilocalorías? Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: IV, patata cocida, 87 kcal; III, cuscús cocido, 112 kcal; II, arroz blanco cocido, 130 kcal. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 158 kcal: I, pasta cocida. La patata cocida, la que menos suma. Lo que dice el dato: Pasta cocida, 158 kcal; patata cocida, 87 kcal. Por 100 g del alimento, no por ración. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien elige el menú por la guarnición. Mañana por la noche, otro quiz: la grasa."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-28",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261128-2100-guarnicion-energia",
+    "pilar_plan": "Debates con datos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261128-2100-guarnicion-energia",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-110, ALI-112 y ALI-129, banco de composición de octubre de 2026), kilocalorías por 100 g del alimento cocido, no por ración. Patata cocida, de ALI-129; arroz blanco cocido y cuscús cocido, de ALI-110 (el cuscús cocido, 112 kcal, sale igual en ALI-112); pasta cocida, de ALI-112. Las tres entradas son de la misma tabla y la misma base, por 100 g. La energía no tiene declaración autorizada en el banco: la conclusión es la lectura del dato (pasta cocida de ALI-112, patata cocida de ALI-129) con el matiz de las tres entradas («Son kilocalorías por 100 g del alimento, no por ración»), recortado para que quepa en la escena de conclusión de cualquier plantilla de la familia. Voz sintética (IA).",
+  "ia": true
+}

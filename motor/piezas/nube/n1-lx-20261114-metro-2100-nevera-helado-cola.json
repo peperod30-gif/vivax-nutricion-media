@@ -1,0 +1,107 @@
+{
+  "id": "n1-lx-20261114-metro-2100-nevera-helado-cola",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-metro",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-087",
+    "ALI-141",
+    "ALI-131"
+  ],
+  "titulo": "[METRO] ¿Qué dobla en azúcares a la cola?",
+  "hojas": [
+    {
+      "plantilla": "lx_reel",
+      "kicker": "Línea azúcares",
+      "titulo": "¿Qué dobla en azúcares a la cola?",
+      "items": [
+        "Salida"
+      ],
+      "voz": "¿Qué dobla en azúcares a la cola? Soja, dos coma cinco. Yogur griego, tres coma dos. La cola, nueve coma nueve. Y arriba, helado de vainilla: veintiuno coma dos gramos. ¿Y en kilocalorías, cuánto? Helado de vainilla, doscientas siete kilocalorías. Yogur griego, cincuenta y nueve kilocalorías. Mándaselo a quien cena helado."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "El helado de vainilla, más del doble de azúcares que la cola.",
+      "dato": "El quiz de la noche"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada IV",
+          "nombre": "Bebida de soja natural",
+          "valor": "2,5",
+          "unidad": "g"
+        },
+        {
+          "cab": "Parada III",
+          "nombre": "Yogur griego natural",
+          "valor": "3,2",
+          "unidad": "g"
+        },
+        {
+          "cab": "Parada II",
+          "nombre": "Refresco de cola",
+          "valor": "9,9",
+          "unidad": "g"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "Parada I · Fin de trayecto",
+          "nombre": "Helado de vainilla",
+          "valor": "21,2",
+          "unidad": "g"
+        }
+      ],
+      "texto": "por 100 g"
+    },
+    {
+      "plantilla": "lx_reel",
+      "resalte": "El dato final",
+      "titulo": "¿Y en kilocalorías, cuánto?",
+      "texto": "Helado de vainilla, 207 kcal. Yogur griego, 59 kcal.",
+      "fuente": "Los azúcares no tienen declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_reel",
+      "texto": "Mándaselo a quien cena helado.",
+      "dato": "Mañana por la noche: la grasa saturada, a verdadero o falso."
+    }
+  ],
+  "pie_instagram": "¿Qué dobla en azúcares a la cola?\n\nPor cada 100 g: bebida de soja natural 2,5 g, yogur griego natural 3,2 g, refresco de cola 9,9 g y helado de vainilla 21,2 g.\nEn este metro, la distancia desde la salida es la cantidad de azúcares por 100 g.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nHelado de vainilla, 207 kcal. Yogur griego, 59 kcal.\n\n¿Cuál habías dicho tú?\nMándaselo a quien cena helado. Mañana por la noche: la grasa saturada, a verdadero o falso.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#azucar #helado #nutricion #quiz",
+  "alt": [
+    "Reel en blanco, negro y verde oliva con un plano de metro dibujado en línea fina: el tren de la línea azúcares para en cada alimento y la distancia desde la salida es la cantidad por 100 g. Línea azúcares. ¿Qué dobla en azúcares a la cola? Salida. El helado de vainilla, más del doble de azúcares que la cola. El quiz de la noche. por 100 g. Bebida de soja natural 2,5 g. Yogur griego natural 3,2 g. Refresco de cola 9,9 g. por 100 g. Helado de vainilla 21,2 g. ¿Y en kilocalorías, cuánto? Helado de vainilla, 207 kcal. Yogur griego, 59 kcal. El dato final. Mándaselo a quien cena helado. Mañana por la noche: la grasa saturada, a verdadero o falso."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_metro",
+    "formato": "METRO",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "Debates con datos",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261114-2100-nevera-helado-cola",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261114-2100-nevera-helado-cola",
+    "plantilla_visual": "reel_metro",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-087, ALI-131 y ALI-141), por 100 g: azúcares totales y, en la conclusión, energía; el yogur griego es natural sin grasa. «Más del doble» y «dobla» = 21,2 entre 9,9 (2,14). Son azúcares totales del alimento, no solo añadidos. Los azúcares no tienen declaración de salud autorizada en el Reglamento (UE) nº 432/2012. Voz sintética (IA).",
+  "ia": true
+}
