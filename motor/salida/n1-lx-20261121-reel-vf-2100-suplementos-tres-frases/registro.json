@@ -1,0 +1,2814 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.01,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 2.3,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 1.767,
+ "n_cambios_visuales": 280,
+ "bucle_dif_ultimo_primero": 0.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    118,
+    765
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    164,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "multivitamínico",
+   "contando": false,
+   "r": [
+    180,
+    769,
+    619,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "diario",
+   "contando": false,
+   "r": [
+    635,
+    769,
+    797,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "bajó",
+   "contando": false,
+   "r": [
+    813,
+    769,
+    935,
+    876
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    96,
+    851,
+    181,
+    958
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    198,
+    851,
+    423,
+    958
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cardiovasculares.",
+   "contando": false,
+   "r": [
+    439,
+    851,
+    946,
+    958
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    118,
+    765
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    164,
+    876
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "multivitamínico",
+   "contando": false,
+   "r": [
+    180,
+    769,
+    619,
+    876
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "diario",
+   "contando": false,
+   "r": [
+    635,
+    769,
+    797,
+    876
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "bajó",
+   "contando": false,
+   "r": [
+    813,
+    769,
+    935,
+    876
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    96,
+    851,
+    181,
+    958
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    198,
+    851,
+    423,
+    958
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "cardiovasculares.",
+   "contando": false,
+   "r": [
+    439,
+    851,
+    946,
+    958
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "i.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    118,
+    765
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    96,
+    769,
+    164,
+    876
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "multivitamínico",
+   "contando": false,
+   "r": [
+    180,
+    769,
+    619,
+    876
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "diario",
+   "contando": false,
+   "r": [
+    635,
+    769,
+    797,
+    876
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "bajó",
+   "contando": false,
+   "r": [
+    813,
+    769,
+    935,
+    876
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    96,
+    851,
+    181,
+    958
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "eventos",
+   "contando": false,
+   "r": [
+    198,
+    851,
+    423,
+    958
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "cardiovasculares.",
+   "contando": false,
+   "r": [
+    439,
+    851,
+    946,
+    958
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    180,
+    1167,
+    246,
+    1203
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "11,0",
+   "contando": false,
+   "r": [
+    356,
+    1018,
+    572,
+    1274
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "por 1.000 personas-año",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    779,
+    1312
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Médicos con multivitamínico",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    385,
+    1349
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "11,0",
+   "contando": false,
+   "r": [
+    908,
+    1312,
+    950,
+    1357
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Médicos con placebo",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    308,
+    1399
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "10,8",
+   "contando": false,
+   "r": [
+    903,
+    1362,
+    950,
+    1407
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    129,
+    765
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    770,
+    159,
+    875
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "mayores,",
+   "contando": false,
+   "r": [
+    175,
+    770,
+    434,
+    875
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    450,
+    770,
+    500,
+    875
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "multivitamínico",
+   "contando": false,
+   "r": [
+    516,
+    770,
+    949,
+    875
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "mejoró",
+   "contando": false,
+   "r": [
+    96,
+    851,
+    293,
+    956
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "poco",
+   "contando": false,
+   "r": [
+    309,
+    851,
+    446,
+    956
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    462,
+    851,
+    513,
+    956
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "cognición.",
+   "contando": false,
+   "r": [
+    529,
+    851,
+    818,
+    956
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 9.933,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "ii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    129,
+    765
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    96,
+    770,
+    159,
+    875
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "mayores,",
+   "contando": false,
+   "r": [
+    175,
+    770,
+    434,
+    875
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    450,
+    770,
+    500,
+    875
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "multivitamínico",
+   "contando": false,
+   "r": [
+    516,
+    770,
+    949,
+    875
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "mejoró",
+   "contando": false,
+   "r": [
+    96,
+    851,
+    293,
+    956
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "poco",
+   "contando": false,
+   "r": [
+    309,
+    851,
+    446,
+    956
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    462,
+    851,
+    513,
+    956
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "cognición.",
+   "contando": false,
+   "r": [
+    529,
+    851,
+    818,
+    956
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    152,
+    1167,
+    275,
+    1203
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "0,07",
+   "contando": false,
+   "r": [
+    356,
+    1076,
+    480,
+    1187
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "unidades",
+   "contando": false,
+   "r": [
+    497,
+    1076,
+    763,
+    1187
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    780,
+    1076,
+    852,
+    1187
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "desviación",
+   "contando": false,
+   "r": [
+    356,
+    1162,
+    673,
+    1273
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "estándar",
+   "contando": false,
+   "r": [
+    689,
+    1162,
+    948,
+    1273
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "adultos de 60 o más",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    717,
+    1312
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "Cognición global",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    276,
+    1349
+   ]
+  },
+  {
+   "t": 11.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    140,
+    765
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    770,
+    194,
+    872
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "mil",
+   "contando": false,
+   "r": [
+    210,
+    770,
+    294,
+    872
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "unidades",
+   "contando": false,
+   "r": [
+    309,
+    770,
+    556,
+    872
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "diarias",
+   "contando": false,
+   "r": [
+    572,
+    770,
+    758,
+    872
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    773,
+    770,
+    839,
+    872
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    329,
+    951
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "D",
+   "contando": false,
+   "r": [
+    345,
+    849,
+    378,
+    951
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "bajaron",
+   "contando": false,
+   "r": [
+    393,
+    849,
+    599,
+    951
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    615,
+    849,
+    664,
+    951
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "cáncer",
+   "contando": false,
+   "r": [
+    96,
+    928,
+    284,
+    1030
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "invasivo.",
+   "contando": false,
+   "r": [
+    299,
+    928,
+    540,
+    1030
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    142,
+    1164,
+    285,
+    1205
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    451,
+    1164,
+    528,
+    1205
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Suplementos",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    467,
+    461
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    484,
+    351,
+    554,
+    461
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "vitaminas:",
+   "contando": false,
+   "r": [
+    96,
+    436,
+    393,
+    546
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "acierta",
+   "contando": false,
+   "r": [
+    410,
+    436,
+    611,
+    546
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    96,
+    520,
+    181,
+    630
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    198,
+    520,
+    312,
+    630
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "iii.",
+   "contando": false,
+   "r": [
+    96,
+    696,
+    140,
+    765
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    160,
+    724,
+    528,
+    754
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Dos",
+   "contando": false,
+   "r": [
+    96,
+    770,
+    194,
+    872
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "mil",
+   "contando": false,
+   "r": [
+    210,
+    770,
+    294,
+    872
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "unidades",
+   "contando": false,
+   "r": [
+    309,
+    770,
+    556,
+    872
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "diarias",
+   "contando": false,
+   "r": [
+    572,
+    770,
+    758,
+    872
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    773,
+    770,
+    839,
+    872
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    329,
+    951
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "D",
+   "contando": false,
+   "r": [
+    345,
+    849,
+    378,
+    951
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "bajaron",
+   "contando": false,
+   "r": [
+    393,
+    849,
+    599,
+    951
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    615,
+    849,
+    664,
+    951
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "cáncer",
+   "contando": false,
+   "r": [
+    96,
+    928,
+    284,
+    1030
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "invasivo.",
+   "contando": false,
+   "r": [
+    299,
+    928,
+    540,
+    1030
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    180,
+    1167,
+    246,
+    1203
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "793",
+   "contando": false,
+   "r": [
+    356,
+    1018,
+    593,
+    1274
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "casos",
+   "contando": false,
+   "r": [
+    598,
+    1170,
+    697,
+    1231
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "cáncer invasivo",
+   "contando": false,
+   "r": [
+    360,
+    1282,
+    649,
+    1312
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Con vitamina D",
+   "contando": false,
+   "r": [
+    96,
+    1329,
+    246,
+    1349
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "793 casos",
+   "contando": false,
+   "r": [
+    826,
+    1312,
+    950,
+    1357
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Con placebo",
+   "contando": false,
+   "r": [
+    96,
+    1379,
+    222,
+    1399
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "824 casos",
+   "contando": false,
+   "r": [
+    826,
+    1362,
+    950,
+    1407
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    174,
+    320,
+    525,
+    350
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    96,
+    351,
+    166,
+    465
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    182,
+    351,
+    236,
+    465
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    253,
+    351,
+    510,
+    465
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    527,
+    351,
+    562,
+    465
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "contra",
+   "contando": false,
+   "r": [
+    96,
+    439,
+    290,
+    553
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    307,
+    439,
+    361,
+    553
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "resfriado?",
+   "contando": false,
+   "r": [
+    378,
+    439,
+    684,
+    553
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    174,
+    742,
+    407,
+    772
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "Tomar",
+   "contando": false,
+   "r": [
+    96,
+    791,
+    300,
+    918
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    319,
+    791,
+    607,
+    918
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    626,
+    791,
+    666,
+    918
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    685,
+    791,
+    725,
+    918
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "diario",
+   "contando": false,
+   "r": [
+    744,
+    791,
+    935,
+    918
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    96,
+    888,
+    179,
+    1015
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "redujo",
+   "contando": false,
+   "r": [
+    198,
+    888,
+    412,
+    1015
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    432,
+    888,
+    492,
+    1015
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "riesgo",
+   "contando": false,
+   "r": [
+    512,
+    888,
+    723,
+    1015
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    742,
+    888,
+    824,
+    1015
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "resfriarse",
+   "contando": false,
+   "r": [
+    96,
+    986,
+    425,
+    1113
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    444,
+    986,
+    526,
+    1113
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    545,
+    986,
+    605,
+    1113
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "población",
+   "contando": false,
+   "r": [
+    96,
+    1083,
+    424,
+    1210
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "general",
+   "contando": false,
+   "r": [
+    443,
+    1083,
+    697,
+    1210
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "(riesgo",
+   "contando": false,
+   "r": [
+    96,
+    1181,
+    331,
+    1308
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "relativo",
+   "contando": false,
+   "r": [
+    351,
+    1181,
+    605,
+    1308
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "0,97).",
+   "contando": false,
+   "r": [
+    624,
+    1181,
+    809,
+    1308
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "Son resultados con suplementos. Fuente en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    96,
+    1369,
+    893,
+    1395
+   ]
+  },
+  {
+   "t": 22.133,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    96,
+    777,
+    428,
+    891
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    445,
+    777,
+    481,
+    891
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    499,
+    777,
+    666,
+    891
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "colecciona",
+   "contando": false,
+   "r": [
+    96,
+    867,
+    428,
+    981
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "vitaminas.",
+   "contando": false,
+   "r": [
+    445,
+    867,
+    758,
+    981
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    96,
+    1175,
+    211,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    221,
+    1175,
+    254,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    264,
+    1175,
+    289,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    298,
+    1175,
+    367,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    377,
+    1175,
+    400,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    410,
+    1175,
+    484,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    494,
+    1175,
+    609,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    619,
+    1175,
+    653,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "tu",
+   "contando": false,
+   "r": [
+    663,
+    1175,
+    689,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "nevera.",
+   "contando": false,
+   "r": [
+    698,
+    1175,
+    799,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1467,
+    232,
+    1499
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.867,
+  5.267,
+  9.933,
+  11.367,
+  16.8,
+  18.233,
+  22.133,
+  25.367
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.79,
+  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "efectos_por_tipo": {
+   "tic": 12,
+   "tac": 3,
+   "sello": 3,
+   "golpe": 2,
+   "contador": 20,
+   "whoosh": 4,
+   "ding": 1,
+   "pop": 1
+  },
+  "descartados": 0,
+  "duracion_s": 25.945,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 310,
+   "texto": "Un multivitamínico diario bajó los eventos cardiovasculares. ¡Falso! En mayores, el multivitamínico mejoró poco la cognición. ¡Verdadero! Dos mil unidades diarias de vitamina D bajaron el cáncer invasivo. ¡Falso! ¿Y la vitamina C diaria? No bajó el riesgo de resfriarse. Mándaselo a quien colecciona vitaminas.",
+   "duracion_voz_s": 24.65,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Un multivitamínico diario bajó los eventos cardiovasculares.",
+     "t0": 0.0213,
+     "t1": 3.2913
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso!",
+     "t0": 3.9363,
+     "t1": 4.3763
+    },
+    {
+     "id": "a1",
+     "texto": "En mayores, el multivitamínico mejoró poco la cognición.",
+     "t0": 6.0863,
+     "t1": 9.3663
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero!",
+     "t0": 10.0213,
+     "t1": 10.5813
+    },
+    {
+     "id": "a2",
+     "texto": "Dos mil unidades diarias de vitamina D bajaron el cáncer invasivo.",
+     "t0": 12.6913,
+     "t1": 16.2113
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso!",
+     "t0": 16.8913,
+     "t1": 17.3183
+    },
+    {
+     "id": "c",
+     "texto": "¿Y la vitamina C diaria? No bajó el riesgo de resfriarse.",
+     "t0": 18.8663,
+     "t1": 22.0313
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien colecciona vitaminas.",
+     "t0": 22.6313,
+     "t1": 24.4713
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.91
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 1.385,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.148,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 2.911,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.361,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.916,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.956,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 4.166,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.266,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.366,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.466,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.566,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.666,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.766,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 5.696,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.686,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.453,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.219,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.986,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.436,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 10.001,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 10.041,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 10.251,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.351,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.451,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.551,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.651,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.751,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 10.851,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 12.266,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.291,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.138,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.984,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.831,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.281,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 16.871,
+   "tipo": "sello",
+   "intensidad": 0.7
+  },
+  {
+   "t": 16.911,
+   "tipo": "golpe",
+   "intensidad": 0.35
+  },
+  {
+   "t": 17.121,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.221,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.321,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.421,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.521,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 17.621,
+   "tipo": "contador",
+   "intensidad": 0.2
+  },
+  {
+   "t": 18.566,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 22.171,
+   "tipo": "whoosh",
+   "intensidad": 0.38
+  },
+  {
+   "t": 24.571,
+   "tipo": "pop",
+   "intensidad": 0.26
+  }
+ ],
+ "fotogramas": 779,
+ "tiempo_render_s": 102.2,
+ "tiempos_s": {
+  "preparar": 2.12,
+  "dibujar_y_codificar": 71.03
+ },
+ "voz_de_prueba": false,
+ "linea_de_tiempo": {
+  "dur": 25.9667,
+  "loop": 25.4667,
+  "conc": {
+   "t_in": 18.566,
+   "palabras": [
+    19.516,
+    19.516,
+    19.516,
+    19.516,
+    19.516,
+    19.6048,
+    19.6751,
+    19.8861,
+    19.9565,
+    20.1675,
+    20.2378,
+    20.5895,
+    20.6598,
+    20.7301,
+    21.0466,
+    21.2928,
+    21.539,
+    21.8203
+   ],
+   "palabras_g": [
+    19.016,
+    19.016,
+    19.016,
+    19.016,
+    19.016,
+    19.016,
+    19.016
+   ],
+   "t_sal": 19.366,
+   "t_frase": 22.37
+  },
+  "fin": {
+   "t_in": 22.171,
+   "palabras": [
+    22.6313,
+    23.1513,
+    23.2313,
+    23.4313,
+    23.9383
+   ],
+   "palabras_an": [
+    24.571,
+    24.571,
+    24.571,
+    24.571,
+    24.571,
+    24.571,
+    24.571,
+    24.571,
+    24.571,
+    24.571
+   ],
+   "t_an": 24.571
+  },
+  "iconos": [
+   [
+    -1.0,
+    5.646
+   ],
+   [
+    5.646,
+    12.216
+   ],
+   [
+    12.216,
+    18.566
+   ],
+   [
+    18.566,
+    1000000000.0
+   ]
+  ],
+  "fin_voz": 24.471,
+  "avisos": [],
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 3.361,
+    "tv": 3.916,
+    "pasos": [
+     0.621,
+     1.385,
+     2.148,
+     2.911
+    ],
+    "t_out": 5.646
+   },
+   {
+    "t_in": 5.946,
+    "t0": 6.086,
+    "buzz": 9.436,
+    "tv": 10.001,
+    "pasos": [
+     6.686,
+     7.453,
+     8.219,
+     8.986
+    ],
+    "t_out": 12.216
+   },
+   {
+    "t_in": 12.516,
+    "t0": 12.691,
+    "buzz": 16.281,
+    "tv": 16.871,
+    "pasos": [
+     13.291,
+     14.138,
+     14.984,
+     15.831
+    ],
+    "t_out": 19.066
+   }
+  ]
+ },
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y afirmación I"
+  },
+  {
+   "t": 3.2667,
+   "que": "I: luz baja, reloj"
+  },
+  {
+   "t": 4.1,
+   "que": "I: veredicto"
+  },
+  {
+   "t": 5.2667,
+   "que": "I: la cifra"
+  },
+  {
+   "t": 6.5333,
+   "que": "afirmación II: barrido"
+  },
+  {
+   "t": 9.3333,
+   "que": "II: luz baja, reloj"
+  },
+  {
+   "t": 10.2,
+   "que": "II: veredicto"
+  },
+  {
+   "t": 11.3667,
+   "que": "II: la cifra"
+  },
+  {
+   "t": 13.1333,
+   "que": "afirmación III: barrido"
+  },
+  {
+   "t": 16.1667,
+   "que": "III: luz baja, reloj"
+  },
+  {
+   "t": 17.0667,
+   "que": "III: veredicto"
+  },
+  {
+   "t": 18.2333,
+   "que": "III: la cifra"
+  },
+  {
+   "t": 19.0667,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 22.1333,
+   "que": "conclusión: declaración"
+  },
+  {
+   "t": 22.6667,
+   "que": "cierre: cortina"
+  },
+  {
+   "t": 25.3667,
+   "que": "cierre"
+  },
+  {
+   "t": 25.9333,
+   "que": "bucle al fotograma 0"
+  }
+ ]
+}

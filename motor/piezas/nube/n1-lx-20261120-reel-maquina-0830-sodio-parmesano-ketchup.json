@@ -1,0 +1,108 @@
+{
+  "id": "n1-lx-20261120-reel-maquina-0830-sodio-parmesano-ketchup",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-maquina",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-020"
+  ],
+  "titulo": "[REEL-MAQUINA] Sodio: el kétchup se cuela; el uno se ralla.",
+  "hojas": [
+    {
+      "plantilla": "lx_maquina_portada",
+      "kicker": "Cuenta atrás de la mañana",
+      "titulo": "{Sodio}: el kétchup se cuela; el uno se ralla.",
+      "texto": "sodio · por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "nombre": "jamón cocido",
+          "valor": "814"
+        },
+        {
+          "nombre": "gambas cocidas",
+          "valor": "947"
+        },
+        {
+          "nombre": "kétchup",
+          "valor": "907"
+        },
+        {
+          "nombre": "parmesano",
+          "valor": "1175"
+        },
+        {
+          "nombre": "queso feta",
+          "valor": "1139"
+        }
+      ],
+      "unidad": "mg",
+      "opciones": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "plantilla": "cifra",
+      "texto": "Parmesano",
+      "cifra": "1175",
+      "unidad": "mg"
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "Para qué sirve",
+      "frase": "El kétchup lleva más sodio que el jamón cocido: 907 mg frente a 814 mg, por cada 100 g.",
+      "titulo": "¿Y el kétchup, qué hace ahí?"
+    },
+    {
+      "plantilla": "lx_maquina_cierre",
+      "titulo": "Mándaselo a quien le echa kétchup a la tortilla.",
+      "texto": "El lunes a las ocho y media: la cuenta atrás de la proteína."
+    }
+  ],
+  "pie_instagram": "Sodio: el kétchup se cuela; el uno se ralla.\n\nPor cada 100 g, de menos a más sodio: jamón cocido 814 mg, kétchup 907 mg, gambas cocidas 947 mg, queso feta 1139 mg y parmesano 1175 mg.\nPor cada 100 g, el sodio en miligramos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nEl kétchup lleva más sodio que el jamón cocido: 907 mg frente a 814 mg, por cada 100 g.\n\nMándaselo a quien le echa kétchup a la tortilla.\nEl lunes a las ocho y media: la cuenta atrás de la proteína.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sodio #sal #queso #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: una máquina expendedora dibujada en línea fina, con 5 casillas de alimentos y su etiqueta de precio; las cifras se encienden de menor a mayor y la máquina dispensa la conclusión. Cuenta atrás de la mañana. Sodio: el kétchup se cuela; el uno se ralla. Casillas: A, jamón cocido, 814 mg; B, gambas cocidas, 947 mg; C, kétchup, 907 mg; D, parmesano, 1175 mg; E, queso feta, 1139 mg. La que más lleva: parmesano, 1175 mg por 100 g. Para qué sirve: El kétchup lleva más sodio que el jamón cocido: 907 mg frente a 814 mg, por cada 100 g. Mándaselo a quien le echa kétchup a la tortilla. El lunes a las ocho y media: la cuenta atrás de la proteína."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-20",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_maquina",
+    "formato": "REEL-MAQUINA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "spec_id": "n1-lux-20261120-0830-sodio-parmesano-ketchup",
+    "mecanica": "reel_ranking",
+    "pilar_plan": "Azúcar y sal",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "tiempos": {
+      "luz": 2.071,
+      "max": 7.366,
+      "card": 10.289,
+      "decl": 12.091,
+      "tapa": 13.196,
+      "fin": 14.471,
+      "dur": 17.5
+    },
+    "spec": "n1-lux-20261120-0830-sodio-parmesano-ketchup",
+    "plantilla_visual": "reel_maquina",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-020, verificado el 11-oct-2026): sodio por 100 g (jamón cocido 814 mg; kétchup 907 mg; gambas cocidas 947 mg; queso feta 1139 mg; parmesano 1175 mg). El sodio no es lo mismo que la sal. El sodio no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}

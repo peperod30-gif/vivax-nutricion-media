@@ -1,0 +1,130 @@
+{
+  "id": "n1-lx-20261121-reel-vf-2100-suplementos-tres-frases",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "DEB-026",
+    "DEB-030",
+    "DEB-029",
+    "VIT-053"
+  ],
+  "titulo": "[REEL-VF] Suplementos de vitaminas: acierta las tres",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "Suplementos de vitaminas: acierta las tres"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "Un multivitamínico diario bajó los eventos cardiovasculares.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "11,0",
+      "unidad": "",
+      "dato": "por 1.000 personas-año",
+      "items": [
+        {
+          "nombre": "Médicos con multivitamínico",
+          "valor": "11,0"
+        },
+        {
+          "nombre": "Médicos con placebo",
+          "valor": "10,8"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "En mayores, el multivitamínico mejoró poco la cognición.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "0,07 unidades de desviación estándar",
+      "unidad": "",
+      "dato": "adultos de 60 o más",
+      "items": [
+        {
+          "nombre": "Cognición global"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "Dos mil unidades diarias de vitamina D bajaron el cáncer invasivo.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "793",
+      "unidad": "casos",
+      "dato": "cáncer invasivo",
+      "items": [
+        {
+          "nombre": "Con vitamina D",
+          "valor": "793 casos"
+        },
+        {
+          "nombre": "Con placebo",
+          "valor": "824 casos"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "El dato final",
+      "frase": "Tomar vitamina C a diario no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97).",
+      "fuente": "Son resultados con suplementos. Fuente en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Y la vitamina C contra el resfriado?"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien colecciona vitaminas.",
+      "texto": "Mañana, en el quiz: la grasa saturada de tu nevera."
+    }
+  ],
+  "pie_instagram": "Suplementos de vitaminas: acierta las tres\n\nUn multivitamínico diario bajó los eventos cardiovasculares. Falso: médicos con multivitamínico 11,0, médicos con placebo 10,8 (por 1.000 personas-año).\nEn mayores, el multivitamínico mejoró poco la cognición. Verdadero: 0,07 unidades de desviación estándar (adultos de 60 o más).\nDos mil unidades diarias de vitamina D bajaron el cáncer invasivo. Falso: con vitamina D 793 casos, con placebo 824 casos (cáncer invasivo).\n\nY el dato final: Tomar vitamina C a diario no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97). Son resultados con suplementos. Fuente en el primer comentario; no es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien colecciona vitaminas.\nMañana, en el quiz: la grasa saturada de tu nevera.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#suplementos #vitaminas #nutricion #quiz",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. Suplementos de vitaminas: acierta las tres. I. Un multivitamínico diario bajó los eventos cardiovasculares. Falso: Médicos con multivitamínico 11,0, Médicos con placebo 10,8, por 1.000 personas-año. II. En mayores, el multivitamínico mejoró poco la cognición. Verdadero: 0,07 unidades de desviación estándar, Cognición global, adultos de 60 o más. III. Dos mil unidades diarias de vitamina D bajaron el cáncer invasivo. Falso: Con vitamina D 793 casos, Con placebo 824 casos, cáncer invasivo. ¿Y la vitamina C contra el resfriado? El dato final: Tomar vitamina C a diario no redujo el riesgo de resfriarse en la población general (riesgo relativo 0,97). Mándaselo a quien colecciona vitaminas. Mañana, en el quiz: la grasa saturada de tu nevera."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury, quiz de ideas) · spec n1-lux-20261121-2100-suplementos-tres-frases",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261121-2100-suplementos-tres-frases",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261121-2100-suplementos-tres-frases",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Multivitamínico y corazón: Sesso HD y colaboradores, JAMA 2012 (DEB-026), 14.641 médicos varones de EE. UU. de 50 años o más durante una mediana de 11,2 años; eventos cardiovasculares importantes 11,0 con el multivitamínico frente a 10,8 con placebo por 1.000 personas-año (cociente de riesgos 1,01); vale para médicos varones de EE. UU. y para ese preparado. Multivitamínico y cognición: COSMOS, Vyas CM y colaboradores, AJCN 2024 (DEB-030), adultos de 60 años o más; cognición global 0,07 unidades de desviación estándar, un efecto pequeño. Vitamina D: VITAL, Manson JE y colaboradores, NEJM 2019 (DEB-029), 25.871 adultos mayores con 2.000 UI diarias durante una mediana de 5,3 años; cáncer invasivo 793 casos con vitamina D frente a 824 con placebo, sin diferencia significativa. Vitamina C: revisión Cochrane, Hemilä H y Chalker E, 2013 (VIT-053), 29 comparaciones con 11.306 participantes; en la población general, riesgo relativo 0,97; en 598 maratonianos, esquiadores y soldados en ejercicios en el subártico, 0,48. Son resultados de suplementos, no de alimentos, y no son una recomendación personal. Aviso de repetición: DEB-026 ya sale en el carrusel de debate del 10-nov (multivitaminico-debate) y DEB-029 y DEB-030 en el del 5-dic (vitaminas-pastilla-debate); no quedaban hechos libres de MIT, ETI, NOV, DEB o AZU para un quiz de suplementos. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}

@@ -24,24 +24,24 @@
     {
       "plantilla": "f_ranking",
       "kicker": "La que avisa",
-      "titulo": "Sube, y lo de {después} no se ha estudiado",
-      "dato": "En adultos de peso normal con dieta cetogénica, el LDL sube de media entre 18 y 70 mg/dL a corto plazo.",
+      "titulo": "Sube; a la larga, sin {datos}",
+      "dato": "En adultos sanos con keto, el LDL sube de media entre 18 y 70 mg/dL en poco tiempo.",
       "cifra": "70",
       "unidad": "mg/dL",
-      "fuente": "DiMattia y Petersen, JAHA, 2026",
+      "fuente": "Journal of the American Heart Association, 2026",
       "resalte": "Letra pequeña",
-      "texto": "Réplica: podría ser benigna en personas metabólicamente sanas; según los autores, falta evidencia."
+      "texto": "Hay quien cree que en gente sana es inofensivo; los autores dicen que faltan pruebas."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "La que tranquiliza",
-      "titulo": "LDL de 272 durante 4,7 años, y no más {placa}",
-      "dato": "Personas metabólicamente sanas con un LDL medio de 272 mg/dL no tenían más placa que otras con 149 mg/dL menos.",
+      "titulo": "LDL de 272, y no más {placa}",
+      "dato": "Gente sana con un LDL medio de 272 mg/dL no tenía más placa que otra con 149 mg/dL menos.",
       "cifra": "272",
       "unidad": "mg/dL",
-      "fuente": "Budoff y cols., JACC Advances, 2024",
+      "fuente": "JACC Advances, 2024",
       "resalte": "Letra pequeña",
-      "texto": "Réplica: no se repartió al azar y eran personas escogidas."
+      "texto": "Pero eran personas escogidas y los grupos no se sortearon."
     },
     {
       "plantilla": "f_ranking",
@@ -51,13 +51,13 @@
       "items": [
         {
           "nombre": "La que avisa",
-          "texto": "Sube, y lo de {después} no se ha estudiado",
+          "texto": "Sube; a la larga, sin {datos}",
           "valor": "70",
           "unidad": "mg/dL"
         },
         {
           "nombre": "La que tranquiliza",
-          "texto": "LDL de 272 durante 4,7 años, y no más {placa}",
+          "texto": "LDL de 272, y no más {placa}",
           "valor": "272",
           "unidad": "mg/dL"
         }
@@ -67,35 +67,35 @@
       "plantilla": "f_ranking",
       "kicker": "El matiz",
       "frase": "Depende",
-      "titulo": "de quién y de cuánto tiempo: eran personas sanas y escogidas, 4,7 años.",
-      "dato": "Según la comparación KETO (JACC Advances)."
+      "titulo": "de quién y de cuánto tiempo: personas sanas y escogidas, 4,7 años de media.",
+      "dato": "Según la comparación KETO."
     },
     {
       "plantilla": "f_frase",
       "titulo": "¿Cierra esto el debate?",
       "resalte": "Lo que dice el dato",
-      "frase": "No: con 80 personas, que la diferencia no sea significativa no demuestra que no exista.",
+      "frase": "Todavía no: con tan pocas personas, no ver diferencia no prueba que no la haya.",
       "fuente": "Es un dato de una de las posturas del debate, no un veredicto. No es una recomendación personal: con el LDL alto, consulta con tu médico."
     },
     {
       "plantilla": "f_ranking",
       "kicker": "En una frase",
-      "titulo": "{Depende} de quién y de cuánto tiempo: eran personas sanas y escogidas, 4,7 años.",
+      "titulo": "{Depende} de quién y de cuánto tiempo: personas sanas y escogidas, 4,7 años de media.",
       "texto": "Mándaselo a quien discute de keto en cada cena.",
       "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
-      "fuente": "Según la comparación KETO (JACC Advances).",
+      "fuente": "Según la comparación KETO.",
       "dato": "Mañana por la tarde, otro mito o dato: el colesterol, ¿villano o necesario?"
     }
   ],
-  "pie_instagram": "LDL de 272 con keto: ¿más placa o no?\n\nLa que avisa: En adultos de peso normal con dieta cetogénica, el LDL sube de media entre 18 y 70 mg/dL a corto plazo. Letra pequeña: réplica: podría ser benigna en personas metabólicamente sanas; según los autores, falta evidencia.\nLa que tranquiliza: Personas metabólicamente sanas con un LDL medio de 272 mg/dL no tenían más placa que otras con 149 mg/dL menos. Letra pequeña: réplica: no se repartió al azar y eran personas escogidas.\nEl matiz: Depende de quién y de cuánto tiempo: eran personas sanas y escogidas, 4,7 años. Según la comparación KETO (JACC Advances).\nY el dato final: Con esa muestra, que la diferencia no sea significativa no demuestra que no exista.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien discute de keto en cada cena.\nMañana por la tarde, otro mito o dato: el colesterol, ¿villano o necesario?\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #ldl #keto #mitoodato #nutricion",
+  "pie_instagram": "LDL de 272 con keto: ¿más placa o no?\n\nLa que avisa: En adultos sanos con keto, el LDL sube de media entre 18 y 70 mg/dL en poco tiempo. Letra pequeña: hay quien cree que en gente sana es inofensivo; los autores dicen que faltan pruebas.\nLa que tranquiliza: Gente sana con un LDL medio de 272 mg/dL no tenía más placa que otra con 149 mg/dL menos. Letra pequeña: pero eran personas escogidas y los grupos no se sortearon.\nEl matiz: Depende de quién y de cuánto tiempo: personas sanas y escogidas, 4,7 años de media. Según la comparación KETO.\nY el dato final: Con 80 personas por grupo, que no se viera diferencia no demuestra que no exista.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien discute de keto en cada cena.\nMañana por la tarde, otro mito o dato: el colesterol, ¿villano o necesario?\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #ldl #keto #mitoodato #nutricion",
   "alt": [
     "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. LDL de 272 con keto: ¿más placa o no? La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. La que avisa. Sube, y lo de después no se ha estudiado. 70 mg/dL. Réplica: podría ser benigna en personas metabólicamente sanas; según los autores, falta evidencia. En adultos de peso normal con dieta cetogénica, el LDL sube de media entre 18 y 70 mg/dL a corto plazo. Letra pequeña.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. La que tranquiliza. LDL de 272 durante 4,7 años, y no más placa. 272 mg/dL. Réplica: no se repartió al azar y eran personas escogidas. Personas metabólicamente sanas con un LDL medio de 272 mg/dL no tenían más placa que otras con 149 mg/dL menos. Letra pequeña.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Un LDL muy alto con keto quiere decir más placa en las arterias? ¿Con cuál te quedas? La que avisa 70 mg/dL Sube, y lo de después no se ha estudiado. La que tranquiliza 272 mg/dL LDL de 272 durante 4,7 años, y no más placa.",
-    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de quién y de cuánto tiempo: eran personas sanas y escogidas, 4,7 años. Según la comparación KETO (JACC Advances). Depende.",
-    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Cierra esto el debate? Lo que dice el dato. No: con 80 personas, que la diferencia no sea significativa no demuestra que no exista.",
-    "Cierre en oliva con la firma de Vivax. En una frase. Depende de quién y de cuánto tiempo: eran personas sanas y escogidas, 4,7 años. Mándaselo a quien discute de keto en cada cena. Mañana por la tarde, otro mito o dato: el colesterol, ¿villano o necesario?"
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. La que avisa. Sube; a la larga, sin datos. 70 mg/dL. Hay quien cree que en gente sana es inofensivo; los autores dicen que faltan pruebas. En adultos sanos con keto, el LDL sube de media entre 18 y 70 mg/dL en poco tiempo. Letra pequeña.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. La que tranquiliza. LDL de 272, y no más placa. 272 mg/dL. Pero eran personas escogidas y los grupos no se sortearon. Gente sana con un LDL medio de 272 mg/dL no tenía más placa que otra con 149 mg/dL menos. Letra pequeña.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. ¿Un LDL muy alto con keto quiere decir más placa en las arterias? ¿Con cuál te quedas? La que avisa 70 mg/dL Sube; a la larga, sin datos. La que tranquiliza 272 mg/dL LDL de 272, y no más placa.",
+    "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de quién y de cuánto tiempo: personas sanas y escogidas, 4,7 años de media. Según la comparación KETO. Depende.",
+    "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. ¿Cierra esto el debate? Lo que dice el dato. Todavía no: con tan pocas personas, no ver diferencia no prueba que no la haya.",
+    "Cierre en oliva con la firma de Vivax. En una frase. Depende de quién y de cuánto tiempo: personas sanas y escogidas, 4,7 años de media. Mándaselo a quien discute de keto en cada cena. Mañana por la tarde, otro mito o dato: el colesterol, ¿villano o necesario?"
   ],
   "produccion": {
     "autoaprobar": false,
@@ -115,7 +115,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: DiMattia ZS y Petersen KS, Journal of the American Heart Association 2026;15:e048903 (DEB-007, verificado el 11-oct-2026): revisión; en ensayos cortos con adultos de peso normal, subidas medias del LDL de 18 a 70 mg/dL; las consecuencias a largo plazo no se han estudiado de forma directa y los autores dicen que falta evidencia de que la subida sea benigna. Budoff M y cols., JACC Advances 2024;3:101109 (DEB-008, verificado el 11-oct-2026), estudio KETO: comparación no aleatorizada de 80 personas escogidas (HDL de 60 mg/dL o más, triglicéridos de 80 mg/dL o menos, sin hipercolesterolemia familiar) frente a 80 emparejadas con 149 mg/dL menos de LDL; calcio coronario, mediana 0 frente a 1 (P = 0,520). No se aplica a personas con hipercolesterolemia familiar. El colesterol LDL no tiene declaración de salud autorizada: la conclusión es el matiz de DEB-008. No es una recomendación personal.",
+  "comentario": "Fuentes: DiMattia ZS y Petersen KS, Journal of the American Heart Association 2026;15:e048903 (DEB-007, verificado el 11-oct-2026): revisión; en ensayos cortos con adultos sanos de peso normal, subidas medias del LDL de 18 a 70 mg/dL; las consecuencias a largo plazo no se han estudiado de forma directa y los autores dicen que falta evidencia de que la subida sea benigna. Budoff M y cols., JACC Advances 2024;3:101109 (DEB-008, verificado el 11-oct-2026), estudio KETO: comparación no aleatorizada («los grupos no se sortearon») de 80 personas escogidas (HDL de 60 mg/dL o más, triglicéridos de 80 mg/dL o menos, sin hipercolesterolemia familiar) frente a 80 emparejadas con 149 mg/dL menos de LDL; calcio coronario, mediana 0 frente a 1 (P = 0,520). No se aplica a personas con hipercolesterolemia familiar. El colesterol LDL no tiene declaración de salud autorizada: la conclusión es el matiz de DEB-008. No es una recomendación personal.",
   "serie": "Mito o dato",
   "pilar_plan": "Debates con datos"
 }
