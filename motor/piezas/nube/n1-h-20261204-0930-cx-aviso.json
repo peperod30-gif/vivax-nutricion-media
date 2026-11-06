@@ -1,0 +1,66 @@
+{
+  "id": "n1-h-20261204-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "S2-04"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: viernes 4-dic",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 4-dic a las 09:30. Hechos: S2-04.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BI menú del día), con muñecos de alimentos con cara (un terrón de azúcar, una rebanada de pan, un brócoli y otros) y Oli, la aceituna de Vivax. Viernes. Hoy en el feed. A la una: Zumo o refresco zero: ¿cuál bajó de nota? A las nueve: Palomitas, espinacas y huevo: solo una acierta."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Viernes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Zumo o refresco zero: ¿cuál bajó de nota?"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Palomitas, espinacas y huevo: solo una acierta."
+        }
+      ],
+      "dice": [
+        "¡ÑAM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-04",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261204-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pizarra); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pizarra",
+    "mundo": "BI menú del día: la agenda a tiza en la pizarra, Oli de camarera y la clientela asomada a la barra",
+    "reparto": [
+      "terron",
+      "pan",
+      "brocoli",
+      "huevo",
+      "kiwi",
+      "limon",
+      "fruta",
+      "oli"
+    ]
+  }
+}

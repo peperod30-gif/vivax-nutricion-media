@@ -1,0 +1,68 @@
+{
+  "id": "n1-h-20261128-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ENF-003",
+    "DEB-015",
+    "DEB-016"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: sábado 28-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 28-nov a las 09:30. Hechos: ENF-003, DEB-015, DEB-016.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (una cuña de queso, un brócoli, una zanahoria y otros) y Oli, la aceituna de Vivax. Sábado. Hoy en el feed. A la una: El único uso de la keto con pruebas sólidas. A las nueve: La bebida no cambió. Su letra, sí."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Sábado",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "El único uso de la keto con pruebas sólidas"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "La bebida no cambió. Su letra, sí."
+        }
+      ],
+      "dice": [
+        "¡PIP!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-28",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261128-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "reparto": [
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "platano",
+      "tomate",
+      "kiwi",
+      "limon",
+      "oli"
+    ]
+  }
+}
