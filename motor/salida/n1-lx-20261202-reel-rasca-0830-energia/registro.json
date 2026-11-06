@@ -17,7 +17,7 @@
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.667,
  "n_cambios_visuales": 226,
- "bucle_dif_ultimo_primero": 56.41,
+ "bucle_dif_ultimo_primero": 56.44,
  "zona_segura": [
   60,
   250,
@@ -709,12 +709,12 @@
   },
   {
    "t": 20.933,
-   "texto": "Mañana temprano: una fruta contra la patata, en hidratos.",
+   "texto": "Mañana temprano: ¿más huevos, más infartos?",
    "contando": false,
    "r": [
     96,
     1213,
-    775,
+    652,
     1254
    ]
   },
@@ -911,10 +911,10 @@
   }
  ],
  "fotogramas": 629,
- "tiempo_render_s": 38.6,
+ "tiempo_render_s": 110.6,
  "tiempos_s": {
-  "preparar": 0.77,
-  "dibujar_y_codificar": 36.06
+  "preparar": 3.38,
+  "dibujar_y_codificar": 102.81
  },
  "voz_de_prueba": false
 }

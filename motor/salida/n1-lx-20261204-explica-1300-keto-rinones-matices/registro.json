@@ -7,16 +7,16 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 1.38,
+ "tamano_mb": 1.39,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -16.1,
+ "lufs": -16.0,
  "pico_dbtp": -2.0,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 0.667,
- "n_cambios_visuales": 313,
+ "hueco_max_s": 0.866,
+ "n_cambios_visuales": 319,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -224,7 +224,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -235,7 +235,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "i.",
    "contando": false,
    "r": [
@@ -246,7 +246,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "En",
    "contando": false,
    "r": [
@@ -257,7 +257,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "gente",
    "contando": false,
    "r": [
@@ -268,7 +268,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "sana,",
    "contando": false,
    "r": [
@@ -279,7 +279,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "sin",
    "contando": false,
    "r": [
@@ -290,7 +290,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "daño",
    "contando": false,
    "r": [
@@ -301,7 +301,18 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
+   "texto": "visto",
+   "contando": false,
+   "r": [
+    629,
+    397,
+    722,
+    448
+   ]
+  },
+  {
+   "t": 6.133,
    "texto": "A",
    "contando": false,
    "r": [
@@ -312,7 +323,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "corto",
    "contando": false,
    "r": [
@@ -323,7 +334,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "plazo,",
    "contando": false,
    "r": [
@@ -334,7 +345,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "no",
    "contando": false,
    "r": [
@@ -345,7 +356,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "se",
    "contando": false,
    "r": [
@@ -356,7 +367,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "ha",
    "contando": false,
    "r": [
@@ -367,7 +378,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "visto",
    "contando": false,
    "r": [
@@ -378,7 +389,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "daño",
    "contando": false,
    "r": [
@@ -389,7 +400,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "en",
    "contando": false,
    "r": [
@@ -400,7 +411,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "el",
    "contando": false,
    "r": [
@@ -411,7 +422,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "riñón.",
    "contando": false,
    "r": [
@@ -422,7 +433,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "i.",
    "contando": false,
    "r": [
@@ -433,7 +444,7 @@
    ]
   },
   {
-   "t": 5.9,
+   "t": 6.133,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -444,7 +455,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -455,7 +466,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "i.",
    "contando": false,
    "r": [
@@ -466,7 +477,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "En",
    "contando": false,
    "r": [
@@ -477,7 +488,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "gente",
    "contando": false,
    "r": [
@@ -488,7 +499,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "sana,",
    "contando": false,
    "r": [
@@ -499,7 +510,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "sin",
    "contando": false,
    "r": [
@@ -510,7 +521,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "daño",
    "contando": false,
    "r": [
@@ -521,7 +532,18 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
+   "texto": "visto",
+   "contando": false,
+   "r": [
+    629,
+    397,
+    722,
+    448
+   ]
+  },
+  {
+   "t": 8.8,
    "texto": "ii.",
    "contando": false,
    "r": [
@@ -532,7 +554,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "Pero",
    "contando": false,
    "r": [
@@ -543,7 +565,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "falta",
    "contando": false,
    "r": [
@@ -554,7 +576,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "mirarlo",
    "contando": false,
    "r": [
@@ -565,7 +587,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "a",
    "contando": false,
    "r": [
@@ -576,7 +598,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "fondo",
    "contando": false,
    "r": [
@@ -587,7 +609,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "Faltan",
    "contando": false,
    "r": [
@@ -598,7 +620,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "experimentos",
    "contando": false,
    "r": [
@@ -609,7 +631,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "que",
    "contando": false,
    "r": [
@@ -620,7 +642,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "midan",
    "contando": false,
    "r": [
@@ -631,7 +653,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "cuánto",
    "contando": false,
    "r": [
@@ -642,7 +664,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "filtra",
    "contando": false,
    "r": [
@@ -653,7 +675,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "el",
    "contando": false,
    "r": [
@@ -664,7 +686,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "riñón.",
    "contando": false,
    "r": [
@@ -675,7 +697,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "ii.",
    "contando": false,
    "r": [
@@ -686,7 +708,7 @@
    ]
   },
   {
-   "t": 8.567,
+   "t": 8.8,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -697,7 +719,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -708,7 +730,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "i.",
    "contando": false,
    "r": [
@@ -719,7 +741,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "En",
    "contando": false,
    "r": [
@@ -730,7 +752,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "gente",
    "contando": false,
    "r": [
@@ -741,7 +763,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "sana,",
    "contando": false,
    "r": [
@@ -752,7 +774,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "sin",
    "contando": false,
    "r": [
@@ -763,7 +785,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "daño",
    "contando": false,
    "r": [
@@ -774,7 +796,18 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
+   "texto": "visto",
+   "contando": false,
+   "r": [
+    629,
+    397,
+    722,
+    448
+   ]
+  },
+  {
+   "t": 12.167,
    "texto": "ii.",
    "contando": false,
    "r": [
@@ -785,7 +818,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "Pero",
    "contando": false,
    "r": [
@@ -796,7 +829,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "falta",
    "contando": false,
    "r": [
@@ -807,7 +840,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "mirarlo",
    "contando": false,
    "r": [
@@ -818,7 +851,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "a",
    "contando": false,
    "r": [
@@ -829,7 +862,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "fondo",
    "contando": false,
    "r": [
@@ -840,7 +873,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "iii.",
    "contando": false,
    "r": [
@@ -851,7 +884,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "Piedras",
    "contando": false,
    "r": [
@@ -862,7 +895,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "en",
    "contando": false,
    "r": [
@@ -873,7 +906,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "el",
    "contando": false,
    "r": [
@@ -884,7 +917,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "riñón:",
    "contando": false,
    "r": [
@@ -895,7 +928,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "5,9 %",
    "contando": false,
    "r": [
@@ -906,139 +939,128 @@
    ]
   },
   {
-   "t": 12.067,
-   "texto": "Casi",
+   "t": 12.167,
+   "texto": "En",
    "contando": false,
    "r": [
     96,
     681,
-    231,
+    170,
     804
    ]
   },
   {
-   "t": 12.067,
-   "texto": "seis",
+   "t": 12.167,
+   "texto": "unos",
    "contando": false,
    "r": [
-    250,
+    188,
     681,
-    386,
+    348,
     804
    ]
   },
   {
-   "t": 12.067,
-   "texto": "de",
+   "t": 12.167,
+   "texto": "3,7",
    "contando": false,
    "r": [
-    405,
+    367,
     681,
-    485,
+    466,
     804
    ]
   },
   {
-   "t": 12.067,
-   "texto": "cada",
+   "t": 12.167,
+   "texto": "años,",
    "contando": false,
    "r": [
-    503,
+    484,
     681,
-    662,
+    661,
     804
    ]
   },
   {
-   "t": 12.067,
-   "texto": "cien,",
-   "contando": false,
-   "r": [
-    681,
-    681,
-    839,
-    804
-   ]
-  },
-  {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "sin",
    "contando": false,
    "r": [
-    96,
-    776,
-    194,
-    899
+    680,
+    681,
+    778,
+    804
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "saber",
    "contando": false,
    "r": [
-    213,
+    96,
     776,
-    399,
+    282,
     899
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "si",
    "contando": false,
    "r": [
-    417,
+    300,
     776,
-    475,
+    358,
     899
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "fue",
    "contando": false,
    "r": [
-    494,
+    377,
     776,
-    597,
+    480,
     899
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "por",
    "contando": false,
    "r": [
-    615,
+    498,
     776,
-    724,
+    607,
     899
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "la",
    "contando": false,
    "r": [
-    96,
-    871,
-    155,
-    994
+    626,
+    776,
+    685,
+    899
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "dieta.",
    "contando": false,
    "r": [
-    174,
-    885,
-    342,
-    983
+    704,
+    790,
+    872,
+    888
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "iii.",
    "contando": false,
    "r": [
@@ -1049,7 +1071,7 @@
    ]
   },
   {
-   "t": 12.067,
+   "t": 12.167,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1133,6 +1155,17 @@
     530,
     397,
     616,
+    448
+   ]
+  },
+  {
+   "t": 14.967,
+   "texto": "visto",
+   "contando": false,
+   "r": [
+    629,
+    397,
+    722,
     448
    ]
   },
@@ -1434,7 +1467,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "La clave del día",
    "contando": false,
    "r": [
@@ -1445,7 +1478,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "i.",
    "contando": false,
    "r": [
@@ -1456,7 +1489,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "En",
    "contando": false,
    "r": [
@@ -1467,7 +1500,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "gente",
    "contando": false,
    "r": [
@@ -1478,7 +1511,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "sana,",
    "contando": false,
    "r": [
@@ -1489,7 +1522,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "sin",
    "contando": false,
    "r": [
@@ -1500,7 +1533,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "daño",
    "contando": false,
    "r": [
@@ -1511,7 +1544,18 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
+   "texto": "visto",
+   "contando": false,
+   "r": [
+    629,
+    397,
+    722,
+    448
+   ]
+  },
+  {
+   "t": 19.667,
    "texto": "ii.",
    "contando": false,
    "r": [
@@ -1522,7 +1566,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "Pero",
    "contando": false,
    "r": [
@@ -1533,7 +1577,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "falta",
    "contando": false,
    "r": [
@@ -1544,7 +1588,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "mirarlo",
    "contando": false,
    "r": [
@@ -1555,7 +1599,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "a",
    "contando": false,
    "r": [
@@ -1566,7 +1610,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "fondo",
    "contando": false,
    "r": [
@@ -1577,7 +1621,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "iii.",
    "contando": false,
    "r": [
@@ -1588,7 +1632,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "Piedras",
    "contando": false,
    "r": [
@@ -1599,7 +1643,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "en",
    "contando": false,
    "r": [
@@ -1610,7 +1654,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1621,7 +1665,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "riñón:",
    "contando": false,
    "r": [
@@ -1632,7 +1676,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "5,9 %",
    "contando": false,
    "r": [
@@ -1643,7 +1687,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "iv.",
    "contando": false,
    "r": [
@@ -1654,7 +1698,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "Riñón",
    "contando": false,
    "r": [
@@ -1665,7 +1709,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "ya",
    "contando": false,
    "r": [
@@ -1676,7 +1720,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "enfermo:",
    "contando": false,
    "r": [
@@ -1687,7 +1731,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "con",
    "contando": false,
    "r": [
@@ -1698,7 +1742,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "control",
    "contando": false,
    "r": [
@@ -1709,7 +1753,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "La",
    "contando": false,
    "r": [
@@ -1720,7 +1764,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "frase",
    "contando": false,
    "r": [
@@ -1731,7 +1775,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "correcta",
    "contando": false,
    "r": [
@@ -1742,7 +1786,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "El dato que importa",
    "contando": false,
    "r": [
@@ -1753,7 +1797,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "En",
    "contando": false,
    "r": [
@@ -1764,7 +1808,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "gente",
    "contando": false,
    "r": [
@@ -1775,7 +1819,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "sana",
    "contando": false,
    "r": [
@@ -1786,7 +1830,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "no",
    "contando": false,
    "r": [
@@ -1797,7 +1841,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "hay",
    "contando": false,
    "r": [
@@ -1808,7 +1852,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "datos",
    "contando": false,
    "r": [
@@ -1819,7 +1863,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1830,7 +1874,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "daño;",
    "contando": false,
    "r": [
@@ -1841,7 +1885,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "sí",
    "contando": false,
    "r": [
@@ -1852,7 +1896,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "hay",
    "contando": false,
    "r": [
@@ -1863,7 +1907,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "riesgo",
    "contando": false,
    "r": [
@@ -1874,7 +1918,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1885,7 +1929,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "piedras",
    "contando": false,
    "r": [
@@ -1896,7 +1940,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "en",
    "contando": false,
    "r": [
@@ -1907,7 +1951,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1918,7 +1962,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "riñón.",
    "contando": false,
    "r": [
@@ -1929,7 +1973,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
    "contando": false,
    "r": [
@@ -1940,7 +1984,7 @@
    ]
   },
   {
-   "t": 19.7,
+   "t": 19.667,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -2173,11 +2217,11 @@
  ],
  "comprobar_s": [
   0.0,
-  5.9,
-  8.567,
-  12.067,
+  6.133,
+  8.8,
+  12.167,
   14.967,
-  19.7,
+  19.667,
   23.7
  ],
  "sonido": {
@@ -2203,18 +2247,18 @@
    "voz": "7QQzpAyzlKTVrRzQJmTE",
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
-   "caracteres": 325,
-   "texto": "¿Daña la keto los riñones? Ni sí ni no. Uno: en gente sana, a corto plazo, sin daño visto. Dos: pero falta mirarlo a fondo. Tres: piedras en el riñón, casi seis de cada cien. Cuatro: riñón ya enfermo, con control. La frase correcta: en sanos, sin daño; sí, riesgo de piedras. Mándaselo a quien cree que la keto rompe riñones.",
+   "caracteres": 329,
+   "texto": "¿Daña la keto los riñones? Ni sí ni no. Uno: en gente sana, a corto plazo, sin daño visto. Dos: falta mirarlo a fondo. Tres: piedras en el riñón, casi seis de cada cien. Cuatro: riñón ya enfermo, con control. La frase correcta: en sanos, sin datos de daño; sí, riesgo de piedras. Mándaselo a quien cree que la keto rompe riñones.",
    "cortes": 19,
-   "silencios_s": 2.85,
-   "pausas_acortadas_s": 4.11,
-   "duracion_voz_s": 22.85
+   "silencios_s": 2.51,
+   "pausas_acortadas_s": 4.24,
+   "duracion_voz_s": 22.86
   },
   "mezcla": {
    "efectos_db": -7,
    "ducking": 0.5,
    "lufs_wav": -16.01,
-   "limitador_max_db": 0.79
+   "limitador_max_db": 0.68
   }
  },
  "efectos": [
@@ -2239,61 +2283,61 @@
    "intensidad": 0.24
   },
   {
-   "t": 6.011,
+   "t": 6.251,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 6.561,
+   "t": 6.801,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 8.691,
+   "t": 8.931,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 9.241,
+   "t": 9.481,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 12.171,
+   "t": 12.301,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 12.721,
+   "t": 12.851,
    "tipo": "tic",
    "intensidad": 0.24
   },
   {
-   "t": 15.101,
+   "t": 15.071,
    "tipo": "whoosh",
    "intensidad": 0.36
   },
   {
-   "t": 15.551,
+   "t": 15.521,
    "tipo": "sello",
    "intensidad": 0.4
   },
   {
-   "t": 19.811,
+   "t": 19.781,
    "tipo": "whoosh",
    "intensidad": 0.34
   },
   {
-   "t": 22.501,
+   "t": 22.511,
    "tipo": "pop",
    "intensidad": 0.24
   }
  ],
  "fotogramas": 729,
- "tiempo_render_s": 68.6,
+ "tiempo_render_s": 70.4,
  "tiempos_s": {
-  "preparar": 1.7,
-  "dibujar_y_codificar": 61.09
+  "preparar": 1.66,
+  "dibujar_y_codificar": 61.08
  },
  "voz_de_prueba": false,
  "plantilla": "reel_explica",
@@ -2321,152 +2365,151 @@
   "pasos": [
    {
     "t_in": 2.681,
-    "t_out": 6.011,
+    "t_out": 6.251,
     "t_rom": 3.101,
     "t_tit": 3.231,
     "t_txt0": 3.731,
     "t_ico": 3.481,
     "voz": 3.101,
     "pal_txt": [
-     4.251,
-     4.501,
-     4.741,
-     4.971,
-     5.201,
-     5.431,
-     5.661,
-     5.311,
-     5.311,
-     5.311,
-     5.311
+     4.331,
+     4.581,
+     4.901,
+     5.151,
+     5.401,
+     5.651,
+     5.901,
+     5.551,
+     5.551,
+     5.551,
+     5.551
     ],
     "bt": 376
    },
    {
-    "t_in": 6.011,
-    "t_out": 8.691,
-    "t_rom": 6.431,
-    "t_tit": 6.561,
-    "t_txt0": 7.061,
-    "t_ico": 6.811,
-    "voz": 6.431,
+    "t_in": 6.251,
+    "t_out": 8.931,
+    "t_rom": 6.671,
+    "t_tit": 6.801,
+    "t_txt0": 7.301,
+    "t_ico": 7.051,
+    "voz": 6.671,
     "pal_txt": [
-     6.731,
-     6.899,
-     7.235,
-     7.319,
-     7.459,
-     7.627,
-     7.795,
-     7.851
+     6.971,
+     7.139,
+     7.475,
+     7.559,
+     7.699,
+     7.867,
+     8.035,
+     8.091
     ],
     "bt": 468
    },
    {
-    "t_in": 8.691,
-    "t_out": 12.171,
-    "t_rom": 9.111,
-    "t_tit": 9.241,
-    "t_txt0": 9.741,
-    "t_ico": 9.491,
-    "voz": 9.111,
+    "t_in": 8.931,
+    "t_out": 12.301,
+    "t_rom": 9.351,
+    "t_tit": 9.481,
+    "t_txt0": 9.981,
+    "t_ico": 9.731,
+    "voz": 9.351,
     "pal_txt": [
-     10.644,
-     11.004,
-     11.224,
-     11.444,
-     11.724,
-     11.471,
-     11.471,
-     11.471,
-     11.471,
-     11.471,
-     11.471,
-     11.471
+     9.651,
+     9.651,
+     9.351,
+     9.601,
+     9.851,
+     10.101,
+     10.351,
+     10.601,
+     10.851,
+     11.101,
+     11.351
     ],
     "bt": 560
    },
    {
-    "t_in": 12.171,
-    "t_out": 15.101,
-    "t_rom": 12.591,
-    "t_tit": 12.721,
-    "t_txt0": 13.221,
-    "t_ico": 12.971,
-    "voz": 12.591,
+    "t_in": 12.301,
+    "t_out": 15.071,
+    "t_rom": 12.721,
+    "t_tit": 12.851,
+    "t_txt0": 13.351,
+    "t_ico": 13.101,
+    "voz": 12.721,
     "pal_txt": [
-     14.391,
-     14.401,
-     14.401,
-     14.401,
-     14.401,
-     14.401,
-     14.401
+     14.361,
+     14.371,
+     14.371,
+     14.371,
+     14.371,
+     14.371,
+     14.371
     ],
     "bt": 652
    }
   ],
   "conc": {
-   "t_in": 15.101,
-   "t_g": 15.701,
-   "voz": 15.651,
-   "decl": 15.651,
+   "t_in": 15.071,
+   "t_g": 15.671,
+   "voz": 15.621,
+   "decl": 15.621,
    "pal_g": [
-    15.701,
-    15.754,
-    15.888
+    15.671,
+    15.724,
+    15.858
    ],
    "pal_f": [
-    15.821,
-    16.071,
-    16.321,
-    16.571,
-    16.821,
-    17.071,
-    17.321,
-    17.571,
-    17.851,
-    18.131,
-    18.411,
-    18.671,
-    18.931,
-    19.011,
-    19.011,
-    19.011
+    16.211,
+    16.461,
+    16.711,
+    16.961,
+    17.211,
+    17.461,
+    17.661,
+    17.861,
+    18.128,
+    18.394,
+    18.661,
+    18.921,
+    19.181,
+    18.981,
+    18.981,
+    18.981
    ],
-   "t_f0": 16.201,
+   "t_f0": 16.171,
    "bt": 744
   },
   "fin": {
-   "t_in": 19.811,
-   "voz": 20.231,
-   "t_c0": 20.561,
-   "t_fil": 20.911,
-   "t_an": 22.501,
+   "t_in": 19.781,
+   "voz": 20.201,
+   "t_c0": 20.531,
+   "t_fil": 20.881,
+   "t_an": 22.511,
    "pal_c": [
-    20.231,
-    20.551,
-    20.871,
-    21.111,
-    21.311,
-    21.431,
-    21.551,
-    21.911,
-    22.151
+    20.201,
+    20.501,
+    20.801,
+    21.041,
+    21.281,
+    21.401,
+    21.521,
+    21.841,
+    22.161
    ],
-   "B0": 22.111
+   "B0": 22.081
   },
   "trans": [
    2.681,
-   6.011,
-   8.691,
-   12.171,
-   15.101,
-   19.811
+   6.251,
+   8.931,
+   12.301,
+   15.071,
+   19.781
   ],
   "extra": [
-   22.411,
-   22.661,
+   22.381,
+   22.631,
    24.0,
    24.2
   ],
@@ -2480,23 +2523,23 @@
     "off": 640
    },
    {
-    "t_in": 6.011,
+    "t_in": 6.251,
     "off": 1260
    },
    {
-    "t_in": 8.691,
+    "t_in": 8.931,
     "off": 1880
    },
    {
-    "t_in": 12.171,
+    "t_in": 12.301,
     "off": 2500
    },
    {
-    "t_in": 15.101,
+    "t_in": 15.071,
     "off": 3120
    }
   ],
-  "fin_voz": 22.851,
+  "fin_voz": 22.861,
   "deriva": [
    9.0,
    30.0
@@ -2506,16 +2549,16 @@
   0.0,
   1.3,
   3.0333,
-  5.9,
-  6.3667,
-  8.5667,
-  9.0333,
-  12.0667,
-  12.5333,
+  6.1333,
+  6.6,
+  8.8,
+  9.2667,
+  12.1667,
+  12.6667,
   14.9667,
-  15.6,
-  19.7,
-  20.4,
+  15.5667,
+  19.6667,
+  20.3667,
   23.7,
   24.2667
  ],
@@ -2534,32 +2577,32 @@
   },
   {
    "parte": "paso II",
-   "voz": "Dos: pero falta mirarlo a fondo.",
-   "t": 6.431,
+   "voz": "Dos: falta mirarlo a fondo.",
+   "t": 6.671,
    "puntos": 6.0
   },
   {
    "parte": "paso III",
    "voz": "Tres: piedras en el riñón, casi seis de cada cien.",
-   "t": 9.111,
-   "puntos": 8.0
+   "t": 9.351,
+   "puntos": 5.0
   },
   {
    "parte": "paso IV",
    "voz": "Cuatro: riñón ya enfermo, con control.",
-   "t": 12.591,
+   "t": 12.721,
    "puntos": 6.0
   },
   {
    "parte": "conclusión",
-   "voz": "La frase correcta: en sanos, sin daño; sí, riesgo de piedras.",
-   "t": 15.651,
-   "puntos": 5.0
+   "voz": "La frase correcta: en sanos, sin datos de daño; sí, riesgo de piedras.",
+   "t": 15.621,
+   "puntos": 6.0
   },
   {
    "parte": "cierre",
    "voz": "Mándaselo a quien cree que la keto rompe riñones.",
-   "t": 20.231,
+   "t": 20.201,
    "puntos": 13.0
   }
  ],

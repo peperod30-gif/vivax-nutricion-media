@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 3.68,
+ "tamano_mb": 3.69,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -17,7 +17,7 @@
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.2,
  "n_cambios_visuales": 367,
- "bucle_dif_ultimo_primero": 82.62,
+ "bucle_dif_ultimo_primero": 82.55,
  "zona_segura": [
   60,
   250,
@@ -1160,12 +1160,12 @@
   },
   {
    "t": 18.533,
-   "texto": "Mañana por la mañana, otra cuenta atrás: el desayuno.",
+   "texto": "Mañana por la mañana, en treinta segundos: la dieta mediterránea.",
    "contando": false,
    "r": [
     96,
     1212,
-    803,
+    928,
     1274
    ]
   },
@@ -1215,12 +1215,12 @@
   },
   {
    "t": 19.333,
-   "texto": "Mañana por la mañana, otra cuenta atrás: el desayuno.",
+   "texto": "Mañana por la mañana, en treinta segundos: la dieta mediterránea.",
    "contando": false,
    "r": [
     96,
     1212,
-    803,
+    928,
     1274
    ]
   },
@@ -1366,10 +1366,10 @@
   }
  ],
  "fotogramas": 581,
- "tiempo_render_s": 74.5,
+ "tiempo_render_s": 50.5,
  "tiempos_s": {
-  "preparar": 2.08,
-  "dibujar_y_codificar": 64.13
+  "preparar": 1.31,
+  "dibujar_y_codificar": 45.41
  },
  "voz_de_prueba": false,
  "plantilla": "reel_cinta",

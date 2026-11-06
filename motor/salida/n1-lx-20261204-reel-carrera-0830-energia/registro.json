@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 1.69,
+ "tamano_mb": 1.7,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -1006,13 +1006,13 @@
   },
   {
    "t": 21.233,
-   "texto": "Mañana, a la misma hora: la cuenta atrás del picoteo.",
+   "texto": "Mañana, a la misma hora: cereales con menos azúcar, ¿menos energía?",
    "contando": false,
    "r": [
     96,
     970,
-    798,
-    1013
+    807,
+    1057
    ]
   },
   {
@@ -1251,10 +1251,10 @@
   }
  ],
  "fotogramas": 711,
- "tiempo_render_s": 69.9,
+ "tiempo_render_s": 79.9,
  "tiempos_s": {
-  "preparar": 2.28,
-  "dibujar_y_codificar": 63.41
+  "preparar": 3.26,
+  "dibujar_y_codificar": 70.62
  },
  "voz_de_prueba": false,
  "plantilla": "reel_carrera",

@@ -17,7 +17,7 @@
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.9,
  "n_cambios_visuales": 160,
- "bucle_dif_ultimo_primero": 111.59,
+ "bucle_dif_ultimo_primero": 111.81,
  "zona_segura": [
   60,
   250,
@@ -962,13 +962,13 @@
   },
   {
    "t": 20.567,
-   "texto": "Mañana a la una, otro duelo: la proteína en el plato.",
+   "texto": "Mañana a primera hora: ¿qué supera al atún en proteína?",
    "contando": false,
    "r": [
     96,
-    1149,
-    915,
-    1202
+    1126,
+    833,
+    1225
    ]
   },
   {
@@ -1116,10 +1116,10 @@
   }
  ],
  "fotogramas": 618,
- "tiempo_render_s": 75.4,
+ "tiempo_render_s": 57.2,
  "tiempos_s": {
-  "preparar": 2.28,
-  "dibujar_y_codificar": 66.14
+  "preparar": 1.92,
+  "dibujar_y_codificar": 51.21
  },
  "voz_de_prueba": false
 }

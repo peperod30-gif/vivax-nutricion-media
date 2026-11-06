@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.98,
  "pixel": "yuv420p",
- "tamano_mb": 2.21,
+ "tamano_mb": 2.16,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -16,7 +16,7 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 2.133,
- "n_cambios_visuales": 269,
+ "n_cambios_visuales": 246,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -676,12 +676,12 @@
   },
   {
    "t": 5.433,
-   "texto": "según Meta y la CNMC",
+   "texto": "fuentes en el comentario",
    "contando": false,
    "r": [
     360,
     1282,
-    744,
+    814,
     1312
    ]
   },
@@ -1138,12 +1138,12 @@
   },
   {
    "t": 10.833,
-   "texto": "según Meta y la CNMC",
+   "texto": "fuentes en el comentario",
    "contando": false,
    "r": [
     360,
     1282,
-    744,
+    814,
     1312
    ]
   },
@@ -1644,12 +1644,12 @@
   },
   {
    "t": 17.433,
-   "texto": "según Meta y la CNMC",
+   "texto": "fuentes en el comentario",
    "contando": false,
    "r": [
     360,
     1282,
-    744,
+    814,
     1312
    ]
   },
@@ -1687,7 +1687,7 @@
    ]
   },
   {
-   "t": 21.067,
+   "t": 21.0,
    "texto": "El quiz de la noche · Para colegas",
    "contando": false,
    "r": [
@@ -1698,7 +1698,7 @@
    ]
   },
   {
-   "t": 21.067,
+   "t": 21.0,
    "texto": "¿Y",
    "contando": false,
    "r": [
@@ -1709,359 +1709,95 @@
    ]
   },
   {
-   "t": 21.067,
-   "texto": "lo",
+   "t": 21.0,
+   "texto": "tu",
    "contando": false,
    "r": [
     201,
     348,
-    267,
+    272,
     486
    ]
   },
   {
-   "t": 21.067,
-   "texto": "que",
+   "t": 21.0,
+   "texto": "cuenta?",
    "contando": false,
    "r": [
-    287,
+    293,
     348,
-    421,
+    585,
     486
    ]
   },
   {
-   "t": 21.067,
-   "texto": "anunció",
-   "contando": false,
-   "r": [
-    96,
-    455,
-    384,
-    593
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "Meta?",
-   "contando": false,
-   "r": [
-    404,
-    455,
-    630,
-    593
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "El dato final",
+   "t": 21.0,
+   "texto": "Para terminar",
    "contando": false,
    "r": [
     174,
     742,
-    407,
+    422,
     772
    ]
   },
   {
-   "t": 21.067,
-   "texto": "Meta",
+   "t": 21.0,
+   "texto": "Si",
    "contando": false,
    "r": [
     96,
-    793,
-    246,
-    906
+    791,
+    154,
+    918
    ]
   },
   {
-   "t": 21.067,
-   "texto": "anunció",
+   "t": 21.0,
+   "texto": "eres",
    "contando": false,
    "r": [
-    263,
-    793,
-    501,
-    906
+    173,
+    791,
+    322,
+    918
    ]
   },
   {
-   "t": 21.067,
-   "texto": "en",
-   "contando": false,
-   "r": [
-    518,
-    793,
-    591,
-    906
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "abril",
-   "contando": false,
-   "r": [
-    608,
-    793,
-    743,
-    906
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    760,
-    793,
-    833,
-    906
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "2026",
+   "t": 21.0,
+   "texto": "nutricionista,",
    "contando": false,
    "r": [
     96,
-    880,
-    242,
-    993
+    888,
+    540,
+    1015
    ]
   },
   {
-   "t": 21.067,
-   "texto": "que",
+   "t": 21.0,
+   "texto": "escríbenos.",
    "contando": false,
    "r": [
-    260,
-    880,
-    370,
-    993
+    559,
+    888,
+    950,
+    1015
    ]
   },
   {
-   "t": 21.067,
-   "texto": "las",
-   "contando": false,
-   "r": [
-    387,
-    880,
-    476,
-    993
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "fotos",
-   "contando": false,
-   "r": [
-    493,
-    880,
-    645,
-    993
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "y",
-   "contando": false,
-   "r": [
-    662,
-    880,
-    696,
-    993
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "los",
-   "contando": false,
-   "r": [
-    713,
-    880,
-    803,
-    993
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "carruseles",
-   "contando": false,
-   "r": [
-    96,
-    967,
-    417,
-    1080
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "que",
-   "contando": false,
-   "r": [
-    434,
-    967,
-    544,
-    1080
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "la",
-   "contando": false,
-   "r": [
-    561,
-    967,
-    615,
-    1080
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "cuenta",
-   "contando": false,
-   "r": [
-    633,
-    967,
-    837,
-    1080
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "no",
-   "contando": false,
-   "r": [
-    854,
-    967,
-    928,
-    1080
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "crea",
-   "contando": false,
-   "r": [
-    96,
-    1054,
-    230,
-    1167
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "ni",
-   "contando": false,
-   "r": [
-    247,
-    1054,
-    302,
-    1167
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "edita",
-   "contando": false,
-   "r": [
-    319,
-    1054,
-    468,
-    1167
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    485,
-    1054,
-    558,
-    1167
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "forma",
-   "contando": false,
-   "r": [
-    575,
-    1054,
-    751,
-    1167
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "material",
-   "contando": false,
-   "r": [
-    96,
-    1141,
-    344,
-    1254
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "pueden",
-   "contando": false,
-   "r": [
-    361,
-    1141,
-    582,
-    1254
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "dejar",
-   "contando": false,
-   "r": [
-    599,
-    1141,
-    752,
-    1254
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    96,
-    1228,
-    169,
-    1341
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "recomendarse.",
-   "contando": false,
-   "r": [
-    186,
-    1228,
-    637,
-    1341
-   ]
-  },
-  {
-   "t": 21.067,
-   "texto": "Es una noticia de prensa sobre una política de Meta; la aplicación concreta no está medida. Vivax es una agencia de redes para dietistas-nutricionistas.",
+   "t": 21.0,
+   "texto": "Vivax es una agencia de redes para dietistas-nutricionistas.",
    "contando": false,
    "r": [
     96,
     1369,
-    916,
-    1420
+    553,
+    1395
    ]
   },
   {
-   "t": 21.067,
+   "t": 21.0,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -2300,7 +2036,7 @@
   10.833,
   16.0,
   17.433,
-  21.067,
+  21.0,
   25.433
  ],
  "sonido": {
@@ -2614,10 +2350,10 @@
   }
  ],
  "fotogramas": 781,
- "tiempo_render_s": 77.4,
+ "tiempo_render_s": 103.2,
  "tiempos_s": {
-  "preparar": 1.94,
-  "dibujar_y_codificar": 68.54
+  "preparar": 3.14,
+  "dibujar_y_codificar": 90.81
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
@@ -2629,39 +2365,15 @@
     19.741,
     19.741,
     19.741,
-    19.741,
-    19.741,
-    19.741,
-    19.741,
-    19.741,
-    19.741,
-    19.741,
-    19.741,
-    19.7832,
-    19.9517,
-    20.0022,
-    20.0359,
-    20.1369,
-    20.1706,
-    20.238,
-    20.2717,
-    20.3559,
-    20.3896,
-    20.4738,
-    20.6085,
-    20.7096,
-    20.7938,
-    20.8275
+    20.4464
    ],
    "palabras_g": [
-    19.241,
-    19.241,
     19.241,
     19.241,
     19.241
    ],
    "t_sal": 19.591,
-   "t_frase": 21.378
+   "t_frase": 20.996
   },
   "fin": {
    "t_in": 21.121,
@@ -2804,7 +2516,7 @@
    "que": "conclusión: entra"
   },
   {
-   "t": 21.0667,
+   "t": 21.0,
    "que": "conclusión: declaración"
   },
   {

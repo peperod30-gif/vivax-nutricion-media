@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 2.12,
+ "tamano_mb": 2.11,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -2304,45 +2304,67 @@
   },
   {
    "t": 24.767,
-   "texto": "otra",
+   "texto": "otro",
    "contando": false,
    "r": [
     401,
     1175,
-    455,
+    456,
     1216
    ]
   },
   {
    "t": 24.767,
-   "texto": "apuesta:",
+   "texto": "quiz:",
    "contando": false,
    "r": [
-    465,
+    466,
     1175,
-    579,
+    534,
     1216
    ]
   },
   {
    "t": 24.767,
-   "texto": "las",
+   "texto": "fruta,",
    "contando": false,
    "r": [
-    589,
+    544,
     1175,
-    626,
+    617,
     1216
    ]
   },
   {
    "t": 24.767,
-   "texto": "guarniciones.",
+   "texto": "sprint",
    "contando": false,
    "r": [
-    636,
+    627,
     1175,
-    820,
+    704,
+    1216
+   ]
+  },
+  {
+   "t": 24.767,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    714,
+    1175,
+    729,
+    1216
+   ]
+  },
+  {
+   "t": 24.767,
+   "texto": "keto.",
+   "contando": false,
+   "r": [
+    739,
+    1175,
+    805,
     1216
    ]
   },
@@ -2680,10 +2702,10 @@
   }
  ],
  "fotogramas": 761,
- "tiempo_render_s": 76.8,
+ "tiempo_render_s": 50.4,
  "tiempos_s": {
-  "preparar": 2.66,
-  "dibujar_y_codificar": 65.3
+  "preparar": 1.08,
+  "dibujar_y_codificar": 45.89
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
@@ -2734,6 +2756,8 @@
     23.6663
    ],
    "palabras_an": [
+    23.966,
+    23.966,
     23.966,
     23.966,
     23.966,
