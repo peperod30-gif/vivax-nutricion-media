@@ -1,0 +1,125 @@
+{
+  "id": "n1-lx-20261121-cxduelo-1300-pistachos-feta-proteina",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxduelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-005",
+    "ALI-004",
+    "VIT-059",
+    "ALI-147"
+  ],
+  "titulo": "[CXDUELO] Seis gramos más de proteína: ¿pistachos o feta?",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Duelo de la comida",
+      "titulo": "Seis gramos más de {proteína}: ¿pistachos o feta?",
+      "izq": "pistachos",
+      "der": "queso feta",
+      "dice": [
+        "¡CLIC!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "pistachos",
+      "etiqueta_no": "Paso",
+      "izq": "pistachos",
+      "voz": "Seis gramos más de proteína. ¿Cuál de los dos? A los pistachos, paso. Al feta, me gusta: catorce coma dos gramos. Pero los pistachos vuelven: veinte coma dos gramos. ¿Y para qué sirve la proteína? Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Mándaselo a quien pica pistachos en el sofá."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "queso feta",
+      "etiqueta_si": "Me gusta",
+      "der": "queso feta",
+      "cifra": "14,2",
+      "unidad": "g",
+      "texto": "de proteína por 100 g",
+      "dato": "Proteína"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "pistachos",
+      "izq": "pistachos",
+      "cifra": "20,2",
+      "unidad": "g",
+      "texto": "de proteína por 100 g",
+      "dato": "Proteína",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Proteína",
+      "texto": "Por 100 g",
+      "izq": "pistachos",
+      "der": "queso feta",
+      "cifra": "20,2",
+      "unidad": "g",
+      "items": [
+        "14,2"
+      ],
+      "dice": [
+        "¡Seis gramos más!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y para qué sirve la proteína?",
+      "resalte": "Proteínas",
+      "frase": "Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales.",
+      "vit": "VIT-059",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de proteínas. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien pica pistachos en el sofá.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana a la una: el tiroides y un mineral que no es el yodo."
+    }
+  ],
+  "pie_instagram": "Seis gramos más de proteína: ¿pistachos o feta?\n\nPor 100 g: pistachos, 20,2 g de proteína; queso feta, 14,2 g.\nPor cada 100 g, los pistachos llevan seis gramos más de proteína que el feta.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de proteínas; no es una recomendación personal.\n\n¿Le habías dado el «me gusta» al feta?\nMándaselo a quien pica pistachos en el sofá. Mañana a la una: el tiroides y un mineral que no es el yodo.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#proteina #pistachos #queso #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: la ficha de rol (CX): hoja de personaje, barra de atributo que se llena y dado de veinte caras. Subtítulos grandes de la voz palabra a palabra. Portada: Seis gramos más de proteína: ¿pistachos o feta? pistachos (un muñeco con cara) frente a queso feta (un muñeco con cara), con público de muñecos con cara (Oli, la aceituna de Vivax, un huevo, una gota de grasa, un aguacate) que reacciona. Sello «Paso» para pistachos. «Me gusta» para queso feta: 14,2 g de proteína. La vuelta de pistachos: su cifra revienta, 20,2 g. El público se sorprende. Cara a cara: 20,2 g frente a 14,2 g, por 100 g. Una ráfaga dice «Seis gramos más». ¿Y para qué sirve la proteína? Proteínas: Las proteínas contribuyen al mantenimiento de los huesos en condiciones normales. Oli lo presenta. Cierre: Oli saluda y dice «Mándaselo a quien pica pistachos en el sofá». Una ráfaga dice «¡Continuará!». Mañana a la una: el tiroides y un mineral que no es el yodo."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_duelo_comic",
+    "formato": "CXDUELO",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_comic (Vivax Cómic, mundo rol) · spec n1-lux-20261121-1300-pistachos-feta-proteina",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_duelo_comic",
+    "familia": "reel_duelo",
+    "mecanica": "reel_duelo",
+    "variante": "rol",
+    "variante_idx": 4,
+    "spec_id": "n1-lux-20261121-1300-pistachos-feta-proteina",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "frente": "publico",
+    "pilar_plan": "Debates con datos",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261121-1300-pistachos-feta-proteina",
+    "plantilla_visual": "reel_duelo_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, proteína por 100 g: pistachos 20,2 g (ALI-005) y queso feta 14,2 g (ALI-004), verificado el 11-oct-2026. Cálculo: 20,2 menos 14,2 = 6,0 g («seis gramos más»). Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-059). Condición de uso para proteínas (al menos el 12 % de la energía): se cumple en los dos. Energía por 100 g (USDA FoodData Central, SR Legacy, ALI-147): pistachos crudos 560 kcal y queso feta 265 kcal; 20,2 × 4 / 560 = 14 % y 14,2 × 4 / 265 = 21 % de la energía procede de las proteínas. La declaración se dice de las proteínas, nunca del alimento. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Duelo de la comida",
+  "pilar_plan": "Debates con datos"
+}

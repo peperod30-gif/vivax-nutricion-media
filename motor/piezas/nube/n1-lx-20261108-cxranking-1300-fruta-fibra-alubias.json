@@ -1,0 +1,147 @@
+{
+  "id": "n1-lx-20261108-cxranking-1300-fruta-fibra-alubias",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxranking",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-007",
+    "ALI-038",
+    "GAN-007"
+  ],
+  "titulo": "[CXRANKING] Una fruta con más fibra que las alubias.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Fibra por 100 g",
+      "titulo": "Una fruta con más {fibra} que las alubias.",
+      "dice": [
+        "¿EH?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "IV",
+      "titulo": "kiwi",
+      "cifra": "3,0",
+      "unidad": "g",
+      "dice": [
+        "¡HALA!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "brócoli cocido",
+      "cifra": "3,3",
+      "unidad": "g",
+      "dice": [
+        "¡UY!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "alubias blancas cocidas",
+      "cifra": "6,3",
+      "unidad": "g",
+      "dice": [
+        "¡OH!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "aguacate",
+      "cifra": "6,7",
+      "unidad": "g",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "aguacate",
+          "valor": "6,7",
+          "unidad": "g"
+        },
+        {
+          "cab": "II",
+          "nombre": "alubias blancas cocidas",
+          "valor": "6,3",
+          "unidad": "g"
+        },
+        {
+          "cab": "III",
+          "nombre": "brócoli cocido",
+          "valor": "3,3",
+          "unidad": "g"
+        },
+        {
+          "cab": "IV",
+          "nombre": "kiwi",
+          "valor": "3,0",
+          "unidad": "g"
+        }
+      ],
+      "voz": "Kiwi, tres. Brócoli, tres coma tres. Alubias, seis coma tres. Y arriba, aguacate: seis coma siete. ¿Y"
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y para qué sirve?",
+      "resalte": "El dato que importa",
+      "frase": "En adultos, 25 g de fibra al día bastan para un tránsito intestinal normal.",
+      "fuente": "Referencia europea para adultos. Las cifras, por 100 g. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien busca fibra solo en legumbres.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Esta noche: lo que lleva más grasa que el bacon."
+    }
+  ],
+  "pie_instagram": "Una fruta con más fibra que las alubias.\n\nFibra por 100 g: aguacate, 6,7 g; alubias blancas cocidas, 6,3 g; brócoli cocido, 3,3 g; kiwi, 3,0 g.\nGramos de fibra por cada 100 g. Alubias y brócoli, cocidos.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nEn adultos, 25 g de fibra al día bastan para un tránsito intestinal normal.\n\n¿Habrías dicho aguacate?\nMándaselo a quien busca fibra solo en legumbres.\nEsta noche: lo que lleva más grasa que el bacon.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #fibra #aguacate #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: cuenta atrás en una pista de carreras con una calle por alimento, con un muñeco con cara por alimento y Oli, la aceituna de Vivax, que presenta con micrófono. Fibra por 100 g. Portada: Una fruta con más fibra que las alubias. IV. kiwi (un kiwi): 3,0 g. III. brócoli cocido (un brócoli): 3,3 g. II. alubias blancas cocidas (una lenteja): 6,3 g. I. aguacate (un aguacate): 6,7 g. El número uno sale con redoble, confeti y corona. ¿Y para qué sirve? Oli lo dice: En adultos, 25 g de fibra al día bastan para un tránsito intestinal normal. Cierre: Oli saluda y dice «Mándaselo a quien busca fibra solo en legumbres». ¡Continuará! Esta noche: lo que lleva más grasa que el bacon."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-08",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_ranking_comic",
+    "formato": "CXRANKING",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_ranking_comic (Vivax Cómic, mundo carrera: BK gran premio) · spec n1-lux-20261108-1300-fruta-fibra-alubias",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_ranking_comic",
+    "familia": "reel_ranking",
+    "mecanica": "reel_ranking",
+    "variante": "carrera",
+    "mundo": "BK gran premio",
+    "spec_id": "n1-lux-20261108-1300-fruta-fibra-alubias",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "curiosidad",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261108-1300-fruta-fibra-alubias",
+    "plantilla_visual": "reel_ranking_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), fibra por 100 g: aguacate crudo 6,7 g, alubias blancas cocidas 6,3 g y kiwi crudo 3,0 g (ALI-007); brócoli cocido 3,3 g (ALI-038). Es una selección: en ALI-007 las lentejas cocidas (7,9 g) y los garbanzos cocidos (7,6 g) llevan más que el aguacate. Conclusión: dictamen de la EFSA de 2010 sobre hidratos de carbono y fibra (GAN-007, comprobado el 5-nov-2026 en su nota de prensa del 26-mar-2010): 25 g de fibra al día se consideran suficientes para un tránsito intestinal normal en adultos. La fibra no tiene declaración de salud autorizada en el banco. Es composición, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Curiosidades Vivax",
+  "pilar_plan": "curiosidad"
+}

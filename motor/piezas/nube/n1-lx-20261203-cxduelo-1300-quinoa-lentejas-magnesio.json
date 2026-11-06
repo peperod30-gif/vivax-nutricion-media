@@ -1,0 +1,117 @@
+{
+  "id": "n1-lx-20261203-cxduelo-1300-quinoa-lentejas-magnesio",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxduelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-049",
+    "VIT-056"
+  ],
+  "titulo": "[CXDUELO] Lentejas contra quinoa, la revancha: magnesio.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Duelo de la comida",
+      "titulo": "Lentejas contra quinoa, la revancha: {magnesio}.",
+      "izq": "quinoa cocida",
+      "der": "lentejas cocidas",
+      "dice": [
+        "¿QUÉ?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "lentejas cocidas",
+      "etiqueta_si": "Me gusta",
+      "der": "lentejas cocidas",
+      "cifra": "36",
+      "unidad": "mg",
+      "texto": "de magnesio por 100 g",
+      "dato": "Magnesio",
+      "voz": "Lentejas contra quinoa, la revancha. En hierro, el me gusta fue para las lentejas. Hoy toca magnesio. La quinoa, sesenta y cuatro miligramos. Las lentejas, treinta y seis. Casi el doble. ¿Y para qué sirve el magnesio? El magnesio contribuye a la función psicológica normal. Mándaselo a quien votó lentejas en el duelo del hierro."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "quinoa cocida",
+      "izq": "quinoa cocida",
+      "cifra": "64",
+      "unidad": "mg",
+      "texto": "de magnesio por 100 g",
+      "dato": "Magnesio",
+      "dice": [
+        "¡CRAC!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Magnesio",
+      "texto": "Por 100 g",
+      "izq": "quinoa cocida",
+      "der": "lentejas cocidas",
+      "cifra": "64",
+      "unidad": "mg",
+      "items": [
+        "36"
+      ],
+      "dice": [
+        "¡Casi el doble!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y para qué sirve el magnesio?",
+      "resalte": "Magnesio",
+      "frase": "El magnesio contribuye a la función psicológica normal.",
+      "vit": "VIT-056",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien votó lentejas en el duelo del hierro.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana a la una: ¿daña la keto los riñones?"
+    }
+  ],
+  "pie_instagram": "Lentejas contra quinoa, la revancha: magnesio.\n\nPor 100 g: quinoa cocida, 64 mg de magnesio; lentejas cocidas, 36 mg.\nPor cada 100 g, las dos cocidas. La quinoa, casi el doble.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El magnesio contribuye a la función psicológica normal. Es una declaración autorizada en la UE para alimentos que son fuente de magnesio; no es una recomendación personal.\n\n¿A quién le habías dado el me gusta?\nMándaselo a quien votó lentejas en el duelo del hierro. Mañana a la una: ¿daña la keto los riñones?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#magnesio #quinoa #lentejas #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: la balanza de botica (DB): los dos en los platillos y el brazo que se inclina hacia el que lleva más. Subtítulos grandes de la voz palabra a palabra. Portada: Lentejas contra quinoa, la revancha: magnesio. quinoa cocida (un muñeco con cara) frente a lentejas cocidas (un muñeco con cara), con público de muñecos con cara (Oli, la aceituna de Vivax, una etiqueta de alimentos, un queso, una nuez) que reacciona. «Me gusta» para lentejas cocidas: 36 mg de magnesio. La vuelta de quinoa cocida: su cifra revienta, 64 mg. El público se sorprende. Cara a cara: 64 mg frente a 36 mg, por 100 g. Una ráfaga dice «Casi el doble». ¿Y para qué sirve el magnesio? Magnesio: El magnesio contribuye a la función psicológica normal. Oli lo presenta. Cierre: Oli saluda y dice «Mándaselo a quien votó lentejas en el duelo del hierro». Una ráfaga dice «¡Continuará!». Mañana a la una: ¿daña la keto los riñones?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-03",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_duelo_comic",
+    "formato": "CXDUELO",
+    "lote": "lux-2026-12",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_comic (Vivax Cómic, mundo balanza) · spec n1-lux-20261203-1300-quinoa-lentejas-magnesio",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_duelo_comic",
+    "familia": "reel_duelo",
+    "mecanica": "reel_duelo",
+    "variante": "balanza",
+    "variante_idx": 2,
+    "spec_id": "n1-lux-20261203-1300-quinoa-lentejas-magnesio",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "frente": "publico",
+    "pilar_plan": "Fibra e hidratos",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261203-1300-quinoa-lentejas-magnesio",
+    "plantilla_visual": "reel_duelo_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-049, verificado el 11-oct-2026), magnesio por 100 g: quinoa cocida 64 mg y lentejas cocidas 36 mg. Cálculo propio: 64 entre 36 da 1,78, «casi el doble». Es la cantidad que hay en el alimento, no la que se absorbe. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-056), para alimentos que son fuente de magnesio (al menos 56,25 mg por 100 g, el 15 % del VRN de 375 mg): la quinoa cocida lo es; las lentejas cocidas no, así que la frase se dice del magnesio y nunca de las lentejas. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Duelo de la comida",
+  "pilar_plan": "Fibra e hidratos"
+}

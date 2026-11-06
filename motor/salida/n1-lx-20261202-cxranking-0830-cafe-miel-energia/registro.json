@@ -1,0 +1,3902 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 20.48,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 10.5,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.734,
+ "n_cambios_visuales": 481,
+ "bucle_dif_ultimo_primero": 49.0,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿EH?",
+   "contando": false,
+   "r": [
+    716,
+    797,
+    874,
+    952
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    70,
+    310,
+    189,
+    505
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pan,",
+   "contando": false,
+   "r": [
+    214,
+    298,
+    450,
+    499
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    475,
+    294,
+    549,
+    488
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    574,
+    287,
+    714,
+    483
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pelo",
+   "contando": false,
+   "r": [
+    75,
+    429,
+    323,
+    630
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    348,
+    419,
+    533,
+    618
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "número",
+   "contando": false,
+   "r": [
+    86,
+    564,
+    483,
+    743
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "uno.",
+   "contando": false,
+   "r": [
+    518,
+    552,
+    752,
+    724
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    94,
+    260,
+    331,
+    313
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    112,
+    358,
+    150,
+    439
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "café solo",
+   "contando": false,
+   "r": [
+    209,
+    303,
+    676,
+    488
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    668,
+    632,
+    818,
+    838
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    808,
+    731,
+    909,
+    817
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "¡ALA!",
+   "contando": false,
+   "r": [
+    706,
+    867,
+    868,
+    1022
+   ]
+  },
+  {
+   "t": 3.833,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    289,
+    1377,
+    405,
+    1458
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    113,
+    359,
+    151,
+    440
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "café solo",
+   "contando": false,
+   "r": [
+    210,
+    304,
+    675,
+    489
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    667,
+    633,
+    817,
+    838
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    808,
+    732,
+    908,
+    817
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "¡ALA!",
+   "contando": false,
+   "r": [
+    705,
+    868,
+    867,
+    1021
+   ]
+  },
+  {
+   "t": 4.033,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    291,
+    1377,
+    404,
+    1456
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    113,
+    359,
+    151,
+    440
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "café solo",
+   "contando": false,
+   "r": [
+    210,
+    304,
+    675,
+    489
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    667,
+    633,
+    817,
+    838
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    808,
+    732,
+    908,
+    817
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "¡ALA!",
+   "contando": false,
+   "r": [
+    705,
+    868,
+    867,
+    1021
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    291,
+    1377,
+    404,
+    1456
+   ]
+  },
+  {
+   "t": 4.533,
+   "texto": "nada.",
+   "contando": false,
+   "r": [
+    424,
+    1377,
+    579,
+    1456
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    113,
+    359,
+    151,
+    440
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "café solo",
+   "contando": false,
+   "r": [
+    210,
+    304,
+    675,
+    489
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    693,
+    660,
+    811,
+    821
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    804,
+    738,
+    884,
+    805
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "¡ALA!",
+   "contando": false,
+   "r": [
+    729,
+    890,
+    843,
+    999
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    124,
+    1236,
+    169,
+    1298
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    168,
+    1264,
+    199,
+    1290
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "Tercero,",
+   "contando": false,
+   "r": [
+    315,
+    1377,
+    555,
+    1456
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    94,
+    260,
+    331,
+    313
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    119,
+    1232,
+    167,
+    1302
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    169,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    108,
+    349,
+    155,
+    449
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "tomate crudo",
+   "contando": false,
+   "r": [
+    212,
+    302,
+    877,
+    481
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    677,
+    642,
+    801,
+    847
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    795,
+    719,
+    897,
+    806
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    676,
+    876,
+    897,
+    1013
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "Segundo,",
+   "contando": false,
+   "r": [
+    313,
+    1378,
+    556,
+    1457
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    109,
+    350,
+    155,
+    450
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "tomate crudo",
+   "contando": false,
+   "r": [
+    212,
+    304,
+    876,
+    482
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    677,
+    643,
+    800,
+    847
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    794,
+    719,
+    896,
+    806
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    676,
+    876,
+    896,
+    1013
+   ]
+  },
+  {
+   "t": 6.5,
+   "texto": "Segundo,",
+   "contando": false,
+   "r": [
+    314,
+    1377,
+    556,
+    1456
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    261,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    109,
+    350,
+    155,
+    450
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "tomate crudo",
+   "contando": false,
+   "r": [
+    212,
+    304,
+    876,
+    482
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    701,
+    668,
+    798,
+    828
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    793,
+    728,
+    874,
+    797
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    708,
+    896,
+    865,
+    993
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    379,
+    1167,
+    415,
+    1230
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1196,
+    445,
+    1223
+   ]
+  },
+  {
+   "t": 6.633,
+   "texto": "Segundo,",
+   "contando": false,
+   "r": [
+    314,
+    1377,
+    556,
+    1456
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    94,
+    260,
+    331,
+    313
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    118,
+    1233,
+    167,
+    1303
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    169,
+    1264,
+    203,
+    1293
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1164,
+    413,
+    1235
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1225
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    114,
+    348,
+    148,
+    449
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "pan blanco",
+   "contando": false,
+   "r": [
+    209,
+    300,
+    753,
+    488
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    116,
+    632,
+    311,
+    833
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    302,
+    731,
+    399,
+    813
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "¡UY!",
+   "contando": false,
+   "r": [
+    204,
+    869,
+    330,
+    1020
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    223,
+    1378,
+    283,
+    1457
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    304,
+    1378,
+    405,
+    1457
+   ]
+  },
+  {
+   "t": 7.667,
+   "texto": "blanco:",
+   "contando": false,
+   "r": [
+    426,
+    1378,
+    646,
+    1457
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    94,
+    260,
+    331,
+    313
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    119,
+    1232,
+    167,
+    1302
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    169,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    413,
+    1234
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1225
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    114,
+    348,
+    148,
+    449
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "pan blanco",
+   "contando": false,
+   "r": [
+    209,
+    300,
+    753,
+    488
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    117,
+    632,
+    311,
+    833
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    302,
+    731,
+    399,
+    813
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "¡UY!",
+   "contando": false,
+   "r": [
+    206,
+    870,
+    329,
+    1019
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    223,
+    1378,
+    283,
+    1457
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    304,
+    1378,
+    405,
+    1457
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "blanco:",
+   "contando": false,
+   "r": [
+    426,
+    1378,
+    646,
+    1457
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    115,
+    350,
+    149,
+    450
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "pan blanco",
+   "contando": false,
+   "r": [
+    210,
+    301,
+    752,
+    489
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    118,
+    633,
+    312,
+    833
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    303,
+    732,
+    399,
+    813
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "¡UY!",
+   "contando": false,
+   "r": [
+    207,
+    870,
+    329,
+    1019
+   ]
+  },
+  {
+   "t": 7.9,
+   "texto": "doscientas",
+   "contando": false,
+   "r": [
+    134,
+    1377,
+    438,
+    1456
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    115,
+    350,
+    149,
+    450
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "pan blanco",
+   "contando": false,
+   "r": [
+    210,
+    301,
+    752,
+    489
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    118,
+    633,
+    312,
+    833
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    303,
+    732,
+    399,
+    813
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "¡UY!",
+   "contando": false,
+   "r": [
+    207,
+    870,
+    329,
+    1019
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "doscientas",
+   "contando": false,
+   "r": [
+    134,
+    1377,
+    438,
+    1456
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "sesenta",
+   "contando": false,
+   "r": [
+    459,
+    1377,
+    681,
+    1456
+   ]
+  },
+  {
+   "t": 8.7,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    701,
+    1375,
+    737,
+    1457
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "seis",
+   "contando": false,
+   "r": [
+    183,
+    1377,
+    292,
+    1456
+   ]
+  },
+  {
+   "t": 9.2,
+   "texto": "kilocalorías.",
+   "contando": false,
+   "r": [
+    313,
+    1377,
+    687,
+    1456
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "seis",
+   "contando": false,
+   "r": [
+    183,
+    1377,
+    292,
+    1456
+   ]
+  },
+  {
+   "t": 9.367,
+   "texto": "kilocalorías.",
+   "contando": false,
+   "r": [
+    313,
+    1377,
+    687,
+    1456
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "seis",
+   "contando": false,
+   "r": [
+    183,
+    1377,
+    292,
+    1456
+   ]
+  },
+  {
+   "t": 9.9,
+   "texto": "kilocalorías.",
+   "contando": false,
+   "r": [
+    313,
+    1377,
+    687,
+    1456
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "Y",
+   "contando": false,
+   "r": [
+    307,
+    1377,
+    341,
+    1456
+   ]
+  },
+  {
+   "t": 10.567,
+   "texto": "arriba,",
+   "contando": false,
+   "r": [
+    362,
+    1377,
+    563,
+    1456
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    261,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    413,
+    1234
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    123,
+    351,
+    141,
+    449
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "salchicha tipo frankfurt",
+   "contando": false,
+   "r": [
+    212,
+    312,
+    751,
+    533
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    302,
+    636,
+    778,
+    904
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    242,
+    1377,
+    308,
+    1456
+   ]
+  },
+  {
+   "t": 11.5,
+   "texto": "salchicha:",
+   "contando": false,
+   "r": [
+    328,
+    1377,
+    628,
+    1456
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    123,
+    351,
+    141,
+    449
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "salchicha tipo frankfurt",
+   "contando": false,
+   "r": [
+    212,
+    312,
+    751,
+    533
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "269",
+   "contando": false,
+   "r": [
+    103,
+    687,
+    338,
+    929
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    332,
+    774,
+    448,
+    873
+   ]
+  },
+  {
+   "t": 12.1,
+   "texto": "doscientas",
+   "contando": false,
+   "r": [
+    283,
+    1377,
+    587,
+    1456
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    123,
+    351,
+    141,
+    449
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "salchicha tipo frankfurt",
+   "contando": false,
+   "r": [
+    212,
+    312,
+    751,
+    533
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "269",
+   "contando": false,
+   "r": [
+    103,
+    687,
+    338,
+    929
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    332,
+    774,
+    448,
+    873
+   ]
+  },
+  {
+   "t": 12.167,
+   "texto": "doscientas",
+   "contando": false,
+   "r": [
+    283,
+    1377,
+    587,
+    1456
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    123,
+    351,
+    141,
+    449
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "salchicha tipo frankfurt",
+   "contando": false,
+   "r": [
+    212,
+    312,
+    751,
+    533
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "269",
+   "contando": false,
+   "r": [
+    103,
+    687,
+    338,
+    929
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    332,
+    774,
+    448,
+    873
+   ]
+  },
+  {
+   "t": 12.5,
+   "texto": "sesenta",
+   "contando": false,
+   "r": [
+    196,
+    1377,
+    419,
+    1456
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    123,
+    351,
+    141,
+    449
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "salchicha tipo frankfurt",
+   "contando": false,
+   "r": [
+    212,
+    312,
+    751,
+    533
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "269",
+   "contando": false,
+   "r": [
+    103,
+    687,
+    338,
+    929
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    332,
+    774,
+    448,
+    873
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "sesenta",
+   "contando": false,
+   "r": [
+    196,
+    1377,
+    419,
+    1456
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    439,
+    1377,
+    474,
+    1456
+   ]
+  },
+  {
+   "t": 12.967,
+   "texto": "nueve.",
+   "contando": false,
+   "r": [
+    494,
+    1377,
+    674,
+    1456
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "Energía por 100 g",
+   "contando": false,
+   "r": [
+    95,
+    262,
+    332,
+    315
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "1,0",
+   "contando": false,
+   "r": [
+    120,
+    1232,
+    168,
+    1302
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    170,
+    1263,
+    204,
+    1292
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    374,
+    1163,
+    414,
+    1234
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    414,
+    1195,
+    449,
+    1224
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    614,
+    1061,
+    685,
+    1134
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    685,
+    1090,
+    721,
+    1121
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    123,
+    351,
+    141,
+    449
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "salchicha tipo frankfurt",
+   "contando": false,
+   "r": [
+    212,
+    312,
+    751,
+    533
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "269",
+   "contando": false,
+   "r": [
+    103,
+    687,
+    338,
+    929
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    332,
+    774,
+    448,
+    873
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "sesenta",
+   "contando": false,
+   "r": [
+    196,
+    1377,
+    419,
+    1456
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    439,
+    1377,
+    474,
+    1456
+   ]
+  },
+  {
+   "t": 13.0,
+   "texto": "nueve.",
+   "contando": false,
+   "r": [
+    494,
+    1377,
+    674,
+    1456
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "¿Y cuánto los separa?",
+   "contando": false,
+   "r": [
+    81,
+    265,
+    929,
+    420
+   ]
+  },
+  {
+   "t": 13.667,
+   "texto": "Composición por 100 g (USDA), no por ración. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    572,
+    1035,
+    897,
+    1130
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "¿Y cuánto los separa?",
+   "contando": false,
+   "r": [
+    81,
+    265,
+    929,
+    420
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    191,
+    573,
+    279,
+    645
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    292,
+    573,
+    411,
+    645
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "100 g:",
+   "contando": false,
+   "r": [
+    423,
+    573,
+    558,
+    645
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "salchicha",
+   "contando": false,
+   "r": [
+    571,
+    573,
+    820,
+    645
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    833,
+    573,
+    889,
+    645
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "cerdo",
+   "contando": false,
+   "r": [
+    265,
+    635,
+    409,
+    707
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "tipo",
+   "contando": false,
+   "r": [
+    422,
+    635,
+    525,
+    707
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "frankfurt,",
+   "contando": false,
+   "r": [
+    538,
+    635,
+    815,
+    707
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "269 kcal",
+   "contando": false,
+   "r": [
+    238,
+    697,
+    450,
+    769
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    463,
+    697,
+    519,
+    769
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "energía;",
+   "contando": false,
+   "r": [
+    532,
+    697,
+    739,
+    769
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    751,
+    697,
+    842,
+    769
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "blanco,",
+   "contando": false,
+   "r": [
+    226,
+    760,
+    418,
+    832
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "266 kcal.",
+   "contando": false,
+   "r": [
+    431,
+    760,
+    658,
+    832
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Tres",
+   "contando": false,
+   "r": [
+    670,
+    760,
+    785,
+    832
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    798,
+    760,
+    854,
+    832
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "diferencia.",
+   "contando": false,
+   "r": [
+    402,
+    822,
+    678,
+    894
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    146,
+    478,
+    342,
+    537
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Composición por 100 g (USDA), no por ración. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    572,
+    1035,
+    897,
+    1130
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "¿Y cuánto los separa?",
+   "contando": false,
+   "r": [
+    81,
+    265,
+    929,
+    420
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    191,
+    573,
+    279,
+    645
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    292,
+    573,
+    411,
+    645
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "100 g:",
+   "contando": false,
+   "r": [
+    423,
+    573,
+    558,
+    645
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "salchicha",
+   "contando": false,
+   "r": [
+    571,
+    573,
+    820,
+    645
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    833,
+    573,
+    889,
+    645
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "cerdo",
+   "contando": false,
+   "r": [
+    265,
+    635,
+    409,
+    707
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "tipo",
+   "contando": false,
+   "r": [
+    422,
+    635,
+    525,
+    707
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "frankfurt,",
+   "contando": false,
+   "r": [
+    538,
+    635,
+    815,
+    707
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "269 kcal",
+   "contando": false,
+   "r": [
+    238,
+    697,
+    450,
+    769
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    463,
+    697,
+    519,
+    769
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "energía;",
+   "contando": false,
+   "r": [
+    532,
+    697,
+    739,
+    769
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    751,
+    697,
+    842,
+    769
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "blanco,",
+   "contando": false,
+   "r": [
+    226,
+    760,
+    418,
+    832
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "266 kcal.",
+   "contando": false,
+   "r": [
+    431,
+    760,
+    658,
+    832
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Tres",
+   "contando": false,
+   "r": [
+    670,
+    760,
+    785,
+    832
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    798,
+    760,
+    854,
+    832
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "diferencia.",
+   "contando": false,
+   "r": [
+    402,
+    822,
+    678,
+    894
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    146,
+    478,
+    342,
+    537
+   ]
+  },
+  {
+   "t": 15.833,
+   "texto": "Composición por 100 g (USDA), no por ración. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    572,
+    1035,
+    897,
+    1130
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    202,
+    986,
+    456,
+    1054
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    468,
+    986,
+    498,
+    1054
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    146,
+    1045,
+    271,
+    1113
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    287,
+    1054,
+    375,
+    1117
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    720,
+    880,
+    863,
+    911
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    202,
+    986,
+    456,
+    1054
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    468,
+    986,
+    498,
+    1054
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    146,
+    1045,
+    271,
+    1113
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    283,
+    1045,
+    379,
+    1113
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "bocata",
+   "contando": false,
+   "r": [
+    391,
+    1045,
+    554,
+    1113
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    192,
+    1105,
+    245,
+    1173
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "salchicha.",
+   "contando": false,
+   "r": [
+    258,
+    1105,
+    508,
+    1173
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    313,
+    844,
+    556
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    150,
+    679,
+    297,
+    739
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "temprano:",
+   "contando": false,
+   "r": [
+    305,
+    672,
+    504,
+    734
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "¿más",
+   "contando": false,
+   "r": [
+    512,
+    668,
+    605,
+    726
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "huevos,",
+   "contando": false,
+   "r": [
+    170,
+    728,
+    314,
+    788
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    321,
+    725,
+    393,
+    783
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "infartos?",
+   "contando": false,
+   "r": [
+    400,
+    718,
+    588,
+    780
+   ]
+  },
+  {
+   "t": 20.0,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    720,
+    880,
+    863,
+    911
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    202,
+    986,
+    456,
+    1054
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    468,
+    986,
+    498,
+    1054
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    146,
+    1045,
+    271,
+    1113
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    283,
+    1045,
+    379,
+    1113
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "bocata",
+   "contando": false,
+   "r": [
+    391,
+    1045,
+    554,
+    1113
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    192,
+    1105,
+    245,
+    1173
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "salchicha.",
+   "contando": false,
+   "r": [
+    258,
+    1105,
+    508,
+    1173
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    313,
+    844,
+    556
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    150,
+    679,
+    297,
+    739
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "temprano:",
+   "contando": false,
+   "r": [
+    305,
+    672,
+    504,
+    734
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "¿más",
+   "contando": false,
+   "r": [
+    512,
+    668,
+    605,
+    726
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "huevos,",
+   "contando": false,
+   "r": [
+    170,
+    728,
+    314,
+    788
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    321,
+    725,
+    393,
+    783
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "infartos?",
+   "contando": false,
+   "r": [
+    400,
+    718,
+    588,
+    780
+   ]
+  },
+  {
+   "t": 20.4,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    720,
+    880,
+    863,
+    911
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.833,
+  4.033,
+  4.533,
+  5.233,
+  6.3,
+  6.5,
+  6.633,
+  7.667,
+  7.7,
+  7.9,
+  8.7,
+  9.2,
+  9.367,
+  9.9,
+  10.567,
+  11.5,
+  12.1,
+  12.167,
+  12.5,
+  12.967,
+  13.0,
+  13.667,
+  15.8,
+  15.833,
+  16.9,
+  20.0,
+  20.4
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.72,
+  "tiempo_reduccion_mas_1db_pct": 0.16,
+  "efectos_por_tipo": {
+   "pum": 7,
+   "zas": 5,
+   "pop": 16,
+   "plop": 10,
+   "tic": 7,
+   "tac": 7,
+   "subida": 2,
+   "ding": 2,
+   "boing": 3,
+   "sello": 1,
+   "whoosh": 2
+  },
+  "descartados": 0,
+  "duracion_s": 20.412,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 294,
+   "texto": "El pan, a un pelo del número uno. Cuarto, el café solo: casi nada. Tercero, el tomate. Segundo, el pan blanco: doscientas sesenta y seis kilocalorías. Y arriba, la salchicha: doscientas sesenta y nueve. ¿Cuánto los separa? Tres, por cada cien gramos. Mándaselo a quien pide bocata de salchicha.",
+   "cortes": 16,
+   "silencios_s": 0.22,
+   "pausas_acortadas_s": 2.48,
+   "duracion_voz_s": 18.14
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.0
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.894,
+   "tipo": "zas",
+   "intensidad": 0.42
+  },
+  {
+   "t": 2.914,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.244,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.434,
+   "tipo": "pum",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.554,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 3.904,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.164,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.354,
+   "tipo": "zas",
+   "intensidad": 0.42
+  },
+  {
+   "t": 5.374,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 5.704,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.894,
+   "tipo": "pum",
+   "intensidad": 0.75
+  },
+  {
+   "t": 6.014,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 6.364,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.564,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.754,
+   "tipo": "zas",
+   "intensidad": 0.42
+  },
+  {
+   "t": 6.774,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 7.104,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 7.294,
+   "tipo": "pum",
+   "intensidad": 0.75
+  },
+  {
+   "t": 7.414,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 7.764,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.874,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.984,
+   "tipo": "tic",
+   "intensidad": 0.239
+  },
+  {
+   "t": 9.104,
+   "tipo": "tac",
+   "intensidad": 0.258
+  },
+  {
+   "t": 9.224,
+   "tipo": "tic",
+   "intensidad": 0.277
+  },
+  {
+   "t": 9.344,
+   "tipo": "tac",
+   "intensidad": 0.296
+  },
+  {
+   "t": 9.464,
+   "tipo": "tic",
+   "intensidad": 0.315
+  },
+  {
+   "t": 9.584,
+   "tipo": "tac",
+   "intensidad": 0.334
+  },
+  {
+   "t": 9.704,
+   "tipo": "tic",
+   "intensidad": 0.353
+  },
+  {
+   "t": 9.824,
+   "tipo": "tac",
+   "intensidad": 0.372
+  },
+  {
+   "t": 9.944,
+   "tipo": "tic",
+   "intensidad": 0.391
+  },
+  {
+   "t": 10.064,
+   "tipo": "tac",
+   "intensidad": 0.409
+  },
+  {
+   "t": 10.164,
+   "tipo": "subida",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.184,
+   "tipo": "tic",
+   "intensidad": 0.428
+  },
+  {
+   "t": 10.304,
+   "tipo": "tac",
+   "intensidad": 0.447
+  },
+  {
+   "t": 10.424,
+   "tipo": "tic",
+   "intensidad": 0.466
+  },
+  {
+   "t": 10.544,
+   "tipo": "tac",
+   "intensidad": 0.485
+  },
+  {
+   "t": 10.764,
+   "tipo": "zas",
+   "intensidad": 0.42
+  },
+  {
+   "t": 10.764,
+   "tipo": "pum",
+   "intensidad": 0.95
+  },
+  {
+   "t": 10.784,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 10.804,
+   "tipo": "ding",
+   "intensidad": 0.6
+  },
+  {
+   "t": 11.064,
+   "tipo": "boing",
+   "intensidad": 0.45
+  },
+  {
+   "t": 11.184,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.594,
+   "tipo": "pum",
+   "intensidad": 0.75
+  },
+  {
+   "t": 12.064,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 13.064,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.144,
+   "tipo": "pop",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.204,
+   "tipo": "pop",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.224,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 13.264,
+   "tipo": "pop",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.324,
+   "tipo": "pop",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.864,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 15.551,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.901,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.161,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 16.401,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.941,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.241,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 18.591,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.701,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.841,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 19.837,
+   "tipo": "boing",
+   "intensidad": 0.24
+  }
+ ],
+ "fotogramas": 613,
+ "tiempo_render_s": 133.0,
+ "tiempos_s": {
+  "preparar": 7.65,
+  "dibujar_y_codificar": 123.58
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_ranking_comic",
+ "familia": "reel_ranking",
+ "variante": "podio",
+ "mundo": "BF cuenta atrás en el podio",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  3.7333,
+  6.2,
+  7.6,
+  9.3,
+  11.0333,
+  12.2,
+  14.2667,
+  15.7667,
+  17.2,
+  18.5333,
+  20.4
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "IV · su cifra",
+  "III · su cifra",
+  "II · su cifra",
+  "redoble",
+  "¡tachán!",
+  "I · su cifra",
+  "Oli: para qué sirve",
+  "conclusión entera",
+  "cierre",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto_personajes": [
+  "vaso",
+  "tomate",
+  "pan",
+  "etiqueta"
+ ],
+ "linea_de_tiempo": {
+  "dur": 20.4333,
+  "n": 4,
+  "nombre": [
+   3.014,
+   5.474,
+   6.874,
+   10.814
+  ],
+  "a": [
+   2.694,
+   5.154,
+   6.554,
+   10.494
+  ],
+  "c": [
+   3.434,
+   5.894,
+   7.294
+  ],
+  "o": [
+   5.114,
+   6.514,
+   8.824
+  ],
+  "s": 8.864,
+  "rev": 10.764,
+  "ctop": 11.594,
+  "C0": 13.064,
+  "D0": 13.764,
+  "D1": 15.501,
+  "K0": 15.901,
+  "fin_voz": 18.141,
+  "ono": 18.241,
+  "anz": 18.591
+ },
+ "avisos_plantilla": [
+  "no hay icono «cafe» en lux_iconos: «café solo» lleva el cuenco genérico",
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ALI-131, ALI-136, ALI-144, ALI-081",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #kilocalorias #cuentaatras #almuerzo #nutricion»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «chicha. Mañana temprano: ¿más huevos, más infartos?»"
+ ]
+}

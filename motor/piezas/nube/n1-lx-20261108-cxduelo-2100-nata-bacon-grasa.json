@@ -1,0 +1,121 @@
+{
+  "id": "n1-lx-20261108-cxduelo-2100-nata-bacon-grasa",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxduelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-089"
+  ],
+  "titulo": "[CXDUELO] Más grasa que el bacon, y va en tartas.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Curiosidades Vivax",
+      "titulo": "Más {grasa} que el bacon, y va en tartas.",
+      "izq": "nata para montar",
+      "der": "bacon frito",
+      "dice": [
+        "¡PUM!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "nata para montar",
+      "etiqueta_no": "Paso",
+      "izq": "nata para montar",
+      "voz": "Más grasa que el bacon, y va en tartas. Todos le dan paso a la nata. Al bacon, me gusta. Pero la nata vuelve: treinta y seis coma uno. El bacon, treinta y cinco coma uno. ¿Y cuánto los separa? Un gramo justo por cada cien gramos. Mándaselo a quien se pide doble de nata."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "bacon frito",
+      "etiqueta_si": "Me gusta",
+      "der": "bacon frito",
+      "cifra": "35,1",
+      "unidad": "g",
+      "texto": "de grasa por 100 g",
+      "dato": "Grasa"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "nata para montar",
+      "izq": "nata para montar",
+      "cifra": "36,1",
+      "unidad": "g",
+      "texto": "de grasa por 100 g",
+      "dato": "Grasa",
+      "dice": [
+        "¡BUM!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Grasa",
+      "texto": "Por 100 g",
+      "izq": "nata para montar",
+      "der": "bacon frito",
+      "cifra": "36,1",
+      "unidad": "g",
+      "items": [
+        "35,1"
+      ],
+      "dice": [
+        "¡Un gramo más!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y cuánto los separa?",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, la nata para montar lleva 36,1 g de grasa y el bacon frito, 35,1 g.",
+      "fuente": "La grasa no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien se pide doble de nata.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana temprano: la chía, a examen de proteína."
+    }
+  ],
+  "pie_instagram": "Más grasa que el bacon, y va en tartas.\n\nPor 100 g: nata para montar, 36,1 g de grasa; bacon frito, 35,1 g.\nPor cada 100 g, la nata para montar lleva un gramo más de grasa que el bacon frito.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, la nata para montar lleva 36,1 g de grasa y el bacon frito, 35,1 g.\n\n¿A quién le habías dado el me gusta?\nMándaselo a quien se pide doble de nata. Mañana temprano: la chía, a examen de proteína.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #grasa #nata #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: el pesaje oficial en el ring (AA): focos, cuerdas, báscula, marcador, boxeadores con guantes, grada y árbitro. Subtítulos grandes de la voz palabra a palabra. Portada: Más grasa que el bacon, y va en tartas. nata para montar (un muñeco con cara) frente a bacon frito (un muñeco con cara), con público de muñecos con cara (Oli, la aceituna de Vivax, una etiqueta de alimentos, un queso, una nuez) que reacciona. Sello «Paso» para nata para montar. «Me gusta» para bacon frito: 35,1 g de grasa. La vuelta de nata para montar: su cifra revienta, 36,1 g. El público se sorprende. Cara a cara: 36,1 g frente a 35,1 g, por 100 g. Una ráfaga dice «Un gramo más». ¿Y cuánto los separa? El dato final: Por cada 100 g, la nata para montar lleva 36,1 g de grasa y el bacon frito, 35,1 g. Oli lo presenta. Cierre: Oli saluda y dice «Mándaselo a quien se pide doble de nata». Una ráfaga dice «¡Continuará!». Mañana temprano: la chía, a examen de proteína."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-08",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_duelo_comic",
+    "formato": "CXDUELO",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_duelo_comic (Vivax Cómic, mundo ring) · spec n1-lux-20261108-2100-nata-bacon-grasa",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_duelo_comic",
+    "familia": "reel_duelo",
+    "mecanica": "reel_duelo",
+    "variante": "ring",
+    "variante_idx": 1,
+    "spec_id": "n1-lux-20261108-2100-nata-bacon-grasa",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "frente": "publico",
+    "pilar_plan": "curiosidad",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261108-2100-nata-bacon-grasa",
+    "plantilla_visual": "reel_duelo_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-089, verificado el 11-oct-2026): grasa por 100 g: nata para montar 36,1 g; bacon frito 35,1 g. Cálculo propio: 36,1 menos 35,1 es 1,0 g («un gramo»). Es grasa total, no grasa saturada. 100 g de nata o de bacon es más que una ración habitual. La grasa no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Curiosidades Vivax",
+  "pilar_plan": "curiosidad"
+}

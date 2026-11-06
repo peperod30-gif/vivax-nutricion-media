@@ -1,0 +1,145 @@
+{
+  "id": "n1-lx-20261107-cxranking-0830-zumo-cola-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxranking",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-080"
+  ],
+  "titulo": "[CXRANKING] Cola: 42 kcal. ¿Qué bebida de desayuno la supera?",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Energía por 100 g",
+      "titulo": "Cola: 42 {kcal}. ¿Qué bebida de desayuno la supera?",
+      "dice": [
+        "¿EH?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "IV",
+      "titulo": "leche desnatada",
+      "cifra": "34",
+      "unidad": "kcal",
+      "dice": [
+        "¿QUÉ?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "bebida de soja natural",
+      "cifra": "41",
+      "unidad": "kcal",
+      "dice": [
+        "¡ALA!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "refresco de cola",
+      "cifra": "42",
+      "unidad": "kcal",
+      "dice": [
+        "¡HALA!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "zumo de naranja",
+      "cifra": "45",
+      "unidad": "kcal",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "zumo de naranja",
+          "valor": "45",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "II",
+          "nombre": "refresco de cola",
+          "valor": "42",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "III",
+          "nombre": "bebida de soja natural",
+          "valor": "41",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "IV",
+          "nombre": "leche desnatada",
+          "valor": "34",
+          "unidad": "kcal"
+        }
+      ],
+      "voz": "Leche desnatada, treinta y cuatro. Bebida de soja, cuarenta y una. La cola, cuarenta y dos. Y arriba, el zumo de naranja: cuarenta y cinco."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y por cuánto la supera?",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g, el zumo de naranja lleva 45 kcal y el refresco de cola, 42 kcal.",
+      "fuente": "La energía no tiene declaración de salud autorizada. Son kilocalorías por 100 g, no por vaso ni por lata; no es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien exprime naranjas cada mañana.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "A mediodía: el desayuno con casi el doble de sodio que un donut."
+    }
+  ],
+  "pie_instagram": "Cola: 42 kcal. ¿Qué bebida de desayuno la supera?\n\nEnergía por 100 g: zumo de naranja, 45 kcal; refresco de cola, 42 kcal; bebida de soja natural, 41 kcal; leche desnatada, 34 kcal.\nKilocalorías por cada 100 g de bebida, de menos a más.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g, el zumo de naranja lleva 45 kcal y el refresco de cola, 42 kcal.\n\n¿Habías apostado por la cola?\nMándaselo a quien exprime naranjas cada mañana.\nA mediodía: el desayuno con casi el doble de sodio que un donut.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#curiosidades #energia #bebidas #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: cuenta atrás en un podio de columnas dibujadas a mano, con un muñeco con cara por alimento y Oli, la aceituna de Vivax, que presenta con micrófono. Energía por 100 g. Portada: Cola: 42 kcal. ¿Qué bebida de desayuno la supera? IV. leche desnatada (un vaso): 34 kcal. III. bebida de soja natural (un carton): 41 kcal. II. refresco de cola (un vaso): 42 kcal. I. zumo de naranja (una naranja): 45 kcal. El número uno sale con redoble, confeti y corona. ¿Y por cuánto la supera? Oli lo dice: Por cada 100 g, el zumo de naranja lleva 45 kcal y el refresco de cola, 42 kcal. Cierre: Oli saluda y dice «Mándaselo a quien exprime naranjas cada mañana». ¡Continuará! A mediodía: el desayuno con casi el doble de sodio que un donut."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-07",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_ranking_comic",
+    "formato": "CXRANKING",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_ranking_comic (Vivax Cómic, mundo podio: BF cuenta atrás en el podio) · spec n1-lux-20261107-0830-zumo-cola-energia",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_ranking_comic",
+    "familia": "reel_ranking",
+    "mecanica": "reel_ranking",
+    "variante": "podio",
+    "mundo": "BF cuenta atrás en el podio",
+    "spec_id": "n1-lux-20261107-0830-zumo-cola-energia",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "curiosidad",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261107-0830-zumo-cola-energia",
+    "plantilla_visual": "reel_ranking_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-080, verificado el 11-oct-2026): energía por 100 g: zumo de naranja 45 kcal; refresco de cola 42 kcal; bebida de soja natural 41 kcal; leche desnatada 34 kcal. Selección de ALI-080 sin las bebidas alcohólicas. Cálculo propio: 45 menos 42 son 3 kcal («tres kilocalorías más» por cada 100 g). Son kilocalorías por 100 g, no por vaso ni por lata. La energía no tiene declaración de salud autorizada: la conclusión es el hecho del banco. Es composición, no una recomendación de cantidad ni de beber o evitar nada. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Curiosidades Vivax",
+  "pilar_plan": "curiosidad"
+}

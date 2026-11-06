@@ -1,0 +1,123 @@
+{
+  "id": "n1-lx-20261125-cxduelo-1300-trucha-huevo-vitamina-d",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxduelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "VIT-007",
+    "VIT-005"
+  ],
+  "titulo": "[CXDUELO] ¿Huevo o trucha? Unas nueve veces más vitamina D.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Duelo de la comida",
+      "titulo": "¿Huevo o trucha? Unas nueve veces más {vitamina D}.",
+      "izq": "trucha cocinada",
+      "der": "huevo cocido",
+      "dice": [
+        "¿EH?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "trucha cocinada",
+      "etiqueta_no": "Paso",
+      "izq": "trucha cocinada",
+      "voz": "¿Huevo o trucha? A la trucha, paso. Al huevo, me gusta, como siempre. Pero la trucha vuelve: diecinueve microgramos de vitamina D. El huevo, dos coma dos. Unas nueve veces más. ¿Y qué hace la vitamina D? La vitamina D contribuye al funcionamiento normal de los músculos. Mándaselo a quien desayuna huevos por la vitamina D."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "huevo cocido",
+      "etiqueta_si": "Me gusta",
+      "der": "huevo cocido",
+      "cifra": "2,2",
+      "unidad": "µg",
+      "texto": "de vitamina D por 100 g",
+      "dato": "Vitamina D"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "trucha cocinada",
+      "izq": "trucha cocinada",
+      "cifra": "19,0",
+      "unidad": "µg",
+      "texto": "de vitamina D por 100 g",
+      "dato": "Vitamina D",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Vitamina D",
+      "texto": "Por 100 g",
+      "izq": "trucha cocinada",
+      "der": "huevo cocido",
+      "cifra": "19,0",
+      "unidad": "µg",
+      "items": [
+        "2,2"
+      ],
+      "dice": [
+        "¡Unas 9 veces!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y qué hace la vitamina D?",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina D contribuye al funcionamiento normal de los músculos.",
+      "vit": "VIT-005",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina D. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien desayuna huevos por la vitamina D.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana a la una: el plan B de tu cerebro, cuál y cuándo."
+    }
+  ],
+  "pie_instagram": "¿Huevo o trucha? Unas nueve veces más vitamina D.\n\nPor 100 g: trucha cocinada, 19,0 µg de vitamina D; huevo cocido, 2,2 µg.\nPor cada 100 g. La trucha cocinada lleva unas 9 veces la vitamina D del huevo cocido.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La vitamina D contribuye al funcionamiento normal de los músculos. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina D; no es una recomendación personal.\n\n¿A cuál le habías dado el me gusta?\nMándaselo a quien desayuna huevos por la vitamina D. Mañana a la una: el plan B de tu cerebro, cuál y cuándo.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaD #trucha #huevo #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: la app de citas (AU): tarjetas que se deslizan con sello «Paso» y «Me gusta», botones de aspa y corazón. Subtítulos grandes de la voz palabra a palabra. Portada: ¿Huevo o trucha? Unas nueve veces más vitamina D. trucha cocinada (un muñeco con cara) frente a huevo cocido (un muñeco con cara), con público de muñecos con cara (Oli, la aceituna de Vivax, un vaso de leche, una naranja, una lenteja) que reacciona. Sello «Paso» para trucha cocinada. «Me gusta» para huevo cocido: 2,2 µg de vitamina D. La vuelta de trucha cocinada: su cifra revienta, 19,0 µg. El público se sorprende. Cara a cara: 19,0 µg frente a 2,2 µg, por 100 g. Una ráfaga dice «Unas 9 veces». ¿Y qué hace la vitamina D? Para qué sirve: La vitamina D contribuye al funcionamiento normal de los músculos. Oli lo presenta. Cierre: Oli saluda y dice «Mándaselo a quien desayuna huevos por la vitamina D». Una ráfaga dice «¡Continuará!». Mañana a la una: el plan B de tu cerebro, cuál y cuándo."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-25",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_duelo_comic",
+    "formato": "CXDUELO",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_comic (Vivax Cómic, mundo app) · spec n1-lux-20261125-1300-trucha-huevo-vitamina-d",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_duelo_comic",
+    "familia": "reel_duelo",
+    "mecanica": "reel_duelo",
+    "variante": "app",
+    "variante_idx": 0,
+    "spec_id": "n1-lux-20261125-1300-trucha-huevo-vitamina-d",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "frente": "publico",
+    "pilar_plan": "Vitaminas",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261125-1300-trucha-huevo-vitamina-d",
+    "plantilla_visual": "reel_duelo_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (VIT-007, fdcId 173718 y 173424; datos de 2018, consultados el 13-oct-2026): por cada 100 g, trucha cocinada 19,0 µg de vitamina D (380 % del VRN) y huevo cocido 2,2 µg (44 % del VRN); la trucha lleva unas 9 veces la cantidad del huevo. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-005); los dos son fuente de vitamina D. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Duelo de la comida",
+  "pilar_plan": "Vitaminas"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "n1-lx-20261202-cxranking-0830-cafe-miel-energia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxranking",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-131",
+    "ALI-136",
+    "ALI-144",
+    "ALI-081"
+  ],
+  "titulo": "[CXRANKING] El pan, a un pelo del número uno.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Energía por 100 g",
+      "titulo": "El pan, a un pelo del {número uno}.",
+      "dice": [
+        "¿EH?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "IV",
+      "titulo": "café solo",
+      "cifra": "1,0",
+      "unidad": "kcal",
+      "dice": [
+        "¡ALA!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "tomate crudo",
+      "cifra": "18",
+      "unidad": "kcal",
+      "dice": [
+        "¡HALA!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "pan blanco",
+      "cifra": "266",
+      "unidad": "kcal",
+      "dice": [
+        "¡UY!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "salchicha tipo frankfurt",
+      "cifra": "269",
+      "unidad": "kcal",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "salchicha tipo frankfurt",
+          "valor": "269",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "II",
+          "nombre": "pan blanco",
+          "valor": "266",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "III",
+          "nombre": "tomate crudo",
+          "valor": "18",
+          "unidad": "kcal"
+        },
+        {
+          "cab": "IV",
+          "nombre": "café solo",
+          "valor": "1,0",
+          "unidad": "kcal"
+        }
+      ],
+      "voz": "Cuarto, el café solo: casi nada. Tercero, el tomate. Segundo, el pan blanco: doscientas sesenta y seis kilocalorías. Y arriba, la salchicha: doscientas sesenta y nueve."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y cuánto los separa?",
+      "resalte": "El dato final",
+      "frase": "Por cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía; pan blanco, 266 kcal. Tres de diferencia.",
+      "fuente": "Composición por 100 g (USDA), no por ración. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien pide bocata de salchicha.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana temprano: ¿más huevos, más infartos?"
+    }
+  ],
+  "pie_instagram": "El pan, a un pelo del número uno.\n\nEnergía por 100 g: salchicha tipo frankfurt, 269 kcal; pan blanco, 266 kcal; tomate crudo, 18 kcal; café solo, 1,0 kcal.\nPor cada 100 g. El café, solo; el tomate, crudo; el pan, blanco y sin tostar.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía; pan blanco, 266 kcal. Tres de diferencia.\n\n¿Habías apostado por el pan?\nMándaselo a quien pide bocata de salchicha.\nMañana temprano: ¿más huevos, más infartos?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#kilocalorias #cuentaatras #almuerzo #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: cuenta atrás en un podio de columnas dibujadas a mano, con un muñeco con cara por alimento y Oli, la aceituna de Vivax, que presenta con micrófono. Energía por 100 g. Portada: El pan, a un pelo del número uno. IV. café solo (un vaso): 1,0 kcal. III. tomate crudo (un tomate): 18 kcal. II. pan blanco (una rebanada de pan): 266 kcal. I. salchicha tipo frankfurt (una etiqueta con ojos): 269 kcal. El número uno sale con redoble, confeti y corona. ¿Y cuánto los separa? Oli lo dice: Por cada 100 g: salchicha de cerdo tipo frankfurt, 269 kcal de energía; pan blanco, 266 kcal. Tres de diferencia. Cierre: Oli saluda y dice «Mándaselo a quien pide bocata de salchicha». ¡Continuará! Mañana temprano: ¿más huevos, más infartos?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-02",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_ranking_comic",
+    "formato": "CXRANKING",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "nota": "plantilla reel_ranking_comic (Vivax Cómic, mundo podio: BF cuenta atrás en el podio) · spec n1-lux-20261202-0830-cafe-miel-energia",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_ranking_comic",
+    "familia": "reel_ranking",
+    "mecanica": "reel_ranking",
+    "variante": "podio",
+    "mundo": "BF cuenta atrás en el podio",
+    "spec_id": "n1-lux-20261202-0830-cafe-miel-energia",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "Vitaminas",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261202-0830-cafe-miel-energia",
+    "plantilla_visual": "reel_ranking_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (verificado el 11-oct-2026), energía por 100 g: café solo 1,0 kcal (ALI-131); tomate crudo 18 kcal (ALI-136); pan blanco 266 kcal (ALI-144); salchicha de cerdo tipo frankfurt 269 kcal (ALI-081, la misma cifra que ALI-115). Cálculo propio: 269 menos 266 son 3 kcal. Son cifras por 100 g de cada alimento, no por ración. La energía no tiene declaración de salud autorizada: la conclusión es una lectura de las cifras del banco. Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Cuenta atrás de la mañana",
+  "pilar_plan": "Vitaminas"
+}

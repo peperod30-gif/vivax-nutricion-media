@@ -1,0 +1,124 @@
+{
+  "id": "n1-lx-20261122-cxduelo-0830-chocolate-ternera-hierro",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxduelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-008",
+    "ALI-062",
+    "VIT-054"
+  ],
+  "titulo": "[CXDUELO] Un dulce con más hierro que la ternera.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Curiosidades Vivax",
+      "titulo": "Un dulce con más hierro que la {ternera}.",
+      "izq": "chocolate negro 70-85 %",
+      "der": "ternera picada cocinada",
+      "dice": [
+        "¡PIP!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "chocolate negro 70-85 %",
+      "etiqueta_no": "Paso",
+      "izq": "chocolate negro 70-85 %",
+      "voz": "Un dulce con más hierro que la ternera. Paso al chocolate. A la ternera, me gusta. Pero el chocolate vuelve: doce miligramos. La ternera, dos coma siete. Más de cuatro veces. ¿Y para qué sirve el hierro? El hierro contribuye al transporte normal de oxígeno en el cuerpo. Mándaselo a quien presume de chocolate negro."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "ternera picada cocinada",
+      "etiqueta_si": "Me gusta",
+      "der": "ternera picada cocinada",
+      "cifra": "2,7",
+      "unidad": "mg",
+      "texto": "de hierro por 100 g",
+      "dato": "Hierro"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "chocolate negro 70-85 %",
+      "izq": "chocolate negro 70-85 %",
+      "cifra": "12",
+      "unidad": "mg",
+      "texto": "de hierro por 100 g",
+      "dato": "Hierro",
+      "dice": [
+        "¡HALA!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Hierro",
+      "texto": "Por 100 g",
+      "izq": "chocolate negro 70-85 %",
+      "der": "ternera picada cocinada",
+      "cifra": "12",
+      "unidad": "mg",
+      "items": [
+        "2,7"
+      ],
+      "dice": [
+        "¡Más de cuatro veces!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y para qué sirve el hierro?",
+      "resalte": "Hierro",
+      "frase": "El hierro contribuye al transporte normal de oxígeno en el cuerpo.",
+      "vit": "VIT-054",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien presume de chocolate negro.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana: plátano contra aguacate, en potasio."
+    }
+  ],
+  "pie_instagram": "Un dulce con más hierro que la ternera.\n\nPor 100 g: chocolate negro 70-85 %, 12 mg de hierro; ternera picada cocinada, 2,7 mg.\nPor cada 100 g, más de cuatro veces. Es lo que lleva, no lo que se absorbe.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿Le habías dado el me gusta a la ternera?\nMándaselo a quien presume de chocolate negro. Mañana: plátano contra aguacate, en potasio.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #curiosidades #chocolate #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: el concurso de pulsadores (BJ): atril, placas con el nombre, presentadora y público. Subtítulos grandes de la voz palabra a palabra. Portada: Un dulce con más hierro que la ternera. chocolate negro 70-85 % (un muñeco con cara) frente a ternera picada cocinada (Oli, la aceituna de Vivax, con el dibujo del alimento en un cartel), con público de muñecos con cara (una lenteja, una gota de grasa, un aguacate, un huevo) que reacciona. Sello «Paso» para chocolate negro 70-85 %. «Me gusta» para ternera picada cocinada: 2,7 mg de hierro. La vuelta de chocolate negro 70-85 %: su cifra revienta, 12 mg. El público se sorprende. Cara a cara: 12 mg frente a 2,7 mg, por 100 g. Una ráfaga dice «Más de cuatro veces». ¿Y para qué sirve el hierro? Hierro: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Una lenteja lo presenta. Cierre: Una lenteja saluda y dice «Mándaselo a quien presume de chocolate negro». Una ráfaga dice «¡Continuará!». Mañana: plátano contra aguacate, en potasio."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "serie": "Curiosidades Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_duelo_comic",
+    "formato": "CXDUELO",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_duelo_comic (Vivax Cómic, mundo pulsadores) · spec n1-lux-20261122-0830-chocolate-ternera-hierro",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_duelo_comic",
+    "familia": "reel_duelo",
+    "mecanica": "reel_duelo",
+    "variante": "pulsadores",
+    "variante_idx": 5,
+    "spec_id": "n1-lux-20261122-0830-chocolate-ternera-hierro",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "frente": "publico",
+    "pilar_plan": "curiosidad",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261122-0830-chocolate-ternera-hierro",
+    "plantilla_visual": "reel_duelo_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, hierro por 100 g: chocolate negro 70-85 % 12 mg (ALI-008); ternera picada cocinada 2,7 mg (ALI-062). Es la cantidad que hay en el alimento, no la que se absorbe. Cálculo: 12 / 2,7 = 4,44 (más de cuatro veces). 100 g de chocolate es mucho más que una onza. Declaración autorizada: Reglamento (UE) nº 432/2012 (VIT-054), para alimentos que son fuente de hierro; los dos lo son (al menos 2,1 mg por 100 g, el 15 % del VRN de 14 mg). Es composición, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Curiosidades Vivax",
+  "pilar_plan": "curiosidad"
+}

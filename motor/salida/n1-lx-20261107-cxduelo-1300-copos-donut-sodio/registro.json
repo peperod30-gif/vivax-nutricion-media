@@ -1,0 +1,1863 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 20.94,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.37,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -1.9,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.433,
+ "n_cambios_visuales": 467,
+ "bucle_dif_ultimo_primero": 48.46,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Casi",
+   "contando": false,
+   "r": [
+    72,
+    276,
+    287,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    312,
+    271,
+    420,
+    453
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "doble",
+   "contando": false,
+   "r": [
+    445,
+    260,
+    737,
+    448
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    762,
+    255,
+    882,
+    437
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    81,
+    406,
+    362,
+    573
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    392,
+    392,
+    571,
+    576
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    596,
+    386,
+    724,
+    568
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "donut.",
+   "contando": false,
+   "r": [
+    81,
+    517,
+    412,
+    706
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    95,
+    261,
+    357,
+    316
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    177,
+    1117,
+    400,
+    1188
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    639,
+    1115,
+    903,
+    1190
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿EH?",
+   "contando": false,
+   "r": [
+    465,
+    782,
+    614,
+    927
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "Casi",
+   "contando": false,
+   "r": [
+    72,
+    276,
+    287,
+    461
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    312,
+    271,
+    420,
+    453
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "doble",
+   "contando": false,
+   "r": [
+    445,
+    260,
+    737,
+    448
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    762,
+    255,
+    882,
+    437
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    81,
+    406,
+    362,
+    573
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    392,
+    392,
+    571,
+    576
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    596,
+    386,
+    724,
+    568
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "donut.",
+   "contando": false,
+   "r": [
+    81,
+    517,
+    412,
+    706
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    95,
+    261,
+    357,
+    316
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    177,
+    1117,
+    400,
+    1188
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    639,
+    1115,
+    903,
+    1190
+   ]
+  },
+  {
+   "t": 2.233,
+   "texto": "¿EH?",
+   "contando": false,
+   "r": [
+    465,
+    782,
+    614,
+    927
+   ]
+  },
+  {
+   "t": 4.133,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    75,
+    262,
+    754,
+    454
+   ]
+  },
+  {
+   "t": 4.133,
+   "texto": "Paso",
+   "contando": false,
+   "r": [
+    266,
+    618,
+    430,
+    759
+   ]
+  },
+  {
+   "t": 4.133,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    196,
+    1328,
+    312,
+    1426
+   ]
+  },
+  {
+   "t": 4.133,
+   "texto": "copos",
+   "contando": false,
+   "r": [
+    337,
+    1328,
+    537,
+    1426
+   ]
+  },
+  {
+   "t": 4.133,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    563,
+    1328,
+    640,
+    1426
+   ]
+  },
+  {
+   "t": 4.133,
+   "texto": "maíz.",
+   "contando": false,
+   "r": [
+    666,
+    1328,
+    834,
+    1426
+   ]
+  },
+  {
+   "t": 7.467,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    76,
+    265,
+    706,
+    443
+   ]
+  },
+  {
+   "t": 7.467,
+   "texto": "Pero",
+   "contando": false,
+   "r": [
+    142,
+    1335,
+    280,
+    1420
+   ]
+  },
+  {
+   "t": 7.467,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    302,
+    1335,
+    402,
+    1420
+   ]
+  },
+  {
+   "t": 7.467,
+   "texto": "copos",
+   "contando": false,
+   "r": [
+    424,
+    1335,
+    597,
+    1420
+   ]
+  },
+  {
+   "t": 7.467,
+   "texto": "vuelven:",
+   "contando": false,
+   "r": [
+    620,
+    1335,
+    888,
+    1420
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    76,
+    265,
+    706,
+    443
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "571",
+   "contando": false,
+   "r": [
+    701,
+    742,
+    830,
+    886
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    821,
+    788,
+    877,
+    848
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "de sodio por 100 g",
+   "contando": false,
+   "r": [
+    734,
+    867,
+    875,
+    913
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    586,
+    445,
+    914,
+    644
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    227,
+    1328,
+    269,
+    1426
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    295,
+    1328,
+    379,
+    1426
+   ]
+  },
+  {
+   "t": 9.4,
+   "texto": "miligramos.",
+   "contando": false,
+   "r": [
+    405,
+    1328,
+    803,
+    1426
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    76,
+    265,
+    706,
+    443
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "571",
+   "contando": false,
+   "r": [
+    701,
+    742,
+    830,
+    886
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    821,
+    788,
+    877,
+    848
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "de sodio por 100 g",
+   "contando": false,
+   "r": [
+    734,
+    867,
+    875,
+    913
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    586,
+    445,
+    914,
+    644
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    227,
+    1328,
+    269,
+    1426
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    295,
+    1328,
+    379,
+    1426
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "miligramos.",
+   "contando": false,
+   "r": [
+    405,
+    1328,
+    803,
+    1426
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    173,
+    1065,
+    385,
+    1133
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "571",
+   "contando": false,
+   "r": [
+    175,
+    620,
+    271,
+    725
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    261,
+    648,
+    302,
+    692
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    234,
+    712,
+    279,
+    744
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    655,
+    1062,
+    906,
+    1134
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "316",
+   "contando": false,
+   "r": [
+    774,
+    612,
+    870,
+    717
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    853,
+    669,
+    895,
+    713
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    801,
+    713,
+    846,
+    745
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "¡Casi el doble!",
+   "contando": false,
+   "r": [
+    411,
+    293,
+    660,
+    495
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "trescientos",
+   "contando": false,
+   "r": [
+    144,
+    1329,
+    554,
+    1425
+   ]
+  },
+  {
+   "t": 11.633,
+   "texto": "dieciséis.",
+   "contando": false,
+   "r": [
+    579,
+    1329,
+    886,
+    1425
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "copos de maíz",
+   "contando": false,
+   "r": [
+    173,
+    1065,
+    385,
+    1133
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "571",
+   "contando": false,
+   "r": [
+    175,
+    620,
+    271,
+    725
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    261,
+    648,
+    302,
+    692
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    234,
+    712,
+    279,
+    744
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "donut glaseado",
+   "contando": false,
+   "r": [
+    655,
+    1062,
+    906,
+    1134
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "316",
+   "contando": false,
+   "r": [
+    774,
+    612,
+    870,
+    717
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    853,
+    669,
+    895,
+    713
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    801,
+    713,
+    846,
+    745
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "¡Casi el doble!",
+   "contando": false,
+   "r": [
+    411,
+    293,
+    660,
+    495
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "trescientos",
+   "contando": false,
+   "r": [
+    144,
+    1329,
+    554,
+    1425
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "dieciséis.",
+   "contando": false,
+   "r": [
+    579,
+    1329,
+    886,
+    1425
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "¿Y eso cuánto es?",
+   "contando": false,
+   "r": [
+    81,
+    258,
+    885,
+    436
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    387,
+    600,
+    460,
+    669
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    470,
+    597,
+    574,
+    667
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "100 g,",
+   "contando": false,
+   "r": [
+    584,
+    594,
+    704,
+    664
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    714,
+    592,
+    778,
+    660
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "copos",
+   "contando": false,
+   "r": [
+    388,
+    659,
+    517,
+    729
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    526,
+    657,
+    579,
+    726
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "maíz",
+   "contando": false,
+   "r": [
+    589,
+    654,
+    688,
+    724
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    698,
+    651,
+    826,
+    721
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "571 mg",
+   "contando": false,
+   "r": [
+    390,
+    719,
+    534,
+    790
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    543,
+    717,
+    596,
+    786
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "sodio",
+   "contando": false,
+   "r": [
+    606,
+    714,
+    722,
+    784
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    732,
+    713,
+    758,
+    781
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    768,
+    712,
+    808,
+    780
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "donut",
+   "contando": false,
+   "r": [
+    391,
+    780,
+    513,
+    850
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "glaseado,",
+   "contando": false,
+   "r": [
+    523,
+    774,
+    728,
+    847
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "316 mg.",
+   "contando": false,
+   "r": [
+    738,
+    770,
+    896,
+    841
+   ]
+  },
+  {
+   "t": 15.3,
+   "texto": "El sodio no es lo mismo que la sal y no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    397,
+    972,
+    895,
+    1069
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    194,
+    1006,
+    461,
+    1078
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    474,
+    1006,
+    505,
+    1078
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    138,
+    1068,
+    271,
+    1140
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "cena",
+   "contando": false,
+   "r": [
+    284,
+    1068,
+    403,
+    1140
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "copos",
+   "contando": false,
+   "r": [
+    416,
+    1068,
+    561,
+    1140
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    178,
+    1131,
+    209,
+    1203
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "medianoche.",
+   "contando": false,
+   "r": [
+    222,
+    1131,
+    521,
+    1203
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    171,
+    312,
+    844,
+    555
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "Esta",
+   "contando": false,
+   "r": [
+    128,
+    684,
+    215,
+    742
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "noche,",
+   "contando": false,
+   "r": [
+    222,
+    679,
+    346,
+    738
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    354,
+    676,
+    444,
+    734
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    452,
+    674,
+    495,
+    730
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "atún",
+   "contando": false,
+   "r": [
+    502,
+    671,
+    594,
+    729
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    602,
+    669,
+    626,
+    725
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    131,
+    734,
+    203,
+    791
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "carne",
+   "contando": false,
+   "r": [
+    210,
+    730,
+    324,
+    789
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    332,
+    727,
+    410,
+    784
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "empatados.",
+   "contando": false,
+   "r": [
+    417,
+    719,
+    627,
+    781
+   ]
+  },
+  {
+   "t": 20.6,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    84,
+    1450,
+    227,
+    1481
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    194,
+    1006,
+    461,
+    1078
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    474,
+    1006,
+    505,
+    1078
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    138,
+    1068,
+    271,
+    1140
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "cena",
+   "contando": false,
+   "r": [
+    284,
+    1068,
+    403,
+    1140
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "copos",
+   "contando": false,
+   "r": [
+    416,
+    1068,
+    561,
+    1140
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    178,
+    1131,
+    209,
+    1203
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "medianoche.",
+   "contando": false,
+   "r": [
+    222,
+    1131,
+    521,
+    1203
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    171,
+    312,
+    844,
+    555
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "Esta",
+   "contando": false,
+   "r": [
+    128,
+    684,
+    215,
+    742
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "noche,",
+   "contando": false,
+   "r": [
+    222,
+    679,
+    346,
+    738
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    354,
+    676,
+    444,
+    734
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    452,
+    674,
+    495,
+    730
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "atún",
+   "contando": false,
+   "r": [
+    502,
+    671,
+    594,
+    729
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    602,
+    669,
+    626,
+    725
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    131,
+    734,
+    203,
+    791
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "carne",
+   "contando": false,
+   "r": [
+    210,
+    730,
+    324,
+    789
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    332,
+    727,
+    410,
+    784
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "empatados.",
+   "contando": false,
+   "r": [
+    417,
+    719,
+    627,
+    781
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    84,
+    1450,
+    227,
+    1481
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.233,
+  4.133,
+  7.467,
+  9.4,
+  9.633,
+  11.633,
+  11.767,
+  15.3,
+  20.6,
+  20.867
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.09,
+  "tiempo_reduccion_mas_1db_pct": 0.22,
+  "efectos_por_tipo": {
+   "pum": 4,
+   "boing": 5,
+   "whoosh": 7,
+   "zas": 3,
+   "sello": 3,
+   "plop": 7,
+   "ding": 3,
+   "pop": 5,
+   "subida": 3
+  },
+  "descartados": 0,
+  "duracion_s": 20.879,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 295,
+   "lineas": [
+    {
+     "texto": "Casi el doble de sodio que un donut. Todos le dan paso a los copos de maíz. Al donut, me gusta. Pero los copos vuelven: quinientos setenta y un miligramos. El donut, trescientos dieciséis. ¿Y eso cuánto es? Por cada cien gramos, casi el doble de sodio. Mándaselo a quien cena copos a medianoche.",
+     "hablado": "Casi el doble de sodio que un donut. Todos le dan paso a los copos de maíz. Al donut, me gusta. Pero los copos vuelven: quinientos setenta y un miligramos. El donut, trescientos dieciséis. ¿Y eso cuánto es? Por cada cien gramos, casi el doble de sodio. Mándaselo a quien cena copos a medianoche.",
+     "t0": 0.0213,
+     "t1": 18.1913
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.03,
+   "limitador_max_db": 1.62
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 1.691,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.266,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 2.546,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.646,
+   "tipo": "zas",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.026,
+   "tipo": "sello",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.096,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 4.291,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.591,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.091,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.311,
+   "tipo": "sello",
+   "intensidad": 0.6
+  },
+  {
+   "t": 5.361,
+   "tipo": "ding",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.834,
+   "tipo": "pop",
+   "intensidad": 0.55
+  },
+  {
+   "t": 6.184,
+   "tipo": "zas",
+   "intensidad": 0.55
+  },
+  {
+   "t": 6.604,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 7.361,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.661,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 7.801,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.241,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.701,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.101,
+   "tipo": "subida",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.101,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.401,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 10.501,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.47,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.919,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 12.359,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.419,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 15.311,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.449,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 15.911,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.211,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 16.411,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.971,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.271,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 18.591,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.691,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 18.731,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.841,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 20.25,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 627,
+ "tiempo_render_s": 171.6,
+ "tiempos_s": {
+  "preparar": 15.25,
+  "dibujar_y_codificar": 159.95
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_duelo_comic",
+ "familia": "reel_duelo",
+ "variante": "app",
+ "variante_idx": 0,
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  3.3667,
+  5.6667,
+  6.3,
+  6.7333,
+  8.1667,
+  10.9,
+  15.4,
+  17.3,
+  18.5667,
+  20.8667
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "«Paso»",
+  "«Me gusta»",
+  "la cifra de B",
+  "A vuelve",
+  "la cifra de A revienta",
+  "cara a cara y la diferencia",
+  "conclusión escrita",
+  "cierre: Oli",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto": {
+  "a": "pan",
+  "b": "terron",
+  "gente": [
+   "oli",
+   "salero",
+   "lenteja",
+   "pescado",
+   "fruta"
+  ]
+ },
+ "diferencia": "Casi el doble",
+ "linea_de_tiempo": {
+  "claves": [
+   "portada",
+   "paso",
+   "megusta",
+   "vuelve",
+   "cara",
+   "conc",
+   "cierre"
+  ],
+  "cortes": [
+   0.0,
+   2.546,
+   4.591,
+   6.184,
+   9.701,
+   11.919,
+   15.911
+  ],
+  "E": {
+   "portada": [
+    0.0,
+    2.546
+   ],
+   "paso": [
+    2.546,
+    4.591
+   ],
+   "megusta": [
+    4.591,
+    6.184
+   ],
+   "vuelve": [
+    6.184,
+    9.701
+   ],
+   "cara": [
+    9.701,
+    11.919
+   ],
+   "conc": [
+    11.919,
+    15.911
+   ],
+   "cierre": [
+    15.911,
+    20.9
+   ]
+  },
+  "dur": 20.9,
+  "fin_voz": 18.191,
+  "t_ono": 18.271,
+  "t_anz": 18.591,
+  "t_paso": 3.026,
+  "t_mg": 5.311,
+  "t_bcif": 5.834,
+  "t_va": 7.661,
+  "t_vb4": 10.461,
+  "t_dif": 10.401,
+  "w": [
+   12.719,
+   12.881,
+   13.043,
+   13.205,
+   13.367,
+   13.529,
+   13.691,
+   13.853,
+   14.015,
+   14.177,
+   14.339,
+   14.501,
+   14.663,
+   14.825,
+   14.987,
+   15.149
+  ],
+  "t_sello": 15.449,
+  "k": [
+   16.311,
+   16.471,
+   16.551,
+   16.791,
+   17.071,
+   17.391,
+   17.471
+  ],
+  "anclas": {
+   "paso": "paso",
+   "me_gusta": "me gusta",
+   "a2": "copos",
+   "valor_a": "quinientos setenta y un",
+   "valor_b": "trescientos dieciséis",
+   "dif": "Casi el doble",
+   "conclusion": "Y eso cuánto es",
+   "frase": null,
+   "cierre": "Mándaselo a quien cena copos a medianoche"
+  }
+ },
+ "avisos_plantilla": [
+  "conclusión: el hecho no es una frase literal de ALI-096 (revisa que no se invente nada)",
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ALI-096",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #curiosidades #sodio #desayuno #nutricion»"
+ ],
+ "tiempo_total_s": 183.9
+}

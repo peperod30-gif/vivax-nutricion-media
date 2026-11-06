@@ -1,0 +1,121 @@
+{
+  "id": "n1-lx-20261129-cxduelo-1300-atun-aceite-natural",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxduelo",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-126",
+    "ALI-127"
+  ],
+  "titulo": "[CXDUELO] Escurres el atún en aceite. ¿Cuánta grasa queda?",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Duelo de la comida",
+      "titulo": "Escurres el atún en aceite. ¿Cuánta grasa queda?",
+      "izq": "atún en aceite, escurrido",
+      "der": "atún al natural, escurrido",
+      "dice": [
+        "¡PUM!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "atún en aceite, escurrido",
+      "etiqueta_no": "Paso",
+      "izq": "atún en aceite, escurrido",
+      "voz": "Escurrido, ¿cuánta grasa queda? Todos le dan paso al aceite. Al natural, me gusta. Pero el aceite vuelve: ocho coma dos gramos. El natural, cero coma ocho. Escurrido, ¿cambia también la energía? Ciento noventa y ocho kilocalorías frente a ciento dieciséis. Mándaselo a quien escurre la lata con el tenedor."
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "atún al natural, escurrido",
+      "etiqueta_si": "Me gusta",
+      "der": "atún al natural, escurrido",
+      "cifra": "0,8",
+      "unidad": "g",
+      "texto": "de grasa por 100 g",
+      "dato": "Grasa"
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "atún en aceite, escurrido",
+      "izq": "atún en aceite, escurrido",
+      "cifra": "8,2",
+      "unidad": "g",
+      "texto": "de grasa por 100 g",
+      "dato": "Grasa",
+      "dice": [
+        "¡BUM!"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "titulo": "Grasa",
+      "texto": "Por 100 g",
+      "izq": "atún en aceite, escurrido",
+      "der": "atún al natural, escurrido",
+      "cifra": "8,2",
+      "unidad": "g",
+      "items": [
+        "0,8"
+      ],
+      "dice": [
+        "¡Más de diez veces!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Escurrido, ¿cambia también la energía?",
+      "resalte": "Lo que dice el dato",
+      "frase": "Por cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía; atún al natural, 116 kcal de energía."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien escurre la lata con el tenedor.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana a primera hora: ¿qué supera al atún en proteína?"
+    }
+  ],
+  "pie_instagram": "Escurres el atún en aceite. ¿Cuánta grasa queda?\n\nPor 100 g: atún en aceite, escurrido, 8,2 g de grasa; atún al natural, escurrido, 0,8 g.\nEscurridos los dos: más de diez veces la grasa.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nPor cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía; atún al natural, 116 kcal de energía.\n\nMándaselo a quien escurre la lata con el tenedor. Mañana a primera hora: ¿qué supera al atún en proteína?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#atun #grasas #despensa #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: el pesaje oficial en el ring (AA): focos, cuerdas, báscula, marcador, boxeadores con guantes, grada y árbitro. Subtítulos grandes de la voz palabra a palabra. Portada: Escurres el atún en aceite. ¿Cuánta grasa queda? atún en aceite, escurrido (un muñeco con cara) frente a atún al natural, escurrido (un muñeco con cara), con público de muñecos con cara (Oli, la aceituna de Vivax, una gota de grasa, una naranja, una lenteja) que reacciona. Sello «Paso» para atún en aceite, escurrido. «Me gusta» para atún al natural, escurrido: 0,8 g de grasa. La vuelta de atún en aceite, escurrido: su cifra revienta, 8,2 g. El público se sorprende. Cara a cara: 8,2 g frente a 0,8 g, por 100 g. Una ráfaga dice «Más de diez veces». Escurrido, ¿cambia también la energía? Lo que dice el dato: Por cada 100 g: atún claro en aceite, escurrido, 198 kcal de energía; atún al natural, 116 kcal de energía. Oli lo presenta. Cierre: Oli saluda y dice «Mándaselo a quien escurre la lata con el tenedor». Una ráfaga dice «¡Continuará!». Mañana a primera hora: ¿qué supera al atún en proteína?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "Duelo de la comida",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_duelo_comic",
+    "formato": "CXDUELO",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_duelo_comic (Vivax Cómic, mundo ring) · spec n1-lux-20261129-1300-atun-aceite-natural",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_duelo_comic",
+    "familia": "reel_duelo",
+    "mecanica": "reel_duelo",
+    "variante": "ring",
+    "variante_idx": 1,
+    "spec_id": "n1-lux-20261129-1300-atun-aceite-natural",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "frente": "publico",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261129-1300-atun-aceite-natural",
+    "plantilla_visual": "reel_duelo_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy, 2019 (ALI-126, banco de composición de octubre de 2026), por 100 g; atún claro en aceite, escurrido, y atún al natural, escurrido. La pregunta del pie enlaza con la pieza de las 10:30: contramuslo de pollo asado sin piel, 8,2 g de grasa por 100 g (ALI-127). Cálculo: 8,2 / 0,8 = 10,25 (más de diez veces). La grasa no tiene declaración autorizada en el banco: la conclusión es la lectura del dato, con sus dos cifras de energía (ALI-126 recortado, sin las cifras de grasa que ya salieron en el duelo, para que la frase se lea al ritmo de la voz). Voz sintética (IA).",
+  "ia": true,
+  "serie": "Duelo de la comida",
+  "pilar_plan": "Despensa: grasas y colesterol"
+}
