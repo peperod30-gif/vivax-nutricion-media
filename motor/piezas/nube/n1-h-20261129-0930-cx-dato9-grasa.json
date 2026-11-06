@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261129-0930-cx-dato9-grasa",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "Despensa: grasas y colesterol",
+  "serie": "historias",
+  "hechos": [
+    "ALI-126"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Atún al natural: 0,8 g",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 29-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261129-1300-atun-aceite-natural). Hechos: ALI-126.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (AS meme de ojos), con muñecos de alimentos con cara (una gota de aceite, una nuez, una sardina y otros) y Oli, la aceituna de Vivax. Atún al natural: 0,8 g de grasa por 100 g, en letra enorme. ¿Y el de aceite, ya escurrido? Los demás alimentos aparecen tapados. Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "titulo": "Atún al natural",
+      "cifra": "0,8",
+      "unidad": "g",
+      "texto": "de grasa por 100 g",
+      "titular": "¿Y el de aceite, ya escurrido?",
+      "sigue": "Hoy a la una, en el feed.",
+      "dice": [
+        "¡ANDA!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "dato9",
+    "spec": "n1-h-20261129-0930-dato9-grasa",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato ojos); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261129-1300-atun-aceite-natural",
+    "estilo": "comic",
+    "formato_visual": "ojos",
+    "mundo": "AS meme de ojos: cabecera de la cuenta, la pregunta como meme, el alimento con ojos y los rivales tapados con sábanas",
+    "reparto": [
+      "gota",
+      "nuez",
+      "pescado",
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "platano",
+      "oli"
+    ]
+  }
+}

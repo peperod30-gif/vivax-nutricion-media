@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261129-1445-cx-vf-grasa",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "Despensa: grasas y colesterol",
+  "serie": "historias",
+  "hechos": [
+    "ALI-053"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: La mantequilla, más grasa que el aceite…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 29-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261129-2100-mantequilla-aceite-quiz). Respuesta: FALSO. Hechos: ALI-053.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BJ verdadero o falso a pulsador), con muñecos de alimentos con cara (una gota de aceite, un plátano, un tomate y otros) y Oli, la aceituna de Vivax. La mantequilla, más grasa que el aceite de oliva. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "La mantequilla, más grasa que el aceite de oliva.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¿QUÉ?"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261129-1445-vf-grasa",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pulsadores); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261129-2100-mantequilla-aceite-quiz",
+    "veredicto": "falso",
+    "estilo": "comic",
+    "formato_visual": "pulsadores",
+    "mundo": "BJ verdadero o falso a pulsador: panel de la pregunta, dos concursantes dudando y el público asomado",
+    "reparto": [
+      "gota",
+      "platano",
+      "tomate",
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "oli"
+    ]
+  }
+}

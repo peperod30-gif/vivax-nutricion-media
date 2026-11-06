@@ -1,0 +1,60 @@
+{
+  "id": "n1-h-20261122-2000-cx-sirve-vitamina-b5-acido-pantotenico",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-sirve",
+  "pilar": "ensenar",
+  "pilar_plan": "ensenar",
+  "serie": "historias",
+  "hechos": [
+    "VIT-033"
+  ],
+  "titulo": "[HISTORIA] Para qué sirve: Vitamina B5 (VIT-033), 22-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Para qué sirve» del 22-nov a las 20:00. Declaración de VIT-033, de la publicación n1-lux-20261122-1030-porcentaje-vrn-etiqueta. Hechos: VIT-033.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (pegatina grande), con muñecos de alimentos con cara (una nuez, un plátano, un tomate y otros) y Oli, la aceituna de Vivax. Vitamina B5. El ácido pantoténico contribuye al metabolismo energético normal. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B5 (ácido pantoténico). No es una recomendación personal. Mañana, a las ocho y media: el hierro tiene chófer: se llama cobre."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "Para qué sirve",
+      "titulo": "Vitamina B5",
+      "frase": "El ácido pantoténico contribuye al metabolismo energético normal.",
+      "vit": "VIT-033",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B5 (ácido pantoténico). No es una recomendación personal.",
+      "sigue": "Mañana, a las ocho y media: el hierro tiene chófer: se llama cobre",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "hora": "20:00",
+    "serie": "Para qué sirve",
+    "pilar_plan": "ensenar",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "sirve",
+    "spec": "n1-h-20261122-2000-sirve-vitamina-b5-acido-pantotenico",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pegatina); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pegatina",
+    "mundo": "pegatina grande: la declaración en una pegatina troquelada gigante con Oli señalando y la gente alrededor",
+    "reparto": [
+      "nuez",
+      "platano",
+      "tomate",
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "oli"
+    ]
+  }
+}

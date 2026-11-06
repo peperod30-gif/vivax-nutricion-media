@@ -1,0 +1,70 @@
+{
+  "id": "n1-h-20261122-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-061"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: domingo 22-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 22-nov a las 09:30. Hechos: VIT-061.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (una sardina, una gota de aceite, una manzana y otros) y Oli, la aceituna de Vivax. Domingo. Hoy en el feed. A la una: El tiroides, según la UE: yodo y uno más. A las siete: Mito o dato. A las nueve: Grasa saturada: solo uno supera al bacon."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Domingo",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "El tiroides, según la UE: yodo y uno más"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Mito o dato"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Grasa saturada: solo uno supera al bacon."
+        }
+      ],
+      "dice": [
+        "¡PIP!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261122-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "reparto": [
+      "pescado",
+      "gota",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "oli"
+    ]
+  }
+}

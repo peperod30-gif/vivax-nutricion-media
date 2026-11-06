@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261201-1445-cx-vf-calcio",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "Minerales",
+  "serie": "historias",
+  "hechos": [
+    "ALI-009"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: Las alubias llevan más calcio que el fe…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 1-dic a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261201-2100-chia-feta-calcio). Respuesta: FALSO. Hechos: ALI-009.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (las dos puertas del concurso), con muñecos de alimentos con cara (una lenteja, un vaso de leche, un kiwi y otros) y Oli, la aceituna de Vivax. Las alubias llevan más calcio que el feta. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "Las alubias llevan más calcio que el feta.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¡HUM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-01",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "Minerales",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261201-1445-vf-calcio",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato puertas); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261201-2100-chia-feta-calcio",
+    "veredicto": "falso",
+    "estilo": "comic",
+    "formato_visual": "puertas",
+    "mundo": "las dos puertas del concurso: un muñeco delante de cada una sin decidirse y Oli en medio",
+    "reparto": [
+      "lenteja",
+      "vaso",
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "pan",
+      "oli"
+    ]
+  }
+}

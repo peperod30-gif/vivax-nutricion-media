@@ -1,0 +1,70 @@
+{
+  "id": "n1-h-20261203-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ALI-049"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: jueves 3-dic",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 3-dic a las 09:30. Hechos: ALI-049.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (una lenteja, una rebanada de pan, un terrón de azúcar y otros) y Oli, la aceituna de Vivax. Jueves. Hoy en el feed. A la una: Lentejas contra quinoa, la revancha: magnesio. A las cuatro y media: La lección de la tarde. A las siete: Insulina y corazón: lo separa una sola palabra."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Jueves",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Lentejas contra quinoa, la revancha: magnesio."
+        },
+        {
+          "cab": "A las cuatro y media",
+          "texto": "La lección de la tarde"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Insulina y corazón: lo separa una sola palabra."
+        }
+      ],
+      "dice": [
+        "¡OJO!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-03",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261203-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "posits",
+    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
+    "reparto": [
+      "lenteja",
+      "pan",
+      "terron",
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "oli"
+    ]
+  }
+}
