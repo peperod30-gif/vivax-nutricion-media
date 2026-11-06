@@ -1,0 +1,114 @@
+{
+  "id": "n1-lx-20261128-reel-vf-2100-bebida-letra-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-reel-vf",
+  "pilar": "ensenar",
+  "hechos": [
+    "S2-04"
+  ],
+  "titulo": "[REEL-VF] La bebida no cambió. Su letra, sí.",
+  "hojas": [
+    {
+      "plantilla": "f_portada",
+      "resalte": "El quiz de la noche",
+      "titulo": "La bebida no cambió. Su {letra}, sí."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I. ¿Verdadero o falso?",
+      "texto": "Sumar puntos de Nutri-Score baja la nota.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Verdadero",
+      "cifra": "empeora la clasificación",
+      "unidad": "",
+      "dato": "subir la puntuación",
+      "items": []
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II. ¿Verdadero o falso?",
+      "texto": "Las bebidas edulcoradas apenas sumaron puntos.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "190,3",
+      "unidad": "%",
+      "dato": "puntos, de 2015 a 2023",
+      "items": [
+        {
+          "nombre": "Bebidas edulcoradas",
+          "valor": "190,3 %"
+        },
+        {
+          "nombre": "Batidos",
+          "valor": "98,9 %"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III. ¿Verdadero o falso?",
+      "texto": "Bajar de letra prueba un efecto en la salud.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "Falso",
+      "cifra": "no mide compras, ingesta ni salud",
+      "unidad": "",
+      "dato": "es un recálculo",
+      "items": []
+    },
+    {
+      "plantilla": "f_frase",
+      "resalte": "El dato final",
+      "frase": "Con el algoritmo de 2023, la puntuación de la mezcla de bebidas vegetales subió un 733 %.",
+      "fuente": "Recálculo de 3.432 bebidas del mercado español con los algoritmos de 2015 y 2023; no mide compras, ingesta ni salud. No es una recomendación personal.",
+      "titulo": "La letra depende del cálculo"
+    },
+    {
+      "plantilla": "f_cierre",
+      "titulo": "Mándaselo a quien compra bebida vegetal a cajas.",
+      "texto": "Mañana temprano: una dieta y la tensión arterial."
+    }
+  ],
+  "pie_instagram": "La bebida no cambió. Su letra, sí.\n\nSumar puntos de Nutri-Score baja la nota. Verdadero: empeora la clasificación (subir la puntuación).\nLas bebidas edulcoradas apenas sumaron puntos. Falso: bebidas edulcoradas 190,3 %, batidos 98,9 % (puntos, de 2015 a 2023).\nBajar de letra prueba un efecto en la salud. Falso: no mide compras, ingesta ni salud (es un recálculo).\n\nY el dato final: Con el algoritmo de 2023, la puntuación de la mezcla de bebidas vegetales subió un 733 %. Recálculo de 3.432 bebidas del mercado español con los algoritmos de 2015 y 2023; no mide compras, ingesta ni salud. No es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien compra bebida vegetal a cajas.\nMañana temprano: una dieta y la tensión arterial.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutriscore #etiquetado #bebidasvegetales #verdaderoofalso #nutricion",
+  "alt": [
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. La bebida no cambió. Su letra, sí. I. Sumar puntos de Nutri-Score baja la nota. Verdadero: empeora la clasificación, subir la puntuación. II. Las bebidas edulcoradas apenas sumaron puntos. Falso: Bebidas edulcoradas 190,3 %, Batidos 98,9 %, puntos, de 2015 a 2023. III. Bajar de letra prueba un efecto en la salud. Falso: no mide compras, ingesta ni salud, es un recálculo. La letra depende del cálculo. El dato final: Con el algoritmo de 2023, la puntuación de la mezcla de bebidas vegetales subió un 733 %. Mándaselo a quien compra bebida vegetal a cajas. Mañana temprano: una dieta y la tensión arterial."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-28",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel-vf",
+    "formato": "REEL-VF",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf (Vivax Luxury, quiz de ideas) · spec n1-lux-20261128-2100-bebida-letra-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261128-2100-bebida-letra-quiz",
+    "plantilla_registro": "reel_vf",
+    "mecanica": "reel_quiz",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261128-2100-bebida-letra-quiz",
+    "plantilla_visual": "reel_vf",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "S2-04: de las Heras-Delgado S et al., Nutrients 2025;17(9):1521 (DOI 10.3390/nu17091521), resumen y texto completo verificados en Europe PMC el 9-oct-2026. Recálculo de 3.432 bebidas del mercado español (base «Drink Base», grandes cadenas de supermercado) con el algoritmo de Nutri-Score de 2015 y con el de 2023. Cambios de puntuación: bebidas edulcoradas artificialmente, más 190,3 %; batidos, más 98,9 %; bebidas de cereales, más 651,3 %; mezcla de bebidas vegetales, más 733 %. Subir la puntuación empeora la clasificación. Son las mismas bebidas: cambia el cálculo, no la receta. Limitaciones: no mide compras, ingesta ni salud; puede haber sesgo de selección y depende del etiquetado. Un autor declara cargos asesores no remunerados (Instituto Danone y la International Nut and Dried Fruit Foundation). No es una recomendación personal. Banco consultado el 6-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}
