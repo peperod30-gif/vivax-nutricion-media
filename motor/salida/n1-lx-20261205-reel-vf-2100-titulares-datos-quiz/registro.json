@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.98,
  "pixel": "yuv420p",
- "tamano_mb": 2.23,
+ "tamano_mb": 2.2,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -16,7 +16,7 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.9,
- "n_cambios_visuales": 262,
+ "n_cambios_visuales": 261,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -654,12 +654,12 @@
   },
   {
    "t": 4.5,
-   "texto": "metaanálisis de 2015",
+   "texto": "revisión de 2015",
    "contando": false,
    "r": [
     360,
     1282,
-    727,
+    651,
     1312
    ]
   },
@@ -1593,64 +1593,31 @@
    "contando": false,
    "r": [
     356,
-    1084,
-    423,
-    1176
+    1102,
+    461,
+    1246
    ]
   },
   {
    "t": 17.933,
-   "texto": "único",
+   "texto": "solo",
    "contando": false,
    "r": [
-    438,
-    1084,
-    588,
-    1176
+    483,
+    1102,
+    663,
+    1246
    ]
   },
   {
    "t": 17.933,
-   "texto": "recordatorio",
+   "texto": "día",
    "contando": false,
    "r": [
-    602,
-    1084,
-    949,
-    1176
-   ]
-  },
-  {
-   "t": 17.933,
-   "texto": "de",
-   "contando": false,
-   "r": [
-    356,
-    1173,
-    423,
-    1265
-   ]
-  },
-  {
-   "t": 17.933,
-   "texto": "24",
-   "contando": false,
-   "r": [
-    437,
-    1173,
-    510,
-    1265
-   ]
-  },
-  {
-   "t": 17.933,
-   "texto": "horas",
-   "contando": false,
-   "r": [
-    524,
-    1173,
-    680,
-    1265
+    685,
+    1102,
+    813,
+    1246
    ]
   },
   {
@@ -1875,12 +1842,12 @@
   },
   {
    "t": 23.033,
-   "texto": "Hechos del banco Vivax con su fuente en el primer comentario; no es una recomendación personal.",
+   "texto": "Fuentes en el primer comentario; no es una recomendación personal.",
    "contando": false,
    "r": [
     96,
     1369,
-    879,
+    639,
     1395
    ]
   },
@@ -1974,23 +1941,45 @@
   },
   {
    "t": 26.967,
-   "texto": "Mañana",
+   "texto": "Pronto,",
    "contando": false,
    "r": [
     96,
     1175,
-    201,
+    193,
     1216
    ]
   },
   {
    "t": 26.967,
-   "texto": "por",
+   "texto": "otro",
    "contando": false,
    "r": [
-    211,
+    203,
     1175,
-    257,
+    258,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "quiz",
+   "contando": false,
+   "r": [
+    267,
+    1175,
+    326,
+    1216
+   ]
+  },
+  {
+   "t": 26.967,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    336,
+    1175,
+    370,
     1216
    ]
   },
@@ -1999,53 +1988,20 @@
    "texto": "la",
    "contando": false,
    "r": [
-    267,
+    380,
     1175,
-    291,
+    404,
     1216
    ]
   },
   {
    "t": 26.967,
-   "texto": "mañana,",
+   "texto": "noche.",
    "contando": false,
    "r": [
-    301,
+    413,
     1175,
-    415,
-    1216
-   ]
-  },
-  {
-   "t": 26.967,
-   "texto": "otra",
-   "contando": false,
-   "r": [
-    424,
-    1175,
-    478,
-    1216
-   ]
-  },
-  {
-   "t": 26.967,
-   "texto": "lección",
-   "contando": false,
-   "r": [
-    488,
-    1175,
-    585,
-    1216
-   ]
-  },
-  {
-   "t": 26.967,
-   "texto": "corta.",
-   "contando": false,
-   "r": [
-    595,
-    1175,
-    673,
+    504,
     1216
    ]
   },
@@ -2383,10 +2339,10 @@
   }
  ],
  "fotogramas": 827,
- "tiempo_render_s": 59.5,
+ "tiempo_render_s": 92.4,
  "tiempos_s": {
-  "preparar": 1.75,
-  "dibujar_y_codificar": 55.34
+  "preparar": 2.0,
+  "dibujar_y_codificar": 81.59
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
@@ -2428,7 +2384,6 @@
     25.5913
    ],
    "palabras_an": [
-    26.171,
     26.171,
     26.171,
     26.171,

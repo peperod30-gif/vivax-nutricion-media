@@ -10,18 +10,18 @@
   "pilar_plan": "ensenar",
   "serie": "historias",
   "hechos": [
-    "NOV-012"
+    "DEB-025"
   ],
-  "titulo": "[HISTORIA] ¿Verdadero o falso?: Primera comida pasado el mediodía: acor…",
-  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 5-dic a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261205-2100-titulares-datos-quiz). Respuesta: FALSO. Hechos: NOV-012.",
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: Ni los especialistas coinciden al clasi…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 5-dic a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261205-2100-titulares-datos-quiz). Respuesta: VERDADERO. Hechos: DEB-025.",
   "alt": [
-    "Historia en verde oliva con dos zonas abajo, Verdadero en blanco y Falso en negro. ¿Verdadero o falso? Primera comida pasado el mediodía: acorta la vida, demostrado. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+    "Historia en verde oliva con dos zonas abajo, Verdadero en blanco y Falso en negro. ¿Verdadero o falso? Ni los especialistas coinciden al clasificar ultraprocesados. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
   ],
   "hojas": [
     {
       "plantilla": "historia",
       "kicker": "¿Verdadero o falso?",
-      "titulo": "Primera comida pasado el mediodía: acorta la vida, demostrado.",
+      "titulo": "Ni los especialistas coinciden al clasificar ultraprocesados.",
       "si": "Verdadero",
       "no": "Falso",
       "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
@@ -40,6 +40,6 @@
     "lote_serie": "historias-lux",
     "nota": "historia de la plantilla tpl_historia_lux.py; la hora la pone una orden («acciones» con hora), no el autopiloto",
     "destino": "n1-lux-20261205-2100-titulares-datos-quiz",
-    "veredicto": "falso"
+    "veredicto": "verdadero"
   }
 }

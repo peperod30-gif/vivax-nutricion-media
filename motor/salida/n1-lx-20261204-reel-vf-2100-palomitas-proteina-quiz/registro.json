@@ -16,7 +16,7 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 2.2,
- "n_cambios_visuales": 247,
+ "n_cambios_visuales": 248,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -1864,68 +1864,90 @@
   },
   {
    "t": 25.767,
-   "texto": "las",
+   "texto": "un",
    "contando": false,
    "r": [
     424,
     1175,
-    461,
+    458,
     1216
    ]
   },
   {
    "t": 25.767,
-   "texto": "palomitas",
+   "texto": "cereal",
    "contando": false,
    "r": [
-    471,
+    467,
     1175,
-    600,
+    551,
     1216
    ]
   },
   {
    "t": 25.767,
-   "texto": "vuelven,",
+   "texto": "con",
    "contando": false,
    "r": [
-    610,
+    560,
     1175,
-    724,
+    609,
     1216
    ]
   },
   {
    "t": 25.767,
-   "texto": "en",
+   "texto": "menos",
    "contando": false,
    "r": [
-    734,
+    619,
     1175,
-    767,
+    706,
     1216
    ]
   },
   {
    "t": 25.767,
-   "texto": "el",
+   "texto": "azúcares,",
    "contando": false,
    "r": [
-    777,
+    716,
     1175,
-    801,
+    845,
     1216
    ]
   },
   {
    "t": 25.767,
-   "texto": "picoteo.",
+   "texto": "¿y",
    "contando": false,
    "r": [
-    811,
-    1175,
-    921,
-    1216
+    96,
+    1214,
+    128,
+    1255
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    138,
+    1214,
+    162,
+    1255
+   ]
+  },
+  {
+   "t": 25.767,
+   "texto": "energía?",
+   "contando": false,
+   "r": [
+    172,
+    1214,
+    293,
+    1255
    ]
   },
   {
@@ -2252,10 +2274,10 @@
   }
  ],
  "fotogramas": 791,
- "tiempo_render_s": 72.5,
+ "tiempo_render_s": 93.6,
  "tiempos_s": {
-  "preparar": 2.0,
-  "dibujar_y_codificar": 63.58
+  "preparar": 3.33,
+  "dibujar_y_codificar": 78.39
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
@@ -2294,6 +2316,8 @@
     24.4814
    ],
    "palabras_an": [
+    24.981,
+    24.981,
     24.981,
     24.981,
     24.981,
