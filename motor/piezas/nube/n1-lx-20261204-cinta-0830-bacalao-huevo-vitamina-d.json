@@ -1,0 +1,105 @@
+{
+  "id": "n1-lx-20261204-cinta-0830-bacalao-huevo-vitamina-d",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cinta",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-014",
+    "VIT-005"
+  ],
+  "titulo": "[CINTA] Un pescado con menos vitamina D que el huevo.",
+  "hojas": [
+    {
+      "plantilla": "lx_cinta_portada",
+      "kicker": "Vitamina D por 100 g",
+      "titulo": "Un pescado con menos {vitamina D} que el huevo.",
+      "dato": "Cuenta atrás de la mañana"
+    },
+    {
+      "plantilla": "f_ranking",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "salmón cocinado",
+          "valor": "13",
+          "unidad": "µg"
+        },
+        {
+          "cab": "II",
+          "nombre": "sardinas en lata",
+          "valor": "4,8",
+          "unidad": "µg"
+        },
+        {
+          "cab": "III",
+          "nombre": "huevo cocido",
+          "valor": "2,2",
+          "unidad": "µg"
+        },
+        {
+          "cab": "IV",
+          "nombre": "bacalao cocinado",
+          "valor": "1,2",
+          "unidad": "µg"
+        },
+        {
+          "cab": "V",
+          "nombre": "lomo de cerdo asado",
+          "valor": "0,7",
+          "unidad": "µg"
+        }
+      ]
+    },
+    {
+      "plantilla": "lx_cinta_revelacion",
+      "kicker": "I",
+      "texto": "salmón cocinado",
+      "cifra": "13",
+      "unidad": "µg"
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "¿Y para qué sirve la {vitamina D}?",
+      "resalte": "Para qué sirve",
+      "frase": "La vitamina D contribuye al mantenimiento de los huesos en condiciones normales.",
+      "vit": "VIT-005",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina D. No es una recomendación personal."
+    },
+    {
+      "plantilla": "lx_cinta_cierre",
+      "frase": "Mándaselo a quien cree que todo pescado da igual.",
+      "texto": "A la una: zumo o refresco zero, ¿cuál bajó de nota?"
+    }
+  ],
+  "pie_instagram": "Un pescado con menos vitamina D que el huevo.\n\nVitamina D por 100 g: salmón cocinado, 13 µg; sardinas en lata, 4,8 µg; huevo cocido, 2,2 µg; bacalao cocinado, 1,2 µg; lomo de cerdo asado, 0,7 µg.\nSer pescado no basta: el salmón lleva casi once veces la vitamina D del bacalao.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: La vitamina D contribuye al mantenimiento de los huesos en condiciones normales. Es una declaración autorizada en la UE para alimentos que son fuente de vitamina D; no es una recomendación personal.\n\nMándaselo a quien cree que todo pescado da igual.\nA la una: zumo o refresco zero, ¿cuál bajó de nota?\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#vitaminaD #pescado #huevo #nutricion",
+  "alt": [
+    "Reel en blanco, negro y verde oliva: una cinta de restaurante dibujada en línea fina, con platillos de porcelana que pasan por una estación. Vitamina D por 100 g. Un pescado con menos vitamina D que el huevo. Cada platillo se para, su cifra sale en grande y baja a una bandeja oliva donde los pisos se apilan de menor a mayor, con una barra proporcional: V, lomo de cerdo asado, 0,7 µg; IV, bacalao cocinado, 1,2 µg; III, huevo cocido, 2,2 µg; II, sardinas en lata, 4,8 µg. El último llega bajo una campana; suena el timbre del mostrador, la campana se levanta y la cifra cuenta hasta 13 µg: I, salmón cocinado. ¿Y para qué sirve la vitamina D? Para qué sirve: La vitamina D contribuye al mantenimiento de los huesos en condiciones normales. Cierre sobre oliva profundo con la firma Vivax: Mándaselo a quien cree que todo pescado da igual. A la una: zumo o refresco zero, ¿cuál bajó de nota?"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-04",
+    "serie": "Cuenta atrás de la mañana",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_cinta",
+    "formato": "CINTA",
+    "lote": "lux-2026-12",
+    "hora": "08:30",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "mecanica": "reel_ranking",
+    "spec_id": "n1-lux-20261204-0830-bacalao-huevo-vitamina-d",
+    "pilar_plan": "Vitaminas",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261204-0830-bacalao-huevo-vitamina-d",
+    "plantilla_visual": "reel_cinta",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: USDA FoodData Central, SR Legacy (ALI-014), consultado en octubre de 2026. Vitamina D por cada 100 g: salmón cocinado 13 µg; sardinas en lata 4,8 µg; huevo cocido 2,2 µg; bacalao cocinado 1,2 µg; lomo de cerdo asado 0,7 µg. Cálculo: 13 / 1,2 = 10,8, de ahí «casi once veces» del salmón frente al bacalao; el bacalao (1,2 µg) queda por debajo del huevo cocido (2,2 µg). Declaración autorizada literal del Reglamento (UE) nº 432/2012 (VIT-005), que solo se usa con alimentos que son, como mínimo, fuente de vitamina D: el salmón cocinado, con 13 µg por 100 g, pasa del doble del VRN de 5 µg (VIT-005). Es composición por 100 g, no una recomendación de cantidad ni de comer o evitar nada. Voz sintética (IA).",
+  "ia": true
+}
