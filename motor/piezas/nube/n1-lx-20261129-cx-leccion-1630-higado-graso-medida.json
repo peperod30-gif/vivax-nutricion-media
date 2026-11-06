@@ -1,0 +1,81 @@
+{
+  "id": "n1-lx-20261129-cx-leccion-1630-higado-graso-medida",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-leccion",
+  "pilar": "ensenar",
+  "hechos": [
+    "S1-02",
+    "LC-015"
+  ],
+  "titulo": "[CX-LECCION] Hígado graso: ¿mediterránea o keto?",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Hígado graso: ¿mediterránea o {keto?}",
+      "items": [
+        {
+          "cab": "I",
+          "nombre": "Mediterránea: menos grasa",
+          "texto": "Medida con resonancia."
+        },
+        {
+          "cab": "II",
+          "nombre": "Keto: falta el dato de grasa",
+          "texto": "Una enzima, sin cambio claro."
+        },
+        {
+          "cab": "III",
+          "nombre": "Keto: 31 % menos grasa",
+          "texto": "6 días, 10 personas, sin comparar."
+        }
+      ],
+      "dato": "No se puede afirmar que la keto no reduzca la grasa.",
+      "fuente": "Son cifras de análisis e imagen, no enfermedades. Fuente: Stern 2026 y Luukkonen 2020. No es una recomendación personal ni médica.",
+      "sigue": "Mándaselo a quien tiene un bando: keto o mediterránea.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "dice": [
+        "¡OJO!"
+      ]
+    }
+  ],
+  "pie_instagram": "Hígado graso: ¿mediterránea o keto?\n\nI · Mediterránea: menos grasa · Medida con resonancia.\nII · Keto: falta el dato de grasa · Una enzima, sin cambio claro.\nIII · Keto: 31 % menos grasa · 6 días, 10 personas, sin comparar.\n\nEl dato que importa: no se puede afirmar que la keto no reduzca la grasa. No es una recomendación personal.\n\n¿Cuál de las tres no sabías?\nMándaselo a quien tiene un bando: keto o mediterránea.\nMañana por la tarde: cómo se lee la letra de una caja de cereales.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#higadograso #dietamediterranea #keto #nutricion",
+  "alt": [
+    "Ilustración de cómic en verde oliva, blanco y negro, con alimentos dibujados con cara. Cartel de risografía en verde oliva: el titular con la tinta descolocada, una sardina, una rebanada de pan y una manzana sobre sus tres pasos en manchas de medio tono, y la conclusión en un bloque de trama con Oli despidiéndose. Hígado graso: ¿mediterránea o keto? I. Mediterránea: menos grasa. Medida con resonancia. II. Keto: falta el dato de grasa. Una enzima, sin cambio claro. III. Keto: 31 % menos grasa. 6 días, 10 personas, sin comparar. No se puede afirmar que la keto no reduzca la grasa. Son cifras de análisis e imagen, no enfermedades. Fuente: Stern 2026 y Luukkonen 2020. No es una recomendación personal ni médica. Mándaselo a quien tiene un bando: keto o mediterránea. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "La lección de la tarde",
+    "sistema": "vivax-comic-1",
+    "plantilla": "img_leccion_comic",
+    "formato": "CX-LECCION",
+    "lote": "lux-2026-11",
+    "hora": "16:30",
+    "nota": "plantilla img_leccion_comic (Vivax Cómic, formato riso) · spec n1-lux-20261129-1630-higado-graso-medida",
+    "pilar_plan": "ensenar",
+    "mecanica": "img_leccion",
+    "spec_id": "n1-lux-20261129-1630-higado-graso-medida",
+    "frente": "publico",
+    "estilo": "comic",
+    "variante": "riso",
+    "mundo": "BW risografía: papel oliva, marcas de registro, tinta descolocada y manchas de medio tono",
+    "personaje": "oli",
+    "reparto": [
+      "pescado",
+      "pan",
+      "fruta",
+      "huevo",
+      "oli"
+    ],
+    "spec": "n1-lux-20261129-1630-higado-graso-medida",
+    "plantilla_visual": "img_leccion_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "S1-02: Stern UM et al. Eur J Nutr 2026 (DOI 10.1007/s00394-025-03870-z), metaanálisis de 24 artículos de ensayos aleatorizados en personas con hígado graso (MASLD): con la dieta mediterránea, la grasa hepática medida por resonancia bajó 1,37 puntos porcentuales (IC 95 % de 0,40 a 2,33; 5 ensayos); con las dietas bajas en carbohidratos y altas en grasa (cetogénicas o LCHF), la ALT (la «enzima» de la pantalla) no cambió de forma significativa (6 ensayos). Son desenlaces intermedios, no eventos clínicos; el resumen no da la grasa hepática de las dietas bajas en carbohidratos, así que no se puede afirmar que no la reduzcan; los resultados solo valen para MASLD y los autores piden ensayos más grandes y más largos. LC-015: Luukkonen PK et al. PNAS 2020;117(13):7347-7354 (diseño antes-después, sin grupo control y con otros cambios a la vez, con 10 personas y 6 días de dieta cetogénica: grasa hepática un 31 % menos). No hay ensayos largos con desenlaces clínicos. No es una recomendación personal ni médica. Banco consultado el 5-nov-2026.",
+  "serie": "La lección de la tarde",
+  "pilar_plan": "ensenar"
+}
