@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 1.47,
+ "tamano_mb": 1.44,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -16,8 +16,8 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.2,
- "n_cambios_visuales": 251,
- "bucle_dif_ultimo_primero": 118.91,
+ "n_cambios_visuales": 249,
+ "bucle_dif_ultimo_primero": 119.56,
  "zona_segura": [
   60,
   250,
@@ -60,7 +60,7 @@
   },
   {
    "t": 0.0,
-   "texto": "Yogur griego natural",
+   "texto": "Yogur griego desnatado",
    "contando": false,
    "r": [
     306,
@@ -262,9 +262,9 @@
    "contando": false,
    "r": [
     96,
-    449,
-    396,
-    587
+    465,
+    368,
+    575
    ]
   },
   {
@@ -272,9 +272,9 @@
    "texto": ". ¿Qué lácteo?",
    "contando": false,
    "r": [
-    396,
+    368,
     449,
-    903,
+    875,
     587
    ]
   },
@@ -313,7 +313,7 @@
   },
   {
    "t": 2.233,
-   "texto": "Yogur griego natural",
+   "texto": "Yogur griego desnatado",
    "contando": false,
    "r": [
     306,
@@ -515,9 +515,9 @@
    "contando": false,
    "r": [
     96,
-    449,
-    396,
-    587
+    465,
+    368,
+    575
    ]
   },
   {
@@ -525,9 +525,9 @@
    "texto": ". ¿Qué lácteo?",
    "contando": false,
    "r": [
-    396,
+    368,
     449,
-    903,
+    875,
     587
    ]
   },
@@ -566,7 +566,7 @@
   },
   {
    "t": 8.3,
-   "texto": "Yogur griego natural",
+   "texto": "Yogur griego desnatado",
    "contando": false,
    "r": [
     306,
@@ -592,9 +592,9 @@
    "contando": false,
    "r": [
     384,
-    983,
-    396,
-    1019
+    987,
+    395,
+    1016
    ]
   },
   {
@@ -636,9 +636,9 @@
    "contando": false,
    "r": [
     830,
-    983,
-    842,
-    1019
+    987,
+    841,
+    1016
    ]
   },
   {
@@ -713,9 +713,9 @@
    "contando": false,
    "r": [
     812,
-    1313,
-    824,
-    1349
+    1317,
+    822,
+    1346
    ]
   },
   {
@@ -801,9 +801,9 @@
    "contando": false,
    "r": [
     335,
-    505,
-    353,
-    559
+    511,
+    351,
+    554
    ]
   },
   {
@@ -841,7 +841,7 @@
   },
   {
    "t": 9.467,
-   "texto": "Yogur griego natural",
+   "texto": "Yogur griego desnatado",
    "contando": false,
    "r": [
     306,
@@ -867,9 +867,9 @@
    "contando": false,
    "r": [
     384,
-    983,
-    396,
-    1019
+    987,
+    395,
+    1016
    ]
   },
   {
@@ -911,9 +911,9 @@
    "contando": false,
    "r": [
     830,
-    983,
-    842,
-    1019
+    987,
+    841,
+    1016
    ]
   },
   {
@@ -988,9 +988,9 @@
    "contando": false,
    "r": [
     812,
-    1313,
-    824,
-    1349
+    1317,
+    822,
+    1346
    ]
   },
   {
@@ -1094,7 +1094,7 @@
   },
   {
    "t": 11.433,
-   "texto": "Yogur griego natural",
+   "texto": "Yogur griego desnatado",
    "contando": false,
    "r": [
     306,
@@ -1120,9 +1120,9 @@
    "contando": false,
    "r": [
     384,
-    983,
-    396,
-    1019
+    987,
+    395,
+    1016
    ]
   },
   {
@@ -1164,9 +1164,9 @@
    "contando": false,
    "r": [
     830,
-    983,
-    842,
-    1019
+    987,
+    841,
+    1016
    ]
   },
   {
@@ -1208,9 +1208,9 @@
    "contando": false,
    "r": [
     390,
-    1313,
-    402,
-    1349
+    1317,
+    401,
+    1346
    ]
   },
   {
@@ -1252,9 +1252,9 @@
    "contando": false,
    "r": [
     812,
-    1313,
-    824,
-    1349
+    1317,
+    822,
+    1346
    ]
   },
   {
@@ -1340,9 +1340,9 @@
    "contando": false,
    "r": [
     388,
-    509,
-    411,
-    576
+    517,
+    408,
+    570
    ]
   },
   {
@@ -1362,9 +1362,9 @@
    "contando": false,
    "r": [
     96,
-    697,
-    720,
-    775
+    705,
+    662,
+    767
    ]
   },
   {
@@ -1406,9 +1406,9 @@
    "contando": false,
    "r": [
     96,
-    527,
-    720,
-    605
+    535,
+    662,
+    597
    ]
   },
   {
@@ -1439,9 +1439,9 @@
    "contando": false,
    "r": [
     96,
-    750,
-    732,
-    932
+    761,
+    945,
+    922
    ]
   },
   {
@@ -1461,20 +1461,20 @@
    "contando": false,
    "r": [
     96,
-    750,
-    732,
-    932
+    761,
+    945,
+    922
    ]
   },
   {
    "t": 19.433,
-   "texto": "Mañana por la mañana: el hierro, en cuenta atrás.",
+   "texto": "Mañana por la mañana: la vitamina A, más allá de los ojos.",
    "contando": false,
    "r": [
     96,
-    1113,
-    856,
-    1142
+    1097,
+    902,
+    1158
    ]
   },
   {
@@ -1616,10 +1616,10 @@
   }
  ],
  "fotogramas": 584,
- "tiempo_render_s": 79.9,
+ "tiempo_render_s": 61.9,
  "tiempos_s": {
-  "preparar": 2.48,
-  "dibujar_y_codificar": 70.07
+  "preparar": 2.04,
+  "dibujar_y_codificar": 54.01
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
@@ -1643,7 +1643,7 @@
     "letra": "A",
     "t": 4.681,
     "max": false,
-    "nombre": "yogur griego natural",
+    "nombre": "yogur griego desnatado",
     "valor": "10,2",
     "cuenta": 0.97
    },

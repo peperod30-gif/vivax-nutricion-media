@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 1.57,
+ "tamano_mb": 1.58,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -1050,13 +1050,13 @@
   },
   {
    "t": 17.767,
-   "texto": "Mañana por la mañana: cuatro frutas y sus hidratos.",
+   "texto": "Mañana por la mañana: adivina con tres pistas qué hace la vitamina E.",
    "contando": false,
    "r": [
     96,
     970,
-    785,
-    1013
+    866,
+    1057
    ]
   },
   {
@@ -1312,10 +1312,10 @@
   }
  ],
  "fotogramas": 610,
- "tiempo_render_s": 32.5,
+ "tiempo_render_s": 87.1,
  "tiempos_s": {
-  "preparar": 0.81,
-  "dibujar_y_codificar": 29.81
+  "preparar": 1.53,
+  "dibujar_y_codificar": 73.74
  },
  "voz_de_prueba": false,
  "plantilla": "reel_carrera",

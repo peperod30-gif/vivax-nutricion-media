@@ -1,13 +1,13 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 25.71,
+ "duracion_s": 26.01,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
  "fps": 29.98,
  "pixel": "yuv420p",
- "tamano_mb": 2.28,
+ "tamano_mb": 2.24,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -15,8 +15,8 @@
  "pico_dbtp": -2.0,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 1.1,
- "n_cambios_visuales": 272,
+ "hueco_max_s": 1.133,
+ "n_cambios_visuales": 276,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -108,9 +108,9 @@
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
@@ -118,10 +118,10 @@
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
@@ -130,9 +130,9 @@
    "contando": false,
    "r": [
     96,
-    696,
-    118,
-    765
+    703,
+    117,
+    758
    ]
   },
   {
@@ -152,20 +152,31 @@
    "contando": false,
    "r": [
     96,
-    769,
-    324,
-    878
+    770,
+    311,
+    872
    ]
   },
   {
    "t": 0.0,
-   "texto": "maría:",
+   "texto": "de",
    "contando": false,
    "r": [
-    341,
-    769,
-    521,
-    878
+    327,
+    770,
+    393,
+    872
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mantequilla:",
+   "contando": false,
+   "r": [
+    409,
+    770,
+    744,
+    872
    ]
   },
   {
@@ -173,10 +184,10 @@
    "texto": "más",
    "contando": false,
    "r": [
-    538,
-    769,
-    660,
-    878
+    759,
+    770,
+    875,
+    872
    ]
   },
   {
@@ -184,10 +195,10 @@
    "texto": "grasa",
    "contando": false,
    "r": [
-    677,
-    769,
-    840,
-    878
+    96,
+    849,
+    250,
+    951
    ]
   },
   {
@@ -195,10 +206,10 @@
    "texto": "saturada",
    "contando": false,
    "r": [
-    96,
-    853,
-    350,
-    962
+    265,
+    849,
+    505,
+    951
    ]
   },
   {
@@ -206,10 +217,10 @@
    "texto": "que",
    "contando": false,
    "r": [
-    366,
-    853,
-    472,
-    962
+    521,
+    849,
+    620,
+    951
    ]
   },
   {
@@ -217,10 +228,10 @@
    "texto": "la",
    "contando": false,
    "r": [
-    488,
-    853,
-    540,
-    962
+    96,
+    928,
+    145,
+    1030
    ]
   },
   {
@@ -228,10 +239,10 @@
    "texto": "mayonesa.",
    "contando": false,
    "r": [
-    557,
-    853,
-    868,
-    962
+    160,
+    928,
+    454,
+    1030
    ]
   },
   {
@@ -268,7 +279,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -279,7 +290,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "El",
    "contando": false,
    "r": [
@@ -290,7 +301,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "aguacate",
    "contando": false,
    "r": [
@@ -301,7 +312,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "tiene",
    "contando": false,
    "r": [
@@ -312,7 +323,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "un",
    "contando": false,
    "r": [
@@ -323,7 +334,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "gemelo",
    "contando": false,
    "r": [
@@ -334,7 +345,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "de",
    "contando": false,
    "r": [
@@ -345,40 +356,40 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "grasa",
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    696,
-    118,
-    765
+    703,
+    117,
+    758
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -389,95 +400,106 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "Galletas",
    "contando": false,
    "r": [
     96,
-    769,
-    324,
-    878
+    770,
+    311,
+    872
    ]
   },
   {
-   "t": 3.567,
-   "texto": "maría:",
+   "t": 3.967,
+   "texto": "de",
    "contando": false,
    "r": [
-    341,
-    769,
-    521,
-    878
+    327,
+    770,
+    393,
+    872
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
+   "texto": "mantequilla:",
+   "contando": false,
+   "r": [
+    409,
+    770,
+    744,
+    872
+   ]
+  },
+  {
+   "t": 3.967,
    "texto": "más",
    "contando": false,
    "r": [
-    538,
-    769,
-    660,
-    878
+    759,
+    770,
+    875,
+    872
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "grasa",
    "contando": false,
    "r": [
-    677,
-    769,
-    840,
-    878
+    96,
+    849,
+    250,
+    951
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "saturada",
    "contando": false,
    "r": [
-    96,
-    853,
-    350,
-    962
+    265,
+    849,
+    505,
+    951
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "que",
    "contando": false,
    "r": [
-    366,
-    853,
-    472,
-    962
+    521,
+    849,
+    620,
+    951
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "la",
    "contando": false,
    "r": [
-    488,
-    853,
-    540,
-    962
+    96,
+    928,
+    145,
+    1030
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "mayonesa.",
    "contando": false,
    "r": [
-    557,
-    853,
-    868,
-    962
+    160,
+    928,
+    454,
+    1030
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -488,7 +510,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -499,7 +521,7 @@
    ]
   },
   {
-   "t": 3.567,
+   "t": 3.967,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -510,7 +532,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -521,7 +543,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "El",
    "contando": false,
    "r": [
@@ -532,7 +554,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "aguacate",
    "contando": false,
    "r": [
@@ -543,7 +565,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "tiene",
    "contando": false,
    "r": [
@@ -554,7 +576,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "un",
    "contando": false,
    "r": [
@@ -565,7 +587,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "gemelo",
    "contando": false,
    "r": [
@@ -576,7 +598,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "de",
    "contando": false,
    "r": [
@@ -587,40 +609,40 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "grasa",
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    696,
-    118,
-    765
+    703,
+    117,
+    758
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -631,95 +653,106 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "Galletas",
    "contando": false,
    "r": [
     96,
-    769,
-    324,
-    878
+    770,
+    311,
+    872
    ]
   },
   {
-   "t": 5.0,
-   "texto": "maría:",
+   "t": 5.4,
+   "texto": "de",
    "contando": false,
    "r": [
-    341,
-    769,
-    521,
-    878
+    327,
+    770,
+    393,
+    872
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
+   "texto": "mantequilla:",
+   "contando": false,
+   "r": [
+    409,
+    770,
+    744,
+    872
+   ]
+  },
+  {
+   "t": 5.4,
    "texto": "más",
    "contando": false,
    "r": [
-    538,
-    769,
-    660,
-    878
+    759,
+    770,
+    875,
+    872
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "grasa",
    "contando": false,
    "r": [
-    677,
-    769,
-    840,
-    878
+    96,
+    849,
+    250,
+    951
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "saturada",
    "contando": false,
    "r": [
-    96,
-    853,
-    350,
-    962
+    265,
+    849,
+    505,
+    951
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "que",
    "contando": false,
    "r": [
-    366,
-    853,
-    472,
-    962
+    521,
+    849,
+    620,
+    951
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "la",
    "contando": false,
    "r": [
-    488,
-    853,
-    540,
-    962
+    96,
+    928,
+    145,
+    1030
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "mayonesa.",
    "contando": false,
    "r": [
-    557,
-    853,
-    868,
-    962
+    160,
+    928,
+    454,
+    1030
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -730,7 +763,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "11,1",
    "contando": false,
    "r": [
@@ -741,18 +774,18 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "g",
    "contando": false,
    "r": [
     550,
-    1170,
-    571,
-    1231
+    1177,
+    568,
+    1226
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -763,18 +796,18 @@
    ]
   },
   {
-   "t": 5.0,
-   "texto": "Galletas tipo maría",
+   "t": 5.4,
+   "texto": "Galletas de mantequilla",
    "contando": false,
    "r": [
     96,
     1329,
-    291,
+    341,
     1349
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "11,1 g",
    "contando": false,
    "r": [
@@ -785,7 +818,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "Mayonesa",
    "contando": false,
    "r": [
@@ -796,7 +829,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "11,7 g",
    "contando": false,
    "r": [
@@ -807,7 +840,7 @@
    ]
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -818,7 +851,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -829,7 +862,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "El",
    "contando": false,
    "r": [
@@ -840,7 +873,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "aguacate",
    "contando": false,
    "r": [
@@ -851,7 +884,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "tiene",
    "contando": false,
    "r": [
@@ -862,7 +895,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "un",
    "contando": false,
    "r": [
@@ -873,7 +906,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "gemelo",
    "contando": false,
    "r": [
@@ -884,7 +917,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "de",
    "contando": false,
    "r": [
@@ -895,40 +928,40 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "grasa",
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "ii.",
    "contando": false,
    "r": [
     96,
-    696,
-    129,
-    765
+    703,
+    127,
+    758
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -939,7 +972,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "Donut",
    "contando": false,
    "r": [
@@ -950,7 +983,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "glaseado:",
    "contando": false,
    "r": [
@@ -961,7 +994,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "menos",
    "contando": false,
    "r": [
@@ -972,7 +1005,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -983,7 +1016,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "saturada",
    "contando": false,
    "r": [
@@ -994,7 +1027,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "que",
    "contando": false,
    "r": [
@@ -1005,40 +1038,29 @@
    ]
   },
   {
-   "t": 9.733,
-   "texto": "la",
+   "t": 10.067,
+   "texto": "esas",
    "contando": false,
    "r": [
     488,
     853,
-    540,
+    625,
     962
    ]
   },
   {
-   "t": 9.733,
-   "texto": "galleta",
+   "t": 10.067,
+   "texto": "galletas.",
    "contando": false,
    "r": [
-    557,
+    641,
     853,
-    752,
+    887,
     962
    ]
   },
   {
-   "t": 9.733,
-   "texto": "maría.",
-   "contando": false,
-   "r": [
-    769,
-    853,
-    949,
-    962
-   ]
-  },
-  {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1049,7 +1071,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -1060,7 +1082,7 @@
    ]
   },
   {
-   "t": 9.733,
+   "t": 10.067,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1071,7 +1093,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1082,7 +1104,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "El",
    "contando": false,
    "r": [
@@ -1093,7 +1115,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "aguacate",
    "contando": false,
    "r": [
@@ -1104,7 +1126,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "tiene",
    "contando": false,
    "r": [
@@ -1115,7 +1137,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "un",
    "contando": false,
    "r": [
@@ -1126,7 +1148,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "gemelo",
    "contando": false,
    "r": [
@@ -1137,7 +1159,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1148,40 +1170,40 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "grasa",
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "ii.",
    "contando": false,
    "r": [
     96,
-    696,
-    129,
-    765
+    703,
+    127,
+    758
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -1192,7 +1214,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "Donut",
    "contando": false,
    "r": [
@@ -1203,7 +1225,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "glaseado:",
    "contando": false,
    "r": [
@@ -1214,7 +1236,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "menos",
    "contando": false,
    "r": [
@@ -1225,7 +1247,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -1236,7 +1258,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "saturada",
    "contando": false,
    "r": [
@@ -1247,7 +1269,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "que",
    "contando": false,
    "r": [
@@ -1258,40 +1280,29 @@
    ]
   },
   {
-   "t": 11.133,
-   "texto": "la",
+   "t": 11.467,
+   "texto": "esas",
    "contando": false,
    "r": [
     488,
     853,
-    540,
+    625,
     962
    ]
   },
   {
-   "t": 11.133,
-   "texto": "galleta",
+   "t": 11.467,
+   "texto": "galletas.",
    "contando": false,
    "r": [
-    557,
+    641,
     853,
-    752,
+    887,
     962
    ]
   },
   {
-   "t": 11.133,
-   "texto": "maría.",
-   "contando": false,
-   "r": [
-    769,
-    853,
-    949,
-    962
-   ]
-  },
-  {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1302,7 +1313,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "9,5",
    "contando": false,
    "r": [
@@ -1313,18 +1324,18 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "g",
    "contando": false,
    "r": [
     555,
-    1170,
-    575,
-    1231
+    1177,
+    573,
+    1226
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -1335,7 +1346,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "Donut glaseado",
    "contando": false,
    "r": [
@@ -1346,7 +1357,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "9,5 g",
    "contando": false,
    "r": [
@@ -1357,18 +1368,18 @@
    ]
   },
   {
-   "t": 11.133,
-   "texto": "Galletas tipo maría",
+   "t": 11.467,
+   "texto": "Galletas de mantequilla",
    "contando": false,
    "r": [
     96,
     1379,
-    291,
+    341,
     1399
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "11,1 g",
    "contando": false,
    "r": [
@@ -1379,7 +1390,7 @@
    ]
   },
   {
-   "t": 11.133,
+   "t": 11.467,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1390,7 +1401,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1401,7 +1412,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "El",
    "contando": false,
    "r": [
@@ -1412,7 +1423,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "aguacate",
    "contando": false,
    "r": [
@@ -1423,7 +1434,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "tiene",
    "contando": false,
    "r": [
@@ -1434,7 +1445,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "un",
    "contando": false,
    "r": [
@@ -1445,7 +1456,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "gemelo",
    "contando": false,
    "r": [
@@ -1456,7 +1467,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1467,40 +1478,40 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "grasa",
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "iii.",
    "contando": false,
    "r": [
     96,
-    696,
-    140,
-    765
+    703,
+    137,
+    758
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -1511,7 +1522,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "Yogur",
    "contando": false,
    "r": [
@@ -1522,7 +1533,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "entero",
    "contando": false,
    "r": [
@@ -1533,7 +1544,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "y",
    "contando": false,
    "r": [
@@ -1544,7 +1555,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "aguacate:",
    "contando": false,
    "r": [
@@ -1555,7 +1566,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "la",
    "contando": false,
    "r": [
@@ -1566,7 +1577,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "misma",
    "contando": false,
    "r": [
@@ -1577,7 +1588,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -1588,7 +1599,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "saturada.",
    "contando": false,
    "r": [
@@ -1599,7 +1610,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1610,7 +1621,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -1621,7 +1632,7 @@
    ]
   },
   {
-   "t": 15.467,
+   "t": 15.9,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1632,7 +1643,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1643,7 +1654,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "El",
    "contando": false,
    "r": [
@@ -1654,7 +1665,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "aguacate",
    "contando": false,
    "r": [
@@ -1665,7 +1676,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "tiene",
    "contando": false,
    "r": [
@@ -1676,7 +1687,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "un",
    "contando": false,
    "r": [
@@ -1687,7 +1698,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "gemelo",
    "contando": false,
    "r": [
@@ -1698,7 +1709,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1709,40 +1720,40 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "grasa",
    "contando": false,
    "r": [
     96,
-    520,
-    259,
-    630
+    533,
+    244,
+    621
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "saturada.",
    "contando": false,
    "r": [
-    275,
-    520,
-    545,
-    630
+    260,
+    533,
+    508,
+    621
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "iii.",
    "contando": false,
    "r": [
     96,
-    696,
-    140,
-    765
+    703,
+    137,
+    758
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -1753,7 +1764,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "Yogur",
    "contando": false,
    "r": [
@@ -1764,7 +1775,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "entero",
    "contando": false,
    "r": [
@@ -1775,7 +1786,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "y",
    "contando": false,
    "r": [
@@ -1786,7 +1797,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "aguacate:",
    "contando": false,
    "r": [
@@ -1797,7 +1808,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "la",
    "contando": false,
    "r": [
@@ -1808,7 +1819,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "misma",
    "contando": false,
    "r": [
@@ -1819,7 +1830,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -1830,7 +1841,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "saturada.",
    "contando": false,
    "r": [
@@ -1841,7 +1852,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1852,7 +1863,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "2,1",
    "contando": false,
    "r": [
@@ -1863,18 +1874,18 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "g",
    "contando": false,
    "r": [
     527,
-    1170,
-    547,
-    1231
+    1177,
+    545,
+    1226
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "por 100 g",
    "contando": false,
    "r": [
@@ -1885,7 +1896,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "Yogur natural entero",
    "contando": false,
    "r": [
@@ -1896,7 +1907,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "2,1 g",
    "contando": false,
    "r": [
@@ -1907,7 +1918,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "Aguacate",
    "contando": false,
    "r": [
@@ -1918,7 +1929,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "2,1 g",
    "contando": false,
    "r": [
@@ -1929,7 +1940,7 @@
    ]
   },
   {
-   "t": 16.867,
+   "t": 17.333,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1940,7 +1951,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1951,7 +1962,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "¿Y",
    "contando": false,
    "r": [
@@ -1962,7 +1973,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "mayonesa",
    "contando": false,
    "r": [
@@ -1973,7 +1984,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "contra",
    "contando": false,
    "r": [
@@ -1984,7 +1995,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "aguacate?",
    "contando": false,
    "r": [
@@ -1995,7 +2006,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "El dato final",
    "contando": false,
    "r": [
@@ -2006,7 +2017,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "Por",
    "contando": false,
    "r": [
@@ -2017,7 +2028,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "cada",
    "contando": false,
    "r": [
@@ -2028,7 +2039,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "100 g:",
    "contando": false,
    "r": [
@@ -2039,7 +2050,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "mayonesa,",
    "contando": false,
    "r": [
@@ -2050,7 +2061,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "11,7 g",
    "contando": false,
    "r": [
@@ -2061,7 +2072,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "de",
    "contando": false,
    "r": [
@@ -2072,7 +2083,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -2083,7 +2094,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "saturada;",
    "contando": false,
    "r": [
@@ -2094,7 +2105,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "aguacate,",
    "contando": false,
    "r": [
@@ -2105,7 +2116,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "2,1 g",
    "contando": false,
    "r": [
@@ -2116,7 +2127,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "de",
    "contando": false,
    "r": [
@@ -2127,7 +2138,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "grasa",
    "contando": false,
    "r": [
@@ -2138,7 +2149,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "saturada.",
    "contando": false,
    "r": [
@@ -2149,7 +2160,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "La grasa saturada no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal.",
    "contando": false,
    "r": [
@@ -2160,7 +2171,7 @@
    ]
   },
   {
-   "t": 21.333,
+   "t": 21.933,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -2171,106 +2182,95 @@
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
     96,
-    777,
-    428,
-    891
+    789,
+    386,
+    880
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "a",
    "contando": false,
    "r": [
-    445,
-    777,
-    481,
-    891
+    401,
+    789,
+    434,
+    880
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "quien",
    "contando": false,
    "r": [
-    499,
-    777,
-    666,
-    891
+    449,
+    789,
+    599,
+    880
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "moja",
    "contando": false,
    "r": [
-    683,
-    777,
-    833,
-    891
+    613,
+    789,
+    747,
+    880
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "galletas",
    "contando": false,
    "r": [
     96,
-    867,
-    338,
-    981
+    879,
+    316,
+    970
    ]
   },
   {
-   "t": 25.067,
-   "texto": "maría",
-   "contando": false,
-   "r": [
-    356,
-    867,
-    529,
-    981
-   ]
-  },
-  {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "en",
    "contando": false,
    "r": [
-    546,
-    867,
-    620,
-    981
+    330,
+    879,
+    397,
+    970
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "la",
    "contando": false,
    "r": [
-    637,
-    867,
-    692,
-    981
+    411,
+    879,
+    461,
+    970
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "leche.",
    "contando": false,
    "r": [
-    709,
-    867,
-    893,
-    981
+    475,
+    879,
+    642,
+    970
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "Mañana",
    "contando": false,
    "r": [
@@ -2281,7 +2281,7 @@
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "por",
    "contando": false,
    "r": [
@@ -2292,7 +2292,7 @@
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "la",
    "contando": false,
    "r": [
@@ -2303,7 +2303,7 @@
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "noche:",
    "contando": false,
    "r": [
@@ -2314,7 +2314,7 @@
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
    "texto": "la",
    "contando": false,
    "r": [
@@ -2325,51 +2325,62 @@
    ]
   },
   {
-   "t": 25.067,
-   "texto": "ruleta",
+   "t": 25.367,
+   "texto": "niacina,",
    "contando": false,
    "r": [
     436,
     1175,
-    514,
+    543,
     1216
    ]
   },
   {
-   "t": 25.067,
-   "texto": "de",
+   "t": 25.367,
+   "texto": "a",
    "contando": false,
    "r": [
-    524,
+    553,
     1175,
-    558,
+    569,
     1216
    ]
   },
   {
-   "t": 25.067,
-   "texto": "la",
+   "t": 25.367,
+   "texto": "verdadero",
    "contando": false,
    "r": [
-    568,
+    579,
     1175,
-    592,
+    717,
     1216
    ]
   },
   {
-   "t": 25.067,
-   "texto": "proteína.",
+   "t": 25.367,
+   "texto": "o",
    "contando": false,
    "r": [
-    602,
+    727,
     1175,
-    724,
+    744,
     1216
    ]
   },
   {
-   "t": 25.067,
+   "t": 25.367,
+   "texto": "falso.",
+   "contando": false,
+   "r": [
+    754,
+    1175,
+    827,
+    1216
+   ]
+  },
+  {
+   "t": 25.367,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -2382,23 +2393,23 @@
  ],
  "comprobar_s": [
   0.0,
-  3.567,
-  5.0,
-  9.733,
-  11.133,
-  15.467,
-  16.867,
-  21.333,
-  25.067
+  3.967,
+  5.4,
+  10.067,
+  11.467,
+  15.9,
+  17.333,
+  21.933,
+  25.367
  ],
  "sonido": {
-  "lufs": -16.01,
+  "lufs": -16.03,
   "pico_dbtp": -2.05,
   "recortes": 0,
-  "reduccion_max_db": 3.74,
+  "reduccion_max_db": 3.79,
   "tiempo_reduccion_mas_1db_pct": 0.12,
   "efectos_por_tipo": {
-   "tic": 10,
+   "tic": 12,
    "tac": 3,
    "sello": 3,
    "golpe": 1,
@@ -2408,7 +2419,7 @@
    "pop": 1
   },
   "descartados": 0,
-  "duracion_s": 25.645,
+  "duracion_s": 25.945,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -2419,56 +2430,56 @@
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
    "caracteres": 307,
-   "texto": "Galletas maría: más grasa saturada que la mayonesa. ¡Falso! Donut glaseado: menos grasa saturada que la galleta maría. ¡Verdadero! Yogur entero y aguacate: la misma grasa saturada. ¡Verdadero! ¿Y mayonesa contra aguacate? Más de cinco veces en la mayonesa. Mándaselo a quien moja galletas maría en la leche.",
-   "duracion_voz_s": 24.4,
+   "texto": "Galletas de mantequilla: más grasa saturada que la mayonesa. ¡Falso! Donut glaseado: menos grasa saturada que esas galletas. ¡Verdadero! Yogur entero y aguacate: la misma grasa saturada. ¡Verdadero! ¿Y mayonesa contra aguacate? Más de cinco veces en la mayonesa. Mándaselo a quien moja galletas en la leche.",
+   "duracion_voz_s": 24.675,
    "lineas": [
     {
      "id": "a0",
-     "texto": "Galletas maría: más grasa saturada que la mayonesa.",
+     "texto": "Galletas de mantequilla: más grasa saturada que la mayonesa.",
      "t0": 0.0213,
-     "t1": 2.9963
+     "t1": 3.3063
     },
     {
      "id": "v0",
      "texto": "¡Falso!",
-     "t0": 3.6564,
-     "t1": 4.1764
+     "t0": 4.0613,
+     "t1": 4.3813
     },
     {
      "id": "a1",
-     "texto": "Donut glaseado: menos grasa saturada que la galleta maría.",
-     "t0": 5.9014,
-     "t1": 9.0914
+     "texto": "Donut glaseado: menos grasa saturada que esas galletas.",
+     "t0": 6.2263,
+     "t1": 9.4513
     },
     {
      "id": "v1",
      "texto": "¡Verdadero!",
-     "t0": 9.8114,
-     "t1": 10.3714
+     "t0": 10.1414,
+     "t1": 10.7014
     },
     {
      "id": "a2",
      "texto": "Yogur entero y aguacate: la misma grasa saturada.",
-     "t0": 11.9114,
-     "t1": 14.8714
+     "t0": 12.2664,
+     "t1": 15.2964
     },
     {
      "id": "v2",
      "texto": "¡Verdadero!",
-     "t0": 15.5514,
-     "t1": 16.1114
+     "t0": 15.9964,
+     "t1": 16.5564
     },
     {
      "id": "c",
      "texto": "¿Y mayonesa contra aguacate? Más de cinco veces en la mayonesa.",
-     "t0": 17.5264,
-     "t1": 21.2964
+     "t0": 18.0614,
+     "t1": 21.8714
     },
     {
      "id": "f",
-     "texto": "Mándaselo a quien moja galletas maría en la leche.",
-     "t0": 21.8614,
-     "t1": 24.1814
+     "texto": "Mándaselo a quien moja galletas en la leche.",
+     "t0": 22.4664,
+     "t1": 24.4664
     }
    ]
   },
@@ -2476,7 +2487,7 @@
    "efectos_db": -7,
    "ducking": 0.5,
    "lufs_wav": -16.01,
-   "limitador_max_db": 1.72
+   "limitador_max_db": 1.92
   }
  },
  "efectos": [
@@ -2486,340 +2497,352 @@
    "intensidad": 0.18
   },
   {
-   "t": 1.619,
+   "t": 1.39,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 2.616,
+   "t": 2.158,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 3.066,
+   "t": 2.926,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.376,
    "tipo": "tac",
    "intensidad": 0.6
   },
   {
-   "t": 3.636,
+   "t": 4.041,
    "tipo": "sello",
    "intensidad": 0.7
   },
   {
-   "t": 3.676,
+   "t": 4.081,
    "tipo": "golpe",
    "intensidad": 0.35
   },
   {
-   "t": 3.886,
+   "t": 4.291,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 3.986,
+   "t": 4.391,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 4.086,
+   "t": 4.491,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 4.186,
+   "t": 4.591,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 4.286,
+   "t": 4.691,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 4.386,
+   "t": 4.791,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 4.486,
+   "t": 4.891,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.446,
+   "t": 5.771,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 6.501,
+   "t": 6.826,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 7.238,
+   "t": 7.575,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 7.974,
+   "t": 8.323,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 8.711,
+   "t": 9.071,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 9.161,
+   "t": 9.521,
    "tipo": "tac",
    "intensidad": 0.6
   },
   {
-   "t": 9.791,
+   "t": 10.121,
    "tipo": "sello",
    "intensidad": 0.7
   },
   {
-   "t": 9.831,
+   "t": 10.161,
    "tipo": "ding",
    "intensidad": 0.5
   },
   {
-   "t": 10.041,
+   "t": 10.371,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.141,
+   "t": 10.471,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.241,
+   "t": 10.571,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.341,
+   "t": 10.671,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.441,
+   "t": 10.771,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.541,
+   "t": 10.871,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.641,
+   "t": 10.971,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 11.521,
+   "t": 11.876,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 12.511,
+   "t": 12.866,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 13.501,
+   "t": 13.55,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 14.491,
+   "t": 14.233,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 14.941,
+   "t": 14.916,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.366,
    "tipo": "tac",
    "intensidad": 0.6
   },
   {
-   "t": 15.531,
+   "t": 15.976,
    "tipo": "sello",
    "intensidad": 0.7
   },
   {
-   "t": 15.571,
+   "t": 16.016,
    "tipo": "ding",
    "intensidad": 0.5
   },
   {
-   "t": 15.781,
+   "t": 16.226,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 15.881,
+   "t": 16.326,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 15.981,
+   "t": 16.426,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.081,
+   "t": 16.526,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.181,
+   "t": 16.626,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.281,
+   "t": 16.726,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 17.211,
+   "t": 17.686,
    "tipo": "whoosh",
    "intensidad": 0.42
   },
   {
-   "t": 21.376,
+   "t": 21.991,
    "tipo": "whoosh",
    "intensidad": 0.38
   },
   {
-   "t": 24.281,
+   "t": 24.566,
    "tipo": "pop",
    "intensidad": 0.26
   }
  ],
- "fotogramas": 770,
- "tiempo_render_s": 94.3,
+ "fotogramas": 779,
+ "tiempo_render_s": 87.9,
  "tiempos_s": {
-  "preparar": 2.11,
-  "dibujar_y_codificar": 79.83
+  "preparar": 2.55,
+  "dibujar_y_codificar": 79.47
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
-  "dur": 25.6667,
-  "loop": 25.1667,
+  "dur": 25.9667,
+  "loop": 25.4667,
   "conc": {
-   "t_in": 17.211,
+   "t_in": 17.686,
    "palabras": [
-    18.161,
-    18.161,
-    18.161,
-    18.1887,
-    18.6472,
-    18.9529,
-    19.0548,
-    19.3095,
-    19.768,
-    20.2265,
-    20.4813,
-    20.5832,
-    20.8379
+    18.636,
+    18.636,
+    18.636,
+    18.7307,
+    19.1941,
+    19.503,
+    19.606,
+    19.8634,
+    20.3268,
+    20.7902,
+    21.0476,
+    21.1506,
+    21.408
    ],
    "palabras_g": [
-    17.5264,
-    17.7664,
-    18.3264,
-    18.6464
+    18.0614,
+    18.3414,
+    18.8214,
+    19.1414
    ],
-   "t_sal": 18.011,
-   "t_frase": 21.388
+   "t_sal": 18.486,
+   "t_frase": 21.958
   },
   "fin": {
-   "t_in": 21.376,
+   "t_in": 21.991,
    "palabras": [
-    21.8614,
-    22.3814,
-    22.5014,
-    22.7414,
-    22.9814,
-    23.4614,
-    23.7414,
-    23.8214,
-    23.9414
+    22.4664,
+    22.9864,
+    23.1064,
+    23.3464,
+    23.5864,
+    24.0264,
+    24.1064,
+    24.2264
    ],
    "palabras_an": [
-    24.281,
-    24.281,
-    24.281,
-    24.281,
-    24.281,
-    24.281,
-    24.281,
-    24.281,
-    24.281
+    24.566,
+    24.566,
+    24.566,
+    24.566,
+    24.566,
+    24.566,
+    24.566,
+    24.566,
+    24.566,
+    24.566
    ],
-   "t_an": 24.281
+   "t_an": 24.566
   },
   "iconos": [
    [
     -1.0,
-    5.396
+    5.721
    ],
    [
-    5.396,
-    11.471
+    5.721,
+    11.825999999999999
    ],
    [
-    11.471,
-    17.211
+    11.825999999999999,
+    17.686
    ],
    [
-    17.211,
+    17.686,
     1000000000.0
    ]
   ],
-  "fin_voz": 24.181,
+  "fin_voz": 24.466,
   "avisos": [],
   "rondas": [
    {
     "t_in": 0.0,
     "t0": 0.021,
-    "buzz": 3.066,
-    "tv": 3.636,
+    "buzz": 3.376,
+    "tv": 4.041,
     "pasos": [
      0.621,
-     1.619,
-     2.616
+     1.39,
+     2.158,
+     2.926
     ],
-    "t_out": 5.396
+    "t_out": 5.721
    },
    {
-    "t_in": 5.696,
-    "t0": 5.901,
-    "buzz": 9.161,
-    "tv": 9.791,
+    "t_in": 6.021,
+    "t0": 6.226,
+    "buzz": 9.521,
+    "tv": 10.121,
     "pasos": [
-     6.501,
-     7.238,
-     7.974,
-     8.711
+     6.826,
+     7.575,
+     8.323,
+     9.071
     ],
-    "t_out": 11.471
+    "t_out": 11.826
    },
    {
-    "t_in": 11.771,
-    "t0": 11.911,
-    "buzz": 14.941,
-    "tv": 15.531,
+    "t_in": 12.126,
+    "t0": 12.266,
+    "buzz": 15.366,
+    "tv": 15.976,
     "pasos": [
-     12.511,
-     13.501,
-     14.491
+     12.866,
+     13.55,
+     14.233,
+     14.916
     ],
-    "t_out": 17.711
+    "t_out": 18.186
    }
   ]
  },
@@ -2829,67 +2852,67 @@
    "que": "fotograma 0: gancho y afirmación I"
   },
   {
-   "t": 2.9667,
+   "t": 3.2667,
    "que": "I: luz baja, reloj"
   },
   {
-   "t": 3.8333,
+   "t": 4.2333,
    "que": "I: veredicto"
   },
   {
-   "t": 5.0,
+   "t": 5.4,
    "que": "I: la cifra"
   },
   {
-   "t": 6.3667,
+   "t": 6.6667,
    "que": "afirmación II: barrido"
   },
   {
-   "t": 9.0667,
+   "t": 9.4333,
    "que": "II: luz baja, reloj"
   },
   {
-   "t": 10.0,
+   "t": 10.3333,
    "que": "II: veredicto"
   },
   {
-   "t": 11.1333,
+   "t": 11.4667,
    "que": "II: la cifra"
   },
   {
-   "t": 12.3667,
+   "t": 12.7,
    "que": "afirmación III: barrido"
   },
   {
-   "t": 14.8333,
+   "t": 15.2667,
    "que": "III: luz baja, reloj"
   },
   {
-   "t": 15.7333,
+   "t": 16.1667,
    "que": "III: veredicto"
   },
   {
-   "t": 16.8667,
+   "t": 17.3333,
    "que": "III: la cifra"
   },
   {
-   "t": 17.7,
+   "t": 18.2,
    "que": "conclusión: entra"
   },
   {
-   "t": 21.3333,
+   "t": 21.9333,
    "que": "conclusión: declaración"
   },
   {
-   "t": 21.8667,
+   "t": 22.5,
    "que": "cierre: cortina"
   },
   {
-   "t": 25.0667,
+   "t": 25.3667,
    "que": "cierre"
   },
   {
-   "t": 25.6333,
+   "t": 25.9333,
    "que": "bucle al fotograma 0"
   }
  ]
