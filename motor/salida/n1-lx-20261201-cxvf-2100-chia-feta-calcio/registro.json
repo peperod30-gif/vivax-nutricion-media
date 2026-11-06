@@ -1,0 +1,2206 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.24,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 10.3,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.6,
+ "n_cambios_visuales": 566,
+ "bucle_dif_ultimo_primero": 44.57,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    266,
+    310,
+    318
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Unas semillas le discuten el",
+   "contando": false,
+   "r": [
+    61,
+    307,
+    624,
+    521
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    457,
+    393,
+    669,
+    498
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "a un queso.",
+   "contando": false,
+   "r": [
+    66,
+    382,
+    731,
+    598
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    61,
+    583,
+    159,
+    736
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "chía",
+   "contando": false,
+   "r": [
+    181,
+    577,
+    366,
+    733
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    388,
+    570,
+    622,
+    727
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    644,
+    564,
+    826,
+    720
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    64,
+    676,
+    340,
+    834
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    362,
+    671,
+    513,
+    826
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    536,
+    668,
+    627,
+    821
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "queso",
+   "contando": false,
+   "r": [
+    649,
+    660,
+    901,
+    818
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "feta.",
+   "contando": false,
+   "r": [
+    66,
+    776,
+    276,
+    932
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡EH!",
+   "contando": false,
+   "r": [
+    798,
+    352,
+    883,
+    457
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "Calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    266,
+    310,
+    318
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "Unas semillas le discuten el",
+   "contando": false,
+   "r": [
+    61,
+    307,
+    624,
+    521
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    457,
+    393,
+    669,
+    498
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "a un queso.",
+   "contando": false,
+   "r": [
+    66,
+    382,
+    731,
+    598
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    61,
+    583,
+    159,
+    736
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "chía",
+   "contando": false,
+   "r": [
+    181,
+    577,
+    366,
+    733
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    388,
+    570,
+    622,
+    727
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    644,
+    564,
+    826,
+    720
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    64,
+    676,
+    340,
+    834
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    362,
+    671,
+    513,
+    826
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    536,
+    668,
+    627,
+    821
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "queso",
+   "contando": false,
+   "r": [
+    649,
+    660,
+    901,
+    818
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "feta.",
+   "contando": false,
+   "r": [
+    66,
+    776,
+    276,
+    932
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 3.067,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "Calcio por 100 g",
+   "contando": false,
+   "r": [
+    91,
+    266,
+    310,
+    318
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "Unas semillas le discuten el",
+   "contando": false,
+   "r": [
+    61,
+    307,
+    624,
+    521
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    457,
+    393,
+    669,
+    498
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "a un queso.",
+   "contando": false,
+   "r": [
+    66,
+    382,
+    731,
+    598
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    119,
+    651,
+    521,
+    839
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "631",
+   "contando": false,
+   "r": [
+    695,
+    623,
+    828,
+    772
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    823,
+    683,
+    874,
+    738
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    702,
+    764,
+    889,
+    815
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "493",
+   "contando": false,
+   "r": [
+    466,
+    859,
+    551,
+    948
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    547,
+    906,
+    575,
+    937
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    466,
+    949,
+    567,
+    984
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    80,
+    879,
+    232,
+    945
+   ]
+  },
+  {
+   "t": 4.433,
+   "texto": "¡TOMA!",
+   "contando": false,
+   "r": [
+    434,
+    1319,
+    626,
+    1450
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    61,
+    581,
+    208,
+    736
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "alubias",
+   "contando": false,
+   "r": [
+    231,
+    572,
+    557,
+    732
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "llevan",
+   "contando": false,
+   "r": [
+    579,
+    563,
+    865,
+    722
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    64,
+    678,
+    246,
+    834
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    268,
+    670,
+    545,
+    829
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    567,
+    665,
+    718,
+    820
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    740,
+    662,
+    831,
+    815
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "feta.",
+   "contando": false,
+   "r": [
+    66,
+    776,
+    276,
+    932
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 7.967,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    205,
+    663,
+    435,
+    827
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "493",
+   "contando": false,
+   "r": [
+    695,
+    624,
+    833,
+    767
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    834,
+    688,
+    881,
+    740
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "Queso feta",
+   "contando": false,
+   "r": [
+    730,
+    772,
+    853,
+    808
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "90",
+   "contando": false,
+   "r": [
+    495,
+    857,
+    531,
+    911
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    530,
+    884,
+    547,
+    903
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "Alubias blancas cocidas",
+   "contando": false,
+   "r": [
+    480,
+    917,
+    558,
+    992
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    80,
+    879,
+    232,
+    945
+   ]
+  },
+  {
+   "t": 9.333,
+   "texto": "¿QUÉ?",
+   "contando": false,
+   "r": [
+    441,
+    1319,
+    619,
+    1450
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    61,
+    583,
+    159,
+    736
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "chía",
+   "contando": false,
+   "r": [
+    181,
+    577,
+    366,
+    733
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    388,
+    570,
+    622,
+    727
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "siete",
+   "contando": false,
+   "r": [
+    644,
+    563,
+    854,
+    720
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "veces",
+   "contando": false,
+   "r": [
+    64,
+    677,
+    305,
+    834
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    328,
+    674,
+    419,
+    827
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    441,
+    665,
+    718,
+    824
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    740,
+    662,
+    840,
+    815
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    66,
+    777,
+    214,
+    932
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "alubias.",
+   "contando": false,
+   "r": [
+    236,
+    767,
+    588,
+    927
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 13.467,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    140,
+    957,
+    360,
+    1029
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    712,
+    961,
+    828,
+    1025
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    119,
+    651,
+    521,
+    839
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "631",
+   "contando": false,
+   "r": [
+    695,
+    623,
+    828,
+    772
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    823,
+    683,
+    874,
+    738
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "Semillas de chía",
+   "contando": false,
+   "r": [
+    702,
+    764,
+    889,
+    815
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "90",
+   "contando": false,
+   "r": [
+    496,
+    856,
+    534,
+    912
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    532,
+    885,
+    550,
+    904
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "Alubias blancas cocidas",
+   "contando": false,
+   "r": [
+    478,
+    916,
+    557,
+    994
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    80,
+    879,
+    232,
+    945
+   ]
+  },
+  {
+   "t": 14.833,
+   "texto": "¡SÍ!",
+   "contando": false,
+   "r": [
+    486,
+    1324,
+    574,
+    1445
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    68,
+    284,
+    156,
+    415
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    176,
+    282,
+    254,
+    413
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "calcio,",
+   "contando": false,
+   "r": [
+    274,
+    276,
+    534,
+    411
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    554,
+    272,
+    730,
+    405
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "qué?",
+   "contando": false,
+   "r": [
+    750,
+    268,
+    924,
+    401
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    147,
+    648,
+    205,
+    750
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "calcio",
+   "contando": false,
+   "r": [
+    221,
+    644,
+    414,
+    749
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    430,
+    643,
+    506,
+    745
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "necesario",
+   "contando": false,
+   "r": [
+    521,
+    637,
+    837,
+    743
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    149,
+    737,
+    295,
+    841
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    311,
+    736,
+    370,
+    838
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    385,
+    727,
+    862,
+    836
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    150,
+    829,
+    229,
+    931
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    244,
+    827,
+    340,
+    930
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "huesos",
+   "contando": false,
+   "r": [
+    355,
+    823,
+    583,
+    928
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    599,
+    821,
+    677,
+    923
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    152,
+    914,
+    535,
+    1022
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    551,
+    908,
+    869,
+    1015
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de calcio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    154,
+    1021,
+    891,
+    1092
+   ]
+  },
+  {
+   "t": 20.533,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    136,
+    510,
+    352,
+    571
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    150,
+    955,
+    408,
+    1025
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    420,
+    955,
+    450,
+    1025
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    462,
+    955,
+    590,
+    1025
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "pone",
+   "contando": false,
+   "r": [
+    155,
+    1015,
+    269,
+    1085
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "feta",
+   "contando": false,
+   "r": [
+    281,
+    1015,
+    388,
+    1085
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    401,
+    1015,
+    458,
+    1085
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    470,
+    1015,
+    585,
+    1085
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "ensalada.",
+   "contando": false,
+   "r": [
+    248,
+    1075,
+    492,
+    1145
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    144,
+    671,
+    291,
+    731
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    299,
+    668,
+    367,
+    725
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    375,
+    666,
+    421,
+    723
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "noche,",
+   "contando": false,
+   "r": [
+    429,
+    662,
+    553,
+    721
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    560,
+    658,
+    652,
+    716
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    136,
+    723,
+    226,
+    781
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "azúcar,",
+   "contando": false,
+   "r": [
+    234,
+    717,
+    379,
+    777
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "edulcorante",
+   "contando": false,
+   "r": [
+    387,
+    709,
+    632,
+    772
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    639,
+    708,
+    663,
+    763
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "cola.",
+   "contando": false,
+   "r": [
+    350,
+    765,
+    452,
+    823
+   ]
+  },
+  {
+   "t": 26.167,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1236,
+    239,
+    1267
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.067,
+  4.433,
+  7.967,
+  9.333,
+  13.467,
+  14.833,
+  20.533,
+  26.167
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.57,
+  "tiempo_reduccion_mas_1db_pct": 0.25,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "boing": 9,
+   "sello": 4,
+   "ding": 4,
+   "pop": 13,
+   "contador": 20,
+   "whoosh": 5,
+   "zas": 3,
+   "golpe": 1,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.179,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 327,
+   "texto": "La chía lleva más calcio que el queso feta. ¡Verdadero! Las alubias llevan más calcio que el feta. ¡Falso! La chía lleva siete veces el calcio de las alubias. ¡Verdadero! Seiscientos treinta y uno. El calcio es necesario para el mantenimiento de los huesos en condiciones normales. Mándaselo a quien pone feta en cada ensalada.",
+   "duracion_voz_s": 23.82,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "La chía lleva más calcio que el queso feta.",
+     "t0": 0.0213,
+     "t1": 2.4113
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.1763,
+     "t1": 3.7363
+    },
+    {
+     "id": "a1",
+     "texto": "Las alubias llevan más calcio que el feta.",
+     "t0": 5.2563,
+     "t1": 7.4013
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso!",
+     "t0": 8.0513,
+     "t1": 8.4913
+    },
+    {
+     "id": "a2",
+     "texto": "La chía lleva siete veces el calcio de las alubias.",
+     "t0": 10.2163,
+     "t1": 12.8563
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero! Seiscientos treinta y uno.",
+     "t0": 13.5613,
+     "t1": 15.5113
+    },
+    {
+     "id": "c",
+     "texto": "El calcio es necesario para el mantenimiento de los huesos en condiciones normales.",
+     "t0": 16.5514,
+     "t1": 20.5114
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien pone feta en cada ensalada.",
+     "t0": 21.1264,
+     "t1": 23.6064
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.04,
+   "limitador_max_db": 2.4
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.326,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.031,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.481,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.643,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.136,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.156,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.206,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.296,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.376,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.456,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.556,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.656,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.656,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.756,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.836,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 3.856,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.956,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.516,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.156,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.196,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.856,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.439,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.021,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.471,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 7.556,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.011,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.031,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.081,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.171,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.251,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 8.331,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.431,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.531,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.531,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 8.631,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.711,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 8.731,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.831,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.931,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.441,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.081,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.121,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.816,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.646,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.476,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.926,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 13.009,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.521,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 13.541,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 13.591,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 13.681,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.761,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.841,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 13.941,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.041,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.041,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 14.141,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.221,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.241,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.341,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.441,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.896,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.571,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.246,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.366,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 16.746,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 20.141,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 20.191,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.641,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 20.941,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.141,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 23.406,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 23.706,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 24.006,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.166,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.256,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 25.608,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 786,
+ "tiempo_render_s": 138.6,
+ "tiempos_s": {
+  "preparar": 5.09,
+  "dibujar_y_codificar": 126.52
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "meme",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.3333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.3667,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.4333,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 5.7667,
+   "que": "II · entra"
+  },
+  {
+   "t": 7.3333,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 8.2333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 9.3333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 10.7,
+   "que": "III · entra"
+  },
+  {
+   "t": 12.7667,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 13.7333,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 14.8333,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 17.1333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 20.5333,
+   "que": "conclusión"
+  },
+  {
+   "t": 22.0333,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 24.0,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 26.1667,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "nuez",
+   "queso",
+   "pan",
+   "naranja",
+   "vaso"
+  ],
+  [
+   "queso",
+   "lenteja",
+   "aguacate",
+   "naranja",
+   "fresa"
+  ],
+  [
+   "nuez",
+   "lenteja",
+   "platano",
+   "tomate",
+   "zanahoria"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 26.2,
+  "cortes": [
+   0.0,
+   5.136,
+   10.061,
+   16.246,
+   20.641
+  ],
+  "t_ono": 23.706,
+  "t_anz": 24.006,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.481,
+    "tv": 3.156,
+    "pasos": [
+     0.621,
+     1.326,
+     2.031
+    ],
+    "t_out": 4.836
+   },
+   {
+    "t_in": 5.136,
+    "t0": 5.256,
+    "buzz": 7.471,
+    "tv": 8.031,
+    "pasos": [
+     5.856,
+     6.439,
+     7.021
+    ],
+    "t_out": 9.761
+   },
+   {
+    "t_in": 10.061,
+    "t0": 10.216,
+    "buzz": 12.926,
+    "tv": 13.541,
+    "pasos": [
+     10.816,
+     11.646,
+     12.476
+    ],
+    "t_out": 16.746
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ALI-009, ALI-040, VIT-055",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #calcio #chia #verdaderoofalso #nutricion»"
+ ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "n1-lx-20261205-cxvf-2100-titulares-datos-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "LC-022",
+    "DEB-025",
+    "NOV-012"
+  ],
+  "titulo": "[CXVF] Titulares contra datos: ¿cuántos se sostienen?",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "El quiz de la noche",
+      "titulo": "Titulares contra {datos}: ¿cuántos se sostienen?",
+      "dice": [
+        "¡HALA!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La keto quita el hambre: efecto enorme.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "efecto modesto",
+      "dice": [
+        "¡AY!"
+      ],
+      "dato": "revisión de 2015",
+      "items": [
+        {
+          "nombre": "Keto y hambre"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Ni los especialistas coinciden al clasificar ultraprocesados.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "0,32 y 0,34",
+      "dice": [
+        "¡TOMA!"
+      ],
+      "dato": "donde 1 es acuerdo total",
+      "items": [
+        {
+          "nombre": "Acuerdo entre especialistas"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Primera comida pasado el mediodía: acorta la vida, demostrado.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "un solo día",
+      "dice": [
+        "¿QUÉ?"
+      ],
+      "dato": "31.044 adultos",
+      "items": [
+        {
+          "nombre": "Primera comida tardía"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "resalte": "El dato final",
+      "frase": "Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios.",
+      "fuente": "Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "Asociar no es demostrar"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien comparte titulares sin leerlos.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Pronto, otro quiz de la noche."
+    }
+  ],
+  "pie_instagram": "Titulares contra datos: ¿cuántos se sostienen?\n\nLa keto quita el hambre: efecto enorme. Falso: efecto modesto (revisión de 2015).\nNi los especialistas coinciden al clasificar ultraprocesados. Verdadero: 0,32 y 0,34 (donde 1 es acuerdo total).\nPrimera comida pasado el mediodía: acorta la vida, demostrado. Falso: un solo día (31.044 adultos).\n\nY el dato final: Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuántos has acertado?\nMándaselo a quien comparte titulares sin leerlos.\nPronto, otro quiz de la noche.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutricion #verdaderoofalso #mitos #evidencia",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: el quiz de verdadero o falso como el rasca (BD), con Oli, la aceituna de Vivax, de presentadora y un montón de alimentos con cara que reaccionan a cada respuesta. El quiz de la noche. Titulares contra datos: ¿cuántos se sostienen? I. La keto quita el hambre: efecto enorme. Sello: Falso. La prueba: efecto modesto (Keto y hambre), revisión de 2015. Una gota de aceite se queda con la boca abierta. II. Ni los especialistas coinciden al clasificar ultraprocesados. Sello: Verdadero. La prueba: 0,32 y 0,34 (Acuerdo entre especialistas), donde 1 es acuerdo total. Un terrón de azúcar lo celebra. III. Primera comida pasado el mediodía: acorta la vida, demostrado. Sello: Falso. La prueba: un solo día (Primera comida tardía), 31.044 adultos. Un terrón de azúcar se queda con la boca abierta. Asociar no es demostrar. El dato final: Asocia, no demuestra causa: quien está enfermo puede cambiar sus horarios. Cierre: Oli saluda y dice «Mándaselo a quien comparte titulares sin leerlos». Una ráfaga dice «¡Continuará!». Pronto, otro quiz de la noche."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-05",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-12",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como el rasca (BD), quiz de ideas) · spec n1-lux-20261205-2100-titulares-datos-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261205-2100-titulares-datos-quiz",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "rasca",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261205-2100-titulares-datos-quiz",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: metaanálisis de 2015 en Obesity Reviews («Do ketogenic diets really suppress appetite?»; LC-022), con escalas visuales de hambre durante la pérdida de peso: el efecto sobre el hambre es modesto en términos absolutos y no mide la ingesta de energía; un ECA de 12 meses (cita secundaria) no halló diferencia en el apetito autopercibido. Braesco V et al. Eur J Clin Nutr 2022;76:1245-1253 (DEB-025), encuesta a especialistas franceses: la coincidencia al clasificar con NOVA fue baja (kappa de Fleiss de 0,32 y 0,34, donde 1 es acuerdo total), incluso con la lista de ingredientes; no es un estudio de salud. Hu W et al. Eur J Clin Nutr 2026 (NOV-012), cohorte NHANES de 31.044 adultos de 40 años o más: empezar a comer después de las 12:00 se asoció con más mortalidad total (HR 1,29) que empezar de 7:00 a 8:00; un solo recordatorio de 24 horas por persona, así que el horario se estimó de un solo día; asocia, no demuestra causa (quien está enfermo puede cambiar sus horarios). Consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}

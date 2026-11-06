@@ -1,0 +1,2234 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 24.88,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.7,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.6,
+ "n_cambios_visuales": 505,
+ "bucle_dif_ultimo_primero": 60.45,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    319
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Dos dulces con la misma",
+   "contando": false,
+   "r": [
+    61,
+    306,
+    658,
+    521
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    304,
+    399,
+    502,
+    504
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ", al decimal.",
+   "contando": false,
+   "r": [
+    66,
+    386,
+    618,
+    598
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    97,
+    618,
+    179,
+    756
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cruasán,",
+   "contando": false,
+   "r": [
+    200,
+    611,
+    551,
+    754
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    573,
+    607,
+    826,
+    748
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    99,
+    704,
+    332,
+    845
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    354,
+    702,
+    490,
+    841
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    512,
+    700,
+    600,
+    838
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "crema",
+   "contando": false,
+   "r": [
+    622,
+    695,
+    874,
+    836
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    100,
+    796,
+    190,
+    935
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cacao.",
+   "contando": false,
+   "r": [
+    212,
+    791,
+    470,
+    933
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    783,
+    349,
+    899,
+    460
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    319
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "Dos dulces con la misma",
+   "contando": false,
+   "r": [
+    61,
+    306,
+    658,
+    521
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    304,
+    399,
+    502,
+    504
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": ", al decimal.",
+   "contando": false,
+   "r": [
+    66,
+    386,
+    618,
+    598
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    97,
+    618,
+    179,
+    756
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "cruasán,",
+   "contando": false,
+   "r": [
+    200,
+    611,
+    551,
+    754
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    573,
+    607,
+    826,
+    748
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    99,
+    704,
+    332,
+    845
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    354,
+    702,
+    490,
+    841
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    512,
+    700,
+    600,
+    838
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "crema",
+   "contando": false,
+   "r": [
+    622,
+    695,
+    874,
+    836
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    100,
+    796,
+    190,
+    935
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "cacao.",
+   "contando": false,
+   "r": [
+    212,
+    791,
+    470,
+    933
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 3.367,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Curiosidades Vivax",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    319
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Dos dulces con la misma",
+   "contando": false,
+   "r": [
+    61,
+    306,
+    658,
+    521
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    304,
+    399,
+    502,
+    504
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": ", al decimal.",
+   "contando": false,
+   "r": [
+    66,
+    386,
+    618,
+    598
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    162,
+    652,
+    578,
+    848
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "21,0",
+   "contando": false,
+   "r": [
+    697,
+    656,
+    850,
+    808
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    846,
+    719,
+    869,
+    771
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Cruasán de mantequilla",
+   "contando": false,
+   "r": [
+    724,
+    803,
+    870,
+    877
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "29,7",
+   "contando": false,
+   "r": [
+    436,
+    846,
+    547,
+    947
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    543,
+    901,
+    557,
+    934
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    421,
+    945,
+    564,
+    1005
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    110,
+    896,
+    262,
+    961
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    473,
+    1227,
+    667,
+    1372
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    97,
+    618,
+    185,
+    756
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "salchicha,",
+   "contando": false,
+   "r": [
+    207,
+    610,
+    622,
+    754
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    644,
+    607,
+    809,
+    747
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    99,
+    704,
+    332,
+    845
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    354,
+    702,
+    490,
+    841
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    512,
+    700,
+    593,
+    838
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "chocolate",
+   "contando": false,
+   "r": [
+    100,
+    791,
+    500,
+    935
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    522,
+    788,
+    665,
+    927
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "leche.",
+   "contando": false,
+   "r": [
+    687,
+    783,
+    926,
+    924
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 8.9,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    251,
+    665,
+    489,
+    835
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "29,7",
+   "contando": false,
+   "r": [
+    698,
+    659,
+    857,
+    802
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    858,
+    724,
+    877,
+    775
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Chocolate con leche",
+   "contando": false,
+   "r": [
+    708,
+    807,
+    874,
+    871
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "23,7",
+   "contando": false,
+   "r": [
+    436,
+    848,
+    543,
+    945
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    543,
+    898,
+    555,
+    930
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "Salchicha de cerdo",
+   "contando": false,
+   "r": [
+    434,
+    949,
+    554,
+    1001
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    110,
+    896,
+    262,
+    961
+   ]
+  },
+  {
+   "t": 10.267,
+   "texto": "¡OH!",
+   "contando": false,
+   "r": [
+    509,
+    1231,
+    631,
+    1368
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Crema",
+   "contando": false,
+   "r": [
+    97,
+    615,
+    349,
+    756
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    371,
+    613,
+    461,
+    751
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "cacao",
+   "contando": false,
+   "r": [
+    483,
+    608,
+    718,
+    750
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    739,
+    607,
+    785,
+    745
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "chocolate",
+   "contando": false,
+   "r": [
+    99,
+    701,
+    498,
+    845
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    520,
+    699,
+    663,
+    838
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "leche:",
+   "contando": false,
+   "r": [
+    685,
+    694,
+    925,
+    835
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "misma",
+   "contando": false,
+   "r": [
+    100,
+    793,
+    359,
+    935
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "grasa.",
+   "contando": false,
+   "r": [
+    380,
+    788,
+    638,
+    930
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    206,
+    957,
+    406,
+    1012
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    703,
+    957,
+    809,
+    1012
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    162,
+    652,
+    578,
+    848
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "29,7",
+   "contando": false,
+   "r": [
+    690,
+    655,
+    858,
+    809
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    854,
+    719,
+    877,
+    770
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Crema de cacao y avellanas",
+   "contando": false,
+   "r": [
+    706,
+    801,
+    882,
+    877
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "29,7",
+   "contando": false,
+   "r": [
+    436,
+    846,
+    547,
+    947
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    543,
+    901,
+    557,
+    934
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "Chocolate con leche",
+   "contando": false,
+   "r": [
+    424,
+    945,
+    561,
+    1003
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    110,
+    896,
+    262,
+    961
+   ]
+  },
+  {
+   "t": 15.8,
+   "texto": "¡ANDA!",
+   "contando": false,
+   "r": [
+    469,
+    1227,
+    671,
+    1372
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    68,
+    284,
+    156,
+    415
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    176,
+    282,
+    254,
+    413
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "empate,",
+   "contando": false,
+   "r": [
+    274,
+    276,
+    564,
+    411
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    584,
+    273,
+    670,
+    404
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "cifras?",
+   "contando": false,
+   "r": [
+    69,
+    364,
+    349,
+    499
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    147,
+    648,
+    254,
+    748
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "cada",
+   "contando": false,
+   "r": [
+    269,
+    645,
+    421,
+    746
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "100 g:",
+   "contando": false,
+   "r": [
+    437,
+    642,
+    618,
+    743
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "crema",
+   "contando": false,
+   "r": [
+    633,
+    638,
+    831,
+    739
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    846,
+    636,
+    922,
+    736
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "cacao",
+   "contando": false,
+   "r": [
+    149,
+    735,
+    338,
+    836
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    353,
+    734,
+    392,
+    833
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "avellanas,",
+   "contando": false,
+   "r": [
+    407,
+    728,
+    723,
+    832
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "29,7 g",
+   "contando": false,
+   "r": [
+    738,
+    725,
+    920,
+    826
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    150,
+    826,
+    227,
+    925
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "grasa;",
+   "contando": false,
+   "r": [
+    242,
+    822,
+    441,
+    923
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "chocolate",
+   "contando": false,
+   "r": [
+    456,
+    816,
+    763,
+    920
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    778,
+    814,
+    892,
+    914
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "leche,",
+   "contando": false,
+   "r": [
+    152,
+    912,
+    340,
+    1013
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "29,7 g.",
+   "contando": false,
+   "r": [
+    355,
+    908,
+    556,
+    1010
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "La grasa no tiene declaración de salud autorizada. Composición por 100 g (USDA); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    154,
+    1021,
+    909,
+    1092
+   ]
+  },
+  {
+   "t": 19.667,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    136,
+    511,
+    332,
+    570
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    161,
+    1014,
+    293,
+    1086
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "esconde",
+   "contando": false,
+   "r": [
+    306,
+    1014,
+    508,
+    1086
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    521,
+    1014,
+    579,
+    1086
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "crema",
+   "contando": false,
+   "r": [
+    173,
+    1076,
+    324,
+    1148
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    337,
+    1076,
+    394,
+    1148
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "cacao.",
+   "contando": false,
+   "r": [
+    406,
+    1076,
+    567,
+    1148
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    148,
+    671,
+    295,
+    731
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    303,
+    668,
+    371,
+    725
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    379,
+    666,
+    425,
+    723
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "mañana:",
+   "contando": false,
+   "r": [
+    433,
+    660,
+    594,
+    721
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    601,
+    658,
+    648,
+    715
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "macedonia,",
+   "contando": false,
+   "r": [
+    199,
+    717,
+    406,
+    779
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    414,
+    715,
+    439,
+    771
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    447,
+    713,
+    493,
+    770
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "lupa.",
+   "contando": false,
+   "r": [
+    500,
+    710,
+    600,
+    768
+   ]
+  },
+  {
+   "t": 24.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1236,
+    239,
+    1267
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.367,
+  4.7,
+  8.9,
+  10.267,
+  14.7,
+  15.8,
+  19.667,
+  24.8
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.13,
+  "tiempo_reduccion_mas_1db_pct": 0.28,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 10,
+   "tac": 3,
+   "teclado": 3,
+   "sello": 4,
+   "ding": 4,
+   "pop": 13,
+   "contador": 21,
+   "whoosh": 5,
+   "boing": 5,
+   "zas": 5,
+   "golpe": 1,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 24.812,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 283,
+   "texto": "El cruasán, menos grasa que la crema de cacao. ¡Verdadero! La salchicha, más grasa que el chocolate con leche. ¡Falso! Crema de cacao y chocolate con leche: misma grasa. ¡Verdadero! Veintinueve coma siete gramos cada uno, por cien gramos. Mándaselo a quien esconde la crema de cacao.",
+   "duracion_voz_s": 22.47,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "El cruasán, menos grasa que la crema de cacao.",
+     "t0": 0.0213,
+     "t1": 2.7213
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.4513,
+     "t1": 4.0513
+    },
+    {
+     "id": "a1",
+     "texto": "La salchicha, más grasa que el chocolate con leche.",
+     "t0": 5.5363,
+     "t1": 8.3213
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso!",
+     "t0": 9.0013,
+     "t1": 9.5213
+    },
+    {
+     "id": "a2",
+     "texto": "Crema de cacao y chocolate con leche: misma grasa.",
+     "t0": 11.1563,
+     "t1": 14.1413
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero!",
+     "t0": 14.8063,
+     "t1": 15.3663
+    },
+    {
+     "id": "c",
+     "texto": "Veintinueve coma siete gramos cada uno, por cien gramos.",
+     "t0": 16.7863,
+     "t1": 19.6663
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien esconde la crema de cacao.",
+     "t0": 20.2513,
+     "t1": 22.3313
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.03,
+   "limitador_max_db": 2.05
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.481,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.341,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.791,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.051,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.411,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.431,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.481,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.571,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.651,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.731,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.831,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.931,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.931,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 4.031,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.111,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.131,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.231,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.331,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.791,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.431,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.471,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.491,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.136,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.039,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.941,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.391,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.601,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.961,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.981,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.031,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.121,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.201,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.281,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.381,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.481,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.481,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.581,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.661,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.681,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.781,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.881,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.396,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.036,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.076,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.096,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 11.756,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.425,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.093,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.761,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.211,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.406,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 14.766,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 14.786,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.836,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 14.926,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 15.006,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.086,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.186,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.286,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.286,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 15.386,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.466,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.486,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.586,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.686,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.979,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.491,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.611,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 16.991,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 19.276,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 19.326,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 19.776,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 20.076,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.276,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.131,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.431,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 22.731,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.891,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.981,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 24.242,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 745,
+ "tiempo_render_s": 78.0,
+ "tiempos_s": {
+  "preparar": 3.89,
+  "dibujar_y_codificar": 71.29
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "rasca",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.6333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.6333,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.7,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.0333,
+   "que": "II · entra"
+  },
+  {
+   "t": 8.2333,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 9.1667,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 10.2667,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 11.6667,
+   "que": "III · entra"
+  },
+  {
+   "t": 14.0667,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 15.0,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 15.8,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 17.4,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 19.6667,
+   "que": "conclusión"
+  },
+  {
+   "t": 21.1667,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 22.7333,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 24.8,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "terron",
+   "nuez",
+   "brocoli",
+   "naranja",
+   "zanahoria"
+  ],
+  [
+   "terron",
+   "lenteja",
+   "aguacate",
+   "etiqueta",
+   "queso"
+  ],
+  [
+   "gota",
+   "terron",
+   "fruta",
+   "salero",
+   "aguacate"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 24.8333,
+  "cortes": [
+   0.0,
+   5.411,
+   11.016,
+   16.491,
+   19.776
+  ],
+  "t_ono": 22.431,
+  "t_anz": 22.731,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.791,
+    "tv": 3.431,
+    "pasos": [
+     0.621,
+     1.481,
+     2.341
+    ],
+    "t_out": 5.111
+   },
+   {
+    "t_in": 5.411,
+    "t0": 5.536,
+    "buzz": 8.391,
+    "tv": 8.981,
+    "pasos": [
+     6.136,
+     7.039,
+     7.941
+    ],
+    "t_out": 10.716
+   },
+   {
+    "t_in": 11.016,
+    "t0": 11.156,
+    "buzz": 14.211,
+    "tv": 14.786,
+    "pasos": [
+     11.756,
+     12.425,
+     13.093,
+     13.761
+    ],
+    "t_out": 16.991
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ALI-106, ALI-089, ALI-146",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #curiosidades #grasa #chocolate #nutricion»"
+ ]
+}

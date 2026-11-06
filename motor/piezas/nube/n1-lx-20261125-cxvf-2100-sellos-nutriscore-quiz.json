@@ -1,0 +1,126 @@
+{
+  "id": "n1-lx-20261125-cxvf-2100-sellos-nutriscore-quiz",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "S2-05"
+  ],
+  "titulo": "[CXVF] Sellos o Nutri-Score: ¿con cuál hubo más frescos?",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "El quiz de la noche",
+      "titulo": "Sellos o Nutri-Score: ¿con cuál hubo más {frescos}?",
+      "dice": [
+        "¡OJO!"
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Con sellos de advertencia, la cesta llevó más frescos.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "no hubo diferencias",
+      "dice": [
+        "¡AY!"
+      ],
+      "dato": "frente a Nutri-Score",
+      "items": [
+        {
+          "nombre": "Sellos de advertencia"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La compra se hizo en un supermercado virtual.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "no compra real",
+      "dice": [
+        "¡TOMA!"
+      ],
+      "dato": "747 adultos españoles"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Hubo un grupo que compró sin etiquetas.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "no tiene grupo sin etiqueta",
+      "dice": [
+        "¿QUÉ?"
+      ],
+      "dato": "compara dos sistemas"
+    },
+    {
+      "plantilla": "f_ranking",
+      "resalte": "El dato final",
+      "frase": "No dice si las etiquetas cambian la compra frente a no tenerlas.",
+      "fuente": "Compra simulada, no real. Sin declaración de salud autorizada para este tema; no es una recomendación personal.",
+      "titulo": "Lo que dice, y lo que no"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien elige por la letra del envase.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana en el Aula: la glucosa que todos citan."
+    }
+  ],
+  "pie_instagram": "Sellos o Nutri-Score: ¿con cuál hubo más frescos?\n\nCon sellos de advertencia, la cesta llevó más frescos. Falso: no hubo diferencias (frente a Nutri-Score).\nLa compra se hizo en un supermercado virtual. Verdadero: no compra real (747 adultos españoles).\nHubo un grupo que compró sin etiquetas. Falso: no tiene grupo sin etiqueta (compara dos sistemas).\n\nY el dato final: No dice si las etiquetas cambian la compra frente a no tenerlas. Compra simulada, no real. Sin declaración de salud autorizada para este tema; no es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien elige por la letra del envase.\nMañana en el Aula: la glucosa que todos citan.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#nutriscore #etiquetas #verdaderoofalso #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva: el quiz de verdadero o falso como el meme de ojos (AS), con Oli, la aceituna de Vivax, de presentadora y un montón de alimentos con cara que reaccionan a cada respuesta. El quiz de la noche. Sellos o Nutri-Score: ¿con cuál hubo más frescos? I. Con sellos de advertencia, la cesta llevó más frescos. Sello: Falso. La prueba: no hubo diferencias (Sellos de advertencia), frente a Nutri-Score. Una manzana se queda con la boca abierta. II. La compra se hizo en un supermercado virtual. Sello: Verdadero. La prueba: no compra real, 747 adultos españoles. Una rebanada de pan lo celebra. III. Hubo un grupo que compró sin etiquetas. Sello: Falso. La prueba: no tiene grupo sin etiqueta, compara dos sistemas. Un terrón de azúcar se queda con la boca abierta. Lo que dice, y lo que no. El dato final: No dice si las etiquetas cambian la compra frente a no tenerlas. Cierre: Oli saluda y dice «Mándaselo a quien elige por la letra del envase». Una ráfaga dice «¡Continuará!». Mañana en el Aula: la glucosa que todos citan."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-25",
+    "serie": "El quiz de la noche",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "21:00",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como el meme de ojos (AS), quiz de ideas) · spec n1-lux-20261125-2100-sellos-nutriscore-quiz",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261125-2100-sellos-nutriscore-quiz",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "meme",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261125-2100-sellos-nutriscore-quiz",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: Ordaz-Castillo ME et al. Appetite 2026;216:108251 (S2-05), investigación aleatorizada con 747 adultos de España en una compra semanal simulada en un supermercado virtual: 391 con sellos de advertencia chilenos y 356 con Nutri-Score. Sin diferencias en el porcentaje de productos frescos o poco procesados de la cesta (resultado principal). Hubo diferencias pequeñas, en el límite de la significación, en energía, proteína y azúcar. Es una compra simulada, no real, y no hubo grupo sin etiqueta: compara dos etiquetas entre sí y no dice si etiquetar cambia la compra frente a no hacerlo. Se comprobó solo el resumen. Sin declaración de salud autorizada para este tema; no es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "El quiz de la noche",
+  "pilar_plan": "ensenar"
+}

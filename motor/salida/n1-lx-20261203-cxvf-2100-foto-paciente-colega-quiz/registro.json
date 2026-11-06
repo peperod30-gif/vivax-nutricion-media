@@ -1,0 +1,2319 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.01,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 13.93,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.967,
+ "n_cambios_visuales": 587,
+ "bucle_dif_ultimo_primero": 52.54,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche · Para colegas",
+   "contando": false,
+   "r": [
+    91,
+    259,
+    560,
+    324
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Colega, ¿subirías la foto de tus",
+   "contando": false,
+   "r": [
+    61,
+    306,
+    650,
+    521
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pacientes",
+   "contando": false,
+   "r": [
+    69,
+    479,
+    397,
+    590
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    395,
+    469,
+    440,
+    588
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Sin",
+   "contando": false,
+   "r": [
+    138,
+    634,
+    235,
+    749
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    253,
+    633,
+    330,
+    747
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "nombre,",
+   "contando": false,
+   "r": [
+    348,
+    628,
+    615,
+    745
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    633,
+    626,
+    706,
+    740
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cara",
+   "contando": false,
+   "r": [
+    139,
+    707,
+    294,
+    822
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    312,
+    705,
+    418,
+    819
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "paciente",
+   "contando": false,
+   "r": [
+    436,
+    700,
+    708,
+    817
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    140,
+    780,
+    323,
+    896
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "subirse.",
+   "contando": false,
+   "r": [
+    341,
+    775,
+    602,
+    892
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    783,
+    349,
+    899,
+    460
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "El quiz de la noche · Para colegas",
+   "contando": false,
+   "r": [
+    91,
+    259,
+    560,
+    324
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Colega, ¿subirías la foto de tus",
+   "contando": false,
+   "r": [
+    61,
+    306,
+    650,
+    521
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "pacientes",
+   "contando": false,
+   "r": [
+    69,
+    479,
+    397,
+    590
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    395,
+    469,
+    440,
+    588
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Sin",
+   "contando": false,
+   "r": [
+    138,
+    634,
+    235,
+    749
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    253,
+    633,
+    330,
+    747
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "nombre,",
+   "contando": false,
+   "r": [
+    348,
+    628,
+    615,
+    745
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    633,
+    626,
+    706,
+    740
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "cara",
+   "contando": false,
+   "r": [
+    139,
+    707,
+    294,
+    822
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    312,
+    705,
+    418,
+    819
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "paciente",
+   "contando": false,
+   "r": [
+    436,
+    700,
+    708,
+    817
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    140,
+    780,
+    323,
+    896
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "subirse.",
+   "contando": false,
+   "r": [
+    341,
+    775,
+    602,
+    892
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "El quiz de la noche · Para colegas",
+   "contando": false,
+   "r": [
+    91,
+    259,
+    560,
+    324
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "Colega, ¿subirías la foto de tus",
+   "contando": false,
+   "r": [
+    61,
+    306,
+    650,
+    521
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "pacientes",
+   "contando": false,
+   "r": [
+    69,
+    479,
+    397,
+    590
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "?",
+   "contando": false,
+   "r": [
+    395,
+    469,
+    440,
+    588
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "Sin",
+   "contando": false,
+   "r": [
+    138,
+    634,
+    235,
+    749
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    253,
+    633,
+    330,
+    747
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "nombre,",
+   "contando": false,
+   "r": [
+    348,
+    628,
+    615,
+    745
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    633,
+    626,
+    706,
+    740
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "cara",
+   "contando": false,
+   "r": [
+    139,
+    707,
+    294,
+    822
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    312,
+    705,
+    418,
+    819
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "paciente",
+   "contando": false,
+   "r": [
+    436,
+    700,
+    708,
+    817
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    140,
+    780,
+    323,
+    896
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "subirse.",
+   "contando": false,
+   "r": [
+    341,
+    775,
+    602,
+    892
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "9",
+   "contando": false,
+   "r": [
+    711,
+    886,
+    771,
+    1032
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "de 15",
+   "contando": false,
+   "r": [
+    767,
+    946,
+    846,
+    1005
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "Práctica sobre pacientes",
+   "contando": false,
+   "r": [
+    702,
+    1027,
+    878,
+    1102
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "Consejo General y Meta",
+   "contando": false,
+   "r": [
+    660,
+    1179,
+    917,
+    1232
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    227,
+    1116,
+    473,
+    1293
+   ]
+  },
+  {
+   "t": 4.833,
+   "texto": "¡AY!",
+   "contando": false,
+   "r": [
+    175,
+    1340,
+    285,
+    1479
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "Si",
+   "contando": false,
+   "r": [
+    138,
+    635,
+    196,
+    749
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "discrepas",
+   "contando": false,
+   "r": [
+    214,
+    629,
+    532,
+    748
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    550,
+    628,
+    624,
+    742
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    642,
+    626,
+    721,
+    740
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "colega,",
+   "contando": false,
+   "r": [
+    139,
+    705,
+    380,
+    822
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    398,
+    704,
+    465,
+    818
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "código",
+   "contando": false,
+   "r": [
+    483,
+    700,
+    697,
+    816
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    715,
+    698,
+    782,
+    812
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    140,
+    781,
+    271,
+    896
+   ]
+  },
+  {
+   "t": 10.067,
+   "texto": "callar.",
+   "contando": false,
+   "r": [
+    289,
+    776,
+    528,
+    893
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Si",
+   "contando": false,
+   "r": [
+    138,
+    635,
+    196,
+    749
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "discrepas",
+   "contando": false,
+   "r": [
+    214,
+    629,
+    532,
+    748
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    550,
+    628,
+    624,
+    742
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    642,
+    626,
+    721,
+    740
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "colega,",
+   "contando": false,
+   "r": [
+    139,
+    705,
+    380,
+    822
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    398,
+    704,
+    465,
+    818
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "código",
+   "contando": false,
+   "r": [
+    483,
+    700,
+    697,
+    816
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "te",
+   "contando": false,
+   "r": [
+    715,
+    698,
+    782,
+    812
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "pide",
+   "contando": false,
+   "r": [
+    140,
+    781,
+    271,
+    896
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "callar.",
+   "contando": false,
+   "r": [
+    289,
+    776,
+    528,
+    893
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "13",
+   "contando": false,
+   "r": [
+    704,
+    884,
+    785,
+    1029
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "de 15",
+   "contando": false,
+   "r": [
+    786,
+    949,
+    861,
+    1004
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Práctica sobre colegas",
+   "contando": false,
+   "r": [
+    700,
+    1033,
+    874,
+    1098
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "Consejo General y Meta",
+   "contando": false,
+   "r": [
+    660,
+    1179,
+    917,
+    1232
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    227,
+    1116,
+    473,
+    1293
+   ]
+  },
+  {
+   "t": 11.433,
+   "texto": "¡UY!",
+   "contando": false,
+   "r": [
+    174,
+    1340,
+    286,
+    1479
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "Anunciar",
+   "contando": false,
+   "r": [
+    138,
+    631,
+    417,
+    745
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "servicios",
+   "contando": false,
+   "r": [
+    434,
+    626,
+    722,
+    740
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "dietéticos:",
+   "contando": false,
+   "r": [
+    139,
+    701,
+    469,
+    816
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    486,
+    698,
+    628,
+    809
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    645,
+    697,
+    684,
+    807
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "mayores",
+   "contando": false,
+   "r": [
+    140,
+    772,
+    408,
+    886
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    425,
+    771,
+    497,
+    881
+   ]
+  },
+  {
+   "t": 16.9,
+   "texto": "dieciocho.",
+   "contando": false,
+   "r": [
+    514,
+    765,
+    826,
+    880
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "Anunciar",
+   "contando": false,
+   "r": [
+    138,
+    631,
+    417,
+    745
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "servicios",
+   "contando": false,
+   "r": [
+    434,
+    626,
+    722,
+    740
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "dietéticos:",
+   "contando": false,
+   "r": [
+    139,
+    701,
+    469,
+    816
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    486,
+    698,
+    628,
+    809
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    645,
+    697,
+    684,
+    807
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "mayores",
+   "contando": false,
+   "r": [
+    140,
+    772,
+    408,
+    886
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    425,
+    771,
+    497,
+    881
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "dieciocho.",
+   "contando": false,
+   "r": [
+    514,
+    765,
+    826,
+    880
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    697,
+    885,
+    787,
+    1034
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "años",
+   "contando": false,
+   "r": [
+    783,
+    944,
+    860,
+    1004
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "Edad mínima en anuncios",
+   "contando": false,
+   "r": [
+    706,
+    1028,
+    874,
+    1102
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "Consejo General y Meta",
+   "contando": false,
+   "r": [
+    660,
+    1179,
+    917,
+    1232
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    135,
+    1104,
+    565,
+    1305
+   ]
+  },
+  {
+   "t": 17.967,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    136,
+    1334,
+    324,
+    1485
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    68,
+    284,
+    156,
+    415
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    176,
+    280,
+    353,
+    413
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "recordarle",
+   "contando": false,
+   "r": [
+    373,
+    271,
+    796,
+    409
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    816,
+    269,
+    900,
+    399
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "cita?",
+   "contando": false,
+   "r": [
+    69,
+    366,
+    262,
+    499
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "Según",
+   "contando": false,
+   "r": [
+    147,
+    647,
+    328,
+    744
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    342,
+    645,
+    397,
+    740
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "AEPD,",
+   "contando": false,
+   "r": [
+    412,
+    642,
+    581,
+    739
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    596,
+    640,
+    732,
+    736
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "recordarle",
+   "contando": false,
+   "r": [
+    149,
+    729,
+    460,
+    828
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    474,
+    726,
+    584,
+    822
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "cita",
+   "contando": false,
+   "r": [
+    599,
+    724,
+    713,
+    820
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "vale",
+   "contando": false,
+   "r": [
+    728,
+    722,
+    853,
+    818
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    150,
+    817,
+    221,
+    912
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "teléfono,",
+   "contando": false,
+   "r": [
+    236,
+    812,
+    499,
+    911
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    513,
+    811,
+    586,
+    906
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    601,
+    809,
+    706,
+    904
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "redes",
+   "contando": false,
+   "r": [
+    720,
+    805,
+    888,
+    902
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "sociales.",
+   "contando": false,
+   "r": [
+    152,
+    898,
+    417,
+    996
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "Guía orientativa de la AEPD, en revisión: pide también ofrecer siempre otra vía de contacto. Vivax es una agencia de redes para dietistas-nutricionistas.",
+   "contando": false,
+   "r": [
+    153,
+    991,
+    896,
+    1062
+   ]
+  },
+  {
+   "t": 20.867,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    136,
+    511,
+    332,
+    570
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    201,
+    951,
+    468,
+    1023
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    481,
+    951,
+    539,
+    1023
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "colega",
+   "contando": false,
+   "r": [
+    159,
+    1014,
+    331,
+    1086
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    344,
+    1014,
+    429,
+    1086
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    442,
+    1014,
+    581,
+    1086
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    200,
+    1076,
+    258,
+    1148
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "Instagram.",
+   "contando": false,
+   "r": [
+    270,
+    1076,
+    540,
+    1148
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    144,
+    671,
+    291,
+    731
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    299,
+    668,
+    367,
+    725
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    375,
+    666,
+    421,
+    723
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "noche,",
+   "contando": false,
+   "r": [
+    429,
+    662,
+    553,
+    721
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    560,
+    658,
+    652,
+    716
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "quiz:",
+   "contando": false,
+   "r": [
+    137,
+    723,
+    227,
+    781
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "palomitas,",
+   "contando": false,
+   "r": [
+    235,
+    716,
+    434,
+    777
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    441,
+    709,
+    630,
+    770
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    638,
+    708,
+    662,
+    763
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "huevo.",
+   "contando": false,
+   "r": [
+    340,
+    764,
+    463,
+    823
+   ]
+  },
+  {
+   "t": 25.933,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1236,
+    239,
+    1267
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.433,
+  4.833,
+  10.067,
+  11.433,
+  16.9,
+  17.967,
+  20.867,
+  25.933
+ ],
+ "sonido": {
+  "lufs": -16.05,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.52,
+  "tiempo_reduccion_mas_1db_pct": 0.33,
+  "efectos_por_tipo": {
+   "subida": 4,
+   "pum": 5,
+   "tic": 41,
+   "tac": 3,
+   "sello": 4,
+   "golpe": 2,
+   "pop": 10,
+   "whoosh": 7,
+   "boing": 8,
+   "zas": 3,
+   "ding": 3,
+   "plop": 2
+  },
+  "descartados": 0,
+  "duracion_s": 25.945,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 304,
+   "texto": "Sin su nombre, la cara del paciente puede subirse. ¡Falso! Sin permiso expreso. Si discrepas de un colega, el código te pide callar. ¡Falso! Debatir, sí. Anunciar servicios dietéticos: solo a mayores de dieciocho. ¡Verdadero! Si eres nutricionista, escríbenos. Mándaselo al colega que lleva su Instagram.",
+   "duracion_voz_s": 23.545,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Sin su nombre, la cara del paciente puede subirse.",
+     "t0": 0.0213,
+     "t1": 2.8963
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso! Sin permiso expreso.",
+     "t0": 3.5463,
+     "t1": 5.4563
+    },
+    {
+     "id": "a1",
+     "texto": "Si discrepas de un colega, el código te pide callar.",
+     "t0": 6.7013,
+     "t1": 9.5013
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! Debatir, sí.",
+     "t0": 10.1613,
+     "t1": 11.7913
+    },
+    {
+     "id": "a2",
+     "texto": "Anunciar servicios dietéticos: solo a mayores de dieciocho.",
+     "t0": 12.9763,
+     "t1": 16.2563
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero!",
+     "t0": 17.0013,
+     "t1": 17.4813
+    },
+    {
+     "id": "c",
+     "texto": "Si eres nutricionista, escríbenos.",
+     "t0": 18.9613,
+     "t1": 20.8813
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo al colega que lleva su Instagram.",
+     "t0": 21.4513,
+     "t1": 23.3713
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.04,
+   "limitador_max_db": 3.26
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.071,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.321,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 0.541,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 0.761,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 0.981,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.201,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.421,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.569,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.641,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.981,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.321,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.516,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.661,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.966,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.506,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.526,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.576,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.666,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.746,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.206,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.776,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.346,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.916,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.556,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.596,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.636,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.751,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 7.001,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.221,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.301,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.441,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.661,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.881,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 8.101,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 8.211,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.321,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 8.661,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 9.001,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 9.121,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.341,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 9.571,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 10.121,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 10.141,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 10.191,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.281,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.361,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.821,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 11.514,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.206,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.846,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.886,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.926,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 13.026,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 13.276,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 13.496,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 13.576,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.716,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 13.936,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 14.156,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 14.343,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.376,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 14.596,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 14.816,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 15.109,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.156,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 15.496,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 15.836,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 15.876,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.326,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 16.961,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 16.981,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 17.031,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 17.121,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.201,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.661,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 18.161,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.661,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.781,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 19.161,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 20.471,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 20.521,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.971,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.271,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.471,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 23.171,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 23.471,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 23.771,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 23.931,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.021,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 25.374,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 779,
+ "tiempo_render_s": 104.5,
+ "tiempos_s": {
+  "preparar": 3.95,
+  "dibujar_y_codificar": 97.01
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz_b",
+ "variante": "ruleta",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.8,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.7333,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.8333,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 7.2,
+   "que": "II · entra"
+  },
+  {
+   "t": 9.4333,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 10.3333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 11.4333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 13.4667,
+   "que": "III · entra"
+  },
+  {
+   "t": 16.1667,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 17.1667,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 17.9667,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 19.5667,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 20.8667,
+   "que": "conclusión"
+  },
+  {
+   "t": 22.3667,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 23.7667,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 25.9333,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "etiqueta",
+   "huevo",
+   "nuez",
+   "queso",
+   "vaso"
+  ],
+  [
+   "etiqueta",
+   "aguacate",
+   "naranja",
+   "pan",
+   "huevo"
+  ],
+  [
+   "etiqueta",
+   "huevo",
+   "naranja",
+   "vaso",
+   "lenteja"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 25.9667,
+  "cortes": [
+   0.0,
+   6.536,
+   12.826,
+   18.661,
+   20.971
+  ],
+  "t_ono": 23.471,
+  "t_anz": 23.771,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.966,
+    "tv": 3.526,
+    "pasos": [
+     0.621,
+     1.569,
+     2.516
+    ],
+    "t_out": 6.236
+   },
+   {
+    "t_in": 6.536,
+    "t0": 6.701,
+    "buzz": 9.571,
+    "tv": 10.141,
+    "pasos": [
+     7.301,
+     8.211,
+     9.121
+    ],
+    "t_out": 12.526
+   },
+   {
+    "t_in": 12.826,
+    "t0": 12.976,
+    "buzz": 16.326,
+    "tv": 16.981,
+    "pasos": [
+     13.576,
+     14.343,
+     15.109,
+     15.876
+    ],
+    "t_out": 19.161
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [estructura] el pie mide 1466 caracteres (rango previsto: 150 a 1200)",
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: CAP-038, CAP-039, CAP-048, CAP-046",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #dietistanutricionista #nutricionistas #consultanutricion #instagram»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «Colega, ¿subirías la foto de tus pacientes?  Sin su nombre, la cara »",
+  "controles: [texto IA (pie)] TX-FOR-13: Contraste «X, no Y» con preposición repetida («con datos, no a ciegas», «para el campo, no para la oficina»).  Sale en: «téticos o de salud. Rige para anuncios pagados, no para publicaciones orgánicas (normas de pub»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «etistas-nutricionistas.  ¿Cuál te ha sorprendido, c»"
+ ]
+}

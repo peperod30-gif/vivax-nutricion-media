@@ -1,0 +1,1965 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.88,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 11.91,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.567,
+ "n_cambios_visuales": 540,
+ "bucle_dif_ultimo_primero": 46.78,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    320
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "La bebida no cambió. Su",
+   "contando": false,
+   "r": [
+    61,
+    302,
+    783,
+    531
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "letra",
+   "contando": false,
+   "r": [
+    169,
+    407,
+    373,
+    517
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ", sí.",
+   "contando": false,
+   "r": [
+    372,
+    394,
+    500,
+    520
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Sumar",
+   "contando": false,
+   "r": [
+    118,
+    602,
+    337,
+    724
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "puntos",
+   "contando": false,
+   "r": [
+    356,
+    598,
+    589,
+    720
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    608,
+    596,
+    685,
+    716
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Nutri-Score",
+   "contando": false,
+   "r": [
+    119,
+    676,
+    513,
+    800
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "baja",
+   "contando": false,
+   "r": [
+    531,
+    673,
+    692,
+    793
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    710,
+    671,
+    786,
+    790
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "nota.",
+   "contando": false,
+   "r": [
+    120,
+    756,
+    296,
+    877
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    77,
+    1109,
+    193,
+    1220
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    320
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "La bebida no cambió. Su",
+   "contando": false,
+   "r": [
+    61,
+    302,
+    783,
+    531
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "letra",
+   "contando": false,
+   "r": [
+    169,
+    407,
+    373,
+    517
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": ", sí.",
+   "contando": false,
+   "r": [
+    372,
+    394,
+    500,
+    520
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Sumar",
+   "contando": false,
+   "r": [
+    118,
+    602,
+    337,
+    724
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "puntos",
+   "contando": false,
+   "r": [
+    356,
+    598,
+    589,
+    720
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    608,
+    596,
+    685,
+    716
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Nutri-Score",
+   "contando": false,
+   "r": [
+    119,
+    676,
+    513,
+    800
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "baja",
+   "contando": false,
+   "r": [
+    531,
+    673,
+    692,
+    793
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    710,
+    671,
+    786,
+    790
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "nota.",
+   "contando": false,
+   "r": [
+    120,
+    756,
+    296,
+    877
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 2.9,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    320
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "La bebida no cambió. Su",
+   "contando": false,
+   "r": [
+    61,
+    302,
+    783,
+    531
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "letra",
+   "contando": false,
+   "r": [
+    169,
+    407,
+    373,
+    517
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": ", sí.",
+   "contando": false,
+   "r": [
+    372,
+    394,
+    500,
+    520
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    152,
+    642,
+    568,
+    838
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "empeora la clasificación",
+   "contando": false,
+   "r": [
+    675,
+    679,
+    903,
+    786
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "subir la puntuación",
+   "contando": false,
+   "r": [
+    110,
+    1170,
+    366,
+    1231
+   ]
+  },
+  {
+   "t": 4.3,
+   "texto": "¡ANDA!",
+   "contando": false,
+   "r": [
+    689,
+    1167,
+    891,
+    1312
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    118,
+    604,
+    231,
+    724
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "bebidas",
+   "contando": false,
+   "r": [
+    250,
+    599,
+    505,
+    722
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "edulcoradas",
+   "contando": false,
+   "r": [
+    119,
+    675,
+    547,
+    800
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "apenas",
+   "contando": false,
+   "r": [
+    566,
+    671,
+    801,
+    793
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "sumaron",
+   "contando": false,
+   "r": [
+    120,
+    754,
+    422,
+    877
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "puntos.",
+   "contando": false,
+   "r": [
+    440,
+    749,
+    694,
+    871
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 8.933,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    241,
+    655,
+    479,
+    825
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "190,3",
+   "contando": false,
+   "r": [
+    683,
+    650,
+    861,
+    787
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "%",
+   "contando": false,
+   "r": [
+    862,
+    711,
+    892,
+    760
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Bebidas edulcoradas",
+   "contando": false,
+   "r": [
+    719,
+    798,
+    865,
+    863
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "98,9",
+   "contando": false,
+   "r": [
+    423,
+    1072,
+    535,
+    1172
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "%",
+   "contando": false,
+   "r": [
+    535,
+    1123,
+    556,
+    1158
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Batidos",
+   "contando": false,
+   "r": [
+    453,
+    1179,
+    523,
+    1207
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "puntos, de 2015 a 2023",
+   "contando": false,
+   "r": [
+    110,
+    1172,
+    361,
+    1224
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "¡UY!",
+   "contando": false,
+   "r": [
+    732,
+    1172,
+    848,
+    1307
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "Bajar",
+   "contando": false,
+   "r": [
+    117,
+    600,
+    333,
+    731
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    353,
+    599,
+    436,
+    727
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "letra",
+   "contando": false,
+   "r": [
+    456,
+    595,
+    653,
+    725
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "prueba",
+   "contando": false,
+   "r": [
+    673,
+    590,
+    926,
+    721
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    119,
+    685,
+    208,
+    813
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "efecto",
+   "contando": false,
+   "r": [
+    228,
+    680,
+    462,
+    811
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    482,
+    679,
+    565,
+    807
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    585,
+    677,
+    667,
+    805
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "salud.",
+   "contando": false,
+   "r": [
+    687,
+    672,
+    917,
+    803
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 13.8,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    183,
+    919,
+    451,
+    993
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    682,
+    919,
+    824,
+    993
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    241,
+    655,
+    479,
+    825
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "no mide compras, ingesta ni salud",
+   "contando": false,
+   "r": [
+    715,
+    681,
+    868,
+    852
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "es un recálculo",
+   "contando": false,
+   "r": [
+    110,
+    1170,
+    353,
+    1241
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "¿QUÉ?",
+   "contando": false,
+   "r": [
+    691,
+    1167,
+    889,
+    1312
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    68,
+    284,
+    151,
+    415
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "letra",
+   "contando": false,
+   "r": [
+    171,
+    280,
+    373,
+    413
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "depende",
+   "contando": false,
+   "r": [
+    393,
+    273,
+    689,
+    408
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    709,
+    270,
+    831,
+    402
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "cálculo",
+   "contando": false,
+   "r": [
+    69,
+    364,
+    364,
+    499
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "Con",
+   "contando": false,
+   "r": [
+    147,
+    648,
+    258,
+    744
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    272,
+    647,
+    326,
+    742
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "algoritmo",
+   "contando": false,
+   "r": [
+    341,
+    642,
+    625,
+    740
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    640,
+    640,
+    713,
+    735
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "2023,",
+   "contando": false,
+   "r": [
+    727,
+    637,
+    889,
+    734
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    149,
+    733,
+    204,
+    828
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "puntuación",
+   "contando": false,
+   "r": [
+    218,
+    727,
+    549,
+    827
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    563,
+    726,
+    636,
+    821
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    650,
+    724,
+    705,
+    819
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "mezcla",
+   "contando": false,
+   "r": [
+    150,
+    815,
+    360,
+    912
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    374,
+    813,
+    447,
+    908
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "bebidas",
+   "contando": false,
+   "r": [
+    461,
+    809,
+    693,
+    907
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "vegetales",
+   "contando": false,
+   "r": [
+    152,
+    897,
+    440,
+    996
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    455,
+    894,
+    615,
+    991
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    630,
+    893,
+    703,
+    988
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "733 %.",
+   "contando": false,
+   "r": [
+    718,
+    889,
+    918,
+    987
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "Recálculo de 3.432 bebidas del mercado español con los algoritmos de 2015 y 2023; no mide compras, ingesta ni salud. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    990,
+    932,
+    1062
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    136,
+    511,
+    332,
+    570
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    150,
+    955,
+    408,
+    1025
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    420,
+    955,
+    450,
+    1025
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    462,
+    955,
+    590,
+    1025
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "compra",
+   "contando": false,
+   "r": [
+    198,
+    1015,
+    375,
+    1085
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "bebida",
+   "contando": false,
+   "r": [
+    387,
+    1015,
+    542,
+    1085
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "vegetal",
+   "contando": false,
+   "r": [
+    170,
+    1075,
+    362,
+    1145
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    374,
+    1075,
+    404,
+    1145
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "cajas.",
+   "contando": false,
+   "r": [
+    417,
+    1075,
+    570,
+    1145
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    127,
+    671,
+    275,
+    731
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "temprano:",
+   "contando": false,
+   "r": [
+    282,
+    664,
+    482,
+    726
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    489,
+    661,
+    561,
+    719
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "dieta",
+   "contando": false,
+   "r": [
+    569,
+    658,
+    668,
+    716
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    189,
+    723,
+    213,
+    779
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    221,
+    721,
+    267,
+    778
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "tensión",
+   "contando": false,
+   "r": [
+    275,
+    716,
+    423,
+    776
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "arterial.",
+   "contando": false,
+   "r": [
+    431,
+    709,
+    610,
+    771
+   ]
+  },
+  {
+   "t": 26.8,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1236,
+    239,
+    1267
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  2.9,
+  4.3,
+  8.933,
+  10.3,
+  13.8,
+  15.167,
+  21.433,
+  26.8
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.84,
+  "tiempo_reduccion_mas_1db_pct": 0.26,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "boing": 9,
+   "sello": 4,
+   "ding": 3,
+   "pop": 11,
+   "whoosh": 7,
+   "zas": 3,
+   "golpe": 2,
+   "contador": 7,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.812,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 302,
+   "texto": "Sumar puntos de Nutri-Score baja la nota. ¡Verdadero! Las bebidas edulcoradas apenas sumaron puntos. ¡Falso! Bajar de letra prueba un efecto en la salud. ¡Falso! La letra depende del cálculo. La mezcla vegetal: setecientos treinta y tres por ciento más. Mándaselo a quien compra bebida vegetal a cajas.",
+   "duracion_voz_s": 24.585,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Sumar puntos de Nutri-Score baja la nota.",
+     "t0": 0.0213,
+     "t1": 2.3363
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.0163,
+     "t1": 3.5763
+    },
+    {
+     "id": "a1",
+     "texto": "Las bebidas edulcoradas apenas sumaron puntos.",
+     "t0": 5.6613,
+     "t1": 8.3813
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso!",
+     "t0": 9.0313,
+     "t1": 9.4713
+    },
+    {
+     "id": "a2",
+     "texto": "Bajar de letra prueba un efecto en la salud.",
+     "t0": 11.1913,
+     "t1": 13.2713
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso!",
+     "t0": 13.8963,
+     "t1": 14.3363
+    },
+    {
+     "id": "c",
+     "texto": "La letra depende del cálculo. La mezcla vegetal: setecientos treinta y tres por ciento más.",
+     "t0": 16.3963,
+     "t1": 21.4613
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien compra bebida vegetal a cajas.",
+     "t0": 22.0513,
+     "t1": 24.3983
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.06,
+   "limitador_max_db": 2.85
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.289,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.956,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.406,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.506,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.976,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 2.996,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.046,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.136,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.216,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.676,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.288,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.901,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.541,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.581,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.601,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.261,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.131,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.001,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.451,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.506,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.991,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 9.011,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.061,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.151,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.231,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.311,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.411,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.511,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.511,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.611,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.691,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.711,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.811,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.911,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.401,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.041,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.081,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.101,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 11.791,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.341,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.891,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.341,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 13.413,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.856,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 13.876,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 13.926,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 14.016,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 14.096,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 14.556,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 15.326,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.096,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.216,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 16.596,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.046,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.096,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.546,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.846,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.046,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.198,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.498,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 24.798,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.958,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 25.048,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.231,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 805,
+ "tiempo_render_s": 133.0,
+ "tiempos_s": {
+  "preparar": 5.02,
+  "dibujar_y_codificar": 122.23
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "encuesta",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.2667,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.2,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.3,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.1667,
+   "que": "II · entra"
+  },
+  {
+   "t": 8.3,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 9.2,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 10.3,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 11.7,
+   "que": "III · entra"
+  },
+  {
+   "t": 13.2,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 14.0667,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 15.1667,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 17.0,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.4333,
+   "que": "conclusión"
+  },
+  {
+   "t": 22.9333,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 24.8,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 26.8,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "pan",
+   "naranja",
+   "aguacate",
+   "brocoli",
+   "limon"
+  ],
+  [
+   "terron",
+   "vaso",
+   "salero",
+   "naranja",
+   "kiwi"
+  ],
+  [
+   "terron",
+   "naranja",
+   "platano",
+   "fruta",
+   "fresa"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 26.8333,
+  "cortes": [
+   0.0,
+   5.521,
+   11.021,
+   16.096,
+   21.546
+  ],
+  "t_ono": 24.498,
+  "t_anz": 24.798,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.406,
+    "tv": 2.996,
+    "pasos": [
+     0.621,
+     1.289,
+     1.956
+    ],
+    "t_out": 5.221
+   },
+   {
+    "t_in": 5.521,
+    "t0": 5.661,
+    "buzz": 8.451,
+    "tv": 9.011,
+    "pasos": [
+     6.261,
+     7.131,
+     8.001
+    ],
+    "t_out": 10.721
+   },
+   {
+    "t_in": 11.021,
+    "t0": 11.191,
+    "buzz": 13.341,
+    "tv": 13.876,
+    "pasos": [
+     11.791,
+     12.341,
+     12.891
+    ],
+    "t_out": 16.596
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: S2-04",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #nutriscore #etiquetado #bebidasvegetales #verdaderoofalso #nutricion»"
+ ]
+}

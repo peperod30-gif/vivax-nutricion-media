@@ -1,0 +1,2234 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 27.58,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 10.84,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.767,
+ "n_cambios_visuales": 531,
+ "bucle_dif_ultimo_primero": 65.45,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    320
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    61,
+    326,
+    158,
+    446
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "piña",
+   "contando": false,
+   "r": [
+    157,
+    330,
+    301,
+    433
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y su fama de azúcar, a examen",
+   "contando": false,
+   "r": [
+    64,
+    309,
+    650,
+    598
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Fresas:",
+   "contando": false,
+   "r": [
+    97,
+    617,
+    355,
+    744
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    373,
+    615,
+    439,
+    738
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    458,
+    613,
+    537,
+    736
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mitad",
+   "contando": false,
+   "r": [
+    556,
+    608,
+    760,
+    734
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    779,
+    606,
+    859,
+    730
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    99,
+    695,
+    419,
+    823
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    438,
+    692,
+    559,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    578,
+    690,
+    657,
+    813
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "piña.",
+   "contando": false,
+   "r": [
+    676,
+    686,
+    845,
+    811
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡EH!",
+   "contando": false,
+   "r": [
+    798,
+    352,
+    883,
+    457
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    320
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    61,
+    326,
+    158,
+    446
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "piña",
+   "contando": false,
+   "r": [
+    157,
+    330,
+    301,
+    433
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "y su fama de azúcar, a examen",
+   "contando": false,
+   "r": [
+    64,
+    309,
+    650,
+    598
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Fresas:",
+   "contando": false,
+   "r": [
+    97,
+    617,
+    355,
+    744
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    373,
+    615,
+    439,
+    738
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    458,
+    613,
+    537,
+    736
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "mitad",
+   "contando": false,
+   "r": [
+    556,
+    608,
+    760,
+    734
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    779,
+    606,
+    859,
+    730
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    99,
+    695,
+    419,
+    823
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    438,
+    692,
+    559,
+    816
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    578,
+    690,
+    657,
+    813
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "piña.",
+   "contando": false,
+   "r": [
+    676,
+    686,
+    845,
+    811
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 3.233,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "El quiz de la noche",
+   "contando": false,
+   "r": [
+    91,
+    265,
+    353,
+    320
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    61,
+    326,
+    158,
+    446
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "piña",
+   "contando": false,
+   "r": [
+    157,
+    330,
+    301,
+    433
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "y su fama de azúcar, a examen",
+   "contando": false,
+   "r": [
+    64,
+    309,
+    650,
+    598
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    182,
+    609,
+    598,
+    811
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "4,9",
+   "contando": false,
+   "r": [
+    713,
+    672,
+    837,
+    820
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    833,
+    735,
+    856,
+    787
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    756,
+    820,
+    836,
+    860
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "9,9",
+   "contando": false,
+   "r": [
+    450,
+    828,
+    531,
+    928
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    527,
+    881,
+    541,
+    914
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "Piña",
+   "contando": false,
+   "r": [
+    470,
+    931,
+    513,
+    960
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    110,
+    845,
+    262,
+    910
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "¡ANDA!",
+   "contando": false,
+   "r": [
+    108,
+    989,
+    290,
+    1120
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Manzana:",
+   "contando": false,
+   "r": [
+    97,
+    618,
+    406,
+    737
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    424,
+    614,
+    560,
+    730
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    577,
+    612,
+    684,
+    727
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "doble",
+   "contando": false,
+   "r": [
+    99,
+    694,
+    282,
+    810
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    300,
+    692,
+    374,
+    806
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    392,
+    685,
+    688,
+    804
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    706,
+    682,
+    818,
+    798
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    100,
+    769,
+    210,
+    884
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "fresas.",
+   "contando": false,
+   "r": [
+    228,
+    763,
+    465,
+    881
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 8.833,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    182,
+    609,
+    598,
+    811
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "10,4",
+   "contando": false,
+   "r": [
+    706,
+    674,
+    850,
+    816
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    851,
+    739,
+    870,
+    789
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    741,
+    822,
+    842,
+    858
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "4,9",
+   "contando": false,
+   "r": [
+    450,
+    830,
+    528,
+    926
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    527,
+    879,
+    540,
+    911
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "Fresas",
+   "contando": false,
+   "r": [
+    462,
+    932,
+    525,
+    960
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    110,
+    845,
+    262,
+    910
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "¡TOMA!",
+   "contando": false,
+   "r": [
+    103,
+    989,
+    295,
+    1120
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "Piña:",
+   "contando": false,
+   "r": [
+    97,
+    616,
+    289,
+    757
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    310,
+    612,
+    475,
+    753
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    496,
+    604,
+    855,
+    749
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    99,
+    706,
+    235,
+    846
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    257,
+    704,
+    345,
+    843
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "manzana.",
+   "contando": false,
+   "r": [
+    366,
+    696,
+    740,
+    841
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 13.6,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    185,
+    1363,
+    375,
+    1416
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    620,
+    1363,
+    720,
+    1416
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    270,
+    622,
+    510,
+    798
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "9,9",
+   "contando": false,
+   "r": [
+    713,
+    672,
+    837,
+    820
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    833,
+    735,
+    856,
+    787
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Piña",
+   "contando": false,
+   "r": [
+    770,
+    821,
+    822,
+    858
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "10,4",
+   "contando": false,
+   "r": [
+    440,
+    828,
+    541,
+    928
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    537,
+    882,
+    551,
+    915
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Manzana",
+   "contando": false,
+   "r": [
+    450,
+    929,
+    533,
+    962
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "por 100 g",
+   "contando": false,
+   "r": [
+    110,
+    845,
+    262,
+    910
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "¿QUÉ?",
+   "contando": false,
+   "r": [
+    110,
+    989,
+    288,
+    1120
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "¿Y",
+   "contando": false,
+   "r": [
+    68,
+    283,
+    158,
+    418
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "cuánto",
+   "contando": false,
+   "r": [
+    179,
+    277,
+    445,
+    416
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    465,
+    274,
+    594,
+    410
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "separa?",
+   "contando": false,
+   "r": [
+    615,
+    267,
+    924,
+    407
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    147,
+    648,
+    249,
+    744
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "100 g",
+   "contando": false,
+   "r": [
+    263,
+    645,
+    412,
+    742
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    426,
+    644,
+    499,
+    739
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "fruta",
+   "contando": false,
+   "r": [
+    514,
+    641,
+    662,
+    737
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "cruda,",
+   "contando": false,
+   "r": [
+    676,
+    637,
+    866,
+    735
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    149,
+    733,
+    204,
+    828
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "manzana",
+   "contando": false,
+   "r": [
+    218,
+    728,
+    484,
+    827
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    499,
+    725,
+    640,
+    822
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "10,4 g",
+   "contando": false,
+   "r": [
+    654,
+    722,
+    825,
+    819
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    840,
+    721,
+    912,
+    816
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    150,
+    814,
+    420,
+    912
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    434,
+    813,
+    471,
+    907
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    486,
+    811,
+    541,
+    906
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "piña,",
+   "contando": false,
+   "r": [
+    555,
+    809,
+    701,
+    905
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "9,9 g:",
+   "contando": false,
+   "r": [
+    715,
+    806,
+    881,
+    902
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "medio",
+   "contando": false,
+   "r": [
+    152,
+    899,
+    332,
+    996
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "gramo",
+   "contando": false,
+   "r": [
+    346,
+    896,
+    535,
+    993
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "menos.",
+   "contando": false,
+   "r": [
+    550,
+    892,
+    765,
+    990
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "Los azúcares no tienen declaración de salud autorizada. Azúcares totales de la propia fruta cruda, por 100 g (USDA); no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    990,
+    925,
+    1062
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "El dato final",
+   "contando": false,
+   "r": [
+    136,
+    511,
+    332,
+    570
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    150,
+    955,
+    408,
+    1025
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    420,
+    955,
+    450,
+    1025
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    462,
+    955,
+    590,
+    1025
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "jura",
+   "contando": false,
+   "r": [
+    173,
+    1015,
+    288,
+    1085
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    300,
+    1015,
+    382,
+    1085
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    395,
+    1015,
+    451,
+    1085
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "piña",
+   "contando": false,
+   "r": [
+    464,
+    1015,
+    567,
+    1085
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    182,
+    1075,
+    235,
+    1145
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "puro",
+   "contando": false,
+   "r": [
+    248,
+    1075,
+    362,
+    1145
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "azúcar.",
+   "contando": false,
+   "r": [
+    374,
+    1075,
+    558,
+    1145
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    144,
+    671,
+    291,
+    731
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    298,
+    668,
+    367,
+    725
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    375,
+    666,
+    421,
+    723
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "noche:",
+   "contando": false,
+   "r": [
+    428,
+    662,
+    556,
+    721
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "tres",
+   "contando": false,
+   "r": [
+    563,
+    658,
+    652,
+    716
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "frases",
+   "contando": false,
+   "r": [
+    150,
+    721,
+    279,
+    780
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "sobre",
+   "contando": false,
+   "r": [
+    287,
+    717,
+    397,
+    776
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "suplementos",
+   "contando": false,
+   "r": [
+    405,
+    708,
+    649,
+    771
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    277,
+    769,
+    322,
+    826
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "vitaminas.",
+   "contando": false,
+   "r": [
+    329,
+    762,
+    525,
+    824
+   ]
+  },
+  {
+   "t": 27.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    96,
+    1236,
+    239,
+    1267
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.233,
+  4.6,
+  8.833,
+  10.2,
+  13.6,
+  14.7,
+  21.967,
+  27.5
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.33,
+  "tiempo_reduccion_mas_1db_pct": 0.21,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "sello": 4,
+   "ding": 4,
+   "pop": 13,
+   "contador": 21,
+   "whoosh": 7,
+   "boing": 5,
+   "zas": 3,
+   "golpe": 1,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 27.512,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 314,
+   "texto": "Fresas: ni la mitad de azúcares que la piña. ¡Verdadero! Manzana: más del doble de azúcares que las fresas. ¡Verdadero! Piña: más azúcares que la manzana. ¡Falso! ¿Y cuánto las separa? Manzana, diez coma cuatro gramos. Piña, nueve coma nueve. Medio gramo de nada. Mándaselo a quien jura que la piña es puro azúcar.",
+   "duracion_voz_s": 25.06,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Fresas: ni la mitad de azúcares que la piña.",
+     "t0": 0.0213,
+     "t1": 2.6263
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.3313,
+     "t1": 3.8513
+    },
+    {
+     "id": "a1",
+     "texto": "Manzana: más del doble de azúcares que las fresas.",
+     "t0": 5.4263,
+     "t1": 8.2663
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero!",
+     "t0": 8.9463,
+     "t1": 9.4663
+    },
+    {
+     "id": "a2",
+     "texto": "Piña: más azúcares que la manzana.",
+     "t0": 11.0313,
+     "t1": 13.0513
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso!",
+     "t0": 13.6913,
+     "t1": 14.2113
+    },
+    {
+     "id": "c",
+     "texto": "¿Y cuánto las separa? Manzana, diez coma cuatro gramos. Piña, nueve coma nueve. Medio gramo de nada.",
+     "t0": 15.6963,
+     "t1": 21.9813
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien jura que la piña es puro azúcar.",
+     "t0": 22.5213,
+     "t1": 24.9213
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.06,
+   "limitador_max_db": 2.44
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.434,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.246,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.696,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.291,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.311,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.361,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.451,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.531,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.611,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.711,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.811,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.811,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.911,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.991,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 4.011,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.111,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.211,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.671,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.311,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.351,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.391,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.026,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.956,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.886,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.336,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.906,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.926,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.976,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 9.066,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.146,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.226,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.326,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.426,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.426,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.526,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.606,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 9.626,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.726,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.826,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.286,
+   "tipo": "boing",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.926,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.966,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.006,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.631,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.151,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.671,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.121,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 13.651,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 13.671,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 13.721,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 13.811,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 13.891,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.971,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.071,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.171,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.171,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 14.271,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.351,
+   "tipo": "whoosh",
+   "intensidad": 0.2
+  },
+  {
+   "t": 14.371,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.471,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.571,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 14.873,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.396,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.516,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 15.896,
+   "tipo": "sello",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.571,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.621,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.071,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 22.371,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.571,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.721,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 25.021,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 25.321,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 25.481,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 25.571,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.932,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 826,
+ "tiempo_render_s": 127.2,
+ "tiempos_s": {
+  "preparar": 5.81,
+  "dibujar_y_codificar": 112.6
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "plato",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.5333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.5,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.6,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 5.9333,
+   "que": "II · entra"
+  },
+  {
+   "t": 8.2,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 9.1333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 10.2,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 11.5333,
+   "que": "III · entra"
+  },
+  {
+   "t": 12.9667,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 13.8667,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 14.7,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 16.3,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.9667,
+   "que": "conclusión"
+  },
+  {
+   "t": 23.4667,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 25.3333,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 27.5,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "fresa",
+   "fruta",
+   "queso",
+   "kiwi",
+   "zanahoria"
+  ],
+  [
+   "fruta",
+   "fresa",
+   "pescado",
+   "zanahoria",
+   "limon"
+  ],
+  [
+   "fruta",
+   "gota",
+   "naranja",
+   "brocoli",
+   "limon"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 27.5333,
+  "cortes": [
+   0.0,
+   5.291,
+   10.906,
+   15.396,
+   22.071
+  ],
+  "t_ono": 25.021,
+  "t_anz": 25.321,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.696,
+    "tv": 3.311,
+    "pasos": [
+     0.621,
+     1.434,
+     2.246
+    ],
+    "t_out": 4.991
+   },
+   {
+    "t_in": 5.291,
+    "t0": 5.426,
+    "buzz": 8.336,
+    "tv": 8.926,
+    "pasos": [
+     6.026,
+     6.956,
+     7.886
+    ],
+    "t_out": 10.606
+   },
+   {
+    "t_in": 10.906,
+    "t0": 11.031,
+    "buzz": 13.121,
+    "tv": 13.671,
+    "pasos": [
+     11.631,
+     12.151,
+     12.671
+    ],
+    "t_out": 15.896
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: ALI-044",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #azucar #fruta #verdaderoofalso #nutricion»"
+ ]
+}
