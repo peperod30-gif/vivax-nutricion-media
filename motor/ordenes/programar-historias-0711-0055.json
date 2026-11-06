@@ -1,0 +1,23 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 4-nov-2026: «que publiques historias y hagas historias destacadas» y su delegación del 15-oct; las historias llevan sus datos del feed y las del día se programan a su hora (09:30, 14:45, 20:00)",
+  "texto": "3 historias (el dato de las 9, el verdadero o falso de las 14:45, el para qué sirve de las 20:00 y el aviso del día).",
+  "lista": [
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-h-20261128-0930-cx-aviso",
+      "hora": "2026-11-28T09:30:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-h-20261128-1445-cx-vf-etiquetado-frontal",
+      "hora": "2026-11-28T14:45:00+01:00"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-h-20261204-0930-cx-aviso",
+      "hora": "2026-12-04T09:30:00+01:00"
+    }
+  ]
+}
