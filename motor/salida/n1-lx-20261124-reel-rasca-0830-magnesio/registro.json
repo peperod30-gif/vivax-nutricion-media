@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 2.03,
+ "tamano_mb": 2.02,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -16,8 +16,8 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.4,
- "n_cambios_visuales": 256,
- "bucle_dif_ultimo_primero": 56.86,
+ "n_cambios_visuales": 254,
+ "bucle_dif_ultimo_primero": 56.47,
  "zona_segura": [
   60,
   250,
@@ -228,9 +228,9 @@
    "texto": "168",
    "contando": false,
    "r": [
-    815,
+    819,
     649,
-    888,
+    892,
     736
    ]
   },
@@ -239,10 +239,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    686,
+    898,
+    690,
     928,
-    726
+    722
    ]
   },
   {
@@ -261,9 +261,9 @@
    "texto": "228",
    "contando": false,
    "r": [
-    806,
+    810,
     767,
-    888,
+    892,
     854
    ]
   },
@@ -272,10 +272,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    804,
+    898,
+    808,
     928,
-    844
+    840
    ]
   },
   {
@@ -294,9 +294,9 @@
    "texto": "270",
    "contando": false,
    "r": [
-    806,
+    810,
     885,
-    888,
+    892,
     972
    ]
   },
@@ -305,10 +305,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    922,
+    898,
+    926,
     928,
-    962
+    958
    ]
   },
   {
@@ -327,9 +327,9 @@
    "texto": "335",
    "contando": false,
    "r": [
-    806,
+    810,
     1003,
-    888,
+    892,
     1090
    ]
   },
@@ -338,10 +338,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    1040,
+    898,
+    1044,
     928,
-    1080
+    1076
    ]
   },
   {
@@ -437,9 +437,9 @@
    "texto": "168",
    "contando": false,
    "r": [
-    815,
+    819,
     649,
-    888,
+    892,
     736
    ]
   },
@@ -448,10 +448,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    686,
+    898,
+    690,
     928,
-    726
+    722
    ]
   },
   {
@@ -470,9 +470,9 @@
    "texto": "228",
    "contando": false,
    "r": [
-    806,
+    810,
     767,
-    888,
+    892,
     854
    ]
   },
@@ -481,10 +481,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    804,
+    898,
+    808,
     928,
-    844
+    840
    ]
   },
   {
@@ -503,9 +503,9 @@
    "texto": "270",
    "contando": false,
    "r": [
-    806,
+    810,
     885,
-    888,
+    892,
     972
    ]
   },
@@ -514,10 +514,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    922,
+    898,
+    926,
     928,
-    962
+    958
    ]
   },
   {
@@ -536,9 +536,9 @@
    "texto": "335",
    "contando": false,
    "r": [
-    806,
+    810,
     1003,
-    888,
+    892,
     1090
    ]
   },
@@ -547,10 +547,10 @@
    "texto": "mg",
    "contando": false,
    "r": [
-    894,
-    1040,
+    898,
+    1044,
     928,
-    1080
+    1076
    ]
   },
   {
@@ -581,9 +581,9 @@
    "contando": false,
    "r": [
     657,
-    1335,
-    712,
-    1400
+    1342,
+    706,
+    1395
    ]
   },
   {
@@ -592,9 +592,9 @@
    "contando": false,
    "r": [
     456,
-    1384,
-    621,
-    1433
+    1389,
+    604,
+    1427
    ]
   },
   {
@@ -625,9 +625,9 @@
    "contando": false,
    "r": [
     136,
-    418,
-    816,
-    500
+    426,
+    750,
+    491
    ]
   },
   {
@@ -702,9 +702,9 @@
    "contando": false,
    "r": [
     96,
-    831,
-    821,
-    996
+    841,
+    743,
+    987
    ]
   },
   {
@@ -724,20 +724,20 @@
    "contando": false,
    "r": [
     96,
-    831,
-    821,
-    996
+    841,
+    743,
+    987
    ]
   },
   {
    "t": 20.433,
-   "texto": "Mañana por la mañana: cuenta atrás de folato.",
+   "texto": "Mañana temprano: si desayunar hace que comas menos, en medio minuto.",
    "contando": false,
    "r": [
     96,
     1213,
-    643,
-    1254
+    889,
+    1294
    ]
   },
   {
@@ -938,10 +938,10 @@
   }
  ],
  "fotogramas": 614,
- "tiempo_render_s": 125.1,
+ "tiempo_render_s": 47.5,
  "tiempos_s": {
-  "preparar": 3.52,
-  "dibujar_y_codificar": 112.93
+  "preparar": 0.82,
+  "dibujar_y_codificar": 44.42
  },
  "voz_de_prueba": false
 }

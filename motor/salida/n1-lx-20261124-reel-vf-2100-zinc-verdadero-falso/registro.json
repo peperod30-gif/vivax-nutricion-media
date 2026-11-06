@@ -16,7 +16,7 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 2.9,
- "n_cambios_visuales": 256,
+ "n_cambios_visuales": 257,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -2238,68 +2238,90 @@
   },
   {
    "t": 26.233,
-   "texto": "la",
+   "texto": "sellos",
    "contando": false,
    "r": [
     403,
     1175,
-    426,
+    479,
     1216
    ]
   },
   {
    "t": 26.233,
-   "texto": "hoja",
+   "texto": "o",
    "contando": false,
    "r": [
-    436,
+    489,
     1175,
-    494,
+    506,
     1216
    ]
   },
   {
    "t": 26.233,
-   "texto": "que",
+   "texto": "Nutri-Score,",
    "contando": false,
    "r": [
-    504,
+    516,
     1175,
-    555,
+    679,
     1216
    ]
   },
   {
    "t": 26.233,
-   "texto": "apartas",
+   "texto": "¿con",
    "contando": false,
    "r": [
-    565,
+    689,
     1175,
-    663,
+    756,
     1216
    ]
   },
   {
    "t": 26.233,
-   "texto": "del",
+   "texto": "cuál",
    "contando": false,
    "r": [
-    673,
+    766,
     1175,
-    716,
+    821,
     1216
    ]
   },
   {
    "t": 26.233,
-   "texto": "plato.",
+   "texto": "hubo",
    "contando": false,
    "r": [
-    726,
+    831,
     1175,
-    802,
+    899,
     1216
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    96,
+    1214,
+    149,
+    1255
+   ]
+  },
+  {
+   "t": 26.233,
+   "texto": "frescos?",
+   "contando": false,
+   "r": [
+    158,
+    1214,
+    273,
+    1255
    ]
   },
   {
@@ -2631,10 +2653,10 @@
   }
  ],
  "fotogramas": 805,
- "tiempo_render_s": 100.5,
+ "tiempo_render_s": 53.3,
  "tiempos_s": {
-  "preparar": 4.24,
-  "dibujar_y_codificar": 88.41
+  "preparar": 0.99,
+  "dibujar_y_codificar": 47.75
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
@@ -2675,6 +2697,8 @@
     25.0013
    ],
    "palabras_an": [
+    25.421,
+    25.421,
     25.421,
     25.421,
     25.421,

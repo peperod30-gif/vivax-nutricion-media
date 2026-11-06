@@ -21,15 +21,15 @@
     {
       "plantilla": "f_ranking",
       "kicker": "I. ¿Verdadero o falso?",
-      "texto": "Según la AHA, la grasa saturada eleva el LDL.",
+      "texto": "Según la Asociación Americana del Corazón, la grasa saturada eleva el LDL.",
       "opciones": [
         "Verdadero",
         "Falso"
       ],
       "respuesta": "Verdadero",
-      "cifra": "AHA (2017)",
+      "cifra": "posición científica",
       "unidad": "",
-      "dato": "posición científica",
+      "dato": "revisión de 2017",
       "items": [
         {
           "nombre": "Grasa saturada"
@@ -47,7 +47,7 @@
       "respuesta": "Falso",
       "cifra": "también sube el LDL",
       "unidad": "",
-      "dato": "según la AHA (2017)",
+      "dato": "según la misma fuente",
       "items": [
         {
           "nombre": "Aceite de coco"
@@ -57,7 +57,7 @@
     {
       "plantilla": "f_ranking",
       "kicker": "III. ¿Verdadero o falso?",
-      "texto": "La gran investigación del aceite de oliva se retiró.",
+      "texto": "La gran investigación del aceite de oliva se retiró y salió corregida.",
       "opciones": [
         "Verdadero",
         "Falso"
@@ -75,9 +75,9 @@
     {
       "plantilla": "f_frase",
       "resalte": "El dato final",
-      "frase": "La AHA (2017): la saturada eleva el LDL y el coco también. Sus datos son de sustitución.",
+      "frase": "La Asociación Americana del Corazón (2017): la saturada eleva el LDL y el coco también. Sus datos son de sustitución, no de eliminación total.",
       "fuente": "No es una recomendación personal.",
-      "titulo": "Lo que concluye la AHA"
+      "titulo": "Lo que concluye esa asociación"
     },
     {
       "plantilla": "f_cierre",
@@ -85,9 +85,9 @@
       "texto": "Mañana en el Aula: con qué sustituyes los hidratos."
     }
   ],
-  "pie_instagram": "¿El aceite de coco sube el LDL? Vota\n\nSegún la AHA, la grasa saturada eleva el LDL. Verdadero: AHA (2017) (posición científica).\nEl aceite de coco no sube el LDL. Falso: también sube el LDL (según la AHA (2017)).\nLa gran investigación del aceite de oliva se retiró. Verdadero: fallos de aleatorización (versión de 2013).\n\nY el dato final: La AHA (2017): la saturada eleva el LDL y el coco también. Sus datos son de sustitución. No es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien echa aceite de coco al café.\nMañana en el Aula: con qué sustituyes los hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #colesterol #verdaderoofalso #nutricion",
+  "pie_instagram": "¿El aceite de coco sube el LDL? Vota\n\nSegún la Asociación Americana del Corazón, la grasa saturada eleva el LDL. Verdadero: posición científica (revisión de 2017).\nEl aceite de coco no sube el LDL. Falso: también sube el LDL (según la misma fuente).\nLa gran investigación del aceite de oliva se retiró y salió corregida. Verdadero: fallos de aleatorización (versión de 2013).\n\nY el dato final: La Asociación Americana del Corazón (2017): la saturada eleva el LDL y el coco también. Sus datos son de sustitución, no de eliminación total. No es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien echa aceite de coco al café.\nMañana en el Aula: con qué sustituyes los hidratos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasas #colesterol #verdaderoofalso #nutricion",
   "alt": [
-    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. ¿El aceite de coco sube el LDL? Vota. I. Según la AHA, la grasa saturada eleva el LDL. Verdadero: AHA (2017), Grasa saturada, posición científica. II. El aceite de coco no sube el LDL. Falso: también sube el LDL, Aceite de coco, según la AHA (2017). III. La gran investigación del aceite de oliva se retiró. Verdadero: fallos de aleatorización, Aceite de oliva virgen extra, versión de 2013. Lo que concluye la AHA. El dato final: La AHA (2017): la saturada eleva el LDL y el coco también. Sus datos son de sustitución. Mándaselo a quien echa aceite de coco al café. Mañana en el Aula: con qué sustituyes los hidratos."
+    "Reel en blanco, negro y oliva: quiz de verdadero o falso con dos pulsadores redondos de doble filete, un reloj de esfera y un dibujo en línea fina. El quiz de la noche. ¿El aceite de coco sube el LDL? Vota. I. Según la Asociación Americana del Corazón, la grasa saturada eleva el LDL. Verdadero: posición científica, Grasa saturada, revisión de 2017. II. El aceite de coco no sube el LDL. Falso: también sube el LDL, Aceite de coco, según la misma fuente. III. La gran investigación del aceite de oliva se retiró y salió corregida. Verdadero: fallos de aleatorización, Aceite de oliva virgen extra, versión de 2013. Lo que concluye esa asociación. El dato final: La Asociación Americana del Corazón (2017): la saturada eleva el LDL y el coco también. Sus datos son de sustitución, no de eliminación total. Mándaselo a quien echa aceite de coco al café. Mañana en el Aula: con qué sustituyes los hidratos."
   ],
   "esquema": "slides-1",
   "version_reel": "fx",
@@ -111,7 +111,7 @@
     "plantilla_visual": "reel_vf",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuentes: Sacks FM et al., Circulation 2017, asesoramiento presidencial de la AHA sobre grasas y enfermedad cardiovascular (MIT-014): la grasa saturada eleva el LDL y el aceite de coco también lo sube; sus datos comparan sustituirla, no eliminarla del todo. Estruch R et al., NEJM 2018, versión corregida de PREDIMED tras retirar la de 2013 por fallos de aleatorización (GAN-003); la versión corregida se publicó con su resultado en personas de alto riesgo. Sin declaración de salud autorizada para este tema; no es una recomendación personal. Voz sintética (IA).",
+  "comentario": "Fuentes: Sacks FM et al., Circulation 2017, asesoramiento presidencial de la AHA sobre grasas y enfermedad cardiovascular (MIT-014): la grasa saturada eleva el LDL y el aceite de coco también lo sube; sus datos comparan sustituirla, no eliminarla del todo. Estruch R et al., NEJM 2018, versión corregida de PREDIMED tras retirar la de 2013 por fallos de aleatorización (GAN-003); la versión corregida da, con aceite de oliva virgen extra, un 31 % menos de eventos cardiovasculares en personas de alto riesgo. Sin declaración de salud autorizada para este tema; no es una recomendación personal. Voz sintética (IA).",
   "ia": true,
   "serie": "El quiz de la noche",
   "pilar_plan": "ensenar"

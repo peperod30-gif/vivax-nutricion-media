@@ -17,7 +17,7 @@
  "moov_antes_de_mdat": true,
  "hueco_max_s": 1.367,
  "n_cambios_visuales": 165,
- "bucle_dif_ultimo_primero": 112.56,
+ "bucle_dif_ultimo_primero": 112.15,
  "zona_segura": [
   60,
   250,
@@ -1006,13 +1006,13 @@
   },
   {
    "t": 21.367,
-   "texto": "Mañana a la una: manzana contra kiwi, en fibra.",
+   "texto": "Mañana a la una: el plan B de tu cerebro, cuál y cuándo.",
    "contando": false,
    "r": [
     96,
-    1149,
-    861,
-    1202
+    1126,
+    832,
+    1225
    ]
   },
   {
@@ -1160,10 +1160,10 @@
   }
  ],
  "fotogramas": 642,
- "tiempo_render_s": 74.1,
+ "tiempo_render_s": 42.5,
  "tiempos_s": {
-  "preparar": 1.9,
-  "dibujar_y_codificar": 63.58
+  "preparar": 0.93,
+  "dibujar_y_codificar": 38.44
  },
  "voz_de_prueba": false
 }

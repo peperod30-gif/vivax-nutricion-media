@@ -8,7 +8,8 @@
   "molde": "lux-car-mito-debate",
   "pilar": "mitos",
   "hechos": [
-    "DEB-011"
+    "DEB-011",
+    "DEB-010"
   ],
   "titulo": "[CAR-MITO-DEBATE] Menos grasa saturada, dos resultados distintos.",
   "hojas": [
@@ -22,7 +23,7 @@
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura A",
+      "kicker": "Caso A",
       "titulo": "Si se cambia por aceite vegetal poliinsaturado",
       "dato": "La enfermedad cardiovascular bajó en torno a un 30 %. Asociación Americana del Corazón, 2017.",
       "cifra": "30",
@@ -31,25 +32,25 @@
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Postura B",
+      "kicker": "Caso B",
       "titulo": "Si se cambia por hidratos refinados y azúcares",
       "dato": "No se asocia con menos enfermedad cardiovascular y no la redujo. Misma fuente, 2017.",
       "dia": "Mito o dato"
     },
     {
       "plantilla": "f_ranking",
-      "kicker": "Frente a frente",
+      "kicker": "Los dos casos",
       "titulo": "Quitar grasa saturada, ¿baja la enfermedad cardiovascular?",
-      "texto": "¿Con cuál te quedas?",
+      "texto": "¿Lo sabías?",
       "items": [
         {
-          "nombre": "Postura A",
+          "nombre": "Caso A",
           "texto": "Si se cambia por aceite vegetal poliinsaturado",
           "valor": "30",
           "unidad": "%"
         },
         {
-          "nombre": "Postura B",
+          "nombre": "Caso B",
           "texto": "Si se cambia por hidratos refinados y azúcares"
         }
       ],
@@ -77,12 +78,12 @@
       "dato": "El jueves por la tarde: los aceites de semillas, a debate."
     }
   ],
-  "pie_instagram": "Menos grasa saturada, dos resultados distintos.\n\nPostura A: La enfermedad cardiovascular bajó en torno a un 30 %. Asociación Americana del Corazón, 2017.\nPostura B: No se asocia con menos enfermedad cardiovascular y no la redujo. Misma fuente, 2017.\nUn informe de una asociación médica que revisa la evidencia.\nEl matiz: Depende de con qué se sustituya.\nY el dato final: Por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; por hidratos refinados y azúcares, no bajó.\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Con cuál te quedas?\nMándaselo a quien cambió la mantequilla por galletas.\nEl jueves por la tarde: los aceites de semillas, a debate.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasasaturada #nutricion #mitoodato",
+  "pie_instagram": "Menos grasa saturada, dos resultados distintos.\n\nCaso A: La enfermedad cardiovascular bajó en torno a un 30 %. Asociación Americana del Corazón, 2017.\nCaso B: No se asocia con menos enfermedad cardiovascular y no la redujo. Misma fuente, 2017.\nUn informe de una asociación médica que revisa la evidencia.\nEl matiz: Depende de con qué se sustituya.\nY el dato final: Por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; por hidratos refinados y azúcares, no bajó.\nLa otra corriente: en gente seguida durante años, comer más grasa saturada no se asoció con más mortalidad total ni cardiovascular; solo se vio quién comía qué, y sus propios autores dan a esa relación una certeza «muy baja».\n\nResumen de posturas con sus datos, no una recomendación para nadie en concreto.\n\n¿Lo sabías?\nMándaselo a quien cambió la mantequilla por galletas.\nEl jueves por la tarde: los aceites de semillas, a debate.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#grasasaturada #nutricion #mitoodato",
   "alt": [
     "Portada en blanco y oliva con una balanza de dos platos dibujada en línea fina; abajo, la respuesta corta en letra grande. Mito o dato. Menos grasa saturada, dos resultados distintos. La respuesta larga, deslizando. Respuesta corta. Depende.",
-    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Postura A. Si se cambia por aceite vegetal poliinsaturado. 30 %. La enfermedad cardiovascular bajó en torno a un 30 %. Asociación Americana del Corazón, 2017.",
-    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Postura B. Si se cambia por hidratos refinados y azúcares. No se asocia con menos enfermedad cardiovascular y no la redujo. Misma fuente, 2017.",
-    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Frente a frente. Quitar grasa saturada, ¿baja la enfermedad cardiovascular? ¿Con cuál te quedas? Un informe de una asociación médica que revisa la evidencia. Postura A 30 % Si se cambia por aceite vegetal poliinsaturado. Postura B Si se cambia por hidratos refinados y azúcares.",
+    "Primera portada de periódico, sobre papel oliva: cabecera entre filetes, titular y la cifra en grande. Caso A. Si se cambia por aceite vegetal poliinsaturado. 30 %. La enfermedad cardiovascular bajó en torno a un 30 %. Asociación Americana del Corazón, 2017.",
+    "Segunda portada de periódico, en blanco con el bloque oliva: cabecera entre filetes, titular y la cifra en grande. Caso B. Si se cambia por hidratos refinados y azúcares. No se asocia con menos enfermedad cardiovascular y no la redujo. Misma fuente, 2017.",
+    "Las dos portadas frente a frente, la hoja partida en vertical: a la izquierda en oliva y a la derecha en blanco, cada una con su cifra. Los dos casos. Quitar grasa saturada, ¿baja la enfermedad cardiovascular? ¿Lo sabías? Un informe de una asociación médica que revisa la evidencia. Caso A 30 % Si se cambia por aceite vegetal poliinsaturado. Caso B Si se cambia por hidratos refinados y azúcares.",
     "Hoja oliva con la palabra en letra grande y, debajo, de qué depende. El matiz. de con qué se sustituya. Depende.",
     "Hoja en blanco y oliva profundo con una balanza dibujada en línea blanca. Entonces, ¿de qué depende? El dato final. Por aceite vegetal poliinsaturado, la enfermedad cardiovascular bajó en torno a un 30 %; por hidratos refinados y azúcares, no bajó.",
     "Cierre en oliva con la firma de Vivax. En una frase. Depende de con qué se sustituya. Mándaselo a quien cambió la mantequilla por galletas. El jueves por la tarde: los aceites de semillas, a debate."
@@ -105,7 +106,7 @@
     "plantilla_visual": "car_mito_debate",
     "lote_serie": "luxury-6"
   },
-  "comentario": "Fuente: Sacks FM et al. Circulation 2017;136:e1-e23 (DEB-011), asesoramiento presidencial de la Asociación Americana del Corazón que revisa ensayos y cohortes; verificado en Europe PMC el 11-oct-2026. Salvedad: es un informe de una asociación médica, no un ensayo. Recomienda cambiar grasa saturada por grasas insaturadas, sobre todo poliinsaturadas, dentro de un patrón como la dieta DASH o la mediterránea. No es una recomendación personal.",
+  "comentario": "Fuente: Sacks FM et al. Circulation 2017;136:e1-e23 (DEB-011), asesoramiento presidencial de la Asociación Americana del Corazón que revisa ensayos y cohortes; verificado en Europe PMC el 11-oct-2026. Salvedad: es un informe de una asociación médica, no un ensayo. Recomienda cambiar grasa saturada por grasas insaturadas, sobre todo poliinsaturadas, dentro de un patrón como la dieta DASH o la mediterránea. Otra corriente (DEB-010): de Souza RJ et al. BMJ 2015;351:h3978, metaanálisis de estudios de cohortes: la ingesta de grasa saturada no se asoció con la mortalidad total (riesgo relativo 0,99; IC 95 % 0,91 a 1,09) ni con la cardiovascular (0,97; 0,84 a 1,12); es observacional y los propios autores califican de «muy baja» la certeza de estas asociaciones. No es una recomendación personal.",
   "serie": "Mito o dato",
   "pilar_plan": "Debates con datos"
 }

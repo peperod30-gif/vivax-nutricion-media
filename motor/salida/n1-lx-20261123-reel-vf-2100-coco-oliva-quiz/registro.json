@@ -1,22 +1,22 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 27.38,
+ "duracion_s": 28.44,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
  "fps": 29.98,
  "pixel": "yuv420p",
- "tamano_mb": 2.17,
+ "tamano_mb": 2.22,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -16.1,
+ "lufs": -16.0,
  "pico_dbtp": -2.0,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
- "hueco_max_s": 1.933,
- "n_cambios_visuales": 258,
+ "hueco_max_s": 1.767,
+ "n_cambios_visuales": 267,
  "bucle_dif_ultimo_primero": 0.0,
  "zona_segura": [
   60,
@@ -119,9 +119,9 @@
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
@@ -130,9 +130,9 @@
    "contando": false,
    "r": [
     96,
-    696,
-    118,
-    765
+    703,
+    117,
+    758
    ]
   },
   {
@@ -152,9 +152,9 @@
    "contando": false,
    "r": [
     96,
-    769,
-    270,
-    878
+    770,
+    261,
+    872
    ]
   },
   {
@@ -162,21 +162,54 @@
    "texto": "la",
    "contando": false,
    "r": [
-    287,
-    769,
-    339,
-    878
+    276,
+    770,
+    325,
+    872
    ]
   },
   {
    "t": 0.0,
-   "texto": "AHA,",
+   "texto": "Asociación",
    "contando": false,
    "r": [
-    355,
-    769,
-    476,
-    878
+    341,
+    770,
+    636,
+    872
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Americana",
+   "contando": false,
+   "r": [
+    652,
+    770,
+    939,
+    872
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    96,
+    849,
+    179,
+    951
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Corazón,",
+   "contando": false,
+   "r": [
+    194,
+    849,
+    423,
+    951
    ]
   },
   {
@@ -184,10 +217,10 @@
    "texto": "la",
    "contando": false,
    "r": [
-    493,
-    769,
-    544,
-    878
+    439,
+    849,
+    488,
+    951
    ]
   },
   {
@@ -195,10 +228,10 @@
    "texto": "grasa",
    "contando": false,
    "r": [
-    561,
-    769,
-    724,
-    878
+    503,
+    849,
+    657,
+    951
    ]
   },
   {
@@ -206,10 +239,10 @@
    "texto": "saturada",
    "contando": false,
    "r": [
-    96,
-    853,
-    350,
-    962
+    673,
+    849,
+    913,
+    951
    ]
   },
   {
@@ -217,10 +250,10 @@
    "texto": "eleva",
    "contando": false,
    "r": [
-    366,
-    853,
-    520,
-    962
+    96,
+    928,
+    241,
+    1030
    ]
   },
   {
@@ -228,10 +261,10 @@
    "texto": "el",
    "contando": false,
    "r": [
-    537,
-    853,
-    589,
-    962
+    257,
+    928,
+    306,
+    1030
    ]
   },
   {
@@ -239,10 +272,10 @@
    "texto": "LDL.",
    "contando": false,
    "r": [
-    605,
-    853,
-    713,
-    962
+    322,
+    928,
+    423,
+    1030
    ]
   },
   {
@@ -279,7 +312,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -290,7 +323,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "¿El",
    "contando": false,
    "r": [
@@ -301,7 +334,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -312,7 +345,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "de",
    "contando": false,
    "r": [
@@ -323,7 +356,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -334,7 +367,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -345,7 +378,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "el",
    "contando": false,
    "r": [
@@ -356,7 +389,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "LDL?",
    "contando": false,
    "r": [
@@ -367,29 +400,29 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "Vota",
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    696,
-    118,
-    765
+    703,
+    117,
+    758
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -400,106 +433,139 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "Según",
    "contando": false,
    "r": [
     96,
-    769,
-    270,
-    878
+    770,
+    261,
+    872
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "la",
    "contando": false,
    "r": [
-    287,
-    769,
-    339,
-    878
+    276,
+    770,
+    325,
+    872
    ]
   },
   {
-   "t": 4.733,
-   "texto": "AHA,",
+   "t": 5.533,
+   "texto": "Asociación",
    "contando": false,
    "r": [
-    355,
-    769,
-    476,
-    878
+    341,
+    770,
+    636,
+    872
    ]
   },
   {
-   "t": 4.733,
-   "texto": "la",
+   "t": 5.533,
+   "texto": "Americana",
    "contando": false,
    "r": [
-    493,
-    769,
-    544,
-    878
+    652,
+    770,
+    939,
+    872
    ]
   },
   {
-   "t": 4.733,
-   "texto": "grasa",
-   "contando": false,
-   "r": [
-    561,
-    769,
-    724,
-    878
-   ]
-  },
-  {
-   "t": 4.733,
-   "texto": "saturada",
+   "t": 5.533,
+   "texto": "del",
    "contando": false,
    "r": [
     96,
-    853,
-    350,
-    962
+    849,
+    179,
+    951
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
+   "texto": "Corazón,",
+   "contando": false,
+   "r": [
+    194,
+    849,
+    423,
+    951
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    439,
+    849,
+    488,
+    951
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    503,
+    849,
+    657,
+    951
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    673,
+    849,
+    913,
+    951
+   ]
+  },
+  {
+   "t": 5.533,
    "texto": "eleva",
    "contando": false,
    "r": [
-    366,
-    853,
-    520,
-    962
+    96,
+    928,
+    241,
+    1030
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "el",
    "contando": false,
    "r": [
-    537,
-    853,
-    589,
-    962
+    257,
+    928,
+    306,
+    1030
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "LDL.",
    "contando": false,
    "r": [
-    605,
-    853,
-    713,
-    962
+    322,
+    928,
+    423,
+    1030
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -510,7 +576,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -521,7 +587,7 @@
    ]
   },
   {
-   "t": 4.733,
+   "t": 5.533,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -532,7 +598,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -543,7 +609,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "¿El",
    "contando": false,
    "r": [
@@ -554,7 +620,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -565,7 +631,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "de",
    "contando": false,
    "r": [
@@ -576,7 +642,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -587,7 +653,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -598,7 +664,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "el",
    "contando": false,
    "r": [
@@ -609,7 +675,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "LDL?",
    "contando": false,
    "r": [
@@ -620,29 +686,29 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "Vota",
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "i.",
    "contando": false,
    "r": [
     96,
-    696,
-    118,
-    765
+    703,
+    117,
+    758
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -653,106 +719,139 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "Según",
    "contando": false,
    "r": [
     96,
-    769,
-    270,
-    878
+    770,
+    261,
+    872
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "la",
    "contando": false,
    "r": [
-    287,
-    769,
-    339,
-    878
+    276,
+    770,
+    325,
+    872
    ]
   },
   {
-   "t": 6.167,
-   "texto": "AHA,",
+   "t": 6.967,
+   "texto": "Asociación",
    "contando": false,
    "r": [
-    355,
-    769,
-    476,
-    878
+    341,
+    770,
+    636,
+    872
    ]
   },
   {
-   "t": 6.167,
-   "texto": "la",
+   "t": 6.967,
+   "texto": "Americana",
    "contando": false,
    "r": [
-    493,
-    769,
-    544,
-    878
+    652,
+    770,
+    939,
+    872
    ]
   },
   {
-   "t": 6.167,
-   "texto": "grasa",
-   "contando": false,
-   "r": [
-    561,
-    769,
-    724,
-    878
-   ]
-  },
-  {
-   "t": 6.167,
-   "texto": "saturada",
+   "t": 6.967,
+   "texto": "del",
    "contando": false,
    "r": [
     96,
-    853,
-    350,
-    962
+    849,
+    179,
+    951
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
+   "texto": "Corazón,",
+   "contando": false,
+   "r": [
+    194,
+    849,
+    423,
+    951
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    439,
+    849,
+    488,
+    951
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    503,
+    849,
+    657,
+    951
+   ]
+  },
+  {
+   "t": 6.967,
+   "texto": "saturada",
+   "contando": false,
+   "r": [
+    673,
+    849,
+    913,
+    951
+   ]
+  },
+  {
+   "t": 6.967,
    "texto": "eleva",
    "contando": false,
    "r": [
-    366,
-    853,
-    520,
-    962
+    96,
+    928,
+    241,
+    1030
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "el",
    "contando": false,
    "r": [
-    537,
-    853,
-    589,
-    962
+    257,
+    928,
+    306,
+    1030
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "LDL.",
    "contando": false,
    "r": [
-    605,
-    853,
-    713,
-    962
+    322,
+    928,
+    423,
+    1030
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -763,40 +862,40 @@
    ]
   },
   {
-   "t": 6.167,
-   "texto": "AHA",
+   "t": 6.967,
+   "texto": "posición",
    "contando": false,
    "r": [
     356,
-    1084,
-    529,
-    1264
+    1120,
+    627,
+    1228
    ]
   },
   {
-   "t": 6.167,
-   "texto": "(2017)",
+   "t": 6.967,
+   "texto": "científica",
    "contando": false,
    "r": [
-    556,
-    1084,
-    836,
-    1264
+    644,
+    1120,
+    946,
+    1228
    ]
   },
   {
-   "t": 6.167,
-   "texto": "posición científica",
+   "t": 6.967,
+   "texto": "revisión de 2017",
    "contando": false,
    "r": [
     360,
     1282,
-    705,
+    650,
     1312
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "Grasa saturada",
    "contando": false,
    "r": [
@@ -807,7 +906,7 @@
    ]
   },
   {
-   "t": 6.167,
+   "t": 6.967,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -818,7 +917,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -829,7 +928,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "¿El",
    "contando": false,
    "r": [
@@ -840,7 +939,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -851,7 +950,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "de",
    "contando": false,
    "r": [
@@ -862,7 +961,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -873,7 +972,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -884,7 +983,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "el",
    "contando": false,
    "r": [
@@ -895,7 +994,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "LDL?",
    "contando": false,
    "r": [
@@ -906,29 +1005,29 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "Vota",
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "ii.",
    "contando": false,
    "r": [
     96,
-    696,
-    129,
-    765
+    703,
+    127,
+    758
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -939,7 +1038,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "El",
    "contando": false,
    "r": [
@@ -950,7 +1049,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -961,7 +1060,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "de",
    "contando": false,
    "r": [
@@ -972,7 +1071,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -983,7 +1082,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "no",
    "contando": false,
    "r": [
@@ -994,7 +1093,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -1005,7 +1104,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1016,7 +1115,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "LDL.",
    "contando": false,
    "r": [
@@ -1027,7 +1126,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1038,7 +1137,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -1049,7 +1148,7 @@
    ]
   },
   {
-   "t": 10.233,
+   "t": 11.133,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1060,7 +1159,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1071,7 +1170,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "¿El",
    "contando": false,
    "r": [
@@ -1082,7 +1181,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -1093,7 +1192,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1104,7 +1203,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -1115,7 +1214,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -1126,7 +1225,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1137,7 +1236,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "LDL?",
    "contando": false,
    "r": [
@@ -1148,29 +1247,29 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "Vota",
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "ii.",
    "contando": false,
    "r": [
     96,
-    696,
-    129,
-    765
+    703,
+    127,
+    758
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -1181,7 +1280,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "El",
    "contando": false,
    "r": [
@@ -1192,7 +1291,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -1203,7 +1302,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1214,7 +1313,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -1225,7 +1324,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "no",
    "contando": false,
    "r": [
@@ -1236,7 +1335,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -1247,7 +1346,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1258,7 +1357,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "LDL.",
    "contando": false,
    "r": [
@@ -1269,7 +1368,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -1280,62 +1379,62 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "también",
    "contando": false,
    "r": [
     356,
-    1066,
-    616,
-    1188
+    1073,
+    606,
+    1176
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "sube",
    "contando": false,
    "r": [
     356,
-    1160,
-    512,
-    1282
+    1173,
+    504,
+    1276
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "el",
    "contando": false,
    "r": [
-    530,
-    1160,
-    588,
-    1282
+    520,
+    1173,
+    575,
+    1276
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "LDL",
    "contando": false,
    "r": [
-    606,
-    1160,
-    708,
-    1282
+    591,
+    1173,
+    703,
+    1276
    ]
   },
   {
-   "t": 11.667,
-   "texto": "según la AHA (2017)",
+   "t": 12.533,
+   "texto": "según la misma fuente",
    "contando": false,
    "r": [
     360,
     1282,
-    708,
+    760,
     1312
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "Aceite de coco",
    "contando": false,
    "r": [
@@ -1346,7 +1445,7 @@
    ]
   },
   {
-   "t": 11.667,
+   "t": 12.533,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1357,7 +1456,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1368,7 +1467,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "¿El",
    "contando": false,
    "r": [
@@ -1379,7 +1478,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -1390,7 +1489,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1401,7 +1500,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -1412,7 +1511,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -1423,7 +1522,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1434,7 +1533,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "LDL?",
    "contando": false,
    "r": [
@@ -1445,29 +1544,29 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "Vota",
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "iii.",
    "contando": false,
    "r": [
     96,
-    696,
-    140,
-    765
+    703,
+    137,
+    758
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -1478,106 +1577,139 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "La",
    "contando": false,
    "r": [
     96,
-    769,
-    159,
-    878
+    770,
+    155,
+    872
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "gran",
    "contando": false,
    "r": [
-    175,
-    769,
-    305,
-    878
+    171,
+    770,
+    294,
+    872
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "investigación",
    "contando": false,
    "r": [
-    322,
-    769,
-    707,
-    878
+    309,
+    770,
+    673,
+    872
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "del",
    "contando": false,
    "r": [
-    724,
-    769,
-    811,
-    878
+    689,
+    770,
+    771,
+    872
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "aceite",
    "contando": false,
    "r": [
     96,
-    853,
-    273,
-    962
+    849,
+    264,
+    951
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "de",
    "contando": false,
    "r": [
-    290,
-    853,
-    360,
-    962
+    279,
+    849,
+    345,
+    951
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "oliva",
    "contando": false,
    "r": [
-    376,
-    853,
-    513,
-    962
+    361,
+    849,
+    490,
+    951
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "se",
    "contando": false,
    "r": [
-    530,
-    853,
-    598,
-    962
+    506,
+    849,
+    570,
+    951
    ]
   },
   {
-   "t": 16.1,
-   "texto": "retiró.",
+   "t": 18.2,
+   "texto": "retiró",
    "contando": false,
    "r": [
-    615,
-    853,
-    789,
-    962
+    586,
+    849,
+    735,
+    951
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    928,
+    127,
+    1030
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "salió",
+   "contando": false,
+   "r": [
+    142,
+    928,
+    273,
+    1030
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "corregida.",
+   "contando": false,
+   "r": [
+    288,
+    928,
+    565,
+    1030
+   ]
+  },
+  {
+   "t": 18.2,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1588,7 +1720,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "Falso",
    "contando": false,
    "r": [
@@ -1599,7 +1731,7 @@
    ]
   },
   {
-   "t": 16.1,
+   "t": 18.2,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1610,7 +1742,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1621,7 +1753,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "¿El",
    "contando": false,
    "r": [
@@ -1632,7 +1764,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "aceite",
    "contando": false,
    "r": [
@@ -1643,7 +1775,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1654,7 +1786,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "coco",
    "contando": false,
    "r": [
@@ -1665,7 +1797,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "sube",
    "contando": false,
    "r": [
@@ -1676,7 +1808,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "el",
    "contando": false,
    "r": [
@@ -1687,7 +1819,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "LDL?",
    "contando": false,
    "r": [
@@ -1698,29 +1830,29 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "Vota",
    "contando": false,
    "r": [
     508,
-    445,
-    648,
-    568
+    459,
+    639,
+    557
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "iii.",
    "contando": false,
    "r": [
     96,
-    696,
-    140,
-    765
+    703,
+    137,
+    758
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "¿Verdadero o falso?",
    "contando": false,
    "r": [
@@ -1731,106 +1863,139 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "La",
    "contando": false,
    "r": [
     96,
-    769,
-    159,
-    878
+    770,
+    155,
+    872
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "gran",
    "contando": false,
    "r": [
-    175,
-    769,
-    305,
-    878
+    171,
+    770,
+    294,
+    872
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "investigación",
    "contando": false,
    "r": [
-    322,
-    769,
-    707,
-    878
+    309,
+    770,
+    673,
+    872
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "del",
    "contando": false,
    "r": [
-    724,
-    769,
-    811,
-    878
+    689,
+    770,
+    771,
+    872
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "aceite",
    "contando": false,
    "r": [
     96,
-    853,
-    273,
-    962
+    849,
+    264,
+    951
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "de",
    "contando": false,
    "r": [
-    290,
-    853,
-    360,
-    962
+    279,
+    849,
+    345,
+    951
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "oliva",
    "contando": false,
    "r": [
-    376,
-    853,
-    513,
-    962
+    361,
+    849,
+    490,
+    951
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "se",
    "contando": false,
    "r": [
-    530,
-    853,
-    598,
-    962
+    506,
+    849,
+    570,
+    951
    ]
   },
   {
-   "t": 17.5,
-   "texto": "retiró.",
+   "t": 19.6,
+   "texto": "retiró",
    "contando": false,
    "r": [
-    615,
-    853,
-    789,
-    962
+    586,
+    849,
+    735,
+    951
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    96,
+    928,
+    127,
+    1030
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "salió",
+   "contando": false,
+   "r": [
+    142,
+    928,
+    273,
+    1030
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "corregida.",
+   "contando": false,
+   "r": [
+    288,
+    928,
+    565,
+    1030
+   ]
+  },
+  {
+   "t": 19.6,
    "texto": "Verdadero",
    "contando": false,
    "r": [
@@ -1841,40 +2006,40 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "fallos",
    "contando": false,
    "r": [
     356,
-    1066,
-    532,
-    1188
+    1073,
+    528,
+    1176
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "de",
    "contando": false,
    "r": [
-    550,
-    1066,
-    628,
-    1188
+    544,
+    1073,
+    619,
+    1176
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "aleatorización",
    "contando": false,
    "r": [
     356,
-    1160,
-    806,
-    1282
+    1173,
+    793,
+    1276
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "versión de 2013",
    "contando": false,
    "r": [
@@ -1885,7 +2050,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "Aceite de oliva virgen extra",
    "contando": false,
    "r": [
@@ -1896,7 +2061,7 @@
    ]
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1907,7 +2072,7 @@
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "El quiz de la noche",
    "contando": false,
    "r": [
@@ -1918,7 +2083,7 @@
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "Lo",
    "contando": false,
    "r": [
@@ -1929,7 +2094,7 @@
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "que",
    "contando": false,
    "r": [
@@ -1940,7 +2105,7 @@
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "concluye",
    "contando": false,
    "r": [
@@ -1951,29 +2116,29 @@
    ]
   },
   {
-   "t": 22.867,
-   "texto": "la",
+   "t": 24.3,
+   "texto": "esa",
    "contando": false,
    "r": [
     96,
     455,
-    161,
+    226,
     593
    ]
   },
   {
-   "t": 22.867,
-   "texto": "AHA",
+   "t": 24.3,
+   "texto": "asociación",
    "contando": false,
    "r": [
-    182,
+    246,
     455,
-    313,
+    640,
     593
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "El dato final",
    "contando": false,
    "r": [
@@ -1984,194 +2149,271 @@
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "La",
    "contando": false,
    "r": [
     96,
-    791,
-    169,
-    918
+    793,
+    161,
+    906
    ]
   },
   {
-   "t": 22.867,
-   "texto": "AHA",
+   "t": 24.3,
+   "texto": "Asociación",
    "contando": false,
    "r": [
-    188,
-    791,
-    310,
-    918
+    178,
+    793,
+    504,
+    906
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
+   "texto": "Americana",
+   "contando": false,
+   "r": [
+    521,
+    793,
+    838,
+    906
+   ]
+  },
+  {
+   "t": 24.3,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    855,
+    793,
+    946,
+    906
+   ]
+  },
+  {
+   "t": 24.3,
+   "texto": "Corazón",
+   "contando": false,
+   "r": [
+    96,
+    880,
+    331,
+    993
+   ]
+  },
+  {
+   "t": 24.3,
    "texto": "(2017):",
    "contando": false,
    "r": [
-    329,
-    791,
-    547,
-    918
+    349,
+    880,
+    543,
+    993
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "la",
    "contando": false,
    "r": [
-    566,
-    791,
-    627,
-    918
+    560,
+    880,
+    614,
+    993
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "saturada",
    "contando": false,
    "r": [
-    646,
-    791,
-    942,
-    918
+    631,
+    880,
+    896,
+    993
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "eleva",
    "contando": false,
    "r": [
     96,
-    888,
-    276,
-    1015
+    967,
+    256,
+    1080
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "el",
    "contando": false,
    "r": [
-    295,
-    888,
-    356,
-    1015
+    274,
+    967,
+    328,
+    1080
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "LDL",
    "contando": false,
    "r": [
-    375,
-    888,
-    482,
-    1015
+    345,
+    967,
+    440,
+    1080
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "y",
    "contando": false,
    "r": [
-    501,
-    888,
-    539,
-    1015
+    457,
+    967,
+    492,
+    1080
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "el",
    "contando": false,
    "r": [
-    558,
-    888,
-    619,
-    1015
+    509,
+    967,
+    563,
+    1080
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "coco",
    "contando": false,
    "r": [
-    638,
-    888,
-    802,
-    1015
+    580,
+    967,
+    727,
+    1080
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "también.",
    "contando": false,
    "r": [
     96,
-    986,
-    387,
-    1113
+    1054,
+    355,
+    1167
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "Sus",
    "contando": false,
    "r": [
-    406,
-    986,
-    525,
-    1113
+    373,
+    1054,
+    479,
+    1167
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "datos",
    "contando": false,
    "r": [
-    544,
-    986,
-    731,
-    1113
+    496,
+    1054,
+    663,
+    1167
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "son",
    "contando": false,
    "r": [
-    750,
-    986,
-    872,
-    1113
+    680,
+    1054,
+    789,
+    1167
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "de",
    "contando": false,
    "r": [
-    96,
-    1083,
-    178,
-    1210
+    806,
+    1054,
+    879,
+    1167
    ]
   },
   {
-   "t": 22.867,
-   "texto": "sustitución.",
+   "t": 24.3,
+   "texto": "sustitución,",
    "contando": false,
    "r": [
-    197,
-    1083,
-    591,
-    1210
+    96,
+    1141,
+    448,
+    1254
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    465,
+    1141,
+    539,
+    1254
+   ]
+  },
+  {
+   "t": 24.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    556,
+    1141,
+    629,
+    1254
+   ]
+  },
+  {
+   "t": 24.3,
+   "texto": "eliminación",
+   "contando": false,
+   "r": [
+    96,
+    1228,
+    443,
+    1341
+   ]
+  },
+  {
+   "t": 24.3,
+   "texto": "total.",
+   "contando": false,
+   "r": [
+    460,
+    1228,
+    612,
+    1341
+   ]
+  },
+  {
+   "t": 24.3,
    "texto": "No es una recomendación personal.",
    "contando": false,
    "r": [
@@ -2182,7 +2424,7 @@
    ]
   },
   {
-   "t": 22.867,
+   "t": 24.3,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -2193,106 +2435,106 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
     96,
-    777,
-    428,
-    891
+    789,
+    386,
+    880
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "a",
    "contando": false,
    "r": [
-    445,
-    777,
-    481,
-    891
+    401,
+    789,
+    434,
+    880
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "quien",
    "contando": false,
    "r": [
-    499,
-    777,
-    666,
-    891
+    449,
+    789,
+    599,
+    880
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "echa",
    "contando": false,
    "r": [
-    683,
-    777,
-    831,
-    891
+    613,
+    789,
+    746,
+    880
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "aceite",
    "contando": false,
    "r": [
-    96,
-    867,
-    283,
-    981
+    760,
+    789,
+    931,
+    880
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "de",
    "contando": false,
    "r": [
-    301,
-    867,
-    375,
-    981
+    96,
+    879,
+    163,
+    970
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "coco",
    "contando": false,
    "r": [
-    392,
-    867,
-    540,
-    981
+    177,
+    879,
+    310,
+    970
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "al",
    "contando": false,
    "r": [
-    558,
-    867,
-    612,
-    981
+    324,
+    879,
+    374,
+    970
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "café.",
    "contando": false,
    "r": [
-    630,
-    867,
-    777,
-    981
+    388,
+    879,
+    528,
+    970
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "Mañana",
    "contando": false,
    "r": [
@@ -2303,7 +2545,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "en",
    "contando": false,
    "r": [
@@ -2314,7 +2556,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "el",
    "contando": false,
    "r": [
@@ -2325,7 +2567,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "Aula:",
    "contando": false,
    "r": [
@@ -2336,7 +2578,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "con",
    "contando": false,
    "r": [
@@ -2347,7 +2589,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "qué",
    "contando": false,
    "r": [
@@ -2358,7 +2600,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "sustituyes",
    "contando": false,
    "r": [
@@ -2369,7 +2611,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "los",
    "contando": false,
    "r": [
@@ -2380,7 +2622,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "hidratos.",
    "contando": false,
    "r": [
@@ -2391,7 +2633,7 @@
    ]
   },
   {
-   "t": 26.733,
+   "t": 27.8,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -2404,23 +2646,23 @@
  ],
  "comprobar_s": [
   0.0,
-  4.733,
-  6.167,
-  10.233,
-  11.667,
-  16.1,
-  17.5,
-  22.867,
-  26.733
+  5.533,
+  6.967,
+  11.133,
+  12.533,
+  18.2,
+  19.6,
+  24.3,
+  27.8
  ],
  "sonido": {
   "lufs": -16.03,
   "pico_dbtp": -2.05,
   "recortes": 0,
   "reduccion_max_db": 3.88,
-  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "tiempo_reduccion_mas_1db_pct": 0.11,
   "efectos_por_tipo": {
-   "tic": 11,
+   "tic": 12,
    "tac": 3,
    "sello": 3,
    "ding": 2,
@@ -2430,7 +2672,7 @@
    "pop": 1
   },
   "descartados": 0,
-  "duracion_s": 27.312,
+  "duracion_s": 28.379,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -2440,65 +2682,65 @@
    "voz": "7QQzpAyzlKTVrRzQJmTE",
    "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
    "modelo": "eleven_v4",
-   "caracteres": 304,
-   "texto": "Según la AHA, la grasa saturada eleva el ele de ele. ¡Verdadero! El aceite de coco no sube el ele de ele. ¡Falso! La gran investigación del aceite de oliva se retiró. ¡Verdadero! Y salió corregida. La AHA concluye: la saturada y el coco suben el ele de ele. Mándaselo a quien echa aceite de coco al café.",
-   "duracion_voz_s": 26.025,
+   "caracteres": 330,
+   "texto": "Según la Asociación Americana del Corazón, la grasa saturada eleva el ele de ele. ¡Verdadero! El aceite de coco no sube el ele de ele. ¡Falso! La gran investigación del aceite de oliva se retiró y salió corregida. ¡Verdadero! Su conclusión: la saturada y el coco suben el ele de ele. Mándaselo a quien echa aceite de coco al café.",
+   "duracion_voz_s": 27.105,
    "lineas": [
     {
      "id": "a0",
-     "texto": "Según la AHA, la grasa saturada eleva el LDL.",
+     "texto": "Según la Asociación Americana del Corazón, la grasa saturada eleva el LDL.",
      "t0": 0.0213,
-     "t1": 4.1013
+     "t1": 4.9713
     },
     {
      "id": "v0",
      "texto": "¡Verdadero!",
-     "t0": 4.8263,
-     "t1": 5.3063
+     "t0": 5.6263,
+     "t1": 6.1863
     },
     {
      "id": "a1",
      "texto": "El aceite de coco no sube el LDL.",
-     "t0": 7.4063,
-     "t1": 9.6313
+     "t0": 8.2663,
+     "t1": 10.5763
     },
     {
      "id": "v1",
      "texto": "¡Falso!",
-     "t0": 10.3263,
-     "t1": 10.7663
+     "t0": 11.2013,
+     "t1": 11.6413
     },
     {
      "id": "a2",
-     "texto": "La gran investigación del aceite de oliva se retiró.",
-     "t0": 12.9613,
-     "t1": 15.4413
+     "texto": "La gran investigación del aceite de oliva se retiró y salió corregida.",
+     "t0": 13.8613,
+     "t1": 17.6213
     },
     {
      "id": "v2",
-     "texto": "¡Verdadero! Y salió corregida.",
-     "t0": 16.1663,
-     "t1": 17.8263
+     "texto": "¡Verdadero!",
+     "t0": 18.2813,
+     "t1": 18.7613
     },
     {
      "id": "c",
-     "texto": "La AHA concluye: la saturada y el coco suben el LDL.",
-     "t0": 18.8263,
-     "t1": 22.9963
+     "texto": "Su conclusión: la saturada y el coco suben el LDL.",
+     "t0": 20.7313,
+     "t1": 24.2463
     },
     {
      "id": "f",
      "texto": "Mándaselo a quien echa aceite de coco al café.",
-     "t0": 23.5913,
-     "t1": 25.8313
+     "t0": 24.8063,
+     "t1": 26.8863
     }
    ]
   },
   "mezcla": {
    "efectos_db": -7,
    "ducking": 0.5,
-   "lufs_wav": -16.02,
-   "limitador_max_db": 1.81
+   "lufs_wav": -16.01,
+   "limitador_max_db": 2.01
   }
  },
  "efectos": [
@@ -2508,353 +2750,366 @@
    "intensidad": 0.18
   },
   {
-   "t": 1.396,
+   "t": 1.614,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 2.171,
+   "t": 2.606,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 2.946,
+   "t": 3.599,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 3.721,
+   "t": 4.591,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 4.171,
+   "t": 5.041,
    "tipo": "tac",
    "intensidad": 0.6
   },
   {
-   "t": 4.806,
+   "t": 5.606,
    "tipo": "sello",
    "intensidad": 0.7
   },
   {
-   "t": 4.846,
+   "t": 5.646,
    "tipo": "ding",
    "intensidad": 0.5
   },
   {
-   "t": 5.056,
+   "t": 5.856,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.156,
+   "t": 5.956,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.256,
+   "t": 6.056,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.356,
+   "t": 6.156,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.456,
+   "t": 6.256,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.556,
+   "t": 6.356,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 5.656,
+   "t": 6.456,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 7.036,
+   "t": 7.896,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 8.006,
+   "t": 8.866,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 8.629,
+   "t": 9.531,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 9.251,
+   "t": 10.196,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 9.701,
+   "t": 10.646,
    "tipo": "tac",
    "intensidad": 0.6
   },
   {
-   "t": 10.306,
+   "t": 11.181,
    "tipo": "sello",
    "intensidad": 0.7
   },
   {
-   "t": 10.346,
+   "t": 11.221,
    "tipo": "golpe",
    "intensidad": 0.35
   },
   {
-   "t": 10.556,
+   "t": 11.431,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.656,
+   "t": 11.531,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.756,
+   "t": 11.631,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.856,
+   "t": 11.731,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 10.956,
+   "t": 11.831,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 11.056,
+   "t": 11.931,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 11.156,
+   "t": 12.031,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 12.571,
+   "t": 13.481,
    "tipo": "whoosh",
    "intensidad": 0.3
   },
   {
-   "t": 13.561,
+   "t": 14.461,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 14.311,
+   "t": 15.388,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 15.061,
+   "t": 16.314,
    "tipo": "tic",
    "intensidad": 0.18
   },
   {
-   "t": 15.511,
+   "t": 17.241,
+   "tipo": "tic",
+   "intensidad": 0.18
+  },
+  {
+   "t": 17.691,
    "tipo": "tac",
    "intensidad": 0.6
   },
   {
-   "t": 16.146,
+   "t": 18.261,
    "tipo": "sello",
    "intensidad": 0.7
   },
   {
-   "t": 16.186,
+   "t": 18.301,
    "tipo": "ding",
    "intensidad": 0.5
   },
   {
-   "t": 16.396,
+   "t": 18.511,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.496,
+   "t": 18.611,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.596,
+   "t": 18.711,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.696,
+   "t": 18.811,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.796,
+   "t": 18.911,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 16.896,
+   "t": 19.011,
    "tipo": "contador",
    "intensidad": 0.2
   },
   {
-   "t": 18.531,
+   "t": 20.476,
    "tipo": "whoosh",
    "intensidad": 0.42
   },
   {
-   "t": 23.111,
+   "t": 24.336,
    "tipo": "whoosh",
    "intensidad": 0.38
   },
   {
-   "t": 25.931,
+   "t": 26.986,
    "tipo": "pop",
    "intensidad": 0.26
   }
  ],
- "fotogramas": 820,
- "tiempo_render_s": 112.6,
+ "fotogramas": 852,
+ "tiempo_render_s": 57.3,
  "tiempos_s": {
-  "preparar": 2.6,
-  "dibujar_y_codificar": 90.25
+  "preparar": 1.11,
+  "dibujar_y_codificar": 51.41
  },
  "voz_de_prueba": false,
  "linea_de_tiempo": {
-  "dur": 27.3333,
-  "loop": 26.8333,
+  "dur": 28.4,
+  "loop": 27.9,
   "conc": {
-   "t_in": 18.531,
+   "t_in": 20.476,
    "palabras": [
-    19.481,
-    19.481,
-    19.481,
-    19.5213,
-    19.6371,
-    20.1005,
-    20.3901,
-    20.5059,
-    20.6796,
-    20.7376,
-    20.8534,
-    21.0851,
-    21.5484,
-    21.7221,
-    22.0117,
-    22.1855,
-    22.3013
+    21.426,
+    21.426,
+    21.426,
+    21.426,
+    21.4402,
+    21.647,
+    21.8537,
+    21.9128,
+    22.1491,
+    22.2968,
+    22.3559,
+    22.4445,
+    22.474,
+    22.5331,
+    22.6513,
+    22.8876,
+    22.9762,
+    23.1239,
+    23.2125,
+    23.2716,
+    23.626,
+    23.6851,
+    23.7442,
+    24.0691
    ],
    "palabras_g": [
-    18.981,
-    18.981,
-    18.981,
-    18.981,
-    18.981
+    20.926,
+    20.926,
+    20.926,
+    20.926,
+    20.926
    ],
-   "t_sal": 19.331,
-   "t_frase": 22.851
+   "t_sal": 21.276,
+   "t_frase": 24.619
   },
   "fin": {
-   "t_in": 23.111,
+   "t_in": 24.336,
    "palabras": [
-    23.5913,
-    24.1113,
-    24.2313,
-    24.5113,
-    24.7513,
-    25.0713,
-    25.1913,
-    25.4313,
-    25.5913
+    24.8063,
+    25.3263,
+    25.4063,
+    25.6063,
+    25.8863,
+    26.2063,
+    26.3263,
+    26.5263,
+    26.6463
    ],
    "palabras_an": [
-    25.931,
-    25.931,
-    25.931,
-    25.931,
-    25.931,
-    25.931,
-    25.931,
-    25.931,
-    25.931
+    26.986,
+    26.986,
+    26.986,
+    26.986,
+    26.986,
+    26.986,
+    26.986,
+    26.986,
+    26.986
    ],
-   "t_an": 25.931
+   "t_an": 26.986
   },
   "iconos": [
    [
     -1.0,
-    6.986
+    7.846000000000001
    ],
    [
-    6.986,
-    12.520999999999999
+    7.846000000000001,
+    13.431
    ],
    [
-    12.520999999999999,
-    18.531
+    13.431,
+    20.476
    ],
    [
-    18.531,
+    20.476,
     1000000000.0
    ]
   ],
-  "fin_voz": 25.831,
+  "fin_voz": 26.886,
   "avisos": [
-   "el Reel dura 27.3333 s (con la voz simulada de prueba sale 1-2 s más largo que con Dani)"
+   "el Reel dura 28.4 s (con la voz simulada de prueba sale 1-2 s más largo que con Dani)"
   ],
   "rondas": [
    {
     "t_in": 0.0,
     "t0": 0.021,
-    "buzz": 4.171,
-    "tv": 4.806,
+    "buzz": 5.041,
+    "tv": 5.606,
     "pasos": [
      0.621,
-     1.396,
-     2.171,
-     2.946,
-     3.721
+     1.614,
+     2.606,
+     3.599,
+     4.591
     ],
-    "t_out": 6.986
+    "t_out": 7.846
    },
    {
-    "t_in": 7.286,
-    "t0": 7.406,
-    "buzz": 9.701,
-    "tv": 10.306,
+    "t_in": 8.146,
+    "t0": 8.266,
+    "buzz": 10.646,
+    "tv": 11.181,
     "pasos": [
-     8.006,
-     8.629,
-     9.251
+     8.866,
+     9.531,
+     10.196
     ],
-    "t_out": 12.521
+    "t_out": 13.431
    },
    {
-    "t_in": 12.821,
-    "t0": 12.961,
-    "buzz": 15.511,
-    "tv": 16.146,
+    "t_in": 13.731,
+    "t0": 13.861,
+    "buzz": 17.691,
+    "tv": 18.261,
     "pasos": [
-     13.561,
-     14.311,
-     15.061
+     14.461,
+     15.388,
+     16.314,
+     17.241
     ],
-    "t_out": 19.031
+    "t_out": 20.976
    }
   ]
  },
@@ -2864,67 +3119,67 @@
    "que": "fotograma 0: gancho y afirmación I"
   },
   {
-   "t": 4.0667,
+   "t": 4.9333,
    "que": "I: luz baja, reloj"
   },
   {
-   "t": 5.0,
+   "t": 5.8,
    "que": "I: veredicto"
   },
   {
-   "t": 6.1667,
+   "t": 6.9667,
    "que": "I: la cifra"
   },
   {
-   "t": 7.8667,
+   "t": 8.7,
    "que": "afirmación II: barrido"
   },
   {
-   "t": 9.6,
+   "t": 10.5333,
    "que": "II: luz baja, reloj"
   },
   {
-   "t": 10.5,
+   "t": 11.3667,
    "que": "II: veredicto"
   },
   {
-   "t": 11.6667,
+   "t": 12.5333,
    "que": "II: la cifra"
   },
   {
-   "t": 13.4,
+   "t": 14.3,
    "que": "afirmación III: barrido"
   },
   {
-   "t": 15.4,
+   "t": 17.6,
    "que": "III: luz baja, reloj"
   },
   {
-   "t": 16.3333,
+   "t": 18.4667,
    "que": "III: veredicto"
   },
   {
-   "t": 17.5,
+   "t": 19.6,
    "que": "III: la cifra"
   },
   {
-   "t": 19.0333,
+   "t": 20.9667,
    "que": "conclusión: entra"
   },
   {
-   "t": 22.8667,
+   "t": 24.3,
    "que": "conclusión: declaración"
   },
   {
-   "t": 23.6,
+   "t": 24.8333,
    "que": "cierre: cortina"
   },
   {
-   "t": 26.7333,
+   "t": 27.8,
    "que": "cierre"
   },
   {
-   "t": 27.3,
+   "t": 28.3667,
    "que": "bucle al fotograma 0"
   }
  ]
