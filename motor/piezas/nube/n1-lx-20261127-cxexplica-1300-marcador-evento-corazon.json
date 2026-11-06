@@ -1,0 +1,118 @@
+{
+  "id": "n1-lx-20261127-cxexplica-1300-marcador-evento-corazon",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxexplica",
+  "pilar": "ensenar",
+  "hechos": [
+    "LC-003",
+    "ENF-001",
+    "MIT-021"
+  ],
+  "titulo": "[CXEXPLICA] Una analítica no cuenta infartos. Hay algo que sí",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "La clave del día",
+      "titulo": "Una analítica no cuenta {infartos}. Hay algo que sí",
+      "dice": [
+        "¡OJO!"
+      ],
+      "sigue": [
+        "Menú del día"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "La analítica solo avisa",
+      "dice": [
+        "¡OJO!"
+      ],
+      "sigue": [
+        "De primero"
+      ],
+      "voz": "Uno: la analítica solo avisa."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "Ahí van a la par",
+      "dice": [
+        "¡EH!"
+      ],
+      "sigue": [
+        "De segundo"
+      ],
+      "voz": "Dos: ahí, baja en hidratos y equilibrada, a la par."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "Lo de verdad: infarto, ictus",
+      "dice": [
+        "¡OJO!"
+      ],
+      "sigue": [
+        "De postre"
+      ],
+      "voz": "Tres: lo de verdad, infartos e ictus. En alto riesgo, con mediterránea y aceite de oliva, hubo menos."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "¿Y la keto?",
+      "resalte": "El dato que importa",
+      "frase": "Aún no hay experimentos que cuenten infartos con la keto. Con la mediterránea, sí, aunque con fallos al repartir los grupos.",
+      "fuente": "La fuente va en el primer comentario. No es una recomendación personal.",
+      "voz": "¿Y la keto? Aún no se ha medido así."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien habla de dietas como de fútbol.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana a la una: dónde tiene la keto sus pruebas más sólidas."
+    }
+  ],
+  "pie_instagram": "Una analítica no cuenta infartos. Hay algo que sí\n\nI · La analítica solo avisa: la tensión o el colesterol avisan de riesgo; no son un infarto.\nII · Ahí van a la par: baja en hidratos o equilibrada, con las mismas calorías: cambios parecidos.\nIII · Lo de verdad: infarto, ictus: en alto riesgo, la mediterránea con aceite de oliva tuvo menos.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nEl dato que importa: aún no hay experimentos que cuenten infartos con la keto. Con la mediterránea, sí, aunque con fallos al repartir los grupos.\n\n¿Qué paso no conocías?\nMándaselo a quien habla de dietas como de fútbol.\nMañana a la una: dónde tiene la keto sus pruebas más sólidas.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#dietamediterranea #keto #nutricion #corazon",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva, como el menú del día en una pizarra de bar, con Oli de camarero y comensales asomados a la barra; subtítulos grandes de la voz palabra a palabra. Portada: una naranja con cara se sorprende bajo el titular «Una analítica no cuenta infartos. Hay algo que sí», con una gota de aceite, un brócoli y un tomate alrededor. La clave del día. I. La analítica solo avisa. Un salero reacciona y los demás muñecos también. II. Ahí van a la par. Un terrón de azúcar reacciona y los demás muñecos también. III. Lo de verdad: infarto, ictus. Una gota de aceite reacciona y los demás muñecos también. ¿Y la keto? El dato que importa: aún no hay experimentos que cuenten infartos con la keto. Con la mediterránea, sí, aunque con fallos al repartir los grupos. Un salero levanta el pulgar. Cierre: Oli saluda y dice «Mándaselo a quien habla de dietas como de fútbol». Una ráfaga dice «¡Continuará!». Mañana a la una: dónde tiene la keto sus pruebas más sólidas."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-27",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica_comic",
+    "formato": "CXEXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica_comic (Vivax Cómic: formato «pizarra», menú del día en la pizarra con camarero y comensales (BI); piel de dibujos de la familia reel_explica) · spec n1-lux-20261127-1300-marcador-evento-corazon",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica_comic",
+    "familia": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "b",
+    "formato_visual": "pizarra",
+    "formato_visual_nombre": "menú del día en la pizarra con camarero y comensales (BI)",
+    "spec_id": "n1-lux-20261127-1300-marcador-evento-corazon",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261127-1300-marcador-evento-corazon",
+    "plantilla_visual": "reel_explica_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "LC-003: Naude CE et al. PLoS One 2014;9(7):e100652 (19 ECA con 3.209 adultos, hasta 2 años; los desenlaces cardiovasculares medidos son factores de riesgo, no eventos clínicos). ENF-001: Estruch R et al. NEJM 2018, versión corregida de PREDIMED (prevención primaria en personas de alto riesgo; cociente de riesgo de 0,69 con aceite de oliva y de 0,72 con frutos secos; la versión de 2013 se retiró por fallos de aleatorización). MIT-021: no hay ECA con eventos cardiovasculares para la dieta cetogénica; la mediterránea con aceite de oliva o frutos secos redujo eventos en prevención primaria, con los problemas de aleatorización que se señalan en esa misma publicación. LC-003 compara dietas con la misma energía. En pantalla, «infartos e ictus» resume los eventos cardiovasculares que contó PREDIMED (infarto, ictus o muerte cardiovascular) y «el reparto de grupos tuvo fallos», los problemas de aleatorización. Banco consultado el 5-nov-2026. Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

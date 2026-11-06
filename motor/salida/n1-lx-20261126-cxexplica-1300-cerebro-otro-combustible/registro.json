@@ -1,0 +1,2633 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 24.28,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 10.0,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.3,
+ "n_cambios_visuales": 610,
+ "bucle_dif_ultimo_primero": 41.87,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Tu",
+   "contando": false,
+   "r": [
+    114,
+    316,
+    228,
+    496
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cerebro",
+   "contando": false,
+   "r": [
+    255,
+    304,
+    663,
+    493
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    117,
+    428,
+    368,
+    612
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    395,
+    424,
+    521,
+    605
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "plan",
+   "contando": false,
+   "r": [
+    548,
+    417,
+    785,
+    601
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "B:",
+   "contando": false,
+   "r": [
+    812,
+    413,
+    909,
+    594
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cuál",
+   "contando": false,
+   "r": [
+    120,
+    560,
+    355,
+    744
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    382,
+    557,
+    442,
+    737
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cuándo",
+   "contando": false,
+   "r": [
+    473,
+    546,
+    878,
+    723
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    750,
+    857,
+    940,
+    1012
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "El otro combustible",
+   "contando": false,
+   "r": [
+    238,
+    315,
+    774,
+    568
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    349,
+    181,
+    434
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "Te",
+   "contando": false,
+   "r": [
+    142,
+    1333,
+    217,
+    1425
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "digo",
+   "contando": false,
+   "r": [
+    240,
+    1333,
+    373,
+    1425
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "cuál",
+   "contando": false,
+   "r": [
+    397,
+    1333,
+    548,
+    1425
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    571,
+    1333,
+    611,
+    1425
+   ]
+  },
+  {
+   "t": 3.7,
+   "texto": "cuándo.",
+   "contando": false,
+   "r": [
+    635,
+    1333,
+    888,
+    1425
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "El otro combustible",
+   "contando": false,
+   "r": [
+    237,
+    315,
+    773,
+    567
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    347,
+    180,
+    433
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    707,
+    710,
+    863,
+    859
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    153,
+    1298,
+    256,
+    1384
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    279,
+    1298,
+    528,
+    1384
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "también",
+   "contando": false,
+   "r": [
+    550,
+    1298,
+    787,
+    1384
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    809,
+    1298,
+    877,
+    1384
+   ]
+  },
+  {
+   "t": 5.167,
+   "texto": "alimentan.",
+   "contando": false,
+   "r": [
+    349,
+    1374,
+    681,
+    1461
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "El otro combustible",
+   "contando": false,
+   "r": [
+    237,
+    315,
+    773,
+    567
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    347,
+    180,
+    433
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    707,
+    710,
+    863,
+    859
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    153,
+    1298,
+    256,
+    1384
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    279,
+    1298,
+    528,
+    1384
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "también",
+   "contando": false,
+   "r": [
+    550,
+    1298,
+    787,
+    1384
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    809,
+    1298,
+    877,
+    1384
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "alimentan.",
+   "contando": false,
+   "r": [
+    350,
+    1375,
+    680,
+    1461
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "Cuándo entran en juego",
+   "contando": false,
+   "r": [
+    237,
+    310,
+    863,
+    565
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    157,
+    344,
+    185,
+    431
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    144,
+    1334,
+    218,
+    1424
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "ayuno",
+   "contando": false,
+   "r": [
+    241,
+    1334,
+    430,
+    1424
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "prolongado",
+   "contando": false,
+   "r": [
+    453,
+    1334,
+    826,
+    1424
+   ]
+  },
+  {
+   "t": 7.1,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    851,
+    1339,
+    885,
+    1420
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "Cuándo entran en juego",
+   "contando": false,
+   "r": [
+    237,
+    308,
+    864,
+    567
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    158,
+    347,
+    187,
+    434
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "¡EH!",
+   "contando": false,
+   "r": [
+    222,
+    717,
+    368,
+    852
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    293,
+    1298,
+    403,
+    1384
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "muy",
+   "contando": false,
+   "r": [
+    425,
+    1298,
+    539,
+    1384
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "pocos",
+   "contando": false,
+   "r": [
+    561,
+    1298,
+    737,
+    1384
+   ]
+  },
+  {
+   "t": 8.1,
+   "texto": "hidratos.",
+   "contando": false,
+   "r": [
+    369,
+    1373,
+    661,
+    1462
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "Cuándo entran en juego",
+   "contando": false,
+   "r": [
+    237,
+    308,
+    864,
+    567
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    157,
+    346,
+    186,
+    434
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "¡EH!",
+   "contando": false,
+   "r": [
+    222,
+    717,
+    368,
+    852
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    293,
+    1298,
+    403,
+    1384
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "muy",
+   "contando": false,
+   "r": [
+    425,
+    1298,
+    539,
+    1384
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "pocos",
+   "contando": false,
+   "r": [
+    561,
+    1298,
+    737,
+    1384
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "hidratos.",
+   "contando": false,
+   "r": [
+    373,
+    1375,
+    657,
+    1461
+   ]
+  },
+  {
+   "t": 9.667,
+   "texto": "Cuánto cubren",
+   "contando": false,
+   "r": [
+    238,
+    302,
+    911,
+    481
+   ]
+  },
+  {
+   "t": 9.667,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    152,
+    348,
+    194,
+    437
+   ]
+  },
+  {
+   "t": 9.667,
+   "texto": "Cubren",
+   "contando": false,
+   "r": [
+    211,
+    1331,
+    448,
+    1427
+   ]
+  },
+  {
+   "t": 9.667,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    473,
+    1331,
+    598,
+    1427
+   ]
+  },
+  {
+   "t": 9.667,
+   "texto": "parte",
+   "contando": false,
+   "r": [
+    623,
+    1331,
+    819,
+    1427
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "Cuánto cubren",
+   "contando": false,
+   "r": [
+    237,
+    305,
+    909,
+    479
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    151,
+    345,
+    192,
+    434
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    707,
+    709,
+    863,
+    860
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "grande",
+   "contando": false,
+   "r": [
+    146,
+    1332,
+    384,
+    1427
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    409,
+    1332,
+    484,
+    1427
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    508,
+    1332,
+    584,
+    1427
+   ]
+  },
+  {
+   "t": 10.633,
+   "texto": "energía.",
+   "contando": false,
+   "r": [
+    609,
+    1332,
+    884,
+    1427
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "Cuánto cubren",
+   "contando": false,
+   "r": [
+    237,
+    304,
+    909,
+    479
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    151,
+    345,
+    193,
+    435
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    707,
+    709,
+    863,
+    860
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "grande",
+   "contando": false,
+   "r": [
+    146,
+    1332,
+    384,
+    1427
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    409,
+    1332,
+    484,
+    1427
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    508,
+    1332,
+    584,
+    1427
+   ]
+  },
+  {
+   "t": 11.0,
+   "texto": "energía.",
+   "contando": false,
+   "r": [
+    609,
+    1332,
+    884,
+    1427
+   ]
+  },
+  {
+   "t": 12.7,
+   "texto": "Quién no puede cambiar",
+   "contando": false,
+   "r": [
+    237,
+    307,
+    858,
+    568
+   ]
+  },
+  {
+   "t": 12.7,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    156,
+    356,
+    189,
+    426
+   ]
+  },
+  {
+   "t": 12.7,
+   "texto": "Pero",
+   "contando": false,
+   "r": [
+    234,
+    1298,
+    373,
+    1384
+   ]
+  },
+  {
+   "t": 12.7,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    396,
+    1298,
+    498,
+    1384
+   ]
+  },
+  {
+   "t": 12.7,
+   "texto": "glóbulos",
+   "contando": false,
+   "r": [
+    520,
+    1298,
+    796,
+    1384
+   ]
+  },
+  {
+   "t": 12.7,
+   "texto": "rojos",
+   "contando": false,
+   "r": [
+    427,
+    1375,
+    603,
+    1461
+   ]
+  },
+  {
+   "t": 13.833,
+   "texto": "Quién no puede cambiar",
+   "contando": false,
+   "r": [
+    237,
+    308,
+    858,
+    567
+   ]
+  },
+  {
+   "t": 13.833,
+   "texto": "IV",
+   "contando": false,
+   "r": [
+    156,
+    355,
+    189,
+    425
+   ]
+  },
+  {
+   "t": 13.833,
+   "texto": "¡CLIC!",
+   "contando": false,
+   "r": [
+    196,
+    713,
+    394,
+    856
+   ]
+  },
+  {
+   "t": 13.833,
+   "texto": "dependen",
+   "contando": false,
+   "r": [
+    148,
+    1331,
+    462,
+    1427
+   ]
+  },
+  {
+   "t": 13.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    486,
+    1331,
+    562,
+    1427
+   ]
+  },
+  {
+   "t": 13.833,
+   "texto": "glucosa.",
+   "contando": false,
+   "r": [
+    587,
+    1331,
+    882,
+    1427
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "La respuesta corta, por fin",
+   "contando": false,
+   "r": [
+    122,
+    288,
+    901,
+    404
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    370,
+    590,
+    440,
+    653
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    449,
+    592,
+    604,
+    656
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    614,
+    595,
+    684,
+    658
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "combustible",
+   "contando": false,
+   "r": [
+    369,
+    645,
+    606,
+    711
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "cerebral",
+   "contando": false,
+   "r": [
+    612,
+    645,
+    782,
+    712
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "reconocido;",
+   "contando": false,
+   "r": [
+    404,
+    742,
+    560,
+    787
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    890,
+    801,
+    953
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "Dato",
+   "contando": false,
+   "r": [
+    322,
+    1331,
+    478,
+    1427
+   ]
+  },
+  {
+   "t": 15.167,
+   "texto": "final:",
+   "contando": false,
+   "r": [
+    503,
+    1331,
+    708,
+    1427
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "La respuesta corta, por fin",
+   "contando": false,
+   "r": [
+    122,
+    288,
+    901,
+    404
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    370,
+    590,
+    440,
+    653
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    449,
+    592,
+    604,
+    656
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    614,
+    595,
+    684,
+    658
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "combustible",
+   "contando": false,
+   "r": [
+    369,
+    645,
+    606,
+    711
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "cerebral",
+   "contando": false,
+   "r": [
+    615,
+    650,
+    778,
+    715
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "reconocido;",
+   "contando": false,
+   "r": [
+    368,
+    700,
+    597,
+    766
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "algunas",
+   "contando": false,
+   "r": [
+    606,
+    705,
+    759,
+    770
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "células,",
+   "contando": false,
+   "r": [
+    768,
+    709,
+    919,
+    773
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    367,
+    755,
+    473,
+    819
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    482,
+    758,
+    541,
+    820
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "glóbulos",
+   "contando": false,
+   "r": [
+    550,
+    759,
+    713,
+    824
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "rojos,",
+   "contando": false,
+   "r": [
+    722,
+    763,
+    833,
+    826
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "sí",
+   "contando": false,
+   "r": [
+    842,
+    765,
+    876,
+    827
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "dependen",
+   "contando": false,
+   "r": [
+    366,
+    811,
+    554,
+    875
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    563,
+    815,
+    611,
+    877
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "glucosa.",
+   "contando": false,
+   "r": [
+    620,
+    816,
+    784,
+    880
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    890,
+    801,
+    953
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    262,
+    1298,
+    366,
+    1384
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    388,
+    1298,
+    637,
+    1384
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    659,
+    1298,
+    768,
+    1384
+   ]
+  },
+  {
+   "t": 16.7,
+   "texto": "combustible",
+   "contando": false,
+   "r": [
+    329,
+    1375,
+    701,
+    1461
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "La respuesta corta, por fin",
+   "contando": false,
+   "r": [
+    122,
+    288,
+    901,
+    404
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    370,
+    590,
+    440,
+    653
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    449,
+    592,
+    604,
+    656
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    614,
+    595,
+    684,
+    658
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "combustible",
+   "contando": false,
+   "r": [
+    369,
+    645,
+    606,
+    711
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "cerebral",
+   "contando": false,
+   "r": [
+    615,
+    650,
+    778,
+    715
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "reconocido;",
+   "contando": false,
+   "r": [
+    368,
+    700,
+    597,
+    766
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "algunas",
+   "contando": false,
+   "r": [
+    606,
+    705,
+    759,
+    770
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "células,",
+   "contando": false,
+   "r": [
+    768,
+    709,
+    919,
+    773
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    367,
+    755,
+    473,
+    819
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    482,
+    758,
+    541,
+    820
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "glóbulos",
+   "contando": false,
+   "r": [
+    550,
+    759,
+    713,
+    824
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "rojos,",
+   "contando": false,
+   "r": [
+    722,
+    763,
+    833,
+    826
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "sí",
+   "contando": false,
+   "r": [
+    842,
+    765,
+    876,
+    827
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "dependen",
+   "contando": false,
+   "r": [
+    366,
+    811,
+    554,
+    875
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    563,
+    815,
+    611,
+    877
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "glucosa.",
+   "contando": false,
+   "r": [
+    620,
+    816,
+    784,
+    880
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    890,
+    801,
+    953
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "El dato que importa",
+   "contando": false,
+   "r": [
+    368,
+    476,
+    659,
+    544
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "cerebral",
+   "contando": false,
+   "r": [
+    149,
+    1331,
+    460,
+    1427
+   ]
+  },
+  {
+   "t": 18.133,
+   "texto": "reconocido.",
+   "contando": false,
+   "r": [
+    485,
+    1331,
+    881,
+    1427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "La respuesta corta, por fin",
+   "contando": false,
+   "r": [
+    122,
+    288,
+    901,
+    404
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    370,
+    590,
+    440,
+    653
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "cetonas",
+   "contando": false,
+   "r": [
+    449,
+    592,
+    604,
+    656
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "son",
+   "contando": false,
+   "r": [
+    614,
+    595,
+    684,
+    658
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "combustible",
+   "contando": false,
+   "r": [
+    369,
+    645,
+    606,
+    711
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "cerebral",
+   "contando": false,
+   "r": [
+    615,
+    650,
+    778,
+    715
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "reconocido;",
+   "contando": false,
+   "r": [
+    368,
+    700,
+    597,
+    766
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "algunas",
+   "contando": false,
+   "r": [
+    606,
+    705,
+    759,
+    770
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "células,",
+   "contando": false,
+   "r": [
+    768,
+    709,
+    919,
+    773
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    367,
+    755,
+    473,
+    819
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    482,
+    758,
+    541,
+    820
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "glóbulos",
+   "contando": false,
+   "r": [
+    550,
+    759,
+    713,
+    824
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "rojos,",
+   "contando": false,
+   "r": [
+    722,
+    763,
+    833,
+    826
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "sí",
+   "contando": false,
+   "r": [
+    842,
+    765,
+    876,
+    827
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "dependen",
+   "contando": false,
+   "r": [
+    366,
+    811,
+    554,
+    875
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    563,
+    815,
+    611,
+    877
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "glucosa.",
+   "contando": false,
+   "r": [
+    620,
+    816,
+    784,
+    880
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "La fuente va en el primer comentario. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    890,
+    801,
+    953
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "El dato que importa",
+   "contando": false,
+   "r": [
+    368,
+    476,
+    659,
+    544
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "cerebral",
+   "contando": false,
+   "r": [
+    149,
+    1331,
+    460,
+    1427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "reconocido.",
+   "contando": false,
+   "r": [
+    485,
+    1331,
+    881,
+    1427
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    212,
+    1001,
+    465,
+    1069
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    477,
+    1001,
+    507,
+    1069
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    155,
+    1060,
+    280,
+    1128
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "dice",
+   "contando": false,
+   "r": [
+    293,
+    1060,
+    388,
+    1128
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    400,
+    1060,
+    481,
+    1128
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    493,
+    1060,
+    564,
+    1128
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    191,
+    1120,
+    277,
+    1188
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    289,
+    1120,
+    347,
+    1188
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "piensa.",
+   "contando": false,
+   "r": [
+    359,
+    1120,
+    528,
+    1188
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    323,
+    844,
+    566
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    186,
+    679,
+    334,
+    739
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    341,
+    677,
+    367,
+    733
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    374,
+    676,
+    421,
+    732
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "una:",
+   "contando": false,
+   "r": [
+    428,
+    672,
+    514,
+    730
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    522,
+    670,
+    568,
+    727
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "diferencia",
+   "contando": false,
+   "r": [
+    191,
+    726,
+    391,
+    788
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "entre",
+   "contando": false,
+   "r": [
+    398,
+    722,
+    511,
+    781
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    518,
+    720,
+    567,
+    777
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "marcador",
+   "contando": false,
+   "r": [
+    162,
+    778,
+    347,
+    839
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    355,
+    776,
+    380,
+    832
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    387,
+    774,
+    436,
+    831
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "infarto.",
+   "contando": false,
+   "r": [
+    443,
+    769,
+    600,
+    829
+   ]
+  },
+  {
+   "t": 24.2,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    84,
+    1454,
+    227,
+    1485
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.7,
+  5.167,
+  5.533,
+  7.1,
+  8.1,
+  8.467,
+  9.667,
+  10.633,
+  11.0,
+  12.7,
+  13.833,
+  15.167,
+  16.7,
+  18.133,
+  18.2,
+  24.2
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.79,
+  "tiempo_reduccion_mas_1db_pct": 0.03,
+  "efectos_por_tipo": {
+   "pum": 6,
+   "pop": 18,
+   "whoosh": 12,
+   "plop": 18,
+   "zas": 5,
+   "ding": 5,
+   "boing": 8,
+   "sello": 1,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 24.212,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 321,
+   "texto": "Tu cerebro tiene un plan B. Te digo cuál y cuándo. Las cetonas también lo alimentan. En ayuno prolongado o con muy pocos hidratos. Cubren una parte grande de su energía. Pero los glóbulos rojos dependen de glucosa. Dato final: las cetonas son combustible cerebral reconocido. Mándaselo a quien dice que sin pan no piensa.",
+   "cortes": 8,
+   "silencios_s": 2.86,
+   "pausas_acortadas_s": 1.75,
+   "duracion_voz_s": 21.36
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 2.08
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 1.43,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 1.59,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 1.88,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 1.88,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.03,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.13,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 2.23,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 2.25,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 2.37,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 3.81,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 3.89,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.91,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 4.23,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.3,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.65,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.8,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.9,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 6.0,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.02,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 6.14,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 7.22,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 7.3,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.32,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 7.64,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.23,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.58,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.73,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.83,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 8.93,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.95,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 9.07,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 9.777,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 9.857,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.877,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 10.197,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.75,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.1,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.25,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.35,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 11.45,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.47,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 11.59,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 12.817,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 12.897,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.917,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 13.237,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 13.587,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 13.887,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 14.067,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 14.447,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.547,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.607,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 14.647,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.837,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 17.737,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.837,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 17.957,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 18.297,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.597,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.897,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 19.097,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 19.157,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 19.257,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 19.357,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 21.137,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.437,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 21.537,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 21.657,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 21.757,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.857,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 21.897,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.007,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 23.552,
+   "tipo": "boing",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 727,
+ "tiempo_render_s": 105.7,
+ "tiempos_s": {
+  "preparar": 2.96,
+  "dibujar_y_codificar": 96.9
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica_comic",
+ "familia": "reel_explica",
+ "variante": "a",
+ "formato_visual": "teatrillo",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  1.5333,
+  2.5667,
+  4.3,
+  6.3333,
+  7.7333,
+  9.2667,
+  10.2667,
+  11.8,
+  13.3333,
+  18.1,
+  20.2,
+  21.7333,
+  24.2
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "el gancho salta",
+  "I · entra",
+  "I · reacciona",
+  "II · entra",
+  "II · reacciona",
+  "III · entra",
+  "III · reacciona",
+  "IV · entra",
+  "IV · reacciona",
+  "conclusión escrita",
+  "cierre: Oli",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto_personajes": [
+  "gota",
+  "oli",
+  "terron",
+  "pan",
+  "terron",
+  "gota",
+  "oli"
+ ],
+ "multitudes": [
+  [
+   "terron",
+   "etiqueta",
+   "oli"
+  ],
+  [
+   "gota",
+   "terron",
+   "lenteja"
+  ],
+  [
+   "gota",
+   "fruta",
+   "nuez"
+  ],
+  [
+   "gota",
+   "terron",
+   "pescado"
+  ],
+  [
+   "gota",
+   "tomate",
+   "zanahoria"
+  ],
+  [
+   "terron",
+   "pan",
+   "kiwi"
+  ],
+  [
+   "gota",
+   "salero",
+   "etiqueta"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 24.2333,
+  "n": 4,
+  "pasos": [
+   {
+    "t_in": 1.83,
+    "t_out": 5.6,
+    "voz": 2.25,
+    "t_r": 3.81
+   },
+   {
+    "t_in": 5.6,
+    "t_out": 8.53,
+    "voz": 6.02,
+    "t_r": 7.22
+   },
+   {
+    "t_in": 8.53,
+    "t_out": 11.05,
+    "voz": 8.95,
+    "t_r": 9.777
+   },
+   {
+    "t_in": 11.05,
+    "t_out": 13.887,
+    "voz": 11.47,
+    "t_r": 12.817
+   }
+  ],
+  "c_in": 13.887,
+  "f_in": 18.597,
+  "fin_voz": 21.357,
+  "t_ono": 21.437,
+  "t_anz": 21.757,
+  "tl_lux": {
+   "dur": 22.9667,
+   "loop": 22.4667
+  },
+  "gancho_cifra": false
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-002",
+  "controles: [salud] menciona «infarto» en alt, hoja 7, pie: solo vale como límite o riesgo, nunca como promesa",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «uál y cuándo  ¡HALA!  La clave del día  El otro combust»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #cetonas #cerebro #nutricion #lowcarb»"
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Tu cerebro tiene un plan B.",
+   "t": 0.021,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Te digo cuál y cuándo. Las cetonas también lo alimentan.",
+   "t": 2.25,
+   "puntos": 1.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "En ayuno prolongado o con muy pocos hidratos.",
+   "t": 6.02,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Cubren una parte grande de su energía.",
+   "t": 8.95,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso IV",
+   "voz": "Pero los glóbulos rojos dependen de glucosa.",
+   "t": 11.47,
+   "puntos": 4.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "Dato final: las cetonas son combustible cerebral reconocido.",
+   "t": 14.437,
+   "puntos": 9.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien dice que sin pan no piensa.",
+   "t": 19.017,
+   "puntos": 10.0
+  }
+ ]
+}

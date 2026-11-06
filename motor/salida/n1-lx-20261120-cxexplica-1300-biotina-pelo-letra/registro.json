@@ -1,0 +1,2433 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 23.31,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.73,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.333,
+ "n_cambios_visuales": 591,
+ "bucle_dif_ultimo_primero": 44.96,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Biotina",
+   "contando": false,
+   "r": [
+    119,
+    323,
+    550,
+    509
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    582,
+    316,
+    838,
+    509
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    118,
+    458,
+    230,
+    648
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pelo:",
+   "contando": false,
+   "r": [
+    258,
+    450,
+    531,
+    644
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    559,
+    444,
+    746,
+    636
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hay",
+   "contando": false,
+   "r": [
+    121,
+    577,
+    311,
+    769
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    339,
+    573,
+    464,
+    763
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cierto",
+   "contando": false,
+   "r": [
+    491,
+    564,
+    825,
+    759
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    750,
+    857,
+    940,
+    1012
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "Revisión de calidad limitada",
+   "contando": false,
+   "r": [
+    236,
+    315,
+    903,
+    549
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    163,
+    345,
+    179,
+    430
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "Revisión",
+   "contando": false,
+   "r": [
+    209,
+    1331,
+    488,
+    1427
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "limitada:",
+   "contando": false,
+   "r": [
+    513,
+    1331,
+    821,
+    1427
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "Revisión de calidad limitada",
+   "contando": false,
+   "r": [
+    237,
+    314,
+    906,
+    551
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    348,
+    180,
+    433
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    277,
+    714,
+    374,
+    876
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "casos",
+   "contando": false,
+   "r": [
+    304,
+    878,
+    365,
+    913
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    211,
+    540,
+    499,
+    709
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "dieciocho",
+   "contando": false,
+   "r": [
+    240,
+    1331,
+    552,
+    1427
+   ]
+  },
+  {
+   "t": 4.6,
+   "texto": "casos,",
+   "contando": false,
+   "r": [
+    577,
+    1331,
+    790,
+    1427
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "Revisión de calidad limitada",
+   "contando": false,
+   "r": [
+    237,
+    314,
+    905,
+    551
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    347,
+    180,
+    433
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    279,
+    714,
+    375,
+    876
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "casos",
+   "contando": false,
+   "r": [
+    305,
+    879,
+    366,
+    913
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    211,
+    540,
+    499,
+    709
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "todos",
+   "contando": false,
+   "r": [
+    155,
+    1298,
+    332,
+    1384
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    354,
+    1298,
+    463,
+    1384
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "patología",
+   "contando": false,
+   "r": [
+    486,
+    1298,
+    784,
+    1384
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    807,
+    1298,
+    875,
+    1384
+   ]
+  },
+  {
+   "t": 6.167,
+   "texto": "fondo.",
+   "contando": false,
+   "r": [
+    417,
+    1375,
+    613,
+    1461
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "Revisión de calidad limitada",
+   "contando": false,
+   "r": [
+    237,
+    314,
+    905,
+    551
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    347,
+    180,
+    433
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    279,
+    714,
+    375,
+    876
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "casos",
+   "contando": false,
+   "r": [
+    305,
+    879,
+    366,
+    913
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    211,
+    540,
+    499,
+    709
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    256,
+    1298,
+    328,
+    1384
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "sanos,",
+   "contando": false,
+   "r": [
+    350,
+    1298,
+    549,
+    1384
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "faltan",
+   "contando": false,
+   "r": [
+    571,
+    1298,
+    774,
+    1384
+   ]
+  },
+  {
+   "t": 7.367,
+   "texto": "pruebas.",
+   "contando": false,
+   "r": [
+    381,
+    1374,
+    649,
+    1461
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "Revisión de calidad limitada",
+   "contando": false,
+   "r": [
+    237,
+    314,
+    905,
+    551
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    164,
+    347,
+    180,
+    433
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "18",
+   "contando": false,
+   "r": [
+    279,
+    714,
+    375,
+    876
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "casos",
+   "contando": false,
+   "r": [
+    305,
+    879,
+    366,
+    913
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    211,
+    540,
+    499,
+    709
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    256,
+    1298,
+    328,
+    1384
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "sanos,",
+   "contando": false,
+   "r": [
+    350,
+    1298,
+    549,
+    1384
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "faltan",
+   "contando": false,
+   "r": [
+    571,
+    1298,
+    774,
+    1384
+   ]
+  },
+  {
+   "t": 7.733,
+   "texto": "pruebas.",
+   "contando": false,
+   "r": [
+    383,
+    1375,
+    647,
+    1461
+   ]
+  },
+  {
+   "t": 9.067,
+   "texto": "Bacterias que la fabrican",
+   "contando": false,
+   "r": [
+    236,
+    311,
+    822,
+    564
+   ]
+  },
+  {
+   "t": 9.067,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    156,
+    343,
+    184,
+    430
+   ]
+  },
+  {
+   "t": 9.067,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    172,
+    1331,
+    252,
+    1427
+   ]
+  },
+  {
+   "t": 9.067,
+   "texto": "flora",
+   "contando": false,
+   "r": [
+    277,
+    1331,
+    471,
+    1427
+   ]
+  },
+  {
+   "t": 9.067,
+   "texto": "intestinal",
+   "contando": false,
+   "r": [
+    496,
+    1331,
+    858,
+    1427
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "Bacterias que la fabrican",
+   "contando": false,
+   "r": [
+    237,
+    309,
+    824,
+    567
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    157,
+    346,
+    186,
+    433
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    707,
+    710,
+    863,
+    859
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    210,
+    1331,
+    400,
+    1427
+   ]
+  },
+  {
+   "t": 10.033,
+   "texto": "fabricarla.",
+   "contando": false,
+   "r": [
+    425,
+    1331,
+    820,
+    1427
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "Bacterias que la fabrican",
+   "contando": false,
+   "r": [
+    237,
+    309,
+    824,
+    567
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    157,
+    346,
+    186,
+    434
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    707,
+    710,
+    863,
+    859
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    210,
+    1331,
+    400,
+    1427
+   ]
+  },
+  {
+   "t": 10.2,
+   "texto": "fabricarla.",
+   "contando": false,
+   "r": [
+    425,
+    1331,
+    820,
+    1427
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "Preliminar: seis adultos",
+   "contando": false,
+   "r": [
+    236,
+    313,
+    765,
+    564
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    150,
+    342,
+    190,
+    431
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    241,
+    1331,
+    320,
+    1427
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "seis",
+   "contando": false,
+   "r": [
+    345,
+    1331,
+    477,
+    1427
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "adultos,",
+   "contando": false,
+   "r": [
+    502,
+    1331,
+    789,
+    1427
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "Preliminar: seis adultos",
+   "contando": false,
+   "r": [
+    237,
+    311,
+    769,
+    567
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    151,
+    345,
+    193,
+    435
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "10",
+   "contando": false,
+   "r": [
+    262,
+    716,
+    356,
+    877
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    354,
+    797,
+    396,
+    844
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "diarios",
+   "contando": false,
+   "r": [
+    300,
+    879,
+    375,
+    913
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    252,
+    545,
+    458,
+    704
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "análisis",
+   "contando": false,
+   "r": [
+    177,
+    1331,
+    459,
+    1427
+   ]
+  },
+  {
+   "t": 12.9,
+   "texto": "alterados.",
+   "contando": false,
+   "r": [
+    483,
+    1331,
+    853,
+    1427
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Preliminar: seis adultos",
+   "contando": false,
+   "r": [
+    237,
+    311,
+    769,
+    567
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    151,
+    346,
+    193,
+    435
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "10",
+   "contando": false,
+   "r": [
+    256,
+    716,
+    353,
+    878
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    349,
+    796,
+    393,
+    843
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "diarios",
+   "contando": false,
+   "r": [
+    298,
+    878,
+    372,
+    913
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    252,
+    545,
+    458,
+    704
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "análisis",
+   "contando": false,
+   "r": [
+    177,
+    1331,
+    459,
+    1427
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "alterados.",
+   "contando": false,
+   "r": [
+    483,
+    1331,
+    853,
+    1427
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "Lo que sí firma la UE",
+   "contando": false,
+   "r": [
+    122,
+    282,
+    904,
+    431
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    370,
+    589,
+    422,
+    657
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "biotina",
+   "contando": false,
+   "r": [
+    433,
+    591,
+    580,
+    661
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    590,
+    594,
+    818,
+    666
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    828,
+    599,
+    868,
+    667
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    369,
+    650,
+    687,
+    723
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    697,
+    657,
+    762,
+    725
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "cabello",
+   "contando": false,
+   "r": [
+    368,
+    710,
+    522,
+    780
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    532,
+    714,
+    585,
+    782
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    589,
+    709,
+    856,
+    784
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de biotina. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    862,
+    887,
+    953
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    176,
+    1298,
+    247,
+    1384
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "biotina",
+   "contando": false,
+   "r": [
+    270,
+    1298,
+    491,
+    1384
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    514,
+    1298,
+    854,
+    1384
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    478,
+    1373,
+    552,
+    1462
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "Lo que sí firma la UE",
+   "contando": false,
+   "r": [
+    122,
+    282,
+    904,
+    431
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    370,
+    589,
+    422,
+    657
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "biotina",
+   "contando": false,
+   "r": [
+    433,
+    591,
+    580,
+    661
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    590,
+    594,
+    818,
+    666
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    828,
+    599,
+    868,
+    667
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    369,
+    650,
+    687,
+    723
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    697,
+    657,
+    762,
+    725
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "cabello",
+   "contando": false,
+   "r": [
+    368,
+    710,
+    522,
+    780
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    532,
+    714,
+    585,
+    782
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    595,
+    715,
+    851,
+    787
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    367,
+    771,
+    579,
+    842
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de biotina. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    862,
+    887,
+    953
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    368,
+    482,
+    584,
+    543
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    230,
+    1298,
+    677,
+    1384
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    699,
+    1298,
+    800,
+    1384
+   ]
+  },
+  {
+   "t": 16.2,
+   "texto": "cabello",
+   "contando": false,
+   "r": [
+    394,
+    1375,
+    636,
+    1461
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "Lo que sí firma la UE",
+   "contando": false,
+   "r": [
+    122,
+    282,
+    904,
+    431
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    370,
+    589,
+    422,
+    657
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "biotina",
+   "contando": false,
+   "r": [
+    433,
+    591,
+    580,
+    661
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    590,
+    594,
+    818,
+    666
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    828,
+    599,
+    868,
+    667
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    369,
+    650,
+    687,
+    723
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    697,
+    657,
+    762,
+    725
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "cabello",
+   "contando": false,
+   "r": [
+    368,
+    710,
+    522,
+    780
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    532,
+    714,
+    585,
+    782
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    595,
+    715,
+    851,
+    787
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    367,
+    771,
+    579,
+    842
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de biotina. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    862,
+    887,
+    953
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    368,
+    482,
+    584,
+    543
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    290,
+    1298,
+    361,
+    1384
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    383,
+    1298,
+    740,
+    1384
+   ]
+  },
+  {
+   "t": 17.167,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    357,
+    1373,
+    673,
+    1461
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "Lo que sí firma la UE",
+   "contando": false,
+   "r": [
+    122,
+    282,
+    904,
+    431
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    370,
+    589,
+    422,
+    657
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "biotina",
+   "contando": false,
+   "r": [
+    433,
+    591,
+    580,
+    661
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    590,
+    594,
+    818,
+    666
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    828,
+    599,
+    868,
+    667
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "mantenimiento",
+   "contando": false,
+   "r": [
+    369,
+    650,
+    687,
+    723
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    697,
+    657,
+    762,
+    725
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "cabello",
+   "contando": false,
+   "r": [
+    368,
+    710,
+    522,
+    780
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    532,
+    714,
+    585,
+    782
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    595,
+    715,
+    851,
+    787
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    367,
+    771,
+    579,
+    842
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de biotina. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    364,
+    862,
+    887,
+    953
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    368,
+    482,
+    584,
+    543
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    290,
+    1298,
+    361,
+    1384
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "condiciones",
+   "contando": false,
+   "r": [
+    383,
+    1298,
+    740,
+    1384
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "normales.",
+   "contando": false,
+   "r": [
+    361,
+    1375,
+    669,
+    1461
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    147,
+    1003,
+    396,
+    1070
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    408,
+    1003,
+    437,
+    1070
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    449,
+    1003,
+    572,
+    1070
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "compra",
+   "contando": false,
+   "r": [
+    184,
+    1061,
+    354,
+    1128
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "biotina",
+   "contando": false,
+   "r": [
+    366,
+    1061,
+    535,
+    1128
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    207,
+    1119,
+    319,
+    1186
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    330,
+    1119,
+    381,
+    1186
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "pelo.",
+   "contando": false,
+   "r": [
+    393,
+    1119,
+    512,
+    1186
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    323,
+    844,
+    566
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    143,
+    684,
+    186,
+    740
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "domingo",
+   "contando": false,
+   "r": [
+    193,
+    678,
+    345,
+    738
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    353,
+    677,
+    379,
+    733
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "mediodía:",
+   "contando": false,
+   "r": [
+    386,
+    671,
+    561,
+    732
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    569,
+    669,
+    612,
+    725
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "tiroides",
+   "contando": false,
+   "r": [
+    141,
+    730,
+    297,
+    790
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    304,
+    728,
+    329,
+    784
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    336,
+    727,
+    385,
+    783
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "mineral",
+   "contando": false,
+   "r": [
+    392,
+    721,
+    543,
+    781
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    550,
+    718,
+    617,
+    776
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    251,
+    779,
+    300,
+    836
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    307,
+    777,
+    351,
+    834
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    358,
+    776,
+    401,
+    832
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "yodo.",
+   "contando": false,
+   "r": [
+    409,
+    772,
+    510,
+    830
+   ]
+  },
+  {
+   "t": 23.233,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    84,
+    1454,
+    227,
+    1485
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.567,
+  4.6,
+  6.167,
+  7.367,
+  7.733,
+  9.067,
+  10.033,
+  10.2,
+  11.767,
+  12.9,
+  13.2,
+  15.1,
+  16.2,
+  17.167,
+  17.5,
+  23.233
+ ],
+ "sonido": {
+  "lufs": -16.08,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.23,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "whoosh": 10,
+   "zas": 4,
+   "pop": 16,
+   "plop": 15,
+   "boing": 7,
+   "ding": 2,
+   "sello": 1,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 23.245,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 330,
+   "texto": "Biotina para el pelo: qué hay de cierto. Revisión limitada: dieciocho casos, todos con patología de fondo. En sanos, faltan pruebas. La flora intestinal puede fabricarla. En seis adultos, análisis alterados. La biotina contribuye al mantenimiento del cabello en condiciones normales. Mándaselo a quien compra biotina para el pelo.",
+   "cortes": 11,
+   "silencios_s": 2.11,
+   "pausas_acortadas_s": 2.16,
+   "duracion_voz_s": 20.19
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 0.97
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 1.851,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.141,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.291,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 2.391,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 2.491,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 2.511,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 2.631,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 3.671,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 3.771,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.811,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 4.091,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.481,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 7.831,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 7.981,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.081,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 8.181,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.201,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 8.321,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 9.161,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 9.241,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.261,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.581,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.161,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.511,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.661,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.761,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 10.861,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.881,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 11.001,
+   "tipo": "pop",
+   "intensidad": 0.25
+  },
+  {
+   "t": 11.881,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 11.981,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 12.021,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.301,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 13.031,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 13.331,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.511,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 13.891,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.991,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.051,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 14.091,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.501,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 16.401,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 16.501,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 16.621,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 17.251,
+   "tipo": "whoosh",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.551,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.851,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.051,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.111,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.211,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.311,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 19.971,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.271,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 20.371,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 20.491,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 20.591,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.691,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 20.731,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 20.841,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 22.49,
+   "tipo": "boing",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 698,
+ "tiempo_render_s": 99.5,
+ "tiempos_s": {
+  "preparar": 3.26,
+  "dibujar_y_codificar": 93.21
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica_comic",
+ "familia": "reel_explica",
+ "variante": "b",
+ "formato_visual": "teatrillo",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  2.8333,
+  4.1667,
+  8.5333,
+  9.6667,
+  11.2,
+  12.3667,
+  17.0667,
+  19.1667,
+  20.5667,
+  23.2333
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "I · entra",
+  "I · reacciona",
+  "II · entra",
+  "II · reacciona",
+  "III · entra",
+  "III · reacciona",
+  "conclusión escrita",
+  "cierre: Oli",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto_personajes": [
+  "nuez",
+  "oli",
+  "nuez",
+  "oli",
+  "nuez",
+  "oli"
+ ],
+ "multitudes": [
+  [
+   "zanahoria",
+   "platano",
+   "kiwi"
+  ],
+  [
+   "nuez",
+   "fresa",
+   "limon"
+  ],
+  [
+   "terron",
+   "salero",
+   "etiqueta"
+  ],
+  [
+   "nuez",
+   "naranja",
+   "lenteja"
+  ],
+  [
+   "huevo",
+   "pan",
+   "vaso"
+  ],
+  [
+   "nuez",
+   "fruta",
+   "aguacate"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 23.2667,
+  "n": 3,
+  "pasos": [
+   {
+    "t_in": 2.091,
+    "t_out": 7.781,
+    "voz": 2.511,
+    "t_r": 3.671
+   },
+   {
+    "t_in": 7.781,
+    "t_out": 10.461,
+    "voz": 8.201,
+    "t_r": 9.161
+   },
+   {
+    "t_in": 10.461,
+    "t_out": 13.331,
+    "voz": 10.881,
+    "t_r": 11.881
+   }
+  ],
+  "c_in": 13.331,
+  "f_in": 17.551,
+  "fin_voz": 20.191,
+  "t_ono": 20.271,
+  "t_anz": 20.591,
+  "tl_lux": {
+   "dur": 21.8667,
+   "loop": 21.3667
+  },
+  "gancho_cifra": false
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: VIT-051, VIT-050, VIT-052, VIT-049",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «ay de cierto  ¡HALA!  La clave del día  Revisión de cal»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #biotina #nutricion #vitaminas #mitos»"
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Biotina para el pelo: qué hay de cierto.",
+   "t": 0.021,
+   "puntos": 4.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Revisión limitada: dieciocho casos, todos con patología de fondo. En sanos, faltan pruebas.",
+   "t": 2.511,
+   "puntos": 9.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "La flora intestinal puede fabricarla.",
+   "t": 8.201,
+   "puntos": 2.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "En seis adultos, análisis alterados.",
+   "t": 10.881,
+   "puntos": 3.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "La biotina contribuye al mantenimiento del cabello en condiciones normales.",
+   "t": 13.881,
+   "puntos": 10.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien compra biotina para el pelo.",
+   "t": 17.971,
+   "puntos": 12.0
+  }
+ ]
+}

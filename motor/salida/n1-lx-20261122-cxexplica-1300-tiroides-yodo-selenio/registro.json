@@ -1,0 +1,1738 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 24.58,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 8.0,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.8,
+ "n_cambios_visuales": 411,
+ "bucle_dif_ultimo_primero": 32.83,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    262,
+    519,
+    344,
+    658
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tiroides,",
+   "contando": false,
+   "r": [
+    368,
+    511,
+    743,
+    647
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "según",
+   "contando": false,
+   "r": [
+    264,
+    609,
+    492,
+    751
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    513,
+    607,
+    602,
+    746
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "UE:",
+   "contando": false,
+   "r": [
+    623,
+    604,
+    737,
+    744
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "yodo",
+   "contando": false,
+   "r": [
+    265,
+    699,
+    453,
+    840
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    474,
+    698,
+    521,
+    836
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    542,
+    695,
+    686,
+    835
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    267,
+    789,
+    432,
+    929
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿QUÉ?",
+   "contando": false,
+   "r": [
+    752,
+    1028,
+    908,
+    1132
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "El primero: el yodo",
+   "contando": false,
+   "r": [
+    431,
+    532,
+    869,
+    702
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    347,
+    437,
+    363,
+    517
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    235,
+    1302,
+    294,
+    1380
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "yodo",
+   "contando": false,
+   "r": [
+    314,
+    1302,
+    442,
+    1380
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    462,
+    1302,
+    770,
+    1380
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    790,
+    1302,
+    825,
+    1380
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    334,
+    1371,
+    399,
+    1449
+   ]
+  },
+  {
+   "t": 5.533,
+   "texto": "producción",
+   "contando": false,
+   "r": [
+    419,
+    1371,
+    726,
+    1449
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "El primero: el yodo",
+   "contando": false,
+   "r": [
+    431,
+    532,
+    869,
+    702
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    347,
+    437,
+    363,
+    517
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    701,
+    904,
+    889,
+    1045
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    245,
+    1302,
+    447,
+    1380
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    467,
+    1302,
+    529,
+    1380
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "hormonas",
+   "contando": false,
+   "r": [
+    549,
+    1302,
+    815,
+    1380
+   ]
+  },
+  {
+   "t": 6.833,
+   "texto": "tiroideas.",
+   "contando": false,
+   "r": [
+    393,
+    1371,
+    667,
+    1449
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Y además: función cognitiva",
+   "contando": false,
+   "r": [
+    511,
+    503,
+    789,
+    730
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    342,
+    437,
+    368,
+    517
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "¡EH!",
+   "contando": false,
+   "r": [
+    722,
+    907,
+    868,
+    1042
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Y",
+   "contando": false,
+   "r": [
+    328,
+    1302,
+    361,
+    1380
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    381,
+    1302,
+    417,
+    1380
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    437,
+    1302,
+    502,
+    1380
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "función",
+   "contando": false,
+   "r": [
+    522,
+    1302,
+    732,
+    1380
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "cognitiva",
+   "contando": false,
+   "r": [
+    281,
+    1371,
+    541,
+    1449
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    561,
+    1371,
+    779,
+    1449
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "El que falta: el selenio",
+   "contando": false,
+   "r": [
+    449,
+    532,
+    851,
+    702
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    336,
+    436,
+    374,
+    518
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    701,
+    903,
+    890,
+    1046
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "Contribuye",
+   "contando": false,
+   "r": [
+    334,
+    1302,
+    641,
+    1380
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    662,
+    1302,
+    726,
+    1380
+   ]
+  },
+  {
+   "t": 12.933,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    316,
+    1371,
+    744,
+    1449
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "El que falta: el selenio",
+   "contando": false,
+   "r": [
+    449,
+    532,
+    851,
+    702
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    336,
+    436,
+    374,
+    518
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    701,
+    903,
+    890,
+    1046
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    257,
+    1302,
+    459,
+    1380
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    479,
+    1302,
+    570,
+    1380
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    590,
+    1302,
+    803,
+    1380
+   ]
+  },
+  {
+   "t": 14.367,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    363,
+    1371,
+    697,
+    1449
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "Y su frase con el tiroides",
+   "contando": false,
+   "r": [
+    138,
+    413,
+    922,
+    536
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    307,
+    661,
+    346,
+    729
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "selenio",
+   "contando": false,
+   "r": [
+    357,
+    659,
+    510,
+    728
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    520,
+    654,
+    748,
+    725
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    758,
+    654,
+    785,
+    721
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    795,
+    653,
+    835,
+    721
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "función",
+   "contando": false,
+   "r": [
+    309,
+    720,
+    468,
+    790
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "tiroidea",
+   "contando": false,
+   "r": [
+    479,
+    717,
+    643,
+    787
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    654,
+    714,
+    816,
+    784
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de selenio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    311,
+    871,
+    886,
+    967
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    308,
+    552,
+    524,
+    613
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "función",
+   "contando": false,
+   "r": [
+    301,
+    1302,
+    511,
+    1380
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "tiroidea",
+   "contando": false,
+   "r": [
+    532,
+    1302,
+    759,
+    1380
+   ]
+  },
+  {
+   "t": 17.733,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    417,
+    1369,
+    643,
+    1450
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "Y su frase con el tiroides",
+   "contando": false,
+   "r": [
+    138,
+    413,
+    922,
+    536
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    307,
+    661,
+    346,
+    729
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "selenio",
+   "contando": false,
+   "r": [
+    357,
+    659,
+    510,
+    728
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    520,
+    654,
+    748,
+    725
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    758,
+    654,
+    785,
+    721
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    795,
+    653,
+    835,
+    721
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "función",
+   "contando": false,
+   "r": [
+    309,
+    720,
+    468,
+    790
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "tiroidea",
+   "contando": false,
+   "r": [
+    479,
+    717,
+    643,
+    787
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    654,
+    714,
+    816,
+    784
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de selenio. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    311,
+    871,
+    886,
+    967
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    308,
+    552,
+    524,
+    613
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "función",
+   "contando": false,
+   "r": [
+    301,
+    1302,
+    511,
+    1380
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "tiroidea",
+   "contando": false,
+   "r": [
+    532,
+    1302,
+    759,
+    1380
+   ]
+  },
+  {
+   "t": 18.067,
+   "texto": "normal.",
+   "contando": false,
+   "r": [
+    421,
+    1371,
+    639,
+    1449
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    299,
+    315,
+    587,
+    375
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    203,
+    982,
+    399,
+    1035
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    408,
+    982,
+    431,
+    1035
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    441,
+    982,
+    538,
+    1035
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "solo",
+   "contando": false,
+   "r": [
+    208,
+    1028,
+    291,
+    1081
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "relaciona",
+   "contando": false,
+   "r": [
+    300,
+    1028,
+    484,
+    1081
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    494,
+    1028,
+    533,
+    1081
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "tiroides",
+   "contando": false,
+   "r": [
+    181,
+    1074,
+    330,
+    1127
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    339,
+    1074,
+    405,
+    1127
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    415,
+    1074,
+    454,
+    1127
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "yodo.",
+   "contando": false,
+   "r": [
+    464,
+    1074,
+    560,
+    1127
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    184,
+    465,
+    710,
+    656
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Mañana",
+   "contando": false,
+   "r": [
+    167,
+    738,
+    299,
+    791
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    305,
+    737,
+    328,
+    786
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "mediodía:",
+   "contando": false,
+   "r": [
+    335,
+    731,
+    491,
+    785
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "comer",
+   "contando": false,
+   "r": [
+    498,
+    727,
+    600,
+    780
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    607,
+    726,
+    630,
+    776
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "menudo",
+   "contando": false,
+   "r": [
+    187,
+    781,
+    312,
+    835
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    318,
+    780,
+    340,
+    830
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    347,
+    779,
+    385,
+    829
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "metabolismo,",
+   "contando": false,
+   "r": [
+    392,
+    771,
+    613,
+    827
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    280,
+    825,
+    343,
+    876
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    349,
+    822,
+    409,
+    873
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    818,
+    523,
+    871
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    684,
+    1448,
+    827,
+    1479
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  5.533,
+  6.833,
+  9.633,
+  12.933,
+  14.367,
+  17.733,
+  18.067,
+  24.5
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.17,
+  "tiempo_reduccion_mas_1db_pct": 0.03,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "boing": 8,
+   "pop": 12,
+   "whoosh": 6,
+   "teclado": 3,
+   "plop": 21,
+   "ding": 4,
+   "zas": 1,
+   "sello": 1,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 24.512,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 329,
+   "texto": "El tiroides, según la u e: yodo y uno más. El yodo contribuye a la producción normal de hormonas tiroideas. Y a la función cognitiva normal. El otro: selenio. Contribuye al funcionamiento normal del sistema inmunitario. El selenio contribuye a la función tiroidea normal. Mándaselo a quien solo relaciona el tiroides con el yodo.",
+   "cortes": 9,
+   "silencios_s": 2.0,
+   "pausas_acortadas_s": 2.2,
+   "duracion_voz_s": 21.64
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 0.98
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 1.1,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 1.22,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 3.131,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.371,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.471,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.931,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.991,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 4.031,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.131,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.631,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 5.711,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.731,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 5.851,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 6.051,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.261,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.361,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.821,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.881,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 7.921,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.021,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.811,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 8.891,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.911,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.031,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 9.231,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.941,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.041,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 10.501,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.561,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 10.601,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.701,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.961,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 11.041,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.061,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 11.181,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 11.381,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 14.791,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 14.971,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 15.351,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.451,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.511,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.551,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.701,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 17.421,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.521,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 17.641,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 18.121,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.421,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.621,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.681,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.781,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.881,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 21.421,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.721,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 21.821,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 21.941,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 22.041,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.141,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 22.181,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.291,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 23.844,
+   "tipo": "boing",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 736,
+ "tiempo_render_s": 101.4,
+ "tiempos_s": {
+  "preparar": 6.16,
+  "dibujar_y_codificar": 93.99
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica_comic",
+ "familia": "reel_explica",
+ "variante": "c",
+ "formato_visual": "chat",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  4.1333,
+  6.1333,
+  8.0,
+  9.3,
+  10.7,
+  11.4667,
+  17.6333,
+  19.7333,
+  22.0333,
+  24.5
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "I · entra",
+  "I · reacciona",
+  "II · entra",
+  "II · reacciona",
+  "III · entra",
+  "III · reacciona",
+  "conclusión escrita",
+  "cierre: Oli",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto_personajes": [
+  "pescado",
+  "oli",
+  "pescado",
+  "oli",
+  "pescado",
+  "oli"
+ ],
+ "multitudes": [
+  [
+   "etiqueta",
+   "oli",
+   "naranja"
+  ],
+  [
+   "pescado",
+   "lenteja",
+   "huevo"
+  ],
+  [
+   "vaso",
+   "fruta",
+   "nuez"
+  ],
+  [
+   "pescado",
+   "aguacate",
+   "queso"
+  ],
+  [
+   "tomate",
+   "zanahoria",
+   "platano"
+  ],
+  [
+   "pescado",
+   "kiwi",
+   "fresa"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 24.5333,
+  "n": 3,
+  "pasos": [
+   {
+    "t_in": 3.371,
+    "t_out": 7.261,
+    "voz": 3.791,
+    "t_r": 5.631
+   },
+   {
+    "t_in": 7.261,
+    "t_out": 9.941,
+    "voz": 7.681,
+    "t_r": 8.811
+   },
+   {
+    "t_in": 9.941,
+    "t_out": 14.791,
+    "voz": 10.361,
+    "t_r": 10.961
+   }
+  ],
+  "c_in": 14.791,
+  "f_in": 18.121,
+  "fin_voz": 21.641,
+  "t_ono": 21.721,
+  "t_anz": 22.041,
+  "tl_lux": {
+   "dur": 23.3667,
+   "loop": 22.8667
+  },
+  "gancho_cifra": false
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: VIT-061, VIT-062",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «odo y uno más  ¿QUÉ?  La clave del día  El primero: el »",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #yodo #selenio #minerales #nutricion»"
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "El tiroides, según la u e: yodo y uno más.",
+   "t": 0.021,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "El yodo contribuye a la producción normal de hormonas tiroideas.",
+   "t": 3.791,
+   "puntos": 6.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Y a la función cognitiva normal.",
+   "t": 7.681,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "El otro: selenio. Contribuye al funcionamiento normal del sistema inmunitario.",
+   "t": 10.361,
+   "puntos": 6.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "El selenio contribuye a la función tiroidea normal.",
+   "t": 15.341,
+   "puntos": 9.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien solo relaciona el tiroides con el yodo.",
+   "t": 18.541,
+   "puntos": 12.0
+  }
+ ]
+}

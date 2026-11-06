@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261114-cxexplica-1300-sal-sodio-formula",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxexplica",
+  "pilar": "ensenar",
+  "hechos": [
+    "ETI-004",
+    "ALI-140"
+  ],
+  "titulo": "[CXEXPLICA] Sal y sodio: los separa un 2,5",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "La clave del día",
+      "titulo": "Sal y sodio: los separa un {2,5}",
+      "dice": [
+        "¿EH?"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "La etiqueta declara sal",
+      "dice": [
+        "¡OJO!"
+      ],
+      "voz": "La etiqueta declara sal, calculada del sodio."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "Sal = sodio × 2,5",
+      "dice": [
+        "¡TACHÁN!"
+      ],
+      "cifra": "2,5",
+      "voz": "Si solo ves sodio, multiplica por dos coma cinco."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "Ejemplo: jamón cocido",
+      "dice": [
+        "¡HALA!"
+      ],
+      "cifra": "814",
+      "unidad": "mg",
+      "texto": "de sodio por 100 g",
+      "voz": "Jamón cocido: ochocientos catorce miligramos de sodio. Unos dos gramos de sal."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "La fórmula, en una línea",
+      "resalte": "La regla",
+      "frase": "En la etiqueta, la sal es el contenido equivalente en sal calculado con la fórmula sal = sodio × 2,5.",
+      "fuente": "La sal no tiene declaración de salud autorizada. Norma de etiquetado de la UE; no es una recomendación personal.",
+      "voz": "Sal en la etiqueta: sodio por dos coma cinco."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien monta tablas de embutido.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Esta noche, quiz: el sodio de los envasados, qué subió y qué bajó."
+    }
+  ],
+  "pie_instagram": "Sal y sodio: los separa un 2,5\n\nI · La etiqueta declara sal: la sal es un equivalente calculado a partir del sodio.\nII · Sal = sodio × 2,5: si solo ves el sodio, multiplícalo por 2,5.\nIII · Ejemplo: jamón cocido: 814 mg de sodio por 100 g: unos dos gramos de sal.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLa regla: en la etiqueta, la sal es el contenido equivalente en sal calculado con la fórmula sal = sodio × 2,5.\n\n¿Qué paso no conocías?\nMándaselo a quien monta tablas de embutido.\nEsta noche, quiz: el sodio de los envasados, qué subió y qué bajó.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#sal #sodio #etiquetado #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva, sobre un fondo de rayos de tebeo, con los muñecos en una mesa; subtítulos grandes de la voz palabra a palabra. Portada: un salero con cara se sorprende bajo el titular «Sal y sodio: los separa un 2,5», con una etiqueta de alimentos, un huevo y una rebanada de pan alrededor. La clave del día. I. La etiqueta declara sal. Una etiqueta de alimentos reacciona y los demás muñecos también. II. Sal = sodio × 2,5. Un salero reacciona y los demás muñecos también. La cifra salta en una pegatina: 2,5. III. Ejemplo: jamón cocido. Oli, la aceituna de Vivax, que presenta el dibujo del alimento en una pegatina, reacciona y los demás muñecos también. La cifra salta en una pegatina: 814 mg de sodio por 100 g. La fórmula, en una línea. La regla: en la etiqueta, la sal es el contenido equivalente en sal calculado con la fórmula sal = sodio × 2,5. Un salero levanta el pulgar. Cierre: Oli saluda y dice «Mándaselo a quien monta tablas de embutido». Una ráfaga dice «¡Continuará!». Esta noche, quiz: el sodio de los envasados, qué subió y qué bajó."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "serie": "La clave del día",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica_comic",
+    "formato": "CXEXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica_comic (Vivax Cómic: formato «mesa», plató de rayos con mesa y público (el prototipo QB); piel de dibujos de la familia reel_explica) · spec n1-lux-20261114-1300-sal-sodio-formula",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica_comic",
+    "familia": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "a",
+    "formato_visual": "mesa",
+    "formato_visual_nombre": "plató de rayos con mesa y público (el prototipo QB)",
+    "spec_id": "n1-lux-20261114-1300-sal-sodio-formula",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "ensenar",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261114-1300-sal-sodio-formula",
+    "plantilla_visual": "reel_explica_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes: Reglamento (UE) nº 1169/2011, anexo I, punto 11 (ETI-004), texto original en castellano de EUR-Lex verificado el 13-10-2026: sal = sodio × 2,5. Sodio del jamón cocido: USDA FoodData Central (ALI-140), 814 mg por 100 g. Cálculo propio con cifras del banco: 814 mg × 2,5 = 2.035 mg, es decir, unos 2 g de sal por 100 g (en pantalla y en la voz se dice «unos dos gramos»). Voz sintética (IA).",
+  "ia": true,
+  "serie": "La clave del día",
+  "pilar_plan": "ensenar"
+}

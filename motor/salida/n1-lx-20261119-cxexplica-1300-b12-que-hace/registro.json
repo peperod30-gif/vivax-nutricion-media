@@ -1,0 +1,2083 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 23.14,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 8.53,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.6,
+ "n_cambios_visuales": 464,
+ "bucle_dif_ultimo_primero": 42.98,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "En directo",
+   "contando": false,
+   "r": [
+    132,
+    267,
+    278,
+    308
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "La clave del día",
+   "contando": false,
+   "r": [
+    436,
+    267,
+    658,
+    316
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Dónde",
+   "contando": false,
+   "r": [
+    85,
+    355,
+    407,
+    556
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    431,
+    348,
+    569,
+    541
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "está",
+   "contando": false,
+   "r": [
+    593,
+    337,
+    832,
+    534
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    90,
+    485,
+    215,
+    677
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "B12,",
+   "contando": false,
+   "r": [
+    240,
+    475,
+    453,
+    671
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    478,
+    471,
+    545,
+    660
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    570,
+    461,
+    767,
+    656
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    96,
+    621,
+    286,
+    816
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "importa",
+   "contando": false,
+   "r": [
+    315,
+    599,
+    779,
+    794
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡OH!",
+   "contando": false,
+   "r": [
+    92,
+    933,
+    178,
+    1036
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Uno: glóbulos rojos",
+   "contando": false,
+   "r": [
+    202,
+    306,
+    898,
+    439
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    106,
+    318,
+    124,
+    411
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "Contribuye",
+   "contando": false,
+   "r": [
+    141,
+    1358,
+    449,
+    1436
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    469,
+    1358,
+    504,
+    1436
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    524,
+    1358,
+    589,
+    1436
+   ]
+  },
+  {
+   "t": 4.267,
+   "texto": "formación",
+   "contando": false,
+   "r": [
+    609,
+    1358,
+    889,
+    1436
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "Uno: glóbulos rojos",
+   "contando": false,
+   "r": [
+    202,
+    306,
+    898,
+    439
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    106,
+    318,
+    124,
+    411
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    364,
+    653,
+    526,
+    776
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    146,
+    1359,
+    345,
+    1436
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    365,
+    1359,
+    426,
+    1436
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "glóbulos",
+   "contando": false,
+   "r": [
+    446,
+    1359,
+    691,
+    1436
+   ]
+  },
+  {
+   "t": 5.433,
+   "texto": "rojos.",
+   "contando": false,
+   "r": [
+    709,
+    1357,
+    886,
+    1436
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "Dónde no está, según el NHS",
+   "contando": false,
+   "r": [
+    202,
+    309,
+    824,
+    494
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    92,
+    316,
+    138,
+    413
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "No",
+   "contando": false,
+   "r": [
+    375,
+    1349,
+    458,
+    1445
+   ]
+  },
+  {
+   "t": 9.267,
+   "texto": "está,",
+   "contando": false,
+   "r": [
+    483,
+    1349,
+    655,
+    1445
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Dónde no está, según el NHS",
+   "contando": false,
+   "r": [
+    202,
+    309,
+    824,
+    494
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    92,
+    316,
+    138,
+    413
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    364,
+    653,
+    527,
+    776
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    200,
+    1349,
+    276,
+    1445
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "forma",
+   "contando": false,
+   "r": [
+    300,
+    1349,
+    505,
+    1445
+   ]
+  },
+  {
+   "t": 10.3,
+   "texto": "natural,",
+   "contando": false,
+   "r": [
+    529,
+    1349,
+    830,
+    1445
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "Dónde no está, según el NHS",
+   "contando": false,
+   "r": [
+    202,
+    309,
+    824,
+    494
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    92,
+    316,
+    138,
+    413
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    364,
+    653,
+    527,
+    776
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    143,
+    1351,
+    219,
+    1442
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "frutas",
+   "contando": false,
+   "r": [
+    242,
+    1351,
+    460,
+    1442
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    483,
+    1351,
+    543,
+    1442
+   ]
+  },
+  {
+   "t": 11.767,
+   "texto": "verduras.",
+   "contando": false,
+   "r": [
+    567,
+    1351,
+    887,
+    1442
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "Dónde no está, según el NHS",
+   "contando": false,
+   "r": [
+    202,
+    309,
+    824,
+    494
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    92,
+    316,
+    138,
+    413
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "¡HOP!",
+   "contando": false,
+   "r": [
+    364,
+    653,
+    527,
+    776
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "Tampoco",
+   "contando": false,
+   "r": [
+    146,
+    1349,
+    428,
+    1445
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    453,
+    1349,
+    532,
+    1445
+   ]
+  },
+  {
+   "t": 12.733,
+   "texto": "cereales.",
+   "contando": false,
+   "r": [
+    557,
+    1349,
+    884,
+    1445
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "Y su tercer trabajo, según la UE",
+   "contando": false,
+   "r": [
+    127,
+    293,
+    884,
+    391
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    415,
+    647
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    425,
+    578,
+    605,
+    646
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    615,
+    576,
+    683,
+    642
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    693,
+    572,
+    913,
+    641
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    366,
+    640,
+    405,
+    705
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    415,
+    634,
+    734,
+    704
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    744,
+    631,
+    887,
+    699
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    367,
+    697,
+    430,
+    763
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    440,
+    694,
+    603,
+    762
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    609,
+    685,
+    865,
+    757
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    369,
+    814,
+    896,
+    909
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    252,
+    1327,
+    314,
+    1401
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    333,
+    1327,
+    561,
+    1401
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "be",
+   "contando": false,
+   "r": [
+    580,
+    1327,
+    639,
+    1401
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "doce",
+   "contando": false,
+   "r": [
+    658,
+    1327,
+    778,
+    1401
+   ]
+  },
+  {
+   "t": 15.1,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    368,
+    1393,
+    662,
+    1467
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Y su tercer trabajo, según la UE",
+   "contando": false,
+   "r": [
+    127,
+    293,
+    884,
+    391
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    415,
+    647
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    425,
+    578,
+    605,
+    646
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    615,
+    576,
+    683,
+    642
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    693,
+    572,
+    913,
+    641
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    366,
+    640,
+    405,
+    705
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    415,
+    634,
+    734,
+    704
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    744,
+    631,
+    887,
+    699
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    367,
+    697,
+    430,
+    763
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    440,
+    694,
+    603,
+    762
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    613,
+    690,
+    861,
+    759
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    369,
+    814,
+    896,
+    909
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    368,
+    468,
+    584,
+    529
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    164,
+    1327,
+    226,
+    1401
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    245,
+    1327,
+    654,
+    1401
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    673,
+    1327,
+    866,
+    1401
+   ]
+  },
+  {
+   "t": 16.467,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    470,
+    1391,
+    560,
+    1467
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Y su tercer trabajo, según la UE",
+   "contando": false,
+   "r": [
+    127,
+    293,
+    884,
+    391
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    415,
+    647
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    425,
+    578,
+    605,
+    646
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    615,
+    576,
+    683,
+    642
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    693,
+    572,
+    913,
+    641
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    366,
+    640,
+    405,
+    705
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    415,
+    634,
+    734,
+    704
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    744,
+    631,
+    887,
+    699
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    367,
+    697,
+    430,
+    763
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    440,
+    694,
+    603,
+    762
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    613,
+    690,
+    861,
+    759
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    369,
+    814,
+    896,
+    909
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    368,
+    468,
+    584,
+    529
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    167,
+    1349,
+    429,
+    1445
+   ]
+  },
+  {
+   "t": 17.267,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    453,
+    1349,
+    863,
+    1445
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "Y su tercer trabajo, según la UE",
+   "contando": false,
+   "r": [
+    127,
+    293,
+    884,
+    391
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    415,
+    647
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    425,
+    578,
+    605,
+    646
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "B12",
+   "contando": false,
+   "r": [
+    615,
+    576,
+    683,
+    642
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "contribuye",
+   "contando": false,
+   "r": [
+    693,
+    572,
+    913,
+    641
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    366,
+    640,
+    405,
+    705
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "funcionamiento",
+   "contando": false,
+   "r": [
+    415,
+    634,
+    734,
+    704
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "normal",
+   "contando": false,
+   "r": [
+    744,
+    631,
+    887,
+    699
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    367,
+    697,
+    430,
+    763
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    440,
+    694,
+    603,
+    762
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    613,
+    690,
+    861,
+    759
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de vitamina B12. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    369,
+    814,
+    896,
+    909
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "Para qué sirve",
+   "contando": false,
+   "r": [
+    368,
+    468,
+    584,
+    529
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "sistema",
+   "contando": false,
+   "r": [
+    167,
+    1349,
+    429,
+    1445
+   ]
+  },
+  {
+   "t": 17.6,
+   "texto": "inmunitario.",
+   "contando": false,
+   "r": [
+    453,
+    1349,
+    863,
+    1445
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    151,
+    940,
+    395,
+    1006
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    407,
+    940,
+    435,
+    1006
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    447,
+    940,
+    568,
+    1006
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "está",
+   "contando": false,
+   "r": [
+    160,
+    997,
+    263,
+    1063
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "empezando",
+   "contando": false,
+   "r": [
+    275,
+    997,
+    518,
+    1063
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    530,
+    997,
+    559,
+    1063
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "comer",
+   "contando": false,
+   "r": [
+    196,
+    1054,
+    333,
+    1120
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "vegano.",
+   "contando": false,
+   "r": [
+    345,
+    1054,
+    523,
+    1120
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    350,
+    823,
+    584
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "Mañana:",
+   "contando": false,
+   "r": [
+    207,
+    659,
+    369,
+    719
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    376,
+    657,
+    422,
+    713
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "vitamina",
+   "contando": false,
+   "r": [
+    430,
+    651,
+    595,
+    711
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    602,
+    648,
+    667,
+    705
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "pelo,",
+   "contando": false,
+   "r": [
+    203,
+    711,
+    300,
+    769
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    308,
+    709,
+    333,
+    765
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "qué",
+   "contando": false,
+   "r": [
+    340,
+    707,
+    407,
+    764
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "hay",
+   "contando": false,
+   "r": [
+    414,
+    704,
+    482,
+    762
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    490,
+    702,
+    535,
+    759
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "cierto.",
+   "contando": false,
+   "r": [
+    542,
+    697,
+    675,
+    757
+   ]
+  },
+  {
+   "t": 23.067,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    84,
+    1448,
+    227,
+    1479
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  4.267,
+  5.433,
+  9.267,
+  10.3,
+  11.767,
+  12.733,
+  15.1,
+  16.467,
+  17.267,
+  17.6,
+  23.067
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.82,
+  "tiempo_reduccion_mas_1db_pct": 0.03,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "pop": 16,
+   "whoosh": 6,
+   "boing": 8,
+   "zas": 4,
+   "plop": 19,
+   "ding": 4,
+   "sello": 1,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 23.079,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 320,
+   "texto": "Dónde no está la be doce, y por qué importa. Contribuye a la formación normal de glóbulos rojos. Y al sistema nervioso. No está, de forma natural, en frutas ni verduras. Tampoco en cereales. La vitamina be doce contribuye al funcionamiento normal del sistema inmunitario. Mándaselo a quien está empezando a comer vegano.",
+   "cortes": 9,
+   "silencios_s": 2.25,
+   "pausas_acortadas_s": 1.2,
+   "duracion_voz_s": 20.41
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.09
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.461,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 2.531,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.761,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 2.771,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.871,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.881,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 2.911,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.071,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.191,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.331,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.431,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.531,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.391,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 4.471,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 4.491,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 4.611,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 5.861,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.961,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.161,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.281,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.421,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.521,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.621,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.271,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 7.351,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.371,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 7.491,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 8.261,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 8.361,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 8.561,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.681,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.821,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.921,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.021,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.361,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 9.441,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 9.461,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.581,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 13.151,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.331,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 13.711,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.811,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.871,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 13.911,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.321,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 16.221,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 16.321,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 16.441,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 17.651,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.951,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 18.151,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 18.211,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.311,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.411,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 20.191,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.491,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 20.591,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 20.711,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 20.811,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.911,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 20.951,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.061,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 22.461,
+   "tipo": "boing",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 693,
+ "tiempo_render_s": 86.1,
+ "tiempos_s": {
+  "preparar": 4.4,
+  "dibujar_y_codificar": 80.69
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica_comic",
+ "familia": "reel_explica",
+ "variante": "a",
+ "formato_visual": "telediario",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  2.5667,
+  3.5333,
+  4.9,
+  6.6,
+  7.7667,
+  9.0,
+  9.8667,
+  17.1667,
+  19.2667,
+  20.8,
+  23.0667
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "el gancho salta",
+  "I · entra",
+  "I · reacciona",
+  "II · entra",
+  "II · reacciona",
+  "III · entra",
+  "III · reacciona",
+  "conclusión escrita",
+  "cierre: Oli",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto_personajes": [
+  "pescado",
+  "naranja",
+  "pescado",
+  "fruta",
+  "pescado",
+  "oli"
+ ],
+ "multitudes": [
+  [
+   "fruta",
+   "brocoli",
+   "tomate"
+  ],
+  [
+   "pescado",
+   "fruta",
+   "platano"
+  ],
+  [
+   "fruta",
+   "limon",
+   "gota"
+  ],
+  [
+   "pescado",
+   "salero",
+   "etiqueta"
+  ],
+  [
+   "fruta",
+   "naranja",
+   "lenteja"
+  ],
+  [
+   "pescado",
+   "fruta",
+   "pan"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 23.1,
+  "n": 3,
+  "pasos": [
+   {
+    "t_in": 2.771,
+    "t_out": 5.861,
+    "voz": 3.191,
+    "t_r": 4.391
+   },
+   {
+    "t_in": 5.861,
+    "t_out": 8.261,
+    "voz": 6.281,
+    "t_r": 7.271
+   },
+   {
+    "t_in": 8.261,
+    "t_out": 13.151,
+    "voz": 8.681,
+    "t_r": 9.361
+   }
+  ],
+  "c_in": 13.151,
+  "f_in": 17.651,
+  "fin_voz": 20.411,
+  "t_ono": 20.491,
+  "t_anz": 20.811,
+  "tl_lux": {
+   "dur": 22.1,
+   "loop": 21.6
+  },
+  "gancho_cifra": false
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: VIT-045, VIT-048",
+  "controles: [filtro legal] a revisar: \\bnatural(es)?\\b",
+  "controles: [texto IA (diapositivas)] TX-LEX-06: «Clave» o adjetivo de importancia (fundamental, esencial, imprescindible). Sale en: «ta  ¡OH!  En directo  La clave del día  Uno: glóbulos r»",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #vitaminab12 #nutricion #vitaminas»"
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "Dónde no está la be doce, y por qué importa.",
+   "t": 0.021,
+   "puntos": 3.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Contribuye a la formación normal de glóbulos rojos.",
+   "t": 3.191,
+   "puntos": 5.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Y al sistema nervioso.",
+   "t": 6.281,
+   "puntos": 2.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "No está, de forma natural, en frutas ni verduras. Tampoco en cereales.",
+   "t": 8.681,
+   "puntos": 5.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "La vitamina be doce contribuye al funcionamiento normal del sistema inmunitario.",
+   "t": 13.701,
+   "puntos": 11.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien está empezando a comer vegano.",
+   "t": 18.071,
+   "puntos": 12.0
+  }
+ ]
+}
