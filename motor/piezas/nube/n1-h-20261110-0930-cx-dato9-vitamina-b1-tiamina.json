@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261110-0930-cx-dato9-vitamina-b1-tiamina",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "curiosidad",
+  "serie": "historias",
+  "hechos": [
+    "VIT-022"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Copos de avena secos: 0,46 mg",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 10-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261110-1300-cacahuetes-avena-tiamina). Hechos: VIT-022.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (AT cromos de la despensa), con muñecos de alimentos con cara (una nuez, una manzana, un huevo y otros) y Oli, la aceituna de Vivax. Copos de avena secos: 0,46 mg de vitamina B1 (tiamina) por 100 g, en letra enorme. ¿Cuál lleva más? Los demás alimentos aparecen tapados. Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "titulo": "Copos de avena secos",
+      "cifra": "0,46",
+      "unidad": "mg",
+      "texto": "de vitamina B1 (tiamina) por 100 g",
+      "titular": "¿Cuál lleva más?",
+      "sigue": "Hoy a la una, en el feed.",
+      "dice": [
+        "¡HALA!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-10",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "curiosidad",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "dato9",
+    "spec": "n1-h-20261110-0930-dato9-vitamina-b1-tiamina",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato cromo); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261110-1300-cacahuetes-avena-tiamina",
+    "estilo": "comic",
+    "formato_visual": "cromo",
+    "mundo": "AT cromos de la despensa: el cromo del alimento con ojos, la cifra como estadística y los rivales en cromos boca abajo",
+    "reparto": [
+      "nuez",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "aguacate",
+      "oli"
+    ]
+  }
+}

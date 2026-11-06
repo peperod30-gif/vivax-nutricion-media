@@ -1,0 +1,69 @@
+{
+  "id": "n1-h-20261118-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-023",
+    "VIT-038",
+    "ALI-024",
+    "VIT-018"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: miércoles 18-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 18-nov a las 09:30. Hechos: VIT-023, VIT-038, ALI-024, VIT-018.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (una nuez, una sardina, una cuña de queso y otros) y Oli, la aceituna de Vivax. Miércoles. Hoy en el feed. A la una: Pipas o lomo: ¿qué vitamina comparten? A las nueve: ¿Sabes leer un «por 100 g»? Compruébalo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Miércoles",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Pipas o lomo: ¿qué vitamina comparten?"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "¿Sabes leer un «por 100 g»? Compruébalo"
+        }
+      ],
+      "dice": [
+        "¡PIP!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-18",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261118-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "reparto": [
+      "nuez",
+      "pescado",
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "platano",
+      "tomate",
+      "oli"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261110-1445-cx-vf-grasa",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "curiosidad",
+  "serie": "historias",
+  "hechos": [
+    "ALI-089"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: La salchicha, más grasa que el chocolat…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 10-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261110-2100-crema-chocolate-grasa). Respuesta: FALSO. Hechos: ALI-089.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (las dos puertas del concurso), con muñecos de alimentos con cara (una gota de aceite, un terrón de azúcar, un vaso de leche y otros) y Oli, la aceituna de Vivax. La salchicha, más grasa que el chocolate con leche. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "La salchicha, más grasa que el chocolate con leche.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¡HUM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-10",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "curiosidad",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261110-1445-vf-grasa",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato puertas); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261110-2100-crema-chocolate-grasa",
+    "veredicto": "falso",
+    "estilo": "comic",
+    "formato_visual": "puertas",
+    "mundo": "las dos puertas del concurso: un muñeco delante de cada una sin decidirse y Oli en medio",
+    "reparto": [
+      "gota",
+      "terron",
+      "vaso",
+      "naranja",
+      "aguacate",
+      "lenteja",
+      "nuez",
+      "oli"
+    ]
+  }
+}

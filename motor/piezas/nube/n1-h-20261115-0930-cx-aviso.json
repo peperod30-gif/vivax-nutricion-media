@@ -1,0 +1,66 @@
+{
+  "id": "n1-h-20261115-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ETQ-002"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: domingo 15-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 15-nov a las 09:30. Hechos: ETQ-002.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (una etiqueta de alimentos, un terrón de azúcar, un aguacate y otros) y Oli, la aceituna de Vivax. Domingo. Hoy en el feed. A la una: La tabla no te dice si hay azúcares añadidos. A las nueve: El aguacate tiene un gemelo de grasa saturada."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Domingo",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "La tabla no te dice si hay azúcares añadidos"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "El aguacate tiene un gemelo de grasa saturada."
+        }
+      ],
+      "dice": [
+        "¡HOP!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261115-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "posits",
+    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
+    "reparto": [
+      "etiqueta",
+      "terron",
+      "aguacate",
+      "gota",
+      "platano",
+      "tomate",
+      "kiwi",
+      "oli"
+    ]
+  }
+}

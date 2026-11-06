@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261117-1445-cx-vf-vitamina-b2-riboflavina",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "Vitaminas",
+  "serie": "historias",
+  "hechos": [
+    "VIT-026"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: El feta lleva más vitamina B2 que las a…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 17-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261117-2100-b2-champinones-quiz). Respuesta: FALSO. Hechos: VIT-026.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (las dos puertas del concurso), con muñecos de alimentos con cara (una nuez, un huevo, una rebanada de pan y otros) y Oli, la aceituna de Vivax. El feta lleva más vitamina B2 que las almendras. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "El feta lleva más vitamina B2 que las almendras.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¡HUM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "Vitaminas",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261117-1445-vf-vitamina-b2-riboflavina",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato puertas); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261117-2100-b2-champinones-quiz",
+    "veredicto": "falso",
+    "estilo": "comic",
+    "formato_visual": "puertas",
+    "mundo": "las dos puertas del concurso: un muñeco delante de cada una sin decidirse y Oli en medio",
+    "reparto": [
+      "nuez",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "aguacate",
+      "lenteja",
+      "oli"
+    ]
+  }
+}

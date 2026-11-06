@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261108-0930-cx-dato9-fibra",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "curiosidad",
+  "serie": "historias",
+  "hechos": [
+    "ALI-007"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Alubias blancas cocidas: 6,3 g",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 8-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261108-1300-fruta-fibra-alubias). Hechos: ALI-007.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (AS meme de ojos), con muñecos de alimentos con cara (una lenteja, un limón, una manzana y otros) y Oli, la aceituna de Vivax. Alubias blancas cocidas: 6,3 g de fibra por 100 g, en letra enorme. Una fruta lleva más. ¿Cuál? Los demás alimentos aparecen tapados. Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "titulo": "Alubias blancas cocidas",
+      "cifra": "6,3",
+      "unidad": "g",
+      "texto": "de fibra por 100 g",
+      "titular": "Una fruta lleva más. ¿Cuál?",
+      "sigue": "Hoy a la una, en el feed.",
+      "dice": [
+        "¡ANDA!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-08",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "curiosidad",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "dato9",
+    "spec": "n1-h-20261108-0930-dato9-fibra",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato ojos); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261108-1300-fruta-fibra-alubias",
+    "estilo": "comic",
+    "formato_visual": "ojos",
+    "mundo": "AS meme de ojos: cabecera de la cuenta, la pregunta como meme, el alimento con ojos y los rivales tapados con sábanas",
+    "reparto": [
+      "lenteja",
+      "limon",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "oli"
+    ]
+  }
+}

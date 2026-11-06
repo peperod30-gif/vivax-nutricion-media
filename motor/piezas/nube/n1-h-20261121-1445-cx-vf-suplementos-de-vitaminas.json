@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261121-1445-cx-vf-suplementos-de-vitaminas",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "ensenar",
+  "serie": "historias",
+  "hechos": [
+    "DEB-026"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: Un multivitamínico diario bajó los even…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 21-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261121-2100-suplementos-tres-frases). Respuesta: FALSO. Hechos: DEB-026.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BM encuesta de historia), con muñecos de alimentos con cara (un kiwi, un limón, una manzana y otros) y Oli, la aceituna de Vivax. Un multivitamínico diario bajó los eventos cardiovasculares. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "Un multivitamínico diario bajó los eventos cardiovasculares.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¿EH?"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "ensenar",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261121-1445-vf-suplementos-de-vitaminas",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato encuesta); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261121-2100-suplementos-tres-frases",
+    "veredicto": "falso",
+    "estilo": "comic",
+    "formato_visual": "encuesta",
+    "mundo": "BM encuesta de historia: la pegatina de encuesta con sus dos opciones y dos grupos de muñecos dudando",
+    "reparto": [
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "oli"
+    ]
+  }
+}

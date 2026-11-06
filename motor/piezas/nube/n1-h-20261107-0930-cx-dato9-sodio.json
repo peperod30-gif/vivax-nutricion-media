@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261107-0930-cx-dato9-sodio",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "curiosidad",
+  "serie": "historias",
+  "hechos": [
+    "ALI-096"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Donut glaseado: 316 mg",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 7-nov a las 09:30. Lleva a la publicación de las 13:45 (n1-lux-20261107-1300-copos-donut-sodio). Hechos: ALI-096.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (AT cromos de la despensa), con muñecos de alimentos con cara (un salero, una nuez, una sardina y otros) y Oli, la aceituna de Vivax. Donut glaseado: 316 mg de sodio por 100 g, en letra enorme. Casi el doble de sodio que un donut. Los demás alimentos aparecen tapados. Hoy a las dos menos cuarto, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "titulo": "Donut glaseado",
+      "cifra": "316",
+      "unidad": "mg",
+      "texto": "de sodio por 100 g",
+      "titular": "Casi el doble de sodio que un donut.",
+      "sigue": "Hoy a las dos menos cuarto, en el feed.",
+      "dice": [
+        "¡HALA!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-07",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "curiosidad",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "dato9",
+    "spec": "n1-h-20261107-0930-dato9-sodio",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato cromo); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261107-1300-copos-donut-sodio",
+    "estilo": "comic",
+    "formato_visual": "cromo",
+    "mundo": "AT cromos de la despensa: el cromo del alimento con ojos, la cifra como estadística y los rivales en cromos boca abajo",
+    "reparto": [
+      "salero",
+      "nuez",
+      "pescado",
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "platano",
+      "oli"
+    ]
+  }
+}

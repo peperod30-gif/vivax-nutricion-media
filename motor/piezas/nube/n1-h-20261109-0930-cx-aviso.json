@@ -1,0 +1,66 @@
+{
+  "id": "n1-h-20261109-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ALI-057"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: lunes 9-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 9-nov a las 09:30. Hechos: ALI-057.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BI menú del día), con muñecos de alimentos con cara (una zanahoria, un salero, una nuez y otros) y Oli, la aceituna de Vivax. Lunes. Hoy en el feed. A la una: De la zanahoria al salami: adivina el salto. A las nueve: Dos verdades y una falsa: pipas, pavo y lomo."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Lunes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "De la zanahoria al salami: adivina el salto."
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Dos verdades y una falsa: pipas, pavo y lomo."
+        }
+      ],
+      "dice": [
+        "¡ÑAM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-09",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261109-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pizarra); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pizarra",
+    "mundo": "BI menú del día: la agenda a tiza en la pizarra, Oli de camarera y la clientela asomada a la barra",
+    "reparto": [
+      "zanahoria",
+      "salero",
+      "nuez",
+      "brocoli",
+      "platano",
+      "tomate",
+      "kiwi",
+      "oli"
+    ]
+  }
+}

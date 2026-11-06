@@ -1,0 +1,67 @@
+{
+  "id": "n1-h-20261114-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "ETI-004",
+    "ALI-140"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: sábado 14-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 14-nov a las 09:30. Hechos: ETI-004, ALI-140.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (un salero, un brócoli, una zanahoria y otros) y Oli, la aceituna de Vivax. Sábado. Hoy en el feed. A la una: Sal y sodio: los separa un 2,5. A las nueve: ¿Subió o bajó el sodio de los envasados españoles?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Sábado",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Sal y sodio: los separa un 2,5"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "¿Subió o bajó el sodio de los envasados españoles?"
+        }
+      ],
+      "dice": [
+        "¡PIP!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-14",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261114-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "reparto": [
+      "salero",
+      "brocoli",
+      "zanahoria",
+      "platano",
+      "tomate",
+      "kiwi",
+      "limon",
+      "oli"
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "n1-h-20261110-2000-cx-sirve-magnesio",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-sirve",
+  "pilar": "ensenar",
+  "pilar_plan": "Minerales",
+  "serie": "historias",
+  "hechos": [
+    "VIT-056"
+  ],
+  "titulo": "[HISTORIA] Para qué sirve: Magnesio (VIT-056), 10-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Para qué sirve» del 10-nov a las 20:00. Declaración de VIT-056, de la publicación n1-lux-20261110-1630-magnesio-lentejas-cola. Hechos: VIT-056.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (pegatina grande), con muñecos de alimentos con cara (una lenteja, un limón, una manzana y otros) y Oli, la aceituna de Vivax. Magnesio. El magnesio contribuye al mantenimiento de los dientes en condiciones normales. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal. Mañana, a las diez y media: reto: ordena esta macedonia por azúcares."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "Para qué sirve",
+      "titulo": "Magnesio",
+      "frase": "El magnesio contribuye al mantenimiento de los dientes en condiciones normales.",
+      "vit": "VIT-056",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de magnesio. No es una recomendación personal.",
+      "sigue": "Mañana, a las diez y media: reto: ordena esta macedonia por azúcares.",
+      "dice": [
+        "¡TACHÁN!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-10",
+    "hora": "20:00",
+    "serie": "Para qué sirve",
+    "pilar_plan": "Minerales",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "sirve",
+    "spec": "n1-h-20261110-2000-sirve-magnesio",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pegatina); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pegatina",
+    "mundo": "pegatina grande: la declaración en una pegatina troquelada gigante con Oli señalando y la gente alrededor",
+    "reparto": [
+      "lenteja",
+      "limon",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "oli"
+    ]
+  }
+}

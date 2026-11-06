@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261107-1445-cx-vf-vitamina-b3-niacina",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "curiosidad",
+  "serie": "historias",
+  "hechos": [
+    "VIT-030"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: El atún, casi tanta niacina como el pol…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 7-nov a las 14:45. Lleva a la publicación de las 21:45 (n1-lux-20261107-2100-atun-pollo-niacina). Respuesta: VERDADERO. Hechos: VIT-030.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BM encuesta de historia), con muñecos de alimentos con cara (una sardina, una nuez, una naranja y otros) y Oli, la aceituna de Vivax. El atún, casi tanta niacina como el pollo. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las diez menos cuarto en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "El atún, casi tanta niacina como el pollo.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las diez menos cuarto en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¿EH?"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-07",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "curiosidad",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261107-1445-vf-vitamina-b3-niacina",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato encuesta); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261107-2100-atun-pollo-niacina",
+    "veredicto": "verdadero",
+    "estilo": "comic",
+    "formato_visual": "encuesta",
+    "mundo": "BM encuesta de historia: la pegatina de encuesta con sus dos opciones y dos grupos de muñecos dudando",
+    "reparto": [
+      "pescado",
+      "nuez",
+      "naranja",
+      "aguacate",
+      "lenteja",
+      "queso",
+      "brocoli",
+      "oli"
+    ]
+  }
+}

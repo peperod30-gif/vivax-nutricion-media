@@ -1,0 +1,62 @@
+{
+  "id": "n1-h-20261117-0930-cx-dato9-hierro",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-dato9",
+  "pilar": "ensenar",
+  "pilar_plan": "Minerales",
+  "serie": "historias",
+  "hechos": [
+    "ALI-034"
+  ],
+  "titulo": "[HISTORIA] El dato de las 9: Mejillones cocidos: 6,7 mg",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «El dato de las 9» del 17-nov a las 09:30. Lleva a la publicación de las 13:00 (n1-lux-20261117-1300-hierro-espinacas-mejillones). Hechos: ALI-034.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (AS meme de ojos), con muñecos de alimentos con cara (una lenteja, un aguacate, una nuez y otros) y Oli, la aceituna de Vivax. Mejillones cocidos: 6,7 mg de hierro por 100 g, en letra enorme. ¿Cuál lleva más? Los demás alimentos aparecen tapados. Hoy a la una, en el feed."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "El dato de las nueve",
+      "titulo": "Mejillones cocidos",
+      "cifra": "6,7",
+      "unidad": "mg",
+      "texto": "de hierro por 100 g",
+      "titular": "¿Cuál lleva más?",
+      "sigue": "Hoy a la una, en el feed.",
+      "dice": [
+        "¡ANDA!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "hora": "09:30",
+    "serie": "El dato de las 9",
+    "pilar_plan": "Minerales",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "dato9",
+    "spec": "n1-h-20261117-0930-dato9-hierro",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato ojos); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261117-1300-hierro-espinacas-mejillones",
+    "estilo": "comic",
+    "formato_visual": "ojos",
+    "mundo": "AS meme de ojos: cabecera de la cuenta, la pregunta como meme, el alimento con ojos y los rivales tapados con sábanas",
+    "reparto": [
+      "lenteja",
+      "aguacate",
+      "nuez",
+      "pescado",
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "oli"
+    ]
+  }
+}

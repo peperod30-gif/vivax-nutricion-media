@@ -1,0 +1,66 @@
+{
+  "id": "n1-h-20261120-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-051"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: viernes 20-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 20-nov a las 09:30. Hechos: VIT-051.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BI menú del día), con muñecos de alimentos con cara (una nuez, una manzana, un terrón de azúcar y otros) y Oli, la aceituna de Vivax. Viernes. Hoy en el feed. A la una: Biotina para el pelo: qué hay de cierto. A las nueve: La piña y su fama de azúcar, a examen."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Viernes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Biotina para el pelo: qué hay de cierto"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "La piña y su fama de azúcar, a examen"
+        }
+      ],
+      "dice": [
+        "¡ÑAM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-20",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261120-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pizarra); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pizarra",
+    "mundo": "BI menú del día: la agenda a tiza en la pizarra, Oli de camarera y la clientela asomada a la barra",
+    "reparto": [
+      "nuez",
+      "fruta",
+      "terron",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "oli"
+    ]
+  }
+}

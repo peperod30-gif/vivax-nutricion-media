@@ -1,0 +1,60 @@
+{
+  "id": "n1-h-20261115-2000-cx-sirve-riboflavina",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-sirve",
+  "pilar": "ensenar",
+  "pilar_plan": "ensenar",
+  "serie": "historias",
+  "hechos": [
+    "VIT-025"
+  ],
+  "titulo": "[HISTORIA] Para qué sirve: Riboflavina (VIT-025), 15-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Para qué sirve» del 15-nov a las 20:00. Declaración de VIT-025, de la publicación n1-lux-20261115-1630-riboflavina-luz-sol. Hechos: VIT-025.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (AV noticias de la nevera), con muñecos de alimentos con cara (una nuez, un aguacate, una lenteja y otros) y Oli, la aceituna de Vivax. Riboflavina. La riboflavina ayuda a disminuir el cansancio y la fatiga. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de riboflavina. No es una recomendación personal. Mañana, a las ocho y media: más de un tercio es proteína. ¿Qué lácteo?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "Para qué sirve",
+      "titulo": "Riboflavina",
+      "frase": "La riboflavina ayuda a disminuir el cansancio y la fatiga.",
+      "vit": "VIT-025",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de riboflavina. No es una recomendación personal.",
+      "sigue": "Mañana, a las ocho y media: más de un tercio es proteína. ¿Qué lácteo?",
+      "dice": [
+        "¡OH!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "hora": "20:00",
+    "serie": "Para qué sirve",
+    "pilar_plan": "ensenar",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "sirve",
+    "spec": "n1-h-20261115-2000-sirve-riboflavina",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato tele); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "tele",
+    "mundo": "AV noticias de la nevera: el plató, el nutriente en la tele, el faldón con la declaración y Oli de presentadora",
+    "reparto": [
+      "nuez",
+      "aguacate",
+      "lenteja",
+      "pescado",
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "oli"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "n1-h-20261115-1445-cx-vf-grasa-saturada",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-vf",
+  "pilar": "ensenar",
+  "pilar_plan": "Despensa: grasas y colesterol",
+  "serie": "historias",
+  "hechos": [
+    "ALI-092"
+  ],
+  "titulo": "[HISTORIA] ¿Verdadero o falso?: Galletas de mantequilla: más grasa satu…",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «¿Verdadero o falso?» del 15-nov a las 14:45. Lleva a la publicación de las 21:00 (n1-lux-20261115-2100-galletas-mayonesa-quiz). Respuesta: FALSO. Hechos: ALI-092.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BJ verdadero o falso a pulsador), con muñecos de alimentos con cara (un terrón de azúcar, una gota de aceite, una sardina y otros) y Oli, la aceituna de Vivax. Galletas de mantequilla: más grasa saturada que la mayonesa. Dos respuestas: Verdadero y Falso; los muñecos dudan entre las dos. La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F."
+  ],
+  "hojas": [
+    {
+      "plantilla": "historia",
+      "kicker": "¿Verdadero o falso?",
+      "titulo": "Galletas de mantequilla: más grasa saturada que la mayonesa.",
+      "si": "Verdadero",
+      "no": "Falso",
+      "sigue": "La respuesta, esta noche a las nueve en el feed. Contesta por mensaje con una V o una F.",
+      "dice": [
+        "¿QUÉ?"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-15",
+    "hora": "14:45",
+    "serie": "¿Verdadero o falso?",
+    "pilar_plan": "Despensa: grasas y colesterol",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "vf",
+    "spec": "n1-h-20261115-1445-vf-grasa-saturada",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pulsadores); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "destino": "n1-lux-20261115-2100-galletas-mayonesa-quiz",
+    "veredicto": "falso",
+    "estilo": "comic",
+    "formato_visual": "pulsadores",
+    "mundo": "BJ verdadero o falso a pulsador: panel de la pregunta, dos concursantes dudando y el público asomado",
+    "reparto": [
+      "terron",
+      "gota",
+      "pescado",
+      "queso",
+      "brocoli",
+      "zanahoria",
+      "platano",
+      "oli"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "n1-h-20261119-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "VIT-045"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: jueves 19-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 19-nov a las 09:30. Hechos: VIT-045.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (un plátano, un tomate, un kiwi y otros) y Oli, la aceituna de Vivax. Jueves. Hoy en el feed. A la una: Dónde no está la B12, y por qué importa. A las siete: Mito o dato."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Jueves",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Dónde no está la B12, y por qué importa"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Mito o dato"
+        }
+      ],
+      "dice": [
+        "¡HOP!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-19",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261119-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "posits",
+    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
+    "reparto": [
+      "platano",
+      "tomate",
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "pan",
+      "oli"
+    ]
+  }
+}
