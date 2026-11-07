@@ -1,0 +1,118 @@
+{
+  "id": "n1-lx-20261129-cxexplica-1300-mito-cafe-deshidrata",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxexplica",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-163"
+  ],
+  "titulo": "[CXEXPLICA] ¿El café deshidrata? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Mito o realidad",
+      "titulo": "¿El café deshidrata? Mito o {realidad}.",
+      "dice": [
+        "¡ÑAM!"
+      ],
+      "sigue": [
+        "Menú del día"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "Se cree que deshidrata",
+      "dice": [
+        "¡OJO!"
+      ],
+      "sigue": [
+        "De primero"
+      ],
+      "voz": "Uno: se cree que sí."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "Agua del cuerpo: no cambió",
+      "dice": [
+        "¡TACHÁN!"
+      ],
+      "cifra": "51,5",
+      "texto": "kg con café y 51,4 con agua",
+      "sigue": [
+        "De segundo"
+      ],
+      "voz": "Dos: en cafeteros, cuatro tazas al día no cambiaron el agua del cuerpo."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "El matiz: dosis grandes",
+      "dice": [
+        "¡EH!"
+      ],
+      "sigue": [
+        "De postre"
+      ],
+      "voz": "Tres, el matiz: mucha cafeína tras días sin tomarla da más orina a corto plazo."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Veredicto: {mito}",
+      "resalte": "Lo que dicen los datos",
+      "frase": "La orina en las 4 horas tras 1 L de café no fue distinta de la de 1 L de agua.",
+      "fuente": "Datos solo en hombres. No es una recomendación personal.",
+      "voz": "Veredicto: mito. Un litro de café: la orina, como con agua."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien pide agua con el café.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿El café deshidrata? Mito o realidad.\n\nI · Se cree que deshidrata: mucha gente cree que el café quita agua al cuerpo.\nII · Agua del cuerpo: no cambió: en hombres cafeteros: 51,5 kg con café y 51,4 con agua.\nIII · El matiz: dosis grandes: mucha cafeína tras días sin tomarla: más orina a corto plazo.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLo que dicen los datos: la orina en las 4 horas tras 1 L de café no fue distinta de la de 1 L de agua.\n\n¿En tu casa también se decía?\nMándaselo a quien pide agua con el café.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #cafe #hidratacion #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva, como el menú del día en una pizarra de bar, con Oli de camarero y comensales asomados a la barra; subtítulos grandes de la voz palabra a palabra. Portada: un vaso de leche con cara se sorprende bajo el titular «¿El café deshidrata? Mito o realidad.», con Oli, la aceituna de Vivax, una naranja y una lenteja alrededor. Mito o realidad. I. Se cree que deshidrata. Una naranja reacciona y los demás muñecos también. II. Agua del cuerpo: no cambió. Un vaso de leche reacciona y los demás muñecos también. La cifra salta en una pegatina: 51,5 kg con café y 51,4 con agua. III. El matiz: dosis grandes. Una naranja reacciona y los demás muñecos también. Veredicto: mito. Lo que dicen los datos: la orina en las 4 horas tras 1 L de café no fue distinta de la de 1 L de agua. Un vaso de leche levanta el pulgar. Cierre: Oli saluda y dice «Mándaselo a quien pide agua con el café». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica_comic",
+    "formato": "CXEXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica_comic (Vivax Cómic: formato «pizarra», menú del día en la pizarra con camarero y comensales (BI); piel de dibujos de la familia reel_explica) · spec n1-lux-20261129-1300-mito-cafe-deshidrata",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica_comic",
+    "familia": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "a",
+    "formato_visual": "pizarra",
+    "formato_visual_nombre": "menú del día en la pizarra con camarero y comensales (BI)",
+    "spec_id": "n1-lux-20261129-1300-mito-cafe-deshidrata",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "mitos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261129-1300-mito-cafe-deshidrata",
+    "plantilla_visual": "reel_explica_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-163): Killer SC, Blannin AK, Jeukendrup AE. PLoS One 2014;9(1):e84154. Ensayo cruzado con 50 hombres que ya tomaban café a diario: cuatro tazas de 200 mL al día (4 mg/kg de cafeína al día; media de 308 mg) durante 3 días no cambiaron el agua corporal frente a beber la misma cantidad de agua: 51,5 kg con café frente a 51,4 kg con agua; la orina de 24 h fue de 2.409 mL con café frente a 2.428 mL con agua. Maughan RJ et al. Am J Clin Nutr 2016;103(3):717-723. Ensayo con 72 hombres en el que se compararon 13 bebidas: la orina en las 4 horas tras 1 L de café no fue distinta de la de 1 L de agua. Maughan RJ, Griffin J. J Hum Nutr Diet 2003;16(6):411-420. Una revisión que sí describe más orina a corto plazo con dosis grandes (al menos 250 a 300 mg de cafeína) en personas que llevaban días o semanas sin tomarla, y una tolerancia marcada en quien la toma con regularidad. Los dos ensayos estudian solo a hombres. Resúmenes de los dos ensayos comprobados en Europe PMC el 7-11-2026 (el orden café y agua de las cifras sale de ellos). En pantalla y en la voz, «mucha cafeína» resume las dosis grandes de la revisión y «cafeteros», que ya tomaban café a diario; en la voz, «la orina, como con agua» resume que no fue distinta. Sin cálculos propios. Es información de divulgación, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "mitos"
+}

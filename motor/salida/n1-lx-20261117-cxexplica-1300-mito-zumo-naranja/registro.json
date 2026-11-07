@@ -1,0 +1,2658 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 23.81,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.04,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.634,
+ "n_cambios_visuales": 480,
+ "bucle_dif_ultimo_primero": 43.57,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "En directo",
+   "contando": false,
+   "r": [
+    132,
+    267,
+    278,
+    308
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Mito o realidad",
+   "contando": false,
+   "r": [
+    436,
+    268,
+    650,
+    316
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Un",
+   "contando": false,
+   "r": [
+    85,
+    365,
+    265,
+    540
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "zumo",
+   "contando": false,
+   "r": [
+    287,
+    353,
+    542,
+    531
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "natural",
+   "contando": false,
+   "r": [
+    90,
+    464,
+    475,
+    649
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    497,
+    458,
+    608,
+    631
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    630,
+    450,
+    809,
+    625
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "naranja?",
+   "contando": false,
+   "r": [
+    94,
+    569,
+    559,
+    757
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Mito",
+   "contando": false,
+   "r": [
+    581,
+    559,
+    808,
+    736
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    830,
+    555,
+    894,
+    725
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad.",
+   "contando": false,
+   "r": [
+    104,
+    691,
+    604,
+    870
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¡OH!",
+   "contando": false,
+   "r": [
+    92,
+    933,
+    178,
+    1036
+   ]
+  },
+  {
+   "t": 3.933,
+   "texto": "Lo que se cree",
+   "contando": false,
+   "r": [
+    202,
+    300,
+    832,
+    469
+   ]
+  },
+  {
+   "t": 3.933,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 3.933,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    106,
+    318,
+    124,
+    411
+   ]
+  },
+  {
+   "t": 3.933,
+   "texto": "Uno:",
+   "contando": false,
+   "r": [
+    441,
+    1349,
+    589,
+    1445
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Lo que se cree",
+   "contando": false,
+   "r": [
+    202,
+    300,
+    832,
+    469
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "I",
+   "contando": false,
+   "r": [
+    106,
+    318,
+    124,
+    411
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "¡OJO!",
+   "contando": false,
+   "r": [
+    364,
+    653,
+    526,
+    776
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    217,
+    1327,
+    275,
+    1401
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "cree",
+   "contando": false,
+   "r": [
+    294,
+    1327,
+    412,
+    1401
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    431,
+    1327,
+    519,
+    1401
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "equivale",
+   "contando": false,
+   "r": [
+    539,
+    1327,
+    760,
+    1401
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    779,
+    1327,
+    813,
+    1401
+   ]
+  },
+  {
+   "t": 5.267,
+   "texto": "comerla.",
+   "contando": false,
+   "r": [
+    398,
+    1392,
+    632,
+    1467
+   ]
+  },
+  {
+   "t": 6.533,
+   "texto": "Fibra por 100 g: 2,4 g y 0,2 g",
+   "contando": false,
+   "r": [
+    202,
+    308,
+    882,
+    494
+   ]
+  },
+  {
+   "t": 6.533,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 6.533,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    99,
+    317,
+    131,
+    412
+   ]
+  },
+  {
+   "t": 6.533,
+   "texto": "Dos:",
+   "contando": false,
+   "r": [
+    443,
+    1349,
+    587,
+    1445
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "Fibra por 100 g: 2,4 g y 0,2 g",
+   "contando": false,
+   "r": [
+    202,
+    308,
+    882,
+    494
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    99,
+    317,
+    131,
+    412
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "2,4",
+   "contando": false,
+   "r": [
+    724,
+    664,
+    844,
+    809
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    840,
+    735,
+    857,
+    774
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "en la naranja",
+   "contando": false,
+   "r": [
+    739,
+    803,
+    863,
+    839
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    365,
+    534,
+    595,
+    668
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "dos",
+   "contando": false,
+   "r": [
+    143,
+    1359,
+    235,
+    1435
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "coma",
+   "contando": false,
+   "r": [
+    255,
+    1359,
+    387,
+    1435
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "cuatro",
+   "contando": false,
+   "r": [
+    406,
+    1359,
+    592,
+    1435
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    611,
+    1359,
+    805,
+    1435
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    825,
+    1361,
+    886,
+    1434
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "Fibra por 100 g: 2,4 g y 0,2 g",
+   "contando": false,
+   "r": [
+    202,
+    308,
+    882,
+    494
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    99,
+    317,
+    131,
+    412
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "2,4",
+   "contando": false,
+   "r": [
+    724,
+    664,
+    844,
+    809
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    840,
+    735,
+    857,
+    774
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "en la naranja",
+   "contando": false,
+   "r": [
+    739,
+    803,
+    863,
+    839
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "¡TACHÁN!",
+   "contando": false,
+   "r": [
+    365,
+    534,
+    595,
+    668
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "naranja",
+   "contando": false,
+   "r": [
+    177,
+    1327,
+    404,
+    1401
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    423,
+    1327,
+    455,
+    1401
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "cero",
+   "contando": false,
+   "r": [
+    474,
+    1327,
+    594,
+    1401
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "coma",
+   "contando": false,
+   "r": [
+    613,
+    1327,
+    743,
+    1401
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "dos",
+   "contando": false,
+   "r": [
+    763,
+    1327,
+    853,
+    1401
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    489,
+    1397,
+    541,
+    1464
+   ]
+  },
+  {
+   "t": 11.733,
+   "texto": "Azúcares: 9,35 g y 8,4 g",
+   "contando": false,
+   "r": [
+    202,
+    311,
+    743,
+    494
+   ]
+  },
+  {
+   "t": 11.733,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 11.733,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    92,
+    316,
+    138,
+    413
+   ]
+  },
+  {
+   "t": 11.733,
+   "texto": "Tres,",
+   "contando": false,
+   "r": [
+    263,
+    1349,
+    438,
+    1445
+   ]
+  },
+  {
+   "t": 11.733,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    463,
+    1349,
+    535,
+    1445
+   ]
+  },
+  {
+   "t": 11.733,
+   "texto": "matiz:",
+   "contando": false,
+   "r": [
+    560,
+    1349,
+    767,
+    1445
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Azúcares: 9,35 g y 8,4 g",
+   "contando": false,
+   "r": [
+    202,
+    311,
+    743,
+    494
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "Última hora",
+   "contando": false,
+   "r": [
+    257,
+    271,
+    423,
+    323
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    92,
+    316,
+    138,
+    413
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "8,4",
+   "contando": false,
+   "r": [
+    441,
+    664,
+    558,
+    806
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    551,
+    746,
+    568,
+    785
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "en el zumo",
+   "contando": false,
+   "r": [
+    455,
+    806,
+    545,
+    837
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "¡HALA!",
+   "contando": false,
+   "r": [
+    708,
+    539,
+    872,
+    664
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    147,
+    1356,
+    215,
+    1439
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "azúcares,",
+   "contando": false,
+   "r": [
+    236,
+    1356,
+    523,
+    1439
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    544,
+    1356,
+    608,
+    1439
+   ]
+  },
+  {
+   "t": 13.2,
+   "texto": "parecen.",
+   "contando": false,
+   "r": [
+    630,
+    1356,
+    883,
+    1439
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "Veredicto:",
+   "contando": false,
+   "r": [
+    126,
+    292,
+    566,
+    443
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    567,
+    299,
+    741,
+    423
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    417,
+    649
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    428,
+    579,
+    513,
+    648
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    524,
+    577,
+    670,
+    646
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    678,
+    568,
+    799,
+    640
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "Cifras por 100 g. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    370,
+    842,
+    860,
+    881
+   ]
+  },
+  {
+   "t": 14.733,
+   "texto": "Veredicto:",
+   "contando": false,
+   "r": [
+    335,
+    1349,
+    695,
+    1445
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "Veredicto:",
+   "contando": false,
+   "r": [
+    126,
+    292,
+    566,
+    443
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    567,
+    299,
+    741,
+    423
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    417,
+    649
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    428,
+    579,
+    513,
+    648
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    524,
+    577,
+    670,
+    646
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    680,
+    574,
+    797,
+    643
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    366,
+    639,
+    560,
+    709
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "libres",
+   "contando": false,
+   "r": [
+    570,
+    637,
+    691,
+    706
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    701,
+    634,
+    765,
+    703
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    778,
+    642,
+    851,
+    706
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "Cifras por 100 g. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    370,
+    842,
+    860,
+    881
+   ]
+  },
+  {
+   "t": 15.2,
+   "texto": "mito.",
+   "contando": false,
+   "r": [
+    432,
+    1349,
+    598,
+    1445
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Veredicto:",
+   "contando": false,
+   "r": [
+    126,
+    292,
+    566,
+    443
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    567,
+    299,
+    741,
+    423
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    417,
+    649
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    428,
+    579,
+    513,
+    648
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    524,
+    577,
+    670,
+    646
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    680,
+    574,
+    797,
+    643
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    366,
+    639,
+    560,
+    709
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "libres",
+   "contando": false,
+   "r": [
+    570,
+    637,
+    691,
+    706
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    701,
+    635,
+    765,
+    703
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    775,
+    634,
+    853,
+    702
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "están",
+   "contando": false,
+   "r": [
+    367,
+    701,
+    487,
+    770
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    497,
+    700,
+    549,
+    768
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "forma",
+   "contando": false,
+   "r": [
+    560,
+    697,
+    688,
+    766
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "natural",
+   "contando": false,
+   "r": [
+    698,
+    694,
+    851,
+    764
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    862,
+    693,
+    914,
+    761
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    368,
+    762,
+    432,
+    830
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "zumos",
+   "contando": false,
+   "r": [
+    442,
+    760,
+    579,
+    829
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    590,
+    758,
+    642,
+    826
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "fruta.",
+   "contando": false,
+   "r": [
+    652,
+    756,
+    772,
+    825
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Cifras por 100 g. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    370,
+    842,
+    860,
+    881
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Lo que dice la OMS",
+   "contando": false,
+   "r": [
+    368,
+    464,
+    633,
+    530
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    177,
+    1327,
+    239,
+    1401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "o",
+   "contando": false,
+   "r": [
+    258,
+    1327,
+    289,
+    1401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "eme",
+   "contando": false,
+   "r": [
+    308,
+    1327,
+    400,
+    1401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "ese",
+   "contando": false,
+   "r": [
+    419,
+    1327,
+    505,
+    1401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    524,
+    1327,
+    707,
+    1401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    726,
+    1327,
+    853,
+    1401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    394,
+    1393,
+    636,
+    1467
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Veredicto:",
+   "contando": false,
+   "r": [
+    126,
+    292,
+    566,
+    443
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    567,
+    299,
+    741,
+    423
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    417,
+    649
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    428,
+    579,
+    513,
+    648
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    524,
+    577,
+    670,
+    646
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    680,
+    574,
+    797,
+    643
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    366,
+    639,
+    560,
+    709
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "libres",
+   "contando": false,
+   "r": [
+    570,
+    637,
+    691,
+    706
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    701,
+    635,
+    765,
+    703
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    775,
+    634,
+    853,
+    702
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "están",
+   "contando": false,
+   "r": [
+    367,
+    701,
+    487,
+    770
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    497,
+    700,
+    549,
+    768
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "forma",
+   "contando": false,
+   "r": [
+    560,
+    697,
+    688,
+    766
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "natural",
+   "contando": false,
+   "r": [
+    698,
+    694,
+    851,
+    764
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    862,
+    693,
+    914,
+    761
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    368,
+    762,
+    432,
+    830
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "zumos",
+   "contando": false,
+   "r": [
+    442,
+    760,
+    579,
+    829
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    590,
+    758,
+    642,
+    826
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "fruta.",
+   "contando": false,
+   "r": [
+    652,
+    756,
+    772,
+    825
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Cifras por 100 g. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    370,
+    842,
+    860,
+    881
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "Lo que dice la OMS",
+   "contando": false,
+   "r": [
+    368,
+    464,
+    633,
+    530
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "libres",
+   "contando": false,
+   "r": [
+    147,
+    1355,
+    333,
+    1440
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    355,
+    1355,
+    456,
+    1440
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    478,
+    1355,
+    545,
+    1440
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    567,
+    1354,
+    668,
+    1440
+   ]
+  },
+  {
+   "t": 18.233,
+   "texto": "zumos.",
+   "contando": false,
+   "r": [
+    705,
+    1363,
+    869,
+    1435
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "Veredicto:",
+   "contando": false,
+   "r": [
+    126,
+    292,
+    566,
+    443
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    567,
+    299,
+    741,
+    423
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    365,
+    581,
+    417,
+    649
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    428,
+    579,
+    513,
+    648
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    524,
+    577,
+    670,
+    646
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    680,
+    574,
+    797,
+    643
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "azúcares",
+   "contando": false,
+   "r": [
+    366,
+    639,
+    560,
+    709
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "libres",
+   "contando": false,
+   "r": [
+    570,
+    637,
+    691,
+    706
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    701,
+    635,
+    765,
+    703
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    775,
+    634,
+    853,
+    702
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "están",
+   "contando": false,
+   "r": [
+    367,
+    701,
+    487,
+    770
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    497,
+    700,
+    549,
+    768
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "forma",
+   "contando": false,
+   "r": [
+    560,
+    697,
+    688,
+    766
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "natural",
+   "contando": false,
+   "r": [
+    698,
+    694,
+    851,
+    764
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    862,
+    693,
+    914,
+    761
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    368,
+    762,
+    432,
+    830
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "zumos",
+   "contando": false,
+   "r": [
+    442,
+    760,
+    579,
+    829
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    590,
+    758,
+    642,
+    826
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "fruta.",
+   "contando": false,
+   "r": [
+    652,
+    756,
+    772,
+    825
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "Cifras por 100 g. No es una recomendación personal.",
+   "contando": false,
+   "r": [
+    370,
+    842,
+    860,
+    881
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "Lo que dice la OMS",
+   "contando": false,
+   "r": [
+    368,
+    464,
+    633,
+    530
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "libres",
+   "contando": false,
+   "r": [
+    147,
+    1355,
+    333,
+    1440
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    355,
+    1355,
+    456,
+    1440
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    478,
+    1355,
+    545,
+    1440
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    567,
+    1355,
+    668,
+    1440
+   ]
+  },
+  {
+   "t": 18.6,
+   "texto": "zumos.",
+   "contando": false,
+   "r": [
+    690,
+    1355,
+    883,
+    1440
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    151,
+    940,
+    395,
+    1006
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    407,
+    940,
+    435,
+    1006
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    447,
+    940,
+    568,
+    1006
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "cuenta",
+   "contando": false,
+   "r": [
+    188,
+    997,
+    349,
+    1063
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    360,
+    997,
+    410,
+    1063
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "zumo",
+   "contando": false,
+   "r": [
+    422,
+    997,
+    531,
+    1063
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "como",
+   "contando": false,
+   "r": [
+    226,
+    1054,
+    337,
+    1120
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "fruta.",
+   "contando": false,
+   "r": [
+    349,
+    1054,
+    493,
+    1120
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    350,
+    823,
+    584
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    170,
+    660,
+    327,
+    720
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    335,
+    656,
+    426,
+    715
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    434,
+    653,
+    517,
+    711
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    525,
+    651,
+    569,
+    708
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    577,
+    647,
+    705,
+    706
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    303,
+    708,
+    373,
+    765
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    381,
+    705,
+    447,
+    763
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    455,
+    701,
+    575,
+    760
+   ]
+  },
+  {
+   "t": 23.733,
+   "texto": "@vivax_nutri",
+   "contando": false,
+   "r": [
+    84,
+    1448,
+    227,
+    1479
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.933,
+  5.267,
+  6.533,
+  8.167,
+  9.833,
+  11.733,
+  13.2,
+  14.733,
+  15.2,
+  17.3,
+  18.233,
+  18.6,
+  23.733
+ ],
+ "sonido": {
+  "lufs": -16.05,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.79,
+  "tiempo_reduccion_mas_1db_pct": 0.08,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "pop": 18,
+   "whoosh": 6,
+   "boing": 8,
+   "plop": 19,
+   "zas": 4,
+   "ding": 2,
+   "sello": 1,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 23.745,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 320,
+   "texto": "¿Un zumo natural es una naranja? ¿Mito o realidad? Uno: se cree que equivale a comerla. Dos: fibra, dos coma cuatro gramos la naranja y cero coma dos el zumo. Tres, el matiz: en azúcares, se parecen. Veredicto: mito. La o eme ese cuenta como azúcares libres los de los zumos. Mándaselo a quien cuenta el zumo como fruta.",
+   "cortes": 14,
+   "silencios_s": 1.78,
+   "pausas_acortadas_s": 3.67,
+   "duracion_voz_s": 21.23
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.08
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.664,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 2.934,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 2.964,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 3.084,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 3.114,
+   "tipo": "plop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.174,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.274,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.474,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 3.594,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.734,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.834,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.934,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.074,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 4.154,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 4.174,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 4.294,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 5.694,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.794,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.994,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.114,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.254,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.354,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.454,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.594,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 6.694,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 6.714,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.814,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 10.264,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.364,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.564,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 10.684,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 10.824,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.924,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.024,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.857,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 11.957,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 11.977,
+   "tipo": "pop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.077,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 13.614,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.794,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 14.174,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.274,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.334,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 14.374,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.694,
+   "tipo": "sello",
+   "intensidad": 0.5
+  },
+  {
+   "t": 17.594,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 17.694,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 17.814,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 18.634,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.934,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 19.134,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 19.194,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 19.294,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 19.394,
+   "tipo": "plop",
+   "intensidad": 0.22
+  },
+  {
+   "t": 21.014,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.314,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 21.414,
+   "tipo": "boing",
+   "intensidad": 0.32
+  },
+  {
+   "t": 21.534,
+   "tipo": "pop",
+   "intensidad": 0.28
+  },
+  {
+   "t": 21.634,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.734,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 21.774,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.884,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 23.115,
+   "tipo": "boing",
+   "intensidad": 0.28
+  }
+ ],
+ "fotogramas": 713,
+ "tiempo_render_s": 87.5,
+ "tiempos_s": {
+  "preparar": 5.4,
+  "dibujar_y_codificar": 82.8
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_explica_comic",
+ "familia": "reel_explica",
+ "variante": "a",
+ "formato_visual": "telediario",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  0.0,
+  2.8,
+  3.9333,
+  4.5667,
+  6.4333,
+  7.1,
+  11.0,
+  12.3667,
+  18.1333,
+  20.2333,
+  21.6,
+  23.7333
+ ],
+ "muestras_rotulos": [
+  "fotograma 0: portada",
+  "el gancho salta",
+  "I · entra",
+  "I · reacciona",
+  "II · entra",
+  "II · reacciona",
+  "III · entra",
+  "III · reacciona",
+  "conclusión escrita",
+  "cierre: Oli",
+  "¡Continuará!",
+  "último fotograma"
+ ],
+ "reparto_personajes": [
+  "naranja",
+  "terron",
+  "naranja",
+  "terron",
+  "naranja",
+  "oli"
+ ],
+ "multitudes": [
+  [
+   "terron",
+   "etiqueta",
+   "oli"
+  ],
+  [
+   "naranja",
+   "lenteja",
+   "pan"
+  ],
+  [
+   "terron",
+   "aguacate",
+   "pescado"
+  ],
+  [
+   "naranja",
+   "lenteja",
+   "brocoli"
+  ],
+  [
+   "terron",
+   "platano",
+   "kiwi"
+  ],
+  [
+   "naranja",
+   "terron",
+   "limon"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 23.7667,
+  "n": 3,
+  "pasos": [
+   {
+    "t_in": 3.174,
+    "t_out": 5.694,
+    "voz": 3.594,
+    "t_r": 4.074
+   },
+   {
+    "t_in": 5.694,
+    "t_out": 10.264,
+    "voz": 6.114,
+    "t_r": 6.594
+   },
+   {
+    "t_in": 10.264,
+    "t_out": 13.614,
+    "voz": 10.684,
+    "t_r": 11.857
+   }
+  ],
+  "c_in": 13.614,
+  "f_in": 18.634,
+  "fin_voz": 21.234,
+  "t_ono": 21.314,
+  "t_anz": 21.634,
+  "tl_lux": {
+   "dur": 22.9,
+   "loop": 22.4
+  },
+  "gancho_cifra": false
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-144",
+  "controles: [filtro legal] a revisar: \\bnatural(es)?\\b",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #zumodenaranja #fibra #nutricion»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿Un zumo natural es una naranja? Mito o realidad.  I · Lo»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: « en los zumos de fruta.  ¿En tu casa, zumo o naranj»"
+ ],
+ "reparto_voz": [
+  {
+   "parte": "gancho",
+   "voz": "¿Un zumo natural es una naranja? ¿Mito o realidad?",
+   "t": 0.051,
+   "puntos": 6.0
+  },
+  {
+   "parte": "paso I",
+   "voz": "Uno: se cree que equivale a comerla.",
+   "t": 3.594,
+   "puntos": 6.0
+  },
+  {
+   "parte": "paso II",
+   "voz": "Dos: fibra, dos coma cuatro gramos la naranja y cero coma dos el zumo.",
+   "t": 6.114,
+   "puntos": 9.0
+  },
+  {
+   "parte": "paso III",
+   "voz": "Tres, el matiz: en azúcares, se parecen.",
+   "t": 10.684,
+   "puntos": 4.0
+  },
+  {
+   "parte": "conclusión",
+   "voz": "Veredicto: mito. La o eme ese cuenta como azúcares libres los de los zumos.",
+   "t": 14.164,
+   "puntos": 10.0
+  },
+  {
+   "parte": "cierre",
+   "voz": "Mándaselo a quien cuenta el zumo como fruta.",
+   "t": 19.054,
+   "puntos": 12.0
+  }
+ ]
+}

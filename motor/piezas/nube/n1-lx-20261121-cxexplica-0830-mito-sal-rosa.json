@@ -1,0 +1,124 @@
+{
+  "id": "n1-lx-20261121-cxexplica-0830-mito-sal-rosa",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxexplica",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-102"
+  ],
+  "titulo": "[CXEXPLICA] ¿Sal rosa o marina, más sana? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Mito o realidad",
+      "titulo": "¿Sal rosa o marina, más sana? Mito o {realidad}.",
+      "dice": [
+        "¡ÑAM!"
+      ],
+      "sigue": [
+        "Menú del día"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "La de mar sigue siendo sal",
+      "dice": [
+        "¡TACHÁN!"
+      ],
+      "cifra": "35.000",
+      "unidad": "mg",
+      "texto": "de sodio por 100 g",
+      "sigue": [
+        "De primero"
+      ],
+      "voz": "La de mar sigue siendo sal: treinta y cinco mil miligramos de sodio."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "Sal rosa: ¿y sus minerales?",
+      "dice": [
+        "¡HALA!"
+      ],
+      "cifra": "30",
+      "unidad": "g",
+      "texto": "al día",
+      "sigue": [
+        "De segundo"
+      ],
+      "voz": "¿Y la rosa? Más de treinta gramos al día para que sus minerales se noten."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "Un exceso de sodio",
+      "dice": [
+        "¡UY!"
+      ],
+      "cifra": "6",
+      "texto": "cucharaditas al día",
+      "sigue": [
+        "De postre"
+      ],
+      "voz": "Unas seis cucharaditas: un exceso de sodio."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Veredicto: {mito}",
+      "resalte": "Lo que dice la OMS",
+      "frase": "La OMS recomienda a los adultos menos de 5 g de sal al día y que toda la sal que se consuma sea yodada.",
+      "fuente": "Hoja informativa de la OMS. No es una recomendación personal.",
+      "voz": "Veredicto: mito. Las tres llevan sodio."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien tiene sal rosa.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Sal rosa o marina, más sana? Mito o realidad.\n\nI · La de mar sigue siendo sal: 35.000 mg de sodio por 100 g; la de mesa, 38.758 mg.\nII · Sal rosa: ¿y sus minerales?: más de 30 g al día: la cantidad para que se noten.\nIII · Un exceso de sodio: esa cantidad son unas 6 cucharaditas al día.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLo que dice la OMS: la OMS recomienda a los adultos menos de 5 g de sal al día y que toda la sal que se consuma sea yodada.\n\n¿Qué sal hay en tu cocina?\nMándaselo a quien tiene sal rosa.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #salrosa #sal #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva, como el menú del día en una pizarra de bar, con Oli de camarero y comensales asomados a la barra; subtítulos grandes de la voz palabra a palabra. Portada: un salero con cara se sorprende bajo el titular «¿Sal rosa o marina, más sana? Mito o realidad.», con un queso, un brócoli y un tomate alrededor. Mito o realidad. I. La de mar sigue siendo sal. Una naranja reacciona y los demás muñecos también. La cifra salta en una pegatina: 35.000 mg de sodio por 100 g. II. Sal rosa: ¿y sus minerales? Un salero reacciona y los demás muñecos también. La cifra salta en una pegatina: 30 g al día. III. Un exceso de sodio. Una naranja reacciona y los demás muñecos también. La cifra salta en una pegatina: 6 cucharaditas al día. Veredicto: mito. Lo que dice la OMS: la OMS recomienda a los adultos menos de 5 g de sal al día y que toda la sal que se consuma sea yodada. Un salero levanta el pulgar. Cierre: Oli saluda y dice «Mándaselo a quien tiene sal rosa». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica_comic",
+    "formato": "CXEXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "08:30",
+    "nota": "plantilla reel_explica_comic (Vivax Cómic: formato «pizarra», menú del día en la pizarra con camarero y comensales (BI); piel de dibujos de la familia reel_explica) · spec n1-lux-20261121-0830-mito-sal-rosa",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica_comic",
+    "familia": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "b",
+    "formato_visual": "pizarra",
+    "formato_visual_nombre": "menú del día en la pizarra con camarero y comensales (BI)",
+    "spec_id": "n1-lux-20261121-0830-mito-sal-rosa",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "mitos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261121-0830-mito-sal-rosa",
+    "plantilla_visual": "reel_explica_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-102): BEDCA, alimentos 866 «Sal de mar» (35.000 mg de sodio por 100 g de porción comestible) y 2033 «Sal yodada» (38.850 mg por 100 g); USDA FoodData Central, SR Legacy, fdcId 173468 «Salt, table» (38.758 mg de sodio por 100 g). Las cifras de sodio salen de dos bases de datos distintas: la española (BEDCA) y la de EE. UU. (USDA). Fayet-Moore F et al. Foods 2020;9(10):1490: análisis de 31 muestras de sal rosa compradas en Australia, con un único control de sal blanca yodada; harían falta más de 30 g al día (unas 6 cucharaditas) para que sus minerales aportaran algo apreciable, y esa cantidad daría un exceso de sodio. OMS, hoja informativa «Sodium reduction» (11 de mayo de 2026): a los adultos, menos de 2.000 mg de sodio al día (menos de 5 g de sal), y que toda la sal que se consuma sea yodada. En pantalla, la frase de la OMS va resumida (sin los 2.000 mg de sodio); en la voz, «para que sus minerales se noten» resume «para que aportaran algo apreciable», y «las tres llevan sodio» resume las cifras de sodio de la sal de mar y la de mesa y el exceso de sodio que daría la sal rosa. Sin cálculos propios. Población que el banco señala: personas con hipertensión. Información general; no es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "mitos"
+}

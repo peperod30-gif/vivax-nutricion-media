@@ -1,0 +1,122 @@
+{
+  "id": "n1-lx-20261117-cxexplica-1300-mito-zumo-naranja",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxexplica",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-144"
+  ],
+  "titulo": "[CXEXPLICA] ¿Un zumo natural es una naranja? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Mito o realidad",
+      "titulo": "¿Un zumo natural es una naranja? Mito o {realidad}.",
+      "dice": [
+        "¡OH!"
+      ],
+      "sigue": [
+        "En directo"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "Lo que se cree",
+      "dice": [
+        "¡OJO!"
+      ],
+      "sigue": [
+        "Última hora"
+      ],
+      "voz": "Uno: se cree que equivale a comerla."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "Fibra por 100 g: 2,4 g y 0,2 g",
+      "dice": [
+        "¡TACHÁN!"
+      ],
+      "cifra": "2,4",
+      "unidad": "g",
+      "texto": "en la naranja",
+      "sigue": [
+        "Última hora"
+      ],
+      "voz": "Dos: fibra, dos coma cuatro gramos la naranja y cero coma dos el zumo."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "Azúcares: 9,35 g y 8,4 g",
+      "dice": [
+        "¡HALA!"
+      ],
+      "cifra": "8,4",
+      "unidad": "g",
+      "texto": "en el zumo",
+      "sigue": [
+        "Última hora"
+      ],
+      "voz": "Tres, el matiz: en azúcares, se parecen."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Veredicto: {mito}",
+      "resalte": "Lo que dice la OMS",
+      "frase": "La OMS cuenta como azúcares libres los que están de forma natural en los zumos de fruta.",
+      "fuente": "Cifras por 100 g. No es una recomendación personal.",
+      "voz": "Veredicto: mito. La o eme ese cuenta como azúcares libres los de los zumos."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien cuenta el zumo como fruta.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Un zumo natural es una naranja? Mito o realidad.\n\nI · Lo que se cree: un zumo natural equivale a comerse la naranja.\nII · Fibra por 100 g: 2,4 g y 0,2 g: por 100 g: 2,4 g en la naranja; 0,2 en su zumo.\nIII · Azúcares: 9,35 g y 8,4 g: por 100 g: 8,4 g en el zumo; 9,35 en la naranja.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLo que dice la OMS: la OMS cuenta como azúcares libres los que están de forma natural en los zumos de fruta.\n\n¿En tu casa, zumo o naranja entera?\nMándaselo a quien cuenta el zumo como fruta.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #zumodenaranja #fibra #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva, como un telediario dentro de una nevera: Oli presenta con micrófono tras la mesa y el invitado sale en la tele; subtítulos grandes de la voz palabra a palabra. Portada: una naranja con cara se sorprende bajo el titular «¿Un zumo natural es una naranja? Mito o realidad.», con un terrón de azúcar, una etiqueta de alimentos y Oli, la aceituna de Vivax alrededor. Mito o realidad. I. Lo que se cree. Un terrón de azúcar reacciona y los demás muñecos también. II. Fibra por 100 g: 2,4 g y 0,2 g. Una naranja reacciona y los demás muñecos también. La cifra salta en una pegatina: 2,4 g en la naranja. III. Azúcares: 9,35 g y 8,4 g. Un terrón de azúcar reacciona y los demás muñecos también. La cifra salta en una pegatina: 8,4 g en el zumo. Veredicto: mito. Lo que dice la OMS: la OMS cuenta como azúcares libres los que están de forma natural en los zumos de fruta. Una naranja levanta el pulgar. Cierre: Oli saluda y dice «Mándaselo a quien cuenta el zumo como fruta». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica_comic",
+    "formato": "CXEXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica_comic (Vivax Cómic: formato «telediario», noticias de la nevera: telediario con Oli presentadora (AV); piel de dibujos de la familia reel_explica) · spec n1-lux-20261117-1300-mito-zumo-naranja",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica_comic",
+    "familia": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "a",
+    "formato_visual": "telediario",
+    "formato_visual_nombre": "noticias de la nevera: telediario con Oli presentadora (AV)",
+    "spec_id": "n1-lux-20261117-1300-mito-zumo-naranja",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "mitos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261117-1300-mito-zumo-naranja",
+    "plantilla_visual": "reel_explica_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-144): USDA FoodData Central, SR Legacy, por 100 g: naranja cruda (fdcId 169097), 2,4 g de fibra, 9,35 g de azúcares y 47 kcal; zumo de naranja natural (fdcId 169098), 0,2 g de fibra, 8,4 g de azúcares y 45 kcal. La base española BEDCA (alimentos 2235 y 2468) da 2 g y 0,1 g de fibra, sin precisar si ese zumo es exprimido. OMS, Guideline: sugars intake for adults and children (2015), nota de prensa del 4 de marzo de 2015: cuenta como azúcares libres los que están de forma natural en los zumos de fruta; su guía no se refiere a los azúcares de la fruta fresca, porque no se han descrito efectos adversos con ellos. En la voz, «se parecen» resume los azúcares (9,35 g en la naranja y 8,4 g en el zumo); la energía también se parece (47 y 45 kcal). Sin cálculos propios. Es información de tablas oficiales y de la guía de la OMS, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "mitos"
+}
