@@ -1756,5 +1756,308 @@
     "riesgo_publicar": "medio",
     "poblaciones_en_riesgo": [],
     "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-181",
+    "tema": "mito - aceite de oliva al freír",
+    "enunciado": "El aceite de oliva virgen extra no sirve para freír porque se estropea con el calor antes que otros aceites.",
+    "veredicto": "no_respaldado",
+    "matiz": "En un ensayo de fritura doméstica, los aceites de oliva (también un virgen extra) aguantaron de 24 a 27 horas de fritura hasta llegar al 25 % de compuestos polares, el máximo legal, frente a 15 horas de una mezcla comercial de aceites vegetales (Casal 2010). En España, la norma de aceites calentados exige menos del 25 % de compuestos polares en freidurías, bares y demás establecimientos (Orden de 26 de enero de 1989). Una revisión de 2017 indica que, al freír, el aceite de oliva suele comportarse igual que los aceites vegetales refinados o por encima de ellos. En los aceites de oliva vírgenes, el punto de humo depende sobre todo de sus ácidos grasos libres, y su medida sigue siendo visual y subjetiva, lo que limita su fiabilidad para elegir aceite de fritura (Díez-Betriu 2025, 48 aceites de oliva vírgenes).",
+    "fuente": "Casal S et al. Food Chem Toxicol 2010;48(10):2972-9; Orden de 26 de enero de 1989, norma de calidad para los aceites y grasas calentados (BOE-A-1989-2265), art. 6.3; Chiou A, Kalogeropoulos N. Compr Rev Food Sci Food Saf 2017;16(4):632-46; Díez-Betriu A et al. Foods 2025;14(23):4099",
+    "url": "https://doi.org/10.1016/j.fct.2010.07.036",
+    "anio": 2010,
+    "nivel_evidencia": "estudio experimental de fritura, norma española y revisión",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-182",
+    "tema": "mito - fritos y corazón",
+    "enunciado": "Comer fritos aumenta el riesgo de enfermedad del corazón aunque se frían en aceite de oliva.",
+    "veredicto": "matizado",
+    "matiz": "En la cohorte española del estudio EPIC (40.757 adultos sin enfermedad coronaria al inicio, seguidos una mediana de 11 años), comer más fritos no se asoció con enfermedad coronaria (HR 1,08 del cuarto de mayor consumo frente al de menor; IC 95 % 0,82 a 1,43) ni con la mortalidad total, y el resultado no varió entre quienes freían con oliva y quienes freían con girasol. Un metaanálisis de 2021 de estudios observacionales sí halló un riesgo relativo de 1,28 (IC 95 % 1,15 a 1,43; 17 estudios) de eventos cardiovasculares graves con el mayor consumo de fritos, con heterogeneidad alta (I² del 82,0 %) y posibles sesgos de recuerdo y de clasificación. Son estudios observacionales: muestran asociación, no causa.",
+    "fuente": "Guallar-Castillón P et al. BMJ 2012;344:e363 (cohorte española de EPIC); Qin P et al. Heart 2021;107(19):1567-75",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3265571/",
+    "anio": 2012,
+    "nivel_evidencia": "cohorte prospectiva y metaanálisis de estudios observacionales",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "enfermedad coronaria previa (excluida de la cohorte EPIC)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-183",
+    "tema": "mito - microondas",
+    "enunciado": "El microondas destruye los nutrientes de la comida.",
+    "veredicto": "matizado",
+    "matiz": "En un estudio con verduras, el microondas sin agua (700 W) fue en general el método que más vitamina C conservó y hervir, el que menos: la espinaca retuvo el 91,10 % al microondas y el 40,12 % hervida (Lee 2018). No siempre es así: en el mismo estudio fue el método que más vitamina K hizo perder en dos verduras de hoja, y en brócoli otro estudio midió con microondas una pérdida del 97 % de los flavonoides, frente al 66 % al hervir (Vallejo 2003). La FDA de EE. UU. indica que cocinar en microondas no reduce el valor nutritivo más que la cocina convencional.",
+    "fuente": "Lee S et al. Food Sci Biotechnol 2018;27(2):333-42; Vallejo F et al. J Sci Food Agric 2003;83(14):1511-6; FDA (EE. UU.), Microwave Oven Radiation (actualizada el 10/12/2023)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6049644/",
+    "anio": 2018,
+    "nivel_evidencia": "estudios experimentales de cocción y organismo oficial (FDA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-184",
+    "tema": "mito - microondas",
+    "enunciado": "La comida calentada en el microondas se vuelve radiactiva.",
+    "veredicto": "no_respaldado",
+    "matiz": "El microondas calienta con ondas electromagnéticas de 2,45 gigahercios que hacen vibrar las moléculas de agua del alimento (BfS de Alemania; FDA de EE. UU.). La FDA indica que esa energía se convierte en calor al absorberla el alimento y no lo vuelve «radiactivo» ni lo «contamina». La norma federal de EE. UU. limita la fuga del aparato a 5 mW por cm² a unos 5 cm de su superficie (el BfS alemán cita el mismo límite), y en las mediciones del BfS la fuga media fue el 1 % de ese límite. El riesgo que sí señala el BfS es calentar poco si no se siguen las instrucciones del aparato, lo que puede no eliminar los gérmenes.",
+    "fuente": "FDA (EE. UU.), Microwave Oven Radiation (actualizada el 10/12/2023); BfS (Oficina Federal de Protección Radiológica de Alemania), Microwave ovens (estado de 2023)",
+    "url": "https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-oven-radiation",
+    "anio": 2023,
+    "nivel_evidencia": "organismos oficiales (FDA y BfS)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-185",
+    "tema": "mito - congelados",
+    "enunciado": "Las frutas y verduras congeladas tienen menos vitaminas que las frescas.",
+    "veredicto": "matizado",
+    "matiz": "En 8 frutas y verduras, la vitamina C no varió entre las frescas guardadas en nevera y las congeladas en 5 de ellas, y fue más alta en las congeladas en las otras 3; en conjunto, las vitaminas de los congelados fueron comparables a las de los frescos y a veces más altas (Bouzari 2015). Sí hubo diferencias: el betacaroteno fue más bajo en los guisantes y las zanahorias congelados y bajó mucho en algunos productos, y la riboflavina fue más baja en los guisantes congelados. En un estudio de dos años, la mayoría de las comparaciones no mostró diferencias, y cuando las hubo, el congelado superó al fresco tras 5 días de nevera más veces que al revés (Li 2017).",
+    "fuente": "Bouzari A, Holstege D, Barrett DM. J Agric Food Chem 2015;63(3):957-62; Li L et al. J Food Compos Anal 2017;59:8-17",
+    "url": "https://doi.org/10.1021/jf5058793",
+    "anio": 2015,
+    "nivel_evidencia": "estudios analíticos de composición",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-186",
+    "tema": "mito - anisakis",
+    "enunciado": "El vinagre de los boquerones mata el anisakis.",
+    "veredicto": "no_respaldado",
+    "matiz": "La AESAN incluye los boquerones en vinagre, el escabeche, el ceviche y el ahumado en frío entre las preparaciones con un tratamiento insuficiente para matar al parásito, y dice que deben congelarse antes o después de elaborarlas. Según la AESAN (España), la normativa obliga a los operadores alimentarios que elaboran pescado para consumo en crudo o con una preparación insuficiente para eliminar parásitos a congelarlo a -20 °C durante 24 horas o a -35 °C durante 15 horas como mínimo; para casa da como alternativa congelar a -15 °C o menos durante al menos 4 días, contando 5 desde que el pescado entra en el congelador. El calor también destruye el parásito cuando toda la pieza llega a 60 °C durante al menos un minuto.",
+    "fuente": "AESAN, Anisakis (información para el consumidor; cartel y tríptico revisados en 2025)",
+    "url": "https://www.aesan.gob.es/AECOSAN/web/para_el_consumidor/ampliacion/anisakis.htm",
+    "anio": 2025,
+    "nivel_evidencia": "organismo oficial (AESAN)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con alergia al anisakis"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-187",
+    "tema": "mito - cocinar con alcohol",
+    "enunciado": "Al cocinar con vino o licor, el alcohol se evapora por completo.",
+    "veredicto": "no_respaldado",
+    "matiz": "La tabla de retención de nutrientes del USDA da el porcentaje del alcohol que queda según cómo se cocine: 85 % si se añade a un líquido caliente, 75 % si se flambea, 40 % tras 15 minutos de horno o fuego lento, 25 % tras 1 hora, 10 % tras 2 horas y 5 % tras 2 horas y media. Sin calor y guardado de un día para otro, queda el 70 %. Es la proporción del alcohol inicial que sigue en el plato cocinado.",
+    "fuente": "USDA, Table of Nutrient Retention Factors, Release 6 (diciembre de 2007), códigos 5001 a 5010, columna «Alcohol, ethyl»; datos de Augustin J et al. J Am Diet Assoc 1992;92:486-8",
+    "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/retn/retn06.pdf",
+    "anio": 2007,
+    "nivel_evidencia": "tabla oficial de factores de retención (USDA) basada en un estudio analítico",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazo y lactancia",
+      "niños",
+      "personas que evitan el alcohol"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-201",
+    "tema": "mito - leche desnatada",
+    "enunciado": "La leche desnatada tiene menos nutrientes que la entera.",
+    "veredicto": "matizado",
+    "matiz": "En la tabla española BEDCA, por 100 g, la leche entera tiene 3,8 g de grasa, la semidesnatada 1,6 g y la desnatada 0,2 g; la proteína casi no cambia (3,06 g, 3,2 g y 3,3 g; el calcio, en MIT-202). La energía baja con la grasa: 272,52 kJ, 191,8 kJ y 141,7 kJ; en kcal, el USDA da 61 kcal a la entera de EE. UU. (3,25 % de grasa) y 35 kcal a la desnatada, las dos sin vitaminas añadidas. La vitamina A baja con la grasa (46 µg, 20,5 µg y 0 µg), salvo que se añada: la UE lo permite si se indica en el envase, y cada Estado miembro puede limitarlo. En la UE, la entera tiene como mínimo un 3,50 % de grasa, la semidesnatada entre un 1,50 % y un 1,80 % y la desnatada un 0,50 % como máximo (Reglamento 1308/2013).",
+    "fuente": "BEDCA, Base de Datos Española de Composición de Alimentos (alimentos 2493 «Leche de vaca, entera», 916 «Leche, semidesnatada, pasteurizada» y 915 «Leche, desnatada, pasteurizada»); USDA FoodData Central, SR Legacy (fdcId 172217 y 173432, leches sin vitaminas A y D añadidas); Reglamento (UE) 1308/2013, anexo VII, parte IV, punto III (texto consolidado de 18-08-2026)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02013R1308-20260818",
+    "anio": 2013,
+    "nivel_evidencia": "tablas oficiales de composición de alimentos y reglamento de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-202",
+    "tema": "mito - leche desnatada",
+    "enunciado": "Al desnatar la leche, el calcio se va con la grasa.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la tabla española BEDCA, por 100 g, la leche entera tiene 124 mg de calcio, la semidesnatada 114 mg y la desnatada 112 mg. En la tabla del USDA el orden se invierte: 113 mg la entera y 122 mg la desnatada, las dos sin vitaminas añadidas. En las dos tablas, la desnatada tiene un calcio parecido al de la entera; lo que sí baja con la grasa es la vitamina A (ver MIT-201). Como referencia, la EFSA fija una ingesta de referencia de 950 mg de calcio al día para adultos de 25 años o más.",
+    "fuente": "BEDCA, Base de Datos Española de Composición de Alimentos (alimentos 2493, 916 y 915); USDA FoodData Central, SR Legacy (fdcId 172217 y 173432); EFSA, DRV Finder (calcio)",
+    "url": "https://fdc.nal.usda.gov/download-datasets/",
+    "anio": 2018,
+    "nivel_evidencia": "tablas oficiales de composición de alimentos y valores de referencia de la EFSA",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-203",
+    "tema": "mito - pan tostado",
+    "enunciado": "El pan tostado engorda menos que el pan sin tostar.",
+    "veredicto": "no_respaldado",
+    "matiz": "Al tostar el pan se va sobre todo agua; la energía de la rebanada casi no cambia. Una rebanada de pan blanco de molde pesa 25 g y tiene 67 kcal; tostada, pesa 22 g y tiene 64 kcal (USDA). Como el agua baja del 37 % al 30 %, por 100 g el pan tostado tiene más energía: 290 kcal frente a 266 kcal. En el pan integral, la rebanada pasa de 28 g a 25 g y se queda en 69 kcal.",
+    "fuente": "USDA, Nutritive Value of Foods (Home and Garden Bulletin 72, revisión de octubre de 2002), filas 415, 416, 419 y 420; USDA FoodData Central, SR Legacy (fdcId 174924 «Bread, white, commercially prepared» y 174925 «Bread, white, commercially prepared, toasted»)",
+    "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/hg72/hg72_2002.pdf",
+    "anio": 2002,
+    "nivel_evidencia": "tablas oficiales de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-204",
+    "tema": "mito - pan integral",
+    "enunciado": "El pan integral engorda menos que el pan blanco.",
+    "veredicto": "matizado",
+    "matiz": "Por 100 g, el pan integral y el blanco tienen una energía parecida, y las dos tablas oficiales no coinciden en cuál tiene más: en BEDCA, 1.044,3 kJ el integral y 999,3 kJ el blanco de barra; en el USDA, 252 kcal el integral y 266 kcal el blanco de molde. La diferencia clara está en la fibra: 6 g frente a 3,5 g (BEDCA) y 6 g frente a 2,7 g (USDA). En tres cohortes de adultos de EE. UU. (120.877 personas), cada ración diaria más de cereales integrales se asoció con un cambio de peso de -0,37 libras en 4 años, y cada ración más de cereales refinados, con +0,39 libras; el estudio no da la cifra del pan por separado y son asociaciones, no pruebas de causa. Qué pan puede llamarse «integral» en España: ver MIT-121.",
+    "fuente": "BEDCA, Base de Datos Española de Composición de Alimentos (alimentos 2163 «Pan integral» y 2160 «Pan blanco, de barra»); USDA FoodData Central, SR Legacy (fdcId 172688 «Bread, whole-wheat, commercially prepared» y 174924 «Bread, white, commercially prepared»); Mozaffarian D et al. N Engl J Med 2011;364(25):2392-2404",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3151731/",
+    "anio": 2011,
+    "nivel_evidencia": "tablas oficiales de composición de alimentos y cohortes prospectivas",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-205",
+    "tema": "mito - plátano",
+    "enunciado": "El plátano engorda.",
+    "veredicto": "no_respaldado",
+    "matiz": "Por 100 g, el plátano tiene 89 kcal, 22,84 g de hidratos (12,23 g de azúcares) y 2,6 g de fibra (USDA). Un plátano mediano de 118 g tiene 109 kcal según la tabla por raciones del USDA de 2002. En tres cohortes de adultos de EE. UU. (133.468 personas, 1986-2010), cada ración diaria más de fruta (sin zumo) se asoció con un cambio de peso de -0,24 kg en 4 años. El plátano, analizado por separado, no mostró una asociación clara ni hacia más peso ni hacia menos. Son asociaciones: los autores dicen que no se puede descartar la influencia de otros factores (confusión residual).",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173944 «Bananas, raw»); USDA, Nutritive Value of Foods (Home and Garden Bulletin 72, 2002), fila 280; Bertoia ML et al. PLoS Med 2015;12(9):e1001878",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4578962/",
+    "anio": 2015,
+    "nivel_evidencia": "tablas oficiales de composición de alimentos y cohortes prospectivas",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "diabetes (recuento de hidratos)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-206",
+    "tema": "mito - plátano",
+    "enunciado": "El plátano es la fruta con más potasio.",
+    "veredicto": "no_respaldado",
+    "matiz": "Por 100 g, el plátano tiene 358 mg de potasio: más que el kiwi (312 mg), pero menos que el aguacate, otra fruta fresca (485 mg) (USDA). Algunos alimentos que no son fruta llevan más, como la espinaca cruda (558 mg) o la patata asada con piel (535 mg). Entre las frutas secas, el orejón llega a 1.162 mg. La EFSA fija una ingesta adecuada de 3.500 mg de potasio al día para adultos.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173944 «Bananas, raw», 168153 «Kiwifruit, green, raw», 171705 «Avocados, raw, all commercial varieties», 168462 «Spinach, raw», 170093 «Potatoes, baked, flesh and skin, without salt» y 173941 «Apricots, dried, sulfured, uncooked»); EFSA NDA, Dietary reference values for potassium, EFSA Journal 2016;14(10):4592",
+    "url": "https://fdc.nal.usda.gov/download-datasets/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla oficial de composición de alimentos y valores de referencia de la EFSA",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "enfermedad renal crónica (control del potasio)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-207",
+    "tema": "mito - lactosa",
+    "enunciado": "Si tienes intolerancia a la lactosa, no puedes tomar nada de lactosa.",
+    "veredicto": "matizado",
+    "matiz": "La EFSA (2010) concluye que la tolerancia a la lactosa varía mucho entre personas y que no se puede fijar un umbral único. Algunas personas tienen síntomas con menos de 6 g; la gran mayoría de quienes digieren mal la lactosa toleran hasta 12 g en una sola toma, con síntomas leves o sin ellos, y pueden tolerarse dosis mayores repartidas a lo largo del día. Por 100 g, la leche entera tiene 5,05 g de lactosa (USDA). La galactosemia es otra enfermedad: en ella se eliminan, en lo posible, todas las fuentes de galactosa.",
+    "fuente": "EFSA NDA, Scientific Opinion on lactose thresholds in lactose intolerance and galactosaemia, EFSA Journal 2010;8(9):1777; USDA FoodData Central, SR Legacy (fdcId 172217)",
+    "url": "https://doi.org/10.2903/j.efsa.2010.1777",
+    "anio": 2010,
+    "nivel_evidencia": "dictamen científico de la EFSA y tabla oficial de composición de alimentos",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "galactosemia",
+      "intolerancia a la lactosa (la tolerancia varía mucho entre personas)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-208",
+    "tema": "mito - lactosa",
+    "enunciado": "Con intolerancia a la lactosa no se puede comer queso ni yogur.",
+    "veredicto": "matizado",
+    "matiz": "Por 100 g, la leche entera tiene 5,05 g de lactosa; el queso cheddar, 0,12 g; el queso suizo y el parmesano rallado, 0 g; y el «queso fresco» de la tabla de EE. UU., 2,32 g (USDA). La UE autoriza a decir que los cultivos vivos del yogur o de la leche fermentada facilitan la digestión de la lactosa del producto en las personas con problemas para digerirla. Para llevar esa frase, el producto tiene que tener como mínimo 10⁸ unidades formadoras de colonias de Lactobacillus delbrueckii subsp. bulgaricus y Streptococcus thermophilus por gramo (Reglamento 432/2012).",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 172217, 173414 «Cheese, cheddar», 171251 «Cheese, swiss», 171247 «Cheese, parmesan, grated» y 172223 «Cheese, fresh, queso fresco»); Reglamento (UE) 432/2012, anexo, «Cultivos vivos de yogur» (texto consolidado de 20-08-2025)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02012R0432-20250820",
+    "anio": 2012,
+    "nivel_evidencia": "tabla oficial de composición de alimentos y declaración autorizada por la UE (evaluada por la EFSA en 2010)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "galactosemia",
+      "alergia a la proteína de la leche de vaca (no es lo mismo que la intolerancia a la lactosa)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-221",
+    "tema": "mito - espinacas",
+    "enunciado": "Las espinacas son de los alimentos con más hierro.",
+    "veredicto": "matizado",
+    "matiz": "Por 100 g, las espinacas crudas tienen 2,71 mg de hierro, y las cocidas, 3,57 mg; las lentejas cocidas, 3,33 mg, y los mejillones cocidos, 6,72 mg (USDA). Las plantas solo tienen hierro no hemo; el NIH de EE. UU. indica que el hierro hemo (presente en carne, aves, pescado y marisco) tiene mayor biodisponibilidad y que las espinacas tienen poca biodisponibilidad de hierro porque contienen inhibidores de su absorción, como los polifenoles. Según la misma fuente, la biodisponibilidad del hierro es de alrededor del 14 al 18 % en dietas mixtas con bastante carne, marisco y vitamina C, y del 5 al 12 % en dietas vegetarianas. Como referencia, la EFSA fija una ingesta de referencia de 11 mg de hierro al día para hombres adultos y de 16 mg para mujeres antes de la menopausia.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168462 «Spinach, raw», 168463 «Spinach, cooked, boiled, drained, without salt», 172421 «Lentils, mature seeds, cooked, boiled, without salt» y 174217 «Mollusks, mussel, blue, cooked, moist heat»); NIH Office of Dietary Supplements (EE. UU.), Iron: Fact Sheet for Health Professionals (actualizada el 4 de septiembre de 2025); EFSA, DRV Finder (hierro)",
+    "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+    "anio": 2025,
+    "nivel_evidencia": "tabla oficial de composición de alimentos, hoja técnica de un organismo oficial de EE. UU. (NIH) y valores de referencia de la EFSA",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "dietas vegetarianas (biodisponibilidad del 5 al 12 % según el NIH)",
+      "mujeres antes de la menopausia (ingesta de referencia de 16 mg al día según la EFSA)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-223",
+    "tema": "mito - agua",
+    "enunciado": "Beber agua en las comidas engorda.",
+    "veredicto": "no_respaldado",
+    "matiz": "El agua del grifo aporta 0 kcal (USDA). Una revisión sistemática de 2010 señala que el efecto de beber agua con las comidas está poco estudiado; en adultos que tomaban bebidas azucaradas en lugar de agua antes de una sola comida, la energía total de esa comida fue un 7,8 % mayor. En un ensayo con 24 adultos mayores con sobrepeso u obesidad, 500 ml de agua 30 minutos antes del desayuno redujeron la energía de esa comida en unas 74 kcal (alrededor de un 13 %). Los mismos autores habían visto ese efecto en adultos mayores sin obesidad, pero no en jóvenes.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173647 «Beverages, water, tap, drinking»); Daniels MC, Popkin BM. Nutr Rev 2010;68(9):505-521; Davy BM et al. J Am Diet Assoc 2008;108(7):1236-1239",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2929932/",
+    "anio": 2010,
+    "nivel_evidencia": "revisión sistemática y ECA cruzado pequeño (24 personas)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "personas con restricción de líquidos pautada por su médico"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-224",
+    "tema": "mito - ecológico",
+    "enunciado": "Los alimentos ecológicos son más nutritivos que los convencionales.",
+    "veredicto": "matizado",
+    "matiz": "Dangour 2009 (55 estudios de calidad satisfactoria) no halló evidencia de diferencias en 8 de 11 categorías de nutrientes de los cultivos: los convencionales tenían más nitrógeno, y los ecológicos, más fósforo y más acidez titulable. En Smith-Spangler 2012 (223 estudios de nutrientes y contaminantes), todas las estimaciones de diferencias fueron muy heterogéneas salvo la del fósforo, más alto en lo ecológico pero sin relevancia clínica, y la revisión concluye que no hay evidencia sólida de que lo ecológico sea significativamente más nutritivo. Barański 2014 (343 publicaciones) sí halló más antioxidantes en los cultivos ecológicos, por ejemplo un 50 % más de flavonoles (IC 95 %: del 28 al 72 %), menos cadmio y una frecuencia de residuos de plaguicidas cuatro veces mayor en los cultivos convencionales.",
+    "fuente": "Dangour AD et al. Am J Clin Nutr 2009;90(3):680-685; Smith-Spangler C et al. Ann Intern Med 2012;157(5):348-366; Barański M et al. Br J Nutr 2014;112(5):794-811",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4141693/",
+    "anio": 2014,
+    "nivel_evidencia": "revisiones sistemáticas y metaanálisis",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-225",
+    "tema": "mito - ecológico",
+    "enunciado": "Los alimentos ecológicos no llevan pesticidas.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la UE, cuando las medidas preventivas no bastan contra una plaga, la producción ecológica puede usar productos fitosanitarios, pero solo los autorizados para ella (Reglamento (UE) 2018/848); la lista incluye, entre otros, azufre, piretrinas extraídas de plantas, aceites de parafina y compuestos de cobre, con un máximo de 28 kg de cobre por hectárea en 7 años (Reglamento de Ejecución (UE) 2021/1165). En el informe de la EFSA sobre 2024, el 80,4 % de las 5.939 muestras etiquetadas como ecológicas no tenía residuos cuantificables, el 18,8 % los tenía por debajo del límite legal o en él, y el 0,9 % lo superaba. La EFSA halló tasas de cuantificación y de superación del límite más bajas en lo ecológico que en lo convencional en todas las categorías salvo los productos animales, por el cobre. Los límites máximos de residuos son los mismos para lo ecológico y lo convencional.",
+    "fuente": "Reglamento (UE) 2018/848, anexo II, parte I, punto 1.10.2; Reglamento de Ejecución (UE) 2021/1165, anexo I; EFSA, The 2024 European Union report on pesticide residues in food. EFSA Journal 2026;24(5):e10054",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13140735/",
+    "anio": 2026,
+    "nivel_evidencia": "reglamentos de la UE e informe oficial de control de residuos de la EFSA",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-226",
+    "tema": "mito - ecológico",
+    "enunciado": "«Bio» o «eco» en la etiqueta es solo un reclamo, sin ningún control.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la UE, también en España, el Reglamento (UE) 2018/848 reserva «ecológico», «biológico» y «orgánico», y abreviaturas como «bio» y «eco», a los productos que cumplen sus normas; no pueden usarse en los que no las cumplen, ni tampoco términos, incluidos los de marcas registradas o nombres de empresa, que puedan inducir a error al consumidor sugiriendo que un producto cumple el reglamento. Un alimento transformado solo puede llevarlos en la denominación de venta si, entre otras condiciones, al menos el 95 % de sus ingredientes agrícolas en peso son ecológicos. Salvo algunas excepciones, los operadores deben pasar una verificación del cumplimiento al menos una vez al año, con inspección física in situ; en los que llevan al menos tres años consecutivos sin incumplimientos que afecten a la integridad de sus productos y tienen un bajo grado de probabilidad de incumplimiento, no pueden pasar más de veinticuatro meses entre dos inspecciones físicas. La etiqueta debe llevar el código numérico de la autoridad u organismo de control y, en los alimentos envasados (con algunas excepciones), el logotipo ecológico de la UE, que el reglamento define como una certificación oficial.",
+    "fuente": "Reglamento (UE) 2018/848 sobre producción ecológica y etiquetado de los productos ecológicos, artículos 30, 32, 33 y 38 y anexo IV (texto consolidado en castellano de 25-03-2025)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:02018R0848-20250325",
+    "anio": 2018,
+    "nivel_evidencia": "reglamento de la UE, directamente aplicable en España",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
   }
 ]
