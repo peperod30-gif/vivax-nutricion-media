@@ -1,13 +1,13 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 24.88,
+ "duracion_s": 24.81,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 9.7,
+ "tamano_mb": 9.69,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -16,7 +16,7 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 0.6,
- "n_cambios_visuales": 505,
+ "n_cambios_visuales": 501,
  "bucle_dif_ultimo_primero": 60.45,
  "zona_segura": [
   60,
@@ -1346,7 +1346,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
@@ -1357,7 +1357,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "a",
    "contando": false,
    "r": [
@@ -1368,7 +1368,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "quien",
    "contando": false,
    "r": [
@@ -1379,7 +1379,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "esconde",
    "contando": false,
    "r": [
@@ -1390,7 +1390,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "la",
    "contando": false,
    "r": [
@@ -1401,7 +1401,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "crema",
    "contando": false,
    "r": [
@@ -1412,7 +1412,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "de",
    "contando": false,
    "r": [
@@ -1423,7 +1423,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "cacao.",
    "contando": false,
    "r": [
@@ -1434,7 +1434,7 @@
    ]
   },
   {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "¡Continuará!",
    "contando": false,
    "r": [
@@ -1445,106 +1445,95 @@
    ]
   },
   {
-   "t": 24.8,
-   "texto": "Mañana",
+   "t": 24.733,
+   "texto": "Mañana,",
    "contando": false,
    "r": [
-    148,
-    671,
-    295,
-    731
+    195,
+    669,
+    353,
+    729
    ]
   },
   {
-   "t": 24.8,
-   "texto": "por",
+   "t": 24.733,
+   "texto": "otro",
    "contando": false,
    "r": [
-    303,
-    668,
-    371,
-    725
-   ]
-  },
-  {
-   "t": 24.8,
-   "texto": "la",
-   "contando": false,
-   "r": [
-    379,
-    666,
-    425,
+    360,
+    665,
+    452,
     723
    ]
   },
   {
-   "t": 24.8,
-   "texto": "mañana:",
+   "t": 24.733,
+   "texto": "dato",
    "contando": false,
    "r": [
-    433,
+    460,
+    662,
+    548,
+    720
+   ]
+  },
+  {
+   "t": 24.733,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    556,
     660,
-    594,
-    721
+    600,
+    716
    ]
   },
   {
-   "t": 24.8,
-   "texto": "la",
+   "t": 24.733,
+   "texto": "comida,",
    "contando": false,
    "r": [
-    601,
-    658,
-    648,
-    715
-   ]
-  },
-  {
-   "t": 24.8,
-   "texto": "macedonia,",
-   "contando": false,
-   "r": [
-    199,
-    717,
-    406,
+    189,
+    719,
+    328,
     779
    ]
   },
   {
-   "t": 24.8,
-   "texto": "a",
+   "t": 24.733,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    336,
+    717,
+    406,
+    774
+   ]
+  },
+  {
+   "t": 24.733,
+   "texto": "su",
    "contando": false,
    "r": [
     414,
     715,
-    439,
+    459,
     771
    ]
   },
   {
-   "t": 24.8,
-   "texto": "la",
+   "t": 24.733,
+   "texto": "fuente.",
    "contando": false,
    "r": [
-    447,
-    713,
-    493,
-    770
+    467,
+    709,
+    610,
+    769
    ]
   },
   {
-   "t": 24.8,
-   "texto": "lupa.",
-   "contando": false,
-   "r": [
-    500,
-    710,
-    600,
-    768
-   ]
-  },
-  {
-   "t": 24.8,
+   "t": 24.733,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -1564,7 +1553,7 @@
   14.7,
   15.8,
   19.667,
-  24.8
+  24.733
  ],
  "sonido": {
   "lufs": -16.01,
@@ -1589,7 +1578,7 @@
    "subida": 1
   },
   "descartados": 0,
-  "duracion_s": 24.812,
+  "duracion_s": 24.745,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -2067,16 +2056,16 @@
    "intensidad": 0.45
   },
   {
-   "t": 24.242,
+   "t": 24.164,
    "tipo": "boing",
    "intensidad": 0.22
   }
  ],
- "fotogramas": 745,
- "tiempo_render_s": 78.0,
+ "fotogramas": 743,
+ "tiempo_render_s": 76.2,
  "tiempos_s": {
-  "preparar": 3.89,
-  "dibujar_y_codificar": 71.29
+  "preparar": 3.08,
+  "dibujar_y_codificar": 70.57
  },
  "voz_de_prueba": false,
  "plantilla": "reel_vf_comic",
@@ -2149,7 +2138,7 @@
    "que": "¡Continuará!"
   },
   {
-   "t": 24.8,
+   "t": 24.7333,
    "que": "último fotograma"
   }
  ],
@@ -2177,7 +2166,7 @@
   ]
  ],
  "linea_de_tiempo": {
-  "dur": 24.8333,
+  "dur": 24.7667,
   "cortes": [
    0.0,
    5.411,

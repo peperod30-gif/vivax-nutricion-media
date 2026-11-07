@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 9.78,
+ "tamano_mb": 9.77,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -16,8 +16,8 @@
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 0.334,
- "n_cambios_visuales": 498,
- "bucle_dif_ultimo_primero": 51.02,
+ "n_cambios_visuales": 496,
+ "bucle_dif_ultimo_primero": 51.07,
  "zona_segura": [
   60,
   250,
@@ -2744,90 +2744,90 @@
   },
   {
    "t": 18.867,
-   "texto": "Mañana",
+   "texto": "Mañana,",
    "contando": false,
    "r": [
-    135,
-    679,
-    282,
-    739
-   ]
-  },
-  {
-   "t": 18.867,
-   "texto": "a",
-   "contando": false,
-   "r": [
-    290,
+    175,
     678,
-    316,
-    734
+    333,
+    738
    ]
   },
   {
    "t": 18.867,
-   "texto": "mediodía:",
+   "texto": "otro",
    "contando": false,
    "r": [
-    323,
-    672,
-    498,
-    733
+    340,
+    674,
+    432,
+    732
    ]
   },
   {
    "t": 18.867,
-   "texto": "avena",
+   "texto": "dato",
    "contando": false,
    "r": [
-    506,
-    668,
-    620,
-    727
+    439,
+    671,
+    528,
+    729
    ]
   },
   {
    "t": 18.867,
-   "texto": "contra",
+   "texto": "de",
    "contando": false,
    "r": [
-    163,
+    535,
+    669,
+    580,
+    725
+   ]
+  },
+  {
+   "t": 18.867,
+   "texto": "comida,",
+   "contando": false,
+   "r": [
+    169,
     728,
-    302,
+    308,
     788
    ]
   },
   {
    "t": 18.867,
-   "texto": "cacahuetes,",
+   "texto": "con",
    "contando": false,
    "r": [
-    310,
-    720,
-    541,
+    315,
+    726,
+    386,
     783
    ]
   },
   {
    "t": 18.867,
-   "texto": "en",
+   "texto": "su",
    "contando": false,
    "r": [
-    548,
-    718,
-    595,
-    775
+    393,
+    724,
+    439,
+    780
    ]
   },
   {
    "t": 18.867,
-   "texto": "tiamina.",
+   "texto": "fuente.",
    "contando": false,
    "r": [
-    303,
-    773,
-    458,
-    833
+    446,
+    718,
+    589,
+    778
    ]
   },
   {
@@ -2942,90 +2942,90 @@
   },
   {
    "t": 19.433,
-   "texto": "Mañana",
+   "texto": "Mañana,",
    "contando": false,
    "r": [
-    135,
-    679,
-    282,
-    739
-   ]
-  },
-  {
-   "t": 19.433,
-   "texto": "a",
-   "contando": false,
-   "r": [
-    290,
+    175,
     678,
-    316,
-    734
+    333,
+    738
    ]
   },
   {
    "t": 19.433,
-   "texto": "mediodía:",
+   "texto": "otro",
    "contando": false,
    "r": [
-    323,
-    672,
-    498,
-    733
+    340,
+    674,
+    432,
+    732
    ]
   },
   {
    "t": 19.433,
-   "texto": "avena",
+   "texto": "dato",
    "contando": false,
    "r": [
-    506,
-    668,
-    620,
-    727
+    439,
+    671,
+    528,
+    729
    ]
   },
   {
    "t": 19.433,
-   "texto": "contra",
+   "texto": "de",
    "contando": false,
    "r": [
-    163,
+    535,
+    669,
+    580,
+    725
+   ]
+  },
+  {
+   "t": 19.433,
+   "texto": "comida,",
+   "contando": false,
+   "r": [
+    169,
     728,
-    302,
+    308,
     788
    ]
   },
   {
    "t": 19.433,
-   "texto": "cacahuetes,",
+   "texto": "con",
    "contando": false,
    "r": [
-    310,
-    720,
-    541,
+    315,
+    726,
+    386,
     783
    ]
   },
   {
    "t": 19.433,
-   "texto": "en",
+   "texto": "su",
    "contando": false,
    "r": [
-    548,
-    718,
-    595,
-    775
+    393,
+    724,
+    439,
+    780
    ]
   },
   {
    "t": 19.433,
-   "texto": "tiamina.",
+   "texto": "fuente.",
    "contando": false,
    "r": [
-    303,
-    773,
-    458,
-    833
+    446,
+    718,
+    589,
+    778
    ]
   },
   {
@@ -3413,10 +3413,10 @@
   }
  ],
  "fotogramas": 584,
- "tiempo_render_s": 115.3,
+ "tiempo_render_s": 61.8,
  "tiempos_s": {
-  "preparar": 5.48,
-  "dibujar_y_codificar": 105.18
+  "preparar": 2.45,
+  "dibujar_y_codificar": 57.24
  },
  "voz_de_prueba": false,
  "plantilla": "reel_ranking_comic",

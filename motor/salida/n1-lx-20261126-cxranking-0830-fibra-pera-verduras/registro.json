@@ -1,23 +1,23 @@
 {
  "esquema": "slides-1",
  "version": "fx",
- "duracion_s": 24.64,
+ "duracion_s": 24.18,
  "ancho": 1080,
  "alto": 1920,
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 11.97,
+ "tamano_mb": 11.81,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
- "lufs": -16.0,
+ "lufs": -16.1,
  "pico_dbtp": -1.9,
  "listas_de_edicion": [],
  "moov_antes_de_mdat": true,
  "hueco_max_s": 0.933,
- "n_cambios_visuales": 533,
- "bucle_dif_ultimo_primero": 43.1,
+ "n_cambios_visuales": 524,
+ "bucle_dif_ultimo_primero": 43.48,
  "zona_segura": [
   60,
   250,
@@ -2931,68 +2931,35 @@
   },
   {
    "t": 23.533,
-   "texto": "Mañana",
+   "texto": "Mañana,",
    "contando": false,
    "r": [
-    142,
-    679,
-    286,
+    175,
+    678,
+    333,
     738
    ]
   },
   {
    "t": 23.533,
-   "texto": "temprano:",
+   "texto": "otro",
    "contando": false,
    "r": [
-    294,
-    672,
-    489,
-    733
+    340,
+    674,
+    432,
+    732
    ]
   },
   {
    "t": 23.533,
-   "texto": "lo",
+   "texto": "dato",
    "contando": false,
    "r": [
-    497,
-    670,
-    540,
-    726
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "que",
-   "contando": false,
-   "r": [
-    547,
-    668,
-    612,
-    724
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "se",
-   "contando": false,
-   "r": [
-    206,
-    729,
-    249,
-    785
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "sabe",
-   "contando": false,
-   "r": [
-    256,
-    726,
-    344,
-    783
+    439,
+    671,
+    528,
+    729
    ]
   },
   {
@@ -3000,76 +2967,54 @@
    "texto": "de",
    "contando": false,
    "r": [
-    351,
+    535,
+    669,
+    580,
+    725
+   ]
+  },
+  {
+   "t": 23.533,
+   "texto": "comida,",
+   "contando": false,
+   "r": [
+    169,
+    728,
+    308,
+    788
+   ]
+  },
+  {
+   "t": 23.533,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    315,
+    726,
+    386,
+    783
+   ]
+  },
+  {
+   "t": 23.533,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    393,
     724,
-    395,
+    439,
     780
    ]
   },
   {
    "t": 23.533,
-   "texto": "la",
+   "texto": "fuente.",
    "contando": false,
    "r": [
-    402,
-    722,
-    447,
+    446,
+    718,
+    589,
     778
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "dieta",
-   "contando": false,
-   "r": [
-    455,
-    719,
-    552,
-    776
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "carnívora,",
-   "contando": false,
-   "r": [
-    126,
-    775,
-    328,
-    836
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "en",
-   "contando": false,
-   "r": [
-    335,
-    773,
-    381,
-    829
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "medio",
-   "contando": false,
-   "r": [
-    388,
-    769,
-    490,
-    827
-   ]
-  },
-  {
-   "t": 23.533,
-   "texto": "minuto.",
-   "contando": false,
-   "r": [
-    498,
-    764,
-    635,
-    823
    ]
   },
   {
@@ -3084,7 +3029,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "Mándaselo",
    "contando": false,
    "r": [
@@ -3095,7 +3040,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "a",
    "contando": false,
    "r": [
@@ -3106,7 +3051,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "quien",
    "contando": false,
    "r": [
@@ -3117,7 +3062,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "cree",
    "contando": false,
    "r": [
@@ -3128,7 +3073,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "que",
    "contando": false,
    "r": [
@@ -3139,7 +3084,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "la",
    "contando": false,
    "r": [
@@ -3150,7 +3095,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "fibra",
    "contando": false,
    "r": [
@@ -3161,7 +3106,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "es",
    "contando": false,
    "r": [
@@ -3172,7 +3117,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "cosa",
    "contando": false,
    "r": [
@@ -3183,7 +3128,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "de",
    "contando": false,
    "r": [
@@ -3194,7 +3139,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "verduras.",
    "contando": false,
    "r": [
@@ -3205,7 +3150,7 @@
    ]
   },
   {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "¡Continuará!",
    "contando": false,
    "r": [
@@ -3216,150 +3161,95 @@
    ]
   },
   {
-   "t": 24.567,
-   "texto": "Mañana",
+   "t": 24.1,
+   "texto": "Mañana,",
    "contando": false,
    "r": [
-    142,
-    679,
-    286,
+    175,
+    678,
+    333,
     738
    ]
   },
   {
-   "t": 24.567,
-   "texto": "temprano:",
+   "t": 24.1,
+   "texto": "otro",
    "contando": false,
    "r": [
-    294,
-    672,
-    489,
-    733
+    340,
+    674,
+    432,
+    732
    ]
   },
   {
-   "t": 24.567,
-   "texto": "lo",
+   "t": 24.1,
+   "texto": "dato",
    "contando": false,
    "r": [
-    497,
-    670,
-    540,
-    726
+    439,
+    671,
+    528,
+    729
    ]
   },
   {
-   "t": 24.567,
-   "texto": "que",
+   "t": 24.1,
+   "texto": "de",
    "contando": false,
    "r": [
-    547,
-    668,
-    612,
-    724
+    535,
+    669,
+    580,
+    725
    ]
   },
   {
-   "t": 24.567,
-   "texto": "se",
+   "t": 24.1,
+   "texto": "comida,",
    "contando": false,
    "r": [
-    206,
-    729,
-    249,
-    785
+    169,
+    728,
+    308,
+    788
    ]
   },
   {
-   "t": 24.567,
-   "texto": "sabe",
+   "t": 24.1,
+   "texto": "con",
    "contando": false,
    "r": [
-    256,
+    315,
     726,
-    344,
+    386,
     783
    ]
   },
   {
-   "t": 24.567,
-   "texto": "de",
+   "t": 24.1,
+   "texto": "su",
    "contando": false,
    "r": [
-    351,
+    393,
     724,
-    395,
+    439,
     780
    ]
   },
   {
-   "t": 24.567,
-   "texto": "la",
+   "t": 24.1,
+   "texto": "fuente.",
    "contando": false,
    "r": [
-    402,
-    722,
-    447,
+    446,
+    718,
+    589,
     778
    ]
   },
   {
-   "t": 24.567,
-   "texto": "dieta",
-   "contando": false,
-   "r": [
-    455,
-    719,
-    552,
-    776
-   ]
-  },
-  {
-   "t": 24.567,
-   "texto": "carnívora,",
-   "contando": false,
-   "r": [
-    126,
-    775,
-    328,
-    836
-   ]
-  },
-  {
-   "t": 24.567,
-   "texto": "en",
-   "contando": false,
-   "r": [
-    335,
-    773,
-    381,
-    829
-   ]
-  },
-  {
-   "t": 24.567,
-   "texto": "medio",
-   "contando": false,
-   "r": [
-    388,
-    769,
-    490,
-    827
-   ]
-  },
-  {
-   "t": 24.567,
-   "texto": "minuto.",
-   "contando": false,
-   "r": [
-    498,
-    764,
-    635,
-    823
-   ]
-  },
-  {
-   "t": 24.567,
+   "t": 24.1,
    "texto": "@vivax_nutri",
    "contando": false,
    "r": [
@@ -3391,14 +3281,14 @@
   18.7,
   19.733,
   23.533,
-  24.567
+  24.1
  ],
  "sonido": {
   "lufs": -16.09,
   "pico_dbtp": -2.05,
   "recortes": 0,
-  "reduccion_max_db": 2.57,
-  "tiempo_reduccion_mas_1db_pct": 0.1,
+  "reduccion_max_db": 2.48,
+  "tiempo_reduccion_mas_1db_pct": 0.09,
   "efectos_por_tipo": {
    "pum": 9,
    "boing": 5,
@@ -3413,7 +3303,7 @@
    "whoosh": 2
   },
   "descartados": 0,
-  "duracion_s": 24.579,
+  "duracion_s": 24.112,
   "cama": false,
   "sala": true,
   "desfase_con_el_video_s": -0.0,
@@ -3433,8 +3323,8 @@
   "mezcla": {
    "efectos_db": -7,
    "ducking": 0.5,
-   "lufs_wav": -16.02,
-   "limitador_max_db": 1.84
+   "lufs_wav": -16.03,
+   "limitador_max_db": 1.83
   }
  },
  "efectos": [
@@ -3809,16 +3699,16 @@
    "intensidad": 0.45
   },
   {
-   "t": 23.921,
+   "t": 23.541,
    "tipo": "boing",
    "intensidad": 0.24
   }
  ],
- "fotogramas": 738,
- "tiempo_render_s": 124.7,
+ "fotogramas": 724,
+ "tiempo_render_s": 71.5,
  "tiempos_s": {
-  "preparar": 4.44,
-  "dibujar_y_codificar": 114.6
+  "preparar": 2.44,
+  "dibujar_y_codificar": 66.56
  },
  "voz_de_prueba": false,
  "plantilla": "reel_ranking_comic",
@@ -3840,7 +3730,7 @@
   18.6,
   20.0333,
   22.0667,
-  24.5667
+  24.1
  ],
  "muestras_rotulos": [
   "fotograma 0: portada",
@@ -3867,7 +3757,7 @@
   "fruta"
  ],
  "linea_de_tiempo": {
-  "dur": 24.6,
+  "dur": 24.1333,
   "n": 6,
   "nombre": [
    4.981,
