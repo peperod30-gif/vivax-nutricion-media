@@ -1,0 +1,120 @@
+{
+  "id": "n1-lx-20261108-cxexplica-1300-mito-fruta-azucar",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxexplica",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-016",
+    "GAN-005"
+  ],
+  "titulo": "[CXEXPLICA] ¿La fruta engorda por su azúcar? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "kicker": "Mito o realidad",
+      "titulo": "¿La fruta engorda por su azúcar? Mito o {realidad}.",
+      "dice": [
+        "¡OH!"
+      ],
+      "sigue": [
+        "En directo"
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "I",
+      "titulo": "El tope de la OMS",
+      "dice": [
+        "¡TACHÁN!"
+      ],
+      "cifra": "10",
+      "unidad": "%",
+      "texto": "de la energía diaria",
+      "sigue": [
+        "Última hora"
+      ],
+      "voz": "Uno: azúcares libres, menos del diez por ciento de la energía."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "II",
+      "titulo": "La fruta fresca no cuenta",
+      "dice": [
+        "¡OJO!"
+      ],
+      "sigue": [
+        "Última hora"
+      ],
+      "voz": "Dos: la fruta fresca no cuenta entre ellos."
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "III",
+      "titulo": "El zumo sí cuenta",
+      "dice": [
+        "¡EH!"
+      ],
+      "sigue": [
+        "Última hora"
+      ],
+      "voz": "Tres: zumos, miel y jarabes, sí."
+    },
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Veredicto: {mito}",
+      "resalte": "Lo que dice la OMS",
+      "frase": "Con la fruta fresca no se ha documentado daño.",
+      "fuente": "Guía de la OMS sobre azúcares. El zumo concentrado también cuenta como azúcar libre. No es una recomendación personal.",
+      "voz": "Veredicto: mito. Con la fruta fresca no se ha documentado daño."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien aparta la fruta.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Esta tarde: de las dos fechas del envase, solo una habla de seguridad."
+    }
+  ],
+  "pie_instagram": "¿La fruta engorda por su azúcar? Mito o realidad.\n\nI · El tope de la OMS: azúcares libres: menos del 10 % de la energía diaria.\nII · La fruta fresca no cuenta: no está entre los azúcares libres de la OMS.\nIII · El zumo sí cuenta: zumos, miel, jarabes y azúcares añadidos, sí.\n\nEs divulgación resumida de normas y datos publicados, con sus fuentes en el primer comentario; no es una recomendación personal ni una pauta de comer o evitar nada.\n\nLo que dice la OMS: con la fruta fresca no se ha documentado daño.\n\n¿Tú también lo creías?\nMándaselo a quien aparta la fruta.\nEsta tarde: de las dos fechas del envase, solo una habla de seguridad.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #fruta #azucar #nutricion",
+  "alt": [
+    "Reel de dibujos animados en blanco, negro y verde oliva, como un telediario dentro de una nevera: Oli presenta con micrófono tras la mesa y el invitado sale en la tele; subtítulos grandes de la voz palabra a palabra. Portada: una manzana con cara se sorprende bajo el titular «¿La fruta engorda por su azúcar? Mito o realidad.», con un terrón de azúcar, una naranja y una lenteja alrededor. Mito o realidad. I. El tope de la OMS. Un terrón de azúcar reacciona y los demás muñecos también. La cifra salta en una pegatina: 10 % de la energía diaria. II. La fruta fresca no cuenta. Una manzana reacciona y los demás muñecos también. III. El zumo sí cuenta. Un terrón de azúcar reacciona y los demás muñecos también. Veredicto: mito. Lo que dice la OMS: con la fruta fresca no se ha documentado daño. Una manzana levanta el pulgar. Cierre: Oli saluda y dice «Mándaselo a quien aparta la fruta». Una ráfaga dice «¡Continuará!». Esta tarde: de las dos fechas del envase, solo una habla de seguridad."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-08",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_explica_comic",
+    "formato": "CXEXPLICA",
+    "lote": "lux-2026-11",
+    "hora": "13:00",
+    "nota": "plantilla reel_explica_comic (Vivax Cómic: formato «telediario», noticias de la nevera: telediario con Oli presentadora (AV); piel de dibujos de la familia reel_explica) · spec n1-lux-20261108-1300-mito-fruta-azucar",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "plantilla_registro": "reel_explica_comic",
+    "familia": "reel_explica",
+    "mecanica": "reel_explica",
+    "variante": "a",
+    "formato_visual": "telediario",
+    "formato_visual_nombre": "noticias de la nevera: telediario con Oli presentadora (AV)",
+    "spec_id": "n1-lux-20261108-1300-mito-fruta-azucar",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "pilar_plan": "mitos",
+    "frente": "publico",
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261108-1300-mito-fruta-azucar",
+    "plantilla_visual": "reel_explica_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuente: OMS, Guideline: sugars intake for adults and children (2015). La OMS no incluye la fruta fresca entre los azúcares libres, y no se ha documentado daño con ella; sí cuentan los zumos, la miel, los jarabes y los azúcares añadidos, y el zumo concentrado cuenta como azúcar libre (MIT-016). La OMS recomienda que los azúcares libres no superen el 10 % de la energía diaria (recomendación fuerte) y propone el 5 % como objetivo condicional, con evidencia de calidad baja; la fruta fresca y la leche no cuentan como azúcares libres (GAN-005). Sin cálculos propios. Es información de la guía, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "mitos"
+}
