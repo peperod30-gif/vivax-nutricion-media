@@ -1,0 +1,70 @@
+{
+  "id": "n1-h-20261110-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "DEB-026"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: martes 10-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 10-nov a las 09:30. Hechos: DEB-026.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (una gota de aceite, un kiwi, un limón y otros) y Oli, la aceituna de Vivax. Martes. Hoy en el feed. A la una: Mito o realidad. A las siete: Once años tomando multivitamínico: un sí y un no. A las nueve: Dos dulces con la misma grasa, al decimal."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Martes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Mito o realidad"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "Once años tomando multivitamínico: un sí y un no."
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Dos dulces con la misma grasa, al decimal."
+        }
+      ],
+      "dice": [
+        "¡OJO!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-10",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261110-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "posits",
+    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
+    "reparto": [
+      "gota",
+      "kiwi",
+      "limon",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "oli"
+    ]
+  }
+}
