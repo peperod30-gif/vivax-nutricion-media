@@ -1,0 +1,34 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 7-nov-2026: «sustitúyeme el 70 % de las publicaciones de cantidades por Mitos o realidad… prefiero que me des todas las de un día seguidas, las apruebo y ya me das las del siguiente día»",
+  "texto": "Pongo las publicaciones nuevas del 2026-11-10 («Mito o realidad») en sus huecos; te llegan ahora para que las valides.",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261110-cxduelo-1300-cacahuetes-avena-tiamina"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261110-cxduelo-1300-cacahuetes-avena-tiamina"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261110-cxexplica-1300-mito-ayuno-calorias",
+      "hora": "2026-11-10T13:00:00+01:00"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261110-cx-cifra-1630-magnesio-lentejas-cola"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261110-cx-cifra-1630-magnesio-lentejas-cola"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261110-cx-leccion-1630-mito-hidratos-peso",
+      "hora": "2026-11-10T16:30:00+01:00"
+    }
+  ]
+}
