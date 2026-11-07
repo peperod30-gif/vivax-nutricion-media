@@ -10,12 +10,12 @@
   "pilar_plan": "Agenda",
   "serie": "historias",
   "hechos": [
-    "ALI-142"
+    "MIT-018"
   ],
   "titulo": "[HISTORIA] Hoy en el feed: miércoles 11-nov",
-  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 11-nov a las 09:30. Hechos: ALI-142.",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 11-nov a las 09:30. Hechos: MIT-018.",
   "alt": [
-    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (un terrón de azúcar, una sardina, una cuña de queso y otros) y Oli, la aceituna de Vivax. Miércoles. Hoy en el feed. A las diez y media: Reto: ordena esta macedonia por azúcares. A las siete: Mito o dato. A las diez menos cuarto: Diez cucharaditas en una lata: el matiz que falta."
+    "Historia de cómic en verde oliva, blanco y negro (BI menú del día), con muñecos de alimentos con cara (una sardina, una cuña de queso, un brócoli y otros) y Oli, la aceituna de Vivax. Miércoles. Hoy en el feed. A las diez y media: ¿Dietas exprés sin consecuencias? Mito o realidad. A las siete: Mito o dato. A las nueve: Diez cucharaditas en una lata: el matiz que falta."
   ],
   "hojas": [
     {
@@ -25,16 +25,19 @@
       "filas": [
         {
           "cab": "A las diez y media",
-          "texto": "Reto: ordena esta macedonia por azúcares."
+          "texto": "¿Dietas exprés sin consecuencias? Mito o realidad."
         },
         {
           "cab": "A las siete",
           "texto": "Mito o dato"
         },
         {
-          "cab": "A las diez menos cuarto",
+          "cab": "A las nueve",
           "texto": "Diez cucharaditas en una lata: el matiz que falta"
         }
+      ],
+      "dice": [
+        "¡ÑAM!"
       ]
     }
   ],
@@ -49,18 +52,18 @@
     "variante": "aviso",
     "spec": "n1-h-20261111-0930-aviso",
     "lote_serie": "historias-cx",
-    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pizarra); la hora la pone una orden («acciones» con hora), no el autopiloto",
     "estilo": "comic",
-    "formato_visual": "chat",
-    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "formato_visual": "pizarra",
+    "mundo": "BI menú del día: la agenda a tiza en la pizarra, Oli de camarera y la clientela asomada a la barra",
     "reparto": [
-      "terron",
       "pescado",
       "queso",
       "brocoli",
       "zanahoria",
       "platano",
       "tomate",
+      "kiwi",
       "oli"
     ]
   }
