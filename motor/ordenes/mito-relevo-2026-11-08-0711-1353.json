@@ -1,0 +1,34 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 7-nov-2026: «sustitúyeme el 70 % de las publicaciones de cantidades por Mitos o realidad… prefiero que me des todas las de un día seguidas, las apruebo y ya me das las del siguiente día»",
+  "texto": "Pongo las publicaciones nuevas del 2026-11-08 («Mito o realidad») en sus huecos; te llegan ahora para que las valides.",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261108-cxranking-1300-fruta-fibra-alubias"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261108-cxranking-1300-fruta-fibra-alubias"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261108-cxexplica-1300-mito-fruta-azucar",
+      "hora": "2026-11-08T13:00:00+01:00"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261108-cxduelo-2100-nata-bacon-grasa"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261108-cxduelo-2100-nata-bacon-grasa"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261108-cxvf-2100-mito-tres-creencias",
+      "hora": "2026-11-08T21:00:00+01:00"
+    }
+  ]
+}
