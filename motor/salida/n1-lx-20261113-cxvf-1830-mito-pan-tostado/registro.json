@@ -1,0 +1,1944 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.74,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 8.67,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.267,
+ "n_cambios_visuales": 664,
+ "bucle_dif_ultimo_primero": 60.59,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿El pan tostado engorda menos? Mito o",
+   "contando": false,
+   "r": [
+    70,
+    259,
+    937,
+    486
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    608,
+    351,
+    913,
+    462
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    913,
+    341,
+    937,
+    464
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Al",
+   "contando": false,
+   "r": [
+    136,
+    521,
+    233,
+    674
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tostar",
+   "contando": false,
+   "r": [
+    258,
+    518,
+    549,
+    673
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    574,
+    516,
+    664,
+    669
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pan,",
+   "contando": false,
+   "r": [
+    689,
+    514,
+    872,
+    668
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    184,
+    619,
+    281,
+    772
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    306,
+    617,
+    456,
+    771
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    481,
+    616,
+    577,
+    769
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    602,
+    615,
+    704,
+    768
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    729,
+    614,
+    825,
+    767
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "sobre",
+   "contando": false,
+   "r": [
+    137,
+    717,
+    388,
+    872
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "todo",
+   "contando": false,
+   "r": [
+    413,
+    715,
+    615,
+    869
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "agua.",
+   "contando": false,
+   "r": [
+    640,
+    712,
+    874,
+    867
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    118,
+    1025,
+    382,
+    1102
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    591,
+    1024,
+    730,
+    1100
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "¿El pan tostado engorda menos? Mito o",
+   "contando": false,
+   "r": [
+    70,
+    259,
+    937,
+    486
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    608,
+    351,
+    913,
+    462
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    913,
+    341,
+    937,
+    464
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "Al",
+   "contando": false,
+   "r": [
+    136,
+    521,
+    233,
+    674
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "tostar",
+   "contando": false,
+   "r": [
+    258,
+    518,
+    549,
+    673
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    574,
+    516,
+    664,
+    669
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "pan,",
+   "contando": false,
+   "r": [
+    689,
+    514,
+    872,
+    668
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    184,
+    619,
+    281,
+    772
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    306,
+    617,
+    456,
+    771
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    481,
+    616,
+    577,
+    769
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "va",
+   "contando": false,
+   "r": [
+    602,
+    615,
+    704,
+    768
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    729,
+    614,
+    825,
+    767
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "sobre",
+   "contando": false,
+   "r": [
+    137,
+    717,
+    388,
+    872
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "todo",
+   "contando": false,
+   "r": [
+    413,
+    715,
+    615,
+    869
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "agua.",
+   "contando": false,
+   "r": [
+    640,
+    712,
+    874,
+    867
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    118,
+    1025,
+    382,
+    1102
+   ]
+  },
+  {
+   "t": 3.567,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    591,
+    1024,
+    730,
+    1100
+   ]
+  },
+  {
+   "t": 4.933,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    121,
+    1020,
+    380,
+    1101
+   ]
+  },
+  {
+   "t": 4.933,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    591,
+    1024,
+    730,
+    1100
+   ]
+  },
+  {
+   "t": 4.933,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 4.933,
+   "texto": "del 37 % al 30 %",
+   "contando": false,
+   "r": [
+    648,
+    303,
+    894,
+    478
+   ]
+  },
+  {
+   "t": 4.933,
+   "texto": "de agua al tostarlo",
+   "contando": false,
+   "r": [
+    670,
+    486,
+    894,
+    534
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Al",
+   "contando": false,
+   "r": [
+    175,
+    520,
+    272,
+    673
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "tostarla,",
+   "contando": false,
+   "r": [
+    297,
+    516,
+    710,
+    672
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    736,
+    515,
+    832,
+    668
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "rebanada",
+   "contando": false,
+   "r": [
+    151,
+    616,
+    562,
+    773
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "pierde",
+   "contando": false,
+   "r": [
+    587,
+    613,
+    859,
+    768
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "muchas",
+   "contando": false,
+   "r": [
+    123,
+    716,
+    459,
+    872
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    485,
+    712,
+    889,
+    868
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    119,
+    1023,
+    381,
+    1101
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    591,
+    1027,
+    731,
+    1101
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    119,
+    1023,
+    381,
+    1101
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    592,
+    1022,
+    730,
+    1099
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "64",
+   "contando": false,
+   "r": [
+    691,
+    300,
+    790,
+    449
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    791,
+    367,
+    858,
+    423
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "Rebanada tostada",
+   "contando": false,
+   "r": [
+    723,
+    455,
+    833,
+    519
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "67",
+   "contando": false,
+   "r": [
+    130,
+    307,
+    200,
+    411
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    199,
+    359,
+    244,
+    396
+   ]
+  },
+  {
+   "t": 11.033,
+   "texto": "Sin tostar",
+   "contando": false,
+   "r": [
+    136,
+    417,
+    235,
+    446
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Gramo",
+   "contando": false,
+   "r": [
+    102,
+    520,
+    384,
+    672
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    408,
+    519,
+    461,
+    669
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "gramo,",
+   "contando": false,
+   "r": [
+    485,
+    516,
+    793,
+    668
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    818,
+    515,
+    906,
+    665
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    130,
+    618,
+    283,
+    769
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "tostado",
+   "contando": false,
+   "r": [
+    308,
+    615,
+    646,
+    767
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    671,
+    612,
+    880,
+    763
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    206,
+    714,
+    384,
+    865
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    409,
+    710,
+    806,
+    863
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    119,
+    1024,
+    382,
+    1102
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    591,
+    1024,
+    730,
+    1100
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    119,
+    1023,
+    381,
+    1102
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    591,
+    1024,
+    730,
+    1100
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "290",
+   "contando": false,
+   "r": [
+    661,
+    297,
+    814,
+    456
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    810,
+    359,
+    879,
+    418
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Tostado, por 100 g",
+   "contando": false,
+   "r": [
+    708,
+    449,
+    856,
+    519
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "266",
+   "contando": false,
+   "r": [
+    114,
+    291,
+    221,
+    401
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    216,
+    350,
+    263,
+    389
+   ]
+  },
+  {
+   "t": 17.3,
+   "texto": "Sin tostar, por 100 g",
+   "contando": false,
+   "r": [
+    113,
+    401,
+    255,
+    458
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "¿Tostado",
+   "contando": false,
+   "r": [
+    170,
+    271,
+    510,
+    407
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "engorda",
+   "contando": false,
+   "r": [
+    530,
+    264,
+    838,
+    399
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "menos?",
+   "contando": false,
+   "r": [
+    260,
+    357,
+    544,
+    492
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "Mito.",
+   "contando": false,
+   "r": [
+    567,
+    363,
+    748,
+    476
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "Al",
+   "contando": false,
+   "r": [
+    147,
+    583,
+    215,
+    692
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "tostar",
+   "contando": false,
+   "r": [
+    232,
+    579,
+    441,
+    690
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    458,
+    577,
+    521,
+    686
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "pan,",
+   "contando": false,
+   "r": [
+    537,
+    574,
+    684,
+    685
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    701,
+    573,
+    765,
+    682
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "energía",
+   "contando": false,
+   "r": [
+    148,
+    677,
+    404,
+    789
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    420,
+    675,
+    504,
+    784
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    521,
+    673,
+    585,
+    782
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "rebanada",
+   "contando": false,
+   "r": [
+    601,
+    668,
+    923,
+    781
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    150,
+    776,
+    294,
+    886
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    310,
+    774,
+    395,
+    883
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "cambia.",
+   "contando": false,
+   "r": [
+    412,
+    769,
+    683,
+    882
+   ]
+  },
+  {
+   "t": 21.433,
+   "texto": "Pan blanco de molde, datos del USDA. Fuentes en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    154,
+    973,
+    877,
+    1064
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    150,
+    955,
+    408,
+    1025
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    420,
+    955,
+    450,
+    1025
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    462,
+    955,
+    590,
+    1025
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "tuesta",
+   "contando": false,
+   "r": [
+    156,
+    1015,
+    322,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    334,
+    1015,
+    387,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "pan",
+   "contando": false,
+   "r": [
+    399,
+    1015,
+    486,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    498,
+    1015,
+    584,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    210,
+    1075,
+    293,
+    1145
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    305,
+    1075,
+    530,
+    1145
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.567,
+  4.933,
+  9.633,
+  11.033,
+  15.9,
+  17.3,
+  21.433,
+  26.667
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 1.8,
+  "tiempo_reduccion_mas_1db_pct": 0.12,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "boing": 10,
+   "sello": 3,
+   "ding": 7,
+   "pop": 11,
+   "zas": 3,
+   "golpe": 1,
+   "contador": 13,
+   "whoosh": 2,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.679,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 311,
+   "texto": "Al tostar el pan, lo que se va es sobre todo agua. ¡Verdadero! Al tostarla, la rebanada pierde muchas calorías. ¡Falso! Casi no cambia. Gramo a gramo, el pan tostado tiene más calorías. ¡Verdadero! Tiene menos agua. Mito. Tostada o no, casi las mismas calorías. Mándaselo a quien tuesta el pan por las calorías.",
+   "duracion_voz_s": 24.405,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Al tostar el pan, lo que se va es sobre todo agua.",
+     "t0": 0.0213,
+     "t1": 2.9013
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.6663,
+     "t1": 4.1863
+    },
+    {
+     "id": "a1",
+     "texto": "Al tostarla, la rebanada pierde muchas calorías.",
+     "t0": 6.2713,
+     "t1": 9.0713
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! Casi no cambia.",
+     "t0": 9.7413,
+     "t1": 11.2463
+    },
+    {
+     "id": "a2",
+     "texto": "Gramo a gramo, el pan tostado tiene más calorías.",
+     "t0": 12.4763,
+     "t1": 15.3563
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero! Tiene menos agua.",
+     "t0": 16.0113,
+     "t1": 17.5213
+    },
+    {
+     "id": "c",
+     "texto": "Mito. Tostada o no, casi las mismas calorías.",
+     "t0": 18.5813,
+     "t1": 21.4113
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien tuesta el pan por las calorías.",
+     "t0": 22.0263,
+     "t1": 24.2663
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.04,
+   "limitador_max_db": 1.65
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.571,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.521,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.971,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.226,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.626,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.646,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.696,
+   "tipo": "ding",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.696,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.939,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.533,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.146,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.186,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.206,
+   "tipo": "pop",
+   "intensidad": 0.42
+  },
+  {
+   "t": 6.871,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.781,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.691,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.141,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.301,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.701,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 9.721,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.771,
+   "tipo": "ding",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.771,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.941,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.021,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.121,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.221,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.221,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 10.321,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.421,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.521,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.621,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 11.041,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.661,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.301,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.341,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.361,
+   "tipo": "pop",
+   "intensidad": 0.42
+  },
+  {
+   "t": 13.076,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.026,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.976,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.426,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 15.571,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.971,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 15.991,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 16.041,
+   "tipo": "ding",
+   "intensidad": 0.4
+  },
+  {
+   "t": 16.041,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 16.211,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.291,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.391,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.491,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.491,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 16.591,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.691,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.791,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 17.466,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.241,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.361,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 21.041,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.091,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.541,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.841,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.041,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.066,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.366,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 24.666,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.826,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.916,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.098,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 801,
+ "tiempo_render_s": 194.2,
+ "tiempos_s": {
+  "preparar": 14.18,
+  "dibujar_y_codificar": 173.88
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "juego",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.8333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.8333,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.9333,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.7667,
+   "que": "II · entra"
+  },
+  {
+   "t": 9.0,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 9.9333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 11.0333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 12.9667,
+   "que": "III · entra"
+  },
+  {
+   "t": 15.2667,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 16.2,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 17.3,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 19.1333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.4333,
+   "que": "conclusión"
+  },
+  {
+   "t": 22.9333,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 24.6667,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 26.6667,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "pan",
+   "vaso",
+   "terron",
+   "etiqueta",
+   "lenteja"
+  ],
+  [
+   "pan",
+   "fruta",
+   "huevo",
+   "limon",
+   "kiwi"
+  ],
+  [
+   "pan",
+   "vaso",
+   "gota",
+   "queso",
+   "fruta"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 26.7,
+  "cortes": [
+   0.0,
+   6.126,
+   12.281,
+   18.241,
+   21.541
+  ],
+  "t_ono": 24.366,
+  "t_anz": 24.666,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.971,
+    "tv": 3.646,
+    "pasos": [
+     0.621,
+     1.571,
+     2.521
+    ],
+    "t_out": 5.826
+   },
+   {
+    "t_in": 6.126,
+    "t0": 6.271,
+    "buzz": 9.141,
+    "tv": 9.721,
+    "pasos": [
+     6.871,
+     7.781,
+     8.691
+    ],
+    "t_out": 11.981
+   },
+   {
+    "t_in": 12.281,
+    "t0": 12.476,
+    "buzz": 15.426,
+    "tv": 15.991,
+    "pasos": [
+     13.076,
+     14.026,
+     14.976
+    ],
+    "t_out": 18.741
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-203",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #pan #calorias #nutricion #verdaderoofalso»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿El pan tostado engorda menos? Mito o realidad.  Al tos»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Cuál de las tres te creía»"
+ ],
+ "limpio": true
+}

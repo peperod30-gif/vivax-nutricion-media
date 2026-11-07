@@ -1,0 +1,1839 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 27.18,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.52,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.334,
+ "n_cambios_visuales": 663,
+ "bucle_dif_ultimo_primero": 44.74,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿El plátano engorda? Mito o",
+   "contando": false,
+   "r": [
+    74,
+    257,
+    933,
+    505
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    460,
+    362,
+    803,
+    486
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    803,
+    351,
+    830,
+    488
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    68,
+    482,
+    177,
+    637
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    199,
+    472,
+    547,
+    633
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "mediano",
+   "contando": false,
+   "r": [
+    570,
+    461,
+    933,
+    623
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    114,
+    577,
+    330,
+    735
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "poco",
+   "contando": false,
+   "r": [
+    352,
+    570,
+    562,
+    728
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    585,
+    565,
+    769,
+    722
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    791,
+    561,
+    893,
+    716
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cien",
+   "contando": false,
+   "r": [
+    202,
+    675,
+    381,
+    831
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    403,
+    663,
+    811,
+    826
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "¿El plátano engorda? Mito o",
+   "contando": false,
+   "r": [
+    74,
+    257,
+    933,
+    505
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    460,
+    362,
+    803,
+    486
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    803,
+    351,
+    830,
+    488
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    68,
+    482,
+    177,
+    637
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    199,
+    472,
+    547,
+    633
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "mediano",
+   "contando": false,
+   "r": [
+    570,
+    461,
+    933,
+    623
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    114,
+    577,
+    330,
+    735
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "poco",
+   "contando": false,
+   "r": [
+    352,
+    570,
+    562,
+    728
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    585,
+    565,
+    769,
+    722
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    791,
+    561,
+    893,
+    716
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "cien",
+   "contando": false,
+   "r": [
+    202,
+    675,
+    381,
+    831
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    403,
+    663,
+    811,
+    826
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "109",
+   "contando": false,
+   "r": [
+    667,
+    298,
+    807,
+    456
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    802,
+    360,
+    873,
+    420
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "plátano mediano, 118 g",
+   "contando": false,
+   "r": [
+    707,
+    452,
+    862,
+    525
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    140,
+    474,
+    254,
+    665
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    282,
+    461,
+    712,
+    661
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    740,
+    457,
+    862,
+    648
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "casi",
+   "contando": false,
+   "r": [
+    251,
+    590,
+    477,
+    784
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "todo",
+   "contando": false,
+   "r": [
+    505,
+    583,
+    758,
+    777
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "azúcar.",
+   "contando": false,
+   "r": [
+    303,
+    706,
+    713,
+    906
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 8.167,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "12,23",
+   "contando": false,
+   "r": [
+    669,
+    299,
+    859,
+    445
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    860,
+    364,
+    880,
+    416
+   ]
+  },
+  {
+   "t": 9.567,
+   "texto": "de azúcares por 100 g",
+   "contando": false,
+   "r": [
+    686,
+    454,
+    871,
+    518
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "Una",
+   "contando": false,
+   "r": [
+    119,
+    481,
+    271,
+    630
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "ración",
+   "contando": false,
+   "r": [
+    293,
+    472,
+    568,
+    625
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    589,
+    467,
+    765,
+    616
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    786,
+    463,
+    883,
+    611
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "fruta",
+   "contando": false,
+   "r": [
+    197,
+    570,
+    429,
+    722
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    450,
+    567,
+    545,
+    715
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "día",
+   "contando": false,
+   "r": [
+    566,
+    563,
+    694,
+    711
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    716,
+    560,
+    809,
+    707
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "asoció",
+   "contando": false,
+   "r": [
+    138,
+    665,
+    411,
+    817
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    432,
+    660,
+    585,
+    809
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    606,
+    652,
+    874,
+    804
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "peso.",
+   "contando": false,
+   "r": [
+    401,
+    753,
+    617,
+    904
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 15.367,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    136,
+    967,
+    364,
+    1041
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    710,
+    971,
+    831,
+    1037
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "-0,24 kg en 4 años",
+   "contando": false,
+   "r": [
+    649,
+    305,
+    902,
+    467
+   ]
+  },
+  {
+   "t": 16.767,
+   "texto": "ración diaria, sin zumo",
+   "contando": false,
+   "r": [
+    670,
+    486,
+    893,
+    530
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "¿El",
+   "contando": false,
+   "r": [
+    75,
+    276,
+    205,
+    416
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "plátano",
+   "contando": false,
+   "r": [
+    226,
+    269,
+    538,
+    413
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "engorda?",
+   "contando": false,
+   "r": [
+    560,
+    261,
+    933,
+    406
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "Mito.",
+   "contando": false,
+   "r": [
+    410,
+    370,
+    602,
+    489
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    147,
+    584,
+    200,
+    677
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "plátano,",
+   "contando": false,
+   "r": [
+    214,
+    580,
+    452,
+    676
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "analizado",
+   "contando": false,
+   "r": [
+    466,
+    574,
+    745,
+    671
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    760,
+    572,
+    858,
+    666
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "separado,",
+   "contando": false,
+   "r": [
+    148,
+    663,
+    439,
+    760
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    453,
+    661,
+    525,
+    755
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "mostró",
+   "contando": false,
+   "r": [
+    540,
+    658,
+    747,
+    753
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "una",
+   "contando": false,
+   "r": [
+    762,
+    655,
+    870,
+    749
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "asociación",
+   "contando": false,
+   "r": [
+    150,
+    746,
+    467,
+    843
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "clara",
+   "contando": false,
+   "r": [
+    481,
+    743,
+    632,
+    837
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    646,
+    742,
+    701,
+    834
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "hacia",
+   "contando": false,
+   "r": [
+    715,
+    738,
+    876,
+    833
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    151,
+    832,
+    275,
+    926
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "peso",
+   "contando": false,
+   "r": [
+    289,
+    829,
+    430,
+    924
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "ni",
+   "contando": false,
+   "r": [
+    444,
+    828,
+    499,
+    921
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "hacia",
+   "contando": false,
+   "r": [
+    513,
+    825,
+    674,
+    920
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "menos.",
+   "contando": false,
+   "r": [
+    688,
+    821,
+    900,
+    917
+   ]
+  },
+  {
+   "t": 22.5,
+   "texto": "Son asociaciones en adultos de EE. UU.: no se descarta la influencia de otros factores. Fuentes en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    938,
+    931,
+    1066
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    176,
+    1014,
+    308,
+    1086
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "aparta",
+   "contando": false,
+   "r": [
+    321,
+    1014,
+    497,
+    1086
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    510,
+    1014,
+    564,
+    1086
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "plátano.",
+   "contando": false,
+   "r": [
+    261,
+    1076,
+    479,
+    1148
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 27.1,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.433,
+  4.8,
+  8.167,
+  9.567,
+  15.367,
+  16.767,
+  22.5,
+  27.1
+ ],
+ "sonido": {
+  "lufs": -16.04,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.63,
+  "tiempo_reduccion_mas_1db_pct": 0.25,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "boing": 12,
+   "sello": 3,
+   "ding": 4,
+   "pop": 7,
+   "contador": 14,
+   "zas": 3,
+   "golpe": 1,
+   "whoosh": 2,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 27.112,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 319,
+   "texto": "Un plátano mediano tiene poco más de cien calorías. ¡Verdadero! El plátano es casi todo azúcar. ¡Falso! Unos doce gramos de cada cien. Una ración más de fruta al día se asoció con menos peso. ¡Verdadero! ¿Engorda? Mito: por separado, el plátano no mostró relación clara con el peso. Mándaselo a quien aparta el plátano.",
+   "duracion_voz_s": 24.855,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Un plátano mediano tiene poco más de cien calorías.",
+     "t0": 0.0213,
+     "t1": 2.8913
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.5363,
+     "t1": 4.0963
+    },
+    {
+     "id": "a1",
+     "texto": "El plátano es casi todo azúcar.",
+     "t0": 5.7163,
+     "t1": 7.6363
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! Unos doce gramos de cada cien.",
+     "t0": 8.2713,
+     "t1": 10.4883
+    },
+    {
+     "id": "a2",
+     "texto": "Una ración más de fruta al día se asoció con menos peso.",
+     "t0": 11.7413,
+     "t1": 14.7813
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero!",
+     "t0": 15.4713,
+     "t1": 15.9243
+    },
+    {
+     "id": "c",
+     "texto": "¿Engorda? Mito: por separado, el plátano no mostró relación clara con el peso.",
+     "t0": 18.0263,
+     "t1": 22.6613
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien aparta el plátano.",
+     "t0": 23.1163,
+     "t1": 24.7163
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.03,
+   "limitador_max_db": 2.06
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.566,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.511,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.961,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.014,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.496,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.516,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.566,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.736,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.816,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.916,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.016,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.116,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.216,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.316,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.416,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.439,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.003,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.586,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.626,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.316,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.256,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.706,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 7.753,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.231,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.251,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.301,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.471,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 8.551,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.651,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.751,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.851,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.951,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.051,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.151,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.336,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.061,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.786,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.531,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.571,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.341,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.028,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.714,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.401,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.851,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.956,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.431,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 15.451,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 15.501,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 15.671,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.419,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 17.028,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 17.636,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.756,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 22.106,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.156,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.606,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 22.906,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 23.106,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.516,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.816,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 25.116,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 25.276,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 25.366,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.54,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 814,
+ "tiempo_render_s": 222.8,
+ "tiempos_s": {
+  "preparar": 8.08,
+  "dibujar_y_codificar": 203.47
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "meme",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.8,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.7,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.8,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.2,
+   "que": "II · entra"
+  },
+  {
+   "t": 7.5667,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 8.4667,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 9.5667,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 12.2333,
+   "que": "III · entra"
+  },
+  {
+   "t": 14.7,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 15.6667,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 16.7667,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 18.5333,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 22.5,
+   "que": "conclusión"
+  },
+  {
+   "t": 24.0,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 25.1,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 27.1,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "platano",
+   "nuez",
+   "fruta",
+   "zanahoria",
+   "huevo"
+  ],
+  [
+   "terron",
+   "aguacate",
+   "pescado",
+   "tomate",
+   "limon"
+  ],
+  [
+   "fruta",
+   "nuez",
+   "brocoli",
+   "zanahoria",
+   "pescado"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 27.1333,
+  "cortes": [
+   0.0,
+   5.566,
+   11.511,
+   17.636,
+   22.606
+  ],
+  "t_ono": 24.816,
+  "t_anz": 25.116,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.961,
+    "tv": 3.516,
+    "pasos": [
+     0.621,
+     1.566,
+     2.511
+    ],
+    "t_out": 5.266
+   },
+   {
+    "t_in": 5.566,
+    "t0": 5.716,
+    "buzz": 7.706,
+    "tv": 8.251,
+    "pasos": [
+     6.316,
+     7.256
+    ],
+    "t_out": 11.211
+   },
+   {
+    "t_in": 11.511,
+    "t0": 11.741,
+    "buzz": 14.851,
+    "tv": 15.451,
+    "pasos": [
+     12.341,
+     13.028,
+     13.714,
+     14.401
+    ],
+    "t_out": 18.136
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "afirmaciones[0]: no hay icono «platano» en lux_iconos: se dibuja el marcador genérico (campana)",
+  "afirmaciones[1]: no hay icono «azucar» en lux_iconos: se dibuja el marcador genérico (campana)",
+  "conclusion: no hay icono «platano»: se dibuja el marcador genérico",
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-205",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #platano #fruta #nutricion»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿El plátano engorda? Mito o realidad.  Un plá»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Cuál de las tres te creía»"
+ ],
+ "limpio": true
+}

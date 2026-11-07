@@ -1,0 +1,117 @@
+{
+  "id": "n1-lx-20261129-cxvf-1830-mito-legumbres-engordan",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-242"
+  ],
+  "titulo": "[CXVF] ¿Las legumbres engordan? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Las legumbres engordan? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Las lentejas cocidas tienen menos calorías que los garbanzos.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "116",
+      "unidad": "kcal",
+      "items": [
+        {
+          "nombre": "Lentejas cocidas"
+        },
+        {
+          "nombre": "Garbanzos cocidos",
+          "valor": "164 kcal"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Comer legumbres cada día hace subir de peso.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "-0,34 kg",
+      "dato": "frente a dietas sin ellas"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La diferencia se vio también en dietas para mantener el peso.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "dietas pensadas para mantener el peso",
+      "dato": "no solo en las de régimen"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Con legumbres, el peso no subió; la diferencia fue pequeña.",
+      "fuente": "Datos de pocas semanas. Calorías por 100 g de legumbre cocida (USDA). Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Las legumbres engordan? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien aparta las lentejas.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Las legumbres engordan? Mito o realidad.\n\nLas lentejas cocidas tienen menos calorías que los garbanzos. Verdadero: lentejas cocidas 116 kcal, garbanzos cocidos 164 kcal (por 100 g, cocidas).\nComer legumbres cada día hace subir de peso. Falso: -0,34 kg (frente a dietas sin ellas).\nLa diferencia se vio también en dietas para mantener el peso. Verdadero: dietas pensadas para mantener el peso (no solo en las de régimen).\n\nLas cifras por 100 g son lo que lleva el alimento, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato final: Con legumbres, el peso no subió; la diferencia fue pequeña. Datos de pocas semanas. Calorías por 100 g de legumbre cocida (USDA). Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien aparta las lentejas.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #legumbres #lentejas #garbanzos #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la encuesta de historia (BM), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Las legumbres engordan? Mito o realidad. I. Las lentejas cocidas tienen menos calorías que los garbanzos. Sello: Verdadero. La prueba: 116 kcal (Lentejas cocidas); Garbanzos cocidos: 164 kcal, por 100 g, cocidas. Una lenteja lo celebra. II. Comer legumbres cada día hace subir de peso. Sello: Falso. La prueba: -0,34 kg (Dietas con legumbres), frente a dietas sin ellas. Una lenteja se queda con la boca abierta. III. La diferencia se vio también en dietas para mantener el peso. Sello: Verdadero. La prueba: dietas pensadas para mantener el peso (Dietas con legumbres), no solo en las de régimen. Una lenteja lo celebra. ¿Las legumbres engordan? Mito. Lo que dicen los datos: Con legumbres, el peso no subió; la diferencia fue pequeña. Cierre: Oli saluda y dice «Mándaselo a quien aparta las lentejas». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la encuesta de historia (BM), quiz de ideas) · spec n1-lux-20261129-1830-mito-legumbres-engordan · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261129-1830-mito-legumbres-engordan",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "encuesta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261129-1830-mito-legumbres-engordan",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-242; veredicto del banco: no respaldado). Peso: Kim SJ y colaboradores, Am J Clin Nutr 2016;103(5):1213-1223, metaanálisis de 21 ensayos aleatorizados con 940 personas: las dietas con legumbres (mediana de 132 g al día, una ración aproximadamente) dieron -0,34 kg (IC 95 % de -0,63 a -0,04; p = 0,03) frente a dietas sin legumbres. La duración mediana fue de 6 semanas, así que son ensayos cortos. La diferencia se vio también en dietas pensadas para mantener el peso, no solo en las hipocalóricas. Resumen consultado en Europe PMC (PMID 27030531). Composición: USDA FoodData Central, SR Legacy (fdcId 172421, 175203 y 173757): por 100 g cocidas, lentejas 116 kcal, alubias blancas 139 kcal y garbanzos 164 kcal. Lenguaje de la pantalla: «menos calorías que los garbanzos» compara 116 y 164 kcal por 100 g de legumbre cocida; «hace subir de peso» se contrasta con los -0,34 kg frente a dietas sin legumbres («salió un poco al revés», en la voz); «dietas para mantener el peso» es la frase del banco «dietas pensadas para mantener el peso», y «no solo en las de régimen» resume que no se vio solo en las dietas hipocalóricas; «el peso no subió» y «la diferencia fue pequeña» resumen esos -0,34 kg; «datos de pocas semanas» es la mediana de 6 semanas. Es información sobre legumbres, no una recomendación personal ni de peso. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

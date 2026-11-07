@@ -1,0 +1,2106 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.74,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 9.64,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.233,
+ "n_cambios_visuales": 664,
+ "bucle_dif_ultimo_primero": 46.55,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿Chocolate negro, menos calorías? Mito o",
+   "contando": false,
+   "r": [
+    75,
+    261,
+    910,
+    469
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    635,
+    345,
+    914,
+    446
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    914,
+    335,
+    936,
+    447
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    113,
+    528,
+    197,
+    672
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "chocolate",
+   "contando": false,
+   "r": [
+    219,
+    521,
+    632,
+    670
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "negro",
+   "contando": false,
+   "r": [
+    655,
+    516,
+    893,
+    662
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    101,
+    618,
+    319,
+    764
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    341,
+    613,
+    602,
+    760
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    625,
+    608,
+    908,
+    755
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    190,
+    710,
+    330,
+    855
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    353,
+    708,
+    437,
+    852
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    459,
+    706,
+    552,
+    850
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "leche.",
+   "contando": false,
+   "r": [
+    575,
+    702,
+    822,
+    848
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "¿Chocolate negro, menos calorías? Mito o",
+   "contando": false,
+   "r": [
+    75,
+    261,
+    910,
+    469
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    635,
+    345,
+    914,
+    446
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    914,
+    335,
+    936,
+    447
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    113,
+    528,
+    197,
+    672
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "chocolate",
+   "contando": false,
+   "r": [
+    219,
+    521,
+    632,
+    670
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "negro",
+   "contando": false,
+   "r": [
+    655,
+    516,
+    893,
+    662
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    101,
+    618,
+    319,
+    764
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    341,
+    613,
+    602,
+    760
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "azúcar",
+   "contando": false,
+   "r": [
+    625,
+    608,
+    908,
+    755
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    190,
+    710,
+    330,
+    855
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    353,
+    708,
+    437,
+    852
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    459,
+    706,
+    552,
+    850
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "leche.",
+   "contando": false,
+   "r": [
+    575,
+    702,
+    822,
+    848
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 3.433,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "23,99",
+   "contando": false,
+   "r": [
+    662,
+    296,
+    860,
+    444
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    856,
+    355,
+    878,
+    404
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "Negro, 70-85 % de cacao",
+   "contando": false,
+   "r": [
+    697,
+    448,
+    866,
+    522
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "51,5",
+   "contando": false,
+   "r": [
+    126,
+    304,
+    238,
+    414
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    233,
+    363,
+    248,
+    400
+   ]
+  },
+  {
+   "t": 4.8,
+   "texto": "Con leche",
+   "contando": false,
+   "r": [
+    137,
+    414,
+    229,
+    448
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    137,
+    529,
+    216,
+    663
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "chocolate",
+   "contando": false,
+   "r": [
+    237,
+    522,
+    624,
+    662
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "negro",
+   "contando": false,
+   "r": [
+    645,
+    518,
+    868,
+    655
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    102,
+    614,
+    289,
+    750
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    310,
+    609,
+    554,
+    747
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "calorías",
+   "contando": false,
+   "r": [
+    575,
+    603,
+    906,
+    742
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    210,
+    699,
+    341,
+    835
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    362,
+    698,
+    441,
+    832
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    462,
+    696,
+    549,
+    830
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "leche.",
+   "contando": false,
+   "r": [
+    570,
+    691,
+    801,
+    828
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 9.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "598",
+   "contando": false,
+   "r": [
+    669,
+    299,
+    813,
+    449
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    814,
+    366,
+    880,
+    421
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "Negro, 70-85 % de cacao",
+   "contando": false,
+   "r": [
+    694,
+    454,
+    862,
+    519
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "535",
+   "contando": false,
+   "r": [
+    114,
+    306,
+    216,
+    411
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    216,
+    359,
+    260,
+    397
+   ]
+  },
+  {
+   "t": 10.433,
+   "texto": "Con leche",
+   "contando": false,
+   "r": [
+    140,
+    417,
+    231,
+    446
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "Al",
+   "contando": false,
+   "r": [
+    99,
+    527,
+    195,
+    678
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "menos,",
+   "contando": false,
+   "r": [
+    218,
+    522,
+    520,
+    676
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    543,
+    520,
+    632,
+    670
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "negro",
+   "contando": false,
+   "r": [
+    656,
+    515,
+    907,
+    668
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "lleva",
+   "contando": false,
+   "r": [
+    101,
+    622,
+    331,
+    775
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "menos",
+   "contando": false,
+   "r": [
+    354,
+    617,
+    629,
+    771
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    653,
+    612,
+    907,
+    765
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    173,
+    719,
+    321,
+    871
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    345,
+    717,
+    433,
+    868
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    457,
+    715,
+    555,
+    866
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "leche.",
+   "contando": false,
+   "r": [
+    579,
+    710,
+    839,
+    864
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 14.933,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    178,
+    964,
+    456,
+    1041
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    680,
+    964,
+    826,
+    1041
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "42,63",
+   "contando": false,
+   "r": [
+    662,
+    296,
+    860,
+    444
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    856,
+    355,
+    878,
+    404
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "Negro, 70-85 % de cacao",
+   "contando": false,
+   "r": [
+    697,
+    448,
+    866,
+    522
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "29,66",
+   "contando": false,
+   "r": [
+    104,
+    302,
+    260,
+    416
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "g",
+   "contando": false,
+   "r": [
+    254,
+    365,
+    270,
+    401
+   ]
+  },
+  {
+   "t": 16.3,
+   "texto": "Con leche",
+   "contando": false,
+   "r": [
+    137,
+    414,
+    229,
+    448
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "¿Menos",
+   "contando": false,
+   "r": [
+    158,
+    272,
+    442,
+    407
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "calorías",
+   "contando": false,
+   "r": [
+    462,
+    265,
+    786,
+    401
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    806,
+    264,
+    850,
+    394
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "grasa?",
+   "contando": false,
+   "r": [
+    269,
+    358,
+    535,
+    492
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "Mito.",
+   "contando": false,
+   "r": [
+    558,
+    363,
+    739,
+    476
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "Por",
+   "contando": false,
+   "r": [
+    147,
+    583,
+    247,
+    677
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "100 g,",
+   "contando": false,
+   "r": [
+    261,
+    580,
+    426,
+    675
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    440,
+    579,
+    494,
+    672
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "negro",
+   "contando": false,
+   "r": [
+    508,
+    576,
+    676,
+    671
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    690,
+    574,
+    762,
+    667
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "70-85 %",
+   "contando": false,
+   "r": [
+    148,
+    664,
+    390,
+    760
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    404,
+    661,
+    552,
+    755
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    566,
+    659,
+    690,
+    753
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "calorías",
+   "contando": false,
+   "r": [
+    150,
+    747,
+    385,
+    843
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "y",
+   "contando": false,
+   "r": [
+    399,
+    746,
+    435,
+    839
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    450,
+    744,
+    573,
+    838
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "grasa;",
+   "contando": false,
+   "r": [
+    588,
+    740,
+    774,
+    835
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    789,
+    739,
+    843,
+    832
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    151,
+    832,
+    259,
+    926
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "baja",
+   "contando": false,
+   "r": [
+    273,
+    830,
+    399,
+    924
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "es",
+   "contando": false,
+   "r": [
+    413,
+    828,
+    483,
+    922
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    497,
+    827,
+    551,
+    920
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "azúcar.",
+   "contando": false,
+   "r": [
+    565,
+    823,
+    782,
+    919
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "Composición por 100 g en la tabla de EE. UU.; la diferencia de azúcar depende del cacao. Fuentes en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    936,
+    924,
+    1066
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    150,
+    955,
+    408,
+    1025
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    420,
+    955,
+    450,
+    1025
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    462,
+    955,
+    590,
+    1025
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "elige",
+   "contando": false,
+   "r": [
+    151,
+    1015,
+    272,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    284,
+    1015,
+    337,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "negro",
+   "contando": false,
+   "r": [
+    349,
+    1015,
+    491,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    504,
+    1015,
+    589,
+    1085
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    210,
+    1075,
+    293,
+    1145
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    305,
+    1075,
+    530,
+    1145
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 26.667,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.433,
+  4.8,
+  9.033,
+  10.433,
+  14.933,
+  16.3,
+  21.233,
+  26.667
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.9,
+  "tiempo_reduccion_mas_1db_pct": 0.26,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "boing": 10,
+   "sello": 3,
+   "ding": 3,
+   "pop": 10,
+   "contador": 21,
+   "zas": 3,
+   "whoosh": 4,
+   "golpe": 2,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.679,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 324,
+   "texto": "El chocolate negro lleva menos azúcar que el de leche. ¡Verdadero! El chocolate negro tiene menos calorías que el de leche. ¡Falso! Tiene más. Al menos, el negro lleva menos grasa que el de leche. ¡Falso! Lleva más. Mito: más calorías y más grasa; lo que baja es el azúcar. Mándaselo a quien elige el negro por las calorías.",
+   "duracion_voz_s": 24.474,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "El chocolate negro lleva menos azúcar que el de leche.",
+     "t0": 0.0213,
+     "t1": 2.8233
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.5348,
+     "t1": 4.1748
+    },
+    {
+     "id": "a1",
+     "texto": "El chocolate negro tiene menos calorías que el de leche.",
+     "t0": 5.7048,
+     "t1": 8.4248
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! Tiene más.",
+     "t0": 9.1398,
+     "t1": 10.4198
+    },
+    {
+     "id": "a2",
+     "texto": "Al menos, el negro lleva menos grasa que el de leche.",
+     "t0": 11.6048,
+     "t1": 14.4048
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! Lleva más.",
+     "t0": 15.0198,
+     "t1": 16.4198
+    },
+    {
+     "id": "c",
+     "texto": "Mito: más calorías y más grasa; lo que baja es el azúcar.",
+     "t0": 17.3998,
+     "t1": 21.2548
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien elige el negro por las calorías.",
+     "t0": 21.8098,
+     "t1": 24.2898
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 2.1
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.532,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.443,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.893,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 2.995,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.495,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.515,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.565,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.735,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.815,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.915,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.015,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.015,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 4.115,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.215,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.315,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.415,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.793,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.59,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.63,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.65,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 6.305,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.175,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.045,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.495,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.613,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.1,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 9.12,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.17,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 9.34,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.42,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.52,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.62,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.62,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 9.72,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.82,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.92,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.02,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.233,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.847,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.48,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.52,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.54,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 12.205,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.115,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.025,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.475,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.543,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.98,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 15.0,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 15.05,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 15.22,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.3,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.4,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.5,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.5,
+   "tipo": "pop",
+   "intensidad": 0.32
+  },
+  {
+   "t": 15.6,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.7,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.8,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.9,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 16.038,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.577,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 17.115,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.235,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 20.83,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 20.88,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.33,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.63,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.83,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.09,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.39,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 24.69,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.85,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.94,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.11,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 801,
+ "tiempo_render_s": 82.1,
+ "tiempos_s": {
+  "preparar": 3.35,
+  "dibujar_y_codificar": 76.66
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "encuesta",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.7333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.7,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.8,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.2,
+   "que": "II · entra"
+  },
+  {
+   "t": 8.3333,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 9.3333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 10.4333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 12.1,
+   "que": "III · entra"
+  },
+  {
+   "t": 14.3333,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 15.2,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 16.3,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 18.0,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.2333,
+   "que": "conclusión"
+  },
+  {
+   "t": 22.7333,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 24.7,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 26.6667,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "terron",
+   "vaso",
+   "gota",
+   "aguacate",
+   "pan"
+  ],
+  [
+   "terron",
+   "vaso",
+   "platano",
+   "pan",
+   "zanahoria"
+  ],
+  [
+   "terron",
+   "vaso",
+   "nuez",
+   "kiwi",
+   "salero"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 26.7,
+  "cortes": [
+   0.0,
+   5.57,
+   11.46,
+   17.115,
+   21.33
+  ],
+  "t_ono": 24.39,
+  "t_anz": 24.69,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.893,
+    "tv": 3.515,
+    "pasos": [
+     0.621,
+     1.532,
+     2.443
+    ],
+    "t_out": 5.27
+   },
+   {
+    "t_in": 5.57,
+    "t0": 5.705,
+    "buzz": 8.495,
+    "tv": 9.12,
+    "pasos": [
+     6.305,
+     7.175,
+     8.045
+    ],
+    "t_out": 11.16
+   },
+   {
+    "t_in": 11.46,
+    "t0": 11.605,
+    "buzz": 14.475,
+    "tv": 15.0,
+    "pasos": [
+     12.205,
+     13.115,
+     14.025
+    ],
+    "t_out": 17.615
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-266",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #chocolate #chocolatenegro #cacao #nutricion»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿Chocolate negro, menos calorías? Mito o realidad.  El cho»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Cuál de las tres te creía»"
+ ],
+ "limpio": true
+}

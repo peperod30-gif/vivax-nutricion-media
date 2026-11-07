@@ -1,0 +1,110 @@
+{
+  "id": "n1-lx-20261116-cxvf-1830-mito-agua-comidas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-223"
+  ],
+  "titulo": "[CXVF] ¿Agua en la comida engorda? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Agua en la comida engorda? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Beber agua comiendo suma calorías.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "0",
+      "unidad": "kcal",
+      "dato": "agua del grifo"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Con bebida azucarada en vez de agua, la comida suma más calorías.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "7,8",
+      "unidad": "%",
+      "dato": "más kcal en esa comida"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Medio litro de agua antes del desayuno hace comer más.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "unas 74 kcal",
+      "dato": "menos, en adultos mayores"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "El agua del grifo aporta 0 kcal, y el efecto de beberla con las comidas tiene pocos datos.",
+      "fuente": "En jóvenes no se vio ese efecto del desayuno. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Agua en la comida engorda? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien no bebe agua comiendo.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Agua en la comida engorda? Mito o realidad.\n\nBeber agua comiendo suma calorías. Falso: agua del grifo 0 kcal (agua del grifo).\nCon bebida azucarada en vez de agua, la comida suma más calorías. Verdadero: bebida azucarada 7,8 % (más kcal en esa comida).\nMedio litro de agua antes del desayuno hace comer más. Falso: unas 74 kcal (menos, en adultos mayores).\n\nY el dato final: El agua del grifo aporta 0 kcal, y el efecto de beberla con las comidas tiene pocos datos. En jóvenes no se vio ese efecto del desayuno. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien no bebe agua comiendo.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #agua #hidratacion #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la ruleta (BC), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Agua en la comida engorda? Mito o realidad. I. Beber agua comiendo suma calorías. Sello: Falso. La prueba: 0 kcal (Agua del grifo), agua del grifo. Una gota de aceite se queda con la boca abierta. II. Con bebida azucarada en vez de agua, la comida suma más calorías. Sello: Verdadero. La prueba: 7,8 % (Bebida azucarada), más kcal en esa comida. Un terrón de azúcar lo celebra. III. Medio litro de agua antes del desayuno hace comer más. Sello: Falso. La prueba: unas 74 kcal (Agua antes del desayuno), menos, en adultos mayores. Una rebanada de pan se queda con la boca abierta. ¿Agua en la comida engorda? Mito. Lo que dicen los datos: El agua del grifo aporta 0 kcal, y el efecto de beberla con las comidas tiene pocos datos. Cierre: Oli saluda y dice «Mándaselo a quien no bebe agua comiendo». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-16",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la ruleta (BC), quiz de ideas) · spec n1-lux-20261116-1830-mito-agua-comidas · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261116-1830-mito-agua-comidas",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "ruleta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261116-1830-mito-agua-comidas",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-223; veredicto del banco: no respaldado). Calorías del agua: USDA FoodData Central, SR Legacy (fdcId 173647, «Beverages, water, tap, drinking»): el agua del grifo aporta 0 kcal. Bebidas azucaradas: Daniels MC, Popkin BM. Nutr Rev 2010;68(9):505-521, revisión sistemática: el efecto de beber agua con las comidas está poco estudiado; en adultos que tomaban bebidas azucaradas en lugar de agua antes de una sola comida, la energía total de esa comida fue un 7,8 % mayor. Agua antes del desayuno: Davy BM y colaboradores, J Am Diet Assoc 2008;108(7):1236-1239, ensayo cruzado con 24 adultos mayores con sobrepeso u obesidad: 500 ml de agua 30 minutos antes del desayuno redujeron la energía de esa comida en unas 74 kcal (alrededor de un 13 %); los mismos autores habían visto ese efecto en adultos mayores sin obesidad, pero no en jóvenes. Lenguaje de la pantalla: «medio litro» son los 500 ml del ensayo, tomados 30 minutos antes del desayuno; «la gente mayor comió menos» resume que la energía de ese desayuno bajó en adultos mayores (con sobrepeso u obesidad en este ensayo y sin obesidad en el anterior de los mismos autores); «suma más calorías» se refiere a la energía total de una sola comida, con la bebida azucarada tomada en lugar de agua antes de ella; «pocos datos» resume «poco estudiado». Las personas con restricción de líquidos pautada por su médico tienen su propia pauta. Son datos de población, no una recomendación personal ni de peso. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

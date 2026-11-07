@@ -1,0 +1,1823 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 28.08,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 8.68,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.267,
+ "n_cambios_visuales": 677,
+ "bucle_dif_ultimo_primero": 56.14,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿El zero engorda igual? Mito o",
+   "contando": false,
+   "r": [
+    75,
+    261,
+    818,
+    494
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    590,
+    355,
+    911,
+    471
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    911,
+    344,
+    936,
+    473
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    111,
+    503,
+    232,
+    677
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "zero",
+   "contando": false,
+   "r": [
+    259,
+    498,
+    479,
+    674
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "engorda",
+   "contando": false,
+   "r": [
+    506,
+    489,
+    914,
+    669
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "igual",
+   "contando": false,
+   "r": [
+    184,
+    610,
+    441,
+    788
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    467,
+    606,
+    638,
+    782
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    665,
+    602,
+    845,
+    778
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    227,
+    723,
+    407,
+    898
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "azúcar.",
+   "contando": false,
+   "r": [
+    434,
+    714,
+    807,
+    894
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "¿El zero engorda igual? Mito o",
+   "contando": false,
+   "r": [
+    75,
+    261,
+    818,
+    494
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    590,
+    355,
+    911,
+    471
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    911,
+    344,
+    936,
+    473
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "Un",
+   "contando": false,
+   "r": [
+    111,
+    503,
+    232,
+    677
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "zero",
+   "contando": false,
+   "r": [
+    259,
+    498,
+    479,
+    674
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "engorda",
+   "contando": false,
+   "r": [
+    506,
+    489,
+    914,
+    669
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "igual",
+   "contando": false,
+   "r": [
+    184,
+    610,
+    441,
+    788
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    467,
+    606,
+    638,
+    782
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "uno",
+   "contando": false,
+   "r": [
+    665,
+    602,
+    845,
+    778
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    227,
+    723,
+    407,
+    898
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "azúcar.",
+   "contando": false,
+   "r": [
+    434,
+    714,
+    807,
+    894
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 3.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 4.4,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 4.4,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 4.4,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 4.4,
+   "texto": "1,06 kg menos de peso",
+   "contando": false,
+   "r": [
+    676,
+    308,
+    872,
+    494
+   ]
+  },
+  {
+   "t": 4.4,
+   "texto": "en unas 12 semanas",
+   "contando": false,
+   "r": [
+    668,
+    486,
+    896,
+    537
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "Con",
+   "contando": false,
+   "r": [
+    150,
+    501,
+    330,
+    677
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    357,
+    498,
+    459,
+    672
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "zero,",
+   "contando": false,
+   "r": [
+    486,
+    492,
+    737,
+    670
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    763,
+    489,
+    875,
+    664
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    125,
+    611,
+    419,
+    789
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "corporal",
+   "contando": false,
+   "r": [
+    445,
+    601,
+    904,
+    782
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "fue",
+   "contando": false,
+   "r": [
+    122,
+    725,
+    282,
+    901
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "algo",
+   "contando": false,
+   "r": [
+    309,
+    720,
+    537,
+    897
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "menor.",
+   "contando": false,
+   "r": [
+    564,
+    712,
+    912,
+    891
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 9.467,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 10.833,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 10.833,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 10.833,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 10.833,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 10.833,
+   "texto": "0,60 puntos menos de porcentaje",
+   "contando": false,
+   "r": [
+    649,
+    310,
+    903,
+    493
+   ]
+  },
+  {
+   "t": 10.833,
+   "texto": "de grasa corporal",
+   "contando": false,
+   "r": [
+    663,
+    492,
+    892,
+    532
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    89,
+    507,
+    189,
+    663
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    212,
+    502,
+    397,
+    660
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "recomienda",
+   "contando": false,
+   "r": [
+    421,
+    491,
+    935,
+    656
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "edulcorantes",
+   "contando": false,
+   "r": [
+    99,
+    596,
+    696,
+    763
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "para",
+   "contando": false,
+   "r": [
+    720,
+    591,
+    930,
+    750
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "controlar",
+   "contando": false,
+   "r": [
+    104,
+    699,
+    561,
+    862
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    584,
+    697,
+    676,
+    852
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "peso.",
+   "contando": false,
+   "r": [
+    700,
+    691,
+    929,
+    850
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 16.033,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 17.4,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 17.4,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    126,
+    1424,
+    334,
+    1482
+   ]
+  },
+  {
+   "t": 17.4,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    545,
+    1424,
+    655,
+    1482
+   ]
+  },
+  {
+   "t": 17.4,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 17.4,
+   "texto": "recomienda no usar edulcorantes",
+   "contando": false,
+   "r": [
+    649,
+    306,
+    905,
+    470
+   ]
+  },
+  {
+   "t": 17.4,
+   "texto": "para controlar el peso",
+   "contando": false,
+   "r": [
+    669,
+    486,
+    895,
+    530
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "¿El",
+   "contando": false,
+   "r": [
+    186,
+    275,
+    308,
+    407
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "zero",
+   "contando": false,
+   "r": [
+    328,
+    271,
+    494,
+    404
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "engorda",
+   "contando": false,
+   "r": [
+    515,
+    264,
+    822,
+    400
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "igual?",
+   "contando": false,
+   "r": [
+    215,
+    359,
+    454,
+    493
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "Depende.",
+   "contando": false,
+   "r": [
+    477,
+    362,
+    793,
+    478
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "Pasar",
+   "contando": false,
+   "r": [
+    147,
+    583,
+    283,
+    660
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    295,
+    582,
+    366,
+    657
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "azucarado",
+   "contando": false,
+   "r": [
+    378,
+    578,
+    623,
+    656
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    635,
+    577,
+    679,
+    651
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    690,
+    575,
+    748,
+    650
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "edulcorantes",
+   "contando": false,
+   "r": [
+    148,
+    647,
+    456,
+    727
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    468,
+    646,
+    524,
+    721
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "asoció",
+   "contando": false,
+   "r": [
+    535,
+    643,
+    691,
+    720
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    703,
+    643,
+    733,
+    717
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "1,06 kg",
+   "contando": false,
+   "r": [
+    744,
+    640,
+    901,
+    716
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "menos;",
+   "contando": false,
+   "r": [
+    149,
+    717,
+    321,
+    794
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    332,
+    716,
+    362,
+    791
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "largo",
+   "contando": false,
+   "r": [
+    374,
+    714,
+    495,
+    790
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "plazo,",
+   "contando": false,
+   "r": [
+    506,
+    711,
+    645,
+    787
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    656,
+    710,
+    700,
+    785
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "OMS",
+   "contando": false,
+   "r": [
+    712,
+    708,
+    807,
+    784
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "sugiere",
+   "contando": false,
+   "r": [
+    150,
+    784,
+    326,
+    861
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    338,
+    782,
+    424,
+    857
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    436,
+    781,
+    494,
+    856
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "dan",
+   "contando": false,
+   "r": [
+    506,
+    779,
+    593,
+    854
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "beneficio",
+   "contando": false,
+   "r": [
+    604,
+    775,
+    822,
+    853
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    834,
+    774,
+    892,
+    849
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    151,
+    853,
+    195,
+    928
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "grasa",
+   "contando": false,
+   "r": [
+    207,
+    850,
+    342,
+    927
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "corporal.",
+   "contando": false,
+   "r": [
+    353,
+    846,
+    567,
+    924
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "Adultos con sobrepeso, obesidad o diabetes, o en riesgo, en unas 12 semanas. La pauta de la OMS es condicional y no se aplica a la diabetes previa.",
+   "contando": false,
+   "r": [
+    153,
+    937,
+    888,
+    1066
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    171,
+    1014,
+    303,
+    1086
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    316,
+    1014,
+    371,
+    1086
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "pasó",
+   "contando": false,
+   "r": [
+    384,
+    1014,
+    498,
+    1086
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "al",
+   "contando": false,
+   "r": [
+    511,
+    1014,
+    569,
+    1086
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "zero.",
+   "contando": false,
+   "r": [
+    307,
+    1076,
+    433,
+    1148
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.033,
+  4.4,
+  9.467,
+  10.833,
+  16.033,
+  17.4,
+  23.467,
+  28.0
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.9,
+  "tiempo_reduccion_mas_1db_pct": 0.26,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 10,
+   "tac": 3,
+   "sello": 3,
+   "golpe": 2,
+   "pop": 7,
+   "boing": 9,
+   "zas": 3,
+   "whoosh": 4,
+   "ding": 3,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 28.012,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 323,
+   "texto": "Un zero engorda igual que uno con azúcar. ¡Falso! Más de un kilo menos. Con el zero, la grasa corporal fue algo menor. ¡Verdadero! La o eme ese recomienda edulcorantes para controlar el peso. ¡Falso! Al revés. Depende: a corto, algo menos de peso; a la larga, la o eme ese sugiere que no. Mándaselo a quien se pasó al zero.",
+   "duracion_voz_s": 25.815,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Un zero engorda igual que uno con azúcar.",
+     "t0": 0.0213,
+     "t1": 2.4213
+    },
+    {
+     "id": "v0",
+     "texto": "¡Falso! Más de un kilo menos.",
+     "t0": 3.1263,
+     "t1": 5.1413
+    },
+    {
+     "id": "a1",
+     "texto": "Con el zero, la grasa corporal fue algo menor.",
+     "t0": 6.3363,
+     "t1": 8.8963
+    },
+    {
+     "id": "v1",
+     "texto": "¡Verdadero!",
+     "t0": 9.5613,
+     "t1": 10.0813
+    },
+    {
+     "id": "a2",
+     "texto": "La OMS recomienda edulcorantes para controlar el peso.",
+     "t0": 12.1863,
+     "t1": 15.4663
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! Al revés.",
+     "t0": 16.1313,
+     "t1": 17.3963
+    },
+    {
+     "id": "c",
+     "texto": "Depende: a corto, algo menos de peso; a la larga, la OMS sugiere que no.",
+     "t0": 18.6313,
+     "t1": 23.4813
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien se pasó al zero.",
+     "t0": 24.0213,
+     "t1": 25.6213
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.84
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.331,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.041,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.491,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.086,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.106,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.156,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 3.326,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.043,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.761,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.479,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.216,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.256,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.276,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 6.936,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.726,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.516,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 8.966,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 9.521,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 9.541,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 9.591,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 9.761,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 10.514,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.268,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.041,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.081,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 12.101,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 12.786,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.553,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.319,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.086,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 15.536,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 16.091,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 16.111,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 16.161,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 16.331,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.006,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 17.681,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 18.356,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.476,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 23.051,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 23.101,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 23.551,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 23.851,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.051,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 25.421,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 25.721,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 26.021,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 26.181,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 26.271,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.442,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 841,
+ "tiempo_render_s": 105.1,
+ "tiempos_s": {
+  "preparar": 7.03,
+  "dibujar_y_codificar": 95.69
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "plato",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.3333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.3,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.4,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.8333,
+   "que": "II · entra"
+  },
+  {
+   "t": 8.8,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 9.7333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 10.8333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 12.7,
+   "que": "III · entra"
+  },
+  {
+   "t": 15.4,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 16.3,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 17.4,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 19.2667,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 23.4667,
+   "que": "conclusión"
+  },
+  {
+   "t": 24.9667,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 26.0333,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 28.0,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "terron",
+   "naranja",
+   "lenteja",
+   "vaso",
+   "fresa"
+  ],
+  [
+   "terron",
+   "aguacate",
+   "brocoli",
+   "queso",
+   "nuez"
+  ],
+  [
+   "terron",
+   "naranja",
+   "kiwi",
+   "limon",
+   "brocoli"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 28.0333,
+  "cortes": [
+   0.0,
+   6.196,
+   12.021,
+   18.356,
+   23.551
+  ],
+  "t_ono": 25.721,
+  "t_anz": 26.021,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.491,
+    "tv": 3.106,
+    "pasos": [
+     0.621,
+     1.331,
+     2.041
+    ],
+    "t_out": 5.896
+   },
+   {
+    "t_in": 6.196,
+    "t0": 6.336,
+    "buzz": 8.966,
+    "tv": 9.541,
+    "pasos": [
+     6.936,
+     7.726,
+     8.516
+    ],
+    "t_out": 11.721
+   },
+   {
+    "t_in": 12.021,
+    "t0": 12.186,
+    "buzz": 15.536,
+    "tv": 16.111,
+    "pasos": [
+     12.786,
+     13.553,
+     14.319,
+     15.086
+    ],
+    "t_out": 18.856
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-281",
+  "controles: [salud] menciona «diabetes» en pie: solo vale como límite o riesgo, nunca como promesa",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #refrescos #edulcorantes #sinazucar #nutricion»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿El zero engorda igual? Mito o realidad.  Un zer»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «a a la diabetes previa.  ¿Cuál de las tres te creía»",
+  "el Reel dura 27.1333 s (con la voz simulada de prueba sale 1-2 s más largo que con Dani)"
+ ],
+ "limpio": true
+}

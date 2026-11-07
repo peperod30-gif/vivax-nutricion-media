@@ -1,0 +1,111 @@
+{
+  "id": "n1-lx-20261202-cxvf-1830-mito-polvoron-mantecado",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-306",
+    "MIT-305"
+  ],
+  "titulo": "[CXVF] ¿Polvorón y mantecado, lo mismo? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Polvorón y mantecado, lo mismo? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "El polvorón de Estepa siempre lleva almendra.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "8",
+      "unidad": "%",
+      "dato": "de almendra, como mínimo"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Todo mantecado de Estepa lleva almendra.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "0",
+      "unidad": "%",
+      "dato": "de almendra, el de canela"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Todo mantecado lleva manteca de cerdo.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "aceite de oliva virgen extra",
+      "dato": "en vez de manteca"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "La norma española los nombra por separado sin definir cada uno; en Estepa sí se distinguen.",
+      "fuente": "En Estepa, según sus pliegos de origen. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Polvorón y mantecado, lo mismo? {Depende}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien los mezcla en la bandeja.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Polvorón y mantecado, lo mismo? Mito o realidad.\n\nEl polvorón de Estepa siempre lleva almendra. Verdadero: polvorón de Estepa 8 % (de almendra, como mínimo).\nTodo mantecado de Estepa lleva almendra. Falso: mantecado de canela 0 % (de almendra, el de canela).\nTodo mantecado lleva manteca de cerdo. Falso: aceite de oliva virgen extra (en vez de manteca).\n\nY el dato final: La norma española los nombra por separado sin definir cada uno; en Estepa sí se distinguen. En Estepa, según sus pliegos de origen. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien los mezcla en la bandeja.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #polvorones #mantecados #navidad #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como el meme de ojos (AS), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Polvorón y mantecado, lo mismo? Mito o realidad. I. El polvorón de Estepa siempre lleva almendra. Sello: Verdadero. La prueba: 8 % (Polvorón de Estepa), de almendra, como mínimo. Una nuez lo celebra. II. Todo mantecado de Estepa lleva almendra. Sello: Falso. La prueba: 0 % (Mantecado de canela), de almendra, el de canela. Un terrón de azúcar se queda con la boca abierta. III. Todo mantecado lleva manteca de cerdo. Sello: Falso. La prueba: aceite de oliva virgen extra (Mantecado de aceite de oliva), en vez de manteca. Una gota de aceite se queda con la boca abierta. ¿Polvorón y mantecado, lo mismo? Depende. Lo que dicen los datos: La norma española los nombra por separado sin definir cada uno; en Estepa sí se distinguen. Cierre: Oli saluda y dice «Mándaselo a quien los mezcla en la bandeja». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-02",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-12",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como el meme de ojos (AS), quiz de ideas) · spec n1-lux-20261202-1830-mito-polvoron-mantecado · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261202-1830-mito-polvoron-mantecado",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "meme",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261202-1830-mito-polvoron-mantecado",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-306 y MIT-305; veredicto del banco: matizado en los dos). Norma general: Real Decreto 496/2010, de 30 de abril, norma de calidad para los productos de confitería, pastelería, bollería y repostería, punto 1.3.2: incluye los polvorones y los mantecados en las «masas azucaradas», «elaboradas fundamentalmente con harina, aceite o grasa y azúcares», y los nombra por separado sin definir cada uno. Polvorón de Estepa: pliego de condiciones de la IGP «Polvorones de Estepa» (rev. 11-06-2015) y su documento único (DOUE C 338/10, de 13-10-2015): el polvorón tiene forma oblonga, lleva azúcar glas por encima, pesa como máximo 50 g y siempre lleva almendra (en la masa, al menos un 8 % en el tradicional y un 15 % en el casero); su masa lleva un 20-25 % de manteca de cerdo, un 40-50 % de harina de trigo y un 22-27 % de azúcar. Mantecado de Estepa: pliego de condiciones consolidado de la IGP «Mantecados de Estepa» (Orden de 9 de abril de 2024, BOJA núm. 72, de 15-04-2024): el mantecado tiene forma redondeada, pesa como máximo 55 g y la almendra solo es obligatoria en el de almendra (al menos un 8 %); en el de canela es 0 %. La manteca de cerdo es un ingrediente común, y el mantecado de aceite de oliva la sustituye por aceite de oliva virgen extra (0 % de manteca y 20-26 % de aceite en la masa). Lenguaje de la pantalla y de la voz: «de Estepa» y «en Estepa» son los polvorones y mantecados con indicación geográfica protegida de Estepa, según sus pliegos; «ocho por ciento, mínimo» es el 8 % de almendra en la masa del polvorón tradicional (en el casero, un 15 %); «el de canela, cero» es el 0 % de almendra del mantecado de canela; «hay uno con virgen extra» y «en vez de manteca» resumen que el mantecado de aceite de oliva lleva aceite de oliva virgen extra y 0 % de manteca; «la norma no los define; en Estepa, sí» resume que la norma española los nombra por separado sin definir cada uno y que los pliegos de Estepa sí los distinguen. El polvorón de Estepa lleva harina de trigo y siempre lleva almendra. Es información sobre la composición de los dulces de Navidad, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

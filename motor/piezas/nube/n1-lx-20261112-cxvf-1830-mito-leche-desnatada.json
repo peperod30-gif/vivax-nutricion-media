@@ -1,0 +1,135 @@
+{
+  "id": "n1-lx-20261112-cxvf-1830-mito-leche-desnatada",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-201"
+  ],
+  "titulo": "[CXVF] ¿Desnatada, menos nutrientes? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Desnatada, menos nutrientes? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La leche desnatada no tiene nada de grasa.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "0,2",
+      "unidad": "g",
+      "items": [
+        {
+          "nombre": "Desnatada"
+        },
+        {
+          "nombre": "Entera",
+          "valor": "3,8 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La desnatada tiene menos proteína que la entera.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "3,3",
+      "unidad": "g",
+      "items": [
+        {
+          "nombre": "Desnatada"
+        },
+        {
+          "nombre": "Entera",
+          "valor": "3,06 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Con la grasa, la desnatada pierde la vitamina A.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "0",
+      "unidad": "µg",
+      "items": [
+        {
+          "nombre": "Desnatada"
+        },
+        {
+          "nombre": "Entera",
+          "valor": "46 µg"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "La proteína casi no cambia; la vitamina A baja con la grasa, salvo que se añada.",
+      "fuente": "Datos por 100 g; la UE permite añadir vitamina A si se indica en el envase. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Menos nutrientes? {Depende}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien dice que la desnatada es agua.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Desnatada, menos nutrientes? Mito o realidad.\n\nLa leche desnatada no tiene nada de grasa. Falso: desnatada 0,2 g, entera 3,8 g (de grasa por 100 g).\nLa desnatada tiene menos proteína que la entera. Falso: desnatada 3,3 g, entera 3,06 g (de proteína por 100 g).\nCon la grasa, la desnatada pierde la vitamina A. Verdadero: desnatada 0 µg, entera 46 µg (de vitamina A por 100 g).\n\nLas cifras por 100 g son lo que lleva el alimento, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato final: La proteína casi no cambia; la vitamina A baja con la grasa, salvo que se añada. Datos por 100 g; la UE permite añadir vitamina A si se indica en el envase. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien dice que la desnatada es agua.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #leche #lechedesnatada #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como el rasca (BD), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Desnatada, menos nutrientes? Mito o realidad. I. La leche desnatada no tiene nada de grasa. Sello: Falso. La prueba: 0,2 g (Desnatada); Entera: 3,8 g, de grasa por 100 g. Un vaso de leche se queda con la boca abierta. II. La desnatada tiene menos proteína que la entera. Sello: Falso. La prueba: 3,3 g (Desnatada); Entera: 3,06 g, de proteína por 100 g. Un vaso de leche se queda con la boca abierta. III. Con la grasa, la desnatada pierde la vitamina A. Sello: Verdadero. La prueba: 0 µg (Desnatada); Entera: 46 µg, de vitamina A por 100 g. Un vaso de leche lo celebra. ¿Menos nutrientes? Depende. Lo que dicen los datos: La proteína casi no cambia; la vitamina A baja con la grasa, salvo que se añada. Cierre: Oli saluda y dice «Mándaselo a quien dice que la desnatada es agua». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-12",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como el rasca (BD), quiz de ideas) · spec n1-lux-20261112-1830-mito-leche-desnatada · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261112-1830-mito-leche-desnatada",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "rasca",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261112-1830-mito-leche-desnatada",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-201; veredicto del banco: matizado). Composición por 100 g en la tabla española BEDCA, Base de Datos Española de Composición de Alimentos (alimentos 2493 «Leche de vaca, entera», 916 «Leche, semidesnatada, pasteurizada» y 915 «Leche, desnatada, pasteurizada»): grasa, 3,8 g la entera, 1,6 g la semidesnatada y 0,2 g la desnatada; proteína, 3,06 g, 3,2 g y 3,3 g, es decir, casi no cambia; vitamina A, 46 µg, 20,5 µg y 0 µg: baja con la grasa, salvo que se añada. La UE permite añadirla si se indica en el envase, y cada Estado miembro puede limitarlo. Reglamento (UE) 1308/2013, anexo VII, parte IV, punto III: en la UE, la leche entera tiene como mínimo un 3,50 % de grasa, la semidesnatada entre un 1,50 % y un 1,80 % y la desnatada un 0,50 % como máximo. Lenguaje de la pantalla: «muy poca» resume los 0,2 g de grasa por 100 g de la desnatada frente a los 3,8 g de la entera; «es casi igual» y «la proteína casi no cambia» resumen los 3,3 g de proteína de la desnatada frente a los 3,06 g de la entera; «pierde la vitamina A» resume los 0 µg de la desnatada frente a los 46 µg de la entera, salvo que se añada. Son datos de composición de alimentos, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

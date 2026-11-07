@@ -1,0 +1,108 @@
+{
+  "id": "n1-lx-20261123-cxvf-1830-mito-vinagre-anisakis",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-186"
+  ],
+  "titulo": "[CXVF] ¿El vinagre mata el anisakis? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿El vinagre mata el anisakis? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "El calor mata el anisakis.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "60 °C durante al menos un minuto",
+      "dato": "en toda la pieza"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Congelar en casa mata el anisakis.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "-15 °C o menos durante al menos 4 días",
+      "dato": "en casa, según la AESAN"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "El vinagre de los boquerones mata el anisakis.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "un tratamiento insuficiente",
+      "dato": "según la AESAN"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Vinagre, escabeche, ceviche y ahumado en frío no bastan: la AESAN pide congelarlos antes o después de prepararlos.",
+      "fuente": "Congelado en casa: a -15 °C o menos al menos 4 días, contando 5 desde que entra en el congelador. Fuentes en el primer comentario.",
+      "titulo": "¿El vinagre mata el anisakis? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien hace boquerones en vinagre.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿El vinagre mata el anisakis? Mito o realidad.\n\nEl calor mata el anisakis. Verdadero: 60 °C durante al menos un minuto (en toda la pieza).\nCongelar en casa mata el anisakis. Verdadero: -15 °C o menos durante al menos 4 días (en casa, según la AESAN).\nEl vinagre de los boquerones mata el anisakis. Falso: un tratamiento insuficiente (según la AESAN).\n\nY el dato final: Vinagre, escabeche, ceviche y ahumado en frío no bastan: la AESAN pide congelarlos antes o después de prepararlos. Congelado en casa: a -15 °C o menos al menos 4 días, contando 5 desde que entra en el congelador. Fuentes en el primer comentario.\n\n¿Cuál de las tres te creías?\nMándaselo a quien hace boquerones en vinagre.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #anisakis #boquerones #seguridadalimentaria #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la encuesta de historia (BM), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿El vinagre mata el anisakis? Mito o realidad. I. El calor mata el anisakis. Sello: Verdadero. La prueba: 60 °C durante al menos un minuto, en toda la pieza. Una sardina lo celebra. II. Congelar en casa mata el anisakis. Sello: Verdadero. La prueba: -15 °C o menos durante al menos 4 días, en casa, según la AESAN. Una sardina lo celebra. III. El vinagre de los boquerones mata el anisakis. Sello: Falso. La prueba: un tratamiento insuficiente, según la AESAN. Una sardina se queda con la boca abierta. ¿El vinagre mata el anisakis? Mito. Lo que dicen los datos: Vinagre, escabeche, ceviche y ahumado en frío no bastan: la AESAN pide congelarlos antes o después de prepararlos. Cierre: Oli saluda y dice «Mándaselo a quien hace boquerones en vinagre». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-23",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la encuesta de historia (BM), quiz de ideas) · spec n1-lux-20261123-1830-mito-vinagre-anisakis · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261123-1830-mito-vinagre-anisakis",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "encuesta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261123-1830-mito-vinagre-anisakis",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-186; veredicto del banco: no respaldado). AESAN (Agencia Española de Seguridad Alimentaria y Nutrición), Anisakis, información para el consumidor (cartel y tríptico revisados en 2025): https://www.aesan.gob.es/AECOSAN/web/para_el_consumidor/ampliacion/anisakis.htm. La AESAN incluye los boquerones en vinagre, el escabeche, el ceviche y el ahumado en frío entre las preparaciones con un tratamiento insuficiente para matar al parásito, y dice que deben congelarse antes o después de elaborarlas. Según la AESAN, la normativa obliga a los operadores alimentarios que elaboran pescado para consumo en crudo o con una preparación insuficiente para eliminar parásitos a congelarlo a -20 °C durante 24 horas o a -35 °C durante 15 horas como mínimo; para casa da como alternativa congelar a -15 °C o menos durante al menos 4 días, contando 5 desde que el pescado entra en el congelador. El calor también destruye el parásito cuando toda la pieza llega a 60 °C durante al menos un minuto. Lenguaje de la pantalla: «mata» resume «destruye» y «eliminar parásitos»; «no bastan» resume «tratamiento insuficiente para matar al parásito»; «pide congelarlos antes o después de prepararlos» resume «dice que deben congelarse antes o después de elaborarlas». Es información de seguridad alimentaria, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

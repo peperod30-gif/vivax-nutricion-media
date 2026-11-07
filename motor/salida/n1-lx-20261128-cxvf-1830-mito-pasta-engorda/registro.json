@@ -1,0 +1,1793 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 25.98,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 11.7,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.4,
+ "n_cambios_visuales": 629,
+ "bucle_dif_ultimo_primero": 50.55,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿La pasta engorda? Mito o",
+   "contando": false,
+   "r": [
+    116,
+    258,
+    891,
+    505
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    460,
+    362,
+    803,
+    486
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    803,
+    351,
+    830,
+    488
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Cien",
+   "contando": false,
+   "r": [
+    128,
+    525,
+    270,
+    650
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    290,
+    520,
+    561,
+    647
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    580,
+    518,
+    660,
+    642
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasta",
+   "contando": false,
+   "r": [
+    679,
+    515,
+    878,
+    640
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cocida",
+   "contando": false,
+   "r": [
+    178,
+    602,
+    409,
+    728
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    428,
+    600,
+    515,
+    724
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "llegan",
+   "contando": false,
+   "r": [
+    534,
+    596,
+    767,
+    722
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    787,
+    595,
+    830,
+    717
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "doscientas",
+   "contando": false,
+   "r": [
+    143,
+    679,
+    524,
+    808
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    543,
+    673,
+    869,
+    801
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "¿La pasta engorda? Mito o",
+   "contando": false,
+   "r": [
+    116,
+    258,
+    891,
+    505
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    460,
+    362,
+    803,
+    486
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    803,
+    351,
+    830,
+    488
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "Cien",
+   "contando": false,
+   "r": [
+    128,
+    525,
+    270,
+    650
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "gramos",
+   "contando": false,
+   "r": [
+    290,
+    520,
+    561,
+    647
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    580,
+    518,
+    660,
+    642
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "pasta",
+   "contando": false,
+   "r": [
+    679,
+    515,
+    878,
+    640
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "cocida",
+   "contando": false,
+   "r": [
+    178,
+    602,
+    409,
+    728
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    428,
+    600,
+    515,
+    724
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "llegan",
+   "contando": false,
+   "r": [
+    534,
+    596,
+    767,
+    722
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    787,
+    595,
+    830,
+    717
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "doscientas",
+   "contando": false,
+   "r": [
+    143,
+    679,
+    524,
+    808
+   ]
+  },
+  {
+   "t": 3.867,
+   "texto": "calorías.",
+   "contando": false,
+   "r": [
+    543,
+    673,
+    869,
+    801
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "158",
+   "contando": false,
+   "r": [
+    667,
+    298,
+    807,
+    456
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    802,
+    360,
+    873,
+    420
+   ]
+  },
+  {
+   "t": 5.233,
+   "texto": "pasta cocida, por 100 g",
+   "contando": false,
+   "r": [
+    705,
+    449,
+    859,
+    522
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "Con",
+   "contando": false,
+   "r": [
+    168,
+    519,
+    325,
+    673
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "pasta",
+   "contando": false,
+   "r": [
+    349,
+    514,
+    594,
+    670
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    618,
+    512,
+    717,
+    665
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    741,
+    510,
+    838,
+    663
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "dieta,",
+   "contando": false,
+   "r": [
+    215,
+    615,
+    459,
+    770
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    483,
+    613,
+    573,
+    765
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "peso",
+   "contando": false,
+   "r": [
+    597,
+    609,
+    794,
+    763
+   ]
+  },
+  {
+   "t": 8.467,
+   "texto": "sube.",
+   "contando": false,
+   "r": [
+    395,
+    710,
+    618,
+    865
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "no subió el peso",
+   "contando": false,
+   "r": [
+    656,
+    309,
+    893,
+    472
+   ]
+  },
+  {
+   "t": 9.833,
+   "texto": "en unas 12 semanas",
+   "contando": false,
+   "r": [
+    665,
+    492,
+    891,
+    531
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "En",
+   "contando": false,
+   "r": [
+    130,
+    525,
+    216,
+    655
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "dietas",
+   "contando": false,
+   "r": [
+    236,
+    521,
+    466,
+    654
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    486,
+    518,
+    622,
+    649
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "pasta,",
+   "contando": false,
+   "r": [
+    642,
+    514,
+    876,
+    647
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    204,
+    608,
+    281,
+    738
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "peso",
+   "contando": false,
+   "r": [
+    301,
+    605,
+    471,
+    737
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "fue",
+   "contando": false,
+   "r": [
+    492,
+    602,
+    612,
+    733
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "algo",
+   "contando": false,
+   "r": [
+    633,
+    599,
+    805,
+    731
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "menor",
+   "contando": false,
+   "r": [
+    130,
+    691,
+    370,
+    824
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    391,
+    688,
+    519,
+    820
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    540,
+    686,
+    626,
+    817
+   ]
+  },
+  {
+   "t": 14.767,
+   "texto": "otras.",
+   "contando": false,
+   "r": [
+    646,
+    682,
+    882,
+    815
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "-0,63 kg",
+   "contando": false,
+   "r": [
+    659,
+    304,
+    883,
+    403
+   ]
+  },
+  {
+   "t": 16.167,
+   "texto": "toda la dieta, no la pasta",
+   "contando": false,
+   "r": [
+    692,
+    488,
+    871,
+    545
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "¿La",
+   "contando": false,
+   "r": [
+    116,
+    275,
+    253,
+    415
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "pasta",
+   "contando": false,
+   "r": [
+    274,
+    270,
+    497,
+    412
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "engorda?",
+   "contando": false,
+   "r": [
+    518,
+    262,
+    891,
+    407
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "Mito.",
+   "contando": false,
+   "r": [
+    410,
+    370,
+    602,
+    489
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    147,
+    584,
+    222,
+    682
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "pasta",
+   "contando": false,
+   "r": [
+    237,
+    580,
+    411,
+    680
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "dentro",
+   "contando": false,
+   "r": [
+    426,
+    576,
+    627,
+    677
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    642,
+    575,
+    718,
+    673
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "dietas",
+   "contando": false,
+   "r": [
+    733,
+    571,
+    924,
+    672
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    148,
+    671,
+    224,
+    769
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "índice",
+   "contando": false,
+   "r": [
+    239,
+    668,
+    423,
+    768
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "glucémico",
+   "contando": false,
+   "r": [
+    438,
+    662,
+    754,
+    764
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "bajo",
+   "contando": false,
+   "r": [
+    769,
+    659,
+    901,
+    758
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    150,
+    758,
+    226,
+    857
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "subió",
+   "contando": false,
+   "r": [
+    241,
+    755,
+    408,
+    855
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    423,
+    754,
+    479,
+    852
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "peso.",
+   "contando": false,
+   "r": [
+    494,
+    751,
+    662,
+    851
+   ]
+  },
+  {
+   "t": 21.233,
+   "texto": "Frente a dietas de índice glucémico más alto; cuenta toda la dieta, no la pasta sola, y no hubo personas de peso normal. Fuentes en el primer comentario.",
+   "contando": false,
+   "r": [
+    153,
+    937,
+    874,
+    1066
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    169,
+    1014,
+    301,
+    1086
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "huye",
+   "contando": false,
+   "r": [
+    314,
+    1014,
+    430,
+    1086
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    443,
+    1014,
+    500,
+    1086
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    512,
+    1014,
+    571,
+    1086
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "pasta.",
+   "contando": false,
+   "r": [
+    292,
+    1076,
+    448,
+    1148
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.867,
+  5.233,
+  8.467,
+  9.833,
+  14.767,
+  16.167,
+  21.233,
+  25.9
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 2.98,
+  "tiempo_reduccion_mas_1db_pct": 0.29,
+  "efectos_por_tipo": {
+   "subida": 4,
+   "pum": 5,
+   "tic": 37,
+   "tac": 3,
+   "sello": 3,
+   "ding": 4,
+   "pop": 7,
+   "contador": 7,
+   "boing": 8,
+   "zas": 3,
+   "whoosh": 4,
+   "golpe": 1,
+   "plop": 2
+  },
+  "descartados": 0,
+  "duracion_s": 25.912,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 314,
+   "texto": "Cien gramos de pasta cocida no llegan a doscientas calorías. ¡Verdadero! Con pasta en la dieta, el peso sube. ¡Falso! No subió. En dietas con pasta, el peso fue algo menor que en otras. ¡Verdadero! Algo más de medio kilo. ¿Engorda? Mito: con pasta en la dieta, el peso no subió. Mándaselo a quien huye de la pasta.",
+   "duracion_voz_s": 23.72,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "Cien gramos de pasta cocida no llegan a doscientas calorías.",
+     "t0": 0.0213,
+     "t1": 3.3013
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.9713,
+     "t1": 4.5713
+    },
+    {
+     "id": "a1",
+     "texto": "Con pasta en la dieta, el peso sube.",
+     "t0": 6.0563,
+     "t1": 7.8963
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! No subió.",
+     "t0": 8.5663,
+     "t1": 9.8263
+    },
+    {
+     "id": "a2",
+     "texto": "En dietas con pasta, el peso fue algo menor que en otras.",
+     "t0": 11.1863,
+     "t1": 14.1813
+    },
+    {
+     "id": "v2",
+     "texto": "¡Verdadero! Algo más de medio kilo.",
+     "t0": 14.8713,
+     "t1": 16.7213
+    },
+    {
+     "id": "c",
+     "texto": "¿Engorda? Mito: con pasta en la dieta, el peso no subió.",
+     "t0": 17.7813,
+     "t1": 21.2263
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien huye de la pasta.",
+     "t0": 21.8214,
+     "t1": 23.5014
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.02,
+   "limitador_max_db": 1.94
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.071,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.321,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 0.541,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 0.761,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 0.981,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.201,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.388,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.421,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.641,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 1.861,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.154,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.201,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.541,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.881,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 2.921,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.371,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.931,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.951,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 4.001,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 4.171,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.251,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.351,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.451,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.551,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.651,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.751,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.758,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.851,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 5.344,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.951,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.991,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 6.011,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 6.106,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 6.356,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 6.576,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 6.656,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.796,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.016,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.356,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.516,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.696,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 7.966,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.526,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.546,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.596,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.766,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.533,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.299,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.086,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.126,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.146,
+   "tipo": "whoosh",
+   "intensidad": 0.42
+  },
+  {
+   "t": 11.236,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 11.486,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 11.706,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 11.786,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.926,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 12.146,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 12.366,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 12.458,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.586,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 12.806,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 13.129,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.146,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 13.486,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 13.801,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.826,
+   "tipo": "tic",
+   "intensidad": 0.15
+  },
+  {
+   "t": 14.251,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.831,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 14.851,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.901,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 15.071,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.851,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.631,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 17.411,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.531,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 20.826,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 20.876,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.326,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 21.626,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 21.826,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 23.301,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 23.601,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 23.901,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.061,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.151,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 25.332,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 778,
+ "tiempo_render_s": 91.3,
+ "tiempos_s": {
+  "preparar": 5.02,
+  "dibujar_y_codificar": 84.07
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "ruleta",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 3.2333,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 4.1667,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 5.2333,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.5667,
+   "que": "II · entra"
+  },
+  {
+   "t": 7.8,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 8.7333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 9.8333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 11.7,
+   "que": "III · entra"
+  },
+  {
+   "t": 14.1,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 15.0667,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 16.1667,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 18.3,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.2333,
+   "que": "conclusión"
+  },
+  {
+   "t": 22.7333,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 23.9,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 25.9,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "pan",
+   "fruta",
+   "limon",
+   "vaso",
+   "brocoli"
+  ],
+  [
+   "pan",
+   "naranja",
+   "brocoli",
+   "vaso",
+   "limon"
+  ],
+  [
+   "pan",
+   "fruta",
+   "limon",
+   "zanahoria",
+   "gota"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 25.9333,
+  "cortes": [
+   0.0,
+   5.931,
+   11.066,
+   17.411,
+   21.326
+  ],
+  "t_ono": 23.601,
+  "t_anz": 23.901,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 3.371,
+    "tv": 3.951,
+    "pasos": [
+     0.621,
+     1.388,
+     2.154,
+     2.921
+    ],
+    "t_out": 5.631
+   },
+   {
+    "t_in": 5.931,
+    "t0": 6.056,
+    "buzz": 7.966,
+    "tv": 8.546,
+    "pasos": [
+     6.656,
+     7.516
+    ],
+    "t_out": 10.766
+   },
+   {
+    "t_in": 11.066,
+    "t0": 11.186,
+    "buzz": 14.251,
+    "tv": 14.851,
+    "pasos": [
+     11.786,
+     12.458,
+     13.129,
+     13.801
+    ],
+    "t_out": 17.911
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-241",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #pasta #nutricion #verdaderoofalso»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿La pasta engorda? Mito o realidad.  Cien g»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «n el primer comentario.  ¿Cuál de las tres te creía»"
+ ],
+ "limpio": true
+}

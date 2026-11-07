@@ -1,0 +1,118 @@
+{
+  "id": "n1-lx-20261204-cxvf-1830-mito-mazapan-azucar",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-304"
+  ],
+  "titulo": "[CXVF] ¿Mazapán, más azúcar que almendra? Mito o realidad",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Mazapán, más azúcar que almendra? Mito o {realidad}"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "El mazapán de más calidad pide más almendra.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "45",
+      "unidad": "%",
+      "items": [
+        {
+          "nombre": "Calidad suprema"
+        },
+        {
+          "nombre": "Calidad standard",
+          "valor": "23 %"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Todo mazapán lleva más azúcar que almendra.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "50",
+      "unidad": "%",
+      "dato": "almendra en el de Toledo"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La norma no le pone un máximo de azúcar al mazapán.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "no un máximo de azúcar",
+      "dato": "en la norma española"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "La calidad se fija por la almendra mínima: 45 % en suprema, 35 % en extra y 23 % en standard.",
+      "fuente": "Mínimos legales de almendra en España. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Más azúcar que almendra? {Depende}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien dice que el mazapán es todo azúcar.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Mazapán, más azúcar que almendra? Mito o realidad\n\nEl mazapán de más calidad pide más almendra. Verdadero: calidad suprema 45 %, calidad standard 23 % (de almendra, como mínimo).\nTodo mazapán lleva más azúcar que almendra. Falso: mazapán de Toledo 50 % (almendra en el de Toledo).\nLa norma no le pone un máximo de azúcar al mazapán. Verdadero: no un máximo de azúcar (en la norma española).\n\nY el dato final: La calidad se fija por la almendra mínima: 45 % en suprema, 35 % en extra y 23 % en standard. Mínimos legales de almendra en España. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien dice que el mazapán es todo azúcar.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #mazapan #navidad #almendra #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la ruleta (BC), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Mazapán, más azúcar que almendra? Mito o realidad. I. El mazapán de más calidad pide más almendra. Sello: Verdadero. La prueba: 45 % (Calidad suprema); Calidad standard: 23 %, de almendra, como mínimo. Una nuez lo celebra. II. Todo mazapán lleva más azúcar que almendra. Sello: Falso. La prueba: 50 % (Mazapán de Toledo), almendra en el de Toledo. Una nuez se queda con la boca abierta. III. La norma no le pone un máximo de azúcar al mazapán. Sello: Verdadero. La prueba: no un máximo de azúcar, en la norma española. Una nuez lo celebra. ¿Más azúcar que almendra? Depende. Lo que dicen los datos: La calidad se fija por la almendra mínima: 45 % en suprema, 35 % en extra y 23 % en standard. Cierre: Oli saluda y dice «Mándaselo a quien dice que el mazapán es todo azúcar». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-04",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-12",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la ruleta (BC), quiz de ideas) · spec n1-lux-20261204-1830-mito-mazapan-azucar · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261204-1830-mito-mazapan-azucar",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "ruleta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261204-1830-mito-mazapan-azucar",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-304; veredicto del banco: matizado). Real Decreto 1787/1982, de 14 de mayo, Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes, definición de mazapán (punto 2.4) y punto 7.4 (BOE núm. 183, de 2 de agosto de 1982), y punto 6.4.4 en la redacción del Real Decreto 1167/1990: en España, el mazapán es la masa de almendras crudas, peladas y molidas con azúcares, y su calidad se fija por la almendra mínima: 45 % en suprema, 35 % en extra y 23 % en standard. Para el mazapán, la norma fija humedad, proteínas, grasa y cenizas, pero no un máximo de azúcar. MAPA, «Principales elementos del pliego de condiciones de la Indicación Geográfica Protegida Mazapán de Toledo» (documento sin fecha en el texto): https://www.mapa.gob.es/dam/mapa/contenido/alimentacion/temas/calidad-agroalimentaria/2017-calidad-diferenciada/nuevo_denominaciones/pliegos-de-condiciones/pliego-condiciones-agroalimentarios/mazapan_toledo_2008_07_26.pdf. El Mazapán de Toledo (IGP) exige que la almendra sea mayoritaria o, como mínimo, esté en una proporción de 1:1, es decir, un 50 % del peso total, y un mínimo de un 26 % de grasa. Lenguaje de la pantalla y de la voz: «la norma» y «la norma española» son el Real Decreto 1787/1982; «el mazapán de más calidad pide más almendra» compara la almendra mínima de la calidad suprema (45 %) con la de la standard (23 %); «el de Toledo» es el mazapán amparado por la Indicación Geográfica Protegida Mazapán de Toledo; «pide al menos la mitad de almendra» resume que la almendra sea mayoritaria o, como mínimo, esté en una proporción de 1:1, un 50 % del peso total; «no le pone un máximo de azúcar» resume que, para el mazapán, la norma fija humedad, proteínas, grasa y cenizas, pero no un máximo de azúcar; «depende de la calidad y de su almendra mínima» resume que la calidad se fija por la almendra mínima. La pieza no da el azúcar real de ningún mazapán: las normas fijan mínimos de almendra, no la composición de cada pieza. El mazapán lleva almendra, un fruto seco, lo que importa a quien tiene alergia a los frutos secos. Es información sobre la norma de los alimentos, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

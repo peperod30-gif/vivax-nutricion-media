@@ -1,0 +1,110 @@
+{
+  "id": "n1-lx-20261121-cxvf-1830-mito-ecologico-pesticidas",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-225"
+  ],
+  "titulo": "[CXVF] ¿Ecológico, cero pesticidas? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Ecológico, cero pesticidas? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Lo ecológico se cultiva sin pesticidas.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "28",
+      "unidad": "kg de cobre",
+      "dato": "por hectárea en 7 años"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La mayoría de lo ecológico sale sin residuos medibles.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "80,4",
+      "unidad": "%",
+      "dato": "de lo ecológico analizado"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Lo ecológico tiene un límite de residuos más estricto.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "son los mismos para lo ecológico",
+      "dato": "y lo convencional"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Salvo en productos animales, por el cobre, lo ecológico tuvo residuos menos a menudo que lo convencional.",
+      "fuente": "Datos de la EFSA sobre 2024 en la UE. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Ecológico, cero pesticidas? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien solo compra eco.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Ecológico, cero pesticidas? Mito o realidad.\n\nLo ecológico se cultiva sin pesticidas. Falso: tope de cobre en ecológico 28 kg de cobre (por hectárea en 7 años).\nLa mayoría de lo ecológico sale sin residuos medibles. Verdadero: ecológico analizado, UE 80,4 % (de lo ecológico analizado).\nLo ecológico tiene un límite de residuos más estricto. Falso: son los mismos para lo ecológico (y lo convencional).\n\nY el dato final: Salvo en productos animales, por el cobre, lo ecológico tuvo residuos menos a menudo que lo convencional. Datos de la EFSA sobre 2024 en la UE. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien solo compra eco.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitos #ecologico #pesticidas #nutricion #mitoorealidad",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como concurso de televisión con pulsadores (BJ), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Ecológico, cero pesticidas? Mito o realidad. I. Lo ecológico se cultiva sin pesticidas. Sello: Falso. La prueba: 28 kg de cobre (Tope de cobre en ecológico), por hectárea en 7 años. Un tomate se queda con la boca abierta. II. La mayoría de lo ecológico sale sin residuos medibles. Sello: Verdadero. La prueba: 80,4 % (Ecológico analizado, UE), de lo ecológico analizado. Una fresa lo celebra. III. Lo ecológico tiene un límite de residuos más estricto. Sello: Falso. La prueba: son los mismos para lo ecológico (Límites máximos de residuos), y lo convencional. Una zanahoria se queda con la boca abierta. ¿Ecológico, cero pesticidas? Mito. Lo que dicen los datos: Salvo en productos animales, por el cobre, lo ecológico tuvo residuos menos a menudo que lo convencional. Cierre: Oli saluda y dice «Mándaselo a quien solo compra eco». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como concurso de televisión con pulsadores (BJ), quiz de ideas) · spec n1-lux-20261121-1830-mito-ecologico-pesticidas · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261121-1830-mito-ecologico-pesticidas",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "plato",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261121-1830-mito-ecologico-pesticidas",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-225; veredicto del banco: no respaldado). Pesticidas permitidos: Reglamento (UE) 2018/848, anexo II, parte I, punto 1.10.2: en la UE, cuando las medidas preventivas no bastan contra una plaga, la producción ecológica puede usar productos fitosanitarios, pero solo los autorizados para ella. Reglamento de Ejecución (UE) 2021/1165, anexo I: la lista incluye, entre otros, azufre, piretrinas extraídas de plantas, aceites de parafina y compuestos de cobre, con un máximo de 28 kg de cobre por hectárea en 7 años. Residuos: EFSA, The 2024 European Union report on pesticide residues in food, EFSA Journal 2026;24(5):e10054. El 80,4 % de las 5.939 muestras etiquetadas como ecológicas no tenía residuos cuantificables, el 18,8 % los tenía por debajo del límite legal o en él, y el 0,9 % lo superaba. La EFSA halló tasas de cuantificación y de superación del límite más bajas en lo ecológico que en lo convencional en todas las categorías salvo los productos animales, por el cobre. Límites: los límites máximos de residuos son los mismos para lo ecológico y lo convencional. Lenguaje de la pantalla: «puede usar cobre, con tope» resume que los compuestos de cobre están en la lista de productos autorizados para la producción ecológica, con un máximo de 28 kg por hectárea en 7 años, y que solo se usan cuando las medidas preventivas no bastan; «sin residuos medibles» resume «no tenía residuos cuantificables»; «de lo ecológico analizado» son las muestras ecológicas del informe de la EFSA sobre 2024; «residuos menos a menudo» resume «tasas de cuantificación y de superación del límite más bajas». Es información sobre producción ecológica y control de residuos, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

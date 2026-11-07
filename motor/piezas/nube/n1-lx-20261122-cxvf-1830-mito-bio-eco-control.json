@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261122-cxvf-1830-mito-bio-eco-control",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-226"
+  ],
+  "titulo": "[CXVF] ¿«Bio» o «eco», puro reclamo? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿«Bio» o «eco», puro reclamo? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Lo «bio» o «eco» no lo controla nadie.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "al menos una vez al año",
+      "dato": "salvo algunas excepciones"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Un elaborado «bio» lleva casi todo ecológico.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "95",
+      "unidad": "%",
+      "dato": "de ingredientes agrícolas"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Ni la marca puede sugerir «eco» sin serlo.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "incluidos los de marcas registradas",
+      "dato": "si pueden inducir a error"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "En la UE, «bio» y «eco» están reservados, y la etiqueta lleva el código del organismo de control.",
+      "fuente": "Reglamento de la UE sobre producción ecológica. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿«Bio» o «eco», sin control? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien no se fía de lo eco.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿«Bio» o «eco», puro reclamo? Mito o realidad.\n\nLo «bio» o «eco» no lo controla nadie. Falso: al menos una vez al año (salvo algunas excepciones).\nUn elaborado «bio» lleva casi todo ecológico. Verdadero: elaborados «bio» o «eco» 95 % (de ingredientes agrícolas).\nNi la marca puede sugerir «eco» sin serlo. Verdadero: incluidos los de marcas registradas (si pueden inducir a error).\n\nY el dato final: En la UE, «bio» y «eco» están reservados, y la etiqueta lleva el código del organismo de control. Reglamento de la UE sobre producción ecológica. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien no se fía de lo eco.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #ecologico #etiquetas #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la ruleta (BC), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿«Bio» o «eco», puro reclamo? Mito o realidad. I. Lo «bio» o «eco» no lo controla nadie. Sello: Falso. La prueba: al menos una vez al año (Productos «bio» y «eco»), salvo algunas excepciones. Un huevo se queda con la boca abierta. II. Un elaborado «bio» lleva casi todo ecológico. Sello: Verdadero. La prueba: 95 % (Elaborados «bio» o «eco»), de ingredientes agrícolas. Un tomate lo celebra. III. Ni la marca puede sugerir «eco» sin serlo. Sello: Verdadero. La prueba: incluidos los de marcas registradas (Marcas y nombres de empresa), si pueden inducir a error. Un vaso de leche lo celebra. ¿«Bio» o «eco», sin control? Mito. Lo que dice la UE: En la UE, «bio» y «eco» están reservados, y la etiqueta lleva el código del organismo de control. Cierre: Oli saluda y dice «Mándaselo a quien no se fía de lo eco». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-22",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la ruleta (BC), quiz de ideas) · spec n1-lux-20261122-1830-mito-bio-eco-control · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261122-1830-mito-bio-eco-control",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "ruleta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261122-1830-mito-bio-eco-control",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-226; veredicto del banco: no respaldado). Reglamento (UE) 2018/848 sobre producción ecológica y etiquetado de los productos ecológicos, artículos 30, 32, 33 y 38 y anexo IV (texto consolidado en castellano de 25-03-2025, en EUR-Lex). Términos reservados: en la UE, también en España, el reglamento reserva «ecológico», «biológico» y «orgánico», y abreviaturas como «bio» y «eco», a los productos que cumplen sus normas; no pueden usarse en los que no las cumplen, ni tampoco términos, incluidos los de marcas registradas o nombres de empresa, que puedan inducir a error al consumidor sugiriendo que un producto cumple el reglamento. Elaborados: un alimento transformado solo puede llevarlos en la denominación de venta si, entre otras condiciones, al menos el 95 % de sus ingredientes agrícolas en peso son ecológicos. Controles: salvo algunas excepciones, los operadores deben pasar una verificación del cumplimiento al menos una vez al año, con inspección física in situ; en los que llevan al menos tres años consecutivos sin incumplimientos que afecten a sus productos y tienen un bajo grado de probabilidad de incumplimiento, no pueden pasar más de veinticuatro meses entre dos inspecciones físicas. Etiqueta: debe llevar el código numérico de la autoridad u organismo de control y, en los alimentos envasados (con algunas excepciones), el logotipo ecológico de la UE, que el reglamento define como una certificación oficial. Lenguaje de la pantalla: «no lo controla nadie» es la creencia que se desmiente; «al menos una vez al año» es la verificación del cumplimiento que pasan los operadores, salvo algunas excepciones; «un elaborado bio lleva casi todo ecológico» resume que un alimento transformado con «bio» o «eco» en la denominación de venta tiene al menos el 95 % de sus ingredientes agrícolas en peso ecológicos, entre otras condiciones; «ni la marca puede sugerir eco sin serlo» resume que en los productos que no cumplen el reglamento tampoco pueden usarse términos, incluidos los de marcas registradas o nombres de empresa, que puedan inducir a error sugiriendo que lo cumplen; «el código de quien lo controla» y «el organismo de control» son el código numérico de la autoridad u organismo de control. Los iconos (huevo, tomate y leche) son ilustrativos: el reglamento no habla de esos alimentos en concreto. Es información sobre etiquetas, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

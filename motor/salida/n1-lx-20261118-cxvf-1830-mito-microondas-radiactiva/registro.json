@@ -1,0 +1,1852 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 26.91,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.98,
+ "pixel": "yuv420p",
+ "tamano_mb": 8.84,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.3,
+ "n_cambios_visuales": 655,
+ "bucle_dif_ultimo_primero": 50.77,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "¿Comida radiactiva en el micro? Mito o",
+   "contando": false,
+   "r": [
+    72,
+    260,
+    935,
+    482
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    599,
+    350,
+    901,
+    460
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    900,
+    340,
+    924,
+    461
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    124,
+    506,
+    213,
+    659
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "micro",
+   "contando": false,
+   "r": [
+    237,
+    501,
+    495,
+    657
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "calienta",
+   "contando": false,
+   "r": [
+    519,
+    494,
+    882,
+    652
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "haciendo",
+   "contando": false,
+   "r": [
+    103,
+    599,
+    487,
+    757
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "vibrar",
+   "contando": false,
+   "r": [
+    511,
+    594,
+    793,
+    750
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    816,
+    592,
+    906,
+    745
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    100,
+    700,
+    307,
+    855
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    331,
+    698,
+    430,
+    851
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    454,
+    696,
+    551,
+    849
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "comida.",
+   "contando": false,
+   "r": [
+    575,
+    690,
+    912,
+    847
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "¿Comida radiactiva en el micro? Mito o",
+   "contando": false,
+   "r": [
+    72,
+    260,
+    935,
+    482
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "realidad",
+   "contando": false,
+   "r": [
+    599,
+    350,
+    901,
+    460
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": ".",
+   "contando": false,
+   "r": [
+    900,
+    340,
+    924,
+    461
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    124,
+    506,
+    213,
+    659
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "micro",
+   "contando": false,
+   "r": [
+    237,
+    501,
+    495,
+    657
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "calienta",
+   "contando": false,
+   "r": [
+    519,
+    494,
+    882,
+    652
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "haciendo",
+   "contando": false,
+   "r": [
+    103,
+    599,
+    487,
+    757
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "vibrar",
+   "contando": false,
+   "r": [
+    511,
+    594,
+    793,
+    750
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    816,
+    592,
+    906,
+    745
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    100,
+    700,
+    307,
+    855
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    331,
+    698,
+    430,
+    851
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    454,
+    696,
+    551,
+    849
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "comida.",
+   "contando": false,
+   "r": [
+    575,
+    690,
+    912,
+    847
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 3.333,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "¡VERDADERO!",
+   "contando": false,
+   "r": [
+    139,
+    516,
+    860,
+    839
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "2,45",
+   "contando": false,
+   "r": [
+    663,
+    315,
+    767,
+    410
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "gigahercios",
+   "contando": false,
+   "r": [
+    765,
+    344,
+    874,
+    386
+   ]
+  },
+  {
+   "t": 4.7,
+   "texto": "las ondas del aparato",
+   "contando": false,
+   "r": [
+    702,
+    448,
+    861,
+    522
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    220,
+    266,
+    742,
+    497
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    177,
+    503,
+    283,
+    669
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    308,
+    497,
+    648,
+    666
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    674,
+    493,
+    829,
+    660
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "micro",
+   "contando": false,
+   "r": [
+    132,
+    607,
+    414,
+    776
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    440,
+    605,
+    544,
+    771
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "vuelve",
+   "contando": false,
+   "r": [
+    570,
+    599,
+    877,
+    769
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "radiactiva.",
+   "contando": false,
+   "r": [
+    246,
+    708,
+    767,
+    881
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 8.267,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "II",
+   "contando": false,
+   "r": [
+    118,
+    301,
+    150,
+    399
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "se convierte en calor",
+   "contando": false,
+   "r": [
+    666,
+    312,
+    885,
+    492
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "al absorberla el alimento",
+   "contando": false,
+   "r": [
+    699,
+    493,
+    855,
+    544
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "¿Verdadero o falso?",
+   "contando": false,
+   "r": [
+    217,
+    261,
+    742,
+    505
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "La",
+   "contando": false,
+   "r": [
+    191,
+    503,
+    297,
+    668
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "fuga",
+   "contando": false,
+   "r": [
+    323,
+    498,
+    539,
+    666
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    565,
+    496,
+    673,
+    662
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "un",
+   "contando": false,
+   "r": [
+    699,
+    494,
+    815,
+    660
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "microondas",
+   "contando": false,
+   "r": [
+    101,
+    603,
+    664,
+    777
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "roza",
+   "contando": false,
+   "r": [
+    690,
+    599,
+    908,
+    767
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "el",
+   "contando": false,
+   "r": [
+    288,
+    715,
+    386,
+    880
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "límite.",
+   "contando": false,
+   "r": [
+    412,
+    709,
+    725,
+    878
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 14.533,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "III",
+   "contando": false,
+   "r": [
+    110,
+    298,
+    158,
+    402
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Verdadero",
+   "contando": false,
+   "r": [
+    198,
+    902,
+    414,
+    962
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "Falso",
+   "contando": false,
+   "r": [
+    699,
+    902,
+    813,
+    962
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "¡FALSO!",
+   "contando": false,
+   "r": [
+    289,
+    532,
+    711,
+    823
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "1",
+   "contando": false,
+   "r": [
+    731,
+    301,
+    777,
+    450
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "%",
+   "contando": false,
+   "r": [
+    772,
+    366,
+    809,
+    423
+   ]
+  },
+  {
+   "t": 15.9,
+   "texto": "del límite, de media",
+   "contando": false,
+   "r": [
+    705,
+    449,
+    858,
+    520
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "¿Se",
+   "contando": false,
+   "r": [
+    72,
+    276,
+    202,
+    412
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "vuelve",
+   "contando": false,
+   "r": [
+    223,
+    271,
+    471,
+    409
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "radiactiva?",
+   "contando": false,
+   "r": [
+    492,
+    261,
+    936,
+    403
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "Mito.",
+   "contando": false,
+   "r": [
+    413,
+    367,
+    598,
+    483
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    147,
+    585,
+    190,
+    662
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "riesgo",
+   "contando": false,
+   "r": [
+    202,
+    582,
+    353,
+    661
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    364,
+    581,
+    452,
+    658
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "sí",
+   "contando": false,
+   "r": [
+    464,
+    580,
+    505,
+    656
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "señalan:",
+   "contando": false,
+   "r": [
+    517,
+    576,
+    724,
+    655
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "calentar",
+   "contando": false,
+   "r": [
+    148,
+    650,
+    348,
+    730
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "poco,",
+   "contando": false,
+   "r": [
+    360,
+    648,
+    491,
+    726
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "sin",
+   "contando": false,
+   "r": [
+    503,
+    646,
+    575,
+    724
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "seguir",
+   "contando": false,
+   "r": [
+    586,
+    644,
+    737,
+    722
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    749,
+    642,
+    821,
+    719
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "instrucciones",
+   "contando": false,
+   "r": [
+    149,
+    716,
+    476,
+    798
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    487,
+    715,
+    560,
+    792
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "aparato,",
+   "contando": false,
+   "r": [
+    572,
+    711,
+    773,
+    790
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "puede",
+   "contando": false,
+   "r": [
+    150,
+    787,
+    296,
+    866
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    307,
+    786,
+    367,
+    863
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "eliminar",
+   "contando": false,
+   "r": [
+    378,
+    783,
+    574,
+    862
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "los",
+   "contando": false,
+   "r": [
+    586,
+    781,
+    658,
+    858
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "gérmenes.",
+   "contando": false,
+   "r": [
+    669,
+    776,
+    921,
+    857
+   ]
+  },
+  {
+   "t": 21.967,
+   "texto": "Límite de fuga de la norma de EE. UU., el mismo que cita Alemania. Fuentes en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    938,
+    846,
+    1066
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    191,
+    1014,
+    323,
+    1086
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "huye",
+   "contando": false,
+   "r": [
+    336,
+    1014,
+    453,
+    1086
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    465,
+    1014,
+    549,
+    1086
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "microondas.",
+   "contando": false,
+   "r": [
+    220,
+    1076,
+    520,
+    1148
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 26.833,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  3.333,
+  4.7,
+  8.267,
+  9.633,
+  14.533,
+  15.9,
+  21.967,
+  26.833
+ ],
+ "sonido": {
+  "lufs": -16.05,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.53,
+  "tiempo_reduccion_mas_1db_pct": 0.29,
+  "efectos_por_tipo": {
+   "pum": 5,
+   "tic": 9,
+   "tac": 3,
+   "teclado": 3,
+   "sello": 3,
+   "ding": 3,
+   "pop": 7,
+   "contador": 14,
+   "boing": 10,
+   "zas": 5,
+   "golpe": 2,
+   "whoosh": 2,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 26.845,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 329,
+   "texto": "El micro calienta haciendo vibrar el agua de la comida. ¡Verdadero! La comida del micro se vuelve radiactiva. ¡Falso! La energía se vuelve calor. La fuga de un microondas roza el límite. ¡Falso! Uno por ciento, de media. Mito. Lo que sí avisan: calentar poco puede no eliminar los gérmenes. Mándaselo a quien huye del microondas.",
+   "duracion_voz_s": 24.62,
+   "lineas": [
+    {
+     "id": "a0",
+     "texto": "El micro calienta haciendo vibrar el agua de la comida.",
+     "t0": 0.0213,
+     "t1": 2.7313
+    },
+    {
+     "id": "v0",
+     "texto": "¡Verdadero!",
+     "t0": 3.4213,
+     "t1": 4.0613
+    },
+    {
+     "id": "a1",
+     "texto": "La comida del micro se vuelve radiactiva.",
+     "t0": 5.5763,
+     "t1": 7.6563
+    },
+    {
+     "id": "v1",
+     "texto": "¡Falso! La energía se vuelve calor.",
+     "t0": 8.3513,
+     "t1": 10.5863
+    },
+    {
+     "id": "a2",
+     "texto": "La fuga de un microondas roza el límite.",
+     "t0": 11.7863,
+     "t1": 13.9463
+    },
+    {
+     "id": "v2",
+     "texto": "¡Falso! Uno por ciento, de media.",
+     "t0": 14.6213,
+     "t1": 16.7163
+    },
+    {
+     "id": "c",
+     "texto": "Mito. Lo que sí avisan: calentar poco puede no eliminar los gérmenes.",
+     "t0": 17.7563,
+     "t1": 21.9613
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien huye del microondas.",
+     "t0": 22.5413,
+     "t1": 24.4613
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.03,
+   "limitador_max_db": 2.3
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 0.621,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 1.486,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.351,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 2.801,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 3.021,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 3.381,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 3.401,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 3.451,
+   "tipo": "ding",
+   "intensidad": 0.5
+  },
+  {
+   "t": 3.621,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.701,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.801,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 3.901,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.001,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.101,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.201,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.278,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.301,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 4.854,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 5.451,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 5.491,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 5.511,
+   "tipo": "zas",
+   "intensidad": 0.42
+  },
+  {
+   "t": 6.176,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.726,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.276,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 7.726,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 7.951,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.311,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 8.331,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 8.381,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.551,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 9.383,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.136,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.889,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.661,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 11.701,
+   "tipo": "zas",
+   "intensidad": 0.4
+  },
+  {
+   "t": 11.721,
+   "tipo": "zas",
+   "intensidad": 0.42
+  },
+  {
+   "t": 12.386,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.976,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 13.566,
+   "tipo": "tic",
+   "intensidad": 0.22
+  },
+  {
+   "t": 14.016,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 14.221,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 14.581,
+   "tipo": "sello",
+   "intensidad": 0.75
+  },
+  {
+   "t": 14.601,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 14.651,
+   "tipo": "golpe",
+   "intensidad": 0.4
+  },
+  {
+   "t": 14.821,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 14.901,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.001,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.101,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.201,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.301,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.401,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.501,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 15.525,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.148,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 16.772,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 17.396,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.516,
+   "tipo": "pop",
+   "intensidad": 0.38
+  },
+  {
+   "t": 21.566,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.616,
+   "tipo": "ding",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.066,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 22.366,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.566,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 24.261,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 24.561,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 24.861,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 25.021,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 25.111,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.279,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 806,
+ "tiempo_render_s": 78.0,
+ "tiempos_s": {
+  "preparar": 2.98,
+  "dibujar_y_codificar": 72.37
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_vf_comic",
+ "familia": "reel_quiz",
+ "variante": "rasca",
+ "sistema": "vivax-comic-1",
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: gancho y ronda I"
+  },
+  {
+   "t": 2.6667,
+   "que": "I · cuenta atrás"
+  },
+  {
+   "t": 3.6,
+   "que": "I · ¡sello!"
+  },
+  {
+   "t": 4.7,
+   "que": "I · la prueba"
+  },
+  {
+   "t": 6.0667,
+   "que": "II · entra"
+  },
+  {
+   "t": 7.5667,
+   "que": "II · cuenta atrás"
+  },
+  {
+   "t": 8.5333,
+   "que": "II · ¡sello!"
+  },
+  {
+   "t": 9.6333,
+   "que": "II · la prueba"
+  },
+  {
+   "t": 12.3,
+   "que": "III · entra"
+  },
+  {
+   "t": 13.8667,
+   "que": "III · cuenta atrás"
+  },
+  {
+   "t": 14.8,
+   "que": "III · ¡sello!"
+  },
+  {
+   "t": 15.9,
+   "que": "III · la prueba"
+  },
+  {
+   "t": 18.3,
+   "que": "conclusión: entra"
+  },
+  {
+   "t": 21.9667,
+   "que": "conclusión"
+  },
+  {
+   "t": 23.4667,
+   "que": "cierre: Oli"
+  },
+  {
+   "t": 24.8667,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 26.8333,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": [
+  [
+   "vaso",
+   "fruta",
+   "pan",
+   "pescado",
+   "zanahoria"
+  ],
+  [
+   "tomate",
+   "salero",
+   "limon",
+   "fresa",
+   "brocoli"
+  ],
+  [
+   "huevo",
+   "fruta",
+   "pan",
+   "fresa",
+   "pescado"
+  ]
+ ],
+ "linea_de_tiempo": {
+  "dur": 26.8667,
+  "cortes": [
+   0.0,
+   5.431,
+   11.641,
+   17.396,
+   22.066
+  ],
+  "t_ono": 24.561,
+  "t_anz": 24.861,
+  "rondas": [
+   {
+    "t_in": 0.0,
+    "t0": 0.021,
+    "buzz": 2.801,
+    "tv": 3.401,
+    "pasos": [
+     0.621,
+     1.486,
+     2.351
+    ],
+    "t_out": 5.131
+   },
+   {
+    "t_in": 5.431,
+    "t0": 5.576,
+    "buzz": 7.726,
+    "tv": 8.331,
+    "pasos": [
+     6.176,
+     6.726,
+     7.276
+    ],
+    "t_out": 11.341
+   },
+   {
+    "t_in": 11.641,
+    "t0": 11.786,
+    "buzz": 14.016,
+    "tv": 14.601,
+    "pasos": [
+     12.386,
+     12.976,
+     13.566
+    ],
+    "t_out": 17.896
+   }
+  ]
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-184",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #microondas #mitos #nutricion #verdaderoofalso»",
+  "controles: [texto IA (pie)] TX-APE-02: La primera línea es una pregunta cerrada (de sí o no), tipo gancho. Una pregunta abierta de verdad («¿Cuántas  Sale en: «¿Comida radiactiva en el micro? Mito o realidad.  El mic»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Cuál de las tres te creía»"
+ ],
+ "limpio": true
+}

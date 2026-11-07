@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261117-cxvf-1830-mito-ecologico-nutritivo",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-224"
+  ],
+  "titulo": "[CXVF] ¿Lo ecológico es más nutritivo? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Lo ecológico es más nutritivo? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Lo ecológico siempre tiene más nutrientes.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "8 de 11 categorías de nutrientes",
+      "dato": "sin diferencias claras"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Lo ecológico tiene más fósforo.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "más alto en lo ecológico",
+      "dato": "sin relevancia clínica"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Los cultivos ecológicos pueden llevar más antioxidantes.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "50",
+      "unidad": "%",
+      "dato": "más de flavonoles"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "No hay evidencia sólida de que lo ecológico sea significativamente más nutritivo.",
+      "fuente": "Hay diferencias en algunos nutrientes, como el fósforo o los antioxidantes. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Más nutritivo? {Depende} del nutriente."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien solo compra ecológico.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Lo ecológico es más nutritivo? Mito o realidad.\n\nLo ecológico siempre tiene más nutrientes. Falso: 8 de 11 categorías de nutrientes (sin diferencias claras).\nLo ecológico tiene más fósforo. Verdadero: más alto en lo ecológico (sin relevancia clínica).\nLos cultivos ecológicos pueden llevar más antioxidantes. Verdadero: flavonoles 50 % (más de flavonoles).\n\nY el dato final: No hay evidencia sólida de que lo ecológico sea significativamente más nutritivo. Hay diferencias en algunos nutrientes, como el fósforo o los antioxidantes. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien solo compra ecológico.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitos #ecologico #nutricion #verdaderoofalso",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la encuesta de historia (BM), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Lo ecológico es más nutritivo? Mito o realidad. I. Lo ecológico siempre tiene más nutrientes. Sello: Falso. La prueba: 8 de 11 categorías de nutrientes (Cultivos ecológicos), sin diferencias claras. Una zanahoria se queda con la boca abierta. II. Lo ecológico tiene más fósforo. Sello: Verdadero. La prueba: más alto en lo ecológico (Fósforo), sin relevancia clínica. Un tomate lo celebra. III. Los cultivos ecológicos pueden llevar más antioxidantes. Sello: Verdadero. La prueba: 50 % (Flavonoles), más de flavonoles. Una manzana lo celebra. ¿Más nutritivo? Depende del nutriente. Lo que dicen los datos: No hay evidencia sólida de que lo ecológico sea significativamente más nutritivo. Cierre: Oli saluda y dice «Mándaselo a quien solo compra ecológico». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la encuesta de historia (BM), quiz de ideas) · spec n1-lux-20261117-1830-mito-ecologico-nutritivo · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261117-1830-mito-ecologico-nutritivo",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "encuesta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261117-1830-mito-ecologico-nutritivo",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-224; veredicto del banco: matizado). Dangour AD y colaboradores, Am J Clin Nutr 2009;90(3):680-685, con 55 estudios de calidad satisfactoria: no halló evidencia de diferencias en 8 de 11 categorías de nutrientes de los cultivos; los convencionales tenían más nitrógeno, y los ecológicos, más fósforo y más acidez titulable. Smith-Spangler C y colaboradores, Ann Intern Med 2012;157(5):348-366, con 223 estudios de nutrientes y contaminantes: todas las estimaciones de diferencias fueron muy heterogéneas salvo la del fósforo, más alto en lo ecológico pero sin relevancia clínica, y concluye que no hay evidencia sólida de que lo ecológico sea significativamente más nutritivo. Barański M y colaboradores, Br J Nutr 2014;112(5):794-811, con 343 publicaciones: más antioxidantes en los cultivos ecológicos, por ejemplo un 50 % más de flavonoles (intervalo de confianza del 95 %: del 28 al 72 %), menos cadmio y una frecuencia de residuos de plaguicidas cuatro veces mayor en los cultivos convencionales. Lenguaje de la pantalla: «sin diferencias claras» resume «no halló evidencia de diferencias» en 8 de 11 categorías de nutrientes; «depende del nutriente» resume que la mayoría de las categorías no mostró diferencias, que el fósforo salió más alto en lo ecológico sin relevancia clínica y que los antioxidantes salieron más altos en los cultivos ecológicos; «no está probado que sea más nutritivo» resume «no hay evidencia sólida de que lo ecológico sea significativamente más nutritivo». Es información sobre alimentos, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "n1-lx-20261119-cxvf-1830-mito-alcohol-cocinar",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-187"
+  ],
+  "titulo": "[CXVF] ¿Al cocinar, el alcohol se va? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Al cocinar, el alcohol se va? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Tras una hora a fuego lento, todavía queda alcohol.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "25",
+      "unidad": "%",
+      "dato": "sigue en el plato"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Tras dos horas y media, ya no queda alcohol.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "5",
+      "unidad": "%",
+      "dato": "sigue en el plato"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Al flambear, el alcohol se quema casi entero.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "75",
+      "unidad": "%",
+      "dato": "sigue en el plato"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Parte del alcohol sigue en el plato: del 85 % al 5 %, según cómo y cuánto tiempo se cocine.",
+      "fuente": "Porcentaje del alcohol inicial que queda en el plato cocinado. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Se evapora todo el alcohol? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien dice que el alcohol se evapora.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Al cocinar, el alcohol se va? Mito o realidad.\n\nTras una hora a fuego lento, todavía queda alcohol. Verdadero: una hora a fuego lento 25 % (sigue en el plato).\nTras dos horas y media, ya no queda alcohol. Falso: dos horas y media 5 % (sigue en el plato).\nAl flambear, el alcohol se quema casi entero. Falso: flambeado 75 % (sigue en el plato).\n\nY el dato final: Parte del alcohol sigue en el plato: del 85 % al 5 %, según cómo y cuánto tiempo se cocine. Porcentaje del alcohol inicial que queda en el plato cocinado. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien dice que el alcohol se evapora.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #mitos #cocina #alcohol #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como el videojuego de plataformas (BE), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Al cocinar, el alcohol se va? Mito o realidad. I. Tras una hora a fuego lento, todavía queda alcohol. Sello: Verdadero. La prueba: 25 % (Una hora a fuego lento), sigue en el plato. Una zanahoria lo celebra. II. Tras dos horas y media, ya no queda alcohol. Sello: Falso. La prueba: 5 % (Dos horas y media), sigue en el plato. Un tomate se queda con la boca abierta. III. Al flambear, el alcohol se quema casi entero. Sello: Falso. La prueba: 75 % (Flambeado), sigue en el plato. Una manzana se queda con la boca abierta. ¿Se evapora todo el alcohol? Mito. Lo que dicen los datos: Parte del alcohol sigue en el plato: del 85 % al 5 %, según cómo y cuánto tiempo se cocine. Cierre: Oli saluda y dice «Mándaselo a quien dice que el alcohol se evapora». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-19",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como el videojuego de plataformas (BE), quiz de ideas) · spec n1-lux-20261119-1830-mito-alcohol-cocinar · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261119-1830-mito-alcohol-cocinar",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "juego",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261119-1830-mito-alcohol-cocinar",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-187; veredicto del banco: no respaldado). USDA (Departamento de Agricultura de EE. UU.), Table of Nutrient Retention Factors, Release 6 (diciembre de 2007), códigos 5001 a 5010, columna «Alcohol, ethyl»; datos de Augustin J y colaboradores, J Am Diet Assoc 1992;92:486-8. La tabla da el porcentaje del alcohol inicial que sigue en el plato cocinado según cómo se cocine: 85 % si se añade a un líquido caliente, 75 % si se flambea, 40 % tras 15 minutos de horno o fuego lento, 25 % tras 1 hora, 10 % tras 2 horas y 5 % tras 2 horas y media. Sin calor y guardado de un día para otro, queda el 70 %. Lenguaje de la pantalla: «a fuego lento» resume «horno o fuego lento» de la tabla; «del 85 % al 5 %» es el intervalo de los métodos con calor de la tabla. Es información sobre cocina, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261128-cxvf-1830-mito-pasta-engorda",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-241"
+  ],
+  "titulo": "[CXVF] ¿La pasta engorda? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿La pasta engorda? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Cien gramos de pasta cocida no llegan a doscientas calorías.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "158",
+      "unidad": "kcal",
+      "dato": "pasta cocida, por 100 g"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Con pasta en la dieta, el peso sube.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "no subió el peso",
+      "dato": "en unas 12 semanas"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "En dietas con pasta, el peso fue algo menor que en otras.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "-0,63 kg",
+      "dato": "toda la dieta, no la pasta"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "La pasta dentro de dietas de índice glucémico bajo no subió el peso.",
+      "fuente": "Frente a dietas de índice glucémico más alto; cuenta toda la dieta, no la pasta sola, y no hubo personas de peso normal. Fuentes en el primer comentario.",
+      "titulo": "¿La pasta engorda? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien huye de la pasta.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿La pasta engorda? Mito o realidad.\n\nCien gramos de pasta cocida no llegan a doscientas calorías. Verdadero: pasta cocida 158 kcal (pasta cocida, por 100 g).\nCon pasta en la dieta, el peso sube. Falso: no subió el peso (en unas 12 semanas).\nEn dietas con pasta, el peso fue algo menor que en otras. Verdadero: -0,63 kg (toda la dieta, no la pasta).\n\nLas cifras por 100 g son lo que lleva el alimento, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY el dato final: La pasta dentro de dietas de índice glucémico bajo no subió el peso. Frente a dietas de índice glucémico más alto; cuenta toda la dieta, no la pasta sola, y no hubo personas de peso normal. Fuentes en el primer comentario.\n\n¿Cuál de las tres te creías?\nMándaselo a quien huye de la pasta.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #pasta #nutricion #verdaderoofalso",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la ruleta (BC), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿La pasta engorda? Mito o realidad. I. Cien gramos de pasta cocida no llegan a doscientas calorías. Sello: Verdadero. La prueba: 158 kcal (Pasta cocida), pasta cocida, por 100 g. Una rebanada de pan lo celebra. II. Con pasta en la dieta, el peso sube. Sello: Falso. La prueba: no subió el peso (Pasta en la dieta), en unas 12 semanas. Una rebanada de pan se queda con la boca abierta. III. En dietas con pasta, el peso fue algo menor que en otras. Sello: Verdadero. La prueba: -0,63 kg (Dietas con pasta), toda la dieta, no la pasta. Una rebanada de pan lo celebra. ¿La pasta engorda? Mito. Lo que dicen los datos: La pasta dentro de dietas de índice glucémico bajo no subió el peso. Cierre: Oli saluda y dice «Mándaselo a quien huye de la pasta». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-28",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la ruleta (BC), quiz de ideas) · spec n1-lux-20261128-1830-mito-pasta-engorda · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261128-1830-mito-pasta-engorda",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "ruleta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261128-1830-mito-pasta-engorda",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-241; veredicto del banco: no respaldado). Peso: Chiavaroli L y colaboradores, BMJ Open 2018;8(3):e019438, revisión sistemática y metaanálisis de 32 comparaciones de ensayos aleatorizados (2.448 personas): la pasta dentro de dietas de índice glucémico bajo no subió el peso; la diferencia fue de -0,63 kg (IC 95 % de -0,84 a -0,42) frente a dietas de índice glucémico más alto, con una mediana de 12 semanas y certeza moderada (GRADE). Ningún ensayo probó la pasta sola: el resultado es el de la dieta completa. No hubo ensayos con personas de peso normal (mediana del IMC inicial, 30,4). Composición: USDA FoodData Central, SR Legacy (fdcId 169737): 100 g de pasta cocida aportan 158 kcal. Lenguaje de la pantalla y de la voz: «no llegan a doscientas calorías» son las 158 kcal por 100 g de pasta cocida; «el peso fue algo menor que en otras» y «algo más de medio kilo» resumen la diferencia de -0,63 kg frente a dietas de índice glucémico más alto; «en unas 12 semanas» es la mediana de duración; «toda la dieta, no la pasta» resume que ningún ensayo probó la pasta sola; «no subió el peso» es literal del resumen. La pasta de trigo lleva gluten. Son datos de población, no una recomendación personal ni de peso. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

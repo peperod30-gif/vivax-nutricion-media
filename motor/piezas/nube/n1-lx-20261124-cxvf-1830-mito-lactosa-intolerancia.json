@@ -1,0 +1,109 @@
+{
+  "id": "n1-lx-20261124-cxvf-1830-mito-lactosa-intolerancia",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-207"
+  ],
+  "titulo": "[CXVF] ¿Intolerancia, cero lactosa? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Intolerancia, cero lactosa? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Hay quien nota síntomas con muy poca lactosa.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "menos de 6 g",
+      "dato": "algunas personas"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Con intolerancia, no puedes tomar nada de lactosa.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "12",
+      "unidad": "g",
+      "dato": "en una sola toma"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Repartida en el día, se puede tolerar más lactosa.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "dosis mayores repartidas",
+      "dato": "a lo largo del día"
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "La tolerancia varía mucho: la gran mayoría tolera hasta 12 g de una vez, con síntomas leves o sin ellos.",
+      "fuente": "La galactosemia es otra enfermedad: en ella se eliminan, en lo posible, todas las fuentes de galactosa. Fuentes en el comentario; no es una recomendación personal.",
+      "titulo": "¿Cero lactosa? {Depende}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien cree que es todo o nada.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Intolerancia, cero lactosa? Mito o realidad.\n\nHay quien nota síntomas con muy poca lactosa. Verdadero: menos de 6 g (algunas personas).\nCon intolerancia, no puedes tomar nada de lactosa. Falso: la gran mayoría 12 g (en una sola toma).\nRepartida en el día, se puede tolerar más lactosa. Verdadero: dosis mayores repartidas (a lo largo del día).\n\nY el dato final: La tolerancia varía mucho: la gran mayoría tolera hasta 12 g de una vez, con síntomas leves o sin ellos. La galactosemia es otra enfermedad: en ella se eliminan, en lo posible, todas las fuentes de galactosa. Fuentes en el comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien cree que es todo o nada.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #lactosa #intoleranciaalalactosa #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como el rasca (BD), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Intolerancia, cero lactosa? Mito o realidad. I. Hay quien nota síntomas con muy poca lactosa. Sello: Verdadero. La prueba: menos de 6 g (Algunas personas), algunas personas. Un vaso de leche lo celebra. II. Con intolerancia, no puedes tomar nada de lactosa. Sello: Falso. La prueba: 12 g (La gran mayoría), en una sola toma. Un vaso de leche se queda con la boca abierta. III. Repartida en el día, se puede tolerar más lactosa. Sello: Verdadero. La prueba: dosis mayores repartidas (Repartida en el día), a lo largo del día. Un vaso de leche lo celebra. ¿Cero lactosa? Depende. Lo que dicen los datos: La tolerancia varía mucho: la gran mayoría tolera hasta 12 g de una vez, con síntomas leves o sin ellos. Cierre: Oli saluda y dice «Mándaselo a quien cree que es todo o nada». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-24",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como el rasca (BD), quiz de ideas) · spec n1-lux-20261124-1830-mito-lactosa-intolerancia · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261124-1830-mito-lactosa-intolerancia",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "rasca",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261124-1830-mito-lactosa-intolerancia",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-207; veredicto del banco: matizado). EFSA, Panel de Productos Dietéticos, Nutrición y Alergias (NDA), Scientific Opinion on lactose thresholds in lactose intolerance and galactosaemia, EFSA Journal 2010;8(9):1777 (doi.org/10.2903/j.efsa.2010.1777). La EFSA concluye que la tolerancia a la lactosa varía mucho entre personas y que no se puede fijar un umbral único. Algunas personas tienen síntomas con menos de 6 g; la gran mayoría de quienes digieren mal la lactosa toleran hasta 12 g en una sola toma, con síntomas leves o sin ellos, y pueden tolerarse dosis mayores repartidas a lo largo del día. Como referencia, por 100 g, la leche entera tiene 5,05 g de lactosa (USDA FoodData Central, SR Legacy, fdcId 172217). La galactosemia es otra enfermedad: en ella se eliminan, en lo posible, todas las fuentes de galactosa. Lenguaje de la pantalla: «hay quien nota síntomas con muy poca lactosa» resume que algunas personas tienen síntomas con menos de 6 g; «la mayoría tolera hasta doce gramos de una vez» resume que la gran mayoría de quienes digieren mal la lactosa toleran hasta 12 g en una sola toma, con síntomas leves o sin ellos; «repartida en el día, se puede tolerar más» resume que pueden tolerarse dosis mayores repartidas a lo largo del día; «varía mucho de una persona a otra» resume que la tolerancia varía mucho entre personas y que no se puede fijar un umbral único. Es información general, no una recomendación personal: cada caso lo valora un profesional sanitario. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}
