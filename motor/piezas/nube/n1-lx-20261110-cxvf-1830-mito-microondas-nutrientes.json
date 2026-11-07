@@ -1,0 +1,126 @@
+{
+  "id": "n1-lx-20261110-cxvf-1830-mito-microondas-nutrientes",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-183"
+  ],
+  "titulo": "[CXVF] ¿El micro destruye nutrientes? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿El micro destruye nutrientes? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "La espinaca al micro pierde más vitamina C que hervida.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "91,10",
+      "unidad": "%",
+      "items": [
+        {
+          "nombre": "Conserva al micro"
+        },
+        {
+          "nombre": "Conserva hervida",
+          "valor": "40,12 %"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "Dos verduras de hoja perdieron más vitamina K al micro.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "más vitamina K hizo perder",
+      "dato": "en dos verduras de hoja"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "En el brócoli, el micro quitó más flavonoides que hervir.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "97",
+      "unidad": "%",
+      "items": [
+        {
+          "nombre": "Pierde al micro"
+        },
+        {
+          "nombre": "Pierde hervido",
+          "valor": "66 %"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "La FDA de EE. UU. indica que cocinar en microondas no reduce el valor nutritivo más que la cocina convencional.",
+      "fuente": "Porcentajes de verduras concretas. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿Destruye los nutrientes? {Depende}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien desconfía del micro.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿El micro destruye nutrientes? Mito o realidad.\n\nLa espinaca al micro pierde más vitamina C que hervida. Falso: conserva al micro 91,10 %, conserva hervida 40,12 % (de vitamina C conservada).\nDos verduras de hoja perdieron más vitamina K al micro. Verdadero: más vitamina K hizo perder (en dos verduras de hoja).\nEn el brócoli, el micro quitó más flavonoides que hervir. Verdadero: pierde al micro 97 %, pierde hervido 66 % (de flavonoides perdidos).\n\nY el dato final: La FDA de EE. UU. indica que cocinar en microondas no reduce el valor nutritivo más que la cocina convencional. Porcentajes de verduras concretas. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuántas has acertado?\nMándaselo a quien desconfía del micro.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitos #microondas #nutricion #verdaderoofalso #vitaminas",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como la ruleta (BC), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿El micro destruye nutrientes? Mito o realidad. I. La espinaca al micro pierde más vitamina C que hervida. Sello: Falso. La prueba: 91,10 % (Conserva al micro); Conserva hervida: 40,12 %, de vitamina C conservada. Un brócoli se queda con la boca abierta. II. Dos verduras de hoja perdieron más vitamina K al micro. Sello: Verdadero. La prueba: más vitamina K hizo perder, en dos verduras de hoja. Un brócoli lo celebra. III. En el brócoli, el micro quitó más flavonoides que hervir. Sello: Verdadero. La prueba: 97 % (Pierde al micro); Pierde hervido: 66 %, de flavonoides perdidos. Un brócoli lo celebra. ¿Destruye los nutrientes? Depende. Lo que dicen los datos: La FDA de EE. UU. indica que cocinar en microondas no reduce el valor nutritivo más que la cocina convencional. Cierre: Oli saluda y dice «Mándaselo a quien desconfía del micro». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-10",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como la ruleta (BC), quiz de ideas) · spec n1-lux-20261110-1830-mito-microondas-nutrientes · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261110-1830-mito-microondas-nutrientes",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "ruleta",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261110-1830-mito-microondas-nutrientes",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes. Microondas y nutrientes (MIT-183): Lee S y colaboradores, Food Sci Biotechnol 2018;27(2):333-42. En verduras, el microondas sin agua (700 W) fue en general el método que más vitamina C conservó y hervir, el que menos: la espinaca retuvo el 91,10 % al microondas y el 40,12 % hervida. En el mismo trabajo fue el método que más vitamina K hizo perder en dos verduras de hoja. Vallejo F y colaboradores, J Sci Food Agric 2003;83(14):1511-6: en brócoli midieron con microondas una pérdida del 97 % de los flavonoides, frente al 66 % al hervir. FDA (EE. UU.), Microwave Oven Radiation (actualizada el 10/12/2023): cocinar en microondas no reduce el valor nutritivo más que la cocina convencional. Son datos de cocción de verduras concretas; cambian con la verdura y con el nutriente. No es una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}

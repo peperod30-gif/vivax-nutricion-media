@@ -1,0 +1,116 @@
+{
+  "id": "n1-lx-20261109-cxvf-1830-mito-virgen-extra-freir",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cxvf",
+  "pilar": "ensenar",
+  "hechos": [
+    "MIT-181"
+  ],
+  "titulo": "[CXVF] ¿Con virgen extra no se fríe? Mito o realidad.",
+  "hojas": [
+    {
+      "plantilla": "f_vs",
+      "titulo": "¿Con virgen extra no se fríe? Mito o {realidad}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "I",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "En un bar, el aceite de freír tiene tope legal.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡VERDADERO!",
+      "cifra": "menos del 25 % de compuestos polares",
+      "dato": "por ley, en España"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "II",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "El punto de humo del virgen extra es un dato exacto.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "visual y subjetiva",
+      "dato": "medida del punto de humo"
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "III",
+      "resalte": "¿Verdadero o falso?",
+      "texto": "El virgen extra se estropea antes que otros al freír.",
+      "opciones": [
+        "Verdadero",
+        "Falso"
+      ],
+      "respuesta": "¡FALSO!",
+      "cifra": "de 24 a 27 horas",
+      "items": [
+        {
+          "nombre": "Aceites de oliva"
+        },
+        {
+          "nombre": "Mezcla de aceites vegetales",
+          "valor": "15 horas"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Al freír, el aceite de oliva suele comportarse igual que los aceites vegetales refinados o por encima de ellos.",
+      "fuente": "Horas de fritura casera hasta el 25 % de compuestos polares, el máximo legal. Fuentes en el primer comentario; no es una recomendación personal.",
+      "titulo": "¿El virgen extra no sirve para freír? {Mito}."
+    },
+    {
+      "plantilla": "f_ranking",
+      "frase": "Mándaselo a quien no fríe con virgen extra.",
+      "dice": [
+        "¡Continuará!"
+      ],
+      "texto": "Mañana, otro mito de comida con sus datos."
+    }
+  ],
+  "pie_instagram": "¿Con virgen extra no se fríe? Mito o realidad.\n\nEn un bar, el aceite de freír tiene tope legal. Verdadero: menos del 25 % de compuestos polares (por ley, en España).\nEl punto de humo del virgen extra es un dato exacto. Falso: visual y subjetiva (medida del punto de humo).\nEl virgen extra se estropea antes que otros al freír. Falso: de 24 a 27 horas, mezcla de aceites vegetales 15 horas (hasta el máximo legal).\n\nY el dato final: Al freír, el aceite de oliva suele comportarse igual que los aceites vegetales refinados o por encima de ellos. Horas de fritura casera hasta el 25 % de compuestos polares, el máximo legal. Fuentes en el primer comentario; no es una recomendación personal.\n\n¿Cuál de las tres te creías?\nMándaselo a quien no fríe con virgen extra.\nMañana, otro mito de comida con sus datos.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#mitoorealidad #aceitedeoliva #fritura #nutricion",
+  "alt": [
+    "Reel de dibujos animados limpio en blanco, negro y verde oliva: el quiz de verdadero o falso como concurso de televisión con pulsadores (BJ), con Oli, la aceituna de Vivax, de presentadora y el alimento de cada ronda, que reacciona a la respuesta; la afirmación y el sello van en letra muy grande. ¿Con virgen extra no se fríe? Mito o realidad. I. En un bar, el aceite de freír tiene tope legal. Sello: Verdadero. La prueba: menos del 25 % de compuestos polares (Norma de aceites calentados), por ley, en España. Una sardina lo celebra. II. El punto de humo del virgen extra es un dato exacto. Sello: Falso. La prueba: visual y subjetiva (Aceites de oliva vírgenes), medida del punto de humo. Un huevo se queda con la boca abierta. III. El virgen extra se estropea antes que otros al freír. Sello: Falso. La prueba: de 24 a 27 horas (Aceites de oliva); Mezcla de aceites vegetales: 15 horas, hasta el máximo legal. Una gota de aceite se queda con la boca abierta. ¿El virgen extra no sirve para freír? Mito. Lo que dicen los datos: Al freír, el aceite de oliva suele comportarse igual que los aceites vegetales refinados o por encima de ellos. Cierre: Oli saluda y dice «Mándaselo a quien no fríe con virgen extra». Una ráfaga dice «¡Continuará!». Mañana, otro mito de comida con sus datos."
+  ],
+  "esquema": "slides-1",
+  "version_reel": "fx",
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-09",
+    "serie": "Mito o realidad",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "reel_vf_comic",
+    "formato": "CXVF",
+    "lote": "lux-2026-11",
+    "hora": "18:30",
+    "nota": "plantilla reel_vf_comic (Vivax Cómic: el quiz de la noche como concurso de televisión con pulsadores (BJ), quiz de ideas) · spec n1-lux-20261109-1830-mito-virgen-extra-freir · modo limpio (7-nov)",
+    "voz": "ElevenLabs, Dani (datos/eleven_config.json)",
+    "pilar_plan": "ensenar",
+    "spec_id": "n1-lux-20261109-1830-mito-virgen-extra-freir",
+    "plantilla_registro": "reel_vf_comic",
+    "familia": "reel_quiz",
+    "mecanica": "reel_quiz",
+    "variante": "plato",
+    "piel": "comic",
+    "sistema_dibujo": "vivax-comic-1",
+    "limpio": true,
+    "voz_de_prueba": false,
+    "spec": "n1-lux-20261109-1830-mito-virgen-extra-freir",
+    "plantilla_visual": "reel_vf_comic",
+    "lote_serie": "luxury-6"
+  },
+  "comentario": "Fuentes (MIT-181; veredicto del banco: no respaldado). Tope legal: Orden de 26 de enero de 1989, norma de calidad para los aceites y grasas calentados (BOE-A-1989-2265), artículo 6.3: en España, el aceite de freír de freidurías, bares y demás establecimientos tiene que tener menos del 25 % de compuestos polares. Punto de humo: Díez-Betriu A y colaboradores, Foods 2025;14(23):4099 (48 aceites de oliva vírgenes): en los aceites de oliva vírgenes, el punto de humo depende sobre todo de sus ácidos grasos libres, y su medida sigue siendo visual y subjetiva, lo que limita su fiabilidad para elegir aceite de fritura. Horas de fritura: Casal S y colaboradores, Food Chem Toxicol 2010;48(10):2972-9, ensayo de fritura doméstica: los aceites de oliva (también un virgen extra) aguantaron de 24 a 27 horas de fritura hasta llegar al 25 % de compuestos polares, el máximo legal, frente a 15 horas de una mezcla comercial de aceites vegetales. Conclusión: Chiou A y Kalogeropoulos N, Compr Rev Food Sci Food Saf 2017;16(4):632-46, revisión: al freír, el aceite de oliva suele comportarse igual que los aceites vegetales refinados o por encima de ellos. Lenguaje de la pantalla: «tope legal» es el máximo del 25 % de compuestos polares de la norma española; «se mide a ojo» resume «visual y subjetiva»; «los de oliva duraron más» compara las 24 a 27 horas de los aceites de oliva de la fritura casera, entre ellos un virgen extra, con las 15 de la mezcla; «suele rendir como los refinados o más» resume «suele comportarse igual que los aceites vegetales refinados o por encima de ellos». Es información sobre aceites de fritura, no una recomendación personal. Voz sintética (IA).",
+  "ia": true,
+  "serie": "Mito o realidad",
+  "pilar_plan": "ensenar"
+}
