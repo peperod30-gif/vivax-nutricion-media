@@ -2059,5 +2059,430 @@
     "riesgo_publicar": "bajo",
     "poblaciones_en_riesgo": [],
     "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-241",
+    "tema": "mito - pasta",
+    "enunciado": "La pasta engorda.",
+    "veredicto": "no_respaldado",
+    "matiz": "Metaanálisis de 32 comparaciones de ensayos (2.448 personas): la pasta dentro de dietas de índice glucémico bajo no subió el peso; la diferencia fue de -0,63 kg (IC 95 % -0,84 a -0,42) frente a dietas de índice glucémico más alto, con una mediana de 12 semanas y certeza moderada (GRADE). Ningún ensayo probó la pasta sola: el resultado es el de la dieta completa. No hubo ensayos con personas de peso normal (mediana del IMC inicial, 30,4). 100 g de pasta cocida aportan 158 kcal (USDA).",
+    "fuente": "Chiavaroli L et al. BMJ Open 2018;8(3):e019438; USDA FoodData Central, SR Legacy (fdcId 169737)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5884373/",
+    "anio": 2018,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ECA; tabla de composición",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "celiaquía (la pasta de trigo lleva gluten)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-242",
+    "tema": "mito - legumbres",
+    "enunciado": "Las legumbres engordan.",
+    "veredicto": "no_respaldado",
+    "matiz": "Metaanálisis de 21 ECA (940 personas): las dietas con legumbres (mediana de 132 g al día, una ración aproximadamente) dieron -0,34 kg (IC 95 % -0,63 a -0,04; p = 0,03) frente a dietas sin legumbres, con una mediana de 6 semanas. La diferencia se vio también en dietas pensadas para mantener el peso, no solo en las de adelgazar. Son ensayos cortos. Por 100 g cocidas (USDA): lentejas 116 kcal, alubias blancas 139 kcal y garbanzos 164 kcal.",
+    "fuente": "Kim SJ et al. Am J Clin Nutr 2016;103(5):1213-1223; USDA FoodData Central, SR Legacy (fdcId 172421, 175203 y 173757)",
+    "url": "https://europepmc.org/article/MED/27030531",
+    "anio": 2016,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de ECA; tabla de composición",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-243",
+    "tema": "mito - legumbres de bote",
+    "enunciado": "Los garbanzos de bote alimentan mucho menos que los cocidos en casa.",
+    "veredicto": "matizado",
+    "matiz": "Por 100 g (USDA, productos de EE. UU.): hervidos a partir de garbanzo seco, 164 kcal y 8,86 g de proteína; de bote escurridos, 139 kcal y 7,05 g, en parte porque llevan más agua (66,7 g frente a 60,2 g). El sodio depende de la sal: 7 mg hervidos sin sal, 243 mg hervidos con sal, 246 mg de bote escurridos y 212 mg escurridos y enjuagados. La ficha de bote de USDA da menos potasio (126 frente a 291 mg, con solo 4 muestras). En el hierro las tablas no coinciden: 2,89 mg hervidos en USDA y, de bote, 1,07 mg en USDA y 2,8 mg en la base española BEDCA, que da 220 mg de sodio.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173757, 173799, 173800 y 173801); BEDCA, Base de Datos Española de Composición de Alimentos (garbanzo en conserva, id 2191)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tablas de composición (USDA y BEDCA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "hipertensión o dieta baja en sodio"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-244",
+    "tema": "mito - legumbres y gases",
+    "enunciado": "Las legumbres siempre dan gases.",
+    "veredicto": "matizado",
+    "matiz": "En 3 ensayos de EE. UU. con media taza de alubias al día durante 8 o 12 semanas, «solo la mitad o menos» notó más gases la primera semana, y el 19 % con judías carillas. De quienes los notaron, el 70 % o más notó que se pasaban en la segunda o tercera semana, aunque en un ensayo entre el 15 % y el 23 % lo seguía notando de la semana 6 a la 12. Con las dietas de control, sin legumbres, también lo notó entre el 3 % y el 11 %. Son percepciones declaradas, en muestras pequeñas (17, 29 y 80 personas).",
+    "fuente": "Winham DM, Hutchins AM. Nutr J 2011;10:128",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3228670/",
+    "anio": 2011,
+    "nivel_evidencia": "ECA (análisis de síntomas declarados en 3 ensayos)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "síntomas de colon irritable (el artículo cita acumulación de gas en estas personas)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-245",
+    "tema": "mito - arroz y pasta integrales",
+    "enunciado": "El arroz y la pasta integrales tienen muchas menos calorías que los blancos.",
+    "veredicto": "no_respaldado",
+    "matiz": "Por 100 g cocidos (USDA): arroz blanco 130 kcal y arroz integral 123 kcal; pasta 158 kcal y pasta integral 149 kcal. Las calorías casi no cambian. Lo que cambia es la fibra (0,4 frente a 1,6 g en el arroz; 1,8 frente a 3,9 g en la pasta) y el magnesio (12 frente a 39 mg en el arroz; 18 frente a 54 mg en la pasta).",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 168878, 169704, 169737 y 168910)",
+    "url": "https://fdc.nal.usda.gov/",
+    "anio": 2019,
+    "nivel_evidencia": "tabla de composición (USDA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-246",
+    "tema": "mito - arroz y arsénico",
+    "enunciado": "El arroz tiene arsénico.",
+    "veredicto": "respaldado",
+    "matiz": "La EFSA (2024) cita el arroz y los productos de arroz entre los principales aportes de arsénico inorgánico en Europa, junto con otros cereales y el agua de bebida. Asocia el consumo crónico de arsénico inorgánico, por la dieta o el agua, a más riesgo de cáncer de piel, vejiga y pulmón, y concluye que la exposición de los adultos supone una preocupación sanitaria pese a las incertidumbres. La UE fija además límites máximos en el arroz (Reglamento 2023/915): 0,15 mg/kg en el arroz blanco no sancochado, 0,25 en el sancochado y en el descascarado (arroz pardo), 0,30 en tortitas y arroz hinchado, 0,10 en el arroz destinado a alimentos para lactantes y niños de corta edad y 0,030 en las bebidas de arroz.",
+    "fuente": "Reglamento (UE) 2023/915, anexo I, punto 3.4 (texto consolidado de 1-7-2025); EFSA CONTAM Panel. EFSA J 2024;22(1):e8488",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02023R0915-20250701",
+    "anio": 2023,
+    "nivel_evidencia": "norma de la UE y dictamen científico de la EFSA",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "lactantes y niños de corta edad"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-261",
+    "tema": "mito - pescado azul y mercurio",
+    "enunciado": "El pescado azul tiene mucho mercurio y hay que evitarlo.",
+    "veredicto": "no_respaldado",
+    "matiz": "La AESAN (España) solo incluye entre las especies con alto contenido en mercurio el pez espada o emperador, el atún rojo (Thunnus thynnus), el tiburón (cazón, marrajo, mielgas, pintarroja y tintorera) y el lucio. En su lista de bajo contenido están la anchoa o boquerón, la sardina, la caballa, el jurel, el arenque y el salmón. El mercurio se concentra más en los peces depredadores, de gran tamaño y más longevos (bioacumulación). Para la población general, la AESAN recomienda de 3 a 4 raciones de pescado por semana de todas las especies, variando entre pescados blancos y azules.",
+    "fuente": "AESAN, Recomendaciones de consumo de pescado por presencia de mercurio (2019)",
+    "url": "https://www.aesan.gob.es/dam/jcr:37655af5-1ba6-4a9e-a756-79a51810aac7/RECOMENDACIONES_consumo_pescado_MERCURIO_AESAN_WEB.pdf",
+    "anio": 2019,
+    "nivel_evidencia": "organismo oficial (AESAN)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazadas, mujeres que planean estarlo y lactancia (la AESAN pide evitar las especies con alto contenido en mercurio)",
+      "niños de 0 a 14 años (evitar esas especies hasta los 10 años y limitarlas de 10 a 14)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-262",
+    "tema": "mito - pescado en el embarazo",
+    "enunciado": "Durante el embarazo hay que dejar de comer pescado por el mercurio.",
+    "veredicto": "no_respaldado",
+    "matiz": "La AESAN (España) aconseja a las embarazadas comer pescado 3 o 4 veces a la semana, principalmente pescado azul, excepto pez espada o emperador, atún rojo, tiburón y lucio, por su riesgo de contenido en mercurio. Esas cuatro especies son las que pide evitar en el embarazo, al planificarlo, en la lactancia y en niños de 0 a 10 años; de 10 a 14 años, limitarlas a 120 gramos al mes. Según la AESAN, la EFSA ha asociado el consumo habitual de pescado durante el embarazo con efectos beneficiosos sobre el desarrollo neurológico de los niños. Lo que sí pide evitar en el embarazo es el pescado crudo (sushi, sashimi, ceviche, carpaccios) y el ahumado refrigerado o marinado.",
+    "fuente": "AESAN, Alimentación segura durante el embarazo (2.ª edición, 2024); AESAN, Recomendaciones de consumo de pescado por presencia de mercurio (2019)",
+    "url": "https://www.aesan.gob.es/dam/jcr:6f57a77f-541c-4c54-a124-543d65b1aaf1/alimentacion_segura_embarazo.pdf",
+    "anio": 2024,
+    "nivel_evidencia": "organismo oficial (AESAN)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "embarazadas",
+      "mujeres que planean un embarazo",
+      "lactancia",
+      "niños de 0 a 14 años"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-263",
+    "tema": "mito - huevo crudo",
+    "enunciado": "Los huevos crudos o poco hechos no tienen ningún riesgo si son frescos.",
+    "veredicto": "no_respaldado",
+    "matiz": "La Salmonella puede contaminar el interior del huevo antes de que se forme la cáscara, por infección de los órganos reproductores de la gallina. El Comité Científico de la AESAN (2025) considera bajo, pero no despreciable, el riesgo de las preparaciones con huevo crudo, y señala que ni la refrigeración ni ninguna medida aislada logran el riesgo cero; según la EFSA (2023), cerca del 41 % de los brotes de salmonelosis de la UE siguen ligados al huevo o sus derivados. La frescura sí influye: en el modelo de la EFSA (2014), alargar la fecha de consumo de 21 a 28 días sube el riesgo relativo a 1,4 con huevo crudo y a 1,5 con huevo poco cocinado. En España, la hostelería y el comercio solo pueden usar huevo crudo en platos que lleguen a 70 °C durante dos segundos (u otra combinación equivalente), o a 63 °C durante veinte segundos si se sirven al momento; si no, deben usar ovoproductos (RD 1021/2022, art. 9).",
+    "fuente": "Comité Científico de la AESAN, informe AESAN-2025-005 sobre las condiciones de mantenimiento de los alimentos elaborados con huevo u ovoproductos (Revista del Comité Científico n.º 42, 2025); Real Decreto 1021/2022, art. 9",
+    "url": "https://www.aesan.gob.es/dam/jcr:f9cfe9a2-84a0-4d85-9300-c9b51383fb2f/CONSERVATION_CONDITIONS_EGGS.pdf",
+    "anio": 2025,
+    "nivel_evidencia": "informe del Comité Científico de la AESAN y norma (BOE)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazadas (la AESAN pide evitar huevos crudos y preparaciones con huevo crudo durante el embarazo)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-264",
+    "tema": "mito - lavar los huevos",
+    "enunciado": "Hay que lavar los huevos al llegar a casa, antes de guardarlos en la nevera.",
+    "veredicto": "no_respaldado",
+    "matiz": "Según las normas de comercialización de la UE, los huevos de categoría A no pueden lavarse ni limpiarse, antes ni después de su clasificación (Reglamento Delegado (UE) 2023/2465, art. 4); solo se exceptúan los centros de embalaje de los Estados miembros que ya lo autorizaban el 1 de junio de 2003, y en España esa práctica nunca ha sido autorizada (RD 1027/2024). El reglamento explica que el lavado puede dañar la cáscara y la cutícula, que son una barrera contra la entrada de bacterias. La AESAN indica que el lavado de los huevos no está recomendado y que, si están muy sucios, se laven inmediatamente antes de usarlos. El estuche debe recomendar conservarlos en el frigorífico tras la compra.",
+    "fuente": "Reglamento Delegado (UE) 2023/2465, considerandos y arts. 4 y 11; Real Decreto 1027/2024 (preámbulo); AESAN, campaña de seguridad alimentaria de verano (página de 2022)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32023R2465",
+    "anio": 2023,
+    "nivel_evidencia": "norma (UE) y organismo oficial (AESAN)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-265",
+    "tema": "mito - huevo campero",
+    "enunciado": "El huevo campero (el que lleva un 1 en el código) es más nutritivo que el de jaula (el del 3).",
+    "veredicto": "matizado",
+    "matiz": "El primer número del código del huevo indica la forma de cría: 0 producción ecológica, 1 «huevos de gallinas camperas», 2 «huevos de gallinas sueltas en el gallinero» y 3 «huevos de gallinas criadas en jaulas acondicionadas» (RD 1027/2024, art. 4). La norma de la UE fija cómo se crían las camperas (acceso a un espacio al aire libre, como máximo 2.500 gallinas por hectárea o una por cada 4 m²), pero no exige ningún contenido de nutrientes en el huevo. En un estudio de EE. UU. con una misma manada de 500 gallinas, los huevos con acceso al exterior tenían más omega-3 (0,17 % frente a 0,14 %) y más grasa total, sin diferencias en vitamina A y E; el mismo lote, analizado en 4 laboratorios, dio entre un 6,76 % y un 8,88 % de grasa. En un estudio alemán, la yema de las gallinas al sol tuvo de 3 a 4 veces más vitamina D3 (14,3 frente a 3,8 µg por 100 g de materia seca), pero los huevos camperos comprados en supermercados tenían relativamente poca.",
+    "fuente": "Real Decreto 1027/2024, art. 4; Reglamento Delegado (UE) 2023/2465, anexo II; Anderson KE. Poult Sci 2011;90(7):1600-8; Kühn J et al. Nutrition 2014;30(4):481-4",
+    "url": "https://europepmc.org/article/MED/21673178",
+    "anio": 2011,
+    "nivel_evidencia": "norma y dos estudios experimentales en gallinas (EE. UU. y Alemania)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-266",
+    "tema": "mito - chocolate negro",
+    "enunciado": "El chocolate negro tiene menos calorías y menos grasa que el chocolate con leche.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la tabla del USDA (productos de EE. UU.), 100 g de chocolate negro de 70-85 % de cacao tienen 598 kcal, 42,63 g de grasa y 24,489 g de grasa saturada; 100 g de chocolate con leche, 535 kcal, 29,66 g y 18,509 g. El de 70-85 % sí lleva menos azúcares (23,99 g frente a 51,5 g) y más fibra (10,9 g frente a 3,4 g). La diferencia de azúcar depende del cacao: el negro de 45-59 % tiene 47,9 g de azúcares y 546 kcal.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 170273, 170271 y 167587)",
+    "url": "https://fdc.nal.usda.gov/download-datasets/",
+    "anio": 2018,
+    "nivel_evidencia": "tabla de composición (USDA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-267",
+    "tema": "mito - chocolate negro en la etiqueta",
+    "enunciado": "La ley fija un mínimo de cacao propio para poder llamar «chocolate negro» a una tableta.",
+    "veredicto": "no_respaldado",
+    "matiz": "La norma española de cacao y chocolate (RD 1055/2003) no define el «chocolate negro». Para llamarse «chocolate» basta con un 35 % de materia seca total de cacao (al menos un 18 % de manteca de cacao y un 14 % de materia seca y desgrasada de cacao); el chocolate con leche necesita como mínimo un 25 %. Para añadir calificativos de calidad, el chocolate debe llegar al 43 %. Lo que dice cuánto cacao lleva es la mención obligatoria «cacao: ...% mínimo» de la etiqueta.",
+    "fuente": "Real Decreto 1055/2003, Reglamentación técnico-sanitaria sobre los productos de cacao y chocolate (apartados 1.6, 1.7 y 6)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-15599",
+    "anio": 2003,
+    "nivel_evidencia": "norma (BOE)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-268",
+    "tema": "mito - chocolate blanco",
+    "enunciado": "El chocolate blanco no es chocolate.",
+    "veredicto": "matizado",
+    "matiz": "Para la norma española (RD 1055/2003), «chocolate blanco» es una denominación legal: se hace con manteca de cacao, leche o productos lácteos y azúcares, con un mínimo del 20 % de manteca de cacao y del 14 % de extracto seco de la leche. A diferencia del chocolate, no exige materia seca y desgrasada de cacao, y la obligación de indicar «cacao: ...% mínimo» no incluye al chocolate blanco. En la tabla del USDA (EE. UU.), 100 g de chocolate blanco tienen 59 g de azúcares y 0 mg de teobromina y de cafeína (el chocolate con leche, 205 mg de teobromina y 20 mg de cafeína).",
+    "fuente": "Real Decreto 1055/2003 (apartados 1.6, 1.9 y 6.d); USDA FoodData Central, SR Legacy (fdcId 167571 y 167587)",
+    "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-15599",
+    "anio": 2003,
+    "nivel_evidencia": "norma (BOE) y tabla de composición (USDA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-281",
+    "tema": "mito - refrescos sin azúcar",
+    "enunciado": "Los refrescos «zero» engordan igual que los normales.",
+    "veredicto": "matizado",
+    "matiz": "En un metaanálisis en red de 17 ensayos (1.733 adultos, con un seguimiento mediano de 12 semanas), cambiar bebidas azucaradas por bebidas con edulcorantes bajos o sin calorías se asoció a 1,06 kg menos de peso y a 0,60 puntos menos de porcentaje de grasa corporal, con certeza moderada; en 12 de esos ensayos, la bebida con edulcorantes sustituía a la azucarada. Eran adultos con sobrepeso u obesidad, con diabetes o en riesgo de tenerla, y varios autores declaran pagos o ayudas de la industria alimentaria. La OMS (2023) recomienda no usar edulcorantes para controlar el peso, porque su revisión sugiere que no dan beneficio a largo plazo en la grasa corporal; es una recomendación condicional que no se aplica a personas con diabetes previa.",
+    "fuente": "McGlynn ND et al. JAMA Netw Open 2022;5(3):e222092; OMS, Use of non-sugar sweeteners: WHO guideline (2023), nota de la OMS del 15 de mayo de 2023",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9907347/",
+    "anio": 2022,
+    "nivel_evidencia": "revisión sistemática y metaanálisis en red de ECA (certeza moderada) y guía de la OMS",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "diabetes (la recomendación de la OMS no se aplica a personas con diabetes previa)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-282",
+    "tema": "mito - sal baja en sodio",
+    "enunciado": "La sal baja en sodio la puede usar todo el mundo, sin excepciones.",
+    "veredicto": "no_respaldado",
+    "matiz": "Si se usa sal de mesa, la OMS (2025) sugiere cambiarla por sales bajas en sodio con potasio, pero solo en adultos: la recomendación no se aplica a embarazadas ni a niños, porque en ellos la evidencia era muy incierta o no se encontró, y excluye a las personas con problemas de riñón o con otras situaciones que dificulten eliminar el potasio. Es una recomendación condicional, con evidencia de certeza baja en conjunto, y estas sales siguen llevando sodio. Su revisión reunió 26 ensayos (34.961 adultos), y todos dejaron fuera a las personas a las que un aumento de potasio podría hacer daño. En los 20 que midieron la tensión (21.414 personas), la sistólica bajó de media 4,76 mmHg más que con la sal normal; en los 6 que midieron el potasio en sangre (784 personas), subió de media 0,12 mmol/L más que con la sal normal.",
+    "fuente": "OMS, Use of lower-sodium salt substitutes: WHO guideline (27 de enero de 2025)",
+    "url": "https://www.who.int/publications/i/item/9789240105591",
+    "anio": 2025,
+    "nivel_evidencia": "guía de la OMS (basada en revisión sistemática de 26 ECA)",
+    "riesgo_publicar": "alto",
+    "poblaciones_en_riesgo": [
+      "enfermedad renal o función renal reducida",
+      "embarazadas (la recomendación no se aplica)",
+      "niños (la recomendación no se aplica)",
+      "situaciones que dificultan eliminar el potasio (la OMS cita como ejemplo los diuréticos ahorradores de potasio y los suplementos de potasio)",
+      "diabetes (algunos de los ensayos la excluyeron)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-283",
+    "tema": "mito - agua con gas",
+    "enunciado": "El agua con gas hidrata menos que el agua sin gas.",
+    "veredicto": "no_respaldado",
+    "matiz": "En un ensayo con 72 hombres bien hidratados y en ayunas, que bebieron 1 L de distintas bebidas en 30 minutos, la orina de las 4 horas siguientes con agua con gas no fue distinta de la del agua sin gas. De las 13 bebidas del estudio, solo la leche entera, la desnatada y una solución de rehidratación oral dejaron menos orina que el agua sin gas (1.052, 1.049 y 1.038 g frente a 1.337 g). Solo participaron hombres y se midieron 4 horas.",
+    "fuente": "Maughan RJ et al. Am J Clin Nutr 2016;103(3):717-723",
+    "url": "https://doi.org/10.3945/ajcn.115.114769",
+    "anio": 2016,
+    "nivel_evidencia": "ECA (cada participante probó 4 bebidas)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-284",
+    "tema": "mito - agua con gas",
+    "enunciado": "El agua con gas descalcifica los huesos.",
+    "veredicto": "no_respaldado",
+    "matiz": "En un estudio español con 18 mujeres posmenopáusicas sanas, beber 1 litro al día de un agua mineral con gas rica en sodio durante 8 semanas no cambió los marcadores de remodelado óseo (PINP y beta-CTX) frente a un agua mineral de control, y el calcio eliminado por la orina fue menor. Es un estudio pequeño, de dos periodos seguidos y con un solo tipo de agua. Las aguas con gas también llevan calcio, en cantidad muy variable: según las etiquetas de 126 marcas de 10 países europeos, la mediana en España era de 55,0 mg/l.",
+    "fuente": "Schoppen S et al. Br J Nutr 2005;93(3):339-344; Stoots SJM et al. Cent European J Urol 2021;74(1):71-75",
+    "url": "https://doi.org/10.1079/bjn20041332",
+    "anio": 2005,
+    "nivel_evidencia": "ensayo controlado pequeño y análisis de etiquetas",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "litiasis renal (el análisis de etiquetas señala que el contenido mineral del agua puede influir en la formación de cálculos)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-285",
+    "tema": "mito - azúcar y niños",
+    "enunciado": "El azúcar pone hiperactivos a los niños.",
+    "veredicto": "no_respaldado",
+    "matiz": "Un metaanálisis de 16 informes (23 estudios), en los que ni los niños, ni los padres, ni los investigadores sabían si se tomaba azúcar o un placebo con edulcorante, no halló efecto del azúcar en la conducta ni en el rendimiento cognitivo: en las 14 medidas, el intervalo de confianza del 95 % incluía el 0. Según los autores, la fuerte creencia de los padres podría deberse a la expectativa y a la asociación habitual. No descartan un efecto pequeño ni efectos en algunos grupos de niños.",
+    "fuente": "Wolraich ML, Wilson DB, White JW. JAMA 1995;274(20):1617-1621",
+    "url": "https://doi.org/10.1001/jama.1995.03530200053037",
+    "anio": 1995,
+    "nivel_evidencia": "metaanálisis de ensayos con placebo y a ciegas",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-286",
+    "tema": "mito - bebidas isotónicas",
+    "enunciado": "Las bebidas isotónicas hidratan más que el agua.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo con 72 hombres bien hidratados y en ayunas en el que se compararon 13 bebidas, la orina de las 4 horas tras 1 L de una bebida para deportistas no fue distinta de la del agua; una solución de rehidratación oral sí dejó menos orina (1.038 g frente a 1.337 g). En la UE, el Reglamento 432/2012 no usa la palabra «isotónica»: autoriza dos declaraciones para las «soluciones electrolíticas a base de hidratos de carbono», y las dos se refieren al ejercicio: mantener la resistencia en ejercicios de resistencia prolongada y la absorción de agua durante el ejercicio físico. Para llevarlas, estas bebidas deben tener entre 80 y 350 kcal por litro procedentes de hidratos de carbono, y al menos el 75 % de la energía debe venir de hidratos de respuesta glucémica alta, como la glucosa o la sacarosa. Además, deben tener entre 20 y 50 mmol/l de sodio (460 a 1.150 mg/l) y una osmolalidad de 200 a 330 mOsm/kg de agua.",
+    "fuente": "Maughan RJ et al. Am J Clin Nutr 2016;103(3):717-723; Reglamento (UE) 432/2012, anexo (soluciones electrolíticas a base de hidratos de carbono), versión consolidada de 20/08/2025",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02012R0432-20250820",
+    "anio": 2012,
+    "nivel_evidencia": "ECA y norma de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-301",
+    "tema": "composición - navidad",
+    "enunciado": "Por cada 100 g, el turrón tipo Alicante lleva 2.023,74 kJ, 44,1 g de azúcares, 28,07 g de grasa y 2,29 g de grasa saturada.",
+    "veredicto": "respaldado",
+    "matiz": "En la base española BEDCA, el alimento «Turrón, tipo Alicante» tiene por 100 g: 2.023,74 kJ de energía total, 44,1 g de azúcares totales, 28,07 g de grasa total y 2,29 g de ácidos grasos saturados. Los ácidos grasos monoinsaturados suman 18,28 g y los poliinsaturados 6,22 g; lleva además 13,05 g de proteína y 5,9 g de fibra. BEDCA da la energía en kJ, no en kcal. BEDCA no indica su calidad ni si está amparado por la IGP «Turrón de Alicante».",
+    "fuente": "BEDCA, Base de Datos Española de Composición de Alimentos (alimentos 785 y 1438 «Turrón, tipo Alicante»). En el 785, los azúcares y la fibra vienen de la tabla del CESNID (Farran A, Zamora R, Cervera P, 2004); la grasa total y la proteína, de Blázquez Abellán G, Orzáez Villanueva MT y Díaz Marquina A (Alimentaria 36(305):51-9); la energía la calcula BEDCA. Las cifras de 2,29 g de saturada, 18,28 g de monoinsaturada y 6,22 g de poliinsaturada son las del registro 1438 (origen UCM)",
+    "url": "https://www.bedca.net/bdpub/",
+    "anio": 2026,
+    "nivel_evidencia": "tabla oficial española de composición de alimentos (BEDCA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "alergia a los frutos secos",
+      "diabetes"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-302",
+    "tema": "mito - turrón",
+    "enunciado": "En el turrón, «calidad suprema» es solo una palabra de marketing.",
+    "veredicto": "no_respaldado",
+    "matiz": "En España, «suprema», «extra», «standard» y «popular» son calidades legales del turrón blando y del duro, fijadas por su porcentaje mínimo de almendra (Real Decreto 1787/1982). En el turrón duro son 60 %, 46 %, 40 % y 34 %; en el blando, 64 %, 50 %, 44 % y 30 %. Son mínimos y no cuentan el relleno ni la cobertura. La «categoría comercial» es uno de los datos que deben figurar en el envase.",
+    "fuente": "Real Decreto 1787/1982, de 14 de mayo, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración y venta de turrones y mazapanes, puntos 7.3 y 7.4 (BOE núm. 183, de 2 de agosto de 1982); vigente con las derogaciones parciales del Real Decreto 176/2013, que mantiene el punto 7.4 y la mención «Categoría Comercial» del punto 7.3",
+    "url": "https://www.boe.es/boe/dias/1982/08/02/pdfs/A20908-20912.pdf",
+    "anio": 1982,
+    "nivel_evidencia": "norma española (real decreto)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-303",
+    "tema": "mito - turrón",
+    "enunciado": "El turrón duro lleva más almendra que el blando.",
+    "veredicto": "matizado",
+    "matiz": "Las normas fijan mínimos, no la almendra real de cada tableta. En la norma española (Real Decreto 1787/1982), el mínimo del turrón blando es más alto en las calidades suprema (64 % frente a 60 % del duro), extra (50 % frente a 46 %) y standard (44 % frente a 40 %), y más bajo en la popular (30 % frente a 34 %). En las IGP, el turrón de Jijona (blando) pide al menos un 64 % de almendra en suprema y un 50 % en extra, y el turrón de Alicante (duro), un 60 % y un 46 %, los dos con al menos un 10 % de miel. Las dos IGP tienen las mismas materias primas fundamentales (almendras tostadas, miel y clara de huevo o albúmina); en el de Jijona, la almendra se muele.",
+    "fuente": "Real Decreto 1787/1982, punto 7.4 (BOE núm. 183, de 2 de agosto de 1982); pliegos de condiciones de las IGP «Jijona» y «Turrón de Alicante» (versión aprobada por la Resolución de 12 de julio de 2023 de la Conselleria de Agricultura de la Generalitat Valenciana, DOGV 2023/8000, y publicada por el MAPA)",
+    "url": "https://www.mapa.gob.es/dam/mapa/contenido/alimentacion/temas/calidad-agroalimentaria/2017-calidad-diferenciada/nuevo_denominaciones/pliegos-de-condiciones/pliego-condiciones-agroalimentarios/turron_jijona_2023_09_05.pdf",
+    "anio": 2023,
+    "nivel_evidencia": "norma española y pliegos de condiciones de IGP",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "alergia a los frutos secos",
+      "alergia al huevo"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-304",
+    "tema": "mito - mazapán",
+    "enunciado": "El mazapán lleva más azúcar que almendra.",
+    "veredicto": "matizado",
+    "matiz": "En España, el mazapán es la masa de almendras crudas, peladas y molidas con azúcares, y su calidad se fija por la almendra mínima: 45 % en suprema, 35 % en extra y 23 % en standard (Real Decreto 1787/1982). Para el mazapán, la norma fija humedad, proteínas, grasa y cenizas, pero no un máximo de azúcar. El mazapán de Toledo (IGP) exige que la almendra sea mayoritaria o, como mínimo, esté en una proporción de 1:1, es decir, un 50 % del peso total, y un mínimo de un 26 % de grasa.",
+    "fuente": "Real Decreto 1787/1982, definición de mazapán (punto 2.4) y punto 7.4 (BOE núm. 183, de 2 de agosto de 1982), y punto 6.4.4 en la redacción del Real Decreto 1167/1990; MAPA, «Principales elementos del pliego de condiciones de la Indicación Geográfica Protegida Mazapán de Toledo» (documento sin fecha en el texto)",
+    "url": "https://www.mapa.gob.es/dam/mapa/contenido/alimentacion/temas/calidad-agroalimentaria/2017-calidad-diferenciada/nuevo_denominaciones/pliegos-de-condiciones/pliego-condiciones-agroalimentarios/mazapan_toledo_2008_07_26.pdf",
+    "anio": 1982,
+    "nivel_evidencia": "norma española y resumen oficial del pliego de una IGP",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "alergia a los frutos secos"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-305",
+    "tema": "mito - polvorones",
+    "enunciado": "Los polvorones y los mantecados siempre llevan manteca de cerdo.",
+    "veredicto": "matizado",
+    "matiz": "La norma española de pastelería (Real Decreto 496/2010) los incluye en las «masas azucaradas», «elaboradas fundamentalmente con harina, aceite o grasa y azúcares». En la IGP Polvorones de Estepa, la masa lleva un 20-25 % de manteca de cerdo, un 40-50 % de harina de trigo y un 22-27 % de azúcar. En la IGP Mantecados de Estepa, la manteca de cerdo es un ingrediente común y, como caso excepcional, el mantecado de aceite de oliva la sustituye por aceite de oliva virgen extra (0 % de manteca y 20-26 % de aceite en la masa).",
+    "fuente": "Real Decreto 496/2010, de 30 de abril, norma de calidad para los productos de confitería, pastelería, bollería y repostería, punto 1.3.2; pliego de condiciones de la IGP «Polvorones de Estepa» (rev. 11-06-2015) y su documento único (DOUE C 338/10, de 13-10-2015); pliego de condiciones consolidado de la IGP «Mantecados de Estepa» (Orden de 9 de abril de 2024, BOJA núm. 72, de 15-04-2024)",
+    "url": "https://www.juntadeandalucia.es/sites/default/files/inline-files/2024/04/Pliego_Mantecados_Estepa_modificado_1.pdf",
+    "anio": 2024,
+    "nivel_evidencia": "norma española y pliegos de condiciones de IGP",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "celiaquía",
+      "alergia a los frutos secos",
+      "alergia al sésamo"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-306",
+    "tema": "mito - polvorones",
+    "enunciado": "El polvorón y el mantecado son lo mismo.",
+    "veredicto": "matizado",
+    "matiz": "La norma española de pastelería (Real Decreto 496/2010) los nombra por separado dentro de las masas azucaradas, sin definir cada uno. En las IGP de Estepa sí se distinguen: el polvorón tiene forma oblonga, lleva azúcar glas por encima, pesa como máximo 50 g y siempre lleva almendra (en la masa, al menos un 8 % en el tradicional y un 15 % en el casero, según el pliego). El mantecado tiene forma redondeada, pesa como máximo 55 g y la almendra solo es obligatoria en el de almendra (al menos un 8 %); en el de canela es 0 %.",
+    "fuente": "Real Decreto 496/2010, punto 1.3.2; pliego de condiciones de la IGP «Polvorones de Estepa» (rev. 11-06-2015) y su documento único (DOUE C 338/10, de 13-10-2015); pliego de condiciones consolidado de la IGP «Mantecados de Estepa» (Orden de 9 de abril de 2024, BOJA núm. 72)",
+    "url": "https://www.mapa.gob.es/images/es/polvorones_estepa_2016_03_09_tcm30-211112.pdf",
+    "anio": 2015,
+    "nivel_evidencia": "norma española y pliegos de condiciones de IGP",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "celiaquía",
+      "alergia a los frutos secos",
+      "alergia al sésamo"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-307",
+    "tema": "mito - alcohol",
+    "enunciado": "El alcohol ayuda a hacer la digestión.",
+    "veredicto": "no_respaldado",
+    "matiz": "En un ensayo aleatorizado cruzado con 20 adultos sanos (BMJ, 2010), una fondue de queso salió del estómago más despacio cuando se tomó con 300 ml de vino blanco (40 g de alcohol) que con té negro, tanto si después se tomaba un licor de 20 ml (8 g de alcohol) como si se tomaba agua. Hubo una relación inversa entre la cantidad de alcohol y la velocidad de vaciado y, con cualquier bebida, los participantes solo describieron síntomas digestivos de vez en cuando. El licor solo, tomado después de comer, tendió a frenar el vaciado, con una diferencia que no alcanzó significación estadística. Es un solo ensayo, pequeño y con una sola comida.",
+    "fuente": "Heinrich H, Goetze O, Menne D, Iten PX, Fruehauf H, Vavricka SR, Schwizer W, Fried M, Fox M. BMJ 2010;341:c6731 (DOI 10.1136/bmj.c6731)",
+    "url": "https://europepmc.org/article/PMC/PMC3272707",
+    "anio": 2010,
+    "nivel_evidencia": "ECA cruzado pequeño (20 personas)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazo",
+      "menores de edad"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
   }
 ]
