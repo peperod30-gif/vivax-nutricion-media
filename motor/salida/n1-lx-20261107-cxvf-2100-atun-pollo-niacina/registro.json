@@ -7,7 +7,7 @@
  "codec": "h264",
  "fps": 29.97,
  "pixel": "yuv420p",
- "tamano_mb": 9.69,
+ "tamano_mb": 9.7,
  "tiene_audio": true,
  "audio_codec": "aac",
  "audio_en_silencio": false,
@@ -17,7 +17,7 @@
  "moov_antes_de_mdat": true,
  "hueco_max_s": 0.567,
  "n_cambios_visuales": 463,
- "bucle_dif_ultimo_primero": 65.67,
+ "bucle_dif_ultimo_primero": 65.64,
  "zona_segura": [
   60,
   250,
@@ -1339,10 +1339,10 @@
    "texto": "Mañana",
    "contando": false,
    "r": [
-    176,
-    670,
-    324,
-    730
+    127,
+    671,
+    274,
+    731
    ]
   },
   {
@@ -1350,10 +1350,10 @@
    "texto": "a",
    "contando": false,
    "r": [
-    331,
-    669,
-    357,
-    724
+    282,
+    670,
+    307,
+    726
    ]
   },
   {
@@ -1361,10 +1361,10 @@
    "texto": "mediodía:",
    "contando": false,
    "r": [
-    364,
-    662,
-    539,
-    723
+    315,
+    664,
+    490,
+    725
    ]
   },
   {
@@ -1372,21 +1372,54 @@
    "texto": "una",
    "contando": false,
    "r": [
-    547,
-    659,
-    619,
-    717
+    497,
+    661,
+    569,
+    719
    ]
   },
   {
    "t": 24.267,
-   "texto": "fruta",
+   "texto": "duda",
    "contando": false,
    "r": [
-    138,
-    722,
-    248,
-    781
+    577,
+    658,
+    669,
+    716
+   ]
+  },
+  {
+   "t": 24.267,
+   "texto": "sobre",
+   "contando": false,
+   "r": [
+    177,
+    721,
+    288,
+    779
+   ]
+  },
+  {
+   "t": 24.267,
+   "texto": "la",
+   "contando": false,
+   "r": [
+    295,
+    719,
+    342,
+    775
+   ]
+  },
+  {
+   "t": 24.267,
+   "texto": "fruta,",
+   "contando": false,
+   "r": [
+    349,
+    714,
+    470,
+    773
    ]
   },
   {
@@ -1394,65 +1427,32 @@
    "texto": "con",
    "contando": false,
    "r": [
-    255,
-    719,
-    326,
-    777
+    477,
+    712,
+    548,
+    769
    ]
   },
   {
    "t": 24.267,
-   "texto": "más",
+   "texto": "sus",
    "contando": false,
    "r": [
-    333,
-    717,
-    405,
-    774
+    555,
+    709,
+    622,
+    766
    ]
   },
   {
    "t": 24.267,
-   "texto": "fibra",
+   "texto": "datos.",
    "contando": false,
    "r": [
-    412,
-    713,
-    513,
-    771
-   ]
-  },
-  {
-   "t": 24.267,
-   "texto": "que",
-   "contando": false,
-   "r": [
-    521,
-    710,
-    587,
-    767
-   ]
-  },
-  {
-   "t": 24.267,
-   "texto": "las",
-   "contando": false,
-   "r": [
-    595,
-    708,
-    661,
-    765
-   ]
-  },
-  {
-   "t": 24.267,
-   "texto": "alubias.",
-   "contando": false,
-   "r": [
-    323,
+    341,
     764,
-    479,
-    824
+    462,
+    823
    ]
   },
   {
@@ -1959,10 +1959,10 @@
   }
  ],
  "fotogramas": 729,
- "tiempo_render_s": 80.0,
+ "tiempo_render_s": 63.7,
  "tiempos_s": {
-  "preparar": 2.73,
-  "dibujar_y_codificar": 74.71
+  "preparar": 2.93,
+  "dibujar_y_codificar": 58.63
  },
  "voz_de_prueba": false,
  "plantilla": "reel_vf_comic",
