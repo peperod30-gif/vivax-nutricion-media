@@ -1,0 +1,1344 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 24.74,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 6.82,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.0,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.4,
+ "n_cambios_visuales": 514,
+ "bucle_dif_ultimo_primero": 45.91,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Medio",
+   "contando": false,
+   "r": [
+    167,
+    280,
+    352,
+    386
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "litro",
+   "contando": false,
+   "r": [
+    375,
+    275,
+    555,
+    381
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    576,
+    263,
+    656,
+    385
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    675,
+    259,
+    842,
+    383
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "antes",
+   "contando": false,
+   "r": [
+    158,
+    352,
+    353,
+    477
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    371,
+    349,
+    451,
+    471
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "desayunar.",
+   "contando": false,
+   "r": [
+    470,
+    340,
+    851,
+    469
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿Qué",
+   "contando": false,
+   "r": [
+    314,
+    427,
+    476,
+    551
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "pasó?",
+   "contando": false,
+   "r": [
+    494,
+    422,
+    700,
+    547
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Comieron más",
+   "contando": false,
+   "r": [
+    104,
+    593,
+    521,
+    687
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Comieron menos",
+   "contando": false,
+   "r": [
+    104,
+    847,
+    381,
+    1025
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "No cambió nada",
+   "contando": false,
+   "r": [
+    104,
+    1101,
+    572,
+    1195
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "Medio",
+   "contando": false,
+   "r": [
+    167,
+    280,
+    352,
+    386
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "litro",
+   "contando": false,
+   "r": [
+    375,
+    275,
+    555,
+    381
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    576,
+    263,
+    656,
+    385
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    675,
+    259,
+    842,
+    383
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "antes",
+   "contando": false,
+   "r": [
+    158,
+    352,
+    353,
+    477
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    371,
+    349,
+    451,
+    471
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "desayunar.",
+   "contando": false,
+   "r": [
+    470,
+    340,
+    851,
+    469
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "¿Qué",
+   "contando": false,
+   "r": [
+    314,
+    427,
+    476,
+    551
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "pasó?",
+   "contando": false,
+   "r": [
+    494,
+    422,
+    700,
+    547
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "Comieron más",
+   "contando": false,
+   "r": [
+    104,
+    593,
+    521,
+    687
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "Comieron menos",
+   "contando": false,
+   "r": [
+    104,
+    847,
+    381,
+    1025
+   ]
+  },
+  {
+   "t": 6.2,
+   "texto": "No cambió nada",
+   "contando": false,
+   "r": [
+    104,
+    1101,
+    572,
+    1195
+   ]
+  },
+  {
+   "t": 9.3,
+   "texto": "Comieron menos",
+   "contando": false,
+   "r": [
+    104,
+    847,
+    381,
+    1025
+   ]
+  },
+  {
+   "t": 9.3,
+   "texto": "74",
+   "contando": false,
+   "r": [
+    583,
+    265,
+    731,
+    478
+   ]
+  },
+  {
+   "t": 9.3,
+   "texto": "kcal",
+   "contando": false,
+   "r": [
+    726,
+    353,
+    823,
+    435
+   ]
+  },
+  {
+   "t": 9.3,
+   "texto": "menos en ese desayuno",
+   "contando": false,
+   "r": [
+    617,
+    474,
+    815,
+    569
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "¿Beber agua comiendo engorda?",
+   "contando": false,
+   "r": [
+    134,
+    263,
+    874,
+    466
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "El",
+   "contando": false,
+   "r": [
+    147,
+    840,
+    194,
+    921
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    206,
+    838,
+    331,
+    920
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    344,
+    836,
+    421,
+    917
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "grifo",
+   "contando": false,
+   "r": [
+    434,
+    834,
+    555,
+    916
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "aporta",
+   "contando": false,
+   "r": [
+    568,
+    831,
+    736,
+    913
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "0 kcal.",
+   "contando": false,
+   "r": [
+    749,
+    827,
+    917,
+    910
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "Y",
+   "contando": false,
+   "r": [
+    149,
+    913,
+    183,
+    993
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "lo",
+   "contando": false,
+   "r": [
+    196,
+    912,
+    243,
+    992
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "del",
+   "contando": false,
+   "r": [
+    255,
+    910,
+    333,
+    991
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "desayuno",
+   "contando": false,
+   "r": [
+    345,
+    906,
+    589,
+    990
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    602,
+    904,
+    662,
+    985
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "vio",
+   "contando": false,
+   "r": [
+    675,
+    903,
+    753,
+    984
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    765,
+    901,
+    828,
+    982
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "gente",
+   "contando": false,
+   "r": [
+    150,
+    983,
+    294,
+    1066
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "mayor;",
+   "contando": false,
+   "r": [
+    306,
+    980,
+    483,
+    1063
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "en",
+   "contando": false,
+   "r": [
+    495,
+    978,
+    558,
+    1059
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "jóvenes,",
+   "contando": false,
+   "r": [
+    570,
+    975,
+    782,
+    1058
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "no.",
+   "contando": false,
+   "r": [
+    794,
+    973,
+    874,
+    1054
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "Medio litro, 30 minutos antes del desayuno, en adultos mayores. Fuentes en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    1119,
+    930,
+    1205
+   ]
+  },
+  {
+   "t": 19.7,
+   "texto": "¡MITO!",
+   "contando": false,
+   "r": [
+    393,
+    495,
+    687,
+    715
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    204,
+    1014,
+    336,
+    1086
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    349,
+    1014,
+    410,
+    1086
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "bebe",
+   "contando": false,
+   "r": [
+    423,
+    1014,
+    536,
+    1086
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    184,
+    1076,
+    303,
+    1148
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "comiendo.",
+   "contando": false,
+   "r": [
+    316,
+    1076,
+    556,
+    1148
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 23.667,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    413,
+    708,
+    537,
+    769
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    204,
+    1014,
+    336,
+    1086
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "no",
+   "contando": false,
+   "r": [
+    349,
+    1014,
+    410,
+    1086
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "bebe",
+   "contando": false,
+   "r": [
+    423,
+    1014,
+    536,
+    1086
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "agua",
+   "contando": false,
+   "r": [
+    184,
+    1076,
+    303,
+    1148
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "comiendo.",
+   "contando": false,
+   "r": [
+    316,
+    1076,
+    556,
+    1148
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 24.667,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  6.2,
+  9.3,
+  19.7,
+  23.667,
+  24.667
+ ],
+ "sonido": {
+  "lufs": -16.01,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.7,
+  "tiempo_reduccion_mas_1db_pct": 0.22,
+  "efectos_por_tipo": {
+   "pum": 4,
+   "boing": 10,
+   "pop": 6,
+   "teclado": 3,
+   "golpe": 3,
+   "ding": 3,
+   "contador": 7,
+   "zas": 1,
+   "sello": 1,
+   "whoosh": 2,
+   "plop": 2,
+   "subida": 1
+  },
+  "descartados": 0,
+  "duracion_s": 24.679,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 308,
+   "texto": "Medio litro de agua antes de desayunar. ¿Qué pasó? ¿Comieron más? ¿Menos? ¿O no cambió nada? ¡Comieron menos! Unas setenta y cuatro calorías menos en ese desayuno. ¡Mito! El agua del grifo aporta cero calorías. Y lo del desayuno se vio en gente mayor; en jóvenes, no. Mándaselo a quien no bebe agua comiendo.",
+   "duracion_voz_s": 22.465,
+   "lineas": [
+    {
+     "id": "g",
+     "texto": "Medio litro de agua antes de desayunar. ¿Qué pasó?",
+     "t0": 0.0213,
+     "t1": 2.8363
+    },
+    {
+     "id": "o0",
+     "texto": "¿Comieron más?",
+     "t0": 3.4113,
+     "t1": 4.0513
+    },
+    {
+     "id": "o1",
+     "texto": "¿Menos?",
+     "t0": 4.6263,
+     "t1": 4.9863
+    },
+    {
+     "id": "o2",
+     "texto": "¿O no cambió nada?",
+     "t0": 5.3813,
+     "t1": 6.2213
+    },
+    {
+     "id": "r",
+     "texto": "¡Comieron menos! Unas setenta y cuatro calorías menos en ese desayuno.",
+     "t0": 8.0763,
+     "t1": 12.2363
+    },
+    {
+     "id": "v",
+     "texto": "¡Mito!",
+     "t0": 12.9463,
+     "t1": 13.3863
+    },
+    {
+     "id": "e",
+     "texto": "El agua del grifo aporta cero calorías. Y lo del desayuno se vio en gente mayor; en jóvenes, no.",
+     "t0": 13.8763,
+     "t1": 19.6213
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien no bebe agua comiendo.",
+     "t0": 20.2713,
+     "t1": 22.2713
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.59
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 3.003,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.411,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.019,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.626,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.381,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.799,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.436,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 6.906,
+   "tipo": "golpe",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.016,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 7.486,
+   "tipo": "golpe",
+   "intensidad": 0.18
+  },
+  {
+   "t": 7.596,
+   "tipo": "teclado",
+   "intensidad": 0.35
+  },
+  {
+   "t": 8.016,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 8.076,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 8.256,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 8.356,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.456,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.556,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.656,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.756,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.856,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.956,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.075,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 9.764,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 10.454,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.143,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.832,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 12.521,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 12.641,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.906,
+   "tipo": "sello",
+   "intensidad": 0.8
+  },
+  {
+   "t": 12.926,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 12.986,
+   "tipo": "golpe",
+   "intensidad": 0.45
+  },
+  {
+   "t": 13.451,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 19.516,
+   "tipo": "ding",
+   "intensidad": 0.3
+  },
+  {
+   "t": 19.816,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 20.116,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.316,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.071,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.371,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 22.671,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.831,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.921,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 24.101,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 741,
+ "tiempo_render_s": 65.3,
+ "tiempos_s": {
+  "preparar": 1.75,
+  "dibujar_y_codificar": 59.73
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_adivina_comic",
+ "familia": "reel_adivina",
+ "variante": "rasca",
+ "sistema": "vivax-comic-1",
+ "limpio": true,
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: pregunta y respuestas"
+  },
+  {
+   "t": 3.5333,
+   "que": "respuesta A"
+  },
+  {
+   "t": 4.7333,
+   "que": "respuesta B"
+  },
+  {
+   "t": 5.5,
+   "que": "respuesta C"
+  },
+  {
+   "t": 7.2,
+   "que": "suspense"
+  },
+  {
+   "t": 7.9,
+   "que": "a punto"
+  },
+  {
+   "t": 8.3333,
+   "que": "¡revelación!"
+  },
+  {
+   "t": 9.3,
+   "que": "la cifra"
+  },
+  {
+   "t": 13.1667,
+   "que": "¡sello!"
+  },
+  {
+   "t": 19.7,
+   "que": "explicación"
+  },
+  {
+   "t": 21.2,
+   "que": "cierre"
+  },
+  {
+   "t": 22.6667,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 24.6667,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": {
+  "prota": "pan",
+  "bueno": ""
+ },
+ "linea_de_tiempo": {
+  "dur": 24.7,
+  "cortes": [
+   0.0,
+   12.521,
+   19.816
+  ],
+  "opc": [
+   {
+    "t0": 3.411,
+    "t1": 4.051
+   },
+   {
+    "t0": 4.626,
+    "t1": 4.986
+   },
+   {
+    "t0": 5.381,
+    "t1": 6.221
+   }
+  ],
+  "t_s0": 6.341,
+  "t_rev": 8.036,
+  "t_cv": 12.521,
+  "t_sello": 12.926,
+  "t_frase": 19.832,
+  "f_in": 19.816,
+  "fin_voz": 22.271,
+  "t_ono": 22.371,
+  "t_anz": 22.671,
+  "avisos": []
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-223",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #agua #desayuno #nutricion»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Cuál habías dicho tú? Mán»"
+ ]
+}

@@ -1,0 +1,1648 @@
+{
+ "esquema": "slides-1",
+ "version": "fx",
+ "duracion_s": 24.54,
+ "ancho": 1080,
+ "alto": 1920,
+ "codec": "h264",
+ "fps": 29.97,
+ "pixel": "yuv420p",
+ "tamano_mb": 7.45,
+ "tiene_audio": true,
+ "audio_codec": "aac",
+ "audio_en_silencio": false,
+ "lufs": -16.1,
+ "pico_dbtp": -2.0,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "hueco_max_s": 0.4,
+ "n_cambios_visuales": 506,
+ "bucle_dif_ultimo_primero": 49.48,
+ "zona_segura": [
+  60,
+  250,
+  950,
+  1500
+ ],
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Adivina:",
+   "contando": false,
+   "r": [
+    111,
+    270,
+    380,
+    396
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    398,
+    266,
+    558,
+    389
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    576,
+    261,
+    744,
+    384
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    765,
+    267,
+    892,
+    371
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "hierro",
+   "contando": false,
+   "r": [
+    83,
+    363,
+    299,
+    469
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    439,
+    473
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    457,
+    347,
+    573,
+    469
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    591,
+    339,
+    929,
+    466
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "cocidas?",
+   "contando": false,
+   "r": [
+    354,
+    425,
+    660,
+    552
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    131,
+    591,
+    163,
+    680
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Lentejas cocidas",
+   "contando": false,
+   "r": [
+    211,
+    581,
+    711,
+    685
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    131,
+    709,
+    163,
+    797
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Mejillones cocidos",
+   "contando": false,
+   "r": [
+    211,
+    711,
+    749,
+    812
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    132,
+    848,
+    162,
+    936
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "Ninguno",
+   "contando": false,
+   "r": [
+    212,
+    846,
+    451,
+    942
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    520,
+    1066,
+    560,
+    1182
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    632,
+    1342,
+    752,
+    1434
+   ]
+  },
+  {
+   "t": 0.0,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    328,
+    1342,
+    448,
+    1434
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "Adivina:",
+   "contando": false,
+   "r": [
+    111,
+    270,
+    380,
+    396
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "¿qué",
+   "contando": false,
+   "r": [
+    398,
+    266,
+    558,
+    389
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "tiene",
+   "contando": false,
+   "r": [
+    576,
+    261,
+    744,
+    384
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    765,
+    267,
+    892,
+    371
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "hierro",
+   "contando": false,
+   "r": [
+    83,
+    363,
+    299,
+    469
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    320,
+    351,
+    439,
+    473
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    457,
+    347,
+    573,
+    469
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    591,
+    339,
+    929,
+    466
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "cocidas?",
+   "contando": false,
+   "r": [
+    354,
+    425,
+    660,
+    552
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    131,
+    591,
+    163,
+    680
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "Lentejas cocidas",
+   "contando": false,
+   "r": [
+    211,
+    581,
+    711,
+    685
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    131,
+    709,
+    163,
+    797
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "Mejillones cocidos",
+   "contando": false,
+   "r": [
+    211,
+    711,
+    749,
+    812
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    132,
+    848,
+    162,
+    936
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "Ninguno",
+   "contando": false,
+   "r": [
+    212,
+    846,
+    451,
+    942
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    520,
+    1066,
+    560,
+    1182
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    632,
+    1342,
+    752,
+    1434
+   ]
+  },
+  {
+   "t": 6.567,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    328,
+    1342,
+    448,
+    1434
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    131,
+    709,
+    163,
+    797
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "Mejillones cocidos",
+   "contando": false,
+   "r": [
+    211,
+    711,
+    749,
+    812
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "A",
+   "contando": false,
+   "r": [
+    327,
+    1342,
+    448,
+    1434
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "B",
+   "contando": false,
+   "r": [
+    521,
+    1066,
+    560,
+    1182
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "C",
+   "contando": false,
+   "r": [
+    632,
+    1342,
+    752,
+    1433
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "6,72",
+   "contando": false,
+   "r": [
+    548,
+    278,
+    792,
+    500
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "mg",
+   "contando": false,
+   "r": [
+    787,
+    369,
+    860,
+    448
+   ]
+  },
+  {
+   "t": 9.633,
+   "texto": "de hierro por 100 g",
+   "contando": false,
+   "r": [
+    576,
+    489,
+    860,
+    556
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "¿Espinacas, reinas del hierro?",
+   "contando": false,
+   "r": [
+    130,
+    263,
+    878,
+    465
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "Las",
+   "contando": false,
+   "r": [
+    147,
+    838,
+    240,
+    922
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "espinacas",
+   "contando": false,
+   "r": [
+    252,
+    833,
+    515,
+    920
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "cocidas",
+   "contando": false,
+   "r": [
+    528,
+    830,
+    729,
+    915
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "tienen",
+   "contando": false,
+   "r": [
+    742,
+    827,
+    904,
+    911
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "3,57 mg,",
+   "contando": false,
+   "r": [
+    149,
+    910,
+    364,
+    995
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "más",
+   "contando": false,
+   "r": [
+    377,
+    907,
+    486,
+    991
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "que",
+   "contando": false,
+   "r": [
+    499,
+    906,
+    594,
+    989
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    606,
+    904,
+    684,
+    987
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "lentejas.",
+   "contando": false,
+   "r": [
+    696,
+    900,
+    919,
+    986
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "Pero",
+   "contando": false,
+   "r": [
+    150,
+    985,
+    269,
+    1069
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "su",
+   "contando": false,
+   "r": [
+    281,
+    983,
+    343,
+    1066
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "hierro",
+   "contando": false,
+   "r": [
+    356,
+    980,
+    512,
+    1065
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "se",
+   "contando": false,
+   "r": [
+    525,
+    979,
+    586,
+    1062
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "aprovecha",
+   "contando": false,
+   "r": [
+    599,
+    974,
+    870,
+    1061
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "poco.",
+   "contando": false,
+   "r": [
+    151,
+    1058,
+    293,
+    1142
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "Hierro por 100 g de alimento cocido. Fuentes en el primer comentario; no es una recomendación personal.",
+   "contando": false,
+   "r": [
+    153,
+    1154,
+    810,
+    1239
+   ]
+  },
+  {
+   "t": 19.367,
+   "texto": "¡DEPENDE!",
+   "contando": false,
+   "r": [
+    310,
+    486,
+    770,
+    724
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    188,
+    1014,
+    320,
+    1086
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "jura",
+   "contando": false,
+   "r": [
+    333,
+    1014,
+    451,
+    1086
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    464,
+    1014,
+    552,
+    1086
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    190,
+    1076,
+    275,
+    1148
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "espinacas.",
+   "contando": false,
+   "r": [
+    288,
+    1076,
+    550,
+    1148
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 23.467,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    413,
+    707,
+    538,
+    768
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "Mándaselo",
+   "contando": false,
+   "r": [
+    215,
+    951,
+    481,
+    1023
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "a",
+   "contando": false,
+   "r": [
+    494,
+    951,
+    525,
+    1023
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "quien",
+   "contando": false,
+   "r": [
+    188,
+    1014,
+    320,
+    1086
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "jura",
+   "contando": false,
+   "r": [
+    333,
+    1014,
+    451,
+    1086
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "por",
+   "contando": false,
+   "r": [
+    464,
+    1014,
+    552,
+    1086
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "las",
+   "contando": false,
+   "r": [
+    190,
+    1076,
+    275,
+    1148
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "espinacas.",
+   "contando": false,
+   "r": [
+    288,
+    1076,
+    550,
+    1148
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "¡Continuará!",
+   "contando": false,
+   "r": [
+    172,
+    306,
+    834,
+    545
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "Mañana,",
+   "contando": false,
+   "r": [
+    130,
+    671,
+    288,
+    731
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "otro",
+   "contando": false,
+   "r": [
+    295,
+    667,
+    387,
+    726
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "mito",
+   "contando": false,
+   "r": [
+    394,
+    664,
+    477,
+    722
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "de",
+   "contando": false,
+   "r": [
+    485,
+    662,
+    530,
+    719
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "comida",
+   "contando": false,
+   "r": [
+    537,
+    658,
+    666,
+    717
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "con",
+   "contando": false,
+   "r": [
+    263,
+    719,
+    333,
+    776
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "sus",
+   "contando": false,
+   "r": [
+    341,
+    716,
+    408,
+    774
+   ]
+  },
+  {
+   "t": 24.467,
+   "texto": "datos.",
+   "contando": false,
+   "r": [
+    415,
+    712,
+    536,
+    771
+   ]
+  }
+ ],
+ "comprobar_s": [
+  0.0,
+  6.567,
+  9.633,
+  19.367,
+  23.467,
+  24.467
+ ],
+ "sonido": {
+  "lufs": -16.02,
+  "pico_dbtp": -2.05,
+  "recortes": 0,
+  "reduccion_max_db": 3.32,
+  "tiempo_reduccion_mas_1db_pct": 0.27,
+  "efectos_por_tipo": {
+   "pum": 4,
+   "boing": 7,
+   "pop": 6,
+   "subida": 2,
+   "tic": 36,
+   "tac": 1,
+   "ding": 4,
+   "golpe": 2,
+   "contador": 7,
+   "zas": 1,
+   "sello": 1,
+   "whoosh": 2,
+   "plop": 2
+  },
+  "descartados": 0,
+  "duracion_s": 24.479,
+  "cama": false,
+  "sala": true,
+  "desfase_con_el_video_s": -0.0,
+  "voz": {
+   "motor": "elevenlabs",
+   "de_prueba": false,
+   "voz": "7QQzpAyzlKTVrRzQJmTE",
+   "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+   "modelo": "eleven_v4",
+   "caracteres": 318,
+   "texto": "Adivina: ¿qué tiene más hierro que las espinacas cocidas? ¿Las lentejas? ¿Los mejillones? ¿O ninguno? ¡Los mejillones! Seis con setenta y dos miligramos. ¡Depende! Las espinacas cocidas tienen tres con cincuenta y siete, más que las lentejas. Pero su hierro se aprovecha poco. Mándaselo a quien jura por las espinacas.",
+   "duracion_voz_s": 22.21,
+   "lineas": [
+    {
+     "id": "g",
+     "texto": "Adivina: ¿qué tiene más hierro que las espinacas cocidas?",
+     "t0": 0.0213,
+     "t1": 3.2063
+    },
+    {
+     "id": "o0",
+     "texto": "¿Las lentejas?",
+     "t0": 3.7963,
+     "t1": 4.4893
+    },
+    {
+     "id": "o1",
+     "texto": "¿Los mejillones?",
+     "t0": 4.9663,
+     "t1": 5.6593
+    },
+    {
+     "id": "o2",
+     "texto": "¿O ninguno?",
+     "t0": 6.0663,
+     "t1": 6.5863
+    },
+    {
+     "id": "r",
+     "texto": "¡Los mejillones! Seis con setenta y dos miligramos.",
+     "t0": 8.4163,
+     "t1": 11.6163
+    },
+    {
+     "id": "v",
+     "texto": "¡Depende!",
+     "t0": 12.3763,
+     "t1": 12.7763
+    },
+    {
+     "id": "e",
+     "texto": "Las espinacas cocidas tienen tres con cincuenta y siete, más que las lentejas. Pero su hierro se aprovecha poco.",
+     "t0": 13.2264,
+     "t1": 19.2914
+    },
+    {
+     "id": "f",
+     "texto": "Mándaselo a quien jura por las espinacas.",
+     "t0": 19.9963,
+     "t1": 22.0763
+    }
+   ]
+  },
+  "mezcla": {
+   "efectos_db": -7,
+   "ducking": 0.5,
+   "lufs_wav": -16.01,
+   "limitador_max_db": 1.45
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.1,
+   "tipo": "pum",
+   "intensidad": 0.55
+  },
+  {
+   "t": 3.261,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 3.796,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.381,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 4.966,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.516,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 6.066,
+   "tipo": "pop",
+   "intensidad": 0.3
+  },
+  {
+   "t": 6.706,
+   "tipo": "subida",
+   "intensidad": 0.25
+  },
+  {
+   "t": 6.72,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.733,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.76,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.774,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.787,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.814,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.828,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.854,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.868,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.895,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.909,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.936,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.963,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 6.99,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.003,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.006,
+   "tipo": "tic",
+   "intensidad": 0.2
+  },
+  {
+   "t": 7.03,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.057,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.084,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.111,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.151,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.178,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.219,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.246,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.287,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.34,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.346,
+   "tipo": "tic",
+   "intensidad": 0.2
+  },
+  {
+   "t": 7.381,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.435,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.489,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.556,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.637,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.686,
+   "tipo": "tic",
+   "intensidad": 0.2
+  },
+  {
+   "t": 7.745,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 7.921,
+   "tipo": "tic",
+   "intensidad": 0.16
+  },
+  {
+   "t": 8.026,
+   "tipo": "tic",
+   "intensidad": 0.2
+  },
+  {
+   "t": 8.336,
+   "tipo": "tac",
+   "intensidad": 0.6
+  },
+  {
+   "t": 8.356,
+   "tipo": "pum",
+   "intensidad": 0.8
+  },
+  {
+   "t": 8.416,
+   "tipo": "ding",
+   "intensidad": 0.55
+  },
+  {
+   "t": 8.496,
+   "tipo": "boing",
+   "intensidad": 0.4
+  },
+  {
+   "t": 8.546,
+   "tipo": "golpe",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.546,
+   "tipo": "golpe",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.596,
+   "tipo": "pop",
+   "intensidad": 0.5
+  },
+  {
+   "t": 8.696,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.796,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.896,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 8.996,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.096,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.196,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 9.296,
+   "tipo": "contador",
+   "intensidad": 0.18
+  },
+  {
+   "t": 10.363,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.149,
+   "tipo": "boing",
+   "intensidad": 0.22
+  },
+  {
+   "t": 11.936,
+   "tipo": "zas",
+   "intensidad": 0.45
+  },
+  {
+   "t": 12.056,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 12.336,
+   "tipo": "sello",
+   "intensidad": 0.8
+  },
+  {
+   "t": 12.356,
+   "tipo": "pum",
+   "intensidad": 0.7
+  },
+  {
+   "t": 12.416,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 19.231,
+   "tipo": "ding",
+   "intensidad": 0.3
+  },
+  {
+   "t": 19.531,
+   "tipo": "whoosh",
+   "intensidad": 0.45
+  },
+  {
+   "t": 19.831,
+   "tipo": "pop",
+   "intensidad": 0.35
+  },
+  {
+   "t": 20.031,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 21.876,
+   "tipo": "subida",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.176,
+   "tipo": "pum",
+   "intensidad": 0.85
+  },
+  {
+   "t": 22.476,
+   "tipo": "whoosh",
+   "intensidad": 0.35
+  },
+  {
+   "t": 22.636,
+   "tipo": "plop",
+   "intensidad": 0.4
+  },
+  {
+   "t": 22.726,
+   "tipo": "ding",
+   "intensidad": 0.45
+  },
+  {
+   "t": 23.903,
+   "tipo": "boing",
+   "intensidad": 0.22
+  }
+ ],
+ "fotogramas": 735,
+ "tiempo_render_s": 67.7,
+ "tiempos_s": {
+  "preparar": 2.04,
+  "dibujar_y_codificar": 62.28
+ },
+ "voz_de_prueba": false,
+ "plantilla": "reel_adivina_comic",
+ "familia": "reel_adivina",
+ "variante": "ruleta",
+ "sistema": "vivax-comic-1",
+ "limpio": true,
+ "muestras": [
+  {
+   "t": 0.0,
+   "que": "fotograma 0: pregunta y respuestas"
+  },
+  {
+   "t": 3.9,
+   "que": "respuesta A"
+  },
+  {
+   "t": 5.1,
+   "que": "respuesta B"
+  },
+  {
+   "t": 6.2,
+   "que": "respuesta C"
+  },
+  {
+   "t": 7.5333,
+   "que": "suspense"
+  },
+  {
+   "t": 8.2667,
+   "que": "a punto"
+  },
+  {
+   "t": 8.6667,
+   "que": "¡revelación!"
+  },
+  {
+   "t": 9.6333,
+   "que": "la cifra"
+  },
+  {
+   "t": 12.6,
+   "que": "¡sello!"
+  },
+  {
+   "t": 19.3667,
+   "que": "explicación"
+  },
+  {
+   "t": 20.9333,
+   "que": "cierre"
+  },
+  {
+   "t": 22.4667,
+   "que": "¡Continuará!"
+  },
+  {
+   "t": 24.4667,
+   "que": "último fotograma"
+  }
+ ],
+ "reparto_personajes": {
+  "prota": "brocoli",
+  "bueno": "pescado"
+ },
+ "linea_de_tiempo": {
+  "dur": 24.5,
+  "cortes": [
+   0.0,
+   11.936,
+   19.531
+  ],
+  "opc": [
+   {
+    "t0": 3.796,
+    "t1": 4.489
+   },
+   {
+    "t0": 4.966,
+    "t1": 5.659
+   },
+   {
+    "t0": 6.066,
+    "t1": 6.586
+   }
+  ],
+  "t_s0": 6.706,
+  "t_rev": 8.376,
+  "t_cv": 11.936,
+  "t_sello": 12.356,
+  "t_frase": 19.357,
+  "f_in": 19.531,
+  "fin_voz": 22.076,
+  "t_ono": 22.176,
+  "t_anz": 22.476,
+  "avisos": []
+ },
+ "avisos_plantilla": [
+  "controles: [validación] sin validar por dietista-nutricionista colegiado: MIT-221",
+  "controles: [texto IA (pie)] TX-HSH-02: Bloque de hashtags en una línea aparte. En el corpus de IA es el cierre de casi todos los pies. Sale en: «etista-nutricionista. ℹ️  #mitoorealidad #espinacas #hierro #nutricion»",
+  "controles: [texto IA (pie)] TX-CNT-06: Más de una pregunta en el pie. Dos preguntas suelen ser gancho al principio y cierre al final. Sale en: «recomendación personal.  ¿Cuál habías dicho tú? Mán»"
+ ]
+}
