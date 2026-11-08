@@ -10,12 +10,12 @@
   "pilar_plan": "Agenda",
   "serie": "historias",
   "hechos": [
-    "ALI-049"
+    "MIT-162"
   ],
   "titulo": "[HISTORIA] Hoy en el feed: jueves 3-dic",
-  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 3-dic a las 09:30. Hechos: ALI-049.",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 3-dic a las 09:30. Hechos: MIT-162.",
   "alt": [
-    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (una lenteja, una rebanada de pan, un terrón de azúcar y otros) y Oli, la aceituna de Vivax. Jueves. Hoy en el feed. A la una: Lentejas contra quinoa, la revancha: magnesio. A las cuatro y media: La lección de la tarde. A las siete: Insulina y corazón: lo separa una sola palabra."
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (un terrón de azúcar, un kiwi, un limón y otros) y Oli, la aceituna de Vivax. Jueves. Hoy en el feed. A la una: Vitaminas, gluten y tu sangre: ¿mito o realidad? A las cuatro y media: Mito o realidad. A las siete: Insulina y corazón: lo separa una sola palabra."
   ],
   "hojas": [
     {
@@ -25,11 +25,11 @@
       "filas": [
         {
           "cab": "A la una",
-          "texto": "Lentejas contra quinoa, la revancha: magnesio."
+          "texto": "Vitaminas, gluten y tu sangre: ¿mito o realidad?"
         },
         {
           "cab": "A las cuatro y media",
-          "texto": "La lección de la tarde"
+          "texto": "Mito o realidad"
         },
         {
           "cab": "A las siete",
@@ -37,7 +37,7 @@
         }
       ],
       "dice": [
-        "¡OJO!"
+        "¡PIP!"
       ]
     }
   ],
@@ -52,18 +52,18 @@
     "variante": "aviso",
     "spec": "n1-h-20261203-0930-aviso",
     "lote_serie": "historias-cx",
-    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
     "estilo": "comic",
-    "formato_visual": "posits",
-    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
     "reparto": [
-      "lenteja",
-      "pan",
       "terron",
       "kiwi",
       "limon",
       "fruta",
       "huevo",
+      "pan",
+      "vaso",
       "oli"
     ]
   }
