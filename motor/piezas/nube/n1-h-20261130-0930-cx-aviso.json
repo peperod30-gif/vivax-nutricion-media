@@ -11,13 +11,12 @@
   "serie": "historias",
   "hechos": [
     "NOV-008",
-    "S2-09",
-    "S2-04"
+    "S2-09"
   ],
   "titulo": "[HISTORIA] Hoy en el feed: lunes 30-nov",
-  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 30-nov a las 09:30. Hechos: NOV-008, S2-09, S2-04.",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 30-nov a las 09:30. Hechos: NOV-008, S2-09.",
   "alt": [
-    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (un terrón de azúcar, una gota de aceite, un limón y otros) y Oli, la aceituna de Vivax. Lunes. Hoy en el feed. A la una: Edulcorantes y cerebro: un hallazgo, tres peros. A las nueve: ¿Todas las LDL son iguales? Y dos dudas más."
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (un terrón de azúcar, una gota de aceite, un limón y otros) y Oli, la aceituna de Vivax. Lunes. Hoy en el feed. A la una: Edulcorantes y cerebro: un hallazgo, tres peros. A las nueve: ¿Todas las LDL son iguales? Y dos dudas más."
   ],
   "hojas": [
     {
@@ -35,7 +34,7 @@
         }
       ],
       "dice": [
-        "¡OJO!"
+        "¡PIP!"
       ]
     }
   ],
@@ -50,10 +49,10 @@
     "variante": "aviso",
     "spec": "n1-h-20261130-0930-aviso",
     "lote_serie": "historias-cx",
-    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
     "estilo": "comic",
-    "formato_visual": "posits",
-    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
     "reparto": [
       "terron",
       "gota",
