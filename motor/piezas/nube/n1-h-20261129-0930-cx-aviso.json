@@ -1,0 +1,68 @@
+{
+  "id": "n1-h-20261129-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "MIT-163",
+    "DEB-022",
+    "DEB-023"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: domingo 29-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 29-nov a las 09:30. Hechos: MIT-163, DEB-022, DEB-023.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BI menú del día), con muñecos de alimentos con cara (un vaso de leche, una gota de aceite, una naranja y otros) y Oli, la aceituna de Vivax. Domingo. Hoy en el feed. A la una: ¿El café deshidrata? Mito o realidad. A las nueve: Quiz de grasa: la mantequilla te va a pillar."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Domingo",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "¿El café deshidrata? Mito o realidad."
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Quiz de grasa: la mantequilla te va a pillar."
+        }
+      ],
+      "dice": [
+        "¡ÑAM!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-29",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261129-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pizarra); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pizarra",
+    "mundo": "BI menú del día: la agenda a tiza en la pizarra, Oli de camarera y la clientela asomada a la barra",
+    "reparto": [
+      "vaso",
+      "gota",
+      "naranja",
+      "aguacate",
+      "lenteja",
+      "nuez",
+      "pescado",
+      "oli"
+    ]
+  }
+}
