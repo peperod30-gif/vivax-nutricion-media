@@ -1,0 +1,70 @@
+{
+  "id": "n1-h-20261117-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "DEB-031"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: martes 17-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 17-nov a las 09:30. Hechos: DEB-031.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BI menú del día), con muñecos de alimentos con cara (un salero, una nuez, un plátano y otros) y Oli, la aceituna de Vivax. Martes. Hoy en el feed. A la una: Mito o realidad. A las siete: ¿Menos sal, siempre menos riesgo? Los datos chocan. A las nueve: Almendras, feta, champiñones: ¿quién lleva más B2?"
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Martes",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Mito o realidad"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "¿Menos sal, siempre menos riesgo? Los datos chocan"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Almendras, feta, champiñones: ¿quién lleva más B2?"
+        }
+      ],
+      "dice": [
+        "¡OJO!"
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-17",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261117-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato pizarra); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "pizarra",
+    "mundo": "BI menú del día: la agenda a tiza en la pizarra, Oli de camarera y la clientela asomada a la barra",
+    "reparto": [
+      "salero",
+      "nuez",
+      "platano",
+      "tomate",
+      "kiwi",
+      "limon",
+      "fruta",
+      "oli"
+    ]
+  }
+}
