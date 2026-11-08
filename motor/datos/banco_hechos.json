@@ -2484,5 +2484,437 @@
       "menores de edad"
     ],
     "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-321",
+    "tema": "mito - proteína después de entrenar",
+    "enunciado": "Después de entrenar hay que tomar proteína en la media hora siguiente o se pierde la «ventana anabólica».",
+    "veredicto": "no_respaldado",
+    "matiz": "Metaanálisis de ECA con al menos 6 semanas de entrenamiento de fuerza: 23 estudios y 525 personas para el músculo, 20 estudios y 478 personas para la fuerza. Tomar proteína como mucho 1 hora antes o después de entrenar no cambió la fuerza, y su ventaja en músculo (diferencia de 0,24 en el tamaño del efecto) desapareció al tener en cuenta la proteína total del día. En los estudios que no igualaban la proteína, el grupo que la tomaba junto al entrenamiento comía 1,66 g/kg al día y el grupo control, 1,33 g/kg. Los autores piden más estudios con la proteína igualada.",
+    "fuente": "Schoenfeld BJ, Aragon AA, Krieger JW. J Int Soc Sports Nutr 2013;10(1):53",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3879660/",
+    "anio": 2013,
+    "nivel_evidencia": "metaanálisis de ECA (metarregresión)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-322",
+    "tema": "mito - batidos de proteína",
+    "enunciado": "Sin batidos de proteína no se puede aumentar la masa muscular.",
+    "veredicto": "no_respaldado",
+    "matiz": "Metaanálisis de 49 ECA con 1.863 adultos sanos que entrenaban fuerza al menos 6 semanas: añadir proteína sumó de media 0,30 kg de masa libre de grasa (IC 95 % 0,09 a 0,52). En 7 de los grupos la proteína extra era comida normal (por ejemplo carne de vacuno o yogur), y los autores concluyen que el entrenamiento en sí es un estímulo mucho más potente. Por encima de unos 1,62 g de proteína total por kg al día no se vio más masa libre de grasa, aunque ese punto de corte no fue estadísticamente significativo (IC 95 % 1,03 a 2,20; p = 0,079). La EFSA fija para adultos una ingesta de referencia para la población de 0,83 g de proteína por kg de peso corporal al día.",
+    "fuente": "Morton RW et al. Br J Sports Med 2018;52(6):376-384; EFSA, nota oficial de 9-feb-2012 sobre los valores de referencia de proteína (dictamen EFSA Journal 2012;10(2):2557)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5867436/",
+    "anio": 2018,
+    "nivel_evidencia": "metaanálisis de ECA y valor de referencia de la EFSA",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "enfermedad renal crónica (no estudiada: el metaanálisis solo incluyó adultos sanos)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-323",
+    "tema": "mito - colágeno",
+    "enunciado": "Tomar colágeno en polvo rejuvenece la piel y protege las articulaciones.",
+    "veredicto": "matizado",
+    "matiz": "Articulaciones: la EFSA (2011) concluyó que no se ha establecido una relación de causa y efecto entre el colágeno hidrolizado y el mantenimiento de las articulaciones, y la UE denegó esa declaración (Reglamento 379/2012). En el único ensayo controlado con personas activas que valoró la EFSA (147 deportistas, 10 g al día durante 24 semanas) no hubo diferencias significativas en ninguno de sus 15 parámetros tras ajustar por comparaciones múltiples. Piel: los metaanálisis no coinciden; uno de 2021 (19 ECA, 1.125 personas) concluye a favor, y otro de 2025 (23 ECA, 1.474 personas) ve efecto en hidratación, elasticidad y arrugas en el conjunto, pero no en los estudios sin financiación de empresas farmacéuticas ni en los de alta calidad, y concluye que no hay evidencia clínica que apoye el colágeno para prevenir o tratar el envejecimiento de la piel.",
+    "fuente": "EFSA Journal 2011;9(7):2291; Reglamento (UE) 379/2012; de Miranda RB et al. Int J Dermatol 2021;60(12):1449-1461; Myung SK, Park Y. Am J Med 2025;138(9):1264-1277",
+    "url": "https://doi.org/10.2903/j.efsa.2011.2291",
+    "anio": 2011,
+    "nivel_evidencia": "dictamen de la EFSA, norma de la UE y metaanálisis de ECA",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-324",
+    "tema": "mito - magnesio y calambres",
+    "enunciado": "El magnesio quita los calambres musculares.",
+    "veredicto": "no_respaldado",
+    "matiz": "La revisión Cochrane de 2020 (11 ECA, 735 personas) no encontró ningún ECA de magnesio para los calambres del ejercicio. En calambres sin causa conocida, sobre todo en personas mayores (edad media de 61,6 a 69,3 años), el magnesio no cambió de forma significativa el número de calambres frente a placebo (-0,18 calambres por semana; IC 95 % -0,84 a 0,49; certeza moderada). En los calambres del embarazo los resultados son contradictorios. En la UE, un alimento que sea como mínimo fuente de magnesio puede decir que «el magnesio contribuye al funcionamiento normal de los músculos» (Reglamento 432/2012), pero esa declaración no habla de calambres.",
+    "fuente": "Garrison SR et al. Cochrane Database Syst Rev 2020;9:CD009402; Reglamento (UE) 432/2012, versión consolidada de 20/08/2025",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8094171/",
+    "anio": 2020,
+    "nivel_evidencia": "revisión sistemática Cochrane de ECA y norma de la UE",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazadas (resultados contradictorios en calambres del embarazo)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-325",
+    "tema": "mito - proteína por comida",
+    "enunciado": "El cuerpo solo aprovecha unos 30 g de proteína por comida y el resto se pierde.",
+    "veredicto": "matizado",
+    "matiz": "Estudios de dosis anteriores vieron que 20-25 g de proteína bastaban para llegar al máximo de síntesis de proteína muscular tras entrenar en adultos jóvenes y sanos. En un ECA de 2023 con 36 hombres jóvenes y sanos, tomar 100 g de proteína de leche tras una sesión de fuerza dio una respuesta anabólica mayor y más larga (más de 12 horas) que tomar 25 g, y la oxidación de aminoácidos subió muy poco comparada con la síntesis de proteína. Se midió la síntesis de proteína durante 12 horas tras una sola sesión, no el aumento de músculo a lo largo de semanas, y los autores no saben si el resultado vale para otras poblaciones.",
+    "fuente": "Trommelen J et al. Cell Rep Med 2023;4(12):101324",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10772463/",
+    "anio": 2023,
+    "nivel_evidencia": "ECA pequeño (36 personas, respuesta aguda)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "enfermedad renal crónica (no estudiada: solo participaron hombres jóvenes y sanos)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-326",
+    "tema": "mito - creatina y riñones",
+    "enunciado": "La creatina daña los riñones.",
+    "veredicto": "no_respaldado",
+    "matiz": "Metaanálisis de 2026 con 19 ECA y 1 estudio cruzado: la creatina subió la creatinina en sangre (+0,13 mg/dL; IC 95 % 0,07 a 0,18), sin diferencias en la urea (12 estudios) ni en el filtrado glomerular estimado (8 estudios). Otro metaanálisis de 2026 (26 estudios, 1.036 personas, sanas y con enfermedad renal crónica) vio bajar el filtrado calculado a partir de la creatinina (-10,75 mL/min), pero medido con otro método (Cr-EDTA) no hubo diferencia significativa; los autores lo atribuyen probablemente a un cambio en el metabolismo de la creatinina y no a daño renal. Faltan ECA de más de 1 año.",
+    "fuente": "Tsiaras A et al. J Ren Nutr 2026 (en prensa); de Souza Almeida A et al. Int Urol Nephrol 2026",
+    "url": "https://doi.org/10.1053/j.jrn.2026.04.010",
+    "anio": 2026,
+    "nivel_evidencia": "metaanálisis de ECA",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "enfermedad renal crónica",
+      "hemodiálisis",
+      "personas con analíticas de función renal (la creatina sube la creatinina en sangre)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-341",
+    "tema": "mito - té verde",
+    "enunciado": "El té verde quema grasa.",
+    "veredicto": "matizado",
+    "matiz": "Lo que se estudia no es el té de bolsita, sino «preparados de té verde»: según la Cochrane, extractos con más catequinas y cafeína que el té hecho con una bolsita y agua hirviendo. Un metaanálisis de 2009 (11 artículos), con catequinas o mezclas de EGCG con cafeína, halló de media 1,31 kg menos de peso que en el grupo control, sumando estudios de pérdida y de mantenimiento del peso. La revisión Cochrane de 2012, con ensayos de 12 a 13 semanas en adultos con sobrepeso u obesidad, halló fuera de Japón una diferencia de 0,04 kg (6 estudios, 532 personas), sin significación estadística; los 8 estudios de Japón, que no se pudieron agrupar, dieron de 0,2 a 3,5 kg a favor del té verde. Sus autores concluyen que la pérdida es pequeña, probablemente sin importancia clínica, y que no tuvo un efecto significativo en mantener el peso perdido.",
+    "fuente": "Jurgens TM, Whelan AM, Killian L, Doucette S, Kirk S, Foy E. Green tea for weight loss and weight maintenance in overweight or obese adults. Cochrane Database Syst Rev 2012;(12):CD008650 (DOI 10.1002/14651858.CD008650.pub2); Hursel R, Viechtbauer W, Westerterp-Plantenga MS. Int J Obes 2009;33(9):956-961 (DOI 10.1038/ijo.2009.135)",
+    "url": "https://doi.org/10.1002/14651858.CD008650.pub2",
+    "anio": 2012,
+    "nivel_evidencia": "revisión sistemática Cochrane y metaanálisis de ECA",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas que toman extractos de té verde en complementos (ver MIT-342)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-342",
+    "tema": "mito - té verde",
+    "enunciado": "Tomar té verde en cápsulas es igual de seguro que beberlo en infusión.",
+    "veredicto": "no_respaldado",
+    "matiz": "La EFSA (2018) considera, en general, seguras las catequinas de las infusiones tradicionales de té verde, que aportan de media de 90 a 300 mg de EGCG al día; los complementos aportan de 5 a 1.000 mg al día. En ensayos clínicos, 800 mg o más de EGCG al día tomados como complemento subieron de forma significativa las transaminasas, lo que indica lesión hepática. Desde diciembre de 2022, en la UE (también en España), una porción diaria de un alimento con extractos de té verde debe tener menos de 800 mg de EGCG, y la etiqueta debe advertir que no lo tomen embarazadas, mujeres en lactancia ni menores de 18 años, ni con el estómago vacío. Con infusiones también se han notificado casos raros de lesión hepática, probablemente por una reacción idiosincrásica.",
+    "fuente": "EFSA, Panel ANS. Scientific opinion on the safety of green tea catechins. EFSA Journal 2018;16(4):5239 (DOI 10.2903/j.efsa.2018.5239); Reglamento (UE) 2022/2340 de la Comisión, de 30 de noviembre de 2022, que modifica el anexo III del Reglamento (CE) n.º 1925/2006 (extractos de té verde que contienen EGCG), con su corrección de errores en español (32022R2340R(01))",
+    "url": "https://eur-lex.europa.eu/eli/reg/2022/2340/oj",
+    "anio": 2022,
+    "nivel_evidencia": "dictamen científico de la EFSA y reglamento de la UE",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazo",
+      "lactancia",
+      "menores de 18 años"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-343",
+    "tema": "mito - vinagre",
+    "enunciado": "El vinagre de manzana adelgaza.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo japonés de 12 semanas con 175 adultos con IMC de 25 a 30, una bebida diaria con 15 o 30 ml de vinagre de manzana bajó el peso de 1 a 2 kg, con diferencia significativa frente al placebo; 4 semanas después de dejarla, el peso volvió al valor inicial. Sus autores eran del centro de investigación de una empresa privada japonesa. Un ensayo de 2024 con 120 jóvenes libaneses que le atribuía bajadas significativas de peso fue retirado por la revista en 2025, porque sus análisis no se pudieron replicar y tenía múltiples errores. Una revisión sistemática de 2020 (13 estudios en humanos) concluyó que la evidencia sobre sus efectos en la salud es insuficiente por falta de investigación de calidad.",
+    "fuente": "Kondo T, Kishi M, Fushimi T, Ugajin S, Kaga T. Biosci Biotechnol Biochem 2009;73(8):1837-1843 (DOI 10.1271/bbb.90231); Retraction: Apple cider vinegar for weight management in Lebanese adolescents and young adults with overweight and obesity. BMJ Nutr Prev Health 2025;8(2):693 (DOI 10.1136/bmjnph-2023-000823ret), que retira Abou-Khalil R, Andary J, El-Hayek E. BMJ Nutr Prev Health 2024;7(1):61-67; Launholt TL, Kristiansen CB, Hjorth P. Eur J Nutr 2020;59(6):2273-2289 (DOI 10.1007/s00394-020-02214-3)",
+    "url": "https://doi.org/10.1271/bbb.90231",
+    "anio": 2009,
+    "nivel_evidencia": "ECA, aviso de retractación y revisión sistemática",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "personas con ardor de estómago por el vinagre (excluidas del ensayo de 2009)",
+      "embarazo (excluido del ensayo de 2009)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-344",
+    "tema": "mito - café",
+    "enunciado": "El café quema grasa.",
+    "veredicto": "matizado",
+    "matiz": "En un estudio de 1989, una dosis de 100 mg de cafeína subió el gasto energético en reposo un 3-4 % durante 150 minutos; con dosis repetidas de 100 mg cada 2 horas durante un día de 12 horas, el gasto del día subió 150 kcal en personas delgadas y 79 kcal en personas que habían tenido obesidad. En un metaanálisis de 13 ensayos aleatorizados con cafeína (606 personas), los autores concluyen que la cafeína «podría» favorecer la bajada de peso, IMC y grasa, con una heterogeneidad muy alta entre estudios (I² del 91,2 % para el peso). Según la EFSA, un café de filtro de 200 ml lleva unos 90 mg de cafeína, y hasta 400 mg de cafeína al día, repartidos a lo largo del día, no plantean problemas de seguridad en adultos sanos, salvo en el embarazo, donde la cifra es de 200 mg al día.",
+    "fuente": "Dulloo AG, Geissler CA, Horton T, Collins A, Miller DS. Am J Clin Nutr 1989;49(1):44-50 (DOI 10.1093/ajcn/49.1.44); Tabrizi R et al. Crit Rev Food Sci Nutr 2019;59(16):2688-2696 (DOI 10.1080/10408398.2018.1507996); EFSA, página temática «Caffeine» con las conclusiones de su Scientific Opinion on the safety of caffeine (2015)",
+    "url": "https://doi.org/10.1093/ajcn/49.1.44",
+    "anio": 1989,
+    "nivel_evidencia": "estudio experimental de calorimetría, metaanálisis de ECA y dictamen de la EFSA",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "embarazo",
+      "lactancia",
+      "niños y adolescentes (nivel de seguridad de 3 mg/kg de peso al día)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-345",
+    "tema": "mito - agua",
+    "enunciado": "Beber agua fría adelgaza porque el cuerpo gasta muchas calorías en calentarla.",
+    "veredicto": "no_respaldado",
+    "matiz": "En un estudio de 2003 con 14 personas sanas de peso normal, 500 ml de agua a 22 °C subieron el gasto energético un 30 %, con unos 100 kJ en total, y los autores calcularon unos 400 kJ más al día con 2 litros. En un ensayo cruzado de 2006, el agua destilada a temperatura ambiente no aumentó el gasto, y el agua enfriada a 3 °C lo subió un 4,5 % durante 60 minutos, muy por debajo del coste teórico de calentarla hasta la temperatura del cuerpo. Los autores de 2006 concluyen que sus resultados ponen en duda el agua como agente termogénico para tratar la obesidad.",
+    "fuente": "Boschmann M et al. Water-induced thermogenesis. J Clin Endocrinol Metab 2003;88(12):6015-6019 (DOI 10.1210/jc.2003-030780); Brown CM, Dulloo AG, Montani JP. Water-induced thermogenesis reconsidered. J Clin Endocrinol Metab 2006;91(9):3598-3602 (DOI 10.1210/jc.2006-0407)",
+    "url": "https://doi.org/10.1210/jc.2006-0407",
+    "anio": 2006,
+    "nivel_evidencia": "estudios experimentales pequeños de calorimetría (uno de ellos, ensayo cruzado aleatorizado)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-361",
+    "tema": "mito - comer despacio",
+    "enunciado": "Comer despacio sacia más.",
+    "veredicto": "matizado",
+    "matiz": "Un metaanálisis de 22 estudios que cambiaron a propósito la velocidad de comer halló que comer más despacio se asociaba a tomar menos energía en esa comida (diferencia de medias estandarizada 0,45; IC 95 % 0,25 a 0,65), con mucha variación entre estudios. Pero no hubo relación significativa entre la velocidad y el hambre al final de la comida ni hasta 3,5 horas después. En un ensayo cruzado con 45 adultos, masticar cada bocado un 150 % o un 200 % de las veces habituales redujo la pizza comida un 9,5 % y un 14,8 %, y el apetito al terminar tampoco cambió. En estos estudios se comió menos y no se vio diferencia en el hambre.",
+    "fuente": "Robinson E, Almiron-Roig E, Rutters F, de Graaf C, Forde CG, Tudur Smith C, Nolan SJ, Jebb SA. Am J Clin Nutr 2014;100(1):123-151 (DOI 10.3945/ajcn.113.081745); Zhu Y, Hollis JH. J Acad Nutr Diet 2014;114(6):926-931 (DOI 10.1016/j.jand.2013.08.020)",
+    "url": "https://europepmc.org/article/MED/24847856",
+    "anio": 2014,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios experimentales; ECA cruzado (45 personas, una comida)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-362",
+    "tema": "mito - comer deprisa",
+    "enunciado": "Comer deprisa engorda.",
+    "veredicto": "matizado",
+    "matiz": "Un metaanálisis de 23 estudios epidemiológicos en adultos (sin estudios de intervención ni de niños) halló que quienes comían rápido tenían un IMC 1,78 kg/m² más alto que quienes comían despacio (IC 95 % 1,53 a 2,04). La odds ratio de tener obesidad al comer rápido fue de 2,15 (IC 95 % 1,84 a 2,51). Los resultados variaron mucho entre estudios y una asociación no demuestra causa: los autores piden más estudios para saber si frenar la velocidad de comer sirve para controlar el peso.",
+    "fuente": "Ohkuma T, Hirakawa Y, Nakamura U, Kiyohara Y, Kitazono T, Ninomiya T. Int J Obes 2015;39(11):1589-1596 (DOI 10.1038/ijo.2015.96)",
+    "url": "https://europepmc.org/article/MED/26100137",
+    "anio": 2015,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios observacionales",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-363",
+    "tema": "mito - comer distraído",
+    "enunciado": "Comer distraído, por ejemplo viendo la tele, hace que comas más.",
+    "veredicto": "matizado",
+    "matiz": "Una revisión con metaanálisis de 24 estudios sobre atención y comida halló que comer distraído produjo un aumento moderado de lo que se comía en ese momento (diferencia de medias estandarizada 0,39; IC 95 % 0,25 a 0,53; 10 estudios) y un aumento mayor de lo que se comía después (0,76; IC 95 % 0,45 a 1,07; 4 estudios). Las distracciones probadas fueron, entre otras, la televisión, la radio y la lectura, siempre en laboratorio, y en 7 de los 10 estudios solo participaron mujeres. Los autores califican de moderada la calidad de la evidencia en los dos casos: en lo que se come en ese momento, en laboratorio, por la variación entre estudios, y en lo que se come después, porque sale de solo 4 estudios.",
+    "fuente": "Robinson E, Aveyard P, Daley A, Jolly K, Lewis A, Lycett D, Higgs S. Am J Clin Nutr 2013;97(4):728-742 (DOI 10.3945/ajcn.112.045245)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3607652/",
+    "anio": 2013,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios experimentales de laboratorio",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-364",
+    "tema": "mito - sueño",
+    "enunciado": "Dormir poco engorda.",
+    "veredicto": "matizado",
+    "matiz": "En un metaanálisis de 11 estudios de intervención (172 personas), restringir parcialmente el sueño aumentó la ingesta en 385 kcal (IC 95 % 252 a 517) frente al control, sin cambio significativo en el gasto energético total ni en el metabolismo en reposo. Ese trabajo midió energía, no peso: sus autores dicen que ese balance positivo, a largo plazo, podría contribuir a ganar peso. En estudios de población con 604.509 adultos, dormir poco se asoció a obesidad (OR 1,55; IC 95 % 1,43 a 1,68), aunque esos autores avisan de que es difícil inferir causa.",
+    "fuente": "Al Khatib HK, Harding SV, Darzi J, Pot GK. Eur J Clin Nutr 2017;71(5):614-624 (DOI 10.1038/ejcn.2016.201); Cappuccio FP, Taggart FM, Kandala NB, Currie A, Peile E, Stranges S, Miller MA. Sleep 2008;31(5):619-626 (DOI 10.1093/sleep/31.5.619)",
+    "url": "https://europepmc.org/article/MED/27804960",
+    "anio": 2017,
+    "nivel_evidencia": "revisión sistemática y metaanálisis de estudios de intervención; metaanálisis de estudios observacionales",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-365",
+    "tema": "mito - sueño",
+    "enunciado": "Dormir más horas hace que comas menos.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo aleatorizado con 80 adultos de 21 a 40 años con sobrepeso que solían dormir menos de 6,5 horas, el asesoramiento individual de higiene del sueño alargó el sueño unas 1,2 horas por noche frente al grupo control durante 2 semanas. Con la ingesta medida de forma objetiva, la de ese grupo bajó 155,5 kcal/día respecto a su punto de partida y la del control subió 114,9 kcal/día: una diferencia de -270 kcal/día (IC 95 % -393 a -147), sin efecto significativo en el gasto total. Es un solo ensayo y corto, y los autores reconocen que la subida de ingesta y de peso del grupo control pudo influir en la diferencia.",
+    "fuente": "Tasali E, Wroblewski K, Kahn E, Kilkus J, Schoeller DA. JAMA Intern Med 2022;182(4):365-374 (DOI 10.1001/jamainternmed.2021.8098)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8822469/",
+    "anio": 2022,
+    "nivel_evidencia": "ECA (80 personas, 2 semanas)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "insomnio o apnea del sueño (excluidos del ensayo)",
+      "trabajo a turnos o de noche (excluido del ensayo)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-366",
+    "tema": "mito - cena",
+    "enunciado": "Saltarse la cena adelgaza.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo de 14 semanas con 90 adultos con obesidad, todos con restricción calórica, comer solo de 7:00 a 15:00 dio 2,3 kg más de pérdida de peso (IC 95 % -3,7 a -0,9) que comer a lo largo de 12 horas o más, sin diferencia significativa en grasa corporal (-1,4 kg; p = 0,09). En otro de 12 meses con 139 personas con obesidad, comer solo de 8:00 a 16:00 con restricción calórica no se diferenció de forma significativa de la restricción sola (-8,0 frente a -6,3 kg; diferencia de -1,8 kg; p = 0,11). Los dos ensayos prueban horarios tempranos sumados a una restricción calórica, no quitar la cena sin más.",
+    "fuente": "Jamshed H, Steger FL, Bryan DR, Richman JS, Warriner AH, Hanick CJ, Martin CK, Salvy SJ, Peterson CM. JAMA Intern Med 2022;182(9):953-962 (DOI 10.1001/jamainternmed.2022.3050); Liu D et al. N Engl J Med 2022;386(16):1495-1504 (DOI 10.1056/NEJMoa2114833)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9361187/",
+    "anio": 2022,
+    "nivel_evidencia": "ECA (90 personas, 14 semanas; 139 personas, 12 meses)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "trastornos de la conducta alimentaria",
+      "diabetes con tratamiento que pueda causar hipoglucemias",
+      "embarazo"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-367",
+    "tema": "mito - agua antes de comer",
+    "enunciado": "Beber agua antes de comer hace que comas menos y adelgaces.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo con 48 adultos de 55 a 75 años con sobrepeso u obesidad, todos con dieta baja en calorías, quienes bebían 500 ml de agua antes de cada comida perdieron unos 2 kg más en 12 semanas. En la comida de prueba, el agua previa bajó la energía al inicio (498 frente a 541 kcal), pero a las 12 semanas la diferencia no fue significativa (480 frente a 506 kcal; p = 0,069). En otro ensayo con 84 adultos con obesidad, 500 ml de agua 30 minutos antes de las comidas principales dieron 1,3 kg más de pérdida a las 12 semanas (IC 95 % -2,4 a -0,1) que en un grupo que solo imaginaba tener el estómago lleno; al ajustar por etnia, privación, edad y sexo, la diferencia (-1,2 kg) dejó de ser significativa (p = 0,063).",
+    "fuente": "Dennis EA, Dengo AL, Comber DL, Flack KD, Savla J, Davy KP, Davy BM. Obesity 2010;18(2):300-307 (DOI 10.1038/oby.2009.235); Parretti HM, Aveyard P, Blannin A, Clifford SJ, Coleman SJ, Roalfe A, Daley AJ. Obesity 2015;23(9):1785-1791 (DOI 10.1002/oby.21167)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2859815/",
+    "anio": 2010,
+    "nivel_evidencia": "ECA (48 y 84 personas, 12 semanas)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "personas con restricción de líquidos pautada por su médico"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-381",
+    "tema": "mito - temporada",
+    "enunciado": "La fruta y la verdura de temporada son más nutritivas.",
+    "veredicto": "matizado",
+    "matiz": "La estación sí cambia la vitamina C. En un mercado de EE. UU. (Phillips et al., 2018), la espinaca tuvo 436 mg/kg en invierno, 298 en primavera y 180 en verano y otoño; la naranja, 616 mg/kg en invierno, 592 en primavera y 506 en verano. En brócoli de supermercado, la vitamina C de otoño fue «casi el doble» que la de primavera (Wunderlich et al., 2008). Estos estudios solo miden vitamina C y no comparan de forma directa producto de temporada con producto fuera de temporada.",
+    "fuente": "Phillips KM, Tarrago-Trani MT, McGinty RC, Rasor AS, Haytowitz DB, Pehrsson PR. Seasonal variability of the vitamin C content of fresh fruits and vegetables in a local retail market. J Sci Food Agric 2018;98(11):4191-4204; Wunderlich SM, Feldman C, Kane S, Hazhin T. Nutritional quality of organic, conventional, and seasonally grown broccoli using vitamin C as a marker. Int J Food Sci Nutr 2008;59(1):34-45",
+    "url": "https://doi.org/10.1002/jsfa.8941",
+    "anio": 2018,
+    "nivel_evidencia": "estudios de composición (análisis de laboratorio de muestras compradas en tiendas)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-382",
+    "tema": "mito - patatas fritas",
+    "enunciado": "Las patatas fritas de bolsa y las patatas fritas caseras son lo mismo.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la tabla española BEDCA, por 100 g, las «Patatas, fritas, chips» tienen 2.243,3 kJ, 34,9 g de grasa, 49,5 g de carbohidratos y 1,7 g de agua. La «Patata, frita con aceite s/e, sin sal» tiene 1.208,22 kJ, 17,125 g de grasa, 30 g de carbohidratos y 46 g de agua. La chip casi no tiene agua. Las chips llevan 700 mg de sodio; el registro de la patata frita es sin sal, así que ahí la sal depende de quien cocina.",
+    "fuente": "BEDCA, Base de Datos Española de Composición de Alimentos (alimentos 2594 «Patatas, fritas, chips» y 883 «Patata, frita con aceite s/e, sin sal»). En el 2594, la grasa, los carbohidratos, el agua y el sodio vienen de la tabla del CESNID (Farran A, Zamora R, Cervera P, 2004). En el 883, la grasa y los carbohidratos vienen del CESNID, y el agua y el sodio, del Répertoire Général des Aliments (Feinberg M, Favier JC, Ireland-Ripert J). La energía de los dos la calcula BEDCA",
+    "url": "https://www.bedca.net/bdpub/",
+    "anio": 2026,
+    "nivel_evidencia": "tabla oficial española de composición de alimentos (BEDCA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "hipertensión"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-383",
+    "tema": "mito - margarina",
+    "enunciado": "La margarina tiene menos grasa que la mantequilla.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la UE, la mantequilla tiene que llevar al menos un 80 % y menos de un 90 % de grasa láctea, y la margarina, al menos un 80 % y menos de un 90 % de grasa (Reglamento 1308/2013). Con menos grasa ya no pueden llamarse así; por ejemplo, son «tres cuartos» (del 60 % al 62 %) o «semi» (del 39 % al 41 %). En BEDCA, por 100 g, la «Mantequilla salada» tiene 82 g de grasa y 3.054,4 kJ, y la «Margarina de maíz», 80 g y 2.990,6 kJ.",
+    "fuente": "Reglamento (UE) 1308/2013, anexo VII, parte VII y apéndice II «Materias grasas para untar» (texto consolidado de 18-08-2026); BEDCA, alimentos 756 «Mantequilla salada» (grasa de Favier JC et al., Répertoire Général des Aliments, 2.ª ed., 1995) y 2551 «Margarina de maíz» (grasa de Ortega RM et al., La Composición de los Alimentos, 2004); la energía la calcula BEDCA",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02013R1308-20260818",
+    "anio": 2013,
+    "nivel_evidencia": "reglamento de la UE y tabla oficial española de composición de alimentos (BEDCA)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-384",
+    "tema": "mito - margarina",
+    "enunciado": "La margarina siempre es vegetal.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la UE, la margarina se hace con grasa «de origen vegetal y/o animal» (Reglamento 1308/2013), y la grasa de la leche no puede pasar del 3 % de su grasa. Solo puede llamarse «vegetal» si toda su grasa es vegetal, con una tolerancia del 2 % de grasa animal. La mantequilla, en cambio, se obtiene exclusivamente de la leche o de determinados productos lácteos.",
+    "fuente": "Reglamento (UE) 1308/2013, anexo VII, parte VII, punto II.5, y apéndice II, partes A y B (texto consolidado de 18-08-2026)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02013R1308-20260818",
+    "anio": 2013,
+    "nivel_evidencia": "reglamento de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [
+      "alergia a la proteína de la leche (la margarina puede llevar grasa láctea)"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-385",
+    "tema": "mito - grasas trans",
+    "enunciado": "La margarina está llena de grasas trans.",
+    "veredicto": "no_respaldado",
+    "matiz": "En la UE, las grasas trans que no son las presentes de forma natural en las grasas de origen animal no pueden pasar de 2 g por cada 100 g de grasa en los alimentos para el consumidor final, también en la margarina (Reglamento 2019/649). Los alimentos que no lo cumplían solo pudieron seguir vendiéndose hasta el 1 de abril de 2021. La EFSA concluyó que su ingesta debe ser lo más baja posible. El límite no es cero y no cuenta las trans naturales de las grasas animales.",
+    "fuente": "Reglamento (UE) 2019/649 de la Comisión, de 24 de abril de 2019, artículos 1 y 4 y considerando 2; el límite sigue en el anexo III, parte B, del Reglamento (CE) 1925/2006 (texto consolidado de 26-11-2025)",
+    "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32019R0649",
+    "anio": 2019,
+    "nivel_evidencia": "reglamento de la UE",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-386",
+    "tema": "mito - pan congelado",
+    "enunciado": "Congelar el pan hace que te suba menos el azúcar en sangre.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo con 10 adultos sanos (Burton y Lightowler, 2008), el pan blanco casero congelado y descongelado dio un área de glucosa en 2 horas de 179 mmol min/l, frente a 259 del pan del día; congelado, descongelado y tostado, 157. En el pan blanco comercial, el resumen solo da bajadas significativas al tostarlo (183 frente a 253) y al congelarlo, descongelarlo y tostarlo (187). Es un solo estudio, y pequeño.",
+    "fuente": "Burton P, Lightowler HJ. The impact of freezing and toasting on the glycaemic response of white bread. Eur J Clin Nutr 2008;62(5):594-599",
+    "url": "https://doi.org/10.1038/sj.ejcn.1602746",
+    "anio": 2008,
+    "nivel_evidencia": "ensayo aleatorizado de medidas repetidas, pequeño (10 personas)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "diabetes"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-387",
+    "tema": "mito - arroz enfriado",
+    "enunciado": "Enfriar el arroz en la nevera hace que te suba menos el azúcar en sangre.",
+    "veredicto": "matizado",
+    "matiz": "En un ensayo con 15 adultos sanos (Sonia et al., 2015), el arroz blanco cocido, enfriado 24 horas a 4 °C y recalentado dio una respuesta de glucosa de 125 mmol·min/L, frente a 152 del arroz recién hecho (p = 0,047). Su almidón resistente pasó de 0,64 g a 1,65 g por 100 g. Es un solo estudio, pequeño y en personas sanas.",
+    "fuente": "Sonia S, Witjaksono F, Ridwan R. Effect of cooling of cooked white rice on resistant starch content and glycemic response. Asia Pac J Clin Nutr 2015;24(4):620-625",
+    "url": "https://doi.org/10.6133/apjcn.2015.24.4.13",
+    "anio": 2015,
+    "nivel_evidencia": "ensayo aleatorizado cruzado, simple ciego, pequeño (15 personas)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [
+      "diabetes"
+    ],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-388",
+    "tema": "mito - congelador",
+    "enunciado": "Congelar los alimentos mata las bacterias.",
+    "veredicto": "no_respaldado",
+    "matiz": "AESAN indica que a temperaturas constantes de -18 °C o menos se inactivan los microorganismos que alteran los alimentos y que pueden provocar enfermedades, pero la congelación no los destruye: detiene su crecimiento. Al descongelarse y subir la temperatura, se reactivan y se multiplican. Por eso AESAN no recomienda descongelar a temperatura ambiente, salvo que lo indique el fabricante: entre 5 y 65 °C los microorganismos pueden reproducirse con mayor rapidez.",
+    "fuente": "AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?» (folleto, NIPO 069-21-012-7; nota de AESAN de 04/11/2021)",
+    "url": "https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+    "anio": 2021,
+    "nivel_evidencia": "guía de organismo oficial (AESAN)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-389",
+    "tema": "mito - congelador",
+    "enunciado": "Un alimento descongelado no se puede volver a congelar nunca.",
+    "veredicto": "matizado",
+    "matiz": "AESAN indica que los alimentos congelados y descongelados no deben volver a congelarse, salvo que se cocinen a más de 70 °C durante al menos dos minutos. Para descongelar, propone la parte más fría del frigorífico, sacando la comida del congelador con al menos 12 horas de antelación, y cocinar o consumir lo descongelado lo antes posible.",
+    "fuente": "AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?» (folleto, NIPO 069-21-012-7; nota de AESAN de 04/11/2021)",
+    "url": "https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+    "anio": 2021,
+    "nivel_evidencia": "guía de organismo oficial (AESAN)",
+    "riesgo_publicar": "medio",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
+  },
+  {
+    "id": "MIT-390",
+    "tema": "mito - congelador",
+    "enunciado": "Lo congelado dura para siempre.",
+    "veredicto": "matizado",
+    "matiz": "AESAN indica que una congelación correcta mantiene los alimentos seguros casi indefinidamente y que sus tiempos de almacenamiento son solo por calidad: de 8 a 12 meses para frutas y verduras, de 3 a 4 meses para carne picada y hamburguesas, de 2 a 3 meses para pescado azul y de 1 a 2 meses para fiambres y embutidos. Depende del congelador: con 1 estrella (-6 °C), solo alimentos ya congelados y hasta una semana; con 3 estrellas (-18 °C), también solo alimentos ya congelados y hasta 3 meses.",
+    "fuente": "AESAN, «¿Congelas y descongelas los alimentos de forma segura en casa?» (folleto, NIPO 069-21-012-7; nota de AESAN de 04/11/2021)",
+    "url": "https://www.aesan.gob.es/dam/jcr:38a8f1b3-25dc-40b6-a831-90a04ae3d03f/congelar_descongelar.pdf",
+    "anio": 2021,
+    "nivel_evidencia": "guía de organismo oficial (AESAN)",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: dietista-nutricionista colegiado"
   }
 ]
