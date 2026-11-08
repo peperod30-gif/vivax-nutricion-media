@@ -1,0 +1,34 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 7-nov-2026: «sustitúyeme el 70 % de las publicaciones de cantidades por Mitos o realidad», «prefiero que me des un día entero seguido y cuando te lo apruebe el siguiente, en el acto; quiero tener todo programado hasta el 10 de diciembre cuanto antes»",
+  "texto": "Programo las publicaciones nuevas del 2026-11-21 («Mito o realidad»); te llegan por Telegram día a día para que las valides.",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261121-cxranking-0830-vitamina-e-pipas-aceite"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261121-cxranking-0830-vitamina-e-pipas-aceite"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261121-cxexplica-0830-mito-sal-rosa",
+      "hora": "2026-11-21T08:30:00+01:00"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261121-cxduelo-1300-pistachos-feta-proteina"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261121-cxduelo-1300-pistachos-feta-proteina"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261121-cxvf-1300-mito-etiquetas-envase",
+      "hora": "2026-11-21T13:00:00+01:00"
+    }
+  ]
+}
