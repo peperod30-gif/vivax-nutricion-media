@@ -15,7 +15,7 @@
   "titulo": "[HISTORIA] Hoy en el feed: domingo 22-nov",
   "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 22-nov a las 09:30. Hechos: VIT-061.",
   "alt": [
-    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (una sardina, una gota de aceite, una manzana y otros) y Oli, la aceituna de Vivax. Domingo. Hoy en el feed. A la una: El tiroides, según la UE: yodo y uno más. A las siete: Mito o dato. A las nueve: Grasa saturada: solo uno supera al bacon."
+    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (una sardina, una gota de aceite, una manzana y otros) y Oli, la aceituna de Vivax. Domingo. Hoy en el feed. A la una: El tiroides, según la UE: yodo y uno más. A las siete: Mito o dato. A las nueve: Grasa saturada: ¿cuál de los tres supera al bacon?"
   ],
   "hojas": [
     {
@@ -33,11 +33,11 @@
         },
         {
           "cab": "A las nueve",
-          "texto": "Grasa saturada: solo uno supera al bacon."
+          "texto": "Grasa saturada: ¿cuál de los tres supera al bacon?"
         }
       ],
       "dice": [
-        "¡PIP!"
+        "¡OJO!"
       ]
     }
   ],
@@ -52,10 +52,10 @@
     "variante": "aviso",
     "spec": "n1-h-20261122-0930-aviso",
     "lote_serie": "historias-cx",
-    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
     "estilo": "comic",
-    "formato_visual": "chat",
-    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "formato_visual": "posits",
+    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
     "reparto": [
       "pescado",
       "gota",
