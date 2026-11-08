@@ -1,0 +1,69 @@
+{
+  "id": "n1-h-20261121-0930-cx-aviso",
+  "cuenta": "n1",
+  "formato": "historia",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-cx-historia-aviso",
+  "pilar": "ensenar",
+  "pilar_plan": "Agenda",
+  "serie": "historias",
+  "hechos": [
+    "MIT-122",
+    "DEB-007",
+    "DEB-008"
+  ],
+  "titulo": "[HISTORIA] Hoy en el feed: sábado 21-nov",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 21-nov a las 09:30. Hechos: MIT-122, DEB-007, DEB-008.",
+  "alt": [
+    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (una etiqueta de alimentos, una gota de aceite, una manzana y otros) y Oli, la aceituna de Vivax. Sábado. Hoy en el feed. A la una: Tres frases del envase: ¿mito o realidad? A las siete: LDL de 272 con keto: ¿más placa o no? A las nueve: Suplementos de vitaminas: acierta las tres."
+  ],
+  "hojas": [
+    {
+      "plantilla": "lista",
+      "kicker": "Sábado",
+      "titulo": "Hoy en el feed",
+      "filas": [
+        {
+          "cab": "A la una",
+          "texto": "Tres frases del envase: ¿mito o realidad?"
+        },
+        {
+          "cab": "A las siete",
+          "texto": "LDL de 272 con keto: ¿más placa o no?"
+        },
+        {
+          "cab": "A las nueve",
+          "texto": "Suplementos de vitaminas: acierta las tres"
+        }
+      ]
+    }
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-11-21",
+    "hora": "09:30",
+    "serie": "Hoy en el feed",
+    "pilar_plan": "Agenda",
+    "sistema": "vivax-comic-1",
+    "plantilla": "historia_comic",
+    "variante": "aviso",
+    "spec": "n1-h-20261121-0930-aviso",
+    "lote_serie": "historias-cx",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "estilo": "comic",
+    "formato_visual": "chat",
+    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "reparto": [
+      "etiqueta",
+      "gota",
+      "fruta",
+      "huevo",
+      "pan",
+      "vaso",
+      "naranja",
+      "oli"
+    ]
+  }
+}
