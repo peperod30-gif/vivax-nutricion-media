@@ -10,12 +10,13 @@
   "pilar_plan": "Agenda",
   "serie": "historias",
   "hechos": [
-    "VIT-007"
+    "MIT-141",
+    "ALI-045"
   ],
   "titulo": "[HISTORIA] Hoy en el feed: miércoles 25-nov",
-  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 25-nov a las 09:30. Hechos: VIT-007.",
+  "pie_instagram": "Descripción INTERNA (no se publica): historia «Hoy en el feed» del 25-nov a las 09:30. Hechos: MIT-141, ALI-045.",
   "alt": [
-    "Historia de cómic en verde oliva, blanco y negro (BL mensajes directos), con muñecos de alimentos con cara (un huevo, una sardina, una lenteja y otros) y Oli, la aceituna de Vivax. Miércoles. Hoy en el feed. A la una: ¿Huevo o trucha? Unas nueve veces más vitamina D. A las nueve: Sellos o Nutri-Score: ¿con cuál hubo más frescos?"
+    "Historia de cómic en verde oliva, blanco y negro (BP muro de pósits), con muñecos de alimentos con cara (una lenteja, una nuez, una sardina y otros) y Oli, la aceituna de Vivax. Miércoles. Hoy en el feed. A la una: ¿Cenar tarde engorda? Mito o realidad. A las nueve: Sellos o Nutri-Score: ¿con cuál hubo más frescos?"
   ],
   "hojas": [
     {
@@ -25,7 +26,7 @@
       "filas": [
         {
           "cab": "A la una",
-          "texto": "¿Huevo o trucha? Unas nueve veces más vitamina D."
+          "texto": "¿Cenar tarde engorda? Mito o realidad."
         },
         {
           "cab": "A las nueve",
@@ -33,7 +34,7 @@
         }
       ],
       "dice": [
-        "¡PIP!"
+        "¡HOP!"
       ]
     }
   ],
@@ -48,18 +49,18 @@
     "variante": "aviso",
     "spec": "n1-h-20261125-0930-aviso",
     "lote_serie": "historias-cx",
-    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato chat); la hora la pone una orden («acciones» con hora), no el autopiloto",
+    "nota": "historia de la plantilla tpl_historia_comic.py (Vivax Cómic, formato posits); la hora la pone una orden («acciones» con hora), no el autopiloto",
     "estilo": "comic",
-    "formato_visual": "chat",
-    "mundo": "BL mensajes directos: el móvil gigante con la agenda en burbujas que manda Oli y los muñecos alrededor",
+    "formato_visual": "posits",
+    "mundo": "BP muro de pósits: un pósit por publicación en el corcho y los muñecos colgados del tablero",
     "reparto": [
-      "huevo",
-      "pescado",
       "lenteja",
       "nuez",
+      "pescado",
       "queso",
       "brocoli",
       "zanahoria",
+      "platano",
       "oli"
     ]
   }
