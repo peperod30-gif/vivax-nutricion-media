@@ -31,6 +31,7 @@ VIVAX_MODO_ACTIVO=0 apaga el modo activo y VIVAX_ENCADENAR=0 apaga el encadenado
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -223,13 +224,28 @@ def importar_nuevas(ad, hub, carpeta: Path, lg=log) -> int:
             continue
         if pid in conocidas:
             continue
+        clave = "nube-import-" + "".join(ch if ch.isalnum() else "-" for ch in pid.lower())[:60]
+        # 12-nov-2026: una pieza que no pasa los controles se reintentaba en CADA vuelta de 15 s (25 veces seguidas en una pasada). Se
+        # recuerda la huella del JSON que falló y no se repite hasta que el fichero cambie o pasen 6 h (por si el fallo era pasajero: el
+        # almacén de validaciones sin leer, un banco que cambia).
+        try:
+            huella = hashlib.sha1(ruta.read_bytes()).hexdigest()
+        except OSError:
+            huella = ""
+        previo = (hub.meta_leer("fallo_" + clave) or "").split("|")
+        try:
+            if huella and previo[0] == huella and time.time() - float(previo[1]) < 6 * 3600:
+                continue
+        except (IndexError, ValueError):
+            pass
         try:
             ad.importar(ruta)
             n += 1
             lg(f"importada {pid}")
         except Exception as exc:                                  # noqa: BLE001 (se cuenta, no se esconde)
             lg(f"no se pudo importar {pid}: {type(exc).__name__}")
-            clave = "nube-import-" + "".join(ch if ch.isalnum() else "-" for ch in pid.lower())[:60]
+            if huella:
+                hub.meta_escribir("fallo_" + clave, f"{huella}|{time.time()}")
             # 19-oct: una pieza que no pasa los controles se intentaba importar en cada pasada y llenó el Telegram de José de avisos iguales
             # (80 en una hora, que además gastaron el cupo del día). Ahora se avisa UNA vez cada 24 h por pieza, y sin tocar el cupo si ya se avisó.
             ultimo = hub.meta_leer("aviso_" + clave)

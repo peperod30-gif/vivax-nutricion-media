@@ -809,8 +809,10 @@ class AdaptadorNutricion:
             from ..textos_panel import aviso_retraso        # noqa: PLC0415
             texto, botones = aviso_retraso(r["titulo"], datetime.fromisoformat(r["programada"]), datetime.fromisoformat(nuevo), r["id"])
         with self.db.transaccion() as c:
-            cur = c.execute("UPDATE piezas SET programada=? WHERE id=? AND estado='aprobada' AND programada IS ?",
-                            (nuevo, r["id"], r["programada"]))
+            # 12-nov-2026: al moverla se limpian error, intentos y espera; antes la pieza arrastraba el error viejo (un 403 de hacía días
+            # seguía en el panel como «el token no puede escribir») y sus esperas largas a su hora nueva
+            cur = c.execute("UPDATE piezas SET programada=?, error=NULL, intentos=0, proximo_intento=NULL "
+                            "WHERE id=? AND estado='aprobada' AND programada IS ?", (nuevo, r["id"], r["programada"]))
             if cur.rowcount != 1:
                 return
             self._auditar(c, r["id"], None, "movida_retraso", r["programada"], nuevo, "sistema:retraso")

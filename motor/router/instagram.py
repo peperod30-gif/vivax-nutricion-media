@@ -834,8 +834,13 @@ def _error_github(r) -> ErrorInstagram:
         return ErrorInstagram("alojamiento", "GitHub no acepta el token (GITHUB_TOKEN): está mal copiado, ha caducado o "
                                              "se ha borrado. Crea uno nuevo.")
     if r.status_code == 403:
-        return ErrorInstagram("alojamiento", "El token de GitHub no puede escribir en el repositorio. Necesita «Contents: "
-                                             "Read and write» sobre ese repositorio.")
+        # 12-nov-2026: un 403 suelto de GitHub (5 veces del 4 al 12-nov, con el token con «Contents: write» y los mismos ficheros subiendo
+        # bien después) paraba TODA la cola 6 horas con un aviso falso de permisos. Ahora se reintenta solo esa pieza (2, 10, 30… min, ver
+        # _fallo) y el texto guarda lo que dijo GitHub y sus cabeceras de diagnóstico (ninguna lleva secretos) para saber qué es.
+        pistas = "; ".join(f"{k}={str(cab[k])[:80]}" for k in ("x-github-request-id", "x-accepted-github-permissions",
+                                                               "x-ratelimit-remaining", "retry-after") if cab.get(k))
+        return ErrorInstagram("alojamiento_red", f"GitHub rechazó la subida (HTTP 403: {mensaje[:200] or 'sin detalle'}"
+                                                 f"{'; ' + pistas if pistas else ''}). Se volverá a intentar.")
     if r.status_code == 404:
         return ErrorInstagram("alojamiento", "GitHub no encuentra el repositorio o la rama, o el token no tiene acceso a "
                                              "ellos. Revisa alojamiento.repo y alojamiento.rama.")
