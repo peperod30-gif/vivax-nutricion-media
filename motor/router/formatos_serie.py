@@ -19,7 +19,7 @@ import re
 from .hub import parece_credencial
 from .telegram_io import ErrorTelegram
 
-DATO = re.compile(r"fx:(ok|ia|no):([A-Z]{2,3})")        # se usa con fullmatch
+DATO = re.compile(r"(fx|fy):(ok|ia|no):([A-Z]{2,3})")   # se usa con fullmatch; fy = serie v6 (12-nov): solo ✅ / ❌
 CLAVE = "f100:"                                          # meta: f100:<CÓDIGO>
 ESPERA = "f100_espera:"                                  # meta: f100_espera:<user_id> = {"cod", "ts", "pedido"}
 ESPERA_S = 30 * 60
@@ -31,11 +31,14 @@ DATO_PZ = re.compile(r"fp:(ok|ia|no):([0-9]{1,6})")      # publicaciones REALES 
 ESTADO_PZ = {"ok": "aceptada", "ia": "modificar", "no": "rechazada"}
 
 
-def botones_de(cod: str, estado: str | None = None) -> list[list[tuple[str, str]]]:
-    """El teclado de un formato; con `estado`, la opción elegida lleva ✓ (se puede cambiar de opinión pulsando otra)."""
+def botones_de(cod: str, estado: str | None = None, prefijo: str = "fx") -> list[list[tuple[str, str]]]:
+    """El teclado de un formato; con `estado`, la opción elegida lleva ✓ (se puede cambiar de opinión pulsando otra).
+    Con prefijo «fy» (serie de 100 Reels v6, 12-nov: José pidió solo el tic para aprobar o la cruz para rechazar) son dos botones."""
     def t(texto: str, accion: str) -> tuple[str, str]:
         marca = " ✓" if estado and ESTADO_DE[accion] == estado else ""
-        return (texto + marca, f"fx:{accion}:{cod}")
+        return (texto + marca, f"{prefijo}:{accion}:{cod}")
+    if prefijo == "fy":
+        return [[t("✅ Aprobar", "ok"), t("❌ Rechazar", "no")]]
     return [[t("✅ Mandar", "ok"), t("❌ Rechazar", "no")],
             [t("✏️ Modificar con IA", "ia")]]
 
@@ -103,20 +106,26 @@ class FormatosSerie:
         m = DATO.fullmatch(data)
         if m is None:
             return r._responder(cb_id, "Ese botón ya no vale.", True)
-        accion, cod = m.groups()
+        prefijo, accion, cod = m.groups()
+        if prefijo == "fy" and accion == "ia":                     # la serie v6 solo tiene ✅ y ❌
+            return r._responder(cb_id, "Ese botón ya no vale.", True)
         estado = ESTADO_DE[accion]
         mensaje_id = mensaje.get("message_id")
         actual = self.leer(cod) or {}
         pidiendo = accion == "ia" and (self._espera(uid) or {}).get("cod") == cod
         if actual.get("estado") == estado and (accion != "ia" or pidiendo):
-            self._marcar(chat_id, mensaje_id, cod, estado)         # por si la pulsación anterior no llegó a cambiar el teclado
-            return r._responder(cb_id, "Ya estaba así: " + self._dicho(estado) + ".")
+            self._marcar(chat_id, mensaje_id, cod, estado, prefijo)     # por si la pulsación anterior no llegó a cambiar el teclado
+            return r._responder(cb_id, "Ya estaba así: " + self._dicho(estado, prefijo) + ".")
         nuevo = {"estado": estado, "ts": hub.iso(r.ahora()), "notas": actual.get("notas", [])}
+        if prefijo == "fy":
+            nuevo["serie"] = "v6"
         self._guardar(cod, nuevo)
         hub.auditar(uid, f"formato_{estado}", cod)
         if estado != "modificar":
             self._soltar_espera(uid)                               # cambiar de opinión anula un cambio pedido a medias
-        self._marcar(chat_id, mensaje_id, cod, estado)
+        self._marcar(chat_id, mensaje_id, cod, estado, prefijo)
+        if prefijo == "fy":
+            return r._responder(cb_id, "✅ Aprobado: entra en la semana nueva." if estado == "mandar" else "❌ Rechazado. Queda anotado.")
         if estado == "mandar":
             return r._responder(cb_id, "Apuntado para publicar. La preparo y te digo la hora.")
         if estado == "rechazar":
@@ -128,15 +137,17 @@ class FormatosSerie:
         hub.meta_escribir(ESPERA + str(uid), json.dumps({"cod": cod, "ts": r.ahora(), "pedido": pedido}))
 
     @staticmethod
-    def _dicho(estado: str) -> str:
+    def _dicho(estado: str, prefijo: str = "fx") -> str:
+        if prefijo == "fy":
+            return {"mandar": "aprobado", "rechazar": "rechazado", "modificar": "pidiendo el cambio"}[estado]
         return {"mandar": "apuntada para publicar", "rechazar": "rechazada", "modificar": "pidiendo el cambio"}[estado]
 
-    def _marcar(self, chat_id: int, mensaje_id: int | None, cod: str, estado: str) -> None:
+    def _marcar(self, chat_id: int, mensaje_id: int | None, cod: str, estado: str, prefijo: str = "fx") -> None:
         """Pone el ✓ en el botón elegido. Un fallo de Telegram aquí no deshace lo ya guardado."""
         if mensaje_id is None:
             return
         try:
-            self.r.tg.editar_botones(chat_id, mensaje_id, botones_de(cod, estado))
+            self.r.tg.editar_botones(chat_id, mensaje_id, botones_de(cod, estado, prefijo))
         except ErrorTelegram as exc:
             self.r.log(f"formato {cod}: no pude marcar el botón ({exc.metodo} {exc.codigo})")
 
