@@ -1,0 +1,17 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 13-nov-2026 07:26 por Telegram: «No me gusta ningún vídeo de los que has hecho» (la voz no tiene frases ni hilo conductor). EA sale de la cola hasta que apruebe la versión nueva.",
+  "texto": "Saco el Reel EA del sábado 14 a las 18:30 (me dijiste que no te gusta ninguno de los vídeos nuevos) y vuelve a esa hora el que había. Solo vuelve un Reel nuevo cuando apruebes la versión con frases completas.",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-v6-ea-escalera_giro"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261114-cxvf-1830-mito-platano-engorda",
+      "hora": "2026-11-14T18:30:00+01:00"
+    }
+  ]
+}
