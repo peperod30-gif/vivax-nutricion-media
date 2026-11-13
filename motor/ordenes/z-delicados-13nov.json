@@ -1,0 +1,21 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "❓ Tres de los 100 Reels tocan temas delicados. ¿Los hago?\n\n• HQ «Muy famosa»: nombra la dieta Dukan y cuenta lo que dicen las pruebas sobre ella.\n• HS «Mismo grupo»: la carne procesada y el tabaco están en el mismo grupo de la OMS, pero no tienen el mismo riesgo.\n• GC «Adivina el número»: sale una copa de vino (las calorías por gramo que pone en la etiqueta).\n\nSon los últimos de la cola, así que hay tiempo. Si no me contestas, no los hago.",
+  "opciones": [
+    [
+      "todos",
+      "Sí, los tres"
+    ],
+    [
+      "sinhq",
+      "Sí, pero sin la Dukan (HQ)"
+    ],
+    [
+      "ninguno",
+      "Ninguno"
+    ]
+  ],
+  "caduca": "14h",
+  "cuenta": "n1",
+  "defecto": "ninguno"
+}
