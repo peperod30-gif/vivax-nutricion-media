@@ -1,0 +1,25 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José, 12-nov-2026 por Telegram: «con los que apruebe se programa la semana del sábado 14 al sábado 21» (botón ✅ Aprobar debajo de cada Reel v6) y su autorización del 15-oct («aprueba en automático los cambios que consideres precisos»)",
+  "texto": "Semana del 14 al 21: 1 Reels v6 que aprobaste con ✅ sustituyen a los vídeos que había a esa misma hora (los viejos vuelven a pendientes, no se pierden). La historia «Hoy en el feed» de los días que cambian se rechaza, porque nombraba los Reels de antes.",
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261114-cxvf-1830-mito-platano-engorda"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-v6-ea-escalera_giro",
+      "hora": "2026-11-14T18:30:00+01:00"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-h-20261114-0930-cx-aviso"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-h-20261114-0930-cx-aviso"
+    }
+  ]
+}
