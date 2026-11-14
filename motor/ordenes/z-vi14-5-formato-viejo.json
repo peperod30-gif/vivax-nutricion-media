@@ -1,0 +1,21 @@
+{
+  "tipo": "preguntar",
+  "pregunta": "❓ Hasta que estén los Reels nuevos, ¿qué hacemos con lo viejo que ya está programado esta semana? Lo de nutricionistas se quita igual, porque lo pausaste el 8-nov. Los 8 Reels de la tanda del 12-nov que aprobaste no están programados: con «Sí» se quedan guardados, con «Solo los de color» salen en lugar del cómic. Cuando estén los nuevos, se retira todo lo viejo.\n\n(Si no contestas en 12 h, sigo con la primera opción.)",
+  "opciones": [
+    [
+      "si_semana",
+      "Sí, sigue lo programado"
+    ],
+    [
+      "solo_color",
+      "Solo los de color, fuera el cómic"
+    ],
+    [
+      "parar",
+      "Parar todo lo viejo ya"
+    ]
+  ],
+  "caduca": "12h",
+  "cuenta": "n1",
+  "defecto": "si_semana"
+}
