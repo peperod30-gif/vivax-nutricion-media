@@ -1,0 +1,38 @@
+{
+  "tipo": "acciones",
+  "cuenta": "n1",
+  "autoriza": "José (24-nov): dejar esta semana (25-29 nov) tal cual salvo retirar las piezas B2B explícitas de nutricionistas del 26-nov y 3-dic y la mención en la cola.",
+  "texto": "Retiradas las piezas B2B explícitas del 26-nov y 3-dic; aceites de semillas del 26-nov a las 19:00 queda limpio sin el anuncio de nutricionistas.",
+  "silencio": true,
+  "lista": [
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261126-cxvf-2100-quiz-reels-nutricionistas"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261126-cxvf-2100-quiz-reels-nutricionistas"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261126-debatecx-1900-aceites-semillas-debate"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261126-debatecx-1900-aceites-semillas-debate"
+    },
+    {
+      "accion": "aprobar",
+      "pieza_id": "n1-lx-20261126-debatecx-1900b-aceites-semillas-debate",
+      "hora": "2026-11-26T19:00:00+01:00"
+    },
+    {
+      "accion": "quitar",
+      "pieza_id": "n1-lx-20261203-cxvf-2100-foto-paciente-colega-quiz"
+    },
+    {
+      "accion": "rechazar",
+      "pieza_id": "n1-lx-20261203-cxvf-2100-foto-paciente-colega-quiz"
+    }
+  ]
+}
