@@ -1,0 +1,2511 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 39.63,
+ "tamano_mb": 10.17,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 74.9,
+ "fotogramas": 1187,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Te",
+   "r": [
+    288,
+    339,
+    377,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Te da un",
+   "r": [
+    288,
+    339,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Te da un tirón",
+   "r": [
+    288,
+    339,
+    792,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Te da un tirón nocturno",
+   "r": [
+    288,
+    339,
+    792,
+    514
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Te da un tirón nocturno",
+   "r": [
+    288,
+    339,
+    792,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "en",
+   "r": [
+    273,
+    339,
+    363,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "en el gemelo",
+   "r": [
+    273,
+    338,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "en el gemelo",
+   "r": [
+    273,
+    338,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "en el gemelo y",
+   "r": [
+    273,
+    338,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "compras",
+   "r": [
+    146,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "compras",
+   "r": [
+    146,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "compras magnesio",
+   "r": [
+    146,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "compras magnesio",
+   "r": [
+    146,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "compras magnesio al",
+   "r": [
+    146,
+    339,
+    934,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "compras magnesio al alba.",
+   "r": [
+    146,
+    339,
+    934,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "compras magnesio al alba.",
+   "r": [
+    146,
+    339,
+    934,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Reclamo calambre",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "El consejo",
+   "r": [
+    201,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "El consejo",
+   "r": [
+    201,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "El consejo pasa",
+   "r": [
+    201,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "El consejo pasa",
+   "r": [
+    201,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "boca",
+   "r": [
+    189,
+    339,
+    371,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "boca en",
+   "r": [
+    189,
+    339,
+    477,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "boca en boca",
+   "r": [
+    189,
+    339,
+    674,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "boca en boca como",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "si",
+   "r": [
+    223,
+    339,
+    287,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "si fuera",
+   "r": [
+    223,
+    339,
+    512,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "si fuera remedio",
+   "r": [
+    223,
+    338,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "si fuera remedio",
+   "r": [
+    223,
+    338,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "si fuera remedio seguro.",
+   "r": [
+    223,
+    338,
+    857,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "si fuera remedio seguro.",
+   "r": [
+    223,
+    338,
+    857,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "Casi",
+   "r": [
+    213,
+    339,
+    376,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Casi",
+   "r": [
+    213,
+    339,
+    376,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Casi nadie",
+   "r": [
+    213,
+    339,
+    598,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Casi nadie mira",
+   "r": [
+    213,
+    339,
+    787,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Casi nadie mira si",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "alguna",
+   "r": [
+    225,
+    339,
+    479,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "alguna",
+   "r": [
+    225,
+    339,
+    479,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "alguna vez rindió",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "alguna vez rindió",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "alguna vez rindió frente",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "a",
+   "r": [
+    162,
+    339,
+    209,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "a una pastilla",
+   "r": [
+    162,
+    338,
+    680,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "a una pastilla",
+   "r": [
+    162,
+    338,
+    680,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "a una pastilla vacía.",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    513,
+    762,
+    950,
+    824
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "a una pastilla vacía.",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    513,
+    765,
+    950,
+    827
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "a una pastilla vacía.",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    513,
+    768,
+    950,
+    830
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "La biblioteca",
+   "r": [
+    292,
+    338,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    513,
+    777,
+    950,
+    839
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "La biblioteca",
+   "r": [
+    292,
+    338,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    505,
+    785,
+    942,
+    847
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "La biblioteca Cochrane",
+   "r": [
+    255,
+    338,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    480,
+    793,
+    916,
+    855
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "La biblioteca Cochrane",
+   "r": [
+    255,
+    338,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    454,
+    801,
+    891,
+    863
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "La biblioteca Cochrane",
+   "r": [
+    255,
+    338,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Síntesis Cochrane",
+   "r": [
+    429,
+    808,
+    866,
+    870
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "La biblioteca Cochrane juntó",
+   "r": [
+    255,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "trabajos",
+   "r": [
+    202,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "trabajos",
+   "r": [
+    202,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "trabajos midiendo",
+   "r": [
+    202,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "trabajos midiendo",
+   "r": [
+    202,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "trabajos midiendo calambres",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "trabajos midiendo calambres",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "trabajos midiendo calambres reales.",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "trabajos midiendo calambres reales.",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "trabajos midiendo calambres reales.",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "No",
+   "r": [
+    245,
+    339,
+    344,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "No salió",
+   "r": [
+    245,
+    339,
+    540,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "No salió ventaja",
+   "r": [
+    245,
+    339,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "No salió ventaja",
+   "r": [
+    245,
+    339,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "No salió ventaja sólida",
+   "r": [
+    245,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "No salió ventaja sólida válida",
+   "r": [
+    245,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "No salió ventaja sólida válida",
+   "r": [
+    245,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "No salió ventaja sólida válida",
+   "r": [
+    245,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "ni siquiera",
+   "r": [
+    290,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "ni siquiera",
+   "r": [
+    290,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "ni siquiera en",
+   "r": [
+    290,
+    339,
+    790,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "ni siquiera en deportistas",
+   "r": [
+    156,
+    339,
+    790,
+    510
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "ni siquiera en deportistas",
+   "r": [
+    156,
+    339,
+    790,
+    510
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "ni siquiera en deportistas",
+   "r": [
+    156,
+    339,
+    790,
+    510
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "ni siquiera en deportistas activos.",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "ni siquiera en deportistas activos.",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "En",
+   "r": [
+    148,
+    339,
+    239,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "En once",
+   "r": [
+    148,
+    338,
+    454,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "En once pruebas",
+   "r": [
+    148,
+    338,
+    782,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "En once pruebas",
+   "r": [
+    148,
+    338,
+    782,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "En once pruebas con",
+   "r": [
+    148,
+    338,
+    932,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "cientos",
+   "r": [
+    200,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "cientos",
+   "r": [
+    200,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "cientos adultos",
+   "r": [
+    200,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "cientos adultos",
+   "r": [
+    200,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "cientos adultos",
+   "r": [
+    200,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "cientos adultos no superó",
+   "r": [
+    200,
+    339,
+    880,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "11",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "cientos adultos no superó",
+   "r": [
+    200,
+    339,
+    880,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "al placebo",
+   "r": [
+    231,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "al placebo",
+   "r": [
+    231,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "al placebo",
+   "r": [
+    231,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "al placebo vacío.",
+   "r": [
+    231,
+    339,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "al placebo vacío.",
+   "r": [
+    231,
+    339,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "La norma",
+   "r": [
+    201,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "La norma europea",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "La norma europea",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "La norma europea",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "La norma europea solo",
+   "r": [
+    201,
+    339,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "La norma europea solo deja",
+   "r": [
+    201,
+    339,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "citar",
+   "r": [
+    301,
+    339,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "citar función",
+   "r": [
+    301,
+    339,
+    779,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "citar función",
+   "r": [
+    301,
+    339,
+    779,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "citar función muscular",
+   "r": [
+    169,
+    339,
+    779,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "citar función muscular",
+   "r": [
+    169,
+    339,
+    779,
+    514
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "citar función muscular genérica.",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "citar función muscular genérica.",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "citar función muscular genérica.",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "Además",
+   "r": [
+    260,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Además",
+   "r": [
+    260,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Además",
+   "r": [
+    260,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Además pipas,",
+   "r": [
+    260,
+    338,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Además pipas,",
+   "r": [
+    260,
+    338,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "almendras",
+   "r": [
+    191,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "almendras",
+   "r": [
+    191,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "almendras",
+   "r": [
+    191,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "almendras y avena",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "almendras y avena",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "almendras y avena cubren",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "almendras y avena cubren",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "magnesio",
+   "r": [
+    298,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "magnesio",
+   "r": [
+    298,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "magnesio sin cápsulas.",
+   "r": [
+    298,
+    339,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "magnesio sin cápsulas.",
+   "r": [
+    298,
+    339,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "magnesio sin cápsulas.",
+   "r": [
+    298,
+    339,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "magnesio sin cápsulas.",
+   "r": [
+    298,
+    339,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Fatiga",
+   "r": [
+    207,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Fatiga muscular",
+   "r": [
+    207,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Fatiga muscular",
+   "r": [
+    207,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Fatiga muscular o hidratación",
+   "r": [
+    191,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Fatiga muscular o hidratación",
+   "r": [
+    191,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Fatiga muscular o hidratación",
+   "r": [
+    191,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Fatiga muscular o hidratación suelen",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Fatiga muscular o hidratación suelen",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "explicar",
+   "r": [
+    205,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "explicar",
+   "r": [
+    205,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "explicar más",
+   "r": [
+    205,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "explicar más esos",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "explicar más esos tirones.",
+   "r": [
+    205,
+    339,
+    875,
+    510
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "explicar más esos tirones.",
+   "r": [
+    205,
+    339,
+    875,
+    510
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "explicar más esos tirones.",
+   "r": [
+    205,
+    339,
+    875,
+    510
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Comida real",
+   "r": [
+    652,
+    531,
+    950,
+    593
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Antes",
+   "r": [
+    250,
+    339,
+    467,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Antes de",
+   "r": [
+    250,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Antes de sumar",
+   "r": [
+    250,
+    339,
+    830,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Antes de sumar botes",
+   "r": [
+    250,
+    339,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "la",
+   "r": [
+    179,
+    339,
+    248,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "la mesilla",
+   "r": [
+    179,
+    338,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "la mesilla",
+   "r": [
+    179,
+    338,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Comida real",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "la mesilla",
+   "r": [
+    179,
+    338,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "la mesilla conviene",
+   "r": [
+    179,
+    338,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "la mesilla conviene valorar",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "la mesilla conviene valorar",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "la mesilla conviene valorar dieta.",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "la mesilla conviene valorar dieta.",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo a",
+   "r": [
+    190,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a quien toma",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a quien toma pastillas",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a quien toma pastillas",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "diarias",
+   "r": [
+    207,
+    338,
+    494,
+    423
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "diarias",
+   "r": [
+    207,
+    338,
+    494,
+    423
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "diarias buscando",
+   "r": [
+    207,
+    338,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "diarias buscando",
+   "r": [
+    207,
+    338,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "diarias buscando quitar",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "diarias buscando quitar calambres.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "diarias buscando quitar calambres.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "diarias buscando quitar calambres.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "diarias buscando quitar calambres.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 701,
+  "texto": "Te da un tirón nocturno en el gemelo y compras magnesio al alba. El consejo pasa de boca en boca como si fuera remedio seguro. Casi nadie mira si alguna vez rindió frente a una pastilla vacía. La biblioteca Cochrane juntó trabajos midiendo calambres reales. No salió ventaja sólida válida ni siquiera en deportistas activos. En once pruebas con cientos adultos no superó al placebo vacío. La norma europea solo deja citar función muscular genérica. Además pipas, almendras y avena cubren magnesio sin cápsulas. Fatiga muscular o hidratación suelen explicar más esos tirones. Antes de sumar botes en la mesilla conviene valorar dieta. Mándaselo a quien toma pastillas diarias buscando quitar calambres.",
+  "inicio_s": 0.047,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Te da un tirón nocturno en el gemelo y compras magnesio al alba.",
+    "t0": 0.021,
+    "t1": 3.366
+   },
+   {
+    "texto": "El consejo pasa de boca en boca como si fuera remedio seguro.",
+    "t0": 3.586,
+    "t1": 6.746
+   },
+   {
+    "texto": "Casi nadie mira si alguna vez rindió frente a una pastilla vacía.",
+    "t0": 7.011,
+    "t1": 10.344
+   },
+   {
+    "texto": "La biblioteca Cochrane juntó trabajos midiendo calambres reales.",
+    "t0": 10.531,
+    "t1": 13.931
+   },
+   {
+    "texto": "No salió ventaja sólida válida ni siquiera en deportistas activos.",
+    "t0": 14.216,
+    "t1": 17.736
+   },
+   {
+    "texto": "En once pruebas con cientos adultos no superó al placebo vacío.",
+    "t0": 17.976,
+    "t1": 21.576
+   },
+   {
+    "texto": "La norma europea solo deja citar función muscular genérica.",
+    "t0": 21.786,
+    "t1": 24.946
+   },
+   {
+    "texto": "Además pipas, almendras y avena cubren magnesio sin cápsulas.",
+    "t0": 25.161,
+    "t1": 28.961
+   },
+   {
+    "texto": "Fatiga muscular o hidratación suelen explicar más esos tirones.",
+    "t0": 29.231,
+    "t1": 32.551
+   },
+   {
+    "texto": "Antes de sumar botes en la mesilla conviene valorar dieta.",
+    "t0": 32.851,
+    "t1": 35.691
+   },
+   {
+    "texto": "Mándaselo a quien toma pastillas diarias buscando quitar calambres.",
+    "t0": 35.911,
+    "t1": 39.151
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.646,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.626,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.946,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.616,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.176,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.396,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.321,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.651,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 35.911,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wj_magnesio_calambres_cochrane.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#4DA1A9",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#4DA1A9",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4DA1A9"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4DA1A9"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#4DA1A9",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.6,
+   "render": 91.8,
+   "mezcla": 14.0
+  },
+  "escena_js": "tr"
+ }
+}

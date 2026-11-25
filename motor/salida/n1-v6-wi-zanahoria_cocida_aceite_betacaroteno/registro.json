@@ -1,0 +1,2581 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.4,
+ "tamano_mb": 10.46,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 68.6,
+ "fotogramas": 1240,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Muerdes",
+   "r": [
+    164,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Muerdes",
+   "r": [
+    164,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Muerdes",
+   "r": [
+    164,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Muerdes zanahoria",
+   "r": [
+    164,
+    338,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Muerdes zanahoria",
+   "r": [
+    164,
+    338,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Muerdes zanahoria cruda",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Muerdes zanahoria cruda pensando",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Muerdes zanahoria cruda pensando",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Muerdes zanahoria cruda pensando",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "que es",
+   "r": [
+    268,
+    339,
+    510,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "que es el",
+   "r": [
+    268,
+    339,
+    592,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "que es el único",
+   "r": [
+    268,
+    339,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Palito o crema",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "modo",
+   "r": [
+    384,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "modo de",
+   "r": [
+    384,
+    339,
+    696,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "modo de aprovecharla.",
+   "r": [
+    275,
+    339,
+    805,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "modo de aprovecharla.",
+   "r": [
+    275,
+    339,
+    805,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "modo de aprovecharla.",
+   "r": [
+    275,
+    339,
+    805,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La",
+   "r": [
+    148,
+    339,
+    236,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La gente",
+   "r": [
+    148,
+    339,
+    463,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La gente",
+   "r": [
+    148,
+    339,
+    463,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "La gente teme",
+   "r": [
+    148,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "La gente teme hervir",
+   "r": [
+    148,
+    338,
+    932,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "verduras",
+   "r": [
+    183,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "verduras",
+   "r": [
+    183,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "verduras",
+   "r": [
+    183,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "verduras creyendo",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "verduras creyendo",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "verduras creyendo que pierden",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "verduras creyendo que pierden",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "todo",
+   "r": [
+    287,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "todo",
+   "r": [
+    287,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "todo su",
+   "r": [
+    287,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "todo su valor.",
+   "r": [
+    287,
+    339,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Con",
+   "r": [
+    326,
+    339,
+    470,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Con ciertas",
+   "r": [
+    326,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Con ciertas vitaminas",
+   "r": [
+    283,
+    339,
+    754,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Con ciertas vitaminas",
+   "r": [
+    283,
+    339,
+    754,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Con ciertas vitaminas",
+   "r": [
+    283,
+    339,
+    754,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Con ciertas vitaminas hay",
+   "r": [
+    283,
+    339,
+    797,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "pérdidas",
+   "r": [
+    199,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "pérdidas",
+   "r": [
+    199,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "pérdidas en",
+   "r": [
+    199,
+    339,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "pérdidas en agua,",
+   "r": [
+    199,
+    338,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "pérdidas en agua,",
+   "r": [
+    199,
+    338,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    639,
+    950,
+    701
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "pero",
+   "r": [
+    225,
+    339,
+    401,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    647,
+    950,
+    709
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "pero otras",
+   "r": [
+    225,
+    339,
+    621,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    650,
+    950,
+    712
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "pero otras",
+   "r": [
+    225,
+    339,
+    621,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    653,
+    950,
+    715
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "pero otras van",
+   "r": [
+    225,
+    339,
+    771,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    655,
+    950,
+    717
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "pero otras van al revés.",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    658,
+    950,
+    720
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "pero otras van al revés.",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    660,
+    950,
+    722
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "pero otras van al revés.",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Celda abierta",
+   "r": [
+    606,
+    662,
+    950,
+    724
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "El",
+   "r": [
+    159,
+    339,
+    227,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "El betacaroteno",
+   "r": [
+    159,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "El betacaroteno",
+   "r": [
+    159,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "El betacaroteno",
+   "r": [
+    159,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "El betacaroteno vive",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "El betacaroteno vive encerrado",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "El betacaroteno vive encerrado",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "El betacaroteno vive encerrado tras",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "El betacaroteno vive encerrado tras",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "paredes",
+   "r": [
+    203,
+    338,
+    534,
+    423
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "paredes",
+   "r": [
+    203,
+    338,
+    534,
+    423
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "paredes duras",
+   "r": [
+    203,
+    338,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "paredes duras de",
+   "r": [
+    203,
+    338,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "paredes duras de cada",
+   "r": [
+    203,
+    338,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "paredes duras de cada célula.",
+   "r": [
+    203,
+    338,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "paredes duras de cada célula.",
+   "r": [
+    203,
+    338,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Midieron",
+   "r": [
+    230,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Midieron",
+   "r": [
+    230,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Midieron cuánto",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Midieron cuánto",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Midieron cuánto pasaba",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Midieron cuánto pasaba al",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "cuerpo",
+   "r": [
+    248,
+    339,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "cuerpo",
+   "r": [
+    248,
+    339,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "cuerpo en",
+   "r": [
+    248,
+    339,
+    620,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "cuerpo en puré",
+   "r": [
+    248,
+    338,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "cuerpo en puré cocido",
+   "r": [
+    248,
+    338,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "frente",
+   "r": [
+    251,
+    339,
+    487,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "frente",
+   "r": [
+    251,
+    339,
+    487,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "frente al crudo.",
+   "r": [
+    251,
+    339,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "frente al crudo.",
+   "r": [
+    251,
+    339,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "frente al crudo.",
+   "r": [
+    251,
+    339,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "El puré",
+   "r": [
+    204,
+    339,
+    464,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "El puré cocido",
+   "r": [
+    204,
+    339,
+    726,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "El puré cocido",
+   "r": [
+    204,
+    339,
+    726,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "El puré cocido con",
+   "r": [
+    204,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "aceite",
+   "r": [
+    282,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "aceite",
+   "r": [
+    282,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "aceite subió",
+   "r": [
+    282,
+    339,
+    736,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "aceite subió a",
+   "r": [
+    282,
+    339,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "aceite subió a sesenta",
+   "r": [
+    282,
+    339,
+    798,
+    510
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "aceite subió a sesenta",
+   "r": [
+    282,
+    339,
+    798,
+    510
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "y cinco",
+   "r": [
+    242,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "65 %",
+   "r": [
+    430,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "y cinco",
+   "r": [
+    242,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "65 %",
+   "r": [
+    430,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "y cinco por",
+   "r": [
+    242,
+    339,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "65 %",
+   "r": [
+    430,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "y cinco por cien.",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "65 %",
+   "r": [
+    430,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Los",
+   "r": [
+    207,
+    339,
+    337,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "65 %",
+   "r": [
+    60,
+    979,
+    580,
+    1079
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Los trozos",
+   "r": [
+    207,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "65 %",
+   "r": [
+    60,
+    989,
+    580,
+    1089
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Los trozos",
+   "r": [
+    207,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "65 %",
+   "r": [
+    60,
+    999,
+    580,
+    1099
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Los trozos crudos",
+   "r": [
+    207,
+    339,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "65 %",
+   "r": [
+    60,
+    1009,
+    580,
+    1109
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Los trozos crudos picados",
+   "r": [
+    207,
+    339,
+    873,
+    510
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "65 %",
+   "r": [
+    60,
+    1018,
+    580,
+    1118
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Los trozos crudos picados",
+   "r": [
+    207,
+    339,
+    873,
+    510
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "dejaron",
+   "r": [
+    166,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "dejaron",
+   "r": [
+    166,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "dejaron pasar",
+   "r": [
+    166,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "dejaron pasar",
+   "r": [
+    166,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "dejaron pasar atrás",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "dejaron pasar atrás gran",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "dejaron pasar atrás gran",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "parte",
+   "r": [
+    281,
+    339,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "parte del",
+   "r": [
+    281,
+    339,
+    618,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "parte del lote.",
+   "r": [
+    281,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "parte del lote.",
+   "r": [
+    281,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Cocer",
+   "r": [
+    185,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Cocer",
+   "r": [
+    185,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Cocer rompe",
+   "r": [
+    185,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Cocer rompe",
+   "r": [
+    185,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Cocer rompe la red",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Cocer rompe la red",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "vegetal",
+   "r": [
+    218,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "vegetal",
+   "r": [
+    218,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "vegetal y triturar",
+   "r": [
+    218,
+    339,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "vegetal y triturar",
+   "r": [
+    218,
+    339,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "vegetal y triturar",
+   "r": [
+    218,
+    339,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "vegetal y triturar abre",
+   "r": [
+    218,
+    339,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "vegetal y triturar abre",
+   "r": [
+    218,
+    339,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "paso",
+   "r": [
+    153,
+    339,
+    334,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "paso hacia",
+   "r": [
+    153,
+    339,
+    554,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "paso hacia el aceite.",
+   "r": [
+    153,
+    338,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "paso hacia el aceite.",
+   "r": [
+    153,
+    338,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "paso hacia el aceite.",
+   "r": [
+    153,
+    338,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Alternar",
+   "r": [
+    199,
+    339,
+    520,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Alternar",
+   "r": [
+    199,
+    339,
+    520,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Alternar bastones",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Alternar bastones",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Alternar bastones por fibra",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Alternar bastones por fibra",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "cremas",
+   "r": [
+    248,
+    338,
+    550,
+    423
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "cremas",
+   "r": [
+    248,
+    338,
+    550,
+    423
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "cremas suaves",
+   "r": [
+    248,
+    338,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1082,
+    950,
+    1144
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "cremas suaves",
+   "r": [
+    248,
+    338,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1069,
+    950,
+    1131
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "cremas suaves aprovecha",
+   "r": [
+    237,
+    338,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1058,
+    950,
+    1120
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "cremas suaves aprovecha",
+   "r": [
+    237,
+    338,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1046,
+    950,
+    1108
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "cremas suaves aprovecha todo.",
+   "r": [
+    237,
+    338,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1035,
+    950,
+    1097
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "cremas suaves aprovecha todo.",
+   "r": [
+    237,
+    338,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1024,
+    950,
+    1086
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Saber",
+   "r": [
+    155,
+    342,
+    369,
+    425
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Saber",
+   "r": [
+    155,
+    342,
+    369,
+    425
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Añade oliva",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Saber cómo",
+   "r": [
+    155,
+    342,
+    574,
+    425
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Saber cómo responde",
+   "r": [
+    155,
+    342,
+    925,
+    425
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Saber cómo responde",
+   "r": [
+    155,
+    342,
+    925,
+    425
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Saber cómo responde cada",
+   "r": [
+    155,
+    342,
+    925,
+    507
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Saber cómo responde cada hortaliza",
+   "r": [
+    155,
+    342,
+    925,
+    507
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Saber cómo responde cada hortaliza",
+   "r": [
+    155,
+    342,
+    925,
+    507
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Saber cómo responde cada hortaliza",
+   "r": [
+    155,
+    342,
+    925,
+    507
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "quita",
+   "r": [
+    172,
+    339,
+    367,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "quita miedos",
+   "r": [
+    172,
+    339,
+    650,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "quita miedos",
+   "r": [
+    172,
+    339,
+    650,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "quita miedos tontos",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "quita miedos tontos",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "quita miedos tontos al fogón.",
+   "r": [
+    172,
+    339,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "quita miedos tontos al fogón.",
+   "r": [
+    172,
+    339,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "come",
+   "r": [
+    146,
+    339,
+    347,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "come todo",
+   "r": [
+    146,
+    338,
+    552,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "come todo crudo",
+   "r": [
+    146,
+    338,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "come todo crudo",
+   "r": [
+    146,
+    338,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "come todo crudo",
+   "r": [
+    146,
+    338,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "miedo",
+   "r": [
+    191,
+    339,
+    417,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "miedo a",
+   "r": [
+    191,
+    339,
+    479,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "miedo a la cazuela.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "miedo a la cazuela.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "miedo a la cazuela.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "miedo a la cazuela.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 717,
+  "texto": "Muerdes zanahoria cruda pensando que es el único modo de aprovecharla. La gente teme hervir verduras creyendo que pierden todo su valor. Con ciertas vitaminas hay pérdidas en agua, pero otras van al revés. El betacaroteno vive encerrado tras paredes duras de cada célula. Midieron cuánto pasaba al cuerpo en puré cocido frente al crudo. El puré cocido con aceite subió a sesenta y cinco por cien. Los trozos crudos picados dejaron pasar atrás gran parte del lote. Cocer rompe la red vegetal y triturar abre paso hacia el aceite. Alternar bastones por fibra y cremas suaves aprovecha todo. Saber cómo responde cada hortaliza quita miedos tontos al fogón. Mándaselo a alguien que come todo crudo por miedo a la cazuela.",
+  "inicio_s": 0.051,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Muerdes zanahoria cruda pensando que es el único modo de aprovecharla.",
+    "t0": 0.021,
+    "t1": 3.696
+   },
+   {
+    "texto": "La gente teme hervir verduras creyendo que pierden todo su valor.",
+    "t0": 3.901,
+    "t1": 7.501
+   },
+   {
+    "texto": "Con ciertas vitaminas hay pérdidas en agua, pero otras van al revés.",
+    "t0": 7.676,
+    "t1": 11.596
+   },
+   {
+    "texto": "El betacaroteno vive encerrado tras paredes duras de cada célula.",
+    "t0": 11.766,
+    "t1": 15.446
+   },
+   {
+    "texto": "Midieron cuánto pasaba al cuerpo en puré cocido frente al crudo.",
+    "t0": 15.626,
+    "t1": 18.986
+   },
+   {
+    "texto": "El puré cocido con aceite subió a sesenta y cinco por cien.",
+    "t0": 19.156,
+    "t1": 22.356
+   },
+   {
+    "texto": "Los trozos crudos picados dejaron pasar atrás gran parte del lote.",
+    "t0": 22.581,
+    "t1": 26.261
+   },
+   {
+    "texto": "Cocer rompe la red vegetal y triturar abre paso hacia el aceite.",
+    "t0": 26.471,
+    "t1": 30.391
+   },
+   {
+    "texto": "Alternar bastones por fibra y cremas suaves aprovecha todo.",
+    "t0": 30.691,
+    "t1": 33.851
+   },
+   {
+    "texto": "Saber cómo responde cada hortaliza quita miedos tontos al fogón.",
+    "t0": 34.081,
+    "t1": 37.561
+   },
+   {
+    "texto": "Mándaselo a alguien que come todo crudo por miedo a la cazuela.",
+    "t0": 37.806,
+    "t1": 40.926
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 2,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.536,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.996,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.754,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.754,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.546,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.076,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.576,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.831,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.591,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.806,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wi_zanahoria_cocida_aceite_betacaroteno.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.3,
+   "render": 88.1,
+   "mezcla": 13.4
+  },
+  "escena_js": "tr"
+ }
+}

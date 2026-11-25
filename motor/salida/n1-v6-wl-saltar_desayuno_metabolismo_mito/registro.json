@@ -1,0 +1,2572 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.97,
+ "tamano_mb": 10.42,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.5,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 69.1,
+ "fotogramas": 1227,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Despiertas",
+   "r": [
+    259,
+    339,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Despiertas",
+   "r": [
+    259,
+    339,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Despiertas",
+   "r": [
+    259,
+    339,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Despiertas",
+   "r": [
+    259,
+    339,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Despiertas con estómago",
+   "r": [
+    157,
+    339,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Despiertas con estómago",
+   "r": [
+    157,
+    339,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Despiertas con estómago cerrado",
+   "r": [
+    157,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Despiertas con estómago cerrado",
+   "r": [
+    157,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Despiertas con estómago cerrado",
+   "r": [
+    157,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "comes",
+   "r": [
+    177,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "comes",
+   "r": [
+    177,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "comes obligado",
+   "r": [
+    177,
+    339,
+    757,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "comes obligado",
+   "r": [
+    177,
+    339,
+    757,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "comes obligado por",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "comes obligado por metabolismo.",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "comes obligado por metabolismo.",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Mito antiguo",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "comes obligado por metabolismo.",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "comes obligado por metabolismo.",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Repitieron",
+   "r": [
+    156,
+    342,
+    529,
+    425
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Repitieron",
+   "r": [
+    156,
+    342,
+    529,
+    425
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Repitieron mucho",
+   "r": [
+    156,
+    342,
+    778,
+    425
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Repitieron mucho",
+   "r": [
+    156,
+    342,
+    778,
+    425
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Repitieron mucho que",
+   "r": [
+    156,
+    342,
+    924,
+    425
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Repitieron mucho que desayunar",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Repitieron mucho que desayunar",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "Repitieron mucho que desayunar temprano",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "Repitieron mucho que desayunar temprano",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "activa",
+   "r": [
+    220,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "activa",
+   "r": [
+    220,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "activa el",
+   "r": [
+    220,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "activa el ritmo",
+   "r": [
+    220,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "activa el ritmo de gasto.",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "activa el ritmo de gasto.",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "activa el ritmo de gasto.",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Quien",
+   "r": [
+    179,
+    339,
+    393,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Quien afirmaba",
+   "r": [
+    179,
+    339,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Quien afirmaba",
+   "r": [
+    179,
+    339,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Quien afirmaba eso",
+   "r": [
+    179,
+    339,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Quien afirmaba eso miraba",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Quien afirmaba eso miraba",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Quien afirmaba eso miraba encuestas",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Quien afirmaba eso miraba encuestas",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "viejas",
+   "r": [
+    205,
+    339,
+    427,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "viejas",
+   "r": [
+    205,
+    339,
+    427,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "viejas de horarios",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "viejas de horarios",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "viejas de horarios dispares.",
+   "r": [
+    205,
+    339,
+    875,
+    510
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "viejas de horarios dispares.",
+   "r": [
+    205,
+    339,
+    875,
+    510
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "viejas de horarios dispares.",
+   "r": [
+    205,
+    339,
+    875,
+    510
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Cuando",
+   "r": [
+    237,
+    344,
+    491,
+    422
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    788,
+    427,
+    850
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Cuando asignaron",
+   "r": [
+    237,
+    344,
+    843,
+    422
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    780,
+    427,
+    842
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Cuando asignaron",
+   "r": [
+    237,
+    344,
+    843,
+    422
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    771,
+    427,
+    833
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Cuando asignaron desayunos",
+   "r": [
+    165,
+    344,
+    843,
+    501
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    763,
+    427,
+    825
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Cuando asignaron desayunos",
+   "r": [
+    165,
+    344,
+    843,
+    501
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    754,
+    427,
+    816
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Cuando asignaron desayunos",
+   "r": [
+    165,
+    344,
+    843,
+    501
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    749,
+    427,
+    811
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Cuando asignaron desayunos en pruebas",
+   "r": [
+    165,
+    344,
+    915,
+    501
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    746,
+    427,
+    808
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Cuando asignaron desayunos en pruebas",
+   "r": [
+    165,
+    344,
+    915,
+    501
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Gasto idéntico",
+   "r": [
+    60,
+    743,
+    427,
+    805
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "reales",
+   "r": [
+    184,
+    339,
+    425,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "reales",
+   "r": [
+    184,
+    339,
+    425,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "reales cambió",
+   "r": [
+    184,
+    339,
+    711,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "reales cambió",
+   "r": [
+    184,
+    339,
+    711,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "reales cambió todo",
+   "r": [
+    184,
+    339,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "reales cambió todo",
+   "r": [
+    184,
+    339,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "reales cambió todo el guion.",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "reales cambió todo el guion.",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Unos",
+   "r": [
+    262,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Unos",
+   "r": [
+    262,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Unos comían",
+   "r": [
+    262,
+    339,
+    734,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Unos comían al levantarse",
+   "r": [
+    262,
+    339,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Unos comían al levantarse",
+   "r": [
+    262,
+    339,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Unos comían al levantarse",
+   "r": [
+    262,
+    339,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Unos comían al levantarse y",
+   "r": [
+    262,
+    339,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "otros",
+   "r": [
+    219,
+    338,
+    443,
+    423
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "otros esperaban",
+   "r": [
+    219,
+    338,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "otros esperaban",
+   "r": [
+    219,
+    338,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "otros esperaban",
+   "r": [
+    219,
+    338,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "otros esperaban hasta el",
+   "r": [
+    202,
+    338,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "otros esperaban hasta el mediodía.",
+   "r": [
+    202,
+    338,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "otros esperaban hasta el mediodía.",
+   "r": [
+    202,
+    338,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "otros esperaban hasta el mediodía.",
+   "r": [
+    202,
+    338,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Tras",
+   "r": [
+    145,
+    339,
+    315,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Tras seis",
+   "r": [
+    145,
+    338,
+    502,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Tras seis semanas",
+   "r": [
+    145,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Tras seis semanas",
+   "r": [
+    145,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Tras seis semanas el",
+   "r": [
+    145,
+    338,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Tras seis semanas el metabolismo",
+   "r": [
+    145,
+    338,
+    935,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Tras seis semanas el metabolismo",
+   "r": [
+    145,
+    338,
+    935,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "en reposo",
+   "r": [
+    172,
+    339,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "en reposo",
+   "r": [
+    172,
+    339,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "en reposo",
+   "r": [
+    172,
+    339,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "en reposo siguió",
+   "r": [
+    172,
+    339,
+    783,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "Sin cambio",
+   "r": [
+    143,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "en reposo siguió",
+   "r": [
+    172,
+    339,
+    783,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "en reposo siguió sin moverse.",
+   "r": [
+    172,
+    339,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "en reposo siguió sin moverse.",
+   "r": [
+    172,
+    339,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "en reposo siguió sin moverse.",
+   "r": [
+    172,
+    339,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Al",
+   "r": [
+    225,
+    339,
+    301,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Al juntar",
+   "r": [
+    225,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Al juntar análisis",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Al juntar análisis",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Al juntar análisis similares",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Al juntar análisis similares",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Al juntar análisis similares",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "quienes",
+   "r": [
+    156,
+    342,
+    435,
+    425
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "quienes desayunaban",
+   "r": [
+    156,
+    342,
+    924,
+    425
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "quienes desayunaban",
+   "r": [
+    156,
+    342,
+    924,
+    425
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "quienes desayunaban",
+   "r": [
+    156,
+    342,
+    924,
+    425
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "quienes desayunaban",
+   "r": [
+    156,
+    342,
+    924,
+    425
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "quienes desayunaban metían",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "quienes desayunaban metían",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "quienes desayunaban metían extra.",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "quienes desayunaban metían extra.",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Si",
+   "r": [
+    231,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Si amaneces",
+   "r": [
+    231,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Si amaneces",
+   "r": [
+    231,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Si amaneces con hambre",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "real",
+   "r": [
+    196,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "real",
+   "r": [
+    196,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "real",
+   "r": [
+    196,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "real un buen",
+   "r": [
+    196,
+    338,
+    676,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "real un buen plato",
+   "r": [
+    196,
+    338,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "real un buen plato",
+   "r": [
+    196,
+    338,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "da",
+   "r": [
+    339,
+    339,
+    432,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "da energía",
+   "r": [
+    339,
+    339,
+    741,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "da energía",
+   "r": [
+    339,
+    339,
+    741,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "da energía constante.",
+   "r": [
+    339,
+    339,
+    741,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "da energía constante.",
+   "r": [
+    339,
+    339,
+    741,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "da energía constante.",
+   "r": [
+    339,
+    339,
+    741,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Pero",
+   "r": [
+    320,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Pero tragar",
+   "r": [
+    320,
+    339,
+    760,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Pero tragar productos",
+   "r": [
+    216,
+    339,
+    760,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Pero tragar productos",
+   "r": [
+    216,
+    339,
+    760,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Pero tragar productos dulces",
+   "r": [
+    216,
+    339,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Pero tragar productos dulces",
+   "r": [
+    216,
+    339,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "por",
+   "r": [
+    238,
+    339,
+    369,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "por",
+   "r": [
+    238,
+    339,
+    369,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "por pura",
+   "r": [
+    238,
+    338,
+    583,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "por pura norma",
+   "r": [
+    238,
+    338,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1225,
+    950,
+    1287
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "por pura norma social",
+   "r": [
+    238,
+    338,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1213,
+    950,
+    1275
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "por pura norma social",
+   "r": [
+    238,
+    338,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1202,
+    950,
+    1264
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "sobra",
+   "r": [
+    263,
+    339,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1191,
+    950,
+    1253
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "sobra",
+   "r": [
+    263,
+    339,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1180,
+    950,
+    1242
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "sobra del todo.",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1169,
+    950,
+    1231
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "sobra del todo.",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Sigue tu hambre",
+   "r": [
+    560,
+    1159,
+    950,
+    1221
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "sobra del todo.",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Adaptar",
+   "r": [
+    173,
+    339,
+    482,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Adaptar horarios",
+   "r": [
+    173,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Adaptar horarios",
+   "r": [
+    173,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Adaptar horarios al",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Adaptar horarios al hambre",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Adaptar horarios al hambre real",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Adaptar horarios al hambre real",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "sostiene",
+   "r": [
+    232,
+    338,
+    572,
+    423
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "sostiene",
+   "r": [
+    232,
+    338,
+    572,
+    423
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "sostiene pautas",
+   "r": [
+    232,
+    338,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "sostiene pautas",
+   "r": [
+    232,
+    338,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "sostiene pautas mucho",
+   "r": [
+    169,
+    338,
+    848,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "sostiene pautas mucho más",
+   "r": [
+    169,
+    338,
+    848,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "sostiene pautas mucho más simples.",
+   "r": [
+    169,
+    338,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "sostiene pautas mucho más simples.",
+   "r": [
+    169,
+    338,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "sostiene pautas mucho más simples.",
+   "r": [
+    169,
+    338,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a",
+   "r": [
+    190,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a quien cena",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien cena bien",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "y",
+   "r": [
+    162,
+    342,
+    202,
+    425
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "y sufre",
+   "r": [
+    162,
+    340,
+    430,
+    425
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "y sufre",
+   "r": [
+    162,
+    340,
+    430,
+    425
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "y sufre desayunando",
+   "r": [
+    162,
+    340,
+    918,
+    425
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "y sufre desayunando",
+   "r": [
+    162,
+    340,
+    918,
+    425
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "y sufre desayunando sin",
+   "r": [
+    162,
+    340,
+    918,
+    507
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "y sufre desayunando sin apetito.",
+   "r": [
+    162,
+    340,
+    918,
+    507
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "y sufre desayunando sin apetito.",
+   "r": [
+    162,
+    340,
+    918,
+    507
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "y sufre desayunando sin apetito.",
+   "r": [
+    162,
+    340,
+    918,
+    507
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "y sufre desayunando sin apetito.",
+   "r": [
+    162,
+    340,
+    918,
+    507
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 711,
+  "texto": "Despiertas con estómago cerrado y comes obligado por metabolismo. Repitieron mucho que desayunar temprano activa el ritmo de gasto. Quien afirmaba eso miraba encuestas viejas de horarios dispares. Cuando asignaron desayunos en pruebas reales cambió todo el guion. Unos comían al levantarse y otros esperaban hasta el mediodía. Tras seis semanas el metabolismo en reposo siguió sin moverse. Al juntar análisis similares quienes desayunaban metían extra. Si amaneces con hambre real un buen plato da energía constante. Pero tragar productos dulces por pura norma social sobra del todo. Adaptar horarios al hambre real sostiene pautas mucho más simples. Mándaselo a quien cena bien y sufre desayunando sin apetito.",
+  "inicio_s": 0.0503,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Despiertas con estómago cerrado y comes obligado por metabolismo.",
+    "t0": 0.021,
+    "t1": 3.846
+   },
+   {
+    "texto": "Repitieron mucho que desayunar temprano activa el ritmo de gasto.",
+    "t0": 4.041,
+    "t1": 7.641
+   },
+   {
+    "texto": "Quien afirmaba eso miraba encuestas viejas de horarios dispares.",
+    "t0": 7.811,
+    "t1": 11.171
+   },
+   {
+    "texto": "Cuando asignaron desayunos en pruebas reales cambió todo el guion.",
+    "t0": 11.371,
+    "t1": 14.971
+   },
+   {
+    "texto": "Unos comían al levantarse y otros esperaban hasta el mediodía.",
+    "t0": 15.121,
+    "t1": 18.321
+   },
+   {
+    "texto": "Tras seis semanas el metabolismo en reposo siguió sin moverse.",
+    "t0": 18.471,
+    "t1": 21.831
+   },
+   {
+    "texto": "Al juntar análisis similares quienes desayunaban metían extra.",
+    "t0": 22.041,
+    "t1": 25.561
+   },
+   {
+    "texto": "Si amaneces con hambre real un buen plato da energía constante.",
+    "t0": 25.756,
+    "t1": 29.356
+   },
+   {
+    "texto": "Pero tragar productos dulces por pura norma social sobra del todo.",
+    "t0": 29.531,
+    "t1": 33.211
+   },
+   {
+    "texto": "Adaptar horarios al hambre real sostiene pautas mucho más simples.",
+    "t0": 33.411,
+    "t1": 36.971
+   },
+   {
+    "texto": "Mándaselo a quien cena bien y sufre desayunando sin apetito.",
+    "t0": 37.246,
+    "t1": 40.473
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.886,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.161,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.641,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.851,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.801,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.711,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.971,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.796,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.551,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.246,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wl_saltar_desayuno_metabolismo_mito.json",
+  "paleta": "virales",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.9,
+   "render": 88.1,
+   "mezcla": 14.1
+  },
+  "escena_js": "tr"
+ }
+}
