@@ -1,0 +1,2483 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 39.2,
+ "tamano_mb": 10.02,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 79.2,
+ "fotogramas": 1174,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Seguro",
+   "r": [
+    181,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Seguro",
+   "r": [
+    181,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Seguro escuchaste",
+   "r": [
+    181,
+    339,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Seguro escuchaste",
+   "r": [
+    181,
+    339,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Seguro escuchaste",
+   "r": [
+    181,
+    339,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Seguro escuchaste que la",
+   "r": [
+    181,
+    339,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "espinaca",
+   "r": [
+    162,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "espinaca",
+   "r": [
+    162,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "espinaca es",
+   "r": [
+    162,
+    339,
+    603,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "espinaca es famosa",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "espinaca es famosa",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "espinaca es famosa solo",
+   "r": [
+    162,
+    338,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Mito Popeye",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "por",
+   "r": [
+    278,
+    339,
+    408,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Mito Popeye",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "por una",
+   "r": [
+    278,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Mito Popeye",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "por una coma.",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Mito Popeye",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "por una coma.",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Mito Popeye",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Cuentan",
+   "r": [
+    161,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Mito Popeye",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Cuentan",
+   "r": [
+    161,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Mito Popeye",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Cuentan que alguien",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Cuentan que alguien escribió",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Cuentan que alguien escribió",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Cuentan que alguien escribió",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Cuentan que alguien escribió treinta",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "y",
+   "r": [
+    289,
+    339,
+    330,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "y cinco",
+   "r": [
+    289,
+    339,
+    546,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "y cinco",
+   "r": [
+    289,
+    339,
+    546,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "y cinco en vez",
+   "r": [
+    289,
+    339,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "de",
+   "r": [
+    181,
+    339,
+    272,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "de tres",
+   "r": [
+    181,
+    339,
+    445,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "de tres coma",
+   "r": [
+    181,
+    339,
+    662,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "de tres coma cinco.",
+   "r": [
+    181,
+    339,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "de tres coma cinco.",
+   "r": [
+    181,
+    339,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Lo",
+   "r": [
+    195,
+    339,
+    283,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Lo gracioso",
+   "r": [
+    195,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Lo gracioso",
+   "r": [
+    195,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Lo gracioso es",
+   "r": [
+    195,
+    339,
+    731,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Lo gracioso es que",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "esa historia",
+   "r": [
+    253,
+    339,
+    698,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "esa historia",
+   "r": [
+    253,
+    339,
+    698,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "esa historia del",
+   "r": [
+    253,
+    339,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "esa historia del error",
+   "r": [
+    253,
+    339,
+    827,
+    510
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "de imprenta",
+   "r": [
+    246,
+    339,
+    694,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "de imprenta",
+   "r": [
+    246,
+    339,
+    694,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    521,
+    950,
+    583
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "de imprenta",
+   "r": [
+    246,
+    339,
+    694,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    524,
+    950,
+    586
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "de imprenta fue",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    526,
+    950,
+    588
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "de imprenta fue falsa.",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    527,
+    950,
+    589
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "de imprenta fue falsa.",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    527,
+    950,
+    589
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Un",
+   "r": [
+    247,
+    339,
+    345,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    536,
+    950,
+    598
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Un investigador",
+   "r": [
+    247,
+    339,
+    833,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Leyenda académica",
+   "r": [
+    513,
+    550,
+    950,
+    612
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Un investigador",
+   "r": [
+    247,
+    339,
+    833,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Un investigador rastreó",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Un investigador rastreó",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Un investigador rastreó la",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Un investigador rastreó la cita",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Un investigador rastreó la cita",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "y el",
+   "r": [
+    207,
+    339,
+    331,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "y el autor",
+   "r": [
+    207,
+    338,
+    577,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "y el autor admitió",
+   "r": [
+    207,
+    338,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "y el autor admitió",
+   "r": [
+    207,
+    338,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "y el autor admitió repetirla.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "y el autor admitió repetirla.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "y el autor admitió repetirla.",
+   "r": [
+    207,
+    338,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "El",
+   "r": [
+    271,
+    339,
+    338,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "El viejo",
+   "r": [
+    271,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "El viejo lío",
+   "r": [
+    271,
+    339,
+    638,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "El viejo lío vino",
+   "r": [
+    271,
+    339,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "probablemente",
+   "r": [
+    202,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "probablemente",
+   "r": [
+    202,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "probablemente",
+   "r": [
+    202,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "probablemente",
+   "r": [
+    202,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "probablemente de medir",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "probablemente de medir",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "probablemente de medir espinaca",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "probablemente de medir espinaca",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "seca",
+   "r": [
+    268,
+    338,
+    466,
+    423
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "seca",
+   "r": [
+    268,
+    338,
+    466,
+    423
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "seca en polvo.",
+   "r": [
+    268,
+    338,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "seca en polvo.",
+   "r": [
+    268,
+    338,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "seca en polvo.",
+   "r": [
+    268,
+    338,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Crudas",
+   "r": [
+    219,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Crudas",
+   "r": [
+    219,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Crudas cada",
+   "r": [
+    219,
+    339,
+    690,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Crudas cada cien",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Crudas cada cien gramos",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Crudas cada cien gramos",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Crudas cada cien gramos aportan",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Crudas cada cien gramos aportan",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "dos",
+   "r": [
+    253,
+    338,
+    408,
+    423
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "dos coma",
+   "r": [
+    253,
+    338,
+    626,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "2,71",
+   "r": [
+    432,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "dos coma siete",
+   "r": [
+    253,
+    338,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "2,71",
+   "r": [
+    432,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "dos coma siete miligramos.",
+   "r": [
+    253,
+    338,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "2,71",
+   "r": [
+    432,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "dos coma siete miligramos.",
+   "r": [
+    253,
+    338,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "2,71",
+   "r": [
+    432,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "dos coma siete miligramos.",
+   "r": [
+    253,
+    338,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "2,71",
+   "r": [
+    432,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "Cocidas",
+   "r": [
+    240,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "2,71",
+   "r": [
+    60,
+    928,
+    578,
+    1028
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Cocidas",
+   "r": [
+    240,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "2,71",
+   "r": [
+    60,
+    939,
+    578,
+    1039
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Cocidas",
+   "r": [
+    240,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "2,71",
+   "r": [
+    60,
+    950,
+    578,
+    1050
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Cocidas marcan",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "2,71",
+   "r": [
+    60,
+    960,
+    578,
+    1060
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Cocidas marcan",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Cocidas marcan tres",
+   "r": [
+    240,
+    339,
+    840,
+    510
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Cocidas marcan tres coma",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "seis",
+   "r": [
+    221,
+    339,
+    373,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "seis",
+   "r": [
+    221,
+    339,
+    373,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "seis frente",
+   "r": [
+    221,
+    339,
+    625,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "seis frente",
+   "r": [
+    221,
+    339,
+    625,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "seis frente a",
+   "r": [
+    221,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "coma",
+   "r": [
+    152,
+    339,
+    355,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "coma tres",
+   "r": [
+    152,
+    339,
+    527,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "coma tres en",
+   "r": [
+    152,
+    339,
+    633,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "coma tres en lenteja.",
+   "r": [
+    152,
+    339,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "coma tres en lenteja.",
+   "r": [
+    152,
+    339,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "coma tres en lenteja.",
+   "r": [
+    152,
+    339,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Los mejillones",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Los mejillones",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Los mejillones",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Los mejillones alcanzan",
+   "r": [
+    170,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Los mejillones alcanzan",
+   "r": [
+    170,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Los mejillones alcanzan seis",
+   "r": [
+    170,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Los mejillones alcanzan seis",
+   "r": [
+    170,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Los mejillones alcanzan seis coma",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "siete",
+   "r": [
+    230,
+    339,
+    416,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "siete miligramos",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "siete miligramos",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "siete miligramos cada",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "siete miligramos cada cien.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "siete miligramos cada cien.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "El",
+   "r": [
+    183,
+    339,
+    251,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "El hierro",
+   "r": [
+    183,
+    339,
+    502,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "El hierro vegetal",
+   "r": [
+    183,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "El hierro vegetal",
+   "r": [
+    183,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "El hierro vegetal se",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "El hierro vegetal se absorbe",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "El hierro vegetal se absorbe",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "bastante",
+   "r": [
+    155,
+    338,
+    510,
+    423
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "bastante",
+   "r": [
+    155,
+    338,
+    510,
+    423
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "bastante menos",
+   "r": [
+    155,
+    338,
+    771,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "bastante menos que el",
+   "r": [
+    155,
+    338,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "bastante menos que el animal.",
+   "r": [
+    155,
+    338,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "bastante menos que el animal.",
+   "r": [
+    155,
+    338,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Un",
+   "r": [
+    161,
+    339,
+    258,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Un chorro",
+   "r": [
+    161,
+    339,
+    531,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Un chorro de",
+   "r": [
+    161,
+    339,
+    638,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Un chorro de cítrico",
+   "r": [
+    161,
+    338,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Mezcla vit. C",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Un chorro de cítrico",
+   "r": [
+    161,
+    338,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "o pimiento",
+   "r": [
+    263,
+    339,
+    649,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "o pimiento",
+   "r": [
+    263,
+    339,
+    649,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "o pimiento rojo",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "o pimiento rojo",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "o pimiento rojo multiplica",
+   "r": [
+    263,
+    339,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "o pimiento rojo multiplica",
+   "r": [
+    263,
+    339,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "o pimiento rojo multiplica",
+   "r": [
+    263,
+    339,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "ese",
+   "r": [
+    274,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "ese paso",
+   "r": [
+    274,
+    339,
+    603,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "ese paso final.",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "ese paso final.",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo a",
+   "r": [
+    156,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a alguien que todavía",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a alguien que todavía",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "cuenta",
+   "r": [
+    177,
+    338,
+    456,
+    423
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "cuenta la",
+   "r": [
+    177,
+    338,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "cuenta la fábula",
+   "r": [
+    177,
+    338,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "cuenta la fábula de Popeye.",
+   "r": [
+    177,
+    338,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "cuenta la fábula de Popeye.",
+   "r": [
+    177,
+    338,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "cuenta la fábula de Popeye.",
+   "r": [
+    177,
+    338,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "cuenta la fábula de Popeye.",
+   "r": [
+    177,
+    338,
+    903,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 696,
+  "texto": "Seguro escuchaste que la espinaca es famosa solo por una coma. Cuentan que alguien escribió treinta y cinco en vez de tres coma cinco. Lo gracioso es que esa historia del error de imprenta fue falsa. Un investigador rastreó la cita y el autor admitió repetirla. El viejo lío vino probablemente de medir espinaca seca en polvo. Crudas cada cien gramos aportan dos coma siete miligramos. Cocidas marcan tres coma seis frente a tres coma tres en lenteja. Los mejillones alcanzan seis coma siete miligramos cada cien. El hierro vegetal se absorbe bastante menos que el animal. Un chorro de cítrico o pimiento rojo multiplica ese paso final. Mándaselo a alguien que todavía cuenta la fábula de Popeye.",
+  "inicio_s": 0.0478,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Seguro escuchaste que la espinaca es famosa solo por una coma.",
+    "t0": 0.021,
+    "t1": 3.381
+   },
+   {
+    "texto": "Cuentan que alguien escribió treinta y cinco en vez de tres coma cinco.",
+    "t0": 3.541,
+    "t1": 7.111
+   },
+   {
+    "texto": "Lo gracioso es que esa historia del error de imprenta fue falsa.",
+    "t0": 7.426,
+    "t1": 10.746
+   },
+   {
+    "texto": "Un investigador rastreó la cita y el autor admitió repetirla.",
+    "t0": 10.891,
+    "t1": 14.231
+   },
+   {
+    "texto": "El viejo lío vino probablemente de medir espinaca seca en polvo.",
+    "t0": 14.476,
+    "t1": 18.036
+   },
+   {
+    "texto": "Crudas cada cien gramos aportan dos coma siete miligramos.",
+    "t0": 18.251,
+    "t1": 21.571
+   },
+   {
+    "texto": "Cocidas marcan tres coma seis frente a tres coma tres en lenteja.",
+    "t0": 21.716,
+    "t1": 25.596
+   },
+   {
+    "texto": "Los mejillones alcanzan seis coma siete miligramos cada cien.",
+    "t0": 25.796,
+    "t1": 28.996
+   },
+   {
+    "texto": "El hierro vegetal se absorbe bastante menos que el animal.",
+    "t0": 29.141,
+    "t1": 31.941
+   },
+   {
+    "texto": "Un chorro de cítrico o pimiento rojo multiplica ese paso final.",
+    "t0": 32.131,
+    "t1": 35.731
+   },
+   {
+    "texto": "Mándaselo a alguien que todavía cuenta la fábula de Popeye.",
+    "t0": 35.876,
+    "t1": 38.716
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.9,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.421,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.361,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.391,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.951,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.156,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.131,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.391,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.076,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.161,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 35.876,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yg_espinacas_hierro_mito_coma.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": true,
+  "tiempos_s": {
+   "voz": 17.2,
+   "render": 99.1,
+   "mezcla": 13.0
+  },
+  "escena_js": "tr"
+ }
+}

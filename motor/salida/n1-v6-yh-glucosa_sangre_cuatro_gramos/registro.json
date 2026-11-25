@@ -1,0 +1,2494 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.27,
+ "tamano_mb": 11.13,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 95.2,
+ "fotogramas": 1236,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Miras",
+   "r": [
+    243,
+    339,
+    469,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Miras",
+   "r": [
+    243,
+    339,
+    469,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Miras un terrón",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Miras un terrón",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Miras un terrón pequeño",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Miras un terrón pequeño",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "de azúcar",
+   "r": [
+    224,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "de azúcar blanco",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "de azúcar blanco",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "de azúcar blanco encima",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "de azúcar blanco encima",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "de la encimera.",
+   "r": [
+    248,
+    338,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "de la encimera.",
+   "r": [
+    248,
+    338,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "de la encimera.",
+   "r": [
+    248,
+    338,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Parece",
+   "r": [
+    213,
+    339,
+    481,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "En toda sangre",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Parece",
+   "r": [
+    213,
+    339,
+    481,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "En toda sangre",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Parece una",
+   "r": [
+    213,
+    339,
+    636,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "En toda sangre",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Parece una pizca",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "En toda sangre",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Parece una pizca ridícula",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "En toda sangre",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Parece una pizca ridícula",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "En toda sangre",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Parece una pizca ridícula",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "En toda sangre",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "frente",
+   "r": [
+    256,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "frente a",
+   "r": [
+    256,
+    339,
+    554,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "frente a toda",
+   "r": [
+    256,
+    339,
+    740,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "frente a toda la",
+   "r": [
+    256,
+    339,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "sangre",
+   "r": [
+    193,
+    339,
+    456,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "sangre del",
+   "r": [
+    193,
+    339,
+    584,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "sangre del cuerpo.",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "sangre del cuerpo.",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "Pero",
+   "r": [
+    196,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "Pero dentro",
+   "r": [
+    196,
+    339,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Pero dentro de",
+   "r": [
+    196,
+    339,
+    748,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Pero dentro de tus",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "venas",
+   "r": [
+    237,
+    338,
+    479,
+    423
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "venas",
+   "r": [
+    237,
+    338,
+    479,
+    423
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "venas el",
+   "r": [
+    237,
+    338,
+    561,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "venas el cuerpo",
+   "r": [
+    237,
+    338,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "venas el cuerpo vigila",
+   "r": [
+    237,
+    338,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "venas el cuerpo vigila",
+   "r": [
+    237,
+    338,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "glucosa",
+   "r": [
+    152,
+    339,
+    445,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "glucosa",
+   "r": [
+    152,
+    339,
+    445,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "glucosa al",
+   "r": [
+    152,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Equilibrio fino",
+   "r": [
+    560,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "glucosa al milímetro.",
+   "r": [
+    152,
+    339,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "glucosa al milímetro.",
+   "r": [
+    152,
+    339,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "glucosa al milímetro.",
+   "r": [
+    152,
+    339,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Si",
+   "r": [
+    174,
+    339,
+    245,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Si sube",
+   "r": [
+    174,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Si sube mucho",
+   "r": [
+    174,
+    339,
+    705,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Si sube mucho",
+   "r": [
+    174,
+    339,
+    705,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Si sube mucho daña",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Si sube mucho daña vasos",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "finos",
+   "r": [
+    303,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "finos",
+   "r": [
+    303,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "finos",
+   "r": [
+    303,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "finos y",
+   "r": [
+    303,
+    339,
+    546,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "finos y si",
+   "r": [
+    303,
+    339,
+    626,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "de",
+   "r": [
+    251,
+    339,
+    342,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "de golpe",
+   "r": [
+    251,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "de golpe",
+   "r": [
+    251,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "de golpe apaga",
+   "r": [
+    251,
+    338,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "de golpe apaga",
+   "r": [
+    251,
+    338,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "de golpe apaga cabeza.",
+   "r": [
+    251,
+    338,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "de golpe apaga cabeza.",
+   "r": [
+    251,
+    338,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Recorriendo",
+   "r": [
+    159,
+    339,
+    627,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Recorriendo",
+   "r": [
+    159,
+    339,
+    627,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Recorriendo",
+   "r": [
+    159,
+    339,
+    627,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Recorriendo brazos,",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Recorriendo brazos,",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Recorriendo brazos,",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "órganos",
+   "r": [
+    196,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "órganos",
+   "r": [
+    196,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "órganos y",
+   "r": [
+    196,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "órganos y piernas",
+   "r": [
+    196,
+    338,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "órganos y piernas de",
+   "r": [
+    196,
+    338,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "un",
+   "r": [
+    177,
+    339,
+    270,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "un adulto",
+   "r": [
+    177,
+    339,
+    525,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "un adulto estándar.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "un adulto estándar.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "un adulto estándar.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Circulan",
+   "r": [
+    269,
+    344,
+    553,
+    422
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Circulan",
+   "r": [
+    269,
+    344,
+    553,
+    422
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Circulan apenas",
+   "r": [
+    269,
+    344,
+    811,
+    422
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Circulan apenas cuatro",
+   "r": [
+    157,
+    344,
+    811,
+    497
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Circulan apenas cuatro",
+   "r": [
+    157,
+    344,
+    811,
+    497
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Circulan apenas cuatro gramos",
+   "r": [
+    157,
+    344,
+    811,
+    501
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Circulan apenas cuatro gramos totales",
+   "r": [
+    157,
+    344,
+    923,
+    501
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Circulan apenas cuatro gramos totales",
+   "r": [
+    157,
+    344,
+    923,
+    501
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "de",
+   "r": [
+    240,
+    339,
+    332,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "de glucosa",
+   "r": [
+    240,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "de glucosa",
+   "r": [
+    240,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "de glucosa en tu",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "de glucosa en tu sangre.",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "de glucosa en tu sangre.",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "4 g",
+   "r": [
+    600,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "Equivale",
+   "r": [
+    170,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Equivale",
+   "r": [
+    170,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Equivale justo",
+   "r": [
+    170,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Equivale justo",
+   "r": [
+    170,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Equivale justo a",
+   "r": [
+    170,
+    339,
+    755,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "cucharadita",
+   "r": [
+    206,
+    338,
+    685,
+    423
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "cucharadita",
+   "r": [
+    206,
+    338,
+    685,
+    423
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "cucharadita",
+   "r": [
+    206,
+    338,
+    685,
+    423
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "cucharadita rasa",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "cucharadita rasa",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "cucharadita rasa disuelta",
+   "r": [
+    206,
+    338,
+    874,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "cucharadita rasa disuelta",
+   "r": [
+    206,
+    338,
+    874,
+    514
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "cucharadita rasa disuelta en",
+   "r": [
+    206,
+    338,
+    874,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "todo",
+   "r": [
+    292,
+    339,
+    461,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "todo tu",
+   "r": [
+    292,
+    339,
+    555,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "todo tu riego.",
+   "r": [
+    292,
+    339,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "todo tu riego.",
+   "r": [
+    292,
+    339,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Al",
+   "r": [
+    264,
+    339,
+    339,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Al comer",
+   "r": [
+    264,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Al comer entra",
+   "r": [
+    264,
+    339,
+    816,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Al comer entra",
+   "r": [
+    264,
+    339,
+    816,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Al comer entra insulina",
+   "r": [
+    264,
+    339,
+    816,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Al comer entra insulina",
+   "r": [
+    264,
+    339,
+    816,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Al comer entra insulina",
+   "r": [
+    264,
+    339,
+    816,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "enviando",
+   "r": [
+    151,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "enviando el",
+   "r": [
+    151,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "enviando el sobrante",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "enviando el sobrante",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "enviando el sobrante al",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "músculo",
+   "r": [
+    198,
+    338,
+    533,
+    423
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "músculo",
+   "r": [
+    198,
+    338,
+    533,
+    423
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "músculo e",
+   "r": [
+    198,
+    338,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "músculo e hígado.",
+   "r": [
+    198,
+    338,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "músculo e hígado.",
+   "r": [
+    198,
+    338,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "De noche",
+   "r": [
+    151,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "De noche",
+   "r": [
+    151,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "De noche el",
+   "r": [
+    151,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "De noche el glucagón",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "De noche el glucagón",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "De noche el glucagón",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "ordena",
+   "r": [
+    230,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "ordena",
+   "r": [
+    230,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "ordena al hígado",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "ordena al hígado soltar",
+   "r": [
+    230,
+    339,
+    850,
+    510
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "ordena al hígado soltar",
+   "r": [
+    230,
+    339,
+    850,
+    510
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "gota",
+   "r": [
+    164,
+    339,
+    333,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    959,
+    950,
+    1021
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "gota",
+   "r": [
+    164,
+    339,
+    333,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    950,
+    950,
+    1012
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "gota medida",
+   "r": [
+    164,
+    339,
+    622,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    941,
+    950,
+    1003
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "gota medida",
+   "r": [
+    164,
+    339,
+    622,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    932,
+    950,
+    994
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "gota medida exacta.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    924,
+    950,
+    986
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "gota medida exacta.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    916,
+    950,
+    978
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "gota medida exacta.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    909,
+    950,
+    971
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Meter",
+   "r": [
+    159,
+    339,
+    394,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Hígado vigila",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Meter tragos",
+   "r": [
+    159,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Meter tragos dulces",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Meter tragos dulces",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Meter tragos dulces seguidos",
+   "r": [
+    159,
+    339,
+    921,
+    510
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Meter tragos dulces seguidos",
+   "r": [
+    159,
+    339,
+    921,
+    510
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Meter tragos dulces seguidos fuerza",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Meter tragos dulces seguidos fuerza",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "ese",
+   "r": [
+    255,
+    339,
+    388,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "ese sistema",
+   "r": [
+    255,
+    339,
+    700,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "ese sistema",
+   "r": [
+    255,
+    339,
+    700,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "ese sistema sin descanso.",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "ese sistema sin descanso.",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "ese sistema sin descanso.",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "ese sistema sin descanso.",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a quien alucina",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a quien alucina",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien alucina",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "viendo",
+   "r": [
+    172,
+    339,
+    419,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "viendo",
+   "r": [
+    172,
+    339,
+    419,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "viendo cómo",
+   "r": [
+    172,
+    338,
+    656,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "viendo cómo ajusta",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "viendo cómo ajusta el",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "cuerpo",
+   "r": [
+    168,
+    339,
+    435,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "cuerpo cada",
+   "r": [
+    168,
+    339,
+    633,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "cuerpo cada",
+   "r": [
+    168,
+    339,
+    633,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "cuerpo cada gramo.",
+   "r": [
+    168,
+    339,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "cuerpo cada gramo.",
+   "r": [
+    168,
+    339,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "cuerpo cada gramo.",
+   "r": [
+    168,
+    339,
+    912,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 701,
+  "texto": "Miras un terrón pequeño de azúcar blanco encima de la encimera. Parece una pizca ridícula frente a toda la sangre del cuerpo. Pero dentro de tus venas el cuerpo vigila glucosa al milímetro. Si sube mucho daña vasos finos y si cae de golpe apaga cabeza. Recorriendo brazos, órganos y piernas de un adulto estándar. Circulan apenas cuatro gramos totales de glucosa en tu sangre. Equivale justo a una cucharadita rasa disuelta en todo tu riego. Al comer entra insulina enviando el sobrante al músculo e hígado. De noche el glucagón ordena al hígado soltar gota medida exacta. Meter tragos dulces seguidos fuerza ese sistema sin descanso. Mándaselo a quien alucina viendo cómo ajusta el cuerpo cada gramo.",
+  "inicio_s": 0.0503,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Miras un terrón pequeño de azúcar blanco encima de la encimera.",
+    "t0": 0.021,
+    "t1": 3.046
+   },
+   {
+    "texto": "Parece una pizca ridícula frente a toda la sangre del cuerpo.",
+    "t0": 3.276,
+    "t1": 6.423
+   },
+   {
+    "texto": "Pero dentro de tus venas el cuerpo vigila glucosa al milímetro.",
+    "t0": 6.581,
+    "t1": 10.211
+   },
+   {
+    "texto": "Si sube mucho daña vasos finos y si cae de golpe apaga cabeza.",
+    "t0": 10.431,
+    "t1": 14.471
+   },
+   {
+    "texto": "Recorriendo brazos, órganos y piernas de un adulto estándar.",
+    "t0": 14.681,
+    "t1": 18.041
+   },
+   {
+    "texto": "Circulan apenas cuatro gramos totales de glucosa en tu sangre.",
+    "t0": 18.231,
+    "t1": 21.351
+   },
+   {
+    "texto": "Equivale justo a una cucharadita rasa disuelta en todo tu riego.",
+    "t0": 21.671,
+    "t1": 25.391
+   },
+   {
+    "texto": "Al comer entra insulina enviando el sobrante al músculo e hígado.",
+    "t0": 25.586,
+    "t1": 29.346
+   },
+   {
+    "texto": "De noche el glucagón ordena al hígado soltar gota medida exacta.",
+    "t0": 29.496,
+    "t1": 33.376
+   },
+   {
+    "texto": "Meter tragos dulces seguidos fuerza ese sistema sin descanso.",
+    "t0": 33.696,
+    "t1": 36.856
+   },
+   {
+    "texto": "Mándaselo a quien alucina viendo cómo ajusta el cuerpo cada gramo.",
+    "t0": 37.141,
+    "t1": 40.768
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 3,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.486,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.146,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.783,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.103,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 7.571,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.601,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.111,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.531,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.466,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.116,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.141,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yh_glucosa_sangre_cuatro_gramos.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#D94B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#D94B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#D94B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.7,
+   "render": 121.3,
+   "mezcla": 14.6
+  },
+  "escena_js": "tr"
+ }
+}

@@ -1,0 +1,2544 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.23,
+ "tamano_mb": 10.56,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 97.8,
+ "fotogramas": 1205,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Abres",
+   "r": [
+    246,
+    339,
+    471,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Abres",
+   "r": [
+    246,
+    339,
+    471,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Abres la nevera",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Abres la nevera",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Abres la nevera preparando",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Abres la nevera preparando",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Abres la nevera preparando la",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "merienda",
+   "r": [
+    211,
+    338,
+    587,
+    423
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "merienda infantil",
+   "r": [
+    211,
+    338,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "merienda infantil",
+   "r": [
+    211,
+    338,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "merienda infantil con",
+   "r": [
+    211,
+    338,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "merienda infantil con vasitos.",
+   "r": [
+    211,
+    338,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "merienda infantil con vasitos.",
+   "r": [
+    211,
+    338,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "merienda infantil con vasitos.",
+   "r": [
+    211,
+    338,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "La",
+   "r": [
+    242,
+    339,
+    330,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "La caja",
+   "r": [
+    242,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Formato peque",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La caja promete",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La caja promete",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La caja promete",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La caja promete calcio",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "vitaminas",
+   "r": [
+    282,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "vitaminas",
+   "r": [
+    282,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "vitaminas",
+   "r": [
+    282,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "vitaminas con",
+   "r": [
+    282,
+    339,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "vitaminas con dibujos",
+   "r": [
+    147,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "vitaminas con dibujos",
+   "r": [
+    147,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "vitaminas con dibujos muy",
+   "r": [
+    147,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "vitaminas con dibujos muy alegres.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "vitaminas con dibujos muy alegres.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "vitaminas con dibujos muy alegres.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "Parece",
+   "r": [
+    237,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Parece inocente",
+   "r": [
+    237,
+    339,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Parece inocente",
+   "r": [
+    237,
+    339,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Parece inocente",
+   "r": [
+    237,
+    339,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Parece inocente porque",
+   "r": [
+    154,
+    339,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Parece inocente porque cada",
+   "r": [
+    154,
+    339,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Parece inocente porque cada",
+   "r": [
+    154,
+    339,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Parece inocente porque cada tarrina",
+   "r": [
+    154,
+    339,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "pequeña",
+   "r": [
+    196,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "pequeña",
+   "r": [
+    196,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    870,
+    950,
+    932
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "pequeña pesa",
+   "r": [
+    196,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    882,
+    950,
+    944
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "pequeña pesa",
+   "r": [
+    196,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    893,
+    950,
+    955
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "pequeña pesa muy",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    904,
+    950,
+    966
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "pequeña pesa muy poco.",
+   "r": [
+    196,
+    339,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    915,
+    950,
+    977
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "pequeña pesa muy poco.",
+   "r": [
+    196,
+    339,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    926,
+    950,
+    988
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Pero",
+   "r": [
+    199,
+    339,
+    378,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Casi postre",
+   "r": [
+    652,
+    932,
+    950,
+    994
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Pero sumar",
+   "r": [
+    199,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Pero sumar",
+   "r": [
+    199,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Pero sumar vasito",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Pero sumar vasito",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Pero sumar vasito diario",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Pero sumar vasito diario",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "con batido",
+   "r": [
+    162,
+    338,
+    570,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "con batido",
+   "r": [
+    162,
+    338,
+    570,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "con batido de cacao",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "con batido de cacao",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "con batido de cacao",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "sube",
+   "r": [
+    169,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "sube",
+   "r": [
+    169,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "sube mucho",
+   "r": [
+    169,
+    339,
+    614,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "sube mucho azúcar.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "sube mucho azúcar.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "sube mucho azúcar.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Al revisar",
+   "r": [
+    178,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Al revisar",
+   "r": [
+    178,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Al revisar quesitos",
+   "r": [
+    178,
+    338,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Al revisar quesitos",
+   "r": [
+    178,
+    338,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Al revisar quesitos infantiles",
+   "r": [
+    164,
+    338,
+    902,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Al revisar quesitos infantiles",
+   "r": [
+    164,
+    338,
+    902,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Al revisar quesitos infantiles populares",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Al revisar quesitos infantiles populares",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Al revisar quesitos infantiles populares",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Al revisar quesitos infantiles populares",
+   "r": [
+    164,
+    338,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "salta",
+   "r": [
+    210,
+    339,
+    400,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "salta la",
+   "r": [
+    210,
+    339,
+    484,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "salta la cifra",
+   "r": [
+    210,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "salta la cifra real.",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "salta la cifra real.",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "El",
+   "r": [
+    292,
+    339,
+    360,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "El formato",
+   "r": [
+    292,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "El formato",
+   "r": [
+    292,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "El formato de chocolate",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "El formato de chocolate",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "con",
+   "r": [
+    213,
+    339,
+    347,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "con leche",
+   "r": [
+    213,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "con leche",
+   "r": [
+    213,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "con leche declara",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "con leche declara veintiún",
+   "r": [
+    213,
+    339,
+    867,
+    510
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "con leche declara veintiún",
+   "r": [
+    213,
+    339,
+    867,
+    510
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "con leche declara veintiún",
+   "r": [
+    213,
+    339,
+    867,
+    510
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "gramos",
+   "r": [
+    229,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "21",
+   "r": [
+    492,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "gramos por",
+   "r": [
+    229,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "21",
+   "r": [
+    492,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "gramos por cien.",
+   "r": [
+    229,
+    339,
+    851,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "21",
+   "r": [
+    492,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "gramos por cien.",
+   "r": [
+    229,
+    339,
+    851,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "21",
+   "r": [
+    492,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Las",
+   "r": [
+    282,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "21",
+   "r": [
+    60,
+    634,
+    518,
+    734
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Las versiones",
+   "r": [
+    282,
+    339,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "21",
+   "r": [
+    60,
+    649,
+    518,
+    749
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Las versiones clásicas",
+   "r": [
+    213,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "21",
+   "r": [
+    60,
+    664,
+    518,
+    764
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Las versiones clásicas",
+   "r": [
+    213,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "21",
+   "r": [
+    63,
+    678,
+    521,
+    778
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Las versiones clásicas",
+   "r": [
+    213,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "21",
+   "r": [
+    64,
+    692,
+    522,
+    792
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Las versiones clásicas de fresa",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Las versiones clásicas de fresa",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "rondan",
+   "r": [
+    246,
+    339,
+    515,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "rondan",
+   "r": [
+    246,
+    339,
+    515,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "rondan también",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "rondan también",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "rondan también niveles",
+   "r": [
+    227,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "rondan también niveles notables.",
+   "r": [
+    227,
+    339,
+    853,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "rondan también niveles notables.",
+   "r": [
+    227,
+    339,
+    853,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "rondan también niveles notables.",
+   "r": [
+    227,
+    339,
+    853,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Un",
+   "r": [
+    229,
+    339,
+    326,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Un brik",
+   "r": [
+    229,
+    338,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Un brik pequeño",
+   "r": [
+    229,
+    338,
+    851,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Un brik pequeño",
+   "r": [
+    229,
+    338,
+    851,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Un brik pequeño comercial",
+   "r": [
+    229,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Un brik pequeño comercial",
+   "r": [
+    229,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Un brik pequeño comercial añade",
+   "r": [
+    229,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Un brik pequeño comercial añade",
+   "r": [
+    229,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "otro",
+   "r": [
+    215,
+    339,
+    377,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "otro",
+   "r": [
+    215,
+    339,
+    377,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "otro golpe",
+   "r": [
+    215,
+    339,
+    596,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "otro golpe líquido",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "otro golpe líquido",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "otro golpe líquido equivalente.",
+   "r": [
+    215,
+    339,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "otro golpe líquido equivalente.",
+   "r": [
+    215,
+    339,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "otro golpe líquido equivalente.",
+   "r": [
+    215,
+    339,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "Queso",
+   "r": [
+    165,
+    339,
+    400,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Queso fresco",
+   "r": [
+    165,
+    339,
+    662,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Queso fresco",
+   "r": [
+    165,
+    339,
+    662,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Queso fresco batido",
+   "r": [
+    165,
+    339,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Queso fresco batido",
+   "r": [
+    165,
+    339,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Queso fresco batido con fresas",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Queso fresco batido con fresas",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "trituradas",
+   "r": [
+    222,
+    338,
+    633,
+    423
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "trituradas",
+   "r": [
+    222,
+    338,
+    633,
+    423
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "trituradas",
+   "r": [
+    222,
+    338,
+    633,
+    423
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "trituradas tarda",
+   "r": [
+    222,
+    338,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Opción simple",
+   "r": [
+    414,
+    916,
+    758,
+    978
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "trituradas tarda nada",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Opción simple",
+   "r": [
+    442,
+    901,
+    786,
+    963
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "trituradas tarda nada",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Opción simple",
+   "r": [
+    471,
+    886,
+    815,
+    948
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "trituradas tarda nada en casa.",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Opción simple",
+   "r": [
+    501,
+    871,
+    845,
+    933
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "trituradas tarda nada en casa.",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Opción simple",
+   "r": [
+    533,
+    857,
+    877,
+    919
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Educar",
+   "r": [
+    201,
+    339,
+    468,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Opción simple",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Educar",
+   "r": [
+    201,
+    339,
+    468,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Opción simple",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Educar el",
+   "r": [
+    201,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Opción simple",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Educar el paladar",
+   "r": [
+    201,
+    338,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Educar el paladar infantil",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Educar el paladar infantil",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Educar el paladar infantil",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Educar el paladar infantil lejos",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "del",
+   "r": [
+    157,
+    339,
+    271,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "del dulce",
+   "r": [
+    157,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "del dulce",
+   "r": [
+    157,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "del dulce diario",
+   "r": [
+    157,
+    339,
+    728,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "del dulce diario",
+   "r": [
+    157,
+    339,
+    728,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "del dulce diario dura",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "del dulce diario dura siempre.",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "del dulce diario dura siempre.",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "del dulce diario dura siempre.",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    160,
+    339,
+    577,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo",
+   "r": [
+    160,
+    339,
+    577,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a padres",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a padres cercanos",
+   "r": [
+    160,
+    339,
+    920,
+    510
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo a padres cercanos",
+   "r": [
+    160,
+    339,
+    920,
+    510
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a padres cercanos",
+   "r": [
+    160,
+    339,
+    920,
+    510
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a padres cercanos buscando",
+   "r": [
+    160,
+    339,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a padres cercanos buscando",
+   "r": [
+    160,
+    339,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "meriendas",
+   "r": [
+    176,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "meriendas",
+   "r": [
+    176,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "meriendas fuera",
+   "r": [
+    176,
+    339,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "meriendas fuera de",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "meriendas fuera de envases.",
+   "r": [
+    176,
+    339,
+    904,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "meriendas fuera de envases.",
+   "r": [
+    176,
+    339,
+    904,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "meriendas fuera de envases.",
+   "r": [
+    176,
+    339,
+    904,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "meriendas fuera de envases.",
+   "r": [
+    176,
+    339,
+    904,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 693,
+  "texto": "Abres la nevera preparando la merienda infantil con vasitos. La caja promete calcio y vitaminas con dibujos muy alegres. Parece inocente porque cada tarrina pequeña pesa muy poco. Pero sumar vasito diario con batido de cacao sube mucho azúcar. Al revisar quesitos infantiles populares salta la cifra real. El formato de chocolate con leche declara veintiún gramos por cien. Las versiones clásicas de fresa rondan también niveles notables. Un brik pequeño comercial añade otro golpe líquido equivalente. Queso fresco batido con fresas trituradas tarda nada en casa. Educar el paladar infantil lejos del dulce diario dura siempre. Mándaselo a padres cercanos buscando meriendas fuera de envases.",
+  "inicio_s": 0.0533,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Abres la nevera preparando la merienda infantil con vasitos.",
+    "t0": 0.021,
+    "t1": 3.046
+   },
+   {
+    "texto": "La caja promete calcio y vitaminas con dibujos muy alegres.",
+    "t0": 3.286,
+    "t1": 6.766
+   },
+   {
+    "texto": "Parece inocente porque cada tarrina pequeña pesa muy poco.",
+    "t0": 6.921,
+    "t1": 10.141
+   },
+   {
+    "texto": "Pero sumar vasito diario con batido de cacao sube mucho azúcar.",
+    "t0": 10.361,
+    "t1": 14.361
+   },
+   {
+    "texto": "Al revisar quesitos infantiles populares salta la cifra real.",
+    "t0": 14.591,
+    "t1": 18.031
+   },
+   {
+    "texto": "El formato de chocolate con leche declara veintiún gramos por cien.",
+    "t0": 18.216,
+    "t1": 21.616
+   },
+   {
+    "texto": "Las versiones clásicas de fresa rondan también niveles notables.",
+    "t0": 21.821,
+    "t1": 25.181
+   },
+   {
+    "texto": "Un brik pequeño comercial añade otro golpe líquido equivalente.",
+    "t0": 25.436,
+    "t1": 28.876
+   },
+   {
+    "texto": "Queso fresco batido con fresas trituradas tarda nada en casa.",
+    "t0": 29.056,
+    "t1": 32.456
+   },
+   {
+    "texto": "Educar el paladar infantil lejos del dulce diario dura siempre.",
+    "t0": 32.661,
+    "t1": 36.221
+   },
+   {
+    "texto": "Mándaselo a padres cercanos buscando meriendas fuera de envases.",
+    "t0": 36.431,
+    "t1": 39.751
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.486,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.286,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.286,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.121,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.071,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.256,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.836,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.236,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.356,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.431,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ye_petit_suisse_batidos_infantiles.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#5DADE2",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#5DADE2",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#5DADE2",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#E74C3C",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.7,
+   "render": 121.7,
+   "mezcla": 15.2
+  },
+  "escena_js": "tr"
+ }
+}

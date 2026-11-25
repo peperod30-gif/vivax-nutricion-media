@@ -1,0 +1,2544 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.27,
+ "tamano_mb": 10.43,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 73.0,
+ "fotogramas": 1206,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Ves",
+   "r": [
+    278,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Ves",
+   "r": [
+    278,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Ves una",
+   "r": [
+    278,
+    339,
+    570,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Ves una barra",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Ves una barra oscura",
+   "r": [
+    278,
+    339,
+    802,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Ves una barra oscura",
+   "r": [
+    278,
+    339,
+    802,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "con semillas",
+   "r": [
+    300,
+    338,
+    780,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "con semillas",
+   "r": [
+    300,
+    338,
+    780,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "con semillas",
+   "r": [
+    300,
+    338,
+    780,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "con semillas creyendo",
+   "r": [
+    287,
+    338,
+    780,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "con semillas creyendo",
+   "r": [
+    287,
+    338,
+    780,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "con semillas creyendo que",
+   "r": [
+    287,
+    338,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "es",
+   "r": [
+    253,
+    339,
+    341,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "es pan",
+   "r": [
+    253,
+    339,
+    494,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "es pan integral.",
+   "r": [
+    253,
+    339,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "es pan integral.",
+   "r": [
+    253,
+    339,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Color oscuro",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Antes",
+   "r": [
+    231,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Color oscuro",
+   "r": [
+    629,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Antes",
+   "r": [
+    231,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Antes te",
+   "r": [
+    231,
+    339,
+    540,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Antes te vendían",
+   "r": [
+    231,
+    339,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Antes te vendían harina",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Antes te vendían harina blanca",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Antes te vendían harina blanca",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "pintada",
+   "r": [
+    193,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "pintada",
+   "r": [
+    193,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "pintada con",
+   "r": [
+    193,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "pintada con simple",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "pintada con simple",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "pintada con simple salvado",
+   "r": [
+    193,
+    339,
+    887,
+    510
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "pintada con simple salvado",
+   "r": [
+    193,
+    339,
+    887,
+    510
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "pintada con simple salvado suelto.",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "pintada con simple salvado suelto.",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "pintada con simple salvado suelto.",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "En España",
+   "r": [
+    150,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "En España",
+   "r": [
+    150,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "En España existe",
+   "r": [
+    150,
+    339,
+    774,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "En España existe",
+   "r": [
+    150,
+    339,
+    774,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "En España existe una norma",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "En España existe una norma",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "clara",
+   "r": [
+    334,
+    338,
+    552,
+    423
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "clara para",
+   "r": [
+    334,
+    338,
+    746,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "clara para",
+   "r": [
+    334,
+    338,
+    746,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Norma española",
+   "r": [
+    583,
+    672,
+    950,
+    734
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "clara para detectarlo",
+   "r": [
+    149,
+    338,
+    746,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Norma española",
+   "r": [
+    583,
+    679,
+    950,
+    741
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "clara para detectarlo",
+   "r": [
+    149,
+    338,
+    746,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Norma española",
+   "r": [
+    583,
+    686,
+    950,
+    748
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "clara para detectarlo sin",
+   "r": [
+    149,
+    338,
+    746,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Norma española",
+   "r": [
+    583,
+    692,
+    950,
+    754
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "clara para detectarlo sin dudar.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Norma española",
+   "r": [
+    583,
+    699,
+    950,
+    761
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "clara para detectarlo sin dudar.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Norma española",
+   "r": [
+    583,
+    704,
+    950,
+    766
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Desde",
+   "r": [
+    228,
+    339,
+    459,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Norma española",
+   "r": [
+    583,
+    713,
+    950,
+    775
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Desde el decreto",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Desde el decreto",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Desde el decreto oficial",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Desde el decreto oficial",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "de pan",
+   "r": [
+    172,
+    339,
+    417,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "de pan",
+   "r": [
+    172,
+    339,
+    417,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "de pan los",
+   "r": [
+    172,
+    339,
+    543,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "de pan los nombres",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "de pan los nombres",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "de pan los nombres",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "no engañan",
+   "r": [
+    216,
+    339,
+    644,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "no engañan",
+   "r": [
+    216,
+    339,
+    644,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "no engañan igual.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "no engañan igual.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Solo",
+   "r": [
+    154,
+    339,
+    318,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Solo cabe",
+   "r": [
+    154,
+    339,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Solo cabe llamar",
+   "r": [
+    154,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Solo cabe llamar",
+   "r": [
+    154,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Solo cabe llamar pan",
+   "r": [
+    154,
+    339,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Solo cabe llamar pan",
+   "r": [
+    154,
+    339,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Solo cabe llamar pan integral",
+   "r": [
+    154,
+    339,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Solo cabe llamar pan integral",
+   "r": [
+    154,
+    339,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "al hecho",
+   "r": [
+    155,
+    347,
+    416,
+    420
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "al hecho exclusivamente",
+   "r": [
+    155,
+    347,
+    925,
+    420
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "al hecho exclusivamente",
+   "r": [
+    155,
+    347,
+    925,
+    420
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "al hecho exclusivamente",
+   "r": [
+    155,
+    347,
+    925,
+    420
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "al hecho exclusivamente",
+   "r": [
+    155,
+    347,
+    925,
+    420
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "al hecho exclusivamente",
+   "r": [
+    155,
+    347,
+    925,
+    420
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "al hecho exclusivamente con grano.",
+   "r": [
+    155,
+    347,
+    925,
+    494
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "al hecho exclusivamente con grano.",
+   "r": [
+    155,
+    347,
+    925,
+    494
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "al hecho exclusivamente con grano.",
+   "r": [
+    155,
+    347,
+    925,
+    494
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Cien",
+   "r": [
+    159,
+    338,
+    343,
+    423
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Cien por",
+   "r": [
+    159,
+    338,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Cien por cien",
+   "r": [
+    159,
+    338,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Cien por cien harina",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Cien por cien harina",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "integral",
+   "r": [
+    242,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "integral exige",
+   "r": [
+    242,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "integral exige",
+   "r": [
+    242,
+    339,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "integral exige la",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "integral exige la normativa",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "100 %",
+   "r": [
+    425,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "integral exige la normativa",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "integral exige la normativa",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "para el",
+   "r": [
+    248,
+    339,
+    508,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "para el nombre.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "para el nombre.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Si mezcla",
+   "r": [
+    226,
+    338,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Si mezcla",
+   "r": [
+    226,
+    338,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Si mezcla harina",
+   "r": [
+    226,
+    338,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Si mezcla harina refinada",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Si mezcla harina refinada",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Si mezcla harina refinada",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Si mezcla harina refinada debe",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "aclarar",
+   "r": [
+    245,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "aclarar",
+   "r": [
+    245,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "aclarar abajo",
+   "r": [
+    245,
+    339,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "aclarar abajo el",
+   "r": [
+    245,
+    339,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "aclarar abajo el porcentaje",
+   "r": [
+    189,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "aclarar abajo el porcentaje",
+   "r": [
+    189,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "aclarar abajo el porcentaje",
+   "r": [
+    189,
+    339,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "aclarar abajo el porcentaje exacto.",
+   "r": [
+    189,
+    339,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "aclarar abajo el porcentaje exacto.",
+   "r": [
+    189,
+    339,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Varias",
+   "r": [
+    158,
+    347,
+    365,
+    420
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Varias",
+   "r": [
+    158,
+    347,
+    365,
+    420
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Varias marcas",
+   "r": [
+    158,
+    347,
+    617,
+    420
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Varias marcas",
+   "r": [
+    158,
+    347,
+    617,
+    420
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Varias marcas destacan",
+   "r": [
+    158,
+    347,
+    922,
+    420
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Varias marcas destacan",
+   "r": [
+    158,
+    347,
+    922,
+    420
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Varias marcas destacan grano",
+   "r": [
+    158,
+    347,
+    922,
+    494
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Varias marcas destacan grano",
+   "r": [
+    158,
+    347,
+    922,
+    494
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Varias marcas destacan grano delante",
+   "r": [
+    158,
+    347,
+    922,
+    494
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Varias marcas destacan grano delante",
+   "r": [
+    158,
+    347,
+    922,
+    494
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "para",
+   "r": [
+    197,
+    339,
+    375,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "para tapar",
+   "r": [
+    197,
+    339,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "para tapar su",
+   "r": [
+    197,
+    339,
+    705,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "para tapar su baja",
+   "r": [
+    197,
+    339,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "para tapar su baja cifra.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "para tapar su baja cifra.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Conviene",
+   "r": [
+    255,
+    339,
+    598,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Conviene",
+   "r": [
+    255,
+    339,
+    598,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Conviene mirar",
+   "r": [
+    255,
+    339,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Conviene mirar también",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Conviene mirar también la",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "sal",
+   "r": [
+    170,
+    339,
+    282,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "sal porque",
+   "r": [
+    170,
+    339,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "sal porque",
+   "r": [
+    170,
+    339,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "sal porque el molde",
+   "r": [
+    170,
+    338,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "sal porque el molde",
+   "r": [
+    170,
+    338,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "suele",
+   "r": [
+    206,
+    339,
+    408,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    791,
+    950,
+    853
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "suele cargar",
+   "r": [
+    206,
+    339,
+    682,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    778,
+    950,
+    840
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "suele cargar",
+   "r": [
+    206,
+    339,
+    682,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    764,
+    950,
+    826
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "suele cargar más.",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    751,
+    950,
+    813
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "suele cargar más.",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    739,
+    950,
+    801
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Leer",
+   "r": [
+    162,
+    339,
+    331,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Leer la",
+   "r": [
+    162,
+    339,
+    416,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Leer la línea",
+   "r": [
+    162,
+    339,
+    614,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Lee nombre exacto",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Leer la línea trasera",
+   "r": [
+    162,
+    339,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Leer la línea trasera",
+   "r": [
+    162,
+    339,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "ahorra",
+   "r": [
+    169,
+    339,
+    432,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "ahorra",
+   "r": [
+    169,
+    339,
+    432,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "ahorra pagar",
+   "r": [
+    169,
+    338,
+    690,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "ahorra pagar doble",
+   "r": [
+    169,
+    338,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "ahorra pagar doble",
+   "r": [
+    169,
+    338,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "ahorra pagar doble por",
+   "r": [
+    169,
+    338,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "simple",
+   "r": [
+    198,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "simple pan",
+   "r": [
+    198,
+    339,
+    596,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "simple pan blanco.",
+   "r": [
+    198,
+    339,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "simple pan blanco.",
+   "r": [
+    198,
+    339,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "simple pan blanco.",
+   "r": [
+    198,
+    339,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a quien compra",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo a quien compra cualquier",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a quien compra cualquier",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a quien compra cualquier",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "barra",
+   "r": [
+    219,
+    338,
+    456,
+    423
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "barra oscura",
+   "r": [
+    219,
+    338,
+    736,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "barra oscura",
+   "r": [
+    219,
+    338,
+    736,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "barra oscura sin",
+   "r": [
+    219,
+    338,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "barra oscura sin leer",
+   "r": [
+    219,
+    338,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "barra oscura sin leer detrás.",
+   "r": [
+    219,
+    338,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "barra oscura sin leer detrás.",
+   "r": [
+    219,
+    338,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "barra oscura sin leer detrás.",
+   "r": [
+    219,
+    338,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "barra oscura sin leer detrás.",
+   "r": [
+    219,
+    338,
+    861,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 704,
+  "texto": "Ves una barra oscura con semillas creyendo que es pan integral. Antes te vendían harina blanca pintada con simple salvado suelto. En España existe una norma clara para detectarlo sin dudar. Desde el decreto oficial de pan los nombres no engañan igual. Solo cabe llamar pan integral al hecho exclusivamente con grano. Cien por cien harina integral exige la normativa para el nombre. Si mezcla harina refinada debe aclarar abajo el porcentaje exacto. Varias marcas destacan grano delante para tapar su baja cifra. Conviene mirar también la sal porque el molde suele cargar más. Leer la línea trasera ahorra pagar doble por simple pan blanco. Mándaselo a quien compra cualquier barra oscura sin leer detrás.",
+  "inicio_s": 0.0475,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Ves una barra oscura con semillas creyendo que es pan integral.",
+    "t0": 0.021,
+    "t1": 3.461
+   },
+   {
+    "texto": "Antes te vendían harina blanca pintada con simple salvado suelto.",
+    "t0": 3.701,
+    "t1": 7.301
+   },
+   {
+    "texto": "En España existe una norma clara para detectarlo sin dudar.",
+    "t0": 7.501,
+    "t1": 10.686
+   },
+   {
+    "texto": "Desde el decreto oficial de pan los nombres no engañan igual.",
+    "t0": 10.846,
+    "t1": 14.206
+   },
+   {
+    "texto": "Solo cabe llamar pan integral al hecho exclusivamente con grano.",
+    "t0": 14.456,
+    "t1": 18.056
+   },
+   {
+    "texto": "Cien por cien harina integral exige la normativa para el nombre.",
+    "t0": 18.301,
+    "t1": 21.581
+   },
+   {
+    "texto": "Si mezcla harina refinada debe aclarar abajo el porcentaje exacto.",
+    "t0": 21.771,
+    "t1": 25.371
+   },
+   {
+    "texto": "Varias marcas destacan grano delante para tapar su baja cifra.",
+    "t0": 25.591,
+    "t1": 29.071
+   },
+   {
+    "texto": "Conviene mirar también la sal porque el molde suele cargar más.",
+    "t0": 29.361,
+    "t1": 32.561
+   },
+   {
+    "texto": "Leer la línea trasera ahorra pagar doble por simple pan blanco.",
+    "t0": 32.776,
+    "t1": 36.216
+   },
+   {
+    "texto": "Mándaselo a quien compra cualquier barra oscura sin leer detrás.",
+    "t0": 36.466,
+    "t1": 39.773
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.781,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.041,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.621,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.501,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.566,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.736,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.301,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.561,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.391,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.701,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.466,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ws_pan_integral_norma_cien_espanola.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#A67B5B",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#A67B5B",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4A7C59",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4A7C59",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#A67B5B",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#A67B5B",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#A67B5B",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#4A7C59",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#4A7C59",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#4A7C59",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#A67B5B",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.7,
+   "render": 91.3,
+   "mezcla": 15.0
+  },
+  "escena_js": "tr"
+ }
+}

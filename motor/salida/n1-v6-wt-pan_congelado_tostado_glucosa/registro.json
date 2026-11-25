@@ -1,0 +1,2558 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.07,
+ "tamano_mb": 10.67,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 66.7,
+ "fotogramas": 1230,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Compras",
+   "r": [
+    255,
+    339,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Compras",
+   "r": [
+    255,
+    339,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Compras barra",
+   "r": [
+    255,
+    339,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Compras barra",
+   "r": [
+    255,
+    339,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Compras barra entera,",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Compras barra entera,",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Compras barra entera,",
+   "r": [
+    255,
+    339,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "rebanas",
+   "r": [
+    196,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "rebanas",
+   "r": [
+    196,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "rebanas en",
+   "r": [
+    196,
+    339,
+    613,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "rebanas en casa",
+   "r": [
+    196,
+    338,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "rebanas en casa y",
+   "r": [
+    196,
+    338,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "guardas",
+   "r": [
+    185,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Rebanada al frío",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "guardas",
+   "r": [
+    185,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Rebanada al frío",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "guardas dentro",
+   "r": [
+    185,
+    339,
+    766,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Rebanada al frío",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "guardas dentro",
+   "r": [
+    185,
+    339,
+    766,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Rebanada al frío",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "guardas dentro del frío.",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Rebanada al frío",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "guardas dentro del frío.",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Rebanada al frío",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La",
+   "r": [
+    243,
+    339,
+    331,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Rebanada al frío",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La gente",
+   "r": [
+    243,
+    339,
+    558,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "La gente lo hace",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "La gente lo hace simplemente",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "La gente lo hace simplemente",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "La gente lo hace simplemente",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "para",
+   "r": [
+    156,
+    339,
+    335,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "para",
+   "r": [
+    156,
+    339,
+    335,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "para tener tostadas",
+   "r": [
+    156,
+    338,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "para tener tostadas",
+   "r": [
+    156,
+    338,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "para tener tostadas",
+   "r": [
+    156,
+    338,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "para tener tostadas rápidas",
+   "r": [
+    156,
+    338,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "para tener tostadas rápidas",
+   "r": [
+    156,
+    338,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "para tener tostadas rápidas luego.",
+   "r": [
+    156,
+    338,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "para tener tostadas rápidas luego.",
+   "r": [
+    156,
+    338,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Sin",
+   "r": [
+    163,
+    339,
+    280,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Sin buscarlo",
+   "r": [
+    163,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Sin buscarlo",
+   "r": [
+    163,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Sin buscarlo alteras",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Sin buscarlo alteras",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Sin buscarlo alteras parte",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Sin buscarlo alteras parte",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "la",
+   "r": [
+    282,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "la estructura",
+   "r": [
+    282,
+    338,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "la estructura",
+   "r": [
+    282,
+    338,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "la estructura interna",
+   "r": [
+    172,
+    338,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Menos pico",
+   "r": [
+    675,
+    829,
+    950,
+    891
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "la estructura interna",
+   "r": [
+    172,
+    338,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Menos pico",
+   "r": [
+    675,
+    843,
+    950,
+    905
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "la estructura interna del almidón.",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Menos pico",
+   "r": [
+    675,
+    851,
+    950,
+    913
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "la estructura interna del almidón.",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Menos pico",
+   "r": [
+    675,
+    860,
+    950,
+    922
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "la estructura interna del almidón.",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Menos pico",
+   "r": [
+    675,
+    867,
+    950,
+    929
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Al enfriar",
+   "r": [
+    179,
+    339,
+    537,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Menos pico",
+   "r": [
+    675,
+    873,
+    950,
+    935
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Al enfriar",
+   "r": [
+    179,
+    339,
+    537,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Menos pico",
+   "r": [
+    663,
+    879,
+    938,
+    941
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Al enfriar bajo",
+   "r": [
+    179,
+    339,
+    713,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Menos pico",
+   "r": [
+    647,
+    884,
+    922,
+    946
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Al enfriar bajo cero",
+   "r": [
+    179,
+    339,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "y",
+   "r": [
+    165,
+    339,
+    206,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "y tostar",
+   "r": [
+    165,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "y tostar",
+   "r": [
+    165,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "y tostar después",
+   "r": [
+    165,
+    338,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "y tostar después",
+   "r": [
+    165,
+    338,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "y tostar después",
+   "r": [
+    165,
+    338,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "y tostar después un",
+   "r": [
+    165,
+    338,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "poco",
+   "r": [
+    214,
+    339,
+    396,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "poco se",
+   "r": [
+    214,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "poco se reordena",
+   "r": [
+    214,
+    339,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "poco se reordena",
+   "r": [
+    214,
+    339,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "poco se reordena firme.",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "poco se reordena firme.",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "poco se reordena firme.",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Compararon",
+   "r": [
+    227,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Compararon",
+   "r": [
+    227,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Compararon pan",
+   "r": [
+    227,
+    339,
+    853,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Compararon pan fresco",
+   "r": [
+    227,
+    339,
+    853,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Compararon pan fresco",
+   "r": [
+    227,
+    339,
+    853,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Compararon pan fresco del",
+   "r": [
+    227,
+    339,
+    853,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "día frente",
+   "r": [
+    325,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "día frente",
+   "r": [
+    325,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "día frente a congelarlo",
+   "r": [
+    325,
+    339,
+    755,
+    510
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "día frente a congelarlo",
+   "r": [
+    325,
+    339,
+    755,
+    510
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "día frente a congelarlo",
+   "r": [
+    325,
+    339,
+    755,
+    510
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "y",
+   "r": [
+    272,
+    339,
+    314,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "y tostar",
+   "r": [
+    272,
+    339,
+    565,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "y tostar luego.",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "y tostar luego.",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "La",
+   "r": [
+    296,
+    339,
+    384,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "La",
+   "r": [
+    296,
+    339,
+    384,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "La respuesta",
+   "r": [
+    296,
+    339,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "La respuesta glucémica",
+   "r": [
+    208,
+    339,
+    784,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "La respuesta glucémica",
+   "r": [
+    208,
+    339,
+    784,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "La respuesta glucémica bajó",
+   "r": [
+    208,
+    339,
+    784,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "La respuesta glucémica bajó de",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "doscientos",
+   "r": [
+    168,
+    338,
+    598,
+    423
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "doscientos",
+   "r": [
+    168,
+    338,
+    598,
+    423
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "doscientos",
+   "r": [
+    168,
+    338,
+    598,
+    423
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "doscientos sesenta",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "doscientos sesenta",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "doscientos sesenta a",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "doscientos sesenta a menos",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "doscientos sesenta a menos mitad.",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "doscientos sesenta a menos mitad.",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "doscientos sesenta a menos mitad.",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "157",
+   "r": [
+    536,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Incluso",
+   "r": [
+    217,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "157",
+   "r": [
+    63,
+    834,
+    477,
+    934
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Incluso",
+   "r": [
+    217,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "157",
+   "r": [
+    75,
+    847,
+    489,
+    947
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Incluso en",
+   "r": [
+    217,
+    339,
+    603,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Incluso en pan de",
+   "r": [
+    217,
+    339,
+    863,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "molde",
+   "r": [
+    274,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "molde tostado",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "molde tostado",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "molde tostado",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "molde tostado notaron",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "molde tostado notaron",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "molde tostado notaron caída",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "molde tostado notaron caída",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "clara",
+   "r": [
+    251,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "clara de curva.",
+   "r": [
+    251,
+    338,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "clara de curva.",
+   "r": [
+    251,
+    338,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "clara de curva.",
+   "r": [
+    251,
+    338,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Conviene",
+   "r": [
+    170,
+    339,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Conviene prudencia",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Conviene prudencia",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Conviene prudencia",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Conviene prudencia porque",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Conviene prudencia porque fue",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Conviene prudencia porque fue una",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "prueba",
+   "r": [
+    209,
+    338,
+    500,
+    423
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "prueba corta",
+   "r": [
+    209,
+    338,
+    721,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "prueba corta",
+   "r": [
+    209,
+    338,
+    721,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "prueba corta con",
+   "r": [
+    209,
+    338,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "prueba corta con poca",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "prueba corta con poca gente.",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "prueba corta con poca gente.",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Sumar",
+   "r": [
+    183,
+    339,
+    432,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Sumar",
+   "r": [
+    183,
+    339,
+    432,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Sumar pan",
+   "r": [
+    183,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Sumar pan",
+   "r": [
+    183,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Sumar pan integral",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Sumar pan integral real",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "con",
+   "r": [
+    168,
+    339,
+    303,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "con oliva",
+   "r": [
+    168,
+    338,
+    519,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "con oliva y",
+   "r": [
+    168,
+    338,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "con oliva y proteína",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Pan integral",
+   "r": [
+    575,
+    887,
+    896,
+    949
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "con oliva y proteína",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Pan integral",
+   "r": [
+    599,
+    875,
+    920,
+    937
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "con oliva y proteína",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Pan integral",
+   "r": [
+    624,
+    864,
+    945,
+    926
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "rinde",
+   "r": [
+    213,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Pan integral",
+   "r": [
+    629,
+    852,
+    950,
+    914
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "rinde",
+   "r": [
+    213,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Pan integral",
+   "r": [
+    629,
+    841,
+    950,
+    903
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "rinde mucho",
+   "r": [
+    213,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Pan integral",
+   "r": [
+    629,
+    830,
+    950,
+    892
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "rinde mucho más.",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Pan integral",
+   "r": [
+    629,
+    819,
+    950,
+    881
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "rinde mucho más.",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Congelar",
+   "r": [
+    166,
+    344,
+    471,
+    422
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Congelar",
+   "r": [
+    166,
+    344,
+    471,
+    422
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Congelar",
+   "r": [
+    166,
+    344,
+    471,
+    422
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Congelar suma",
+   "r": [
+    166,
+    344,
+    666,
+    422
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Congelar suma ahorro",
+   "r": [
+    166,
+    344,
+    914,
+    422
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Congelar suma ahorro",
+   "r": [
+    166,
+    344,
+    914,
+    422
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Congelar suma ahorro sin desperdicio",
+   "r": [
+    166,
+    344,
+    914,
+    501
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Congelar suma ahorro sin desperdicio",
+   "r": [
+    166,
+    344,
+    914,
+    501
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Congelar suma ahorro sin desperdicio",
+   "r": [
+    166,
+    344,
+    914,
+    501
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "con",
+   "r": [
+    163,
+    339,
+    298,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "con un",
+   "r": [
+    163,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "con un pequeño",
+   "r": [
+    163,
+    339,
+    743,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "con un pequeño",
+   "r": [
+    163,
+    339,
+    743,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "con un pequeño plus",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "con un pequeño plus útil.",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "con un pequeño plus útil.",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "tira",
+   "r": [
+    233,
+    339,
+    372,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "tira media",
+   "r": [
+    233,
+    339,
+    615,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "tira media",
+   "r": [
+    233,
+    339,
+    615,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "tira media barra",
+   "r": [
+    233,
+    339,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "tira media barra cada",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "tira media barra cada",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "viernes",
+   "r": [
+    185,
+    338,
+    486,
+    423
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "viernes por",
+   "r": [
+    185,
+    338,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "viernes por miedo.",
+   "r": [
+    185,
+    338,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "viernes por miedo.",
+   "r": [
+    185,
+    338,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "viernes por miedo.",
+   "r": [
+    185,
+    338,
+    895,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 704,
+  "texto": "Compras barra entera, rebanas en casa y guardas dentro del frío. La gente lo hace simplemente para tener tostadas rápidas luego. Sin buscarlo alteras parte de la estructura interna del almidón. Al enfriar bajo cero y tostar después un poco se reordena firme. Compararon pan fresco del día frente a congelarlo y tostar luego. La respuesta glucémica bajó de doscientos sesenta a menos mitad. Incluso en pan de molde tostado notaron caída clara de curva. Conviene prudencia porque fue una prueba corta con poca gente. Sumar pan integral real con oliva y proteína rinde mucho más. Congelar suma ahorro sin desperdicio con un pequeño plus útil. Mándaselo a alguien que tira media barra cada viernes por miedo.",
+  "inicio_s": 0.0471,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Compras barra entera, rebanas en casa y guardas dentro del frío.",
+    "t0": 0.021,
+    "t1": 3.921
+   },
+   {
+    "texto": "La gente lo hace simplemente para tener tostadas rápidas luego.",
+    "t0": 4.101,
+    "t1": 7.341
+   },
+   {
+    "texto": "Sin buscarlo alteras parte de la estructura interna del almidón.",
+    "t0": 7.581,
+    "t1": 10.861
+   },
+   {
+    "texto": "Al enfriar bajo cero y tostar después un poco se reordena firme.",
+    "t0": 11.001,
+    "t1": 15.001
+   },
+   {
+    "texto": "Compararon pan fresco del día frente a congelarlo y tostar luego.",
+    "t0": 15.281,
+    "t1": 18.721
+   },
+   {
+    "texto": "La respuesta glucémica bajó de doscientos sesenta a menos mitad.",
+    "t0": 18.916,
+    "t1": 22.556
+   },
+   {
+    "texto": "Incluso en pan de molde tostado notaron caída clara de curva.",
+    "t0": 22.816,
+    "t1": 26.176
+   },
+   {
+    "texto": "Conviene prudencia porque fue una prueba corta con poca gente.",
+    "t0": 26.411,
+    "t1": 29.611
+   },
+   {
+    "texto": "Sumar pan integral real con oliva y proteína rinde mucho más.",
+    "t0": 29.871,
+    "t1": 33.511
+   },
+   {
+    "texto": "Congelar suma ahorro sin desperdicio con un pequeño plus útil.",
+    "t0": 33.816,
+    "t1": 37.296
+   },
+   {
+    "texto": "Mándaselo a alguien que tira media barra cada viernes por miedo.",
+    "t0": 37.431,
+    "t1": 40.591
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.481,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.581,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.861,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.061,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.801,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.281,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.476,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.136,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.371,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.771,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.431,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wt_pan_congelado_tostado_glucosa.json",
+  "paleta": "virales",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#7CA854"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#7CA854"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#7CA854"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.1,
+   "render": 85.0,
+   "mezcla": 14.7
+  },
+  "escena_js": "tr"
+ }
+}

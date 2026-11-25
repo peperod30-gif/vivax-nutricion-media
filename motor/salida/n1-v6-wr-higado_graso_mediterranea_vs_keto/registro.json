@@ -1,0 +1,2533 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.3,
+ "tamano_mb": 10.21,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 82.9,
+ "fotogramas": 1207,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Salen",
+   "r": [
+    157,
+    342,
+    355,
+    425
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Salen",
+   "r": [
+    157,
+    342,
+    355,
+    425
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Salen transaminasas",
+   "r": [
+    157,
+    340,
+    923,
+    425
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Salen transaminasas",
+   "r": [
+    157,
+    340,
+    923,
+    425
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Salen transaminasas",
+   "r": [
+    157,
+    340,
+    923,
+    425
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Salen transaminasas",
+   "r": [
+    157,
+    340,
+    923,
+    425
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Salen transaminasas algo",
+   "r": [
+    157,
+    340,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Salen transaminasas algo altas",
+   "r": [
+    157,
+    340,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Salen transaminasas algo altas",
+   "r": [
+    157,
+    340,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Salen transaminasas algo altas y",
+   "r": [
+    157,
+    340,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "creen",
+   "r": [
+    240,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "creen que",
+   "r": [
+    240,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "creen que basta",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Hígado graso",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "creen que basta quitar",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "creen que basta quitar",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "creen que basta quitar alcohol.",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "creen que basta quitar alcohol.",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "El",
+   "r": [
+    246,
+    339,
+    314,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "El hígado",
+   "r": [
+    246,
+    338,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "El hígado graso",
+   "r": [
+    246,
+    338,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "El hígado graso metabólico",
+   "r": [
+    246,
+    338,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "El hígado graso metabólico",
+   "r": [
+    246,
+    338,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "El hígado graso metabólico",
+   "r": [
+    246,
+    338,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "se",
+   "r": [
+    245,
+    339,
+    332,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "se liga",
+   "r": [
+    245,
+    339,
+    485,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "se liga directo",
+   "r": [
+    245,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "se liga directo",
+   "r": [
+    245,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "se liga directo a",
+   "r": [
+    245,
+    339,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "dieta",
+   "r": [
+    307,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "dieta y peso.",
+   "r": [
+    307,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "dieta y peso.",
+   "r": [
+    307,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "dieta y peso.",
+   "r": [
+    307,
+    339,
+    773,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Por redes",
+   "r": [
+    158,
+    339,
+    523,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Por redes",
+   "r": [
+    158,
+    339,
+    523,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Por redes aconsejan",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Por redes aconsejan",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Por redes aconsejan",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Por redes aconsejan cargar",
+   "r": [
+    158,
+    339,
+    922,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Por redes aconsejan cargar grasas",
+   "r": [
+    158,
+    339,
+    922,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Por redes aconsejan cargar grasas",
+   "r": [
+    158,
+    339,
+    922,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "quitando",
+   "r": [
+    259,
+    338,
+    611,
+    423
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "quitando",
+   "r": [
+    259,
+    338,
+    611,
+    423
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "quitando fruta",
+   "r": [
+    259,
+    338,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    751,
+    950,
+    813
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "quitando fruta entera",
+   "r": [
+    259,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    763,
+    950,
+    825
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "quitando fruta entera",
+   "r": [
+    259,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    771,
+    950,
+    833
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "quitando fruta entera fresca.",
+   "r": [
+    259,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    778,
+    950,
+    840
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "quitando fruta entera fresca.",
+   "r": [
+    259,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    785,
+    950,
+    847
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "quitando fruta entera fresca.",
+   "r": [
+    259,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    792,
+    950,
+    854
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Conviene",
+   "r": [
+    270,
+    342,
+    595,
+    425
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    800,
+    950,
+    862
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Conviene mirar",
+   "r": [
+    270,
+    342,
+    810,
+    425
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Resonancia hígado",
+   "r": [
+    513,
+    808,
+    950,
+    870
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Conviene mirar pruebas",
+   "r": [
+    151,
+    342,
+    810,
+    507
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Conviene mirar pruebas",
+   "r": [
+    151,
+    342,
+    810,
+    507
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Conviene mirar pruebas hechas",
+   "r": [
+    151,
+    342,
+    810,
+    507
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Conviene mirar pruebas hechas",
+   "r": [
+    151,
+    342,
+    810,
+    507
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Conviene mirar pruebas hechas justo",
+   "r": [
+    151,
+    342,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "sobre",
+   "r": [
+    240,
+    339,
+    458,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "sobre pacientes",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "sobre pacientes",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "sobre pacientes",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "sobre pacientes reales",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "sobre pacientes reales hoy.",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "sobre pacientes reales hoy.",
+   "r": [
+    240,
+    339,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Publicaron",
+   "r": [
+    258,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Publicaron",
+   "r": [
+    258,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Publicaron una",
+   "r": [
+    258,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Publicaron una síntesis",
+   "r": [
+    243,
+    339,
+    822,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Publicaron una síntesis",
+   "r": [
+    243,
+    339,
+    822,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Publicaron una síntesis enorme",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Publicaron una síntesis enorme",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "midiendo",
+   "r": [
+    161,
+    342,
+    484,
+    425
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "midiendo",
+   "r": [
+    161,
+    342,
+    484,
+    425
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "midiendo resonancia",
+   "r": [
+    161,
+    340,
+    919,
+    425
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "midiendo resonancia",
+   "r": [
+    161,
+    340,
+    919,
+    425
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "midiendo resonancia",
+   "r": [
+    161,
+    340,
+    919,
+    425
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "midiendo resonancia magnética.",
+   "r": [
+    161,
+    340,
+    919,
+    507
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "midiendo resonancia magnética.",
+   "r": [
+    161,
+    340,
+    919,
+    507
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "midiendo resonancia magnética.",
+   "r": [
+    161,
+    340,
+    919,
+    507
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "Con",
+   "r": [
+    220,
+    339,
+    363,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Con veinticuatro",
+   "r": [
+    220,
+    338,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Con veinticuatro",
+   "r": [
+    220,
+    338,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Con veinticuatro pruebas",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Con veinticuatro pruebas",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Con veinticuatro pruebas clínicas",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Con veinticuatro pruebas clínicas",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "destacó",
+   "r": [
+    286,
+    339,
+    587,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "destacó",
+   "r": [
+    286,
+    339,
+    587,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "destacó dieta",
+   "r": [
+    286,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "destacó dieta",
+   "r": [
+    286,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "destacó dieta mediterránea.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "-1,37",
+   "r": [
+    330,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "destacó dieta mediterránea.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "destacó dieta mediterránea.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "destacó dieta mediterránea.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "Bajó",
+   "r": [
+    298,
+    339,
+    463,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "Bajó la grasa",
+   "r": [
+    298,
+    339,
+    782,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Bajó la grasa",
+   "r": [
+    298,
+    339,
+    782,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Bajó la grasa hepática",
+   "r": [
+    298,
+    339,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Bajó la grasa hepática",
+   "r": [
+    298,
+    339,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "con",
+   "r": [
+    228,
+    339,
+    362,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "con oliva",
+   "r": [
+    228,
+    338,
+    578,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "con oliva virgen,",
+   "r": [
+    228,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "con oliva virgen,",
+   "r": [
+    228,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "con oliva virgen,",
+   "r": [
+    228,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "legumbre",
+   "r": [
+    158,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "legumbre",
+   "r": [
+    158,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "legumbre y pescado.",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "legumbre y pescado.",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "legumbre y pescado.",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "Opciones",
+   "r": [
+    212,
+    339,
+    557,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "Opciones",
+   "r": [
+    212,
+    339,
+    557,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Opciones altas",
+   "r": [
+    212,
+    339,
+    762,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Opciones altas en",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Opciones altas en grasa",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Opciones altas en grasa",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Opciones altas en grasa animal",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "fallaron",
+   "r": [
+    151,
+    339,
+    450,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "fallaron",
+   "r": [
+    151,
+    339,
+    450,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "fallaron moviendo",
+   "r": [
+    151,
+    338,
+    845,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "fallaron moviendo",
+   "r": [
+    151,
+    338,
+    845,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "fallaron moviendo la enzima",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "fallaron moviendo la enzima",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "fallaron moviendo la enzima ALT.",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "fallaron moviendo la enzima ALT.",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "fallaron moviendo la enzima ALT.",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "fallaron moviendo la enzima ALT.",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "Recortar",
+   "r": [
+    215,
+    339,
+    556,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "Recortar",
+   "r": [
+    215,
+    339,
+    556,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Recortar alcohol,",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Recortar alcohol,",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "azúcar",
+   "r": [
+    145,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "azúcar",
+   "r": [
+    145,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "azúcar libre",
+   "r": [
+    145,
+    339,
+    597,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "azúcar libre y exceso",
+   "r": [
+    145,
+    339,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "azúcar libre y exceso",
+   "r": [
+    145,
+    339,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "azúcar libre y exceso",
+   "r": [
+    145,
+    339,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "sigue",
+   "r": [
+    202,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "sigue",
+   "r": [
+    202,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "sigue siendo",
+   "r": [
+    202,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "sigue siendo pilar",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "sigue siendo pilar",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    748,
+    950,
+    810
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "sigue siendo pilar clínico.",
+   "r": [
+    202,
+    338,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    737,
+    950,
+    799
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "sigue siendo pilar clínico.",
+   "r": [
+    202,
+    338,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    726,
+    950,
+    788
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Acompañarlo",
+   "r": [
+    252,
+    342,
+    727,
+    425
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Acompañarlo",
+   "r": [
+    252,
+    342,
+    727,
+    425
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Acompañarlo",
+   "r": [
+    252,
+    342,
+    727,
+    425
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Acompañarlo de",
+   "r": [
+    252,
+    342,
+    828,
+    425
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Acompañarlo de patrón",
+   "r": [
+    157,
+    342,
+    828,
+    504
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Patrón mediterráneo",
+   "r": [
+    467,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Acompañarlo de patrón mediterráneo",
+   "r": [
+    157,
+    342,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Acompañarlo de patrón mediterráneo",
+   "r": [
+    157,
+    342,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Acompañarlo de patrón mediterráneo",
+   "r": [
+    157,
+    342,
+    923,
+    507
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "facilita",
+   "r": [
+    175,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "facilita",
+   "r": [
+    175,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "facilita",
+   "r": [
+    175,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "facilita mantener",
+   "r": [
+    175,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "facilita mantener",
+   "r": [
+    175,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "facilita mantener el hábito.",
+   "r": [
+    175,
+    339,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "facilita mantener el hábito.",
+   "r": [
+    175,
+    339,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a",
+   "r": [
+    190,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a quien mira",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "ecografía",
+   "r": [
+    157,
+    338,
+    544,
+    423
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "ecografía",
+   "r": [
+    157,
+    338,
+    544,
+    423
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "ecografía",
+   "r": [
+    157,
+    338,
+    544,
+    423
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "ecografía buscando",
+   "r": [
+    157,
+    338,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "ecografía buscando",
+   "r": [
+    157,
+    338,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "ecografía buscando",
+   "r": [
+    157,
+    338,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "ecografía buscando qué",
+   "r": [
+    157,
+    338,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "ecografía buscando qué cenar",
+   "r": [
+    157,
+    338,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "ecografía buscando qué cenar tranquilo.",
+   "r": [
+    157,
+    338,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "ecografía buscando qué cenar tranquilo.",
+   "r": [
+    157,
+    338,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "ecografía buscando qué cenar tranquilo.",
+   "r": [
+    157,
+    338,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "ecografía buscando qué cenar tranquilo.",
+   "r": [
+    157,
+    338,
+    923,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.2,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 698,
+  "texto": "Salen transaminasas algo altas y creen que basta quitar alcohol. El hígado graso metabólico se liga directo a dieta y peso. Por redes aconsejan cargar grasas quitando fruta entera fresca. Conviene mirar pruebas hechas justo sobre pacientes reales hoy. Publicaron una síntesis enorme midiendo resonancia magnética. Con veinticuatro pruebas clínicas destacó dieta mediterránea. Bajó la grasa hepática con oliva virgen, legumbre y pescado. Opciones altas en grasa animal fallaron moviendo la enzima ALT. Recortar alcohol, azúcar libre y exceso sigue siendo pilar clínico. Acompañarlo de patrón mediterráneo facilita mantener el hábito. Mándaselo a quien mira su ecografía buscando qué cenar tranquilo.",
+  "inicio_s": 0.0498,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Salen transaminasas algo altas y creen que basta quitar alcohol.",
+    "t0": 0.021,
+    "t1": 3.696
+   },
+   {
+    "texto": "El hígado graso metabólico se liga directo a dieta y peso.",
+    "t0": 3.881,
+    "t1": 7.081
+   },
+   {
+    "texto": "Por redes aconsejan cargar grasas quitando fruta entera fresca.",
+    "t0": 7.326,
+    "t1": 10.726
+   },
+   {
+    "texto": "Conviene mirar pruebas hechas justo sobre pacientes reales hoy.",
+    "t0": 11.006,
+    "t1": 14.206
+   },
+   {
+    "texto": "Publicaron una síntesis enorme midiendo resonancia magnética.",
+    "t0": 14.446,
+    "t1": 17.606
+   },
+   {
+    "texto": "Con veinticuatro pruebas clínicas destacó dieta mediterránea.",
+    "t0": 17.886,
+    "t1": 21.086
+   },
+   {
+    "texto": "Bajó la grasa hepática con oliva virgen, legumbre y pescado.",
+    "t0": 21.326,
+    "t1": 24.633
+   },
+   {
+    "texto": "Opciones altas en grasa animal fallaron moviendo la enzima ALT.",
+    "t0": 24.846,
+    "t1": 28.486
+   },
+   {
+    "texto": "Recortar alcohol, azúcar libre y exceso sigue siendo pilar clínico.",
+    "t0": 28.736,
+    "t1": 32.656
+   },
+   {
+    "texto": "Acompañarlo de patrón mediterráneo facilita mantener el hábito.",
+    "t0": 32.851,
+    "t1": 36.331
+   },
+   {
+    "texto": "Mándaselo a quien mira su ecografía buscando qué cenar tranquilo.",
+    "t0": 36.418,
+    "t1": 39.805
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.66,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 3,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.416,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.236,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.988,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.601,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 8.513,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.566,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.006,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.626,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 25.806,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.196,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.418,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wr_higado_graso_mediterranea_vs_keto.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.6,
+   "render": 103.4,
+   "mezcla": 14.2
+  },
+  "escena_js": "tr"
+ }
+}

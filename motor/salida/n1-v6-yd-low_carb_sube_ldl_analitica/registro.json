@@ -1,0 +1,2484 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.8,
+ "tamano_mb": 11.05,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 87.3,
+ "fotogramas": 1222,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Alguien",
+   "r": [
+    184,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Alguien",
+   "r": [
+    184,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Alguien corta",
+   "r": [
+    184,
+    339,
+    686,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Alguien corta",
+   "r": [
+    184,
+    339,
+    686,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Alguien corta pan y",
+   "r": [
+    184,
+    339,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Alguien corta pan y pasta",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "meses",
+   "r": [
+    208,
+    338,
+    469,
+    423
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "meses",
+   "r": [
+    208,
+    338,
+    469,
+    423
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "meses",
+   "r": [
+    208,
+    338,
+    469,
+    423
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "meses y presume",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "meses y presume",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "meses y presume triglicéridos",
+   "r": [
+    187,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "meses y presume triglicéridos",
+   "r": [
+    187,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "meses y presume triglicéridos",
+   "r": [
+    187,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "meses y presume triglicéridos",
+   "r": [
+    187,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "meses y presume triglicéridos bajos.",
+   "r": [
+    187,
+    338,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Efecto mixto",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "meses y presume triglicéridos bajos.",
+   "r": [
+    187,
+    338,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Quitar",
+   "r": [
+    202,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Quitar",
+   "r": [
+    202,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Quitar refinados",
+   "r": [
+    202,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Quitar refinados",
+   "r": [
+    202,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Quitar refinados y perder",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Quitar refinados y perder",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Quitar refinados y perder peso",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "suele",
+   "r": [
+    147,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "suele",
+   "r": [
+    147,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "suele desplomar",
+   "r": [
+    147,
+    338,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "suele desplomar",
+   "r": [
+    147,
+    338,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "suele desplomar esa",
+   "r": [
+    147,
+    338,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "suele desplomar esa cifra",
+   "r": [
+    147,
+    338,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "suele desplomar esa cifra rápido.",
+   "r": [
+    147,
+    338,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "suele desplomar esa cifra rápido.",
+   "r": [
+    147,
+    338,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Pero",
+   "r": [
+    228,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Pero en",
+   "r": [
+    228,
+    339,
+    512,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Pero en consulta",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Pero en consulta",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Pero en consulta leemos",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Pero en consulta leemos",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Pero en consulta leemos toda",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "la",
+   "r": [
+    271,
+    339,
+    340,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "la analítica",
+   "r": [
+    271,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "la analítica",
+   "r": [
+    271,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "la analítica sin",
+   "r": [
+    271,
+    339,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "la analítica sin taparnos",
+   "r": [
+    271,
+    339,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "la analítica sin taparnos",
+   "r": [
+    271,
+    339,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "la analítica sin taparnos ojos.",
+   "r": [
+    271,
+    339,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "la analítica sin taparnos ojos.",
+   "r": [
+    271,
+    339,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Sube en parte",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Juntaron",
+   "r": [
+    171,
+    342,
+    496,
+    425
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Juntaron",
+   "r": [
+    171,
+    342,
+    496,
+    425
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Juntaron decenas",
+   "r": [
+    171,
+    342,
+    808,
+    425
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Juntaron decenas",
+   "r": [
+    171,
+    342,
+    808,
+    425
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Juntaron decenas de",
+   "r": [
+    171,
+    342,
+    909,
+    425
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Juntaron decenas de trabajos",
+   "r": [
+    156,
+    342,
+    909,
+    507
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Juntaron decenas de trabajos controlados",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Juntaron decenas de trabajos controlados",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Juntaron decenas de trabajos controlados",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "midiendo",
+   "r": [
+    153,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "midiendo",
+   "r": [
+    153,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "midiendo cambios",
+   "r": [
+    153,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "midiendo cambios",
+   "r": [
+    153,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "midiendo cambios en sangre.",
+   "r": [
+    153,
+    339,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "midiendo cambios en sangre.",
+   "r": [
+    153,
+    339,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "midiendo cambios en sangre.",
+   "r": [
+    153,
+    339,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Mientras",
+   "r": [
+    188,
+    339,
+    537,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Mientras bajaba",
+   "r": [
+    188,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Mientras bajaba la",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Mientras bajaba la tensión",
+   "r": [
+    188,
+    339,
+    892,
+    510
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Mientras bajaba la tensión",
+   "r": [
+    188,
+    339,
+    892,
+    510
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "subía",
+   "r": [
+    208,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "subía",
+   "r": [
+    208,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "subía HDL",
+   "r": [
+    208,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "subía HDL",
+   "r": [
+    208,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "subía HDL",
+   "r": [
+    208,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "subía HDL ocurrió",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "subía HDL ocurrió",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "subía HDL ocurrió otra",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "subía HDL ocurrió otra",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "subía HDL ocurrió otra sorpresa.",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "subía HDL ocurrió otra sorpresa.",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "subía HDL ocurrió otra sorpresa.",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Más",
+   "r": [
+    233,
+    339,
+    398,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Más de once",
+   "r": [
+    233,
+    338,
+    720,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Más de once",
+   "r": [
+    233,
+    338,
+    720,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Más de once mil",
+   "r": [
+    233,
+    338,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "adultos",
+   "r": [
+    171,
+    339,
+    454,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "adultos",
+   "r": [
+    171,
+    339,
+    454,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "adultos subieron",
+   "r": [
+    171,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "adultos subieron de",
+   "r": [
+    171,
+    339,
+    909,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "adultos subieron de media",
+   "r": [
+    171,
+    339,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "su",
+   "r": [
+    211,
+    339,
+    301,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "su colesterol",
+   "r": [
+    211,
+    339,
+    698,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "su colesterol",
+   "r": [
+    211,
+    339,
+    698,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "174",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "su colesterol LDL.",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "su colesterol LDL.",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "su colesterol LDL.",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "su colesterol LDL.",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Ese",
+   "r": [
+    209,
+    339,
+    342,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Ese brinco",
+   "r": [
+    209,
+    338,
+    618,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Ese brinco",
+   "r": [
+    209,
+    338,
+    618,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Ese brinco creció",
+   "r": [
+    209,
+    338,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Ese brinco creció mucho",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Ese brinco creció mucho",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Ese brinco creció mucho más",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "al subir",
+   "r": [
+    170,
+    339,
+    451,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "al subir mantequilla",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "al subir mantequilla",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "al subir mantequilla",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "al subir mantequilla y",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "al subir mantequilla y embutidos.",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "al subir mantequilla y embutidos.",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "al subir mantequilla y embutidos.",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "En unas",
+   "r": [
+    212,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "En unas personas",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "En unas personas",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "En unas personas varía",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "En unas personas varía",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "En unas personas varía poco,",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "En unas personas varía poco,",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "pero en",
+   "r": [
+    289,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "pero en otras",
+   "r": [
+    289,
+    339,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "pero en otras",
+   "r": [
+    289,
+    339,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "pero en otras dispara",
+   "r": [
+    173,
+    339,
+    791,
+    510
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "pero en otras dispara",
+   "r": [
+    173,
+    339,
+    791,
+    510
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "pero en otras dispara partículas.",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "pero en otras dispara partículas.",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "pero en otras dispara partículas.",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "pero en otras dispara partículas.",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Priorizar",
+   "r": [
+    246,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Priorizar",
+   "r": [
+    246,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Priorizar aceite",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Priorizar aceite virgen,",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Priorizar aceite virgen,",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Priorizar aceite virgen,",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "pescado",
+   "r": [
+    202,
+    338,
+    538,
+    423
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "pescado",
+   "r": [
+    202,
+    338,
+    538,
+    423
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "pescado y nueces",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    978,
+    950,
+    1040
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "pescado y nueces",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    967,
+    950,
+    1029
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "pescado y nueces",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    956,
+    950,
+    1018
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "modera",
+   "r": [
+    177,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    946,
+    950,
+    1008
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "modera esa",
+   "r": [
+    177,
+    339,
+    616,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    936,
+    950,
+    998
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "modera esa subida.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    927,
+    950,
+    989
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "modera esa subida.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    917,
+    950,
+    979
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "modera esa subida.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Medir en meses",
+   "r": [
+    583,
+    909,
+    950,
+    971
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Repetir",
+   "r": [
+    160,
+    339,
+    439,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Repetir",
+   "r": [
+    160,
+    339,
+    439,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Repetir análisis",
+   "r": [
+    160,
+    339,
+    746,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Repetir análisis",
+   "r": [
+    160,
+    339,
+    746,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Repetir análisis tras",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Repetir análisis tras meses",
+   "r": [
+    160,
+    339,
+    920,
+    510
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Repetir análisis tras meses",
+   "r": [
+    160,
+    339,
+    920,
+    510
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Repetir análisis tras meses evita",
+   "r": [
+    160,
+    339,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "cuidar",
+   "r": [
+    251,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "cuidar",
+   "r": [
+    251,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "cuidar dieta",
+   "r": [
+    251,
+    339,
+    703,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "cuidar dieta sin",
+   "r": [
+    251,
+    339,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "cuidar dieta sin mirar",
+   "r": [
+    251,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "cuidar dieta sin mirar arterias.",
+   "r": [
+    251,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "cuidar dieta sin mirar arterias.",
+   "r": [
+    251,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "cuidar dieta sin mirar arterias.",
+   "r": [
+    251,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "cuidar dieta sin mirar arterias.",
+   "r": [
+    251,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a quien carga",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a quien carga grasa",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien carga grasa",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "saturada",
+   "r": [
+    153,
+    338,
+    520,
+    423
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "saturada",
+   "r": [
+    153,
+    338,
+    520,
+    423
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "saturada sin",
+   "r": [
+    153,
+    338,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "saturada sin repetir",
+   "r": [
+    153,
+    338,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "saturada sin repetir",
+   "r": [
+    153,
+    338,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "saturada sin repetir análisis.",
+   "r": [
+    153,
+    338,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "saturada sin repetir análisis.",
+   "r": [
+    153,
+    338,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "saturada sin repetir análisis.",
+   "r": [
+    153,
+    338,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "saturada sin repetir análisis.",
+   "r": [
+    153,
+    338,
+    927,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 710,
+  "texto": "Alguien corta pan y pasta meses y presume triglicéridos bajos. Quitar refinados y perder peso suele desplomar esa cifra rápido. Pero en consulta leemos toda la analítica sin taparnos ojos. Juntaron decenas de trabajos controlados midiendo cambios en sangre. Mientras bajaba la tensión y subía hache de ele ocurrió otra sorpresa. Más de once mil adultos subieron de media su colesterol ele de ele. Ese brinco creció mucho más al subir mantequilla y embutidos. En unas personas varía poco, pero en otras dispara partículas. Priorizar aceite virgen, pescado y nueces modera esa subida. Repetir análisis tras meses evita cuidar dieta sin mirar arterias. Mándaselo a quien carga grasa saturada sin repetir análisis.",
+  "inicio_s": 0.0477,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Alguien corta pan y pasta meses y presume triglicéridos bajos.",
+    "t0": 0.021,
+    "t1": 3.696
+   },
+   {
+    "texto": "Quitar refinados y perder peso suele desplomar esa cifra rápido.",
+    "t0": 3.911,
+    "t1": 7.271
+   },
+   {
+    "texto": "Pero en consulta leemos toda la analítica sin taparnos ojos.",
+    "t0": 7.431,
+    "t1": 10.671
+   },
+   {
+    "texto": "Juntaron decenas de trabajos controlados midiendo cambios en sangre.",
+    "t0": 10.898,
+    "t1": 14.285
+   },
+   {
+    "texto": "Mientras bajaba la tensión y subía HDL ocurrió otra sorpresa.",
+    "t0": 14.548,
+    "t1": 18.281
+   },
+   {
+    "texto": "Más de once mil adultos subieron de media su colesterol LDL.",
+    "t0": 18.556,
+    "t1": 22.036
+   },
+   {
+    "texto": "Ese brinco creció mucho más al subir mantequilla y embutidos.",
+    "t0": 22.286,
+    "t1": 25.566
+   },
+   {
+    "texto": "En unas personas varía poco, pero en otras dispara partículas.",
+    "t0": 25.746,
+    "t1": 29.226
+   },
+   {
+    "texto": "Priorizar aceite virgen, pescado y nueces modera esa subida.",
+    "t0": 29.561,
+    "t1": 32.961
+   },
+   {
+    "texto": "Repetir análisis tras meses evita cuidar dieta sin mirar arterias.",
+    "t0": 33.221,
+    "t1": 36.901
+   },
+   {
+    "texto": "Mándaselo a quien carga grasa saturada sin repetir análisis.",
+    "t0": 37.171,
+    "t1": 40.318
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.5,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.7,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.416,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.956,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.791,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.911,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.271,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.321,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.836,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.176,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.586,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.381,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.171,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yd_low_carb_sube_ldl_analitica.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#D94B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#D94B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#D94B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.1,
+   "render": 110.5,
+   "mezcla": 16.0
+  },
+  "escena_js": "tr"
+ }
+}

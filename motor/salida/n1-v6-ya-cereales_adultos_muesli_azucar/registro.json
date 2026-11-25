@@ -1,0 +1,2554 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.33,
+ "tamano_mb": 10.79,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.8,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 67.2,
+ "fotogramas": 1238,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Dejas",
+   "r": [
+    327,
+    339,
+    536,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Dejas",
+   "r": [
+    327,
+    339,
+    536,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Dejas cajas",
+   "r": [
+    327,
+    339,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Dejas cajas",
+   "r": [
+    327,
+    339,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Dejas cajas infantiles",
+   "r": [
+    215,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Dejas cajas infantiles",
+   "r": [
+    215,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Dejas cajas infantiles",
+   "r": [
+    215,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Dejas cajas infantiles y",
+   "r": [
+    215,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Dejas cajas infantiles y eliges",
+   "r": [
+    215,
+    339,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "muesli",
+   "r": [
+    226,
+    338,
+    492,
+    423
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "muesli",
+   "r": [
+    226,
+    338,
+    492,
+    423
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "muesli adulto",
+   "r": [
+    226,
+    338,
+    748,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Envase adulto",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "muesli adulto",
+   "r": [
+    226,
+    338,
+    748,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Envase adulto",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "muesli adulto de bolsa",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Envase adulto",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "muesli adulto de bolsa",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Envase adulto",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "muesli adulto de bolsa verde.",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Envase adulto",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "muesli adulto de bolsa verde.",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Envase adulto",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "El toque",
+   "r": [
+    212,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Envase adulto",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "El toque",
+   "r": [
+    212,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Envase adulto",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "El toque crujiente",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "El toque crujiente",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "El toque crujiente con",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "El toque crujiente con quinoa",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "transmite",
+   "r": [
+    213,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "transmite",
+   "r": [
+    213,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "transmite",
+   "r": [
+    213,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "transmite imagen",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "transmite imagen",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "transmite imagen mucho",
+   "r": [
+    163,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "transmite imagen mucho",
+   "r": [
+    163,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "transmite imagen mucho más cuidada.",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "transmite imagen mucho más cuidada.",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "transmite imagen mucho más cuidada.",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Para",
+   "r": [
+    228,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Para lograr",
+   "r": [
+    228,
+    339,
+    661,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Para lograr esos",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Para lograr esos grumos",
+   "r": [
+    228,
+    339,
+    852,
+    510
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Para lograr esos grumos",
+   "r": [
+    228,
+    339,
+    852,
+    510
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Para lograr esos grumos",
+   "r": [
+    228,
+    339,
+    852,
+    510
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "bañan",
+   "r": [
+    189,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    832,
+    950,
+    894
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "bañan",
+   "r": [
+    189,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    843,
+    950,
+    905
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "bañan los copos",
+   "r": [
+    189,
+    339,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    855,
+    950,
+    917
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "bañan los copos",
+   "r": [
+    189,
+    339,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    866,
+    950,
+    928
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "aceite",
+   "r": [
+    253,
+    339,
+    487,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    878,
+    950,
+    940
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "aceite",
+   "r": [
+    253,
+    339,
+    487,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    889,
+    950,
+    951
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "aceite y",
+   "r": [
+    253,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Crunchy dulce",
+   "r": [
+    606,
+    901,
+    950,
+    963
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "aceite y jarabe.",
+   "r": [
+    253,
+    339,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "aceite y jarabe.",
+   "r": [
+    253,
+    339,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Al",
+   "r": [
+    185,
+    339,
+    261,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Al revisar",
+   "r": [
+    185,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Al revisar cereales",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Al revisar cereales",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Al revisar cereales",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Al revisar cereales adultos",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Al revisar cereales adultos",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Al revisar cereales adultos muy",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "vendidos",
+   "r": [
+    259,
+    338,
+    616,
+    423
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "vendidos",
+   "r": [
+    259,
+    338,
+    616,
+    423
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "vendidos salta",
+   "r": [
+    259,
+    338,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "vendidos salta",
+   "r": [
+    259,
+    338,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "vendidos salta sorpresa",
+   "r": [
+    250,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "vendidos salta sorpresa",
+   "r": [
+    250,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "vendidos salta sorpresa",
+   "r": [
+    250,
+    338,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "vendidos salta sorpresa clara.",
+   "r": [
+    250,
+    338,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "vendidos salta sorpresa clara.",
+   "r": [
+    250,
+    338,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Las",
+   "r": [
+    269,
+    339,
+    400,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Las bolsas",
+   "r": [
+    269,
+    339,
+    661,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Las bolsas con",
+   "r": [
+    269,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Las bolsas con chocolate",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Las bolsas con chocolate",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "frutas",
+   "r": [
+    172,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "frutas",
+   "r": [
+    172,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "frutas",
+   "r": [
+    172,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "frutas siguen",
+   "r": [
+    172,
+    338,
+    691,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "frutas siguen como",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "frutas siguen como postres",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "frutas siguen como postres",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "frutas siguen como postres ocultos.",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "frutas siguen como postres ocultos.",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "frutas siguen como postres ocultos.",
+   "r": [
+    172,
+    338,
+    908,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "El",
+   "r": [
+    283,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "El líder",
+   "r": [
+    283,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "El líder adulto",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "El líder adulto",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "El líder adulto declara",
+   "r": [
+    147,
+    339,
+    797,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "El líder adulto declara",
+   "r": [
+    147,
+    339,
+    797,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "El líder adulto declara veinticuatro",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "El líder adulto declara veinticuatro",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "El líder adulto declara veinticuatro",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "gramos",
+   "r": [
+    207,
+    339,
+    491,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "24",
+   "r": [
+    555,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "gramos",
+   "r": [
+    207,
+    339,
+    491,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "24",
+   "r": [
+    555,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "gramos de azúcar",
+   "r": [
+    207,
+    339,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "24",
+   "r": [
+    555,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "gramos de azúcar",
+   "r": [
+    207,
+    339,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "24",
+   "r": [
+    555,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "gramos de azúcar por",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "24",
+   "r": [
+    555,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "gramos de azúcar por cien.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "24",
+   "r": [
+    555,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Opciones",
+   "r": [
+    166,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "24",
+   "r": [
+    102,
+    625,
+    497,
+    725
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Opciones",
+   "r": [
+    166,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "24",
+   "r": [
+    111,
+    640,
+    506,
+    740
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Opciones",
+   "r": [
+    166,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "24",
+   "r": [
+    118,
+    654,
+    514,
+    754
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Opciones con frutas",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Opciones con frutas",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Opciones con frutas secas",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Opciones con frutas secas y",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "miel",
+   "r": [
+    149,
+    338,
+    325,
+    423
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "miel mantienen",
+   "r": [
+    149,
+    338,
+    734,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "miel mantienen",
+   "r": [
+    149,
+    338,
+    734,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "miel mantienen cifra",
+   "r": [
+    149,
+    338,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "miel mantienen cifra",
+   "r": [
+    149,
+    338,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "miel mantienen cifra dulce",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "miel mantienen cifra dulce",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "miel mantienen cifra dulce elevada.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "miel mantienen cifra dulce elevada.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "miel mantienen cifra dulce elevada.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Justo",
+   "r": [
+    182,
+    339,
+    391,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Justo debajo",
+   "r": [
+    182,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Justo debajo",
+   "r": [
+    182,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Justo debajo copos",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Justo debajo copos",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Justo debajo copos puros",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Justo debajo copos puros de",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "espelta",
+   "r": [
+    154,
+    340,
+    438,
+    421
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "espelta",
+   "r": [
+    154,
+    340,
+    438,
+    421
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "espelta llevan",
+   "r": [
+    154,
+    340,
+    665,
+    425
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "espelta llevan azúcar",
+   "r": [
+    154,
+    340,
+    926,
+    425
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "espelta llevan azúcar",
+   "r": [
+    154,
+    340,
+    926,
+    425
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "espelta llevan azúcar mínimo",
+   "r": [
+    154,
+    340,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "espelta llevan azúcar mínimo",
+   "r": [
+    154,
+    340,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "espelta llevan azúcar mínimo",
+   "r": [
+    154,
+    340,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "espelta llevan azúcar mínimo natural.",
+   "r": [
+    154,
+    340,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Añadir",
+   "r": [
+    167,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Añadir",
+   "r": [
+    167,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Añadir fruta",
+   "r": [
+    167,
+    339,
+    630,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Añadir fruta fresca,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Añadir fruta fresca,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Añadir fruta fresca,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "canela",
+   "r": [
+    235,
+    338,
+    505,
+    423
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "canela",
+   "r": [
+    235,
+    338,
+    505,
+    423
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "canela y nueces",
+   "r": [
+    235,
+    338,
+    845,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "canela y nueces",
+   "r": [
+    235,
+    338,
+    845,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "canela y nueces sabe",
+   "r": [
+    235,
+    338,
+    845,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "canela y nueces sabe",
+   "r": [
+    235,
+    338,
+    845,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Copos simples",
+   "r": [
+    394,
+    928,
+    738,
+    990
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "muchísimo",
+   "r": [
+    161,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Copos simples",
+   "r": [
+    417,
+    915,
+    761,
+    977
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "muchísimo",
+   "r": [
+    161,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Copos simples",
+   "r": [
+    441,
+    901,
+    785,
+    963
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "muchísimo",
+   "r": [
+    161,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Copos simples",
+   "r": [
+    466,
+    888,
+    811,
+    950
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "muchísimo más",
+   "r": [
+    161,
+    339,
+    733,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Copos simples",
+   "r": [
+    492,
+    875,
+    837,
+    937
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "muchísimo más rico.",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "muchísimo más rico.",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Pagar",
+   "r": [
+    244,
+    339,
+    470,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Pagar doble",
+   "r": [
+    244,
+    339,
+    690,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Pagar doble por",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Pagar doble por granola",
+   "r": [
+    217,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Pagar doble por granola",
+   "r": [
+    217,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Pagar doble por granola pegajosa",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Pagar doble por granola pegajosa",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Pagar doble por granola pegajosa",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "aporta",
+   "r": [
+    175,
+    338,
+    450,
+    423
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "aporta",
+   "r": [
+    175,
+    338,
+    450,
+    423
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "aporta bien",
+   "r": [
+    175,
+    338,
+    624,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "aporta bien poco",
+   "r": [
+    175,
+    338,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "aporta bien poco al",
+   "r": [
+    175,
+    338,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "aporta bien poco al desayuno.",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "aporta bien poco al desayuno.",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "aporta bien poco al desayuno.",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien desayuna",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a quien desayuna",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "muesli",
+   "r": [
+    229,
+    338,
+    495,
+    423
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "muesli",
+   "r": [
+    229,
+    338,
+    495,
+    423
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "muesli crujiente",
+   "r": [
+    229,
+    338,
+    851,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "muesli crujiente",
+   "r": [
+    229,
+    338,
+    851,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "muesli crujiente buscando",
+   "r": [
+    174,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "muesli crujiente buscando",
+   "r": [
+    174,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "muesli crujiente buscando cuidarse.",
+   "r": [
+    174,
+    338,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "muesli crujiente buscando cuidarse.",
+   "r": [
+    174,
+    338,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "muesli crujiente buscando cuidarse.",
+   "r": [
+    174,
+    338,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "muesli crujiente buscando cuidarse.",
+   "r": [
+    174,
+    338,
+    906,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.2,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 695,
+  "texto": "Dejas cajas infantiles y eliges muesli adulto de bolsa verde. El toque crujiente con quinoa transmite imagen mucho más cuidada. Para lograr esos grumos bañan los copos en aceite y jarabe. Al revisar cereales adultos muy vendidos salta sorpresa clara. Las bolsas con chocolate y frutas siguen como postres ocultos. El líder adulto declara veinticuatro gramos de azúcar por cien. Opciones con frutas secas y miel mantienen cifra dulce elevada. Justo debajo copos puros de espelta llevan azúcar mínimo natural. Añadir fruta fresca, canela y nueces sabe muchísimo más rico. Pagar doble por granola pegajosa aporta bien poco al desayuno. Mándaselo a quien desayuna muesli crujiente buscando cuidarse.",
+  "inicio_s": 0.048,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Dejas cajas infantiles y eliges muesli adulto de bolsa verde.",
+    "t0": 0.021,
+    "t1": 3.611
+   },
+   {
+    "texto": "El toque crujiente con quinoa transmite imagen mucho más cuidada.",
+    "t0": 3.826,
+    "t1": 7.386
+   },
+   {
+    "texto": "Para lograr esos grumos bañan los copos en aceite y jarabe.",
+    "t0": 7.676,
+    "t1": 10.956
+   },
+   {
+    "texto": "Al revisar cereales adultos muy vendidos salta sorpresa clara.",
+    "t0": 11.146,
+    "t1": 14.826
+   },
+   {
+    "texto": "Las bolsas con chocolate y frutas siguen como postres ocultos.",
+    "t0": 15.061,
+    "t1": 18.421
+   },
+   {
+    "texto": "El líder adulto declara veinticuatro gramos de azúcar por cien.",
+    "t0": 18.626,
+    "t1": 22.026
+   },
+   {
+    "texto": "Opciones con frutas secas y miel mantienen cifra dulce elevada.",
+    "t0": 22.186,
+    "t1": 25.666
+   },
+   {
+    "texto": "Justo debajo copos puros de espelta llevan azúcar mínimo natural.",
+    "t0": 25.991,
+    "t1": 29.711
+   },
+   {
+    "texto": "Añadir fruta fresca, canela y nueces sabe muchísimo más rico.",
+    "t0": 29.826,
+    "t1": 33.706
+   },
+   {
+    "texto": "Pagar doble por granola pegajosa aporta bien poco al desayuno.",
+    "t0": 33.966,
+    "t1": 37.486
+   },
+   {
+    "texto": "Mándaselo a quien desayuna muesli crujiente buscando cuidarse.",
+    "t0": 37.676,
+    "t1": 40.836
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.71,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 3,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.411,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.511,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.946,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.946,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 12.266,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.821,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.946,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.766,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.751,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.646,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.676,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ya_cereales_adultos_muesli_azucar.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D9B97A",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D9B97A",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D9B97A",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#4E9A51",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 12.7,
+   "render": 86.4,
+   "mezcla": 14.5
+  },
+  "escena_js": "tr"
+ }
+}
