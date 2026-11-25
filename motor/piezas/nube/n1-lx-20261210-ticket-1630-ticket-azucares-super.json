@@ -1,0 +1,81 @@
+{
+  "id": "n1-lx-20261210-ticket-1630-ticket-azucares-super",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-ticket",
+  "pilar": "ensenar",
+  "hechos": [
+    "SUP-050",
+    "SUP-049",
+    "SUP-047",
+    "SUP-041",
+    "SUP-039",
+    "AZU-001"
+  ],
+  "titulo": "[TICKET] Ticket del azúcar en etiquetas del súper",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "titulo": "Ticket del {azúcar} en etiquetas del súper",
+      "kicker": "Azúcares totales por 100 g",
+      "unidad": "g",
+      "filas": [
+        {
+          "nombre": "Minis leche Hacendado",
+          "valor": "35"
+        },
+        {
+          "nombre": "Nocilla ChocoMix",
+          "valor": "59"
+        },
+        {
+          "nombre": "Cacao Instant Hacendado",
+          "valor": "77"
+        },
+        {
+          "nombre": "Smacks de Kellogg's",
+          "valor": "34"
+        },
+        {
+          "nombre": "Mini Oreo",
+          "valor": "37"
+        }
+      ],
+      "respuesta": "Total*",
+      "etiqueta_si": "Pagado",
+      "fuentes": [
+        "*Aquí no se suma: se cobra la línea más alta."
+      ],
+      "resalte": "El dato que importa",
+      "titular": "El límite diario de la OMS",
+      "frase": "La OMS recomienda reducir el consumo diario de azúcares libres a menos del 10 % de la energía total.",
+      "fuente": "Etiquetas en Open Food Facts el 20/10/2026; son azúcares totales y las recetas pueden cambiar.",
+      "sigue": "Mándaselo a quien mira solo el precio en el súper.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+    }
+  ],
+  "pie_instagram": "Ticket del azúcar en etiquetas del súper 🧾\n\nPor cada 100 g, azúcares totales: minis leche Hacendado 35 g, nocilla ChocoMix 59 g, cacao Instant Hacendado 77 g, smacks de Kellogg's 34 g y mini Oreo 37 g.\nEn el ticket no se suma nada: cada línea es de 100 g de un alimento distinto, así que el total es la línea más alta.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nLa OMS recomienda reducir el consumo diario de azúcares libres a menos del 10 % de la energía total.\n\n¿Qué línea te ha sorprendido más?\nMándaselo a quien mira solo el precio en el súper. El viernes a debate: por qué los ultraprocesados hacen comer de más.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#supermercado #azucares #etiquetado #nutricion",
+  "alt": [
+    "Imagen en verde oliva con un ticket de caja de papel blanco, de bordes dentados, dibujado en línea fina negra. Debajo, un bloque en oliva oscuro. En lo alto del ticket, la firma Vivax Nutrición. Ticket del azúcar en etiquetas del súper. Azúcares totales por 100 g; cifras en g. Líneas en orden de caja, cada una con una barra proporcional: Minis leche Hacendado 35 g; Nocilla ChocoMix 59 g; Cacao Instant Hacendado 77 g; Smacks de Kellogg's 34 g; Mini Oreo 37 g. Total*: Cacao Instant Hacendado, 77 g, junto a un dibujo en línea de cacao Instant Hacendado y un sello que dice Pagado. *Aquí no se suma: se cobra la línea más alta. El dato que importa. El límite diario de la OMS. La OMS recomienda reducir el consumo diario de azúcares libres a menos del 10 % de la energía total. Etiquetas en Open Food Facts el 20/10/2026; son azúcares totales y las recetas pueden cambiar. Mándaselo a quien mira solo el precio en el súper. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-10",
+    "serie": "La cifra de la tarde",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "img_ticket",
+    "formato": "TICKET",
+    "lote": "lux-2026-12",
+    "hora": "16:30",
+    "nota": "plantilla img_ticket (tpl_img_ticket_lux.py)",
+    "pilar_plan": "Etiquetas reales",
+    "mecanica": "ticket",
+    "familia": "img_ranking",
+    "spec_id": "n1-lux-20261210-1630-ticket-azucares-super",
+    "frente": "publico"
+  },
+  "comentario": "Fuentes: Etiquetas consultadas en Open Food Facts el 20/10/2026 sobre productos AESAN/Kantar 2022 (SUP-039, SUP-041, SUP-047, SUP-049, SUP-050) y OMS 2015 (AZU-001). Es composición declarada por 100 g, no consejo de compra."
+}

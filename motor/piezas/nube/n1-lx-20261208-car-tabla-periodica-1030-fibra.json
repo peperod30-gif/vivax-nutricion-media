@@ -1,0 +1,262 @@
+{
+  "id": "n1-lx-20261208-car-tabla-periodica-1030-fibra",
+  "cuenta": "n1",
+  "formato": "carrusel",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-car-tabla-periodica",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-007",
+    "ALI-006",
+    "GAN-007"
+  ],
+  "titulo": "[CAR-TABLA-PERIODICA] ¿Qué casilla guarda más fibra?",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Aula Vivax · Tabla periódica",
+      "titulo": "¿Qué casilla guarda más {fibra}?",
+      "dato": "Número: g de fibra por cada 100 g",
+      "texto": "Apuesta por tu favorito antes de pasar.",
+      "filas": [
+        {
+          "cab": "Kw",
+          "valor": "?",
+          "nombre": "kiwi"
+        },
+        {
+          "cab": "Nu",
+          "valor": "?",
+          "nombre": "nueces"
+        },
+        {
+          "cab": "Gb",
+          "valor": "?",
+          "nombre": "garbanzos cocidos"
+        },
+        {
+          "cab": "Ad",
+          "valor": "?",
+          "nombre": "almendras"
+        },
+        {
+          "cab": "Ch",
+          "valor": "?",
+          "nombre": "semillas de chía"
+        },
+        {
+          "cab": "Cc",
+          "valor": "?",
+          "nombre": "cacahuetes"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Tabla periódica de la fibra",
+      "titulo": "Kiwi",
+      "dato": "Número: g de fibra por cada 100 g",
+      "filas": [
+        {
+          "cab": "Kw",
+          "valor": "3,0",
+          "nombre": "kiwi",
+          "texto": "masa: 100 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Tabla periódica de la fibra",
+      "titulo": "Nueces",
+      "dato": "Número: g de fibra por cada 100 g",
+      "filas": [
+        {
+          "cab": "Nu",
+          "valor": "6,7",
+          "nombre": "nueces",
+          "texto": "masa: 100 g"
+        },
+        {
+          "cab": "Gb",
+          "valor": "?"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Tabla periódica de la fibra",
+      "titulo": "Garbanzos cocidos",
+      "dato": "Número: g de fibra por cada 100 g",
+      "filas": [
+        {
+          "cab": "Gb",
+          "valor": "7,6",
+          "nombre": "garbanzos cocidos",
+          "texto": "masa: 100 g"
+        },
+        {
+          "cab": "Nu",
+          "valor": "6,7"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Tabla periódica de la fibra",
+      "titulo": "Cacahuetes",
+      "dato": "Número: g de fibra por cada 100 g",
+      "filas": [
+        {
+          "cab": "Cc",
+          "valor": "8,5",
+          "nombre": "cacahuetes",
+          "texto": "masa: 100 g"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Tabla periódica de la fibra",
+      "titulo": "Almendras",
+      "dato": "Número: g de fibra por cada 100 g",
+      "filas": [
+        {
+          "cab": "Ad",
+          "valor": "12,5",
+          "nombre": "almendras",
+          "texto": "masa: 100 g"
+        },
+        {
+          "cab": "Ch",
+          "valor": "?"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "El número más alto",
+      "titulo": "Semillas de chía",
+      "dato": "Número: g de fibra por cada 100 g",
+      "filas": [
+        {
+          "cab": "Ch",
+          "valor": "34,4",
+          "nombre": "semillas de chía",
+          "texto": "masa: 100 g"
+        }
+      ],
+      "texto": "Más del doble que las almendras por 100 g."
+    },
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Número: g de fibra por cada 100 g",
+      "titulo": "La fila completa",
+      "filas": [
+        {
+          "cab": "Kw",
+          "valor": "3,0",
+          "nombre": "kiwi"
+        },
+        {
+          "cab": "Nu",
+          "valor": "6,7",
+          "nombre": "nueces"
+        },
+        {
+          "cab": "Gb",
+          "valor": "7,6",
+          "nombre": "garbanzos cocidos"
+        },
+        {
+          "cab": "Cc",
+          "valor": "8,5",
+          "nombre": "cacahuetes"
+        },
+        {
+          "cab": "Ad",
+          "valor": "12,5",
+          "nombre": "almendras"
+        },
+        {
+          "cab": "Ch",
+          "valor": "34,4",
+          "nombre": "semillas de chía"
+        }
+      ],
+      "texto": "Por cada 100 g, la chía multiplica casi por cinco la fibra del garbanzo cocido."
+    },
+    {
+      "plantilla": "f_frase",
+      "titulo": "La referencia diaria en adultos",
+      "resalte": "El matiz",
+      "frase": "La EFSA considera suficiente una ingesta de 25 g de fibra al día en adultos para un tránsito intestinal normal.",
+      "fuente": "Cifras por 100 g en el estado indicado. Una ración de chía o frutos secos es menor.",
+      "filas": [
+        {
+          "cab": "Fi",
+          "nombre": "fibra"
+        }
+      ]
+    },
+    {
+      "plantilla": "f_vs",
+      "kicker": "Aula Vivax",
+      "texto": "Mándaselo a quien busca fibra solo en la lechuga.",
+      "filas": [
+        {
+          "cab": "Kw"
+        },
+        {
+          "cab": "Nu"
+        },
+        {
+          "cab": "Gb"
+        },
+        {
+          "cab": "Cc"
+        },
+        {
+          "cab": "Ad"
+        },
+        {
+          "cab": "Ch"
+        }
+      ],
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "dato": "Mañana en cromos: cinco alimentos con vitamina C."
+    }
+  ],
+  "pie_instagram": "¿Qué casilla guarda más fibra?\n\nEn esta tabla periódica, el número de cada casilla es el fibra en g por cada 100 g de alimento.\nPor cada 100 g: semillas de chía, 34,4 g; almendras, 12,5 g; cacahuetes, 8,5 g; garbanzos cocidos, 7,6 g; nueces, 6,7 g; kiwi, 3,0 g.\nPor cada 100 g, la chía multiplica casi por cinco la fibra del garbanzo cocido.\nLos símbolos de los alimentos son de broma: ninguno es un elemento químico.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nLa EFSA considera suficiente una ingesta de 25 g de fibra al día en adultos para un tránsito intestinal normal.\n\nMándaselo a quien busca fibra solo en la lechuga. Mañana en cromos: cinco alimentos con vitamina C.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#fibra #chia #nutricion #tablaperiodica",
+  "alt": [
+    "Portada en blanco y oliva: una tabla periódica dibujada en filete fino con 6 casillas de alimentos encendidas y su número tapado. Aula Vivax · Tabla periódica. ¿Qué casilla guarda más fibra? Apuesta por tu favorito antes de pasar. Kw kiwi, número tapado. Nu nueces, número tapado. Gb garbanzos cocidos, número tapado. Ad almendras, número tapado. Ch semillas de chía, número tapado. Cc cacahuetes, número tapado. Número: g de fibra por cada 100 g.",
+    "Zoom sobre la casilla Kw de la tabla periódica de la fibra, con el minimapa de la tabla y la escala de zoom. Dibujo de kiwi en línea fina. Tabla periódica de la fibra. Kiwi. Kw kiwi 3,0 g. Número: g de fibra por cada 100 g.",
+    "Zoom sobre la casilla Nu de la tabla periódica de la fibra, con el minimapa de la tabla y la escala de zoom. Dibujo de nueces en línea fina. Tabla periódica de la fibra. Nueces. Nu nueces 6,7 g. Gb, número tapado. Número: g de fibra por cada 100 g.",
+    "Zoom sobre la casilla Gb de la tabla periódica de la fibra, con el minimapa de la tabla y la escala de zoom. Dibujo de garbanzos cocidos en línea fina. Tabla periódica de la fibra. Garbanzos cocidos. Gb garbanzos cocidos 7,6 g. Nu 6,7 g. Número: g de fibra por cada 100 g.",
+    "Zoom sobre la casilla Cc de la tabla periódica de la fibra, con el minimapa de la tabla y la escala de zoom. Dibujo de cacahuetes en línea fina. Tabla periódica de la fibra. Cacahuetes. Cc cacahuetes 8,5 g. Número: g de fibra por cada 100 g.",
+    "Zoom sobre la casilla Ad de la tabla periódica de la fibra, con el minimapa de la tabla y la escala de zoom. Dibujo de almendras en línea fina. Tabla periódica de la fibra. Almendras. Ad almendras 12,5 g. Ch, número tapado. Número: g de fibra por cada 100 g.",
+    "Zoom sobre la casilla Ch de la tabla periódica de la fibra, con el minimapa de la tabla y la escala de zoom. Dibujo de semillas de chía en línea fina. El número más alto. Semillas de chía. Más del doble que las almendras por 100 g. Ch semillas de chía 34,4 g. Número: g de fibra por cada 100 g.",
+    "Hoja oliva con la fila completa: las casillas en orden creciente y un tallo encima de cada una que mide su cifra. Número: g de fibra por cada 100 g. La fila completa. Por cada 100 g, la chía multiplica casi por cinco la fibra del garbanzo cocido. Kw kiwi 3,0 g. Nu nueces 6,7 g. Gb garbanzos cocidos 7,6 g. Cc cacahuetes 8,5 g. Ad almendras 12,5 g. Ch semillas de chía 34,4 g.",
+    "Hoja en blanco y oliva profundo con la casilla Fi dibujada en filete blanco. La referencia diaria en adultos. Fi fibra. El matiz. La EFSA considera suficiente una ingesta de 25 g de fibra al día en adultos para un tránsito intestinal normal.",
+    "Cierre en oliva con la firma de Vivax y la fila de símbolos. Aula Vivax. Mándaselo a quien busca fibra solo en la lechuga. Kw. Nu. Gb. Cc. Ad. Ch. Mañana en cromos: cinco alimentos con vitamina C."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-08",
+    "serie": "Aula Vivax",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "car-tabla-periodica",
+    "formato": "CAR-TABLA-PERIODICA",
+    "lote": "lux-2026-12",
+    "hora": "10:30",
+    "nota": "plantilla car_tabla_periodica (spec n1-lux-20261208-1030-fibra-tabla-periodica). Condición de uso: sin declaración (hecho de banco).",
+    "pilar_plan": "Despensa diaria",
+    "mecanica": "tabla_periodica",
+    "frente": "publico",
+    "plantilla_lux": "car_tabla_periodica",
+    "spec_id": "n1-lux-20261208-1030-fibra-tabla-periodica"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (ALI-006 y ALI-007, por 100 g) y Dictamen EFSA 2010 (GAN-007, 25 g/día en adultos)."
+}

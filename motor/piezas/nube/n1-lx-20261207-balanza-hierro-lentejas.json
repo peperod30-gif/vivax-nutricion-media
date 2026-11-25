@@ -1,0 +1,71 @@
+{
+  "id": "n1-lx-20261207-balanza-hierro-lentejas",
+  "cuenta": "n1",
+  "formato": "unica",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "luxury",
+  "molde": "lux-balanza",
+  "pilar": "ensenar",
+  "hechos": [
+    "ALI-062",
+    "ALI-041",
+    "VIT-054"
+  ],
+  "titulo": "[BALANZA] Pesan lo mismo. El hierro, no.",
+  "hojas": [
+    {
+      "plantilla": "f_ranking",
+      "kicker": "Hierro por cada 100 g",
+      "titulo": "Pesan lo mismo. El {hierro}, no.",
+      "opciones": [
+        {
+          "nombre": "lentejas cocidas",
+          "valor": "3,3",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "ternera picada cocinada",
+          "valor": "2,7",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "alubias blancas cocidas",
+          "valor": "3,7",
+          "unidad": "mg"
+        },
+        {
+          "nombre": "espinacas crudas",
+          "valor": "2,7",
+          "unidad": "mg"
+        }
+      ],
+      "resalte": "Para qué sirve",
+      "titular": "Para qué sirve el hierro",
+      "frase": "El hierro contribuye al transporte normal de {oxígeno} en el cuerpo.",
+      "fuente": "Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal.",
+      "sigue": "Mándaselo a quien cree que solo la carne lleva hierro.",
+      "aviso": "Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista.",
+      "vit": "VIT-054",
+      "fuentes": [
+        "En plantas el hierro es no hemo y se absorbe en distinta proporción que el de carne."
+      ]
+    }
+  ],
+  "pie_instagram": "100 g de lentejas cocidas y 100 g de ternera picada cocinada pesan lo mismo. El hierro, no ⚖️\n\nPor cada 100 g, hierro: lentejas cocidas 3,3 mg, ternera picada cocinada 2,7 mg, alubias blancas cocidas 3,7 mg y espinacas crudas 2,7 mg.\nMismo peso en el plato y más hierro total en las lentejas.\n\nEs lo que lleva el alimento por 100 g, no lo que se absorbe ni una recomendación de cantidad ni de comer o evitar nada.\n\nY para qué sirve: El hierro contribuye al transporte normal de oxígeno en el cuerpo. Es una declaración autorizada en la UE para alimentos que son fuente de hierro; no es una recomendación personal.\n\n¿En qué platillo habrías puesto más hierro?\nMándaselo a quien cree que solo la carne lleva hierro.\n\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#hierro #legumbres #biodisponibilidad #nutricion",
+  "alt": [
+    "Imagen en blanco, negro y verde oliva. Una balanza de platillos dibujada en línea fina, en equilibrio, con lentejas cocidas en el platillo de la izquierda y ternera picada cocinada en el de la derecha; bajo cada platillo, una cota de 100 g y, entre las dos, el signo igual. Hierro por cada 100 g. Pesan lo mismo. El hierro, no. lentejas cocidas: 3,3 mg. ternera picada cocinada: 2,7 mg. alubias blancas cocidas: 3,7 mg. espinacas crudas: 2,7 mg. En plantas el hierro es no hemo y se absorbe en distinta proporción que el de carne. Para qué sirve. Para qué sirve el hierro. El hierro contribuye al transporte normal de oxígeno en el cuerpo. Declaración autorizada por la UE (Reglamento 432/2012) para alimentos que son fuente de hierro. No es una recomendación personal. Mándaselo a quien cree que solo la carne lleva hierro. Contenido divulgativo. No es consejo personal ni sustituye a tu médico o dietista-nutricionista."
+  ],
+  "produccion": {
+    "autoaprobar": false,
+    "fecha": "2026-12-07",
+    "serie": "luxury",
+    "sistema": "vivax-luxury-1",
+    "plantilla": "balanza",
+    "formato": "BALANZA",
+    "lote": "lux-2026-12",
+    "hora": "16:30",
+    "nota": "plantilla balanza (tpl_img_balanza_lux.py)"
+  },
+  "comentario": "Fuentes: USDA FoodData Central, SR Legacy (2019); Reglamento nº 432/2012."
+}
