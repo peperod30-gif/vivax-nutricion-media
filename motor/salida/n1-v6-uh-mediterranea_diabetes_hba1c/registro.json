@@ -1,0 +1,2563 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.53,
+ "tamano_mb": 10.61,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 98.7,
+ "fotogramas": 1244,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Salen",
+   "r": [
+    151,
+    339,
+    360,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Salen",
+   "r": [
+    151,
+    339,
+    360,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Salen cifras",
+   "r": [
+    151,
+    338,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Salen cifras",
+   "r": [
+    151,
+    338,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Salen cifras altas",
+   "r": [
+    151,
+    338,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Salen cifras altas en",
+   "r": [
+    151,
+    338,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Salen cifras altas en ayunas",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Salen cifras altas en ayunas",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "y",
+   "r": [
+    159,
+    339,
+    201,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "y mucha",
+   "r": [
+    159,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "y mucha gente",
+   "r": [
+    159,
+    339,
+    692,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Pánico al pan",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "y mucha gente tacha",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "y mucha gente tacha",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "y mucha gente tacha pan,",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "y mucha gente tacha pan,",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "arroz",
+   "r": [
+    191,
+    339,
+    398,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "arroz",
+   "r": [
+    191,
+    339,
+    398,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "arroz y",
+   "r": [
+    191,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "arroz y legumbres.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "arroz y legumbres.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "arroz y legumbres.",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Creen",
+   "r": [
+    220,
+    339,
+    446,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Creen que",
+   "r": [
+    220,
+    339,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Creen que cortar",
+   "r": [
+    220,
+    339,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Creen que cortar",
+   "r": [
+    220,
+    339,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "Creen que cortar todo",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "carbohidrato",
+   "r": [
+    188,
+    338,
+    705,
+    423
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "carbohidrato",
+   "r": [
+    188,
+    338,
+    705,
+    423
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "carbohidrato es",
+   "r": [
+    188,
+    338,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "carbohidrato es la",
+   "r": [
+    188,
+    338,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "carbohidrato es la única",
+   "r": [
+    188,
+    338,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "salida",
+   "r": [
+    187,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "salida",
+   "r": [
+    187,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "salida al problema.",
+   "r": [
+    187,
+    339,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "salida al problema.",
+   "r": [
+    187,
+    339,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "salida al problema.",
+   "r": [
+    187,
+    339,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Bajar",
+   "r": [
+    256,
+    339,
+    461,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Bajar azúcares",
+   "r": [
+    256,
+    339,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Bajar azúcares",
+   "r": [
+    256,
+    339,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Bajar azúcares añadidos",
+   "r": [
+    210,
+    339,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Bajar azúcares añadidos",
+   "r": [
+    210,
+    339,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Bajar azúcares añadidos y",
+   "r": [
+    210,
+    339,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Bajar azúcares añadidos y harina",
+   "r": [
+    210,
+    339,
+    870,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "blanca",
+   "r": [
+    279,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "blanca",
+   "r": [
+    279,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "blanca aporta",
+   "r": [
+    279,
+    339,
+    801,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "blanca aporta",
+   "r": [
+    279,
+    339,
+    801,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "blanca aporta margen",
+   "r": [
+    158,
+    339,
+    801,
+    510
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "blanca aporta margen real",
+   "r": [
+    158,
+    339,
+    801,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "blanca aporta margen real",
+   "r": [
+    158,
+    339,
+    801,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    775,
+    950,
+    837
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "blanca aporta margen real pronto.",
+   "r": [
+    158,
+    339,
+    922,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    782,
+    950,
+    844
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "blanca aporta margen real pronto.",
+   "r": [
+    158,
+    339,
+    922,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    788,
+    950,
+    850
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Pero",
+   "r": [
+    215,
+    339,
+    393,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    795,
+    950,
+    857
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Pero al comparar",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    802,
+    950,
+    864
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Pero al comparar",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    810,
+    950,
+    872
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Pero al comparar patrones",
+   "r": [
+    157,
+    339,
+    865,
+    510
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Glicosilada bajó",
+   "r": [
+    536,
+    817,
+    950,
+    879
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Pero al comparar patrones",
+   "r": [
+    157,
+    339,
+    865,
+    510
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "Pero al comparar patrones completos",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "Pero al comparar patrones completos",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "durante",
+   "r": [
+    161,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "durante",
+   "r": [
+    161,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "durante meses",
+   "r": [
+    161,
+    339,
+    718,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "durante meses",
+   "r": [
+    161,
+    339,
+    718,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "durante meses hubo",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "durante meses hubo una",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "durante meses hubo una sorpresa.",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "durante meses hubo una sorpresa.",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "durante meses hubo una sorpresa.",
+   "r": [
+    161,
+    339,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "En",
+   "r": [
+    236,
+    339,
+    327,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "En personas",
+   "r": [
+    236,
+    339,
+    695,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "En personas",
+   "r": [
+    236,
+    339,
+    695,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "En personas con diabetes",
+   "r": [
+    203,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "En personas con diabetes",
+   "r": [
+    203,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "En personas con diabetes midieron",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "En personas con diabetes midieron",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "la",
+   "r": [
+    249,
+    339,
+    319,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "la hemoglobina",
+   "r": [
+    249,
+    338,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "la hemoglobina",
+   "r": [
+    249,
+    338,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "la hemoglobina glicosilada",
+   "r": [
+    229,
+    338,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "la hemoglobina glicosilada",
+   "r": [
+    229,
+    338,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "la hemoglobina glicosilada",
+   "r": [
+    229,
+    338,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "la hemoglobina glicosilada total.",
+   "r": [
+    229,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "la hemoglobina glicosilada total.",
+   "r": [
+    229,
+    338,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "La",
+   "r": [
+    147,
+    342,
+    231,
+    425
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "La dieta",
+   "r": [
+    147,
+    342,
+    428,
+    425
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "La dieta mediterránea",
+   "r": [
+    147,
+    342,
+    933,
+    425
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "La dieta mediterránea",
+   "r": [
+    147,
+    342,
+    933,
+    425
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "La dieta mediterránea",
+   "r": [
+    147,
+    342,
+    933,
+    425
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "La dieta mediterránea bajó",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "La dieta mediterránea bajó casi",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "La dieta mediterránea bajó casi",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "cuatro",
+   "r": [
+    201,
+    338,
+    475,
+    423
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "cuatro",
+   "r": [
+    201,
+    338,
+    475,
+    423
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "cuatro veces",
+   "r": [
+    201,
+    338,
+    708,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "-0,47",
+   "r": [
+    349,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "cuatro veces más",
+   "r": [
+    201,
+    338,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "-0,47",
+   "r": [
+    349,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "cuatro veces más ese",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "-0,47",
+   "r": [
+    349,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "cuatro veces más ese marcador.",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "-0,47",
+   "r": [
+    349,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "cuatro veces más ese marcador.",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "-0,47",
+   "r": [
+    349,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "cuatro veces más ese marcador.",
+   "r": [
+    201,
+    338,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "-0,47",
+   "r": [
+    60,
+    574,
+    661,
+    674
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Verdura,",
+   "r": [
+    249,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "-0,47",
+   "r": [
+    60,
+    586,
+    661,
+    686
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Verdura,",
+   "r": [
+    249,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "-0,47",
+   "r": [
+    60,
+    597,
+    661,
+    697
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Verdura, aceite",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "-0,47",
+   "r": [
+    60,
+    608,
+    661,
+    708
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Verdura, aceite",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Verdura, aceite virgen,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Verdura, aceite virgen,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Verdura, aceite virgen,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "pescado",
+   "r": [
+    158,
+    338,
+    494,
+    423
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "pescado",
+   "r": [
+    158,
+    338,
+    494,
+    423
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "pescado y legumbre",
+   "r": [
+    158,
+    338,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "pescado y legumbre",
+   "r": [
+    158,
+    338,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "pescado y legumbre",
+   "r": [
+    158,
+    338,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "sostuvieron",
+   "r": [
+    273,
+    339,
+    722,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "sostuvieron",
+   "r": [
+    273,
+    339,
+    722,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "sostuvieron la",
+   "r": [
+    273,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "sostuvieron la analítica.",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "sostuvieron la analítica.",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "sostuvieron la analítica.",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Perder",
+   "r": [
+    239,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Perder grasa",
+   "r": [
+    239,
+    339,
+    735,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Perder grasa",
+   "r": [
+    239,
+    339,
+    735,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Perder grasa de forma",
+   "r": [
+    239,
+    339,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "Perder grasa de forma",
+   "r": [
+    239,
+    339,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "Perder grasa de forma guiada",
+   "r": [
+    239,
+    339,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "logra",
+   "r": [
+    299,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "logra",
+   "r": [
+    299,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "logra incluso",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "logra incluso",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "logra incluso remisiones",
+   "r": [
+    151,
+    339,
+    781,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "logra incluso remisiones",
+   "r": [
+    151,
+    339,
+    781,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "logra incluso remisiones notables.",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "logra incluso remisiones notables.",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "logra incluso remisiones notables.",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Quitar",
+   "r": [
+    184,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Quitar",
+   "r": [
+    184,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Quitar toda",
+   "r": [
+    184,
+    339,
+    610,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Quitar toda comida",
+   "r": [
+    184,
+    339,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Quitar toda comida vegetal",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Quitar toda comida vegetal",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Quitar toda comida vegetal saciante",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Quitar toda comida vegetal saciante",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Quitar toda comida vegetal saciante",
+   "r": [
+    184,
+    339,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "complica",
+   "r": [
+    203,
+    339,
+    539,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    800,
+    950,
+    862
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "complica",
+   "r": [
+    203,
+    339,
+    539,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    788,
+    950,
+    850
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "complica seguir",
+   "r": [
+    203,
+    339,
+    795,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    776,
+    950,
+    838
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "complica seguir el",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    764,
+    950,
+    826
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "complica seguir el plan",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    752,
+    950,
+    814
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "complica seguir el plan años.",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    741,
+    950,
+    803
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "complica seguir el plan años.",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Seguimiento clínico",
+   "r": [
+    467,
+    729,
+    950,
+    791
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Si",
+   "r": [
+    380,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Si tomas",
+   "r": [
+    380,
+    339,
+    700,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Si tomas medicación,",
+   "r": [
+    305,
+    339,
+    775,
+    510
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Si tomas medicación,",
+   "r": [
+    305,
+    339,
+    775,
+    510
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Si tomas medicación,",
+   "r": [
+    305,
+    339,
+    775,
+    510
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Si tomas medicación,",
+   "r": [
+    305,
+    339,
+    775,
+    510
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "ajustar",
+   "r": [
+    151,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "ajustar comidas",
+   "r": [
+    151,
+    339,
+    755,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "ajustar comidas",
+   "r": [
+    151,
+    339,
+    755,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "ajustar comidas pide",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "ajustar comidas pide hablarlo",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "ajustar comidas pide hablarlo",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "con",
+   "r": [
+    272,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "con tu médico.",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "con tu médico.",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "con tu médico.",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a quien prohibió",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "la",
+   "r": [
+    184,
+    339,
+    253,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "la fruta",
+   "r": [
+    184,
+    338,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "la fruta entera",
+   "r": [
+    184,
+    338,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "la fruta entera",
+   "r": [
+    184,
+    338,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "la fruta entera por",
+   "r": [
+    184,
+    338,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "miedo",
+   "r": [
+    189,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "miedo a la glucosa.",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "miedo a la glucosa.",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "miedo a la glucosa.",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "miedo a la glucosa.",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 738,
+  "texto": "Salen cifras altas en ayunas y mucha gente tacha pan, arroz y legumbres. Creen que cortar todo carbohidrato es la única salida al problema. Bajar azúcares añadidos y harina blanca aporta margen real pronto. Pero al comparar patrones completos durante meses hubo una sorpresa. En personas con diabetes midieron la hemoglobina glicosilada total. La dieta mediterránea bajó casi cuatro veces más ese marcador. Verdura, aceite virgen, pescado y legumbre sostuvieron la analítica. Perder grasa de forma guiada logra incluso remisiones notables. Quitar toda comida vegetal saciante complica seguir el plan años. Si tomas medicación, ajustar comidas pide hablarlo con tu médico. Mándaselo a quien prohibió la fruta entera por miedo a la glucosa.",
+  "inicio_s": 0.053,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Salen cifras altas en ayunas y mucha gente tacha pan, arroz y legumbres.",
+    "t0": 0.021,
+    "t1": 4.566
+   },
+   {
+    "texto": "Creen que cortar todo carbohidrato es la única salida al problema.",
+    "t0": 4.756,
+    "t1": 8.036
+   },
+   {
+    "texto": "Bajar azúcares añadidos y harina blanca aporta margen real pronto.",
+    "t0": 8.231,
+    "t1": 11.911
+   },
+   {
+    "texto": "Pero al comparar patrones completos durante meses hubo una sorpresa.",
+    "t0": 12.076,
+    "t1": 15.623
+   },
+   {
+    "texto": "En personas con diabetes midieron la hemoglobina glicosilada total.",
+    "t0": 15.776,
+    "t1": 19.201
+   },
+   {
+    "texto": "La dieta mediterránea bajó casi cuatro veces más ese marcador.",
+    "t0": 19.381,
+    "t1": 22.741
+   },
+   {
+    "texto": "Verdura, aceite virgen, pescado y legumbre sostuvieron la analítica.",
+    "t0": 22.921,
+    "t1": 27.001
+   },
+   {
+    "texto": "Perder grasa de forma guiada logra incluso remisiones notables.",
+    "t0": 27.181,
+    "t1": 30.541
+   },
+   {
+    "texto": "Quitar toda comida vegetal saciante complica seguir el plan años.",
+    "t0": 30.711,
+    "t1": 34.311
+   },
+   {
+    "texto": "Si tomas medicación, ajustar comidas pide hablarlo con tu médico.",
+    "t0": 34.541,
+    "t1": 37.821
+   },
+   {
+    "texto": "Mándaselo a quien prohibió la fruta entera por miedo a la glucosa.",
+    "t0": 38.071,
+    "t1": 41.058
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.68,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.406,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.826,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.636,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.876,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.031,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.601,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.141,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.561,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.981,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.731,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.071,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/uh_mediterranea_diabetes_hba1c.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 16.0,
+   "render": 127.1,
+   "mezcla": 15.5
+  },
+  "escena_js": "tr"
+ }
+}

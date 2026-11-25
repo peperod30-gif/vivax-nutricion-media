@@ -1,0 +1,2514 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.53,
+ "tamano_mb": 10.97,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 67.8,
+ "fotogramas": 1244,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Dejas",
+   "r": [
+    189,
+    339,
+    399,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Dejas",
+   "r": [
+    189,
+    339,
+    399,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Dejas la",
+   "r": [
+    189,
+    339,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Dejas la bolsa",
+   "r": [
+    189,
+    338,
+    722,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Dejas la bolsa roja",
+   "r": [
+    189,
+    338,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Dejas la bolsa roja de",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "patatas",
+   "r": [
+    205,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "patatas",
+   "r": [
+    205,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "patatas y",
+   "r": [
+    205,
+    339,
+    554,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "patatas y coges",
+   "r": [
+    205,
+    339,
+    790,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "patatas y coges la",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Reclamo azul",
+   "r": [
+    60,
+    1081,
+    381,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "versión",
+   "r": [
+    212,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "versión light",
+   "r": [
+    212,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "versión light",
+   "r": [
+    212,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "versión light para",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "versión light para cuidarte.",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "versión light para cuidarte.",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "versión light para cuidarte.",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Ese",
+   "r": [
+    226,
+    339,
+    359,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Ese diseño",
+   "r": [
+    226,
+    338,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Ese diseño claro",
+   "r": [
+    226,
+    338,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Ese diseño claro",
+   "r": [
+    226,
+    338,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Ese diseño claro azul",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Ese diseño claro azul",
+   "r": [
+    226,
+    338,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "promete",
+   "r": [
+    158,
+    339,
+    476,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "promete al",
+   "r": [
+    158,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "promete al momento",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "promete al momento",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "bocado",
+   "r": [
+    185,
+    339,
+    460,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "bocado",
+   "r": [
+    185,
+    339,
+    460,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "bocado mucho",
+   "r": [
+    185,
+    339,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "bocado mucho",
+   "r": [
+    185,
+    339,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "bocado mucho más",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "bocado mucho más suave.",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "bocado mucho más suave.",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "La",
+   "r": [
+    160,
+    339,
+    249,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "La norma",
+   "r": [
+    160,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "La norma deja",
+   "r": [
+    160,
+    339,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "La norma deja",
+   "r": [
+    160,
+    339,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "La norma deja poner",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "light",
+   "r": [
+    286,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "light",
+   "r": [
+    286,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "light con",
+   "r": [
+    286,
+    339,
+    602,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "light con solo",
+   "r": [
+    286,
+    338,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "light con solo recortar",
+   "r": [
+    286,
+    338,
+    794,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    861,
+    950,
+    923
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "light con solo recortar",
+   "r": [
+    286,
+    338,
+    794,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    873,
+    950,
+    935
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "un nutriente",
+   "r": [
+    310,
+    339,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    884,
+    950,
+    946
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "un nutriente",
+   "r": [
+    310,
+    339,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    895,
+    950,
+    957
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "un nutriente concreto.",
+   "r": [
+    310,
+    339,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    906,
+    950,
+    968
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "un nutriente concreto.",
+   "r": [
+    310,
+    339,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    916,
+    950,
+    978
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "un nutriente concreto.",
+   "r": [
+    310,
+    339,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    926,
+    950,
+    988
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Casi",
+   "r": [
+    171,
+    339,
+    334,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Sodio disparado",
+   "r": [
+    560,
+    933,
+    950,
+    995
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Casi siempre",
+   "r": [
+    171,
+    339,
+    655,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Casi siempre",
+   "r": [
+    171,
+    339,
+    655,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Casi siempre quitan",
+   "r": [
+    171,
+    339,
+    909,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Casi siempre quitan",
+   "r": [
+    171,
+    339,
+    909,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "de",
+   "r": [
+    211,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "de aceite",
+   "r": [
+    211,
+    338,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "de aceite",
+   "r": [
+    211,
+    338,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "de aceite y suben",
+   "r": [
+    211,
+    338,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "de aceite y suben",
+   "r": [
+    211,
+    338,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "sal",
+   "r": [
+    186,
+    339,
+    298,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "sal para",
+   "r": [
+    186,
+    339,
+    491,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "sal para dar",
+   "r": [
+    186,
+    339,
+    638,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "sal para dar sabor.",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "sal para dar sabor.",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Al",
+   "r": [
+    325,
+    339,
+    401,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Al mirar",
+   "r": [
+    325,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Al mirar las etiquetas",
+   "r": [
+    325,
+    339,
+    755,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Al mirar las etiquetas",
+   "r": [
+    325,
+    339,
+    755,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Al mirar las etiquetas",
+   "r": [
+    325,
+    339,
+    755,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "reales",
+   "r": [
+    223,
+    339,
+    464,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "reales del",
+   "r": [
+    223,
+    339,
+    592,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "reales del pasillo",
+   "r": [
+    223,
+    339,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "reales del pasillo salado",
+   "r": [
+    223,
+    339,
+    857,
+    510
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "reales del pasillo salado",
+   "r": [
+    223,
+    339,
+    857,
+    510
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "reales del pasillo salado",
+   "r": [
+    223,
+    339,
+    857,
+    510
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "salta",
+   "r": [
+    212,
+    339,
+    402,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "salta",
+   "r": [
+    212,
+    339,
+    402,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "salta la sorpresa.",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "salta la sorpresa.",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "salta la sorpresa.",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Las",
+   "r": [
+    231,
+    339,
+    361,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Las patatas",
+   "r": [
+    231,
+    339,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Las patatas",
+   "r": [
+    231,
+    339,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Las patatas light",
+   "r": [
+    231,
+    339,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Las patatas light",
+   "r": [
+    231,
+    339,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "Las patatas light declaran",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "Las patatas light declaran",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "Las patatas light declaran dos",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "coma",
+   "r": [
+    188,
+    339,
+    391,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "coma siete",
+   "r": [
+    188,
+    339,
+    592,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "coma siete",
+   "r": [
+    188,
+    339,
+    592,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "coma siete gramos",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "coma siete gramos de",
+   "r": [
+    188,
+    339,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "sal por",
+   "r": [
+    216,
+    339,
+    473,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "sal por cada",
+   "r": [
+    216,
+    339,
+    672,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "sal por cada cien.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "sal por cada cien.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "2,7",
+   "r": [
+    588,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Casi",
+   "r": [
+    186,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Casi triplican",
+   "r": [
+    186,
+    339,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Casi triplican",
+   "r": [
+    186,
+    339,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Casi triplican",
+   "r": [
+    186,
+    339,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Casi triplican la",
+   "r": [
+    186,
+    339,
+    767,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Casi triplican la sal",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "de las",
+   "r": [
+    172,
+    339,
+    390,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "de las patatas",
+   "r": [
+    172,
+    339,
+    696,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "de las patatas",
+   "r": [
+    172,
+    339,
+    696,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "de las patatas lisas",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "normales",
+   "r": [
+    299,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "normales",
+   "r": [
+    299,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "normales del",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "normales del estante.",
+   "r": [
+    299,
+    339,
+    781,
+    514
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "normales del estante.",
+   "r": [
+    299,
+    339,
+    781,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Una",
+   "r": [
+    225,
+    339,
+    369,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Una bolsa",
+   "r": [
+    225,
+    339,
+    588,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Una bolsa entera",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Una bolsa entera",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Una bolsa entera roza",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Una bolsa entera roza",
+   "r": [
+    225,
+    339,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "casi",
+   "r": [
+    206,
+    338,
+    381,
+    423
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "casi",
+   "r": [
+    206,
+    338,
+    381,
+    423
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "casi todo",
+   "r": [
+    206,
+    338,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "casi todo el",
+   "r": [
+    206,
+    338,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "casi todo el límite",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "casi todo el límite",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "diario",
+   "r": [
+    225,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "diario de",
+   "r": [
+    225,
+    339,
+    555,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "diario de la OMS.",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "diario de la OMS.",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "diario de la OMS.",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "diario de la OMS.",
+   "r": [
+    225,
+    339,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Un puñado",
+   "r": [
+    281,
+    338,
+    692,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Un puñado",
+   "r": [
+    281,
+    338,
+    692,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Un puñado de almendras",
+   "r": [
+    281,
+    338,
+    799,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Un puñado de almendras",
+   "r": [
+    281,
+    338,
+    799,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "tostadas",
+   "r": [
+    193,
+    339,
+    527,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "tostadas",
+   "r": [
+    193,
+    339,
+    527,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "tostadas sin",
+   "r": [
+    193,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "tostadas sin sal",
+   "r": [
+    193,
+    339,
+    778,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "tostadas sin sal",
+   "r": [
+    193,
+    339,
+    778,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "tostadas sin sal da",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "grasa",
+   "r": [
+    164,
+    339,
+    383,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "grasa real",
+   "r": [
+    164,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "grasa real",
+   "r": [
+    164,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "grasa real sin",
+   "r": [
+    164,
+    339,
+    676,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "grasa real sin sodio.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "grasa real sin sodio.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "grasa real sin sodio.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "No compres",
+   "r": [
+    160,
+    339,
+    602,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "No compres",
+   "r": [
+    160,
+    339,
+    602,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "No compres solo",
+   "r": [
+    160,
+    339,
+    774,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "No compres solo por",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "el envase",
+   "r": [
+    187,
+    339,
+    536,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "el envase",
+   "r": [
+    187,
+    339,
+    536,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "el envase claro",
+   "r": [
+    187,
+    338,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "el envase claro sin",
+   "r": [
+    187,
+    338,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "revisar",
+   "r": [
+    201,
+    339,
+    477,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "revisar",
+   "r": [
+    201,
+    339,
+    477,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "revisar primero",
+   "r": [
+    201,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "revisar primero la",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "revisar primero la sal.",
+   "r": [
+    201,
+    339,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a quien coge",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "el paquete",
+   "r": [
+    244,
+    338,
+    655,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "el paquete",
+   "r": [
+    244,
+    338,
+    655,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "el paquete light",
+   "r": [
+    244,
+    338,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "el paquete light",
+   "r": [
+    244,
+    338,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "el paquete light creyendo",
+   "r": [
+    244,
+    338,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "el paquete light creyendo",
+   "r": [
+    244,
+    338,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "que lleva",
+   "r": [
+    243,
+    339,
+    576,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "que lleva menos",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "que lleva menos todo.",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "que lleva menos todo.",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "que lleva menos todo.",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 737,
+  "texto": "Dejas la bolsa roja de patatas y coges la versión lait para cuidarte. Ese diseño claro azul promete al momento un bocado mucho más suave. La norma deja poner lait con solo recortar un nutriente concreto. Casi siempre quitan algo de aceite y suben sal para dar sabor. Al mirar las etiquetas reales del pasillo salado salta la sorpresa. Las patatas lait declaran dos coma siete gramos de sal por cada cien. Casi triplican la sal de las patatas lisas normales del estante. Una bolsa entera roza ya casi todo el límite diario de la o eme ese. Un puñado de almendras tostadas sin sal da grasa real sin sodio. No compres solo por el envase claro sin revisar primero la sal. Mándaselo a quien coge el paquete lait creyendo que lleva menos todo.",
+  "inicio_s": 0.0486,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Dejas la bolsa roja de patatas y coges la versión light para cuidarte.",
+    "t0": 0.021,
+    "t1": 3.856
+   },
+   {
+    "texto": "Ese diseño claro azul promete al momento un bocado mucho más suave.",
+    "t0": 4.036,
+    "t1": 7.886
+   },
+   {
+    "texto": "La norma deja poner light con solo recortar un nutriente concreto.",
+    "t0": 8.091,
+    "t1": 11.611
+   },
+   {
+    "texto": "Casi siempre quitan algo de aceite y suben sal para dar sabor.",
+    "t0": 11.776,
+    "t1": 15.136
+   },
+   {
+    "texto": "Al mirar las etiquetas reales del pasillo salado salta la sorpresa.",
+    "t0": 15.281,
+    "t1": 18.881
+   },
+   {
+    "texto": "Las patatas light declaran dos coma siete gramos de sal por cada cien.",
+    "t0": 19.101,
+    "t1": 22.781
+   },
+   {
+    "texto": "Casi triplican la sal de las patatas lisas normales del estante.",
+    "t0": 23.021,
+    "t1": 26.381
+   },
+   {
+    "texto": "Una bolsa entera roza ya casi todo el límite diario de la OMS.",
+    "t0": 26.571,
+    "t1": 30.411
+   },
+   {
+    "texto": "Un puñado de almendras tostadas sin sal da grasa real sin sodio.",
+    "t0": 30.641,
+    "t1": 34.321
+   },
+   {
+    "texto": "No compres solo por el envase claro sin revisar primero la sal.",
+    "t0": 34.561,
+    "t1": 37.601
+   },
+   {
+    "texto": "Mándaselo a quien coge el paquete light creyendo que lleva menos todo.",
+    "t0": 37.816,
+    "t1": 41.056
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 3,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.496,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.836,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.246,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.006,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 12.416,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.281,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.701,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.961,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.531,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.141,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.816,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/um_snacks_light_mas_sal_etiqueta.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#6C757D",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 15.1,
+   "render": 87.7,
+   "mezcla": 15.2
+  },
+  "escena_js": "tr"
+ }
+}

@@ -1,0 +1,2454 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.4,
+ "tamano_mb": 10.93,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 78.9,
+ "fotogramas": 1210,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Se",
+   "r": [
+    155,
+    339,
+    250,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Se retrasa",
+   "r": [
+    155,
+    339,
+    554,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Se retrasa",
+   "r": [
+    155,
+    339,
+    554,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Se retrasa la",
+   "r": [
+    155,
+    339,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Se retrasa la comida",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Se retrasa la comida",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Se retrasa la comida y",
+   "r": [
+    155,
+    339,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "contestas",
+   "r": [
+    195,
+    338,
+    589,
+    423
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "contestas",
+   "r": [
+    195,
+    338,
+    589,
+    423
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "contestas mal",
+   "r": [
+    195,
+    338,
+    739,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "contestas mal por",
+   "r": [
+    195,
+    338,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "contestas mal por cualquier",
+   "r": [
+    189,
+    338,
+    885,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "contestas mal por cualquier",
+   "r": [
+    189,
+    338,
+    885,
+    514
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "contestas mal por cualquier tontería.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "contestas mal por cualquier tontería.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "contestas mal por cualquier tontería.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Desfavorable leche",
+   "r": [
+    60,
+    1081,
+    520,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La",
+   "r": [
+    272,
+    339,
+    360,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La gente",
+   "r": [
+    272,
+    339,
+    587,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La gente culpa",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La gente culpa enseguida",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "La gente culpa enseguida",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "a una",
+   "r": [
+    257,
+    339,
+    459,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "a una",
+   "r": [
+    257,
+    339,
+    459,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "a una supuesta",
+   "r": [
+    257,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "a una supuesta",
+   "r": [
+    257,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "a una supuesta bajada",
+   "r": [
+    257,
+    339,
+    823,
+    510
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "fuerte",
+   "r": [
+    219,
+    339,
+    458,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "fuerte",
+   "r": [
+    219,
+    339,
+    458,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "fuerte de azúcar.",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "fuerte de azúcar.",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "fuerte de azúcar.",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Pero",
+   "r": [
+    214,
+    339,
+    392,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Pero en",
+   "r": [
+    214,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Pero en",
+   "r": [
+    214,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Pero en personas",
+   "r": [
+    214,
+    339,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Pero en personas sanas",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Pero en personas sanas",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "la",
+   "r": [
+    197,
+    339,
+    266,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "la glucosa",
+   "r": [
+    197,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "la glucosa",
+   "r": [
+    197,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "la glucosa apenas",
+   "r": [
+    197,
+    338,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "la glucosa apenas",
+   "r": [
+    197,
+    338,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "la glucosa apenas cambia",
+   "r": [
+    197,
+    338,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "la glucosa apenas cambia",
+   "r": [
+    197,
+    338,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "unas horas",
+   "r": [
+    269,
+    339,
+    686,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "unas horas sin",
+   "r": [
+    269,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "unas horas sin comer.",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "unas horas sin comer.",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Siguieron",
+   "r": [
+    179,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Siguieron",
+   "r": [
+    179,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Contexto importa",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Siguieron a",
+   "r": [
+    179,
+    339,
+    603,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Siguieron a adultos",
+   "r": [
+    179,
+    339,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Siguieron a adultos reales",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Siguieron a adultos reales",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Siguieron a adultos reales enviando",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Siguieron a adultos reales enviando",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Siguieron a adultos reales enviando",
+   "r": [
+    179,
+    339,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "avisos",
+   "r": [
+    165,
+    338,
+    427,
+    423
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "avisos varias",
+   "r": [
+    165,
+    338,
+    682,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "avisos varias",
+   "r": [
+    165,
+    338,
+    682,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "avisos varias veces",
+   "r": [
+    165,
+    338,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "avisos varias veces cada",
+   "r": [
+    165,
+    338,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "avisos varias veces cada día.",
+   "r": [
+    165,
+    338,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "avisos varias veces cada día.",
+   "r": [
+    165,
+    338,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Recogieron",
+   "r": [
+    271,
+    339,
+    704,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Recogieron",
+   "r": [
+    271,
+    339,
+    704,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Recogieron su",
+   "r": [
+    271,
+    339,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Recogieron su estado",
+   "r": [
+    271,
+    339,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Recogieron su estado de",
+   "r": [
+    271,
+    339,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "ánimo",
+   "r": [
+    206,
+    339,
+    434,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "ánimo en",
+   "r": [
+    206,
+    339,
+    539,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "ánimo en mitad",
+   "r": [
+    206,
+    339,
+    767,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "ánimo en mitad",
+   "r": [
+    206,
+    339,
+    767,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "la",
+   "r": [
+    242,
+    339,
+    311,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "la rutina",
+   "r": [
+    242,
+    338,
+    578,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "la rutina diaria.",
+   "r": [
+    242,
+    338,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "la rutina diaria.",
+   "r": [
+    242,
+    338,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "la rutina diaria.",
+   "r": [
+    242,
+    338,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Con más",
+   "r": [
+    199,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Con más de",
+   "r": [
+    199,
+    339,
+    620,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Con más de nueve",
+   "r": [
+    199,
+    338,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "mil",
+   "r": [
+    263,
+    339,
+    375,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "mil respuestas",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "mil respuestas",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "mil respuestas",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "mil respuestas confirmaron",
+   "r": [
+    173,
+    339,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "mil respuestas confirmaron",
+   "r": [
+    173,
+    339,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "mil respuestas confirmaron",
+   "r": [
+    173,
+    339,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "mil respuestas confirmaron subida",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "de",
+   "r": [
+    254,
+    339,
+    345,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "9.142",
+   "r": [
+    389,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "de enfado",
+   "r": [
+    254,
+    339,
+    621,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "de enfado",
+   "r": [
+    254,
+    339,
+    621,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "de enfado e",
+   "r": [
+    254,
+    339,
+    682,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "de enfado e ira.",
+   "r": [
+    254,
+    339,
+    826,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "de enfado e ira.",
+   "r": [
+    254,
+    339,
+    826,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Pero",
+   "r": [
+    155,
+    349,
+    296,
+    418
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Pero pruebas",
+   "r": [
+    155,
+    349,
+    554,
+    418
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Pero pruebas",
+   "r": [
+    155,
+    349,
+    554,
+    418
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Pero pruebas controladas",
+   "r": [
+    155,
+    349,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Pero pruebas controladas",
+   "r": [
+    155,
+    349,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Pero pruebas controladas",
+   "r": [
+    155,
+    349,
+    925,
+    418
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Pero pruebas controladas muestran",
+   "r": [
+    155,
+    349,
+    925,
+    487
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Pero pruebas controladas muestran",
+   "r": [
+    155,
+    349,
+    925,
+    487
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "el",
+   "r": [
+    153,
+    339,
+    220,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "el estómago",
+   "r": [
+    153,
+    339,
+    604,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "el estómago",
+   "r": [
+    153,
+    339,
+    604,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "el estómago vacío",
+   "r": [
+    153,
+    339,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "el estómago vacío",
+   "r": [
+    153,
+    339,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "el estómago vacío no",
+   "r": [
+    153,
+    339,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "el estómago vacío no estalla.",
+   "r": [
+    153,
+    339,
+    927,
+    510
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "el estómago vacío no estalla.",
+   "r": [
+    153,
+    339,
+    927,
+    510
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "La",
+   "r": [
+    243,
+    339,
+    332,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "La rabia",
+   "r": [
+    243,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "La rabia",
+   "r": [
+    243,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "La rabia salta",
+   "r": [
+    243,
+    339,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "La rabia salta",
+   "r": [
+    243,
+    339,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "La rabia salta al",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "leer",
+   "r": [
+    213,
+    339,
+    364,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "leer ese malestar",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "leer ese malestar",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "leer ese malestar",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "leer ese malestar físico",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "como",
+   "r": [
+    266,
+    339,
+    468,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "como agresión",
+   "r": [
+    266,
+    339,
+    814,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "como agresión",
+   "r": [
+    266,
+    339,
+    814,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "como agresión ajena.",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "como agresión ajena.",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "como agresión ajena.",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Poner",
+   "r": [
+    172,
+    339,
+    396,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Poner nombre",
+   "r": [
+    172,
+    339,
+    698,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Poner nombre a",
+   "r": [
+    172,
+    339,
+    760,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Poner nombre a ese",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "hambre",
+   "r": [
+    149,
+    339,
+    437,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "hambre",
+   "r": [
+    149,
+    339,
+    437,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "hambre calma",
+   "r": [
+    149,
+    338,
+    698,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "hambre calma el",
+   "r": [
+    149,
+    338,
+    780,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "genio",
+   "r": [
+    265,
+    339,
+    469,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    967,
+    950,
+    1029
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "genio",
+   "r": [
+    265,
+    339,
+    469,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    956,
+    950,
+    1018
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "genio rápido",
+   "r": [
+    265,
+    339,
+    730,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    945,
+    950,
+    1007
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "genio rápido",
+   "r": [
+    265,
+    339,
+    730,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    934,
+    950,
+    996
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "genio rápido al parar.",
+   "r": [
+    265,
+    339,
+    815,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    924,
+    950,
+    986
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "genio rápido al parar.",
+   "r": [
+    265,
+    339,
+    815,
+    514
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    914,
+    950,
+    976
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Evitar",
+   "r": [
+    262,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Parar y comer",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Evitar",
+   "r": [
+    262,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Evitar saltarse",
+   "r": [
+    262,
+    339,
+    818,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Evitar saltarse",
+   "r": [
+    262,
+    339,
+    818,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Evitar saltarse comidas",
+   "r": [
+    174,
+    339,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Evitar saltarse comidas",
+   "r": [
+    174,
+    339,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Evitar saltarse comidas por prisas",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Evitar saltarse comidas por prisas",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Evitar saltarse comidas por prisas",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "cuida",
+   "r": [
+    167,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "cuida las",
+   "r": [
+    167,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "cuida las relaciones",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "cuida las relaciones",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "cuida las relaciones en",
+   "r": [
+    167,
+    339,
+    913,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "cuida las relaciones en casa.",
+   "r": [
+    167,
+    339,
+    913,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "cuida las relaciones en casa.",
+   "r": [
+    167,
+    339,
+    913,
+    514
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo",
+   "r": [
+    257,
+    339,
+    673,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo",
+   "r": [
+    257,
+    339,
+    673,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo con",
+   "r": [
+    257,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo con cariño",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo con cariño a",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo con cariño a quien",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "necesita",
+   "r": [
+    252,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "necesita",
+   "r": [
+    252,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "necesita comer",
+   "r": [
+    252,
+    339,
+    828,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "necesita comer antes",
+   "r": [
+    207,
+    339,
+    828,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "necesita comer antes",
+   "r": [
+    207,
+    339,
+    828,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "necesita comer antes de discutir.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "necesita comer antes de discutir.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "necesita comer antes de discutir.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "necesita comer antes de discutir.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 711,
+  "texto": "Se retrasa la comida y contestas mal por cualquier tontería. La gente culpa enseguida a una supuesta bajada fuerte de azúcar. Pero en personas sanas la glucosa apenas cambia unas horas sin comer. Siguieron a adultos reales enviando avisos varias veces cada día. Recogieron su estado de ánimo en mitad de la rutina diaria. Con más de nueve mil respuestas confirmaron subida de enfado e ira. Pero pruebas controladas muestran que el estómago vacío no estalla. La rabia salta al leer ese malestar físico como agresión ajena. Poner nombre a ese hambre calma el mal genio rápido al parar. Evitar saltarse comidas por prisas cuida las relaciones en casa. Mándaselo con cariño a quien necesita comer antes de discutir.",
+  "inicio_s": 0.048,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Se retrasa la comida y contestas mal por cualquier tontería.",
+    "t0": 0.021,
+    "t1": 3.371
+   },
+   {
+    "texto": "La gente culpa enseguida a una supuesta bajada fuerte de azúcar.",
+    "t0": 3.636,
+    "t1": 6.916
+   },
+   {
+    "texto": "Pero en personas sanas la glucosa apenas cambia unas horas sin comer.",
+    "t0": 7.141,
+    "t1": 10.901
+   },
+   {
+    "texto": "Siguieron a adultos reales enviando avisos varias veces cada día.",
+    "t0": 11.096,
+    "t1": 14.656
+   },
+   {
+    "texto": "Recogieron su estado de ánimo en mitad de la rutina diaria.",
+    "t0": 14.901,
+    "t1": 17.781
+   },
+   {
+    "texto": "Con más de nueve mil respuestas confirmaron subida de enfado e ira.",
+    "t0": 18.046,
+    "t1": 21.886
+   },
+   {
+    "texto": "Pero pruebas controladas muestran que el estómago vacío no estalla.",
+    "t0": 22.056,
+    "t1": 25.611
+   },
+   {
+    "texto": "La rabia salta al leer ese malestar físico como agresión ajena.",
+    "t0": 25.866,
+    "t1": 29.466
+   },
+   {
+    "texto": "Poner nombre a ese hambre calma el mal genio rápido al parar.",
+    "t0": 29.741,
+    "t1": 32.941
+   },
+   {
+    "texto": "Evitar saltarse comidas por prisas cuida las relaciones en casa.",
+    "t0": 33.121,
+    "t1": 36.521
+   },
+   {
+    "texto": "Mándaselo con cariño a quien necesita comer antes de discutir.",
+    "t0": 36.751,
+    "t1": 39.911
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.731,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.031,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.396,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.676,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.101,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.061,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.526,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.786,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.146,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.521,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.751,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ul_hangry_enfado_con_hambre_cerebro.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E63946"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E63946"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E63946"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.9,
+   "render": 98.8,
+   "mezcla": 13.3
+  },
+  "escena_js": "tr"
+ }
+}

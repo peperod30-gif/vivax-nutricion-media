@@ -1,0 +1,85 @@
+{
+  "id": "n1-v6-tx-orden_plato_glucosa_vaciado",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-TX",
+  "pilar": "ensenar",
+  "hechos": [
+    "CUR-1221",
+    "CUR-1223",
+    "CUR-1225"
+  ],
+  "titulo": "[TX] Por qué cambiar el orden en tu plato reduce el pico tras comer arroz",
+  "hojas": [
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Mismo menú"
+      ],
+      "voz": "Comes arroz blanco con pollo o verduras y a la hora te entra modorra."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Vaciado lento"
+      ],
+      "voz": "Casi nadie piensa que el orden del tenedor altera cómo entra todo. No hace falta prohibir el plato ni pesar cada grano en la mesa."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Probaron menús idénticos en distinto orden con sensores continuos. Cuando empezaban por carne, pescado o ensalada el estómago frenó."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "141 Pico vs 169 mg/dl"
+      ],
+      "voz": "El pico bajó a ciento cuarenta y uno frente a ciento sesenta y nueve."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Proteína y fibra delante liberan hormonas que ralentizan el vaciado."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Así la digestión suelta energía gradual en lugar de un golpe brusco."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Orden en plato"
+      ],
+      "voz": "Si prefieres empezar por la ensalada mantienes el mismo plato. Pequeños gestos ordenados sostienen bien la tarde sin tanto café."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Mándaselo a quien cae dormido en el sofá tras comer un plato de pasta."
+    }
+  ],
+  "pie_instagram": "Sin quitar ingredientes ni gastar de más: simplemente empezar por el primer bloque del plato cambia la respuesta posterior.\n\nEn adultos sanos con sensor de glucosa y menús idénticos, empezar por verdura o proteína antes del arroz bajó el pico posterior frente a comer el arroz primero.\nLa carne o el pescado antes retrasaron el vaciado gástrico y estimularon GLP-1.\n\n¿Por qué parte sueles atacar primero cuando tienes comida mezclada delante?\nEn @vivax_nutri aplicamos ajustes prácticos fáciles de sostener sin pesar todo. Envíaselo a alguien que termina con bajón tras comer pasta o arroz.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#glucosa #plato #nutricion",
+  "alt": [
+    "Por qué cambiar el orden en tu plato reduce el pico tras comer arroz"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "v7",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "TX",
+    "lote": "v7-2026-11-14",
+    "serie": "v7",
+    "mecanica": "misma comida -> primero arroz vs verdura/proteina -> vaciado lento -> envio",
+    "tema": "secuencia de ingesta de verduras y proteína antes del arroz en curva glucémica",
+    "voz_de_prueba": false,
+    "personajes": [],
+    "motor": "v7",
+    "paleta": "virales",
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 TX en Telegram"
+  },
+  "comentario": "Fuentes: Nishino 2018 (CUR-1221), Kuwata 2016 (CUR-1223) y Kurotobi 2025 (CUR-1225). Respuesta posprandial en adultos sanos.\nVoz sintética (IA).",
+  "ia": true
+}

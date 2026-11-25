@@ -1,0 +1,2558 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.3,
+ "tamano_mb": 10.41,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 85.4,
+ "fotogramas": 1237,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Llega",
+   "r": [
+    242,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Llega",
+   "r": [
+    242,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Llega el frío",
+   "r": [
+    242,
+    338,
+    697,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Llega el frío",
+   "r": [
+    242,
+    338,
+    697,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Llega el frío y",
+   "r": [
+    242,
+    338,
+    754,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "gente",
+   "r": [
+    177,
+    339,
+    388,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "gente",
+   "r": [
+    177,
+    339,
+    388,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "gente corre",
+   "r": [
+    177,
+    339,
+    614,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "gente corre directa",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "gente corre directa",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "gente corre directa hacia",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Ranking crudo",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "la malla",
+   "r": [
+    157,
+    339,
+    445,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "la malla",
+   "r": [
+    157,
+    339,
+    445,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "la malla de naranjas.",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "la malla de naranjas.",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "la malla de naranjas.",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Solemos",
+   "r": [
+    188,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Solemos",
+   "r": [
+    188,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Solemos asociar",
+   "r": [
+    188,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Solemos asociar",
+   "r": [
+    188,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Solemos asociar la vitamina",
+   "r": [
+    188,
+    339,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Solemos asociar la vitamina",
+   "r": [
+    188,
+    339,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "C",
+   "r": [
+    181,
+    339,
+    233,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "C",
+   "r": [
+    181,
+    339,
+    233,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "C casi",
+   "r": [
+    181,
+    338,
+    423,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "C casi en exclusiva",
+   "r": [
+    181,
+    338,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "C casi en exclusiva",
+   "r": [
+    181,
+    338,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "C casi en exclusiva",
+   "r": [
+    181,
+    338,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "al",
+   "r": [
+    248,
+    339,
+    317,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "al",
+   "r": [
+    248,
+    339,
+    317,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "al clásico",
+   "r": [
+    248,
+    339,
+    598,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "al clásico zumo.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "al clásico zumo.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "al clásico zumo.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Pero",
+   "r": [
+    248,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Pero al",
+   "r": [
+    248,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Pero al ordenar",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Pero al ordenar cuatro",
+   "r": [
+    248,
+    339,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Pero al ordenar cuatro",
+   "r": [
+    248,
+    339,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "alimentos",
+   "r": [
+    150,
+    339,
+    519,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "alimentos",
+   "r": [
+    150,
+    339,
+    519,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "alimentos habituales",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "alimentos habituales",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "alimentos habituales en",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "alimentos habituales en crudo",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "alimentos habituales en crudo",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "cambia",
+   "r": [
+    231,
+    339,
+    502,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "cambia el",
+   "r": [
+    231,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "cambia el podio.",
+   "r": [
+    231,
+    338,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "cambia el podio.",
+   "r": [
+    231,
+    338,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "En",
+   "r": [
+    287,
+    339,
+    378,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "En la etiqueta",
+   "r": [
+    287,
+    339,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "En la etiqueta europea",
+   "r": [
+    287,
+    339,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "En la etiqueta europea",
+   "r": [
+    287,
+    339,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "En la etiqueta europea",
+   "r": [
+    287,
+    339,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "referencia",
+   "r": [
+    162,
+    347,
+    500,
+    420
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "referencia",
+   "r": [
+    162,
+    347,
+    500,
+    420
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Cambia calor",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "referencia diaria",
+   "r": [
+    162,
+    347,
+    701,
+    420
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "referencia diaria",
+   "r": [
+    162,
+    347,
+    701,
+    420
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "referencia diaria",
+   "r": [
+    162,
+    347,
+    701,
+    420
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "referencia diaria marca",
+   "r": [
+    162,
+    347,
+    918,
+    420
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "referencia diaria marca ochenta",
+   "r": [
+    162,
+    347,
+    918,
+    491
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "referencia diaria marca ochenta",
+   "r": [
+    162,
+    347,
+    918,
+    491
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "referencia diaria marca ochenta miligramos.",
+   "r": [
+    162,
+    347,
+    918,
+    494
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "referencia diaria marca ochenta miligramos.",
+   "r": [
+    162,
+    347,
+    918,
+    494
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "referencia diaria marca ochenta miligramos.",
+   "r": [
+    162,
+    347,
+    918,
+    494
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Por",
+   "r": [
+    289,
+    339,
+    422,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Por cada",
+   "r": [
+    289,
+    339,
+    620,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Por cada cien",
+   "r": [
+    289,
+    339,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Por cada cien gramos",
+   "r": [
+    289,
+    339,
+    791,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Por cada cien gramos",
+   "r": [
+    289,
+    339,
+    791,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "la",
+   "r": [
+    216,
+    339,
+    285,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "la naranja",
+   "r": [
+    216,
+    339,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "la naranja",
+   "r": [
+    216,
+    339,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "la naranja aporta",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "la naranja aporta",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "la naranja aporta cincuenta",
+   "r": [
+    216,
+    339,
+    864,
+    510
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "la naranja aporta cincuenta",
+   "r": [
+    216,
+    339,
+    864,
+    510
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "y tres",
+   "r": [
+    205,
+    339,
+    419,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "y tres miligramos.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "y tres miligramos.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "y tres miligramos.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "y tres miligramos.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Las",
+   "r": [
+    171,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Las fresas",
+   "r": [
+    171,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Las fresas",
+   "r": [
+    171,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Las fresas ya suben",
+   "r": [
+    171,
+    339,
+    909,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "a",
+   "r": [
+    175,
+    339,
+    222,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "a cincuenta",
+   "r": [
+    175,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "a cincuenta",
+   "r": [
+    175,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "a cincuenta y nueve",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "a cincuenta y nueve",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "y el",
+   "r": [
+    277,
+    339,
+    401,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "y el kiwi",
+   "r": [
+    277,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "y el kiwi",
+   "r": [
+    277,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "y el kiwi verde",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "y el kiwi verde",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "a noventa",
+   "r": [
+    223,
+    338,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "a noventa",
+   "r": [
+    223,
+    338,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "a noventa y tres.",
+   "r": [
+    223,
+    338,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "128",
+   "r": [
+    433,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "a noventa y tres.",
+   "r": [
+    223,
+    338,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "128",
+   "r": [
+    433,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Aunque",
+   "r": [
+    166,
+    339,
+    451,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "128",
+   "r": [
+    60,
+    520,
+    577,
+    620
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Aunque el líder",
+   "r": [
+    166,
+    339,
+    723,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "128",
+   "r": [
+    60,
+    520,
+    577,
+    620
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Aunque el líder de",
+   "r": [
+    166,
+    339,
+    830,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "128",
+   "r": [
+    60,
+    520,
+    577,
+    620
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "cocina",
+   "r": [
+    207,
+    342,
+    442,
+    425
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "128",
+   "r": [
+    60,
+    520,
+    577,
+    620
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "cocina",
+   "r": [
+    207,
+    342,
+    442,
+    425
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "128",
+   "r": [
+    60,
+    520,
+    577,
+    620
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "cocina cruda",
+   "r": [
+    207,
+    342,
+    666,
+    425
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "128",
+   "r": [
+    60,
+    531,
+    577,
+    631
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "cocina cruda suele",
+   "r": [
+    207,
+    342,
+    873,
+    425
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "128",
+   "r": [
+    60,
+    545,
+    577,
+    645
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "cocina cruda suele",
+   "r": [
+    207,
+    342,
+    873,
+    425
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "cocina cruda suele pasar",
+   "r": [
+    154,
+    342,
+    873,
+    507
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "cocina cruda suele pasar desapercibido.",
+   "r": [
+    154,
+    342,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "cocina cruda suele pasar desapercibido.",
+   "r": [
+    154,
+    342,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "cocina cruda suele pasar desapercibido.",
+   "r": [
+    154,
+    342,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "cocina cruda suele pasar desapercibido.",
+   "r": [
+    154,
+    342,
+    926,
+    507
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "El pimiento",
+   "r": [
+    252,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "El pimiento",
+   "r": [
+    252,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "El pimiento rojo",
+   "r": [
+    252,
+    339,
+    828,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "El pimiento rojo",
+   "r": [
+    252,
+    339,
+    828,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "El pimiento rojo crudo",
+   "r": [
+    252,
+    339,
+    828,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "El pimiento rojo crudo",
+   "r": [
+    252,
+    339,
+    828,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "El pimiento rojo crudo llega",
+   "r": [
+    252,
+    339,
+    828,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "El pimiento rojo crudo llega",
+   "r": [
+    252,
+    339,
+    828,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "a ciento",
+   "r": [
+    180,
+    339,
+    476,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "a ciento",
+   "r": [
+    180,
+    339,
+    476,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "a ciento veintiocho",
+   "r": [
+    180,
+    338,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "a ciento veintiocho",
+   "r": [
+    180,
+    338,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "a ciento veintiocho miligramos.",
+   "r": [
+    180,
+    338,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "a ciento veintiocho miligramos.",
+   "r": [
+    180,
+    338,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "a ciento veintiocho miligramos.",
+   "r": [
+    180,
+    338,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "a ciento veintiocho miligramos.",
+   "r": [
+    180,
+    338,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Ten en",
+   "r": [
+    163,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Ten en cuenta",
+   "r": [
+    163,
+    339,
+    678,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Ten en cuenta que",
+   "r": [
+    163,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "hervirlo",
+   "r": [
+    233,
+    338,
+    553,
+    423
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "hervirlo",
+   "r": [
+    233,
+    338,
+    553,
+    423
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "hervirlo",
+   "r": [
+    233,
+    338,
+    553,
+    423
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "hervirlo el",
+   "r": [
+    233,
+    338,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "hervirlo el calor",
+   "r": [
+    233,
+    338,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "hervirlo el calor reduce",
+   "r": [
+    233,
+    338,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "hervirlo el calor reduce",
+   "r": [
+    233,
+    338,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "mucho",
+   "r": [
+    202,
+    339,
+    451,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "mucho la cantidad",
+   "r": [
+    202,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "mucho la cantidad",
+   "r": [
+    202,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "mucho la cantidad final.",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Comer variedad",
+   "r": [
+    583,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "mucho la cantidad final.",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "mucho la cantidad final.",
+   "r": [
+    202,
+    339,
+    878,
+    514
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Meter",
+   "r": [
+    175,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Meter tiras",
+   "r": [
+    175,
+    338,
+    626,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Meter tiras crudas",
+   "r": [
+    175,
+    338,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Meter tiras crudas",
+   "r": [
+    175,
+    338,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "ensalada",
+   "r": [
+    153,
+    339,
+    495,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "ensalada",
+   "r": [
+    153,
+    339,
+    495,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "ensalada suma",
+   "r": [
+    153,
+    339,
+    713,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "ensalada suma",
+   "r": [
+    153,
+    339,
+    713,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "ensalada suma dosis",
+   "r": [
+    153,
+    339,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "ensalada suma dosis",
+   "r": [
+    153,
+    339,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "depender",
+   "r": [
+    254,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "depender",
+   "r": [
+    254,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "depender de un",
+   "r": [
+    254,
+    339,
+    826,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "depender de un fruto.",
+   "r": [
+    254,
+    339,
+    826,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "depender de un fruto.",
+   "r": [
+    254,
+    339,
+    826,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a",
+   "r": [
+    190,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a quien exprime",
+   "r": [
+    190,
+    339,
+    890,
+    510
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien exprime",
+   "r": [
+    190,
+    339,
+    890,
+    510
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "naranjas",
+   "r": [
+    193,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "naranjas",
+   "r": [
+    193,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "naranjas",
+   "r": [
+    193,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "naranjas sin saber",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "naranjas sin saber",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "naranjas sin saber qué",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "lleva",
+   "r": [
+    209,
+    339,
+    387,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "lleva su",
+   "r": [
+    209,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "lleva su ensalada.",
+   "r": [
+    209,
+    339,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "lleva su ensalada.",
+   "r": [
+    209,
+    339,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "lleva su ensalada.",
+   "r": [
+    209,
+    339,
+    871,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 743,
+  "texto": "Llega el frío y la gente corre directa hacia la malla de naranjas. Solemos asociar la vitamina C casi en exclusiva al clásico zumo. Pero al ordenar cuatro alimentos habituales en crudo cambia el podio. En la etiqueta europea la referencia diaria marca ochenta miligramos. Por cada cien gramos la naranja aporta cincuenta y tres miligramos. Las fresas ya suben a cincuenta y nueve y el kiwi verde a noventa y tres. Aunque el líder de la cocina cruda suele pasar desapercibido. El pimiento rojo crudo llega a ciento veintiocho miligramos. Ten en cuenta que al hervirlo el calor reduce mucho la cantidad final. Meter tiras crudas en ensalada suma dosis sin depender de un fruto. Mándaselo a quien exprime naranjas sin saber qué lleva su ensalada.",
+  "inicio_s": 0.0516,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Llega el frío y la gente corre directa hacia la malla de naranjas.",
+    "t0": 0.021,
+    "t1": 3.461
+   },
+   {
+    "texto": "Solemos asociar la vitamina C casi en exclusiva al clásico zumo.",
+    "t0": 3.711,
+    "t1": 7.511
+   },
+   {
+    "texto": "Pero al ordenar cuatro alimentos habituales en crudo cambia el podio.",
+    "t0": 7.766,
+    "t1": 11.339
+   },
+   {
+    "texto": "En la etiqueta europea la referencia diaria marca ochenta miligramos.",
+    "t0": 11.581,
+    "t1": 15.221
+   },
+   {
+    "texto": "Por cada cien gramos la naranja aporta cincuenta y tres miligramos.",
+    "t0": 15.406,
+    "t1": 19.196
+   },
+   {
+    "texto": "Las fresas ya suben a cincuenta y nueve y el kiwi verde a noventa y tres.",
+    "t0": 19.303,
+    "t1": 23.116
+   },
+   {
+    "texto": "Aunque el líder de la cocina cruda suele pasar desapercibido.",
+    "t0": 23.411,
+    "t1": 26.251
+   },
+   {
+    "texto": "El pimiento rojo crudo llega a ciento veintiocho miligramos.",
+    "t0": 26.426,
+    "t1": 29.946
+   },
+   {
+    "texto": "Ten en cuenta que al hervirlo el calor reduce mucho la cantidad final.",
+    "t0": 30.171,
+    "t1": 33.611
+   },
+   {
+    "texto": "Meter tiras crudas en ensalada suma dosis sin depender de un fruto.",
+    "t0": 33.881,
+    "t1": 37.241
+   },
+   {
+    "texto": "Mándaselo a quien exprime naranjas sin saber qué lleva su ensalada.",
+    "t0": 37.508,
+    "t1": 40.815
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.63,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.421,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.841,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.631,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.391,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.566,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 22.556,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 22.976,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.386,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.631,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.508,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ty_naranja_fresa_kiwi_pimiento_vitc.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pimiento",
+      "colores": [
+       "#C62828"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pimiento",
+      "colores": [
+       "#C62828"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pimiento",
+      "colores": [
+       "#C62828"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pimiento",
+      "colores": [
+       "#C62828"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pimiento",
+      "colores": [
+       "#C62828"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": true,
+  "tiempos_s": {
+   "voz": 15.2,
+   "render": 110.3,
+   "mezcla": 15.2
+  },
+  "escena_js": "tr"
+ }
+}

@@ -1,0 +1,2528 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.17,
+ "tamano_mb": 10.41,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 81.5,
+ "fotogramas": 1203,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Sobra",
+   "r": [
+    179,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Sobra",
+   "r": [
+    179,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Sobra media",
+   "r": [
+    179,
+    339,
+    649,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Sobra media",
+   "r": [
+    179,
+    339,
+    649,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Sobra media barra",
+   "r": [
+    179,
+    338,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Sobra media barra de pan",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Sobra media barra de pan",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "y la",
+   "r": [
+    312,
+    339,
+    438,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "y la metes",
+   "r": [
+    312,
+    339,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "y la metes al",
+   "r": [
+    312,
+    339,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "momento",
+   "r": [
+    272,
+    339,
+    618,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "momento",
+   "r": [
+    272,
+    339,
+    618,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Error común",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "momento en la",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "momento en la nevera.",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "momento en la nevera.",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "La gente",
+   "r": [
+    212,
+    339,
+    527,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La gente",
+   "r": [
+    212,
+    339,
+    527,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La gente cree",
+   "r": [
+    212,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "el",
+   "r": [
+    167,
+    339,
+    234,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "el frío",
+   "r": [
+    167,
+    339,
+    387,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "el frío dejará",
+   "r": [
+    167,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "el frío dejará",
+   "r": [
+    167,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "el frío dejará tierna",
+   "r": [
+    167,
+    338,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "el frío dejará tierna",
+   "r": [
+    167,
+    338,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "la miga",
+   "r": [
+    184,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "la miga varios",
+   "r": [
+    184,
+    339,
+    701,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "la miga varios",
+   "r": [
+    184,
+    339,
+    701,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "la miga varios días.",
+   "r": [
+    184,
+    339,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "la miga varios días.",
+   "r": [
+    184,
+    339,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "Al",
+   "r": [
+    170,
+    339,
+    246,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "Al día siguiente",
+   "r": [
+    170,
+    339,
+    738,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Al día siguiente",
+   "r": [
+    170,
+    339,
+    738,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Al día siguiente",
+   "r": [
+    170,
+    339,
+    738,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Al día siguiente sale",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Al día siguiente sale dura",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Al día siguiente sale dura",
+   "r": [
+    170,
+    339,
+    910,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "como",
+   "r": [
+    193,
+    339,
+    395,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "como una piedra",
+   "r": [
+    193,
+    338,
+    830,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "como una piedra",
+   "r": [
+    193,
+    338,
+    830,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "como una piedra y",
+   "r": [
+    193,
+    338,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    834,
+    950,
+    896
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "piensas",
+   "r": [
+    160,
+    339,
+    450,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    833,
+    950,
+    895
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "piensas",
+   "r": [
+    160,
+    339,
+    450,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    841,
+    950,
+    903
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "piensas que se",
+   "r": [
+    160,
+    339,
+    707,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    849,
+    950,
+    911
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "piensas que se secó.",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    857,
+    950,
+    919
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "piensas que se secó.",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    864,
+    950,
+    926
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Lo",
+   "r": [
+    217,
+    339,
+    305,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    871,
+    950,
+    933
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Lo curioso",
+   "r": [
+    217,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Almidón ordenado",
+   "r": [
+    536,
+    877,
+    950,
+    939
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Lo curioso",
+   "r": [
+    217,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Lo curioso es",
+   "r": [
+    217,
+    339,
+    709,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Lo curioso es que fuera",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Lo curioso es que fuera",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "y",
+   "r": [
+    165,
+    339,
+    207,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "y en nevera",
+   "r": [
+    165,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "y en nevera",
+   "r": [
+    165,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "y en nevera pierden",
+   "r": [
+    165,
+    338,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "y en nevera pierden",
+   "r": [
+    165,
+    338,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "casi",
+   "r": [
+    180,
+    339,
+    334,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "casi",
+   "r": [
+    180,
+    339,
+    334,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "casi la misma",
+   "r": [
+    180,
+    339,
+    678,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "casi la misma",
+   "r": [
+    180,
+    339,
+    678,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "casi la misma agua.",
+   "r": [
+    180,
+    339,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "La",
+   "r": [
+    213,
+    339,
+    301,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "La miga",
+   "r": [
+    213,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "La miga endurece",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "La miga endurece",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "La miga endurece porque",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "La miga endurece porque el",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "almidón",
+   "r": [
+    156,
+    342,
+    436,
+    425
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "almidón",
+   "r": [
+    156,
+    342,
+    436,
+    425
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "almidón reordena",
+   "r": [
+    156,
+    342,
+    784,
+    425
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "almidón reordena",
+   "r": [
+    156,
+    342,
+    784,
+    425
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "almidón reordena sus",
+   "r": [
+    156,
+    342,
+    924,
+    425
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "almidón reordena sus cristales",
+   "r": [
+    156,
+    342,
+    924,
+    504
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "almidón reordena sus cristales",
+   "r": [
+    156,
+    342,
+    924,
+    504
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "almidón reordena sus cristales",
+   "r": [
+    156,
+    342,
+    924,
+    504
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "almidón reordena sus cristales internos.",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "almidón reordena sus cristales internos.",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "almidón reordena sus cristales internos.",
+   "r": [
+    156,
+    342,
+    924,
+    507
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Justo",
+   "r": [
+    260,
+    339,
+    469,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Justo a",
+   "r": [
+    260,
+    339,
+    531,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Justo a cuatro",
+   "r": [
+    260,
+    338,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Justo a cuatro grados",
+   "r": [
+    260,
+    338,
+    820,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Justo a cuatro grados",
+   "r": [
+    260,
+    338,
+    820,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "en nevera",
+   "r": [
+    281,
+    339,
+    651,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "en nevera",
+   "r": [
+    281,
+    339,
+    651,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "en nevera ese",
+   "r": [
+    281,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "en nevera ese",
+   "r": [
+    281,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "en nevera ese proceso",
+   "r": [
+    281,
+    339,
+    799,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "ocurre",
+   "r": [
+    193,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "ocurre",
+   "r": [
+    193,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "-18 °C",
+   "r": [
+    292,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "ocurre mucho",
+   "r": [
+    193,
+    339,
+    716,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "ocurre mucho más",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "ocurre mucho más rápido.",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "ocurre mucho más rápido.",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "En",
+   "r": [
+    182,
+    339,
+    273,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "En panera",
+   "r": [
+    182,
+    338,
+    578,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "En panera cerrada",
+   "r": [
+    182,
+    338,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "En panera cerrada",
+   "r": [
+    182,
+    338,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "En panera cerrada",
+   "r": [
+    182,
+    338,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "tarda",
+   "r": [
+    167,
+    339,
+    377,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "tarda en endurecer,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "tarda en endurecer,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "tarda en endurecer,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "tarda en endurecer,",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "aunque",
+   "r": [
+    238,
+    339,
+    517,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "aunque aguanta",
+   "r": [
+    238,
+    339,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "aunque aguanta",
+   "r": [
+    238,
+    339,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "aunque aguanta menos",
+   "r": [
+    234,
+    339,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "aunque aguanta menos sin",
+   "r": [
+    234,
+    339,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "aunque aguanta menos sin moho.",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "aunque aguanta menos sin moho.",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Para",
+   "r": [
+    268,
+    342,
+    440,
+    425
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Para guardarlo",
+   "r": [
+    268,
+    342,
+    812,
+    425
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Para guardarlo",
+   "r": [
+    268,
+    342,
+    812,
+    425
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Para guardarlo semanas",
+   "r": [
+    151,
+    342,
+    812,
+    507
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Para guardarlo semanas",
+   "r": [
+    151,
+    342,
+    812,
+    507
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Para guardarlo semanas intacto",
+   "r": [
+    151,
+    342,
+    812,
+    507
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Para guardarlo semanas intacto",
+   "r": [
+    151,
+    342,
+    812,
+    507
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Para guardarlo semanas intacto sirve",
+   "r": [
+    151,
+    342,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Para guardarlo semanas intacto sirve",
+   "r": [
+    151,
+    342,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "congelar",
+   "r": [
+    301,
+    339,
+    633,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "congelar",
+   "r": [
+    301,
+    339,
+    633,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "congelar por rebanadas",
+   "r": [
+    171,
+    339,
+    779,
+    510
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "congelar por rebanadas",
+   "r": [
+    171,
+    339,
+    779,
+    510
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "congelar por rebanadas",
+   "r": [
+    171,
+    339,
+    779,
+    510
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "congelar por rebanadas sueltas.",
+   "r": [
+    171,
+    339,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "congelar por rebanadas sueltas.",
+   "r": [
+    171,
+    339,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "A",
+   "r": [
+    195,
+    339,
+    248,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "A menos",
+   "r": [
+    195,
+    339,
+    509,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "A menos dieciocho",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "A menos dieciocho",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "A menos dieciocho grados",
+   "r": [
+    195,
+    339,
+    885,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "A menos dieciocho grados",
+   "r": [
+    195,
+    339,
+    885,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "la",
+   "r": [
+    338,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "la red",
+   "r": [
+    338,
+    339,
+    552,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "la red de la",
+   "r": [
+    338,
+    339,
+    742,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "miga",
+   "r": [
+    231,
+    338,
+    432,
+    423
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "miga queda",
+   "r": [
+    231,
+    338,
+    679,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    854,
+    950,
+    916
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "miga queda casi",
+   "r": [
+    231,
+    338,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    840,
+    950,
+    902
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "miga queda casi quieta.",
+   "r": [
+    231,
+    338,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    827,
+    950,
+    889
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "miga queda casi quieta.",
+   "r": [
+    231,
+    338,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    814,
+    950,
+    876
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "miga queda casi quieta.",
+   "r": [
+    231,
+    338,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    802,
+    950,
+    864
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Luego",
+   "r": [
+    264,
+    339,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Luego",
+   "r": [
+    264,
+    339,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Luego un golpe",
+   "r": [
+    264,
+    339,
+    816,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Congelar en rebanadas",
+   "r": [
+    421,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Luego un golpe",
+   "r": [
+    264,
+    339,
+    816,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Luego un golpe directo",
+   "r": [
+    264,
+    339,
+    816,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "de tostadora",
+   "r": [
+    289,
+    338,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "de tostadora",
+   "r": [
+    289,
+    338,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "de tostadora",
+   "r": [
+    289,
+    338,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "de tostadora",
+   "r": [
+    289,
+    338,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "de tostadora devuelve",
+   "r": [
+    274,
+    338,
+    791,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "de tostadora devuelve",
+   "r": [
+    274,
+    338,
+    791,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "de tostadora devuelve miga",
+   "r": [
+    274,
+    338,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "fresca",
+   "r": [
+    201,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "fresca al",
+   "r": [
+    201,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "fresca al instante.",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "fresca al instante.",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "fresca al instante.",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a quien guarda",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a quien guarda",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "siempre",
+   "r": [
+    216,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "siempre",
+   "r": [
+    216,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "siempre el pan",
+   "r": [
+    216,
+    339,
+    758,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "molde",
+   "r": [
+    172,
+    338,
+    418,
+    423
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "molde en",
+   "r": [
+    172,
+    338,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "molde en la nevera.",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "molde en la nevera.",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "molde en la nevera.",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 721,
+  "texto": "Sobra media barra de pan y la metes al momento en la nevera. La gente cree que el frío dejará tierna la miga varios días. Al día siguiente sale dura como una piedra y piensas que se secó. Lo curioso es que fuera y en nevera pierden casi la misma agua. La miga endurece porque el almidón reordena sus cristales internos. Justo a cuatro grados en nevera ese proceso ocurre mucho más rápido. En panera cerrada tarda en endurecer, aunque aguanta menos sin moho. Para guardarlo semanas intacto sirve congelar por rebanadas sueltas. A menos dieciocho grados la red de la miga queda casi quieta. Luego un golpe directo de tostadora devuelve miga fresca al instante. Mándaselo a quien guarda siempre el pan de molde en la nevera.",
+  "inicio_s": 0.04,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Sobra media barra de pan y la metes al momento en la nevera.",
+    "t0": 0.021,
+    "t1": 3.221
+   },
+   {
+    "texto": "La gente cree que el frío dejará tierna la miga varios días.",
+    "t0": 3.396,
+    "t1": 6.506
+   },
+   {
+    "texto": "Al día siguiente sale dura como una piedra y piensas que se secó.",
+    "t0": 6.676,
+    "t1": 10.236
+   },
+   {
+    "texto": "Lo curioso es que fuera y en nevera pierden casi la misma agua.",
+    "t0": 10.401,
+    "t1": 14.001
+   },
+   {
+    "texto": "La miga endurece porque el almidón reordena sus cristales internos.",
+    "t0": 14.171,
+    "t1": 17.771
+   },
+   {
+    "texto": "Justo a cuatro grados en nevera ese proceso ocurre mucho más rápido.",
+    "t0": 18.076,
+    "t1": 21.716
+   },
+   {
+    "texto": "En panera cerrada tarda en endurecer, aunque aguanta menos sin moho.",
+    "t0": 21.926,
+    "t1": 25.486
+   },
+   {
+    "texto": "Para guardarlo semanas intacto sirve congelar por rebanadas sueltas.",
+    "t0": 25.761,
+    "t1": 29.441
+   },
+   {
+    "texto": "A menos dieciocho grados la red de la miga queda casi quieta.",
+    "t0": 29.641,
+    "t1": 32.721
+   },
+   {
+    "texto": "Luego un golpe directo de tostadora devuelve miga fresca al instante.",
+    "t0": 32.971,
+    "t1": 36.771
+   },
+   {
+    "texto": "Mándaselo a quien guarda siempre el pan de molde en la nevera.",
+    "t0": 36.936,
+    "t1": 39.696
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.5,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.421,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.001,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.306,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.986,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.081,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.771,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.516,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.856,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.401,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.861,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.936,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ug_pan_nevera_se_endurece_antes.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#7CA854"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#7CA854"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#7CA854"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bloque_hielo",
+      "colores": [
+       "#A7DCF0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 15.3,
+   "render": 101.9,
+   "mezcla": 14.4
+  },
+  "escena_js": "tr"
+ }
+}

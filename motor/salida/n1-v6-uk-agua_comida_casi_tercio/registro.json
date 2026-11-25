@@ -1,0 +1,2613 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 42.5,
+ "tamano_mb": 11.03,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 87.8,
+ "fotogramas": 1273,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Cargas",
+   "r": [
+    179,
+    339,
+    450,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Cargas",
+   "r": [
+    179,
+    339,
+    450,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Cargas una",
+   "r": [
+    179,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Cargas una botella",
+   "r": [
+    179,
+    338,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Cargas una botella enorme",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Cargas una botella enorme",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Cargas una botella enorme",
+   "r": [
+    179,
+    338,
+    901,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "agobiado",
+   "r": [
+    176,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "agobiado",
+   "r": [
+    176,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "agobiado por",
+   "r": [
+    176,
+    339,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "agobiado por beber",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "agobiado por beber",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Botella gigante",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "par",
+   "r": [
+    312,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "par de litros",
+   "r": [
+    312,
+    339,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "par de litros",
+   "r": [
+    312,
+    339,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "par de litros",
+   "r": [
+    312,
+    339,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "par de litros exactos.",
+   "r": [
+    312,
+    339,
+    768,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "par de litros exactos.",
+   "r": [
+    312,
+    339,
+    768,
+    514
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Casi",
+   "r": [
+    162,
+    339,
+    326,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Casi",
+   "r": [
+    162,
+    339,
+    326,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Casi nadie",
+   "r": [
+    162,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Casi nadie avisa",
+   "r": [
+    162,
+    339,
+    764,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Casi nadie avisa qué",
+   "r": [
+    162,
+    339,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Casi nadie avisa qué incluyen",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Casi nadie avisa qué incluyen",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "Casi nadie avisa qué incluyen",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "exactamente",
+   "r": [
+    199,
+    339,
+    689,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "exactamente",
+   "r": [
+    199,
+    339,
+    689,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "exactamente",
+   "r": [
+    199,
+    339,
+    689,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "exactamente esas",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "exactamente esas cifras",
+   "r": [
+    199,
+    339,
+    881,
+    510
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "exactamente esas cifras oficiales.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "exactamente esas cifras oficiales.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "exactamente esas cifras oficiales.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "exactamente esas cifras oficiales.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "La meta",
+   "r": [
+    203,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "La meta del",
+   "r": [
+    203,
+    339,
+    624,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "La meta del par",
+   "r": [
+    203,
+    339,
+    771,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "La meta del par de",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "litros",
+   "r": [
+    145,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "litros",
+   "r": [
+    145,
+    339,
+    349,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "litros suma",
+   "r": [
+    145,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "litros suma",
+   "r": [
+    145,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "litros suma líquidos",
+   "r": [
+    145,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "litros suma líquidos",
+   "r": [
+    145,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "litros suma líquidos y",
+   "r": [
+    145,
+    339,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "litros suma líquidos y toda",
+   "r": [
+    145,
+    339,
+    935,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "humedad",
+   "r": [
+    263,
+    338,
+    626,
+    423
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "humedad",
+   "r": [
+    263,
+    338,
+    626,
+    423
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "humedad de la",
+   "r": [
+    263,
+    338,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    777,
+    950,
+    839
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "humedad de la comida.",
+   "r": [
+    263,
+    338,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    783,
+    950,
+    845
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "humedad de la comida.",
+   "r": [
+    263,
+    338,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    789,
+    950,
+    851
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "La",
+   "r": [
+    232,
+    339,
+    320,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    796,
+    950,
+    858
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "La sandía",
+   "r": [
+    232,
+    339,
+    586,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    804,
+    950,
+    866
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "La sandía fresca",
+   "r": [
+    232,
+    339,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    812,
+    950,
+    874
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "La sandía fresca",
+   "r": [
+    232,
+    339,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    820,
+    950,
+    882
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "La sandía fresca lleva",
+   "r": [
+    232,
+    339,
+    848,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Agua oculta",
+   "r": [
+    652,
+    827,
+    950,
+    889
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "agua",
+   "r": [
+    289,
+    339,
+    475,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "agua casi",
+   "r": [
+    289,
+    339,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "agua casi",
+   "r": [
+    289,
+    339,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "agua casi por",
+   "r": [
+    289,
+    339,
+    791,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "agua casi por completo",
+   "r": [
+    289,
+    339,
+    791,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "agua casi por completo",
+   "r": [
+    289,
+    339,
+    791,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "en",
+   "r": [
+    247,
+    339,
+    338,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "en cada",
+   "r": [
+    247,
+    339,
+    536,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "en cada tajada.",
+   "r": [
+    247,
+    338,
+    833,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "en cada tajada.",
+   "r": [
+    247,
+    338,
+    833,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Midieron",
+   "r": [
+    208,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Midieron",
+   "r": [
+    208,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Midieron miles",
+   "r": [
+    208,
+    339,
+    766,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Midieron miles",
+   "r": [
+    208,
+    339,
+    766,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Midieron miles de diarios",
+   "r": [
+    162,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Midieron miles de diarios",
+   "r": [
+    162,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "Midieron miles de diarios alimentarios",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "Midieron miles de diarios alimentarios",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "Midieron miles de diarios alimentarios",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "en la",
+   "r": [
+    271,
+    339,
+    446,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "en la encuesta",
+   "r": [
+    271,
+    339,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "en la encuesta española",
+   "r": [
+    199,
+    339,
+    809,
+    510
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "en la encuesta española",
+   "r": [
+    199,
+    339,
+    809,
+    510
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "en la encuesta española",
+   "r": [
+    199,
+    339,
+    809,
+    510
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "en la encuesta española ANIBES.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "en la encuesta española ANIBES.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "en la encuesta española ANIBES.",
+   "r": [
+    199,
+    339,
+    881,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Treinta",
+   "r": [
+    218,
+    338,
+    509,
+    423
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Treinta y",
+   "r": [
+    218,
+    338,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Treinta y dos por",
+   "r": [
+    218,
+    338,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "ciento",
+   "r": [
+    162,
+    339,
+    395,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "ciento",
+   "r": [
+    162,
+    339,
+    395,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "ciento del",
+   "r": [
+    162,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "ciento del agua total",
+   "r": [
+    162,
+    339,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "ciento del agua total",
+   "r": [
+    162,
+    339,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "llegó",
+   "r": [
+    224,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "llegó",
+   "r": [
+    224,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "llegó masticando",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "32 %",
+   "r": [
+    478,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "llegó masticando",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "llegó masticando",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "llegó masticando comida.",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "llegó masticando comida.",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "llegó masticando comida.",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Infusiones,",
+   "r": [
+    210,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Infusiones,",
+   "r": [
+    210,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Infusiones,",
+   "r": [
+    210,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Infusiones,",
+   "r": [
+    210,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Infusiones, leche,",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Infusiones, leche,",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "gazpacho",
+   "r": [
+    175,
+    338,
+    551,
+    423
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "gazpacho",
+   "r": [
+    175,
+    338,
+    551,
+    423
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "gazpacho",
+   "r": [
+    175,
+    338,
+    551,
+    423
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "gazpacho y",
+   "r": [
+    175,
+    338,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "gazpacho y cremas",
+   "r": [
+    175,
+    338,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "gazpacho y cremas de verdura",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "gazpacho y cremas de verdura",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "gazpacho y cremas de verdura",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "suman",
+   "r": [
+    159,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "suman como",
+   "r": [
+    159,
+    339,
+    624,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "suman como el",
+   "r": [
+    159,
+    339,
+    707,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "suman como el vaso.",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "suman como el vaso.",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Eso",
+   "r": [
+    205,
+    339,
+    339,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Eso no",
+   "r": [
+    205,
+    339,
+    446,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "Eso no quita",
+   "r": [
+    205,
+    339,
+    655,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "Eso no quita tener",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "agua",
+   "r": [
+    200,
+    339,
+    386,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "agua fresca",
+   "r": [
+    200,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "agua fresca",
+   "r": [
+    200,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "agua fresca cerca",
+   "r": [
+    200,
+    339,
+    880,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "agua fresca cerca cuando",
+   "r": [
+    200,
+    339,
+    880,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "aprieta",
+   "r": [
+    255,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "aprieta",
+   "r": [
+    255,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "aprieta calor",
+   "r": [
+    255,
+    338,
+    764,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "aprieta calor o",
+   "r": [
+    255,
+    338,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "aprieta calor o deporte.",
+   "r": [
+    255,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "aprieta calor o deporte.",
+   "r": [
+    255,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "aprieta calor o deporte.",
+   "r": [
+    255,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Solo quita",
+   "r": [
+    191,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Solo quita",
+   "r": [
+    191,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Solo quita la culpa",
+   "r": [
+    191,
+    338,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Solo quita la culpa inútil",
+   "r": [
+    191,
+    338,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Solo quita la culpa inútil",
+   "r": [
+    191,
+    338,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    1098,
+    950,
+    1160
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Solo quita la culpa inútil",
+   "r": [
+    191,
+    338,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    1036,
+    950,
+    1098
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "si",
+   "r": [
+    259,
+    339,
+    323,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    1022,
+    950,
+    1084
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "si tomas",
+   "r": [
+    259,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    1010,
+    950,
+    1072
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "si tomas platos",
+   "r": [
+    259,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    997,
+    950,
+    1059
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "si tomas platos frescos",
+   "r": [
+    156,
+    339,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    984,
+    950,
+    1046
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "si tomas platos frescos",
+   "r": [
+    156,
+    339,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Mira tu fruta",
+   "r": [
+    606,
+    972,
+    950,
+    1034
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "si tomas platos frescos abundantes.",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "si tomas platos frescos abundantes.",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "si tomas platos frescos abundantes.",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "La",
+   "r": [
+    175,
+    339,
+    263,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "La sed",
+   "r": [
+    175,
+    339,
+    412,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "La sed",
+   "r": [
+    175,
+    339,
+    412,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "La sed normal",
+   "r": [
+    175,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "La sed normal y",
+   "r": [
+    175,
+    339,
+    750,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "orina",
+   "r": [
+    213,
+    338,
+    432,
+    423
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "orina",
+   "r": [
+    213,
+    338,
+    432,
+    423
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "orina clara",
+   "r": [
+    213,
+    338,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "orina clara",
+   "r": [
+    213,
+    338,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "orina clara guían",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "orina clara guían",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "orina clara guían más",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "que las",
+   "r": [
+    284,
+    339,
+    549,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "que las metas",
+   "r": [
+    284,
+    339,
+    796,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "que las metas rígidas.",
+   "r": [
+    284,
+    339,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "que las metas rígidas.",
+   "r": [
+    284,
+    339,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "que las metas rígidas.",
+   "r": [
+    284,
+    339,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "Mándaselo a",
+   "r": [
+    156,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "bebe",
+   "r": [
+    232,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "bebe",
+   "r": [
+    232,
+    339,
+    415,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "bebe forzado",
+   "r": [
+    232,
+    339,
+    722,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "bebe forzado",
+   "r": [
+    232,
+    339,
+    722,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "bebe forzado sin",
+   "r": [
+    232,
+    339,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "bebe forzado sin contar",
+   "r": [
+    232,
+    339,
+    848,
+    514
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "bebe forzado sin contar",
+   "r": [
+    232,
+    339,
+    848,
+    514
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "ensalada",
+   "r": [
+    202,
+    338,
+    564,
+    423
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "ensalada",
+   "r": [
+    202,
+    338,
+    564,
+    423
+   ]
+  },
+  {
+   "t": 41.77,
+   "texto": "ensalada ni fruta.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 42.0,
+   "texto": "ensalada ni fruta.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 42.23,
+   "texto": "ensalada ni fruta.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.4,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 734,
+  "texto": "Cargas una botella enorme agobiado por beber un par de litros exactos. Casi nadie avisa qué incluyen exactamente esas cifras oficiales. La meta del par de litros suma líquidos y toda humedad de la comida. La sandía fresca lleva agua casi por completo en cada tajada. Midieron miles de diarios alimentarios en la encuesta española ANIBES. Treinta y dos por ciento del agua total llegó masticando comida. Infusiones, leche, gazpacho y cremas de verdura suman como el vaso. Eso no quita tener agua fresca cerca cuando aprieta calor o deporte. Solo quita la culpa inútil si tomas platos frescos abundantes. La sed normal y una orina clara guían más que las metas rígidas. Mándaselo a alguien que bebe forzado sin contar ensalada ni fruta.",
+  "inicio_s": 0.0508,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Cargas una botella enorme agobiado por beber un par de litros exactos.",
+    "t0": 0.021,
+    "t1": 3.991
+   },
+   {
+    "texto": "Casi nadie avisa qué incluyen exactamente esas cifras oficiales.",
+    "t0": 4.181,
+    "t1": 7.781
+   },
+   {
+    "texto": "La meta del par de litros suma líquidos y toda humedad de la comida.",
+    "t0": 7.986,
+    "t1": 11.826
+   },
+   {
+    "texto": "La sandía fresca lleva agua casi por completo en cada tajada.",
+    "t0": 12.036,
+    "t1": 15.356
+   },
+   {
+    "texto": "Midieron miles de diarios alimentarios en la encuesta española ANIBES.",
+    "t0": 15.611,
+    "t1": 19.291
+   },
+   {
+    "texto": "Treinta y dos por ciento del agua total llegó masticando comida.",
+    "t0": 19.486,
+    "t1": 22.886
+   },
+   {
+    "texto": "Infusiones, leche, gazpacho y cremas de verdura suman como el vaso.",
+    "t0": 23.176,
+    "t1": 27.456
+   },
+   {
+    "texto": "Eso no quita tener agua fresca cerca cuando aprieta calor o deporte.",
+    "t0": 27.651,
+    "t1": 31.051
+   },
+   {
+    "texto": "Solo quita la culpa inútil si tomas platos frescos abundantes.",
+    "t0": 31.351,
+    "t1": 34.591
+   },
+   {
+    "texto": "La sed normal y una orina clara guían más que las metas rígidas.",
+    "t0": 34.771,
+    "t1": 38.491
+   },
+   {
+    "texto": "Mándaselo a alguien que bebe forzado sin contar ensalada ni fruta.",
+    "t0": 38.726,
+    "t1": 42.033
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.551,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.971,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.741,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.821,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 9.506,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.171,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.486,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 28.651,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.211,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.726,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/uk_agua_comida_casi_tercio.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 17.5,
+   "render": 114.9,
+   "mezcla": 15.8
+  },
+  "escena_js": "tr"
+ }
+}

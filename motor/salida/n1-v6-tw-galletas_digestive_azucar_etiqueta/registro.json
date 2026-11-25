@@ -1,0 +1,2564 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.03,
+ "tamano_mb": 10.73,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 68.3,
+ "fotogramas": 1229,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Cambias",
+   "r": [
+    220,
+    339,
+    543,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Cambias",
+   "r": [
+    220,
+    339,
+    543,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Cambias galletas",
+   "r": [
+    220,
+    339,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Cambias galletas",
+   "r": [
+    220,
+    339,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Cambias galletas rellenas",
+   "r": [
+    214,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Cambias galletas rellenas",
+   "r": [
+    214,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Cambias galletas rellenas",
+   "r": [
+    214,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Cambias galletas rellenas por unas",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Cambias galletas rellenas por unas",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "tipo",
+   "r": [
+    154,
+    344,
+    285,
+    422
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "tipo digestive",
+   "r": [
+    154,
+    344,
+    604,
+    422
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "tipo digestive",
+   "r": [
+    154,
+    344,
+    604,
+    422
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "tipo digestive cuidando",
+   "r": [
+    154,
+    344,
+    926,
+    422
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "tipo digestive cuidando",
+   "r": [
+    154,
+    344,
+    926,
+    422
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "tipo digestive cuidando tu",
+   "r": [
+    154,
+    344,
+    926,
+    501
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "tipo digestive cuidando tu desayuno.",
+   "r": [
+    154,
+    344,
+    926,
+    501
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "tipo digestive cuidando tu desayuno.",
+   "r": [
+    154,
+    344,
+    926,
+    501
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "tipo digestive cuidando tu desayuno.",
+   "r": [
+    154,
+    344,
+    926,
+    501
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "El",
+   "r": [
+    160,
+    339,
+    228,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Nombre ligero",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "El paquete",
+   "r": [
+    160,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Nombre ligero",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "El paquete beige",
+   "r": [
+    160,
+    339,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Nombre ligero",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "El paquete beige",
+   "r": [
+    160,
+    339,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Nombre ligero",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "El paquete beige con",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Nombre ligero",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "El paquete beige con espigas",
+   "r": [
+    160,
+    339,
+    920,
+    510
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Nombre ligero",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "dibujadas",
+   "r": [
+    150,
+    344,
+    480,
+    422
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Nombre ligero",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "dibujadas",
+   "r": [
+    150,
+    344,
+    480,
+    422
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "dibujadas",
+   "r": [
+    150,
+    344,
+    480,
+    422
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "dibujadas da",
+   "r": [
+    150,
+    344,
+    577,
+    422
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "dibujadas da sensación",
+   "r": [
+    150,
+    344,
+    930,
+    422
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "dibujadas da sensación",
+   "r": [
+    150,
+    344,
+    930,
+    422
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "dibujadas da sensación",
+   "r": [
+    150,
+    344,
+    930,
+    422
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "dibujadas da sensación muy",
+   "r": [
+    150,
+    344,
+    930,
+    501
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "dibujadas da sensación muy natural.",
+   "r": [
+    150,
+    344,
+    930,
+    501
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "dibujadas da sensación muy natural.",
+   "r": [
+    150,
+    344,
+    930,
+    501
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "La",
+   "r": [
+    207,
+    339,
+    295,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "La mayoría",
+   "r": [
+    207,
+    339,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "La mayoría",
+   "r": [
+    207,
+    339,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "La mayoría da por",
+   "r": [
+    207,
+    339,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "hecho",
+   "r": [
+    206,
+    339,
+    432,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "hecho que",
+   "r": [
+    206,
+    339,
+    586,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "hecho que apenas",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "hecho que apenas llevan",
+   "r": [
+    206,
+    339,
+    874,
+    510
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "grasa",
+   "r": [
+    241,
+    339,
+    460,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    891,
+    950,
+    953
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "grasa",
+   "r": [
+    241,
+    339,
+    460,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    885,
+    950,
+    947
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "grasa ni azúcar.",
+   "r": [
+    241,
+    339,
+    839,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    898,
+    950,
+    960
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "grasa ni azúcar.",
+   "r": [
+    241,
+    339,
+    839,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    911,
+    950,
+    973
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "grasa ni azúcar.",
+   "r": [
+    241,
+    339,
+    839,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    924,
+    950,
+    986
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Pero",
+   "r": [
+    215,
+    339,
+    393,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    932,
+    950,
+    994
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Pero al comparar",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    938,
+    950,
+    1000
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Pero al comparar",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Casi iguales",
+   "r": [
+    629,
+    944,
+    950,
+    1006
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Pero al comparar marcas",
+   "r": [
+    215,
+    339,
+    865,
+    510
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Pero al comparar marcas",
+   "r": [
+    215,
+    339,
+    865,
+    510
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "muy",
+   "r": [
+    233,
+    339,
+    388,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "muy vendidas",
+   "r": [
+    233,
+    339,
+    741,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "muy vendidas",
+   "r": [
+    233,
+    339,
+    741,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "muy vendidas en España",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "muy vendidas en España",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "muy vendidas en España",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "cambia",
+   "r": [
+    196,
+    339,
+    467,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "cambia",
+   "r": [
+    196,
+    339,
+    467,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "cambia la película.",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "cambia la película.",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "cambia la película.",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Las",
+   "r": [
+    228,
+    339,
+    358,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Las rellenas",
+   "r": [
+    228,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Las rellenas",
+   "r": [
+    228,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Las rellenas más",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Las rellenas más dulces",
+   "r": [
+    228,
+    339,
+    852,
+    510
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Las rellenas más dulces",
+   "r": [
+    228,
+    339,
+    852,
+    510
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "superan",
+   "r": [
+    173,
+    339,
+    485,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "superan",
+   "r": [
+    173,
+    339,
+    485,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "superan con",
+   "r": [
+    173,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "superan con creces",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "superan con creces",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "superan con creces el",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "tercio",
+   "r": [
+    226,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "tercio en",
+   "r": [
+    226,
+    339,
+    558,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "tercio en azúcar.",
+   "r": [
+    226,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "tercio en azúcar.",
+   "r": [
+    226,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Y",
+   "r": [
+    194,
+    339,
+    242,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Y las",
+   "r": [
+    194,
+    339,
+    369,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Y las tipo",
+   "r": [
+    194,
+    339,
+    529,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Y las tipo digestive",
+   "r": [
+    194,
+    339,
+    886,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Y las tipo digestive",
+   "r": [
+    194,
+    339,
+    886,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "siguen",
+   "r": [
+    163,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "siguen",
+   "r": [
+    163,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "siguen en diecisiete",
+   "r": [
+    163,
+    338,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "siguen en diecisiete",
+   "r": [
+    163,
+    338,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "siguen en diecisiete",
+   "r": [
+    163,
+    338,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "siguen en diecisiete gramos",
+   "r": [
+    163,
+    338,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "17",
+   "r": [
+    603,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "por",
+   "r": [
+    279,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "17",
+   "r": [
+    603,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "por cada",
+   "r": [
+    279,
+    339,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "17",
+   "r": [
+    603,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "por cada cien.",
+   "r": [
+    279,
+    339,
+    801,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "17",
+   "r": [
+    603,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "por cada cien.",
+   "r": [
+    279,
+    339,
+    801,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "17",
+   "r": [
+    603,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Además",
+   "r": [
+    258,
+    339,
+    558,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "17",
+   "r": [
+    154,
+    631,
+    501,
+    731
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Además",
+   "r": [
+    258,
+    339,
+    558,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "17",
+   "r": [
+    162,
+    644,
+    509,
+    744
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Además suman",
+   "r": [
+    258,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "17",
+   "r": [
+    168,
+    657,
+    515,
+    757
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Además suman",
+   "r": [
+    258,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "17",
+   "r": [
+    172,
+    670,
+    519,
+    770
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Además suman grasas",
+   "r": [
+    179,
+    339,
+    822,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Además suman grasas saturadas",
+   "r": [
+    179,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Además suman grasas saturadas",
+   "r": [
+    179,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Además suman grasas saturadas",
+   "r": [
+    179,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "harinas",
+   "r": [
+    301,
+    338,
+    609,
+    423
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "harinas",
+   "r": [
+    301,
+    338,
+    609,
+    423
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "harinas",
+   "r": [
+    301,
+    338,
+    609,
+    423
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "harinas muy",
+   "r": [
+    301,
+    338,
+    779,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "harinas muy refinadas",
+   "r": [
+    183,
+    338,
+    779,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "harinas muy refinadas",
+   "r": [
+    183,
+    338,
+    779,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "harinas muy refinadas cada",
+   "r": [
+    183,
+    338,
+    779,
+    514
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "harinas muy refinadas cada",
+   "r": [
+    183,
+    338,
+    779,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "harinas muy refinadas cada día.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "harinas muy refinadas cada día.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Comer",
+   "r": [
+    180,
+    339,
+    427,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Comer unas",
+   "r": [
+    180,
+    339,
+    625,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Comer unas piezas",
+   "r": [
+    180,
+    338,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Comer unas piezas sueltas",
+   "r": [
+    180,
+    338,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Comer unas piezas sueltas",
+   "r": [
+    180,
+    338,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "apenas",
+   "r": [
+    222,
+    339,
+    495,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "apenas",
+   "r": [
+    222,
+    339,
+    495,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "apenas llena",
+   "r": [
+    222,
+    339,
+    693,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "apenas llena y",
+   "r": [
+    222,
+    339,
+    749,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "hambre",
+   "r": [
+    243,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "hambre",
+   "r": [
+    243,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "hambre a media",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "hambre a media mañana.",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "hambre a media mañana.",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "hambre a media mañana.",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "No hace",
+   "r": [
+    296,
+    339,
+    591,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "No hace falta",
+   "r": [
+    296,
+    339,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "No hace falta demonizarlas:",
+   "r": [
+    276,
+    339,
+    804,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "No hace falta demonizarlas:",
+   "r": [
+    276,
+    339,
+    804,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "No hace falta demonizarlas:",
+   "r": [
+    276,
+    339,
+    804,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "No hace falta demonizarlas:",
+   "r": [
+    276,
+    339,
+    804,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "No hace falta demonizarlas:",
+   "r": [
+    276,
+    339,
+    804,
+    514
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "basta",
+   "r": [
+    239,
+    339,
+    453,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "basta saber",
+   "r": [
+    239,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "basta saber",
+   "r": [
+    239,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "basta saber que",
+   "r": [
+    239,
+    339,
+    841,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "basta saber que juegan",
+   "r": [
+    239,
+    339,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "en",
+   "r": [
+    226,
+    339,
+    317,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "en la misma",
+   "r": [
+    226,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "en la misma liga.",
+   "r": [
+    226,
+    338,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "en la misma liga.",
+   "r": [
+    226,
+    338,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Desayunar",
+   "r": [
+    164,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Desayunar",
+   "r": [
+    164,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Desayunar copos",
+   "r": [
+    164,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Desayunar copos",
+   "r": [
+    164,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Desayunar copos de avena",
+   "r": [
+    164,
+    339,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Desayunar copos de avena",
+   "r": [
+    164,
+    339,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "o pan",
+   "r": [
+    214,
+    339,
+    414,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Bollería similar",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "o pan con",
+   "r": [
+    214,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "o pan con tomate",
+   "r": [
+    214,
+    338,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "o pan con tomate",
+   "r": [
+    214,
+    338,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "sacia",
+   "r": [
+    222,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "sacia",
+   "r": [
+    222,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "sacia mucho",
+   "r": [
+    222,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "sacia mucho",
+   "r": [
+    222,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "sacia mucho más rato.",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "sacia mucho más rato.",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "sacia mucho más rato.",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "compra",
+   "r": [
+    175,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "compra galletas",
+   "r": [
+    175,
+    338,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "compra galletas",
+   "r": [
+    175,
+    338,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "compra galletas de avena",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "compra galletas de avena",
+   "r": [
+    175,
+    338,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "pensando",
+   "r": [
+    206,
+    339,
+    570,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "pensando",
+   "r": [
+    206,
+    339,
+    570,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "pensando que son",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "pensando que son suaves.",
+   "r": [
+    206,
+    339,
+    874,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "pensando que son suaves.",
+   "r": [
+    206,
+    339,
+    874,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "pensando que son suaves.",
+   "r": [
+    206,
+    339,
+    874,
+    514
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "pensando que son suaves.",
+   "r": [
+    206,
+    339,
+    874,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 728,
+  "texto": "Cambias galletas rellenas por unas tipo digestive cuidando tu desayuno. El paquete beige con espigas dibujadas da sensación muy natural. La mayoría da por hecho que apenas llevan grasa ni azúcar. Pero al comparar marcas muy vendidas en España cambia la película. Las rellenas más dulces superan con creces el tercio en azúcar. Y las tipo digestive siguen en diecisiete gramos por cada cien. Además suman grasas saturadas y harinas muy refinadas cada día. Comer unas piezas sueltas apenas llena y da hambre a media mañana. No hace falta demonizarlas: basta saber que juegan en la misma liga. Desayunar copos de avena o pan con tomate sacia mucho más rato. Mándaselo a alguien que compra galletas de avena pensando que son suaves.",
+  "inicio_s": 0.0498,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Cambias galletas rellenas por unas tipo digestive cuidando tu desayuno.",
+    "t0": 0.021,
+    "t1": 3.901
+   },
+   {
+    "texto": "El paquete beige con espigas dibujadas da sensación muy natural.",
+    "t0": 4.106,
+    "t1": 7.666
+   },
+   {
+    "texto": "La mayoría da por hecho que apenas llevan grasa ni azúcar.",
+    "t0": 7.871,
+    "t1": 10.631
+   },
+   {
+    "texto": "Pero al comparar marcas muy vendidas en España cambia la película.",
+    "t0": 10.871,
+    "t1": 14.338
+   },
+   {
+    "texto": "Las rellenas más dulces superan con creces el tercio en azúcar.",
+    "t0": 14.611,
+    "t1": 18.211
+   },
+   {
+    "texto": "Y las tipo digestive siguen en diecisiete gramos por cada cien.",
+    "t0": 18.396,
+    "t1": 21.636
+   },
+   {
+    "texto": "Además suman grasas saturadas y harinas muy refinadas cada día.",
+    "t0": 21.851,
+    "t1": 25.731
+   },
+   {
+    "texto": "Comer unas piezas sueltas apenas llena y da hambre a media mañana.",
+    "t0": 25.961,
+    "t1": 29.321
+   },
+   {
+    "texto": "No hace falta demonizarlas: basta saber que juegan en la misma liga.",
+    "t0": 29.501,
+    "t1": 33.061
+   },
+   {
+    "texto": "Desayunar copos de avena o pan con tomate sacia mucho más rato.",
+    "t0": 33.361,
+    "t1": 36.961
+   },
+   {
+    "texto": "Mándaselo a alguien que compra galletas de avena pensando que son suaves.",
+    "t0": 37.136,
+    "t1": 40.536
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.9,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.64,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 3,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.421,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.001,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.186,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 5.186,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 11.618,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.451,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.076,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.616,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.441,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 33.161,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.136,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/tw_galletas_digestive_azucar_etiqueta.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C68B59",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.2,
+   "render": 87.2,
+   "mezcla": 15.0
+  },
+  "escena_js": "tr"
+ }
+}
