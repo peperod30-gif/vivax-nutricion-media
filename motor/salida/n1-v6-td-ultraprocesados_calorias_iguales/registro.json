@@ -1,0 +1,2524 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.9,
+ "tamano_mb": 11.35,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 74.2,
+ "fotogramas": 1255,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Mucha",
+   "r": [
+    166,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Mucha",
+   "r": [
+    166,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Mucha gente",
+   "r": [
+    166,
+    339,
+    651,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Mucha gente piensa",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Mucha gente piensa",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Mucha gente piensa que",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "da",
+   "r": [
+    190,
+    339,
+    283,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "da igual",
+   "r": [
+    190,
+    339,
+    482,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "da igual qué comer",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "da igual qué comer",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "si",
+   "r": [
+    280,
+    339,
+    344,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "si cuadran",
+   "r": [
+    280,
+    339,
+    674,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "si cuadran las",
+   "r": [
+    280,
+    339,
+    800,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "si cuadran las calorías.",
+   "r": [
+    280,
+    339,
+    800,
+    510
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "si cuadran las calorías.",
+   "r": [
+    280,
+    339,
+    800,
+    510
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "si cuadran las calorías.",
+   "r": [
+    280,
+    339,
+    800,
+    510
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "En",
+   "r": [
+    145,
+    339,
+    236,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Calorías iguales",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "En la etiqueta",
+   "r": [
+    145,
+    338,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Calorías iguales",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "En la etiqueta",
+   "r": [
+    145,
+    338,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Calorías iguales",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "En la etiqueta ambas",
+   "r": [
+    145,
+    338,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Calorías iguales",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "En la etiqueta ambas",
+   "r": [
+    145,
+    338,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Calorías iguales",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "bandejas",
+   "r": [
+    182,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "bandejas coinciden",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "bandejas coinciden",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "bandejas coinciden",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "bandejas coinciden en grasa,",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "bandejas coinciden en grasa,",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "bandejas coinciden en grasa,",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "fibra",
+   "r": [
+    240,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "fibra",
+   "r": [
+    240,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "fibra e hidratos.",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "fibra e hidratos.",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "fibra e hidratos.",
+   "r": [
+    240,
+    339,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Pero",
+   "r": [
+    253,
+    339,
+    431,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Pero dentro",
+   "r": [
+    253,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Pero dentro",
+   "r": [
+    253,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Pero dentro del cuerpo",
+   "r": [
+    253,
+    339,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Pero dentro del cuerpo",
+   "r": [
+    253,
+    339,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "la",
+   "r": [
+    233,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "la matriz",
+   "r": [
+    233,
+    338,
+    580,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "la matriz entera",
+   "r": [
+    233,
+    338,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "la matriz entera",
+   "r": [
+    233,
+    338,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "la matriz entera cambia",
+   "r": [
+    233,
+    338,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "la matriz entera cambia",
+   "r": [
+    233,
+    338,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "la",
+   "r": [
+    156,
+    339,
+    225,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "la señal",
+   "r": [
+    156,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "la señal de saciedad.",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "la señal de saciedad.",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Velocidad rápida",
+   "r": [
+    536,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "la señal de saciedad.",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Los",
+   "r": [
+    288,
+    342,
+    411,
+    425
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Los productos",
+   "r": [
+    288,
+    342,
+    792,
+    425
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Los productos",
+   "r": [
+    288,
+    342,
+    792,
+    425
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Los productos blandos",
+   "r": [
+    151,
+    342,
+    792,
+    507
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Los productos blandos",
+   "r": [
+    151,
+    342,
+    792,
+    507
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Los productos blandos exigen",
+   "r": [
+    151,
+    342,
+    792,
+    507
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Los productos blandos exigen",
+   "r": [
+    151,
+    342,
+    792,
+    507
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Los productos blandos exigen mucha",
+   "r": [
+    151,
+    342,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "menos",
+   "r": [
+    182,
+    339,
+    427,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "menos masticación",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "menos masticación",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "menos masticación",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "menos masticación en cada",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "menos masticación en cada bocado.",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "menos masticación en cada bocado.",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "menos masticación en cada bocado.",
+   "r": [
+    182,
+    339,
+    898,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "En un",
+   "r": [
+    298,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "En un centro",
+   "r": [
+    298,
+    338,
+    782,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "En un centro controlado",
+   "r": [
+    155,
+    338,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "En un centro controlado",
+   "r": [
+    155,
+    338,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "En un centro controlado",
+   "r": [
+    155,
+    338,
+    782,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "En un centro controlado sirvieron",
+   "r": [
+    155,
+    338,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "En un centro controlado sirvieron",
+   "r": [
+    155,
+    338,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "menús",
+   "r": [
+    165,
+    347,
+    373,
+    420
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "menús ultraprocesados",
+   "r": [
+    165,
+    347,
+    915,
+    420
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "menús ultraprocesados",
+   "r": [
+    165,
+    347,
+    915,
+    420
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "menús ultraprocesados",
+   "r": [
+    165,
+    347,
+    915,
+    420
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "menús ultraprocesados",
+   "r": [
+    165,
+    347,
+    915,
+    420
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "menús ultraprocesados",
+   "r": [
+    165,
+    347,
+    915,
+    420
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "menús ultraprocesados frente",
+   "r": [
+    165,
+    347,
+    915,
+    494
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "menús ultraprocesados frente a frescos.",
+   "r": [
+    165,
+    347,
+    915,
+    494
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "menús ultraprocesados frente a frescos.",
+   "r": [
+    165,
+    347,
+    915,
+    494
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "menús ultraprocesados frente a frescos.",
+   "r": [
+    165,
+    347,
+    915,
+    494
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Con",
+   "r": [
+    229,
+    349,
+    342,
+    418
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Con ultraprocesados",
+   "r": [
+    229,
+    349,
+    851,
+    418
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Con ultraprocesados",
+   "r": [
+    229,
+    349,
+    851,
+    418
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Con ultraprocesados",
+   "r": [
+    229,
+    349,
+    851,
+    418
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Con ultraprocesados",
+   "r": [
+    229,
+    349,
+    851,
+    418
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "Con ultraprocesados comieron",
+   "r": [
+    151,
+    349,
+    851,
+    487
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "Con ultraprocesados comieron",
+   "r": [
+    151,
+    349,
+    851,
+    487
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "Con ultraprocesados comieron quinientas",
+   "r": [
+    151,
+    349,
+    851,
+    487
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "Con ultraprocesados comieron quinientas",
+   "r": [
+    151,
+    349,
+    851,
+    487
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "Con ultraprocesados comieron quinientas ocho",
+   "r": [
+    151,
+    349,
+    929,
+    487
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "calorías",
+   "r": [
+    182,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "calorías",
+   "r": [
+    182,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "calorías",
+   "r": [
+    182,
+    339,
+    490,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "calorías más",
+   "r": [
+    182,
+    339,
+    661,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "calorías más al",
+   "r": [
+    182,
+    339,
+    745,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "calorías más al día.",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "calorías más al día.",
+   "r": [
+    182,
+    339,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "508",
+   "r": [
+    527,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Sin",
+   "r": [
+    231,
+    339,
+    348,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "508",
+   "r": [
+    60,
+    1284,
+    483,
+    1384
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Sin sentir",
+   "r": [
+    231,
+    339,
+    588,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "508",
+   "r": [
+    60,
+    1285,
+    483,
+    1385
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Sin sentir menos",
+   "r": [
+    231,
+    339,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Sin sentir menos hambre,",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Sin sentir menos hambre,",
+   "r": [
+    231,
+    339,
+    849,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "la",
+   "r": [
+    232,
+    339,
+    301,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "la balanza",
+   "r": [
+    232,
+    338,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "la balanza",
+   "r": [
+    232,
+    338,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "la balanza subió",
+   "r": [
+    232,
+    338,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "la balanza subió",
+   "r": [
+    232,
+    338,
+    848,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "la balanza subió frente",
+   "r": [
+    232,
+    338,
+    848,
+    514
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "al",
+   "r": [
+    258,
+    339,
+    327,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "al plato",
+   "r": [
+    258,
+    339,
+    534,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "al plato entero.",
+   "r": [
+    258,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "al plato entero.",
+   "r": [
+    258,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Además",
+   "r": [
+    188,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Además",
+   "r": [
+    188,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Además su",
+   "r": [
+    188,
+    339,
+    593,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Además su textura",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Además su textura",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Además su textura altera",
+   "r": [
+    188,
+    339,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Además su textura altera",
+   "r": [
+    188,
+    339,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "Además su textura altera lo",
+   "r": [
+    188,
+    339,
+    892,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "rápido",
+   "r": [
+    219,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "rápido que",
+   "r": [
+    219,
+    339,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "rápido que llegan",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "rápido que llegan esas",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "rápido que llegan esas señales.",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "rápido que llegan esas señales.",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "rápido que llegan esas señales.",
+   "r": [
+    219,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Por",
+   "r": [
+    204,
+    339,
+    338,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Por eso",
+   "r": [
+    204,
+    339,
+    486,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Por eso una",
+   "r": [
+    204,
+    339,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Por eso una pauta",
+   "r": [
+    204,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Por eso una pauta",
+   "r": [
+    204,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Por eso una pauta práctica",
+   "r": [
+    204,
+    339,
+    876,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Por eso una pauta práctica",
+   "r": [
+    204,
+    339,
+    876,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "empieza",
+   "r": [
+    171,
+    339,
+    480,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "empieza",
+   "r": [
+    171,
+    339,
+    480,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "empieza mirando",
+   "r": [
+    171,
+    338,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "empieza mirando",
+   "r": [
+    171,
+    338,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "empieza mirando el alimento,",
+   "r": [
+    171,
+    338,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Comida real",
+   "r": [
+    652,
+    966,
+    950,
+    1028
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "empieza mirando el alimento,",
+   "r": [
+    171,
+    338,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Comida real",
+   "r": [
+    652,
+    958,
+    950,
+    1020
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "empieza mirando el alimento,",
+   "r": [
+    171,
+    338,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Comida real",
+   "r": [
+    652,
+    949,
+    950,
+    1011
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "empieza mirando el alimento,",
+   "r": [
+    171,
+    338,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Comida real",
+   "r": [
+    652,
+    941,
+    950,
+    1003
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "no solo",
+   "r": [
+    278,
+    339,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Comida real",
+   "r": [
+    652,
+    933,
+    950,
+    995
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "no solo cifras.",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Comida real",
+   "r": [
+    652,
+    925,
+    950,
+    987
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "no solo cifras.",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Comida real",
+   "r": [
+    652,
+    917,
+    950,
+    979
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "no solo cifras.",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Comida real",
+   "r": [
+    652,
+    910,
+    950,
+    972
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Cuidar",
+   "r": [
+    154,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Cuidar",
+   "r": [
+    154,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Cuidar qué",
+   "r": [
+    154,
+    339,
+    561,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Cuidar qué compras",
+   "r": [
+    154,
+    338,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Cuidar qué compras",
+   "r": [
+    154,
+    338,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Cuidar qué compras pesa",
+   "r": [
+    154,
+    338,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Cuidar qué compras pesa",
+   "r": [
+    154,
+    338,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Cuidar qué compras pesa tanto",
+   "r": [
+    154,
+    338,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "como",
+   "r": [
+    276,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "como",
+   "r": [
+    276,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "como calcular",
+   "r": [
+    276,
+    339,
+    804,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "como calcular",
+   "r": [
+    276,
+    339,
+    804,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "como calcular gramos",
+   "r": [
+    230,
+    339,
+    804,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "como calcular gramos exactos.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "como calcular gramos exactos.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "como calcular gramos exactos.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a quien cree",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "que",
+   "r": [
+    176,
+    339,
+    315,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "que contar",
+   "r": [
+    176,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "que contar calorías",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "que contar calorías",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "que contar calorías",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "que contar calorías vale",
+   "r": [
+    176,
+    339,
+    904,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "con cualquier",
+   "r": [
+    285,
+    339,
+    795,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "con cualquier",
+   "r": [
+    285,
+    339,
+    795,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "con cualquier envase.",
+   "r": [
+    285,
+    339,
+    795,
+    510
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "con cualquier envase.",
+   "r": [
+    285,
+    339,
+    795,
+    510
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "con cualquier envase.",
+   "r": [
+    285,
+    339,
+    795,
+    510
+   ]
+  },
+  {
+   "t": 41.77,
+   "texto": "con cualquier envase.",
+   "r": [
+    285,
+    339,
+    795,
+    510
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 740,
+  "texto": "Mucha gente piensa que da igual qué comer si cuadran las calorías. En la etiqueta ambas bandejas coinciden en grasa, fibra e hidratos. Pero dentro del cuerpo la matriz entera cambia la señal de saciedad. Los productos blandos exigen mucha menos masticación en cada bocado. En un centro controlado sirvieron menús ultraprocesados frente a frescos. Con ultraprocesados comieron quinientas ocho calorías más al día. Sin sentir menos hambre, la balanza subió frente al plato entero. Además su textura altera lo rápido que llegan esas señales. Por eso una pauta práctica empieza mirando el alimento, no solo cifras. Cuidar qué compras pesa tanto como calcular gramos exactos. Mándaselo a quien cree que contar calorías vale con cualquier envase.",
+  "inicio_s": 0.0469,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Mucha gente piensa que da igual qué comer si cuadran las calorías.",
+    "t0": 0.021,
+    "t1": 3.426
+   },
+   {
+    "texto": "En la etiqueta ambas bandejas coinciden en grasa, fibra e hidratos.",
+    "t0": 3.656,
+    "t1": 7.496
+   },
+   {
+    "texto": "Pero dentro del cuerpo la matriz entera cambia la señal de saciedad.",
+    "t0": 7.701,
+    "t1": 11.168
+   },
+   {
+    "texto": "Los productos blandos exigen mucha menos masticación en cada bocado.",
+    "t0": 11.361,
+    "t1": 14.801
+   },
+   {
+    "texto": "En un centro controlado sirvieron menús ultraprocesados frente a frescos.",
+    "t0": 15.001,
+    "t1": 18.921
+   },
+   {
+    "texto": "Con ultraprocesados comieron quinientas ocho calorías más al día.",
+    "t0": 19.121,
+    "t1": 22.601
+   },
+   {
+    "texto": "Sin sentir menos hambre, la balanza subió frente al plato entero.",
+    "t0": 22.936,
+    "t1": 26.216
+   },
+   {
+    "texto": "Además su textura altera lo rápido que llegan esas señales.",
+    "t0": 26.456,
+    "t1": 29.856
+   },
+   {
+    "texto": "Por eso una pauta práctica empieza mirando el alimento, no solo cifras.",
+    "t0": 30.041,
+    "t1": 34.241
+   },
+   {
+    "texto": "Cuidar qué compras pesa tanto como calcular gramos exactos.",
+    "t0": 34.436,
+    "t1": 37.996
+   },
+   {
+    "texto": "Mándaselo a quien cree que contar calorías vale con cualquier envase.",
+    "t0": 38.161,
+    "t1": 41.401
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.7,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 3,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.306,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.526,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.856,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.696,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 8.368,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.281,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.681,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.261,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.616,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.661,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.161,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/td_ultraprocesados_calorias_iguales.json",
+  "paleta": "oliva",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.5,
+   "render": 97.2,
+   "mezcla": 13.7
+  },
+  "escena_js": "tr"
+ }
+}

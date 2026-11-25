@@ -1,0 +1,2582 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 42.0,
+ "tamano_mb": 10.71,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 66.2,
+ "fotogramas": 1258,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Duermes",
+   "r": [
+    251,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Duermes",
+   "r": [
+    251,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Duermes",
+   "r": [
+    251,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Duermes pocas",
+   "r": [
+    251,
+    339,
+    829,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Duermes pocas horas",
+   "r": [
+    166,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Duermes pocas horas entre",
+   "r": [
+    166,
+    339,
+    829,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Duermes pocas horas entre semana",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Duermes pocas horas entre semana",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "y",
+   "r": [
+    293,
+    339,
+    334,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "y por",
+   "r": [
+    293,
+    339,
+    480,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "y por la",
+   "r": [
+    293,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "y por la tarde",
+   "r": [
+    293,
+    339,
+    787,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "te",
+   "r": [
+    177,
+    339,
+    253,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "te ataca",
+   "r": [
+    177,
+    339,
+    484,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "te ataca el picoteo.",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "te ataca el picoteo.",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "te ataca el picoteo.",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "te ataca el picoteo.",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Noche corta",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Solemos",
+   "r": [
+    178,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Noche corta",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Solemos culpar",
+   "r": [
+    178,
+    339,
+    755,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Noche corta",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Solemos culpar",
+   "r": [
+    178,
+    339,
+    755,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Noche corta",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Solemos culpar a la",
+   "r": [
+    178,
+    339,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Noche corta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Solemos culpar a la ansiedad",
+   "r": [
+    178,
+    339,
+    902,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Noche corta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "laboral",
+   "r": [
+    246,
+    342,
+    500,
+    425
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Noche corta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "laboral",
+   "r": [
+    246,
+    342,
+    500,
+    425
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "laboral sin",
+   "r": [
+    246,
+    342,
+    619,
+    425
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "laboral sin mirar",
+   "r": [
+    246,
+    342,
+    834,
+    425
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "laboral sin mirar",
+   "r": [
+    246,
+    342,
+    834,
+    425
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "laboral sin mirar cuánto",
+   "r": [
+    146,
+    342,
+    834,
+    507
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "laboral sin mirar cuánto",
+   "r": [
+    146,
+    342,
+    834,
+    507
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "laboral sin mirar cuánto descansamos.",
+   "r": [
+    146,
+    342,
+    934,
+    507
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "laboral sin mirar cuánto descansamos.",
+   "r": [
+    146,
+    342,
+    934,
+    507
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "laboral sin mirar cuánto descansamos.",
+   "r": [
+    146,
+    342,
+    934,
+    507
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "laboral sin mirar cuánto descansamos.",
+   "r": [
+    146,
+    342,
+    934,
+    507
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Recortar",
+   "r": [
+    239,
+    339,
+    579,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Recortar",
+   "r": [
+    239,
+    339,
+    579,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Recortar sueño",
+   "r": [
+    239,
+    338,
+    841,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Recortar sueño",
+   "r": [
+    239,
+    338,
+    841,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Recortar sueño altera",
+   "r": [
+    239,
+    338,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    917,
+    381,
+    979
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Recortar sueño altera la",
+   "r": [
+    239,
+    338,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    904,
+    381,
+    966
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Recortar sueño altera la señal",
+   "r": [
+    239,
+    338,
+    841,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    889,
+    381,
+    951
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "biológica",
+   "r": [
+    160,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    878,
+    381,
+    940
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "biológica",
+   "r": [
+    160,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    866,
+    381,
+    928
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "biológica",
+   "r": [
+    160,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    855,
+    381,
+    917
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "biológica que",
+   "r": [
+    160,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    843,
+    381,
+    905
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "biológica que regula",
+   "r": [
+    160,
+    339,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Señal hambre",
+   "r": [
+    60,
+    832,
+    381,
+    894
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "biológica que regula el",
+   "r": [
+    160,
+    339,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "biológica que regula el apetito.",
+   "r": [
+    160,
+    339,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "biológica que regula el apetito.",
+   "r": [
+    160,
+    339,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "La",
+   "r": [
+    219,
+    339,
+    307,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "La grelina",
+   "r": [
+    219,
+    338,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "La grelina",
+   "r": [
+    219,
+    338,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "La grelina sube",
+   "r": [
+    219,
+    338,
+    804,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "La grelina sube",
+   "r": [
+    219,
+    338,
+    804,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "empuja",
+   "r": [
+    241,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "empuja",
+   "r": [
+    241,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "empuja el",
+   "r": [
+    241,
+    339,
+    598,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "empuja el deseo",
+   "r": [
+    241,
+    339,
+    839,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "empuja el deseo hacia",
+   "r": [
+    241,
+    339,
+    839,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "alimentos",
+   "r": [
+    270,
+    339,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "alimentos",
+   "r": [
+    270,
+    339,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "alimentos",
+   "r": [
+    270,
+    339,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "alimentos muy",
+   "r": [
+    270,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "alimentos muy calóricos.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "alimentos muy calóricos.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "alimentos muy calóricos.",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Una",
+   "r": [
+    224,
+    339,
+    369,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Una intervención",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Una intervención",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Una intervención",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Una intervención ayudó",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Una intervención ayudó a",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "dormir",
+   "r": [
+    196,
+    339,
+    453,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "dormir más",
+   "r": [
+    196,
+    339,
+    624,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "dormir más rato",
+   "r": [
+    196,
+    338,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "dormir más rato",
+   "r": [
+    196,
+    338,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "quienes",
+   "r": [
+    230,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "quienes",
+   "r": [
+    230,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "quienes dormían",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "quienes dormían",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "quienes dormían poco.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "quienes dormían poco.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Sin darles",
+   "r": [
+    220,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Sin darles",
+   "r": [
+    220,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Sin darles ningún",
+   "r": [
+    220,
+    339,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Sin darles ningún menú",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Sin darles ningún menú",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "comieron",
+   "r": [
+    150,
+    339,
+    503,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "comieron",
+   "r": [
+    150,
+    339,
+    503,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "comieron doscientas",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "comieron doscientas",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "comieron doscientas",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "comieron doscientas setenta",
+   "r": [
+    150,
+    339,
+    930,
+    510
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "comieron doscientas setenta",
+   "r": [
+    150,
+    339,
+    930,
+    510
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "comieron doscientas setenta calorías",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "270",
+   "r": [
+    487,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "comieron doscientas setenta calorías",
+   "r": [
+    150,
+    339,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "270",
+   "r": [
+    487,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "menos",
+   "r": [
+    299,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "270",
+   "r": [
+    487,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "menos al",
+   "r": [
+    299,
+    339,
+    629,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "270",
+   "r": [
+    487,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "menos al día.",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "270",
+   "r": [
+    487,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "menos al día.",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "270",
+   "r": [
+    487,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Dormir",
+   "r": [
+    235,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Dormir",
+   "r": [
+    235,
+    339,
+    499,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Dormir algo más",
+   "r": [
+    235,
+    339,
+    845,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Dormir algo más",
+   "r": [
+    235,
+    339,
+    845,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Dormir algo más actuó",
+   "r": [
+    235,
+    339,
+    845,
+    514
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Dormir algo más actuó",
+   "r": [
+    235,
+    339,
+    845,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "por",
+   "r": [
+    168,
+    339,
+    299,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "por su cuenta",
+   "r": [
+    168,
+    339,
+    679,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "por su cuenta",
+   "r": [
+    168,
+    339,
+    679,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "por su cuenta sobre",
+   "r": [
+    168,
+    339,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "las",
+   "r": [
+    213,
+    339,
+    325,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "las decisiones",
+   "r": [
+    213,
+    338,
+    760,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "las decisiones",
+   "r": [
+    213,
+    338,
+    760,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "las decisiones de comida.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "las decisiones de comida.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "las decisiones de comida.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Intentar",
+   "r": [
+    236,
+    339,
+    553,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Intentar ajustar",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Intentar ajustar",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Intentar ajustar platos",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Intentar ajustar platos",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "Intentar ajustar platos con",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "pocas",
+   "r": [
+    247,
+    339,
+    472,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "pocas horas",
+   "r": [
+    247,
+    338,
+    726,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "pocas horas de cama",
+   "r": [
+    247,
+    338,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "pocas horas de cama",
+   "r": [
+    247,
+    338,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "pelea",
+   "r": [
+    257,
+    339,
+    463,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "pelea",
+   "r": [
+    257,
+    339,
+    463,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "pelea contra",
+   "r": [
+    257,
+    339,
+    729,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "pelea contra tu",
+   "r": [
+    257,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "pelea contra tu cuerpo.",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "pelea contra tu cuerpo.",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "En",
+   "r": [
+    283,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "En",
+   "r": [
+    283,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "En consulta",
+   "r": [
+    283,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "En consulta",
+   "r": [
+    283,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "En consulta el descanso",
+   "r": [
+    229,
+    339,
+    797,
+    510
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "En consulta el descanso",
+   "r": [
+    229,
+    339,
+    797,
+    510
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "En consulta el descanso forma",
+   "r": [
+    229,
+    339,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1259,
+    950,
+    1321
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "En consulta el descanso forma",
+   "r": [
+    229,
+    339,
+    851,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1245,
+    950,
+    1307
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "parte",
+   "r": [
+    238,
+    339,
+    446,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1231,
+    950,
+    1293
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "parte directa",
+   "r": [
+    238,
+    339,
+    735,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1218,
+    950,
+    1280
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "parte directa",
+   "r": [
+    238,
+    339,
+    735,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1205,
+    950,
+    1267
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "parte directa de",
+   "r": [
+    238,
+    339,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1193,
+    950,
+    1255
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "parte directa de cualquier",
+   "r": [
+    207,
+    339,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1181,
+    950,
+    1243
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "parte directa de cualquier cambio.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Higiene sueño",
+   "r": [
+    606,
+    1169,
+    950,
+    1231
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "parte directa de cualquier cambio.",
+   "r": [
+    207,
+    339,
+    873,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Acostarse",
+   "r": [
+    166,
+    342,
+    534,
+    425
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Acostarse",
+   "r": [
+    166,
+    342,
+    534,
+    425
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Acostarse",
+   "r": [
+    166,
+    342,
+    534,
+    425
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Acostarse algo",
+   "r": [
+    166,
+    342,
+    700,
+    425
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Acostarse algo antes",
+   "r": [
+    166,
+    342,
+    914,
+    425
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Acostarse algo antes",
+   "r": [
+    166,
+    342,
+    914,
+    425
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Acostarse algo antes facilita",
+   "r": [
+    166,
+    342,
+    914,
+    507
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Acostarse algo antes facilita",
+   "r": [
+    166,
+    342,
+    914,
+    507
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Acostarse algo antes facilita muchísimo",
+   "r": [
+    166,
+    342,
+    914,
+    507
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Acostarse algo antes facilita muchísimo",
+   "r": [
+    166,
+    342,
+    914,
+    507
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Acostarse algo antes facilita muchísimo",
+   "r": [
+    166,
+    342,
+    914,
+    507
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "seguir",
+   "r": [
+    209,
+    339,
+    449,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "seguir una",
+   "r": [
+    209,
+    339,
+    604,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "seguir una rutina",
+   "r": [
+    209,
+    338,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "seguir una rutina",
+   "r": [
+    209,
+    338,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "seguir una rutina estable.",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "seguir una rutina estable.",
+   "r": [
+    209,
+    338,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a",
+   "r": [
+    156,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "trasnocha",
+   "r": [
+    262,
+    338,
+    668,
+    423
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "trasnocha",
+   "r": [
+    262,
+    338,
+    668,
+    423
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "trasnocha con pantallas",
+   "r": [
+    262,
+    338,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "trasnocha con pantallas",
+   "r": [
+    262,
+    338,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "trasnocha con pantallas",
+   "r": [
+    262,
+    338,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "trasnocha con pantallas y",
+   "r": [
+    262,
+    338,
+    818,
+    514
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "luego",
+   "r": [
+    230,
+    339,
+    436,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "luego pica",
+   "r": [
+    230,
+    339,
+    609,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "luego pica dulce.",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "luego pica dulce.",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 41.77,
+   "texto": "luego pica dulce.",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 743,
+  "texto": "Duermes pocas horas entre semana y por la tarde te ataca el picoteo. Solemos culpar a la ansiedad laboral sin mirar cuánto descansamos. Recortar sueño altera la señal biológica que regula el apetito. La grelina sube y empuja el deseo hacia alimentos muy calóricos. Una intervención ayudó a dormir más rato a quienes dormían poco. Sin darles ningún menú comieron doscientas setenta calorías menos al día. Dormir algo más actuó por su cuenta sobre las decisiones de comida. Intentar ajustar platos con pocas horas de cama pelea contra tu cuerpo. En consulta el descanso forma parte directa de cualquier cambio. Acostarse algo antes facilita muchísimo seguir una rutina estable. Mándaselo a alguien que trasnocha con pantallas y luego pica dulce.",
+  "inicio_s": 0.0465,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Duermes pocas horas entre semana y por la tarde te ataca el picoteo.",
+    "t0": 0.021,
+    "t1": 3.766
+   },
+   {
+    "texto": "Solemos culpar a la ansiedad laboral sin mirar cuánto descansamos.",
+    "t0": 4.051,
+    "t1": 7.491
+   },
+   {
+    "texto": "Recortar sueño altera la señal biológica que regula el apetito.",
+    "t0": 7.781,
+    "t1": 11.181
+   },
+   {
+    "texto": "La grelina sube y empuja el deseo hacia alimentos muy calóricos.",
+    "t0": 11.401,
+    "t1": 15.121
+   },
+   {
+    "texto": "Una intervención ayudó a dormir más rato a quienes dormían poco.",
+    "t0": 15.321,
+    "t1": 18.641
+   },
+   {
+    "texto": "Sin darles ningún menú comieron doscientas setenta calorías menos al día.",
+    "t0": 18.951,
+    "t1": 22.951
+   },
+   {
+    "texto": "Dormir algo más actuó por su cuenta sobre las decisiones de comida.",
+    "t0": 23.196,
+    "t1": 26.676
+   },
+   {
+    "texto": "Intentar ajustar platos con pocas horas de cama pelea contra tu cuerpo.",
+    "t0": 26.951,
+    "t1": 30.551
+   },
+   {
+    "texto": "En consulta el descanso forma parte directa de cualquier cambio.",
+    "t0": 30.801,
+    "t1": 34.081
+   },
+   {
+    "texto": "Acostarse algo antes facilita muchísimo seguir una rutina estable.",
+    "t0": 34.316,
+    "t1": 37.996
+   },
+   {
+    "texto": "Mándaselo a alguien que trasnocha con pantallas y luego pica dulce.",
+    "t0": 38.226,
+    "t1": 41.533
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.539,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.931,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.851,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.781,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 17.241,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.431,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.771,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.671,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.181,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.226,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/tj_dormir_poco_hambre_kcal.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4C5B6E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4C5B6E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.9,
+   "render": 87.1,
+   "mezcla": 14.8
+  },
+  "escena_js": "tr"
+ }
+}

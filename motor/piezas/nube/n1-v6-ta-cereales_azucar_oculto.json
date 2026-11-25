@@ -1,0 +1,85 @@
+{
+  "id": "n1-v6-ta-cereales_azucar_oculto",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-TA",
+  "pilar": "ensenar",
+  "hechos": [
+    "SUP-001",
+    "AZU-001",
+    "ETQ-002"
+  ],
+  "titulo": "[TA] El bol de cereales que llena medio día de azúcar libre",
+  "hojas": [
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Frente o tabla"
+      ],
+      "voz": "Sirves el bol de cereales de la mañana sin mirar la tabla trasera."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Fila oculta"
+      ],
+      "voz": "En la portada solo destacan grano tostado y vitaminas de colores. Al girar la caja aparece una fila llamada simplemente azúcares."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Esa cifra mezcla en el mismo total lo propio del grano y lo añadido."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Al revisar cereales infantiles muy vendidos salta un dato claro."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "37 G / 100 g"
+      ],
+      "voz": "El cereal líder declara treinta y siete gramos por cada cien. Más de un tercio de todo el paquete es directamente azúcar."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "La norma europea suma ahí todos los azúcares sin distinguir su origen."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Orden de peso"
+      ],
+      "voz": "Por eso mirar los ingredientes revela qué pesa más en la caja. Quien aprende a leer esa tabla no se fía solo de la portada."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Mándaselo a quien empieza el día llenando el tazón sin girar la caja."
+    }
+  ],
+  "pie_instagram": "Miras la caja de cereales y ves grano tostado, pero la tabla trasera cuenta otra historia.\n\nEntre once cereales infantiles más vendidos de la lista AESAN comprobados en Open Food Facts el veinte de octubre de 2026, Frosties declara 37 g de azúcares por 100 g.\nLa norma europea agrupa todo bajo azúcares y la OMS fija menos del 10 % de la energía diaria.\n\nSin colaboración ni relación con ninguna de las marcas citadas.\n\n¿Qué miras primero al coger una caja del súper, la portada o los ingredientes?\nEn @vivax_nutri tienes más comparativas claras del carro semanal. Envíaselo a quien llena el bol sin girar el envase.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#etiquetado #desayuno #nutricion",
+  "alt": [
+    "El bol de cereales que llena medio día de azúcar libre"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "v7",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "TA",
+    "lote": "v7-2026-11-14",
+    "serie": "v7",
+    "mecanica": "escena de cocina -> dato OMS -> comparativa -> giro -> envio",
+    "tema": "azúcares declarados en cereales más vendidos del súper",
+    "voz_de_prueba": false,
+    "personajes": [],
+    "motor": "v7",
+    "paleta": "oliva",
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 TA en Telegram"
+  },
+  "comentario": "Fuentes: AESAN / Kantar 2022 y Open Food Facts (SUP-001, 20/10/2026), OMS 2015 (AZU-001) y Reg. UE 1169/2011 anexo I (ETQ-002).\nVoz sintética (IA).",
+  "ia": true
+}

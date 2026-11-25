@@ -1,0 +1,2578 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.67,
+ "tamano_mb": 10.97,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 70.4,
+ "fotogramas": 1248,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Quien",
+   "r": [
+    193,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Quien",
+   "r": [
+    193,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Quien empieza",
+   "r": [
+    193,
+    339,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Quien empieza una",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Quien empieza una pauta",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Quien empieza una pauta",
+   "r": [
+    193,
+    339,
+    887,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "suele",
+   "r": [
+    253,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "suele tachar",
+   "r": [
+    253,
+    338,
+    743,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "suele tachar",
+   "r": [
+    253,
+    338,
+    743,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "suele tachar la patata",
+   "r": [
+    253,
+    338,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "suele tachar la patata",
+   "r": [
+    253,
+    338,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "antes",
+   "r": [
+    172,
+    339,
+    383,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "antes de",
+   "r": [
+    172,
+    339,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "antes de preguntar.",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "antes de preguntar.",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "antes de preguntar.",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Calorías iguales",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Su",
+   "r": [
+    218,
+    339,
+    315,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Su fama",
+   "r": [
+    218,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Su fama negativa",
+   "r": [
+    218,
+    339,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Su fama negativa",
+   "r": [
+    218,
+    339,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Su fama negativa viene",
+   "r": [
+    218,
+    339,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "casi",
+   "r": [
+    249,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "casi",
+   "r": [
+    249,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "casi siempre",
+   "r": [
+    249,
+    339,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "casi siempre",
+   "r": [
+    249,
+    339,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "casi siempre de",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "casi siempre de freírla",
+   "r": [
+    249,
+    339,
+    831,
+    510
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "en",
+   "r": [
+    151,
+    339,
+    242,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "en abundante",
+   "r": [
+    151,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "en abundante",
+   "r": [
+    151,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "en abundante",
+   "r": [
+    151,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "en abundante aceite.",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "en abundante aceite.",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Si",
+   "r": [
+    246,
+    339,
+    318,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Si la hierves",
+   "r": [
+    246,
+    338,
+    718,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Si la hierves",
+   "r": [
+    246,
+    338,
+    718,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Si la hierves tal",
+   "r": [
+    246,
+    338,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "cual",
+   "r": [
+    175,
+    339,
+    335,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "cual",
+   "r": [
+    175,
+    339,
+    335,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "cual a igual",
+   "r": [
+    175,
+    339,
+    596,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "cual a igual energía",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "cual a igual energía",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "cual a igual energía",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "cambia",
+   "r": [
+    269,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Volumen real",
+   "r": [
+    629,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "cambia",
+   "r": [
+    269,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "cambia toda",
+   "r": [
+    269,
+    339,
+    726,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "cambia toda la",
+   "r": [
+    269,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "cambia toda la historia.",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "cambia toda la historia.",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Un",
+   "r": [
+    204,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Un trabajo",
+   "r": [
+    204,
+    339,
+    595,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Un trabajo",
+   "r": [
+    204,
+    339,
+    595,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Un trabajo clásico",
+   "r": [
+    204,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Un trabajo clásico",
+   "r": [
+    204,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Un trabajo clásico comparó",
+   "r": [
+    204,
+    339,
+    876,
+    514
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Un trabajo clásico comparó",
+   "r": [
+    204,
+    339,
+    876,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "decenas",
+   "r": [
+    320,
+    338,
+    654,
+    423
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "decenas",
+   "r": [
+    320,
+    338,
+    654,
+    423
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "decenas de alimentos",
+   "r": [
+    281,
+    338,
+    760,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "decenas de alimentos",
+   "r": [
+    281,
+    338,
+    760,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "decenas de alimentos con",
+   "r": [
+    281,
+    338,
+    799,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "las",
+   "r": [
+    161,
+    339,
+    273,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "las mismas",
+   "r": [
+    161,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "las mismas calorías.",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "las mismas calorías.",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "las mismas calorías.",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "las mismas calorías.",
+   "r": [
+    161,
+    339,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Midieron",
+   "r": [
+    230,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Midieron",
+   "r": [
+    230,
+    339,
+    574,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Midieron cuánto",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Midieron cuánto tardaba",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Midieron cuánto tardaba",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "volver",
+   "r": [
+    228,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "volver",
+   "r": [
+    228,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "volver el apetito",
+   "r": [
+    228,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "volver el apetito",
+   "r": [
+    228,
+    338,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "volver el apetito durante",
+   "r": [
+    228,
+    338,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "un",
+   "r": [
+    239,
+    339,
+    332,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "un par",
+   "r": [
+    239,
+    339,
+    479,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "un par de horas.",
+   "r": [
+    239,
+    339,
+    841,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "un par de horas.",
+   "r": [
+    239,
+    339,
+    841,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "La",
+   "r": [
+    213,
+    339,
+    301,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "La patata",
+   "r": [
+    213,
+    339,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "La patata hervida",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "La patata hervida",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "La patata hervida sació",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "La patata hervida sació",
+   "r": [
+    213,
+    339,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "casi",
+   "r": [
+    150,
+    339,
+    305,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "casi",
+   "r": [
+    150,
+    339,
+    305,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "casi siete",
+   "r": [
+    150,
+    338,
+    526,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "casi siete",
+   "r": [
+    150,
+    338,
+    526,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "casi siete veces",
+   "r": [
+    150,
+    338,
+    759,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "casi siete veces más",
+   "r": [
+    150,
+    338,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "que",
+   "r": [
+    287,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "que un simple",
+   "r": [
+    287,
+    339,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "que un simple",
+   "r": [
+    287,
+    339,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "que un simple cruasán.",
+   "r": [
+    287,
+    339,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "que un simple cruasán.",
+   "r": [
+    287,
+    339,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "que un simple cruasán.",
+   "r": [
+    287,
+    339,
+    793,
+    514
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "6,9x",
+   "r": [
+    509,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Un bollo",
+   "r": [
+    215,
+    338,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "6,9x",
+   "r": [
+    60,
+    888,
+    501,
+    988
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Un bollo mediano",
+   "r": [
+    215,
+    338,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Un bollo mediano",
+   "r": [
+    215,
+    338,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Un bollo mediano",
+   "r": [
+    215,
+    338,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Un bollo mediano aporta",
+   "r": [
+    215,
+    338,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "las",
+   "r": [
+    172,
+    339,
+    283,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "las mismas",
+   "r": [
+    172,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "las mismas",
+   "r": [
+    172,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "las mismas calorías",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "las mismas calorías",
+   "r": [
+    172,
+    339,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "un",
+   "r": [
+    203,
+    339,
+    296,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "un par",
+   "r": [
+    203,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "un par de",
+   "r": [
+    203,
+    339,
+    549,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "un par de patatas.",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "un par de patatas.",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "un par de patatas.",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "El peso",
+   "r": [
+    238,
+    339,
+    501,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "El peso",
+   "r": [
+    238,
+    339,
+    501,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "El peso y el",
+   "r": [
+    238,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "de",
+   "r": [
+    167,
+    339,
+    258,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "de la patata",
+   "r": [
+    167,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "de la patata",
+   "r": [
+    167,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "de la patata",
+   "r": [
+    167,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "de la patata estiran",
+   "r": [
+    167,
+    338,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "de la patata estiran",
+   "r": [
+    167,
+    338,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "con",
+   "r": [
+    254,
+    339,
+    388,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "con suavidad",
+   "r": [
+    254,
+    339,
+    744,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "con suavidad",
+   "r": [
+    254,
+    339,
+    744,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "con suavidad el estómago.",
+   "r": [
+    254,
+    339,
+    826,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "con suavidad el estómago.",
+   "r": [
+    254,
+    339,
+    826,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "con suavidad el estómago.",
+   "r": [
+    254,
+    339,
+    826,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Comer",
+   "r": [
+    216,
+    339,
+    464,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Comer platos",
+   "r": [
+    216,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Comer platos",
+   "r": [
+    216,
+    339,
+    714,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Comer platos con",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Comer platos con volumen",
+   "r": [
+    216,
+    339,
+    864,
+    510
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "real",
+   "r": [
+    164,
+    339,
+    316,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "real",
+   "r": [
+    164,
+    339,
+    316,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "real frena",
+   "r": [
+    164,
+    339,
+    539,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "real frena el",
+   "r": [
+    164,
+    339,
+    621,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "real frena el picoteo",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "real frena el picoteo",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "sin",
+   "r": [
+    215,
+    339,
+    325,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "sin pasar",
+   "r": [
+    215,
+    339,
+    561,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Peso + agua",
+   "r": [
+    652,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "sin pasar apuros.",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "sin pasar apuros.",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "sin pasar apuros.",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "En",
+   "r": [
+    166,
+    344,
+    248,
+    422
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "En consulta",
+   "r": [
+    166,
+    344,
+    552,
+    422
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "En consulta",
+   "r": [
+    166,
+    344,
+    552,
+    422
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "En consulta recuperar",
+   "r": [
+    166,
+    344,
+    914,
+    422
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "En consulta recuperar",
+   "r": [
+    166,
+    344,
+    914,
+    422
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "En consulta recuperar guarniciones",
+   "r": [
+    166,
+    344,
+    914,
+    497
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "En consulta recuperar guarniciones",
+   "r": [
+    166,
+    344,
+    914,
+    497
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "En consulta recuperar guarniciones",
+   "r": [
+    166,
+    344,
+    914,
+    497
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "sencillas",
+   "r": [
+    187,
+    339,
+    520,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "sencillas",
+   "r": [
+    187,
+    339,
+    520,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "sencillas",
+   "r": [
+    187,
+    339,
+    520,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "sencillas da",
+   "r": [
+    187,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "sencillas da mucha",
+   "r": [
+    187,
+    339,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "sencillas da mucha comodidad.",
+   "r": [
+    187,
+    339,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "sencillas da mucha comodidad.",
+   "r": [
+    187,
+    339,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "sencillas da mucha comodidad.",
+   "r": [
+    187,
+    339,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a",
+   "r": [
+    190,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien evita",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a quien evita",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "la patata",
+   "r": [
+    150,
+    339,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "la patata",
+   "r": [
+    150,
+    339,
+    483,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "la patata hervida",
+   "r": [
+    150,
+    339,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "la patata hervida",
+   "r": [
+    150,
+    339,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "la patata hervida por",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "culpa",
+   "r": [
+    256,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "culpa de",
+   "r": [
+    256,
+    339,
+    568,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "culpa de viejos",
+   "r": [
+    256,
+    338,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "culpa de viejos mitos.",
+   "r": [
+    256,
+    338,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "culpa de viejos mitos.",
+   "r": [
+    256,
+    338,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "culpa de viejos mitos.",
+   "r": [
+    256,
+    338,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "culpa de viejos mitos.",
+   "r": [
+    256,
+    338,
+    824,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 740,
+  "texto": "Quien empieza una pauta suele tachar la patata antes de preguntar. Su fama negativa viene casi siempre de freírla en abundante aceite. Si la hierves tal cual a igual energía cambia toda la historia. Un trabajo clásico comparó decenas de alimentos con las mismas calorías. Midieron cuánto tardaba en volver el apetito durante un par de horas. La patata hervida sació casi siete veces más que un simple cruasán. Un bollo mediano aporta las mismas calorías que un par de patatas. El peso y el agua de la patata estiran con suavidad el estómago. Comer platos con volumen real frena el picoteo sin pasar apuros. En consulta recuperar guarniciones sencillas da mucha comodidad. Mándaselo a quien evita la patata hervida por culpa de viejos mitos.",
+  "inicio_s": 0.0485,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Quien empieza una pauta suele tachar la patata antes de preguntar.",
+    "t0": 0.021,
+    "t1": 3.376
+   },
+   {
+    "texto": "Su fama negativa viene casi siempre de freírla en abundante aceite.",
+    "t0": 3.561,
+    "t1": 7.401
+   },
+   {
+    "texto": "Si la hierves tal cual a igual energía cambia toda la historia.",
+    "t0": 7.586,
+    "t1": 11.266
+   },
+   {
+    "texto": "Un trabajo clásico comparó decenas de alimentos con las mismas calorías.",
+    "t0": 11.441,
+    "t1": 15.201
+   },
+   {
+    "texto": "Midieron cuánto tardaba en volver el apetito durante un par de horas.",
+    "t0": 15.421,
+    "t1": 18.701
+   },
+   {
+    "texto": "La patata hervida sació casi siete veces más que un simple cruasán.",
+    "t0": 18.911,
+    "t1": 22.751
+   },
+   {
+    "texto": "Un bollo mediano aporta las mismas calorías que un par de patatas.",
+    "t0": 22.931,
+    "t1": 26.411
+   },
+   {
+    "texto": "El peso y el agua de la patata estiran con suavidad el estómago.",
+    "t0": 26.621,
+    "t1": 29.981
+   },
+   {
+    "texto": "Comer platos con volumen real frena el picoteo sin pasar apuros.",
+    "t0": 30.221,
+    "t1": 33.781
+   },
+   {
+    "texto": "En consulta recuperar guarniciones sencillas da mucha comodidad.",
+    "t0": 33.951,
+    "t1": 37.471
+   },
+   {
+    "texto": "Mándaselo a quien evita la patata hervida por culpa de viejos mitos.",
+    "t0": 37.666,
+    "t1": 41.186
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.67,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.256,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.956,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.521,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.881,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.181,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.671,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.091,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.741,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.401,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.666,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/tt_patata_cocida_sacia_siete_veces.json",
+  "paleta": "virales",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pan",
+      "colores": [
+       "#C68A47"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 15.8,
+   "render": 93.4,
+   "mezcla": 27.1
+  },
+  "escena_js": "tr"
+ }
+}

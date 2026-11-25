@@ -1,0 +1,2569 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.3,
+ "tamano_mb": 10.69,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 73.8,
+ "fotogramas": 1237,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Abres",
+   "r": [
+    175,
+    339,
+    400,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Abres",
+   "r": [
+    175,
+    339,
+    400,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Abres la bandeja",
+   "r": [
+    175,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Abres la bandeja",
+   "r": [
+    175,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Abres la bandeja de",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Abres la bandeja de ternera",
+   "r": [
+    175,
+    339,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Abres la bandeja de ternera",
+   "r": [
+    175,
+    339,
+    905,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "del súper",
+   "r": [
+    265,
+    339,
+    613,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "del súper",
+   "r": [
+    265,
+    339,
+    613,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "del súper y",
+   "r": [
+    265,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "del súper y ves",
+   "r": [
+    265,
+    339,
+    815,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "un",
+   "r": [
+    208,
+    339,
+    301,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "un charquito",
+   "r": [
+    208,
+    338,
+    704,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "un charquito",
+   "r": [
+    208,
+    338,
+    704,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "un charquito rojo",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Bandeja fresca",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "un charquito rojo",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Bandeja fresca",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "un charquito rojo debajo.",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Bandeja fresca",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "un charquito rojo debajo.",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Bandeja fresca",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Casi",
+   "r": [
+    191,
+    339,
+    354,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Bandeja fresca",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Casi todo",
+   "r": [
+    191,
+    339,
+    539,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Bandeja fresca",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Casi todo el mundo",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Bandeja fresca",
+   "r": [
+    583,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Casi todo el mundo da",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "por",
+   "r": [
+    203,
+    339,
+    334,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "por hecho",
+   "r": [
+    203,
+    339,
+    575,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "por hecho que",
+   "r": [
+    203,
+    339,
+    729,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "por hecho que ese",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "líquido",
+   "r": [
+    213,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "líquido es",
+   "r": [
+    213,
+    339,
+    569,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "líquido es sangre",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "líquido es sangre fresca.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "líquido es sangre fresca.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "líquido es sangre fresca.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Durante",
+   "r": [
+    345,
+    339,
+    653,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Durante el",
+   "r": [
+    345,
+    339,
+    735,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Durante el procesado",
+   "r": [
+    220,
+    339,
+    735,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Durante el procesado",
+   "r": [
+    220,
+    339,
+    735,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Durante el procesado inicial",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Durante el procesado inicial",
+   "r": [
+    220,
+    339,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "ya",
+   "r": [
+    231,
+    339,
+    319,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "ya se",
+   "r": [
+    231,
+    339,
+    422,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "ya se retira",
+   "r": [
+    231,
+    338,
+    679,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "ya se retira",
+   "r": [
+    231,
+    338,
+    679,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "ya se retira casi",
+   "r": [
+    231,
+    338,
+    849,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    673,
+    950,
+    735
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "toda",
+   "r": [
+    263,
+    339,
+    433,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    677,
+    950,
+    739
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "toda la",
+   "r": [
+    263,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    681,
+    950,
+    743
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "toda la sangre.",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    684,
+    950,
+    746
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "toda la sangre.",
+   "r": [
+    263,
+    339,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    688,
+    950,
+    750
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "El",
+   "r": [
+    177,
+    339,
+    245,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    692,
+    950,
+    754
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "El color",
+   "r": [
+    177,
+    339,
+    456,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Humedad + proteína",
+   "r": [
+    490,
+    698,
+    950,
+    760
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "El color rojo",
+   "r": [
+    177,
+    339,
+    624,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "El color rojo",
+   "r": [
+    177,
+    339,
+    624,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "El color rojo sale",
+   "r": [
+    177,
+    339,
+    796,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "una",
+   "r": [
+    161,
+    344,
+    287,
+    422
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "una proteína",
+   "r": [
+    161,
+    344,
+    588,
+    422
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "una proteína",
+   "r": [
+    161,
+    344,
+    588,
+    422
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "una proteína muscular",
+   "r": [
+    161,
+    344,
+    919,
+    422
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "una proteína muscular",
+   "r": [
+    161,
+    344,
+    919,
+    422
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "una proteína muscular llamada",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "una proteína muscular llamada",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "una proteína muscular llamada",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "una proteína muscular llamada mioglobina.",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "una proteína muscular llamada mioglobina.",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "una proteína muscular llamada mioglobina.",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "una proteína muscular llamada mioglobina.",
+   "r": [
+    161,
+    344,
+    919,
+    501
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Con el",
+   "r": [
+    198,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Con el oxígeno",
+   "r": [
+    198,
+    338,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Con el oxígeno del",
+   "r": [
+    198,
+    338,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "aire",
+   "r": [
+    257,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "aire el",
+   "r": [
+    257,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "aire el músculo",
+   "r": [
+    257,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "aire el músculo",
+   "r": [
+    257,
+    339,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "aire el músculo recién",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "aire el músculo recién",
+   "r": [
+    257,
+    339,
+    823,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "cortado",
+   "r": [
+    196,
+    339,
+    494,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "cortado",
+   "r": [
+    196,
+    339,
+    494,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "cortado toma",
+   "r": [
+    196,
+    339,
+    700,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "cortado toma tono",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "cortado toma tono cereza.",
+   "r": [
+    196,
+    339,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "cortado toma tono cereza.",
+   "r": [
+    196,
+    339,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "cortado toma tono cereza.",
+   "r": [
+    196,
+    339,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "La",
+   "r": [
+    242,
+    339,
+    331,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "La carne",
+   "r": [
+    242,
+    339,
+    565,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "La carne",
+   "r": [
+    242,
+    339,
+    565,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "La carne es casi",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "La carne es casi",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "setenta",
+   "r": [
+    177,
+    338,
+    485,
+    423
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "setenta y",
+   "r": [
+    177,
+    338,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "setenta y cinco",
+   "r": [
+    177,
+    338,
+    757,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "setenta y cinco por",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "ciento",
+   "r": [
+    248,
+    339,
+    481,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "ciento",
+   "r": [
+    248,
+    339,
+    481,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "ciento agua",
+   "r": [
+    248,
+    339,
+    682,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "ciento agua con",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "ciento agua con proteína.",
+   "r": [
+    248,
+    339,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "ciento agua con proteína.",
+   "r": [
+    248,
+    339,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "ciento agua con proteína.",
+   "r": [
+    248,
+    339,
+    832,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "3 / 4",
+   "r": [
+    431,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Cuando",
+   "r": [
+    215,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Cuando el envase",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Cuando el envase",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Cuando el envase aplasta",
+   "r": [
+    215,
+    339,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "la",
+   "r": [
+    158,
+    339,
+    227,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "la carne",
+   "r": [
+    158,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "la carne picada",
+   "r": [
+    158,
+    339,
+    728,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "la carne picada",
+   "r": [
+    158,
+    339,
+    728,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "la carne picada",
+   "r": [
+    158,
+    339,
+    728,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "la carne picada falta",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "la carne picada falta",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "aire",
+   "r": [
+    312,
+    339,
+    464,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "aire y",
+   "r": [
+    312,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "aire y queda",
+   "r": [
+    312,
+    339,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "aire y queda marrón.",
+   "r": [
+    312,
+    339,
+    768,
+    510
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "aire y queda marrón.",
+   "r": [
+    312,
+    339,
+    768,
+    510
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Ese",
+   "r": [
+    207,
+    339,
+    339,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Ese centro",
+   "r": [
+    207,
+    339,
+    604,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Ese centro gris",
+   "r": [
+    207,
+    339,
+    767,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Ese centro gris",
+   "r": [
+    207,
+    339,
+    767,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Ese centro gris no",
+   "r": [
+    207,
+    339,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "indica",
+   "r": [
+    175,
+    339,
+    402,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "indica mal",
+   "r": [
+    175,
+    339,
+    552,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "indica mal estado",
+   "r": [
+    175,
+    339,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "indica mal estado",
+   "r": [
+    175,
+    339,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "indica mal estado si",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "conserva",
+   "r": [
+    171,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "conserva un",
+   "r": [
+    171,
+    339,
+    629,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "conserva un aroma",
+   "r": [
+    171,
+    338,
+    909,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "conserva un aroma",
+   "r": [
+    171,
+    338,
+    909,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "conserva un aroma normal.",
+   "r": [
+    171,
+    338,
+    909,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Las",
+   "r": [
+    195,
+    339,
+    325,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Las señales",
+   "r": [
+    195,
+    339,
+    630,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Las señales",
+   "r": [
+    195,
+    339,
+    630,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Las señales reales",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Las señales reales",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "deterioro",
+   "r": [
+    192,
+    338,
+    571,
+    423
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "deterioro",
+   "r": [
+    192,
+    338,
+    571,
+    423
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "deterioro",
+   "r": [
+    192,
+    338,
+    571,
+    423
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "deterioro son",
+   "r": [
+    192,
+    338,
+    720,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "deterioro son",
+   "r": [
+    192,
+    338,
+    720,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "deterioro son olor",
+   "r": [
+    192,
+    338,
+    888,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "deterioro son olor agrio",
+   "r": [
+    192,
+    338,
+    888,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "deterioro son olor agrio",
+   "r": [
+    192,
+    338,
+    888,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "o textura",
+   "r": [
+    179,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "o textura",
+   "r": [
+    179,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "o textura",
+   "r": [
+    179,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Olor manda",
+   "r": [
+    675,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "o textura pegajosa.",
+   "r": [
+    179,
+    339,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "o textura pegajosa.",
+   "r": [
+    179,
+    339,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "o textura pegajosa.",
+   "r": [
+    179,
+    339,
+    901,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Distinguir",
+   "r": [
+    164,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Distinguir",
+   "r": [
+    164,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Distinguir esto",
+   "r": [
+    164,
+    339,
+    713,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Distinguir esto evita",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Distinguir esto evita",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Distinguir esto evita tirar",
+   "r": [
+    164,
+    339,
+    916,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "carne",
+   "r": [
+    197,
+    338,
+    436,
+    423
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "carne en",
+   "r": [
+    197,
+    338,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "carne en",
+   "r": [
+    197,
+    338,
+    542,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "carne en perfecto",
+   "r": [
+    197,
+    338,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "carne en perfecto estado",
+   "r": [
+    197,
+    338,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "a",
+   "r": [
+    322,
+    339,
+    369,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "a la basura.",
+   "r": [
+    322,
+    339,
+    758,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "a la basura.",
+   "r": [
+    322,
+    339,
+    758,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a alguien que escurre",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "el",
+   "r": [
+    218,
+    339,
+    286,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "el filete",
+   "r": [
+    218,
+    338,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "el filete con",
+   "r": [
+    218,
+    338,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "el filete con",
+   "r": [
+    218,
+    338,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "el filete con asco",
+   "r": [
+    218,
+    338,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "creyendo",
+   "r": [
+    236,
+    339,
+    587,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "creyendo",
+   "r": [
+    236,
+    339,
+    587,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "creyendo que es",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "creyendo que es sangre.",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "creyendo que es sangre.",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "creyendo que es sangre.",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 735,
+  "texto": "Abres la bandeja de ternera del súper y ves un charquito rojo debajo. Casi todo el mundo da por hecho que ese líquido es sangre fresca. Durante el procesado inicial ya se retira casi toda la sangre. El color rojo sale de una proteína muscular llamada mioglobina. Con el oxígeno del aire el músculo recién cortado toma tono cereza. La carne es casi setenta y cinco por ciento agua con proteína. Cuando el envase aplasta la carne picada falta aire y queda marrón. Ese centro gris no indica mal estado si conserva un aroma normal. Las señales reales de deterioro son olor agrio o textura pegajosa. Distinguir esto evita tirar carne en perfecto estado a la basura. Mándaselo a alguien que escurre el filete con asco creyendo que es sangre.",
+  "inicio_s": 0.0464,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Abres la bandeja de ternera del súper y ves un charquito rojo debajo.",
+    "t0": 0.021,
+    "t1": 3.846
+   },
+   {
+    "texto": "Casi todo el mundo da por hecho que ese líquido es sangre fresca.",
+    "t0": 4.096,
+    "t1": 7.136
+   },
+   {
+    "texto": "Durante el procesado inicial ya se retira casi toda la sangre.",
+    "t0": 7.391,
+    "t1": 10.711
+   },
+   {
+    "texto": "El color rojo sale de una proteína muscular llamada mioglobina.",
+    "t0": 10.926,
+    "t1": 14.526
+   },
+   {
+    "texto": "Con el oxígeno del aire el músculo recién cortado toma tono cereza.",
+    "t0": 14.741,
+    "t1": 18.341
+   },
+   {
+    "texto": "La carne es casi setenta y cinco por ciento agua con proteína.",
+    "t0": 18.581,
+    "t1": 22.061
+   },
+   {
+    "texto": "Cuando el envase aplasta la carne picada falta aire y queda marrón.",
+    "t0": 22.271,
+    "t1": 25.831
+   },
+   {
+    "texto": "Ese centro gris no indica mal estado si conserva un aroma normal.",
+    "t0": 26.036,
+    "t1": 29.436
+   },
+   {
+    "texto": "Las señales reales de deterioro son olor agrio o textura pegajosa.",
+    "t0": 29.646,
+    "t1": 33.646
+   },
+   {
+    "texto": "Distinguir esto evita tirar carne en perfecto estado a la basura.",
+    "t0": 33.976,
+    "t1": 37.149
+   },
+   {
+    "texto": "Mándaselo a alguien que escurre el filete con asco creyendo que es sangre.",
+    "t0": 37.344,
+    "t1": 40.824
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.9,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.486,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.146,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.576,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.376,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 14.981,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.661,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.081,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.116,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.426,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.344,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/tk_filete_liquido_rojo_mioglobina.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "filete",
+      "colores": [
+       "#B8404A",
+       "#9A1E2C"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 1.4,
+   "render": 94.8,
+   "mezcla": 16.7
+  },
+  "escena_js": "tr"
+ }
+}

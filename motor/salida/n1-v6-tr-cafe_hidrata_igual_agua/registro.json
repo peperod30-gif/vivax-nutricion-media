@@ -1,0 +1,2522 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.17,
+ "tamano_mb": 10.55,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 92.8,
+ "fotogramas": 1203,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Pides",
+   "r": [
+    203,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Pides",
+   "r": [
+    203,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Pides tu café",
+   "r": [
+    203,
+    339,
+    686,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Pides tu café de",
+   "r": [
+    203,
+    339,
+    792,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "mañana",
+   "r": [
+    208,
+    338,
+    526,
+    423
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "mañana",
+   "r": [
+    208,
+    338,
+    526,
+    423
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "mañana y",
+   "r": [
+    208,
+    338,
+    583,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "mañana y alguien",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "mañana y alguien suelta",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "mañana y alguien suelta",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "mañana y alguien suelta que",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "te va",
+   "r": [
+    176,
+    339,
+    357,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "te va a deshidratar.",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "te va a deshidratar.",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Mito diurético",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "te va a deshidratar.",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "te va a deshidratar.",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La fama",
+   "r": [
+    210,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La fama",
+   "r": [
+    210,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La fama nació",
+   "r": [
+    210,
+    339,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La fama nació por",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "La fama nació por dosis",
+   "r": [
+    210,
+    339,
+    870,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "La fama nació por dosis",
+   "r": [
+    210,
+    339,
+    870,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "altas",
+   "r": [
+    181,
+    339,
+    371,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "altas de cafeína",
+   "r": [
+    181,
+    338,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "altas de cafeína",
+   "r": [
+    181,
+    338,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "altas de cafeína",
+   "r": [
+    181,
+    338,
+    793,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "altas de cafeína en",
+   "r": [
+    181,
+    338,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "altas de cafeína en gente",
+   "r": [
+    181,
+    338,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "que",
+   "r": [
+    268,
+    339,
+    407,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "que no",
+   "r": [
+    268,
+    339,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "que no tomaba",
+   "r": [
+    268,
+    339,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "que no tomaba nunca.",
+   "r": [
+    268,
+    339,
+    812,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "que no tomaba nunca.",
+   "r": [
+    268,
+    339,
+    812,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "que no tomaba nunca.",
+   "r": [
+    268,
+    339,
+    812,
+    514
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Quien nunca",
+   "r": [
+    168,
+    339,
+    627,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Quien nunca prueba",
+   "r": [
+    168,
+    339,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Quien nunca prueba",
+   "r": [
+    168,
+    339,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Quien nunca prueba café",
+   "r": [
+    168,
+    339,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Quien nunca prueba café",
+   "r": [
+    168,
+    339,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "nota",
+   "r": [
+    178,
+    338,
+    367,
+    423
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "nota un",
+   "r": [
+    178,
+    338,
+    476,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    907,
+    427,
+    969
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "nota un leve",
+   "r": [
+    178,
+    338,
+    645,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    876,
+    427,
+    938
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "nota un leve efecto",
+   "r": [
+    178,
+    338,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    864,
+    427,
+    926
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "nota un leve efecto",
+   "r": [
+    178,
+    338,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    853,
+    427,
+    915
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "diurético",
+   "r": [
+    326,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    842,
+    427,
+    904
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "diurético",
+   "r": [
+    326,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    830,
+    427,
+    892
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "diurético al principio.",
+   "r": [
+    326,
+    339,
+    754,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    819,
+    427,
+    881
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "diurético al principio.",
+   "r": [
+    326,
+    339,
+    754,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Casi todo agua",
+   "r": [
+    60,
+    808,
+    427,
+    870
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "diurético al principio.",
+   "r": [
+    326,
+    339,
+    754,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Pero",
+   "r": [
+    269,
+    339,
+    447,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Pero el cuerpo",
+   "r": [
+    269,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Pero el cuerpo",
+   "r": [
+    269,
+    339,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Pero el cuerpo desarrolla",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Pero el cuerpo desarrolla",
+   "r": [
+    269,
+    339,
+    811,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "tolerancia",
+   "r": [
+    165,
+    338,
+    573,
+    423
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "tolerancia",
+   "r": [
+    165,
+    338,
+    573,
+    423
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "tolerancia rápida",
+   "r": [
+    165,
+    338,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "tolerancia rápida",
+   "r": [
+    165,
+    338,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "tolerancia rápida si",
+   "r": [
+    165,
+    338,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "hábito",
+   "r": [
+    236,
+    339,
+    474,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "hábito",
+   "r": [
+    236,
+    339,
+    474,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "hábito ya existe.",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "hábito ya existe.",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "hábito ya existe.",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Pusieron",
+   "r": [
+    214,
+    339,
+    550,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Pusieron",
+   "r": [
+    214,
+    339,
+    550,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Pusieron a varios",
+   "r": [
+    214,
+    339,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Pusieron a varios adultos",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Pusieron a varios adultos",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "cafeteros",
+   "r": [
+    196,
+    338,
+    586,
+    423
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "cafeteros",
+   "r": [
+    196,
+    338,
+    586,
+    423
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "cafeteros",
+   "r": [
+    196,
+    338,
+    586,
+    423
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "cafeteros a beber",
+   "r": [
+    196,
+    338,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "cafeteros a beber agua",
+   "r": [
+    196,
+    338,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "cafeteros a beber agua",
+   "r": [
+    196,
+    338,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "o café",
+   "r": [
+    230,
+    339,
+    458,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "o café",
+   "r": [
+    230,
+    339,
+    458,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "o café unos",
+   "r": [
+    230,
+    339,
+    655,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "o café unos días.",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "o café unos días.",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Cuatro",
+   "r": [
+    181,
+    338,
+    463,
+    423
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Cuatro",
+   "r": [
+    181,
+    338,
+    463,
+    423
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Cuatro tazas",
+   "r": [
+    181,
+    338,
+    683,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Cuatro tazas al",
+   "r": [
+    181,
+    338,
+    768,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Cuatro tazas al día",
+   "r": [
+    181,
+    338,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "hidrataron",
+   "r": [
+    174,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "hidrataron",
+   "r": [
+    174,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "hidrataron",
+   "r": [
+    174,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "hidrataron igual",
+   "r": [
+    174,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "hidrataron igual",
+   "r": [
+    174,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "hidrataron igual sin",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "99,39 %",
+   "r": [
+    333,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "hidrataron igual sin variar",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "orina",
+   "r": [
+    249,
+    339,
+    449,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "orina ni",
+   "r": [
+    249,
+    339,
+    531,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "orina ni sangre.",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "orina ni sangre.",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Al",
+   "r": [
+    277,
+    339,
+    352,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Al fin y",
+   "r": [
+    277,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Al fin y al cabo",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "una",
+   "r": [
+    215,
+    339,
+    355,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "una taza",
+   "r": [
+    215,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "una taza",
+   "r": [
+    215,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "una taza de filtro",
+   "r": [
+    215,
+    338,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "una taza de filtro",
+   "r": [
+    215,
+    338,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "es casi",
+   "r": [
+    208,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "es casi",
+   "r": [
+    208,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "es casi todo",
+   "r": [
+    208,
+    339,
+    650,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "es casi todo agua.",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "es casi todo agua.",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Esto",
+   "r": [
+    170,
+    339,
+    335,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Esto vale",
+   "r": [
+    170,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Esto vale en",
+   "r": [
+    170,
+    339,
+    612,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Esto vale en adultos",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "sanos",
+   "r": [
+    196,
+    339,
+    419,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "sanos",
+   "r": [
+    196,
+    339,
+    419,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "sanos sin",
+   "r": [
+    196,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "sanos sin",
+   "r": [
+    196,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "sanos sin superar",
+   "r": [
+    196,
+    338,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "sanos sin superar dosis",
+   "r": [
+    196,
+    338,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "seguras",
+   "r": [
+    174,
+    339,
+    482,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "seguras",
+   "r": [
+    174,
+    339,
+    482,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "seguras de",
+   "r": [
+    174,
+    339,
+    588,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "seguras de cafeína.",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "seguras de cafeína.",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "seguras de cafeína.",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "No hace",
+   "r": [
+    169,
+    339,
+    464,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "No hace falta",
+   "r": [
+    169,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "No hace falta",
+   "r": [
+    169,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "No hace falta forzar",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "vasos",
+   "r": [
+    237,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "vasos",
+   "r": [
+    237,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "vasos extra",
+   "r": [
+    237,
+    338,
+    697,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "vasos extra por",
+   "r": [
+    237,
+    338,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "vasos extra por miedo",
+   "r": [
+    237,
+    338,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1217,
+    950,
+    1279
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "a perder",
+   "r": [
+    213,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1205,
+    950,
+    1267
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "a perder",
+   "r": [
+    213,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1192,
+    950,
+    1254
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "a perder líquidos.",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1180,
+    950,
+    1242
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "a perder líquidos.",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1168,
+    950,
+    1230
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "a perder líquidos.",
+   "r": [
+    213,
+    339,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1156,
+    950,
+    1218
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Separar",
+   "r": [
+    177,
+    339,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Cuenta como líquido",
+   "r": [
+    467,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Separar",
+   "r": [
+    177,
+    339,
+    489,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Separar mitos",
+   "r": [
+    177,
+    339,
+    712,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Separar mitos de la",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "fisiología",
+   "r": [
+    160,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "fisiología",
+   "r": [
+    160,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "fisiología",
+   "r": [
+    160,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "fisiología normal",
+   "r": [
+    160,
+    338,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "fisiología normal",
+   "r": [
+    160,
+    338,
+    811,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "fisiología normal da",
+   "r": [
+    160,
+    338,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "fisiología normal da calma",
+   "r": [
+    160,
+    338,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "fisiología normal da calma",
+   "r": [
+    160,
+    338,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "en tu",
+   "r": [
+    194,
+    339,
+    379,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "en tu rutina",
+   "r": [
+    194,
+    339,
+    626,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "en tu rutina diaria.",
+   "r": [
+    194,
+    339,
+    886,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "en tu rutina diaria.",
+   "r": [
+    194,
+    339,
+    886,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "en tu rutina diaria.",
+   "r": [
+    194,
+    339,
+    886,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "toma",
+   "r": [
+    226,
+    339,
+    417,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "toma su café",
+   "r": [
+    226,
+    339,
+    704,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "toma su café",
+   "r": [
+    226,
+    339,
+    704,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "toma su café con",
+   "r": [
+    226,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "culpa",
+   "r": [
+    167,
+    338,
+    393,
+    423
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "culpa creyendo",
+   "r": [
+    167,
+    338,
+    759,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "culpa creyendo",
+   "r": [
+    167,
+    338,
+    759,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "culpa creyendo que",
+   "r": [
+    167,
+    338,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "culpa creyendo que deshidrata.",
+   "r": [
+    167,
+    338,
+    913,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "culpa creyendo que deshidrata.",
+   "r": [
+    167,
+    338,
+    913,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "culpa creyendo que deshidrata.",
+   "r": [
+    167,
+    338,
+    913,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "culpa creyendo que deshidrata.",
+   "r": [
+    167,
+    338,
+    913,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 729,
+  "texto": "Pides tu café de la mañana y alguien suelta que te va a deshidratar. La fama nació por dosis altas de cafeína en gente que no tomaba nunca. Quien nunca prueba café nota un leve efecto diurético al principio. Pero el cuerpo desarrolla tolerancia rápida si el hábito ya existe. Pusieron a varios adultos cafeteros a beber agua o café unos días. Cuatro tazas al día hidrataron igual sin variar orina ni sangre. Al fin y al cabo una taza de filtro es casi todo agua. Esto vale en adultos sanos sin superar dosis seguras de cafeína. No hace falta forzar vasos extra por miedo a perder líquidos. Separar mitos de la fisiología normal da calma en tu rutina diaria. Mándaselo a alguien que toma su café con culpa creyendo que deshidrata.",
+  "inicio_s": 0.0496,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Pides tu café de la mañana y alguien suelta que te va a deshidratar.",
+    "t0": 0.021,
+    "t1": 3.396
+   },
+   {
+    "texto": "La fama nació por dosis altas de cafeína en gente que no tomaba nunca.",
+    "t0": 3.571,
+    "t1": 7.551
+   },
+   {
+    "texto": "Quien nunca prueba café nota un leve efecto diurético al principio.",
+    "t0": 7.726,
+    "t1": 11.206
+   },
+   {
+    "texto": "Pero el cuerpo desarrolla tolerancia rápida si el hábito ya existe.",
+    "t0": 11.376,
+    "t1": 14.629
+   },
+   {
+    "texto": "Pusieron a varios adultos cafeteros a beber agua o café unos días.",
+    "t0": 14.841,
+    "t1": 18.468
+   },
+   {
+    "texto": "Cuatro tazas al día hidrataron igual sin variar orina ni sangre.",
+    "t0": 18.676,
+    "t1": 22.156
+   },
+   {
+    "texto": "Al fin y al cabo una taza de filtro es casi todo agua.",
+    "t0": 22.346,
+    "t1": 25.106
+   },
+   {
+    "texto": "Esto vale en adultos sanos sin superar dosis seguras de cafeína.",
+    "t0": 25.306,
+    "t1": 28.746
+   },
+   {
+    "texto": "No hace falta forzar vasos extra por miedo a perder líquidos.",
+    "t0": 28.986,
+    "t1": 32.066
+   },
+   {
+    "texto": "Separar mitos de la fisiología normal da calma en tu rutina diaria.",
+    "t0": 32.381,
+    "t1": 35.981
+   },
+   {
+    "texto": "Mándaselo a alguien que toma su café con culpa creyendo que deshidrata.",
+    "t0": 36.196,
+    "t1": 39.676
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.5,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.436,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.416,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.551,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.311,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.166,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.988,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.676,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 18.976,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.026,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 30.806,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.196,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/tr_cafe_hidrata_igual_agua.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4E342E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4E342E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 17.6,
+   "render": 116.1,
+   "mezcla": 15.4
+  },
+  "escena_js": "tr"
+ }
+}

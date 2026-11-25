@@ -1,0 +1,85 @@
+{
+  "id": "n1-v6-tl-colesterol_ldl_hdl_transporte",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-TL",
+  "pilar": "ensenar",
+  "hechos": [
+    "CUR-1321",
+    "CUR-1323",
+    "CUR-1324"
+  ],
+  "titulo": "[TL] Por qué no existen dos colesteroles distintos en tu analítica",
+  "hojas": [
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Misma molécula"
+      ],
+      "voz": "Escuchas hablar de HDL y LDL como si fueran sustancias opuestas. La bioquímica es muy clara cuando entiendes el transporte interno."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Coches distintos"
+      ],
+      "voz": "El colesterol es una única molécula que no se disuelve en agua. Tu cuerpo lo usa para fabricar hormonas, vitamina D y membranas."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Para viajar por la sangre sube a barcos llamados lipoproteínas."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "2 Lipoproteínas"
+      ],
+      "voz": "Ambos transportadores siguen rutas distintas entre hígado y arterias."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "La vía LDL reparte carga y se acumula si sobran partículas en sangre."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Carga en arteria"
+      ],
+      "voz": "Cuando demasiados vehículos LDL quedan en la pared nace la placa. En cambio la vía HDL recoge el sobrante para devolverlo al hígado."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "En consulta mirar el perfil lipídico entero ayuda a ajustar la dieta."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Mándaselo a alguien que cree que tener el colesterol a cero es sano."
+    }
+  ],
+  "pie_instagram": "Decir fracción HDL y fracción LDL ayuda en la calle, pero confunde lo que ocurre dentro de tus arterias.\n\nLa molécula de colesterol es exactamente la misma en LDL y HDL; lo que cambia es el paquete de grasa y proteína que la transporta por la sangre.\nEl consenso de la Sociedad Europea de Aterosclerosis señala que la probabilidad de formar placa sube con la concentración de partículas LDL circulando.\n\n¿Alguna vez te explicaron qué mide exactamente el LDL más allá de ponerle etiqueta?\nEn @vivax_nutri explicamos fisiología cardiovascular sin tópicos simples. Envíaselo a quien mira su analítica sin entender qué sube o baja.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#colesterol #analitica #nutricion",
+  "alt": [
+    "Por qué no existen dos colesteroles distintos en tu analítica"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "v7",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "TL",
+    "lote": "v7-2026-11-14",
+    "serie": "v7",
+    "mecanica": "mito bueno/malo -> vehiculos lipoproteinas -> consenso -> envio",
+    "tema": "LDL y HDL como lipoproteínas que llevan la misma molécula de colesterol",
+    "voz_de_prueba": false,
+    "personajes": [],
+    "motor": "v7",
+    "paleta": "oliva",
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 TL en Telegram"
+  },
+  "comentario": "Fuentes: Feingold Endotext (CUR-1321, CUR-1323) y Consenso Sociedad Europea de Aterosclerosis / Ference 2017 (CUR-1324).\nVoz sintética (IA).",
+  "ia": true
+}
