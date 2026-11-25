@@ -1,0 +1,2608 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.97,
+ "tamano_mb": 9.73,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 65.9,
+ "fotogramas": 1257,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Acabas",
+   "r": [
+    249,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Acabas",
+   "r": [
+    249,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Acabas",
+   "r": [
+    249,
+    339,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Acabas lleno",
+   "r": [
+    249,
+    339,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Acabas lleno de salado,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Acabas lleno de salado,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Acabas lleno de salado,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Acabas lleno de salado,",
+   "r": [
+    249,
+    339,
+    831,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "ves",
+   "r": [
+    217,
+    339,
+    346,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "ves dulce",
+   "r": [
+    217,
+    338,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "ves dulce luego",
+   "r": [
+    217,
+    338,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Hambre selectiva",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "ves dulce luego",
+   "r": [
+    217,
+    338,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Hambre selectiva",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "ves dulce luego y",
+   "r": [
+    217,
+    338,
+    863,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Hambre selectiva",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "vuelve",
+   "r": [
+    224,
+    339,
+    468,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Hambre selectiva",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "vuelve el",
+   "r": [
+    224,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Hambre selectiva",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "vuelve el apetito.",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Hambre selectiva",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "vuelve el apetito.",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Hambre selectiva",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "vuelve el apetito.",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Hambre selectiva",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Mucha",
+   "r": [
+    145,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Mucha gente",
+   "r": [
+    145,
+    339,
+    630,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Mucha gente bromea",
+   "r": [
+    145,
+    339,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Mucha gente bromea",
+   "r": [
+    145,
+    339,
+    935,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Mucha gente bromea diciendo",
+   "r": [
+    145,
+    339,
+    935,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Mucha gente bromea diciendo",
+   "r": [
+    145,
+    339,
+    935,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Mucha gente bromea diciendo que",
+   "r": [
+    145,
+    339,
+    935,
+    514
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "guardamos",
+   "r": [
+    273,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "guardamos",
+   "r": [
+    273,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "guardamos un segundo",
+   "r": [
+    169,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "guardamos un segundo",
+   "r": [
+    169,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "guardamos un segundo estómago.",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "guardamos un segundo estómago.",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "guardamos un segundo estómago.",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Es",
+   "r": [
+    222,
+    339,
+    310,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Es un mecanismo",
+   "r": [
+    222,
+    339,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Es un mecanismo",
+   "r": [
+    222,
+    339,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Es un mecanismo cerebral",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Es un mecanismo cerebral",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Es un mecanismo cerebral antiguo",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Es un mecanismo cerebral antiguo",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "llamado",
+   "r": [
+    232,
+    342,
+    513,
+    425
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "llamado",
+   "r": [
+    232,
+    342,
+    513,
+    425
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "llamado",
+   "r": [
+    232,
+    342,
+    513,
+    425
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "llamado saciedad",
+   "r": [
+    232,
+    342,
+    848,
+    425
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "llamado saciedad",
+   "r": [
+    232,
+    342,
+    848,
+    425
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "llamado saciedad sensorial",
+   "r": [
+    163,
+    342,
+    848,
+    504
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "llamado saciedad sensorial",
+   "r": [
+    163,
+    342,
+    848,
+    504
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "llamado saciedad sensorial",
+   "r": [
+    163,
+    342,
+    848,
+    504
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "llamado saciedad sensorial específica.",
+   "r": [
+    163,
+    342,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    945,
+    950,
+    1007
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "llamado saciedad sensorial específica.",
+   "r": [
+    163,
+    342,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    957,
+    950,
+    1019
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "llamado saciedad sensorial específica.",
+   "r": [
+    163,
+    342,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    968,
+    950,
+    1030
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Al",
+   "r": [
+    178,
+    339,
+    254,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    976,
+    950,
+    1038
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Al repetir",
+   "r": [
+    178,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    982,
+    950,
+    1044
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Al repetir",
+   "r": [
+    178,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    988,
+    950,
+    1050
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Al repetir un mismo",
+   "r": [
+    178,
+    339,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    994,
+    950,
+    1056
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "gusto",
+   "r": [
+    225,
+    339,
+    437,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Sensor apagado",
+   "r": [
+    583,
+    999,
+    950,
+    1061
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "gusto",
+   "r": [
+    225,
+    339,
+    437,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "gusto tu",
+   "r": [
+    225,
+    339,
+    531,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "gusto tu corteza",
+   "r": [
+    225,
+    338,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "gusto tu corteza",
+   "r": [
+    225,
+    338,
+    855,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "gusto tu corteza apaga",
+   "r": [
+    225,
+    338,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "gusto tu corteza apaga",
+   "r": [
+    225,
+    338,
+    855,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "rápido",
+   "r": [
+    247,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "rápido el",
+   "r": [
+    247,
+    339,
+    576,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "rápido el placer",
+   "r": [
+    247,
+    339,
+    833,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "rápido el placer recibido.",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "rápido el placer recibido.",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "rápido el placer recibido.",
+   "r": [
+    247,
+    339,
+    833,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "En",
+   "r": [
+    190,
+    339,
+    281,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "En cambio",
+   "r": [
+    190,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "En cambio",
+   "r": [
+    190,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "En cambio sabores",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "En cambio sabores",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "En cambio sabores nuevos",
+   "r": [
+    190,
+    339,
+    890,
+    510
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "En cambio sabores nuevos",
+   "r": [
+    190,
+    339,
+    890,
+    510
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "En cambio sabores nuevos encienden",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "En cambio sabores nuevos encienden",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "otra",
+   "r": [
+    314,
+    339,
+    477,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "otra vez",
+   "r": [
+    314,
+    339,
+    616,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "otra vez esa",
+   "r": [
+    314,
+    339,
+    766,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "otra vez esa respuesta",
+   "r": [
+    217,
+    339,
+    766,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "otra vez esa respuesta",
+   "r": [
+    217,
+    339,
+    766,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "otra vez esa respuesta inicial.",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "otra vez esa respuesta inicial.",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "otra vez esa respuesta inicial.",
+   "r": [
+    217,
+    339,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Con",
+   "r": [
+    209,
+    339,
+    352,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Con cuatro",
+   "r": [
+    209,
+    339,
+    621,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Con cuatro platos",
+   "r": [
+    209,
+    339,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "Con cuatro platos",
+   "r": [
+    209,
+    339,
+    871,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "Con cuatro platos distintos",
+   "r": [
+    191,
+    339,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "Con cuatro platos distintos",
+   "r": [
+    191,
+    339,
+    871,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "Con cuatro platos distintos comieron",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "Con cuatro platos distintos comieron",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "sesenta",
+   "r": [
+    184,
+    338,
+    502,
+    423
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "sesenta",
+   "r": [
+    184,
+    338,
+    502,
+    423
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "sesenta",
+   "r": [
+    184,
+    338,
+    502,
+    423
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "sesenta por ciento",
+   "r": [
+    184,
+    338,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "60 %",
+   "r": [
+    524,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "sesenta por ciento",
+   "r": [
+    184,
+    338,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "60 %",
+   "r": [
+    524,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "sesenta por ciento más.",
+   "r": [
+    184,
+    338,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "60 %",
+   "r": [
+    524,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Ese",
+   "r": [
+    169,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "60 %",
+   "r": [
+    60,
+    1073,
+    486,
+    1173
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Ese salto",
+   "r": [
+    169,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "60 %",
+   "r": [
+    60,
+    1074,
+    486,
+    1174
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Ese salto enorme",
+   "r": [
+    169,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "60 %",
+   "r": [
+    60,
+    1073,
+    486,
+    1173
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Ese salto enorme",
+   "r": [
+    169,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "60 %",
+   "r": [
+    60,
+    1073,
+    486,
+    1173
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Ese salto enorme",
+   "r": [
+    169,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "60 %",
+   "r": [
+    60,
+    1073,
+    486,
+    1173
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Ese salto enorme se dio",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "60 %",
+   "r": [
+    60,
+    1073,
+    486,
+    1173
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "en los",
+   "r": [
+    162,
+    339,
+    379,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "en los platos",
+   "r": [
+    162,
+    339,
+    628,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "en los platos finales",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "en los platos finales",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "frente",
+   "r": [
+    162,
+    339,
+    398,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "frente",
+   "r": [
+    162,
+    339,
+    398,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "frente a repetir",
+   "r": [
+    162,
+    339,
+    742,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "frente a repetir",
+   "r": [
+    162,
+    339,
+    742,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "frente a repetir uno.",
+   "r": [
+    162,
+    339,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "En",
+   "r": [
+    273,
+    339,
+    364,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "En un",
+   "r": [
+    273,
+    339,
+    472,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "En un bufé",
+   "r": [
+    273,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "En un bufé con",
+   "r": [
+    273,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "En un bufé con muchas",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "bandejas",
+   "r": [
+    159,
+    338,
+    521,
+    423
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "bandejas",
+   "r": [
+    159,
+    338,
+    521,
+    423
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "bandejas",
+   "r": [
+    159,
+    338,
+    521,
+    423
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "bandejas el",
+   "r": [
+    159,
+    338,
+    603,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "bandejas el cerebro",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "bandejas el cerebro",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "bandejas el cerebro pierde",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "la",
+   "r": [
+    222,
+    339,
+    291,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "la señal",
+   "r": [
+    222,
+    339,
+    509,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "la señal de freno.",
+   "r": [
+    222,
+    339,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "la señal de freno.",
+   "r": [
+    222,
+    339,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "la señal de freno.",
+   "r": [
+    222,
+    339,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "En casa",
+   "r": [
+    244,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "En casa",
+   "r": [
+    244,
+    339,
+    530,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "En casa acortar",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "En casa acortar",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "En casa acortar platos",
+   "r": [
+    244,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "En casa acortar platos",
+   "r": [
+    244,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "y dejar",
+   "r": [
+    162,
+    339,
+    418,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "y dejar",
+   "r": [
+    162,
+    339,
+    418,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "y dejar fruta",
+   "r": [
+    162,
+    338,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "y dejar fruta aparte",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "y dejar fruta aparte",
+   "r": [
+    162,
+    338,
+    918,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "evita",
+   "r": [
+    164,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "evita",
+   "r": [
+    164,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "evita calorías",
+   "r": [
+    164,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "evita calorías",
+   "r": [
+    164,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "evita calorías",
+   "r": [
+    164,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "evita calorías extra.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Menos bandejas",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "evita calorías extra.",
+   "r": [
+    164,
+    339,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Entender",
+   "r": [
+    279,
+    339,
+    622,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Entender",
+   "r": [
+    279,
+    339,
+    622,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Entender este",
+   "r": [
+    279,
+    339,
+    801,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Entender este circuito",
+   "r": [
+    147,
+    339,
+    801,
+    510
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Entender este circuito",
+   "r": [
+    147,
+    339,
+    801,
+    510
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Entender este circuito quita",
+   "r": [
+    147,
+    339,
+    801,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Entender este circuito quita culpas",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Entender este circuito quita culpas",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "y",
+   "r": [
+    190,
+    339,
+    232,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "y ordena",
+   "r": [
+    190,
+    339,
+    515,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "y ordena",
+   "r": [
+    190,
+    339,
+    515,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "y ordena cualquier",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "y ordena cualquier",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "y ordena cualquier celebración.",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "y ordena cualquier celebración.",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "y ordena cualquier celebración.",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a",
+   "r": [
+    190,
+    339,
+    669,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "Mándaselo a quien siempre",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "Mándaselo a quien siempre",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "jura",
+   "r": [
+    245,
+    338,
+    420,
+    423
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "jura estar",
+   "r": [
+    245,
+    338,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "jura estar lleno",
+   "r": [
+    245,
+    338,
+    835,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "jura estar lleno hasta",
+   "r": [
+    245,
+    338,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "jura estar lleno hasta",
+   "r": [
+    245,
+    338,
+    835,
+    514
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "que llega",
+   "r": [
+    188,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "que llega el",
+   "r": [
+    188,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "que llega el postre.",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "que llega el postre.",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 41.77,
+   "texto": "que llega el postre.",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.6,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 733,
+  "texto": "Acabas lleno de salado, ves dulce luego y vuelve el apetito. Mucha gente bromea diciendo que guardamos un segundo estómago. Es un mecanismo cerebral antiguo llamado saciedad sensorial específica. Al repetir un mismo gusto tu corteza apaga rápido el placer recibido. En cambio sabores nuevos encienden otra vez esa respuesta inicial. Con cuatro platos distintos comieron sesenta por ciento más. Ese salto enorme se dio en los platos finales frente a repetir uno. En un bufé con muchas bandejas el cerebro pierde la señal de freno. En casa acortar platos y dejar fruta aparte evita calorías extra. Entender este circuito quita culpas y ordena cualquier celebración. Mándaselo a quien siempre jura estar lleno hasta que llega el postre.",
+  "inicio_s": 0.0499,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Acabas lleno de salado, ves dulce luego y vuelve el apetito.",
+    "t0": 0.021,
+    "t1": 3.776
+   },
+   {
+    "texto": "Mucha gente bromea diciendo que guardamos un segundo estómago.",
+    "t0": 4.021,
+    "t1": 7.221
+   },
+   {
+    "texto": "Es un mecanismo cerebral antiguo llamado saciedad sensorial específica.",
+    "t0": 7.356,
+    "t1": 11.436
+   },
+   {
+    "texto": "Al repetir un mismo gusto tu corteza apaga rápido el placer recibido.",
+    "t0": 11.596,
+    "t1": 15.406
+   },
+   {
+    "texto": "En cambio sabores nuevos encienden otra vez esa respuesta inicial.",
+    "t0": 15.581,
+    "t1": 19.261
+   },
+   {
+    "texto": "Con cuatro platos distintos comieron sesenta por ciento más.",
+    "t0": 19.411,
+    "t1": 22.691
+   },
+   {
+    "texto": "Ese salto enorme se dio en los platos finales frente a repetir uno.",
+    "t0": 22.871,
+    "t1": 26.151
+   },
+   {
+    "texto": "En un bufé con muchas bandejas el cerebro pierde la señal de freno.",
+    "t0": 26.386,
+    "t1": 29.946
+   },
+   {
+    "texto": "En casa acortar platos y dejar fruta aparte evita calorías extra.",
+    "t0": 30.181,
+    "t1": 34.181
+   },
+   {
+    "texto": "Entender este circuito quita culpas y ordena cualquier celebración.",
+    "t0": 34.421,
+    "t1": 38.021
+   },
+   {
+    "texto": "Mándaselo a quien siempre jura estar lleno hasta que llega el postre.",
+    "t0": 38.256,
+    "t1": 41.483
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.67,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.496,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.276,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.541,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.661,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.621,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.411,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.991,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.466,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.361,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.256,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/uv_bufe_cuatro_platos_sesenta_mas.json",
+  "paleta": "virales",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#4C956C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#4C956C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 16.7,
+   "render": 86.3,
+   "mezcla": 16.0
+  },
+  "escena_js": "tr"
+ }
+}

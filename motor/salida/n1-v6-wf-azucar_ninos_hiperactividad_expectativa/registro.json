@@ -1,0 +1,2578 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.8,
+ "tamano_mb": 10.4,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 75.3,
+ "fotogramas": 1252,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Acaba",
+   "r": [
+    147,
+    339,
+    384,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Acaba",
+   "r": [
+    147,
+    339,
+    384,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Acaba el",
+   "r": [
+    147,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Acaba el cumpleaños",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Acaba el cumpleaños",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Acaba el cumpleaños con",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Acaba el cumpleaños con tarta",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Acaba el cumpleaños con tarta",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "y dices",
+   "r": [
+    260,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "y dices",
+   "r": [
+    260,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "y dices que van",
+   "r": [
+    260,
+    339,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "locos",
+   "r": [
+    178,
+    339,
+    378,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "locos",
+   "r": [
+    178,
+    339,
+    378,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "locos",
+   "r": [
+    178,
+    339,
+    378,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "locos por el",
+   "r": [
+    178,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Mito fiesta",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "locos por el azúcar.",
+   "r": [
+    178,
+    339,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "locos por el azúcar.",
+   "r": [
+    178,
+    339,
+    902,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Parece",
+   "r": [
+    189,
+    339,
+    456,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Parece una",
+   "r": [
+    189,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Parece una verdad",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Parece una verdad",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Parece una verdad absoluta",
+   "r": [
+    189,
+    339,
+    891,
+    510
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Parece una verdad absoluta",
+   "r": [
+    189,
+    339,
+    891,
+    510
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Parece una verdad absoluta difícil",
+   "r": [
+    189,
+    339,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Parece una verdad absoluta difícil",
+   "r": [
+    189,
+    339,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "de",
+   "r": [
+    211,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "de discutir",
+   "r": [
+    211,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "de discutir",
+   "r": [
+    211,
+    339,
+    611,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "de discutir tras",
+   "r": [
+    211,
+    339,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "de discutir tras la merienda.",
+   "r": [
+    211,
+    339,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "de discutir tras la merienda.",
+   "r": [
+    211,
+    339,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "de discutir tras la merienda.",
+   "r": [
+    211,
+    339,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Pero",
+   "r": [
+    240,
+    339,
+    418,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Pero las fiestas",
+   "r": [
+    240,
+    338,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Pero las fiestas",
+   "r": [
+    240,
+    338,
+    840,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Pero las fiestas juntan",
+   "r": [
+    240,
+    338,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Pero las fiestas juntan",
+   "r": [
+    240,
+    338,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    813,
+    950,
+    875
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Pero las fiestas juntan juegos,",
+   "r": [
+    240,
+    338,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    841,
+    950,
+    903
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Pero las fiestas juntan juegos,",
+   "r": [
+    240,
+    338,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    883,
+    950,
+    945
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Pero las fiestas juntan juegos,",
+   "r": [
+    240,
+    338,
+    840,
+    514
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    887,
+    950,
+    949
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "ruido",
+   "r": [
+    246,
+    339,
+    447,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    891,
+    950,
+    953
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "ruido",
+   "r": [
+    246,
+    339,
+    447,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    894,
+    950,
+    956
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "ruido y",
+   "r": [
+    246,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Doble ciego",
+   "r": [
+    652,
+    898,
+    950,
+    960
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "ruido y emoción",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "ruido y emoción",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "fuera",
+   "r": [
+    248,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "fuera de",
+   "r": [
+    248,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "fuera de rutina.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "fuera de rutina.",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Una",
+   "r": [
+    158,
+    342,
+    295,
+    425
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Una prueba",
+   "r": [
+    158,
+    342,
+    566,
+    425
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Una prueba ingeniosa",
+   "r": [
+    158,
+    342,
+    922,
+    425
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Una prueba ingeniosa",
+   "r": [
+    158,
+    342,
+    922,
+    425
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Una prueba ingeniosa",
+   "r": [
+    158,
+    342,
+    922,
+    425
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Una prueba ingeniosa separó",
+   "r": [
+    158,
+    342,
+    922,
+    507
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Una prueba ingeniosa separó",
+   "r": [
+    158,
+    342,
+    922,
+    507
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Una prueba ingeniosa separó todo",
+   "r": [
+    158,
+    342,
+    922,
+    507
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "Una prueba ingeniosa separó todo",
+   "r": [
+    158,
+    342,
+    922,
+    507
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "sirviendo",
+   "r": [
+    157,
+    344,
+    471,
+    422
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "sirviendo",
+   "r": [
+    157,
+    344,
+    471,
+    422
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "sirviendo",
+   "r": [
+    157,
+    344,
+    471,
+    422
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "sirviendo exactamente",
+   "r": [
+    157,
+    344,
+    923,
+    422
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "sirviendo exactamente",
+   "r": [
+    157,
+    344,
+    923,
+    422
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "sirviendo exactamente",
+   "r": [
+    157,
+    344,
+    923,
+    422
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "sirviendo exactamente igual",
+   "r": [
+    157,
+    344,
+    923,
+    501
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "sirviendo exactamente igual bebida.",
+   "r": [
+    157,
+    344,
+    923,
+    501
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "sirviendo exactamente igual bebida.",
+   "r": [
+    157,
+    344,
+    923,
+    501
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "sirviendo exactamente igual bebida.",
+   "r": [
+    157,
+    344,
+    923,
+    501
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Los niños",
+   "r": [
+    192,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Los niños",
+   "r": [
+    192,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Los niños bebieron",
+   "r": [
+    192,
+    339,
+    888,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Los niños bebieron placebo",
+   "r": [
+    192,
+    339,
+    888,
+    514
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Los niños bebieron placebo",
+   "r": [
+    192,
+    339,
+    888,
+    514
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "Los niños bebieron placebo",
+   "r": [
+    192,
+    339,
+    888,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "Los niños bebieron placebo sin",
+   "r": [
+    192,
+    339,
+    888,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "dulce",
+   "r": [
+    261,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "dulce",
+   "r": [
+    261,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "dulce mientras",
+   "r": [
+    261,
+    339,
+    819,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "dulce mientras avisaban",
+   "r": [
+    198,
+    339,
+    819,
+    510
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "dulce mientras avisaban",
+   "r": [
+    198,
+    339,
+    819,
+    510
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "dulce mientras avisaban",
+   "r": [
+    198,
+    339,
+    819,
+    510
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "dulce mientras avisaban distinto.",
+   "r": [
+    198,
+    339,
+    882,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "dulce mientras avisaban distinto.",
+   "r": [
+    198,
+    339,
+    882,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Tras",
+   "r": [
+    255,
+    339,
+    425,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Tras veintitrés",
+   "r": [
+    255,
+    338,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Tras veintitrés",
+   "r": [
+    255,
+    338,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Tras veintitrés",
+   "r": [
+    255,
+    338,
+    825,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "Tras veintitrés pruebas",
+   "r": [
+    213,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "Tras veintitrés pruebas",
+   "r": [
+    213,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "Tras veintitrés pruebas ciegas",
+   "r": [
+    213,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "Tras veintitrés pruebas ciegas",
+   "r": [
+    213,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "Tras veintitrés pruebas ciegas el",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "azúcar",
+   "r": [
+    165,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "azúcar",
+   "r": [
+    165,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "azúcar nunca",
+   "r": [
+    165,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "azúcar nunca",
+   "r": [
+    165,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "23",
+   "r": [
+    498,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "azúcar nunca alteró",
+   "r": [
+    165,
+    339,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "azúcar nunca alteró",
+   "r": [
+    165,
+    339,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "azúcar nunca alteró conducta.",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "azúcar nunca alteró conducta.",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "azúcar nunca alteró conducta.",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Las madres",
+   "r": [
+    149,
+    339,
+    580,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Las madres",
+   "r": [
+    149,
+    339,
+    580,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Las madres avisadas",
+   "r": [
+    149,
+    339,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Las madres avisadas",
+   "r": [
+    149,
+    339,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Las madres avisadas de dosis",
+   "r": [
+    149,
+    339,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "Las madres avisadas de dosis",
+   "r": [
+    149,
+    339,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "dulce",
+   "r": [
+    152,
+    338,
+    376,
+    423
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "dulce",
+   "r": [
+    152,
+    338,
+    376,
+    423
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "dulce vieron",
+   "r": [
+    152,
+    338,
+    631,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "dulce vieron nervios",
+   "r": [
+    152,
+    338,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "dulce vieron nervios",
+   "r": [
+    152,
+    338,
+    928,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "dulce vieron nervios al",
+   "r": [
+    152,
+    338,
+    928,
+    514
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "dulce vieron nervios al minuto.",
+   "r": [
+    152,
+    338,
+    928,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "dulce vieron nervios al minuto.",
+   "r": [
+    152,
+    338,
+    928,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "dulce vieron nervios al minuto.",
+   "r": [
+    152,
+    338,
+    928,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "La expectativa",
+   "r": [
+    256,
+    338,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "La expectativa",
+   "r": [
+    256,
+    338,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "La expectativa",
+   "r": [
+    256,
+    338,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "La expectativa adulta",
+   "r": [
+    256,
+    338,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "La expectativa adulta y",
+   "r": [
+    256,
+    338,
+    824,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "la",
+   "r": [
+    223,
+    339,
+    292,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "la fiesta",
+   "r": [
+    223,
+    339,
+    525,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "la fiesta",
+   "r": [
+    223,
+    339,
+    525,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "la fiesta cambian",
+   "r": [
+    223,
+    339,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "la fiesta cambian",
+   "r": [
+    223,
+    339,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "la fiesta cambian cómo",
+   "r": [
+    223,
+    339,
+    857,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "la fiesta cambian cómo",
+   "r": [
+    223,
+    339,
+    857,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "miramos",
+   "r": [
+    236,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "miramos",
+   "r": [
+    236,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "miramos al niño.",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "miramos al niño.",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Moderar",
+   "r": [
+    272,
+    344,
+    574,
+    422
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Moderar",
+   "r": [
+    272,
+    344,
+    574,
+    422
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Moderar dulces",
+   "r": [
+    272,
+    344,
+    808,
+    422
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Moderar dulces",
+   "r": [
+    272,
+    344,
+    808,
+    422
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Moderar dulces importa",
+   "r": [
+    155,
+    344,
+    808,
+    501
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Moderar dulces importa muchísimo",
+   "r": [
+    155,
+    344,
+    808,
+    501
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Moderar dulces importa muchísimo",
+   "r": [
+    155,
+    344,
+    808,
+    501
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Moderar dulces importa muchísimo",
+   "r": [
+    155,
+    344,
+    808,
+    501
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Moderar dulces importa muchísimo por",
+   "r": [
+    155,
+    344,
+    925,
+    501
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "caries",
+   "r": [
+    189,
+    338,
+    447,
+    423
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "caries",
+   "r": [
+    189,
+    338,
+    447,
+    423
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "caries y",
+   "r": [
+    189,
+    338,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "caries y exceso",
+   "r": [
+    189,
+    338,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "caries y exceso de",
+   "r": [
+    189,
+    338,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "caries y exceso de energía.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "caries y exceso de energía.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Hacerlo",
+   "r": [
+    197,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Hacerlo",
+   "r": [
+    197,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Hacerlo con",
+   "r": [
+    197,
+    339,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Limitar por caries",
+   "r": [
+    490,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Hacerlo con calma",
+   "r": [
+    197,
+    339,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Hacerlo con calma familiar",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Hacerlo con calma familiar",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Hacerlo con calma familiar",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Hacerlo con calma familiar rinde",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Hacerlo con calma familiar rinde",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "más",
+   "r": [
+    272,
+    339,
+    427,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "más que",
+   "r": [
+    272,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "más que crear",
+   "r": [
+    272,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "más que crear sustos",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "más que crear sustos",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "más que crear sustos falsos.",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "más que crear sustos falsos.",
+   "r": [
+    272,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    150,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo",
+   "r": [
+    150,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a",
+   "r": [
+    150,
+    339,
+    630,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a padres",
+   "r": [
+    150,
+    338,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "Mándaselo a padres que",
+   "r": [
+    150,
+    338,
+    930,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "temen",
+   "r": [
+    324,
+    339,
+    557,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "temen",
+   "r": [
+    324,
+    339,
+    557,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "temen cada",
+   "r": [
+    324,
+    339,
+    756,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "temen cada cucharada",
+   "r": [
+    228,
+    339,
+    756,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "temen cada cucharada",
+   "r": [
+    228,
+    339,
+    756,
+    514
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "temen cada cucharada dulce",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "de",
+   "r": [
+    330,
+    339,
+    421,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "de la tarde.",
+   "r": [
+    330,
+    339,
+    750,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "de la tarde.",
+   "r": [
+    330,
+    339,
+    750,
+    427
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "de la tarde.",
+   "r": [
+    330,
+    339,
+    750,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 1.2,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 709,
+  "texto": "Acaba el cumpleaños con tarta y dices que van locos por el azúcar. Parece una verdad absoluta difícil de discutir tras la merienda. Pero las fiestas juntan juegos, ruido y emoción fuera de rutina. Una prueba ingeniosa separó todo sirviendo exactamente igual bebida. Los niños bebieron placebo sin dulce mientras avisaban distinto. Tras veintitrés pruebas ciegas el azúcar nunca alteró conducta. Las madres avisadas de dosis dulce vieron nervios al minuto. La expectativa adulta y la fiesta cambian cómo miramos al niño. Moderar dulces importa muchísimo por caries y exceso de energía. Hacerlo con calma familiar rinde más que crear sustos falsos. Mándaselo a padres que temen cada cucharada dulce de la tarde.",
+  "inicio_s": 0.0464,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Acaba el cumpleaños con tarta y dices que van locos por el azúcar.",
+    "t0": 0.021,
+    "t1": 3.696
+   },
+   {
+    "texto": "Parece una verdad absoluta difícil de discutir tras la merienda.",
+    "t0": 3.916,
+    "t1": 7.143
+   },
+   {
+    "texto": "Pero las fiestas juntan juegos, ruido y emoción fuera de rutina.",
+    "t0": 7.406,
+    "t1": 11.193
+   },
+   {
+    "texto": "Una prueba ingeniosa separó todo sirviendo exactamente igual bebida.",
+    "t0": 11.436,
+    "t1": 15.436
+   },
+   {
+    "texto": "Los niños bebieron placebo sin dulce mientras avisaban distinto.",
+    "t0": 15.656,
+    "t1": 19.176
+   },
+   {
+    "texto": "Tras veintitrés pruebas ciegas el azúcar nunca alteró conducta.",
+    "t0": 19.366,
+    "t1": 23.086
+   },
+   {
+    "texto": "Las madres avisadas de dosis dulce vieron nervios al minuto.",
+    "t0": 23.381,
+    "t1": 26.661
+   },
+   {
+    "texto": "La expectativa adulta y la fiesta cambian cómo miramos al niño.",
+    "t0": 26.881,
+    "t1": 30.521
+   },
+   {
+    "texto": "Moderar dulces importa muchísimo por caries y exceso de energía.",
+    "t0": 30.811,
+    "t1": 34.291
+   },
+   {
+    "texto": "Hacerlo con calma familiar rinde más que crear sustos falsos.",
+    "t0": 34.496,
+    "t1": 38.056
+   },
+   {
+    "texto": "Mándaselo a padres que temen cada cucharada dulce de la tarde.",
+    "t0": 38.251,
+    "t1": 41.331
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "whoosh": 1,
+    "tac": 2,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.496,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.636,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.703,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 4.703,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.216,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.566,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.226,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 28.281,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 33.351,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.251,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wf_azucar_ninos_hiperactividad_expectativa.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#4C956C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#4C956C"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pantalla_movil",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.6,
+   "render": 97.5,
+   "mezcla": 13.7
+  },
+  "escena_js": "tr"
+ }
+}

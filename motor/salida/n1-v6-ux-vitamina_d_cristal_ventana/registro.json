@@ -1,0 +1,2507 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.73,
+ "tamano_mb": 11.28,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.5,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 83.7,
+ "fotogramas": 1250,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Pones",
+   "r": [
+    147,
+    339,
+    375,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Pones",
+   "r": [
+    147,
+    339,
+    375,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Pones tu silla",
+   "r": [
+    147,
+    339,
+    641,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Pones tu silla",
+   "r": [
+    147,
+    339,
+    641,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Pones tu silla pegada",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Pones tu silla pegada al",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "ventanal",
+   "r": [
+    272,
+    338,
+    617,
+    423
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "ventanal de",
+   "r": [
+    272,
+    338,
+    724,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "ventanal de la oficina",
+   "r": [
+    272,
+    338,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "ventanal de la oficina",
+   "r": [
+    272,
+    338,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "ventanal de la oficina",
+   "r": [
+    272,
+    338,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "y",
+   "r": [
+    205,
+    339,
+    247,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "y notas",
+   "r": [
+    205,
+    339,
+    474,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "y notas sol",
+   "r": [
+    205,
+    339,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "y notas sol",
+   "r": [
+    205,
+    339,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Detrás vidrio",
+   "r": [
+    60,
+    1081,
+    404,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "y notas sol fuerte.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "y notas sol fuerte.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "y notas sol fuerte.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Casi",
+   "r": [
+    191,
+    339,
+    354,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Casi todo el",
+   "r": [
+    191,
+    339,
+    622,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Casi todo el mundo",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Casi todo el mundo cree",
+   "r": [
+    191,
+    339,
+    889,
+    510
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "que",
+   "r": [
+    256,
+    339,
+    395,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "que ese",
+   "r": [
+    256,
+    339,
+    543,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "que ese rato",
+   "r": [
+    256,
+    339,
+    720,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "que ese rato",
+   "r": [
+    256,
+    339,
+    720,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "que ese rato ya",
+   "r": [
+    256,
+    339,
+    824,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "sube",
+   "r": [
+    183,
+    339,
+    364,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "sube su vitamina",
+   "r": [
+    183,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "sube su vitamina",
+   "r": [
+    183,
+    339,
+    808,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "sube su vitamina D.",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "sube su vitamina D.",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Sientes",
+   "r": [
+    284,
+    339,
+    564,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Sientes calor",
+   "r": [
+    284,
+    338,
+    796,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Sientes calor infrarrojo",
+   "r": [
+    284,
+    338,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Sientes calor infrarrojo",
+   "r": [
+    284,
+    338,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Sientes calor infrarrojo",
+   "r": [
+    284,
+    338,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Sientes calor infrarrojo",
+   "r": [
+    284,
+    338,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Sientes calor infrarrojo y",
+   "r": [
+    284,
+    338,
+    796,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "pasan",
+   "r": [
+    234,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "pasan",
+   "r": [
+    234,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "pasan rayos",
+   "r": [
+    234,
+    339,
+    692,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "UVB frenado",
+   "r": [
+    652,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "pasan rayos que",
+   "r": [
+    234,
+    339,
+    846,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "pasan rayos que envejecen",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "pasan rayos que envejecen",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "algo",
+   "r": [
+    332,
+    339,
+    492,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "algo la piel.",
+   "r": [
+    332,
+    339,
+    748,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "algo la piel.",
+   "r": [
+    332,
+    339,
+    748,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Pero",
+   "r": [
+    183,
+    339,
+    362,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Pero tu",
+   "r": [
+    183,
+    339,
+    456,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Pero tu piel",
+   "r": [
+    183,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Pero tu piel fabrica",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "vitamina",
+   "r": [
+    163,
+    339,
+    487,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "vitamina",
+   "r": [
+    163,
+    339,
+    487,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "vitamina D",
+   "r": [
+    163,
+    339,
+    555,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "vitamina D gracias",
+   "r": [
+    163,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "vitamina D gracias",
+   "r": [
+    163,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "vitamina D gracias a",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "otra",
+   "r": [
+    220,
+    339,
+    383,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "otra franja",
+   "r": [
+    220,
+    338,
+    649,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "otra franja solar",
+   "r": [
+    220,
+    338,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "otra franja solar",
+   "r": [
+    220,
+    338,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "otra franja solar distinta.",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "otra franja solar distinta.",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "otra franja solar distinta.",
+   "r": [
+    220,
+    338,
+    860,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Los",
+   "r": [
+    158,
+    339,
+    288,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Los rayos",
+   "r": [
+    158,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Los rayos",
+   "r": [
+    158,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Los rayos UVB",
+   "r": [
+    158,
+    339,
+    685,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Los rayos UVB",
+   "r": [
+    158,
+    339,
+    685,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Los rayos UVB",
+   "r": [
+    158,
+    339,
+    685,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Los rayos UVB abren",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Los rayos UVB abren",
+   "r": [
+    158,
+    339,
+    922,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "una",
+   "r": [
+    228,
+    339,
+    368,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "una molécula",
+   "r": [
+    228,
+    339,
+    723,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "una molécula del",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "una molécula del colesterol",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "una molécula del colesterol",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "una molécula del colesterol",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "bajo",
+   "r": [
+    202,
+    339,
+    364,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "bajo la epidermis.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "bajo la epidermis.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "bajo la epidermis.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "bajo la epidermis.",
+   "r": [
+    202,
+    338,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "El cristal",
+   "r": [
+    190,
+    339,
+    519,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "El cristal",
+   "r": [
+    190,
+    339,
+    519,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "El cristal corriente",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "El cristal corriente",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "El cristal corriente frena",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "El cristal corriente frena",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "prácticamente",
+   "r": [
+    223,
+    339,
+    774,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "prácticamente",
+   "r": [
+    223,
+    339,
+    774,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "prácticamente",
+   "r": [
+    223,
+    339,
+    774,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "prácticamente el",
+   "r": [
+    223,
+    339,
+    857,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "prácticamente el cien",
+   "r": [
+    223,
+    339,
+    857,
+    510
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "prácticamente el cien por",
+   "r": [
+    223,
+    339,
+    857,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Bloqueo UVB",
+   "r": [
+    66,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "cien",
+   "r": [
+    262,
+    339,
+    418,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Bloqueo UVB",
+   "r": [
+    66,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "cien de",
+   "r": [
+    262,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Bloqueo UVB",
+   "r": [
+    66,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "cien de esa luz.",
+   "r": [
+    262,
+    339,
+    818,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Bloqueo UVB",
+   "r": [
+    66,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "cien de esa luz.",
+   "r": [
+    262,
+    339,
+    818,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Bloqueo UVB",
+   "r": [
+    66,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Detrás",
+   "r": [
+    281,
+    339,
+    537,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Bloqueo UVB",
+   "r": [
+    60,
+    1400,
+    944,
+    1500
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Detrás",
+   "r": [
+    281,
+    339,
+    537,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Bloqueo UVB",
+   "r": [
+    60,
+    1400,
+    944,
+    1500
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Detrás de una",
+   "r": [
+    281,
+    339,
+    799,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Bloqueo UVB",
+   "r": [
+    60,
+    1400,
+    944,
+    1500
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Detrás de una ventana",
+   "r": [
+    281,
+    339,
+    799,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Bloqueo UVB",
+   "r": [
+    60,
+    1400,
+    944,
+    1500
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Detrás de una ventana de",
+   "r": [
+    281,
+    339,
+    799,
+    514
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "coche",
+   "r": [
+    209,
+    338,
+    452,
+    423
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "coche u",
+   "r": [
+    209,
+    338,
+    515,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "coche u oficina",
+   "r": [
+    209,
+    338,
+    786,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "coche u oficina",
+   "r": [
+    209,
+    338,
+    786,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "coche u oficina",
+   "r": [
+    209,
+    338,
+    786,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "síntesis",
+   "r": [
+    169,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "síntesis",
+   "r": [
+    169,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "síntesis",
+   "r": [
+    169,
+    339,
+    462,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "síntesis baja",
+   "r": [
+    169,
+    339,
+    639,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "síntesis baja a",
+   "r": [
+    169,
+    339,
+    702,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "síntesis baja a cero.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "síntesis baja a cero.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Conviene",
+   "r": [
+    265,
+    339,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Conviene abrir",
+   "r": [
+    265,
+    339,
+    815,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Conviene abrir ventana",
+   "r": [
+    264,
+    339,
+    815,
+    510
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Conviene abrir ventana",
+   "r": [
+    264,
+    339,
+    815,
+    510
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "Conviene abrir ventana real",
+   "r": [
+    264,
+    339,
+    815,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "Conviene abrir ventana real",
+   "r": [
+    264,
+    339,
+    815,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "Conviene abrir ventana real o",
+   "r": [
+    264,
+    339,
+    816,
+    514
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "salir",
+   "r": [
+    197,
+    339,
+    370,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "salir unos",
+   "r": [
+    197,
+    339,
+    567,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "salir unos minutos",
+   "r": [
+    197,
+    339,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "salir unos minutos",
+   "r": [
+    197,
+    339,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "salir unos minutos sin quemarte.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "salir unos minutos sin quemarte.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "salir unos minutos sin quemarte.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Pescado",
+   "r": [
+    177,
+    338,
+    516,
+    423
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Pescado",
+   "r": [
+    177,
+    338,
+    516,
+    423
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Pescado azul",
+   "r": [
+    177,
+    338,
+    686,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    1049,
+    950,
+    1111
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Pescado azul como",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    1039,
+    950,
+    1101
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Pescado azul como",
+   "r": [
+    177,
+    338,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    1029,
+    950,
+    1091
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Pescado azul como trucha",
+   "r": [
+    177,
+    338,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    1019,
+    950,
+    1081
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "o",
+   "r": [
+    304,
+    339,
+    350,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    1009,
+    950,
+    1071
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "o salmón",
+   "r": [
+    304,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    999,
+    950,
+    1061
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "o salmón",
+   "r": [
+    304,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Sal al aire",
+   "r": [
+    652,
+    989,
+    950,
+    1051
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "o salmón y",
+   "r": [
+    304,
+    339,
+    692,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "yema",
+   "r": [
+    197,
+    339,
+    397,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "yema",
+   "r": [
+    197,
+    339,
+    397,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "yema suman",
+   "r": [
+    197,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "yema suman",
+   "r": [
+    197,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "yema suman parte",
+   "r": [
+    197,
+    339,
+    883,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "yema suman parte diaria.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "yema suman parte diaria.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "yema suman parte diaria.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Mirar",
+   "r": [
+    236,
+    339,
+    459,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Mirar niveles",
+   "r": [
+    236,
+    339,
+    738,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Mirar niveles",
+   "r": [
+    236,
+    339,
+    738,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Mirar niveles en clínica",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Mirar niveles en clínica",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Mirar niveles en clínica",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Mirar niveles en clínica evita",
+   "r": [
+    236,
+    339,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "tomar",
+   "r": [
+    184,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "tomar pastillas",
+   "r": [
+    184,
+    338,
+    771,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "tomar pastillas",
+   "r": [
+    184,
+    338,
+    771,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "tomar pastillas sin",
+   "r": [
+    184,
+    338,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "tomar pastillas sin control.",
+   "r": [
+    184,
+    338,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "tomar pastillas sin control.",
+   "r": [
+    184,
+    338,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "tomar pastillas sin control.",
+   "r": [
+    184,
+    338,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a quien presume",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a quien presume",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "tomar",
+   "r": [
+    222,
+    339,
+    451,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "tomar vitamina",
+   "r": [
+    222,
+    339,
+    790,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "tomar vitamina",
+   "r": [
+    222,
+    339,
+    790,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "tomar vitamina D",
+   "r": [
+    222,
+    339,
+    858,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "tomar vitamina D tras",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "la",
+   "r": [
+    213,
+    339,
+    282,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "la luna",
+   "r": [
+    213,
+    338,
+    479,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "la luna del",
+   "r": [
+    213,
+    338,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "la luna del coche.",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "la luna del coche.",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "la luna del coche.",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 724,
+  "texto": "Pones tu silla pegada al ventanal de la oficina y notas sol fuerte. Casi todo el mundo cree que ese rato ya sube su vitamina D. Sientes calor infrarrojo y pasan rayos que envejecen algo la piel. Pero tu piel fabrica vitamina D gracias a otra franja solar distinta. Los rayos UVB abren una molécula del colesterol bajo la epidermis. El cristal corriente frena prácticamente el cien por cien de esa luz. Detrás de una ventana de coche u oficina la síntesis baja a cero. Conviene abrir ventana real o salir unos minutos sin quemarte. Pescado azul como trucha o salmón y la yema suman parte diaria. Mirar niveles en clínica evita tomar pastillas sin control. Mándaselo a quien presume de tomar vitamina D tras la luna del coche.",
+  "inicio_s": 0.0478,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Pones tu silla pegada al ventanal de la oficina y notas sol fuerte.",
+    "t0": 0.021,
+    "t1": 3.766
+   },
+   {
+    "texto": "Casi todo el mundo cree que ese rato ya sube su vitamina D.",
+    "t0": 4.036,
+    "t1": 6.996
+   },
+   {
+    "texto": "Sientes calor infrarrojo y pasan rayos que envejecen algo la piel.",
+    "t0": 7.271,
+    "t1": 10.951
+   },
+   {
+    "texto": "Pero tu piel fabrica vitamina D gracias a otra franja solar distinta.",
+    "t0": 11.146,
+    "t1": 14.773
+   },
+   {
+    "texto": "Los rayos UVB abren una molécula del colesterol bajo la epidermis.",
+    "t0": 15.056,
+    "t1": 19.216
+   },
+   {
+    "texto": "El cristal corriente frena prácticamente el cien por cien de esa luz.",
+    "t0": 19.421,
+    "t1": 23.061
+   },
+   {
+    "texto": "Detrás de una ventana de coche u oficina la síntesis baja a cero.",
+    "t0": 23.316,
+    "t1": 26.876
+   },
+   {
+    "texto": "Conviene abrir ventana real o salir unos minutos sin quemarte.",
+    "t0": 27.156,
+    "t1": 30.276
+   },
+   {
+    "texto": "Pescado azul como trucha o salmón y la yema suman parte diaria.",
+    "t0": 30.476,
+    "t1": 34.423
+   },
+   {
+    "texto": "Mirar niveles en clínica evita tomar pastillas sin control.",
+    "t0": 34.686,
+    "t1": 37.646
+   },
+   {
+    "texto": "Mándaselo a quien presume de tomar vitamina D tras la luna del coche.",
+    "t0": 37.866,
+    "t1": 41.253
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.446,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.706,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.516,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.836,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 7.911,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 18.576,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.861,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 22.121,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.756,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 30.843,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.866,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ux_vitamina_d_cristal_ventana.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#F4D03F"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#F4D03F"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#F4D03F"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.4,
+   "render": 108.4,
+   "mezcla": 15.5
+  },
+  "escena_js": "tr"
+ }
+}

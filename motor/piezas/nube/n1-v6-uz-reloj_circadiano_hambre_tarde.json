@@ -1,0 +1,85 @@
+{
+  "id": "n1-v6-uz-reloj_circadiano_hambre_tarde",
+  "cuenta": "n1",
+  "formato": "video",
+  "direccion": "g",
+  "estilo": "viral",
+  "diseno": "formato",
+  "molde": "fmt-UZ",
+  "pilar": "ensenar",
+  "hechos": [
+    "CUR-1121",
+    "CUR-1122",
+    "CUR-1124"
+  ],
+  "titulo": "[UZ] Por qué casi nunca tienes hambre al despertar y aparece a las ocho de tarde",
+  "hojas": [
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Despertar ligero"
+      ],
+      "voz": "Llevas toda la noche sin comer y aun así despiertas sin apetito."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Reloj biológico"
+      ],
+      "voz": "Pero al caer la tarde llega siempre un ansia feroz a la nevera. Mucha gente cree que eso ocurre por debilidad o por el estrés."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "La cronobiología halló un reloj interno pegado al ritmo del hambre."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "20 h Pico vespertino"
+      ],
+      "voz": "Evaluaron voluntarios en ciclos iguales de luz tenue y comidas. El apetito tocó suelo a las ocho matutinas y pico alto por tarde."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Con platos iguales la hormona grelina subía mucho más al anochecer."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Por eso forzar desayunos enormes frena poco el picoteo nocturno."
+    },
+    {
+      "plantilla": "v7_reel",
+      "texto": [
+        "Planifica cena"
+      ],
+      "voz": "En consulta ajustamos una merienda saciante antes de llegar tarde. Ir a favor de tu reloj biológico evita pelear con la despensa."
+    },
+    {
+      "plantilla": "v7_reel",
+      "voz": "Mándaselo a alguien que desayuna obligado creyendo arreglar su cena."
+    }
+  ],
+  "pie_instagram": "Pasas diez horas durmiendo sin comer y te levantas sin apetito, mientras a media tarde asaltarías la cocina.\n\nEn protocolo controlado aislando luz y horarios iguales en adultos sanos, el hambre mostró un ritmo circadiano propio: tocó mínimo biológico hacia las 8:00 y máximo hacia las 20:00.\nTambién la grelina activa salió más alta por la tarde biológica ante idénticas comidas.\n\n¿A qué hora exacta del día notas que te entra de verdad el apetito más fuerte?\nEn @vivax_nutri diseñamos pautas según tu ritmo real sin obligarte a desayunar sin hambre. Pásalo a quien cena ansioso cada tarde.\n\nVoz generada con IA 🎙️\nDivulgación: no es consejo personal ni sustituye a tu médico o dietista-nutricionista. ℹ️\n\n#ritmocircadiano #apetito #nutricion",
+  "alt": [
+    "Por qué casi nunca tienes hambre al despertar y aparece a las ocho de tarde"
+  ],
+  "esquema": "slides-1",
+  "version_reel": "v7",
+  "produccion": {
+    "muestra": false,
+    "revision_jose": false,
+    "autoaprobar": false,
+    "formato": "UZ",
+    "lote": "v7-2026-11-14",
+    "serie": "v7",
+    "mecanica": "ayuno noche -> experimento desincronizacion -> pico 20h -> envio",
+    "tema": "ritmo circadiano endógeno del hambre y grelina mínima por la mañana y máxima de tarde",
+    "voz_de_prueba": false,
+    "personajes": [],
+    "motor": "v7",
+    "paleta": "virales",
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 UZ en Telegram"
+  },
+  "comentario": "Fuentes: Scheer FAJL et al. Obesity 2013 (CUR-1121, CUR-1122) y Qian 2019 (CUR-1124).\nVoz sintética (IA).",
+  "ia": true
+}

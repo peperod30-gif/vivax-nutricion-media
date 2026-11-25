@@ -1,0 +1,2493 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 39.5,
+ "tamano_mb": 10.6,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 64.3,
+ "fotogramas": 1183,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Muerdes",
+   "r": [
+    292,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Muerdes",
+   "r": [
+    292,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Muerdes",
+   "r": [
+    292,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Muerdes una guindilla",
+   "r": [
+    203,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Muerdes una guindilla",
+   "r": [
+    203,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Muerdes una guindilla picante",
+   "r": [
+    203,
+    339,
+    820,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Muerdes una guindilla picante",
+   "r": [
+    203,
+    339,
+    820,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Muerdes una guindilla picante y",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "corres",
+   "r": [
+    159,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "corres",
+   "r": [
+    159,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "corres directo",
+   "r": [
+    159,
+    339,
+    701,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "corres directo hacia",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "corres directo hacia el",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "corres directo hacia el grifo.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "corres directo hacia el grifo.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Tragas",
+   "r": [
+    165,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Ardor boca",
+   "r": [
+    60,
+    1081,
+    335,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Tragas",
+   "r": [
+    165,
+    339,
+    426,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Ardor boca",
+   "r": [
+    675,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Tragas varios",
+   "r": [
+    165,
+    339,
+    680,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Ardor boca",
+   "r": [
+    675,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Tragas varios vasos",
+   "r": [
+    165,
+    339,
+    915,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Ardor boca",
+   "r": [
+    675,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Tragas varios vasos de",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Ardor boca",
+   "r": [
+    675,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Tragas varios vasos de agua",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Ardor boca",
+   "r": [
+    675,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Tragas varios vasos de agua",
+   "r": [
+    165,
+    339,
+    915,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Ardor boca",
+   "r": [
+    60,
+    1081,
+    335,
+    1143
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "y el",
+   "r": [
+    300,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "y el fuego",
+   "r": [
+    300,
+    338,
+    674,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "la",
+   "r": [
+    155,
+    339,
+    224,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "la boca",
+   "r": [
+    155,
+    339,
+    421,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "la boca apenas",
+   "r": [
+    155,
+    339,
+    709,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "la boca apenas",
+   "r": [
+    155,
+    339,
+    709,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "la boca apenas",
+   "r": [
+    155,
+    339,
+    709,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "la boca apenas cede.",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "la boca apenas cede.",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "La capsaicina",
+   "r": [
+    286,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "La capsaicina",
+   "r": [
+    286,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "La capsaicina",
+   "r": [
+    286,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "La capsaicina engaña",
+   "r": [
+    286,
+    339,
+    794,
+    510
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "La capsaicina engaña",
+   "r": [
+    286,
+    339,
+    794,
+    510
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "La capsaicina engaña a tu",
+   "r": [
+    286,
+    339,
+    794,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "lengua",
+   "r": [
+    221,
+    339,
+    473,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "lengua activando",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "lengua activando",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "lengua activando",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "lengua activando sensores",
+   "r": [
+    186,
+    339,
+    859,
+    514
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "lengua activando sensores del",
+   "r": [
+    186,
+    339,
+    859,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "lengua activando sensores del calor.",
+   "r": [
+    186,
+    339,
+    894,
+    514
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Hidrófoba pura",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "lengua activando sensores del calor.",
+   "r": [
+    186,
+    339,
+    894,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "El",
+   "r": [
+    157,
+    339,
+    224,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "El problema",
+   "r": [
+    157,
+    339,
+    596,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "El problema físico",
+   "r": [
+    157,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "El problema físico",
+   "r": [
+    157,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "El problema físico",
+   "r": [
+    157,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "que",
+   "r": [
+    208,
+    339,
+    347,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "que esa",
+   "r": [
+    208,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "que esa molécula",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "que esa molécula",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "que esa molécula",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "que esa molécula apenas",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "que esa molécula apenas",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "se disuelve",
+   "r": [
+    167,
+    339,
+    584,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "se disuelve",
+   "r": [
+    167,
+    339,
+    584,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "se disuelve en agua.",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "se disuelve en agua.",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "se disuelve en agua.",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Solo",
+   "r": [
+    151,
+    339,
+    315,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Solo logras",
+   "r": [
+    151,
+    339,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Solo logras esparcir",
+   "r": [
+    151,
+    338,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Solo logras esparcir",
+   "r": [
+    151,
+    338,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Solo logras esparcir el",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Solo logras esparcir el compuesto",
+   "r": [
+    151,
+    338,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "picante",
+   "r": [
+    242,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "picante",
+   "r": [
+    242,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "picante",
+   "r": [
+    242,
+    339,
+    522,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "picante por",
+   "r": [
+    242,
+    339,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "picante por más",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "picante por más zonas",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "picante por más zonas bucales.",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "picante por más zonas bucales.",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "picante por más zonas bucales.",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "En una",
+   "r": [
+    274,
+    339,
+    520,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "En una prueba",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "En una prueba cruzada",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "En una prueba cruzada",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "En una prueba cruzada",
+   "r": [
+    274,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "con setenta",
+   "r": [
+    208,
+    338,
+    665,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "con setenta",
+   "r": [
+    208,
+    338,
+    665,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "con setenta y dos",
+   "r": [
+    208,
+    338,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "adultos",
+   "r": [
+    159,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "adultos",
+   "r": [
+    159,
+    339,
+    442,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "adultos compararon",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "adultos compararon",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "adultos compararon",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "adultos compararon bebidas.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "adultos compararon bebidas.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "adultos compararon bebidas.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "72",
+   "r": [
+    529,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "La leche",
+   "r": [
+    217,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "La leche",
+   "r": [
+    217,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "La leche calmó",
+   "r": [
+    217,
+    338,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "La leche calmó el",
+   "r": [
+    217,
+    338,
+    863,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "picor",
+   "r": [
+    234,
+    339,
+    430,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "picor muchísimo",
+   "r": [
+    234,
+    339,
+    846,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "picor muchísimo",
+   "r": [
+    234,
+    339,
+    846,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "picor muchísimo",
+   "r": [
+    234,
+    339,
+    846,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "picor muchísimo antes",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "picor muchísimo antes frente",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "picor muchísimo antes frente",
+   "r": [
+    234,
+    339,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "al vaso",
+   "r": [
+    216,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "al vaso templado.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "al vaso templado.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "al vaso templado.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "Y lo",
+   "r": [
+    254,
+    339,
+    386,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Y lo curioso",
+   "r": [
+    254,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Y lo curioso",
+   "r": [
+    254,
+    339,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "que",
+   "r": [
+    212,
+    339,
+    351,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "que la",
+   "r": [
+    212,
+    339,
+    435,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "que la desnatada",
+   "r": [
+    212,
+    338,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "que la desnatada",
+   "r": [
+    212,
+    338,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "que la desnatada funcionó",
+   "r": [
+    212,
+    338,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "que la desnatada funcionó",
+   "r": [
+    212,
+    338,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "que la desnatada funcionó",
+   "r": [
+    212,
+    338,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "igual",
+   "r": [
+    185,
+    339,
+    368,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "igual",
+   "r": [
+    185,
+    339,
+    368,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "igual que la",
+   "r": [
+    185,
+    339,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "igual que la entera.",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "igual que la entera.",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "Las",
+   "r": [
+    275,
+    339,
+    406,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "Las proteínas",
+   "r": [
+    275,
+    338,
+    805,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "Las proteínas",
+   "r": [
+    275,
+    338,
+    805,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Las proteínas lácteas",
+   "r": [
+    170,
+    338,
+    805,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1156,
+    950,
+    1218
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Las proteínas lácteas",
+   "r": [
+    170,
+    338,
+    805,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1142,
+    950,
+    1204
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Las proteínas lácteas despegan",
+   "r": [
+    170,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1148,
+    950,
+    1210
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Las proteínas lácteas despegan",
+   "r": [
+    170,
+    338,
+    825,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1163,
+    950,
+    1225
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "capsaicina",
+   "r": [
+    155,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1124,
+    950,
+    1186
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "capsaicina",
+   "r": [
+    155,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1089,
+    950,
+    1151
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "capsaicina",
+   "r": [
+    155,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1076,
+    950,
+    1138
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "capsaicina atrapada",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Leche o yogur",
+   "r": [
+    606,
+    1064,
+    950,
+    1126
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "capsaicina atrapada",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "capsaicina atrapada sin",
+   "r": [
+    155,
+    339,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "capsaicina atrapada sin grasa.",
+   "r": [
+    155,
+    339,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "capsaicina atrapada sin grasa.",
+   "r": [
+    155,
+    339,
+    925,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Un",
+   "r": [
+    209,
+    339,
+    307,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Un yogur",
+   "r": [
+    209,
+    339,
+    540,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Un yogur líquido",
+   "r": [
+    209,
+    339,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Un yogur líquido",
+   "r": [
+    209,
+    339,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "leche",
+   "r": [
+    160,
+    339,
+    361,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "leche",
+   "r": [
+    160,
+    339,
+    361,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "leche fresca",
+   "r": [
+    160,
+    339,
+    623,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "leche fresca",
+   "r": [
+    160,
+    339,
+    623,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "leche fresca ahorra",
+   "r": [
+    160,
+    338,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "leche fresca ahorra minutos",
+   "r": [
+    160,
+    338,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "leche fresca ahorra minutos",
+   "r": [
+    160,
+    338,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "leche fresca ahorra minutos",
+   "r": [
+    160,
+    338,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "largos",
+   "r": [
+    241,
+    339,
+    481,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "largos de",
+   "r": [
+    241,
+    339,
+    588,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "largos de ardor.",
+   "r": [
+    241,
+    339,
+    839,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "largos de ardor.",
+   "r": [
+    241,
+    339,
+    839,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a quien corre",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "al agua",
+   "r": [
+    236,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "al agua",
+   "r": [
+    236,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "al agua cada",
+   "r": [
+    236,
+    339,
+    705,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "al agua cada vez",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "que prueba",
+   "r": [
+    220,
+    339,
+    644,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "que prueba",
+   "r": [
+    220,
+    339,
+    644,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "que prueba salsa",
+   "r": [
+    220,
+    339,
+    860,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "que prueba salsa brava.",
+   "r": [
+    220,
+    339,
+    860,
+    510
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "que prueba salsa brava.",
+   "r": [
+    220,
+    339,
+    860,
+    510
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "que prueba salsa brava.",
+   "r": [
+    220,
+    339,
+    860,
+    510
+   ]
+  }
+ ],
+ "hueco_max_s": 0.2,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 711,
+  "texto": "Muerdes una guindilla picante y corres directo hacia el grifo. Tragas varios vasos de agua y el fuego de la boca apenas cede. La capsaicina engaña a tu lengua activando sensores del calor. El problema físico es que esa molécula apenas se disuelve en agua. Solo logras esparcir el compuesto picante por más zonas bucales. En una prueba cruzada con setenta y dos adultos compararon bebidas. La leche calmó el picor muchísimo antes frente al vaso templado. Y lo curioso fue que la desnatada funcionó igual que la entera. Las proteínas lácteas despegan la capsaicina atrapada sin grasa. Un yogur líquido o leche fresca ahorra minutos largos de ardor. Mándaselo a quien corre al agua cada vez que prueba salsa brava.",
+  "inicio_s": 0.0468,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Muerdes una guindilla picante y corres directo hacia el grifo.",
+    "t0": 0.021,
+    "t1": 3.211
+   },
+   {
+    "texto": "Tragas varios vasos de agua y el fuego de la boca apenas cede.",
+    "t0": 3.441,
+    "t1": 6.841
+   },
+   {
+    "texto": "La capsaicina engaña a tu lengua activando sensores del calor.",
+    "t0": 7.051,
+    "t1": 10.211
+   },
+   {
+    "texto": "El problema físico es que esa molécula apenas se disuelve en agua.",
+    "t0": 10.471,
+    "t1": 13.991
+   },
+   {
+    "texto": "Solo logras esparcir el compuesto picante por más zonas bucales.",
+    "t0": 14.321,
+    "t1": 17.641
+   },
+   {
+    "texto": "En una prueba cruzada con setenta y dos adultos compararon bebidas.",
+    "t0": 17.851,
+    "t1": 21.331
+   },
+   {
+    "texto": "La leche calmó el picor muchísimo antes frente al vaso templado.",
+    "t0": 21.531,
+    "t1": 24.851
+   },
+   {
+    "texto": "Y lo curioso fue que la desnatada funcionó igual que la entera.",
+    "t0": 25.061,
+    "t1": 28.394
+   },
+   {
+    "texto": "Las proteínas lácteas despegan la capsaicina atrapada sin grasa.",
+    "t0": 28.621,
+    "t1": 31.901
+   },
+   {
+    "texto": "Un yogur líquido o leche fresca ahorra minutos largos de ardor.",
+    "t0": 32.111,
+    "t1": 35.591
+   },
+   {
+    "texto": "Mándaselo a quien corre al agua cada vez que prueba salsa brava.",
+    "t0": 35.766,
+    "t1": 39.006
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.611,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.311,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.121,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.241,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 14.921,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 14.921,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 19.091,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.511,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.794,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 29.281,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 35.766,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wa_guindilla_picor_leche_agua.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_leche",
+      "colores": [
+       "#F6F4EE"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "guindilla",
+      "colores": [
+       "#C8201E"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_leche",
+      "colores": [
+       "#F6F4EE"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "guindilla",
+      "colores": [
+       "#C8201E"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#F0EDE2"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_leche",
+      "colores": [
+       "#F6F4EE"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#F0EDE2"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_leche",
+      "colores": [
+       "#F6F4EE"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "guindilla",
+      "colores": [
+       "#C8201E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "guindilla",
+      "colores": [
+       "#C8201E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "guindilla",
+      "colores": [
+       "#C8201E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_leche",
+      "colores": [
+       "#F6F4EE"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "guindilla",
+      "colores": [
+       "#C8201E"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.3,
+   "render": 78.9,
+   "mezcla": 14.4
+  },
+  "escena_js": "tr"
+ }
+}

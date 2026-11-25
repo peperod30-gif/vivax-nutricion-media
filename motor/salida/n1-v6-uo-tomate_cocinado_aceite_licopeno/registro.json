@@ -1,0 +1,2611 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 42.17,
+ "tamano_mb": 10.75,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 78.9,
+ "fotogramas": 1263,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Quitas",
+   "r": [
+    189,
+    339,
+    433,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Quitas",
+   "r": [
+    189,
+    339,
+    433,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Quitas el aceite",
+   "r": [
+    189,
+    338,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Quitas el aceite",
+   "r": [
+    189,
+    338,
+    785,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "la",
+   "r": [
+    327,
+    339,
+    396,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "la ensalada",
+   "r": [
+    327,
+    339,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "la ensalada",
+   "r": [
+    327,
+    339,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "la ensalada pensando",
+   "r": [
+    281,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "la ensalada pensando",
+   "r": [
+    281,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "la ensalada pensando",
+   "r": [
+    281,
+    339,
+    753,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "cuidas",
+   "r": [
+    175,
+    339,
+    423,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "cuidas",
+   "r": [
+    175,
+    339,
+    423,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Crudo vs hecho",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "cuidas más",
+   "r": [
+    175,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "cuidas más el plato.",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "cuidas más el plato.",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "cuidas más el plato.",
+   "r": [
+    175,
+    339,
+    905,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Mucha gente",
+   "r": [
+    176,
+    339,
+    661,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Mucha gente",
+   "r": [
+    176,
+    339,
+    661,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Mucha gente repite",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Mucha gente repite",
+   "r": [
+    176,
+    339,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "crudo",
+   "r": [
+    208,
+    338,
+    449,
+    423
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "crudo",
+   "r": [
+    208,
+    338,
+    449,
+    423
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "crudo",
+   "r": [
+    208,
+    338,
+    449,
+    423
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "crudo siempre",
+   "r": [
+    208,
+    338,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "crudo siempre",
+   "r": [
+    208,
+    338,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "crudo siempre se aprovecha",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "crudo siempre se aprovecha",
+   "r": [
+    208,
+    338,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "más",
+   "r": [
+    169,
+    339,
+    325,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "más cada",
+   "r": [
+    169,
+    339,
+    523,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "más cada nutriente.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "más cada nutriente.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "más cada nutriente.",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Pero",
+   "r": [
+    268,
+    339,
+    447,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Pero el tomate",
+   "r": [
+    268,
+    339,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Pero el tomate",
+   "r": [
+    268,
+    339,
+    812,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Pero el tomate guarda",
+   "r": [
+    268,
+    339,
+    812,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Pero el tomate guarda",
+   "r": [
+    268,
+    339,
+    812,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "parte",
+   "r": [
+    246,
+    339,
+    454,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "parte de",
+   "r": [
+    246,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "parte de su",
+   "r": [
+    246,
+    339,
+    665,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "parte de su rojo",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "encerrado",
+   "r": [
+    290,
+    339,
+    685,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "encerrado",
+   "r": [
+    290,
+    339,
+    685,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "encerrado en",
+   "r": [
+    290,
+    339,
+    790,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "encerrado en paredes",
+   "r": [
+    246,
+    339,
+    790,
+    510
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "encerrado en paredes duras.",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "encerrado en paredes duras.",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Pared rota",
+   "r": [
+    675,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "encerrado en paredes duras.",
+   "r": [
+    246,
+    339,
+    834,
+    514
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Pared rota",
+   "r": [
+    675,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Y",
+   "r": [
+    224,
+    339,
+    273,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Pared rota",
+   "r": [
+    675,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Y ese",
+   "r": [
+    224,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Pared rota",
+   "r": [
+    668,
+    520,
+    943,
+    582
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Y ese licopeno",
+   "r": [
+    224,
+    339,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Pared rota",
+   "r": [
+    658,
+    520,
+    933,
+    582
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Y ese licopeno",
+   "r": [
+    224,
+    339,
+    753,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Pared rota",
+   "r": [
+    649,
+    520,
+    924,
+    582
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Y ese licopeno es",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Pared rota",
+   "r": [
+    639,
+    520,
+    914,
+    582
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "soluble",
+   "r": [
+    213,
+    339,
+    485,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "soluble",
+   "r": [
+    213,
+    339,
+    485,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "soluble en grasa,",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "soluble en grasa,",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "soluble en grasa,",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "nunca",
+   "r": [
+    210,
+    339,
+    438,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "nunca",
+   "r": [
+    210,
+    339,
+    438,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "nunca se disuelve",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "nunca se disuelve",
+   "r": [
+    210,
+    339,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "bien",
+   "r": [
+    296,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "bien en",
+   "r": [
+    296,
+    339,
+    561,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "bien en agua.",
+   "r": [
+    296,
+    339,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Dieron",
+   "r": [
+    243,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Dieron",
+   "r": [
+    243,
+    339,
+    493,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Dieron la misma",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Dieron la misma",
+   "r": [
+    243,
+    339,
+    837,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Dieron la misma dosis",
+   "r": [
+    243,
+    339,
+    837,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "en",
+   "r": [
+    186,
+    339,
+    277,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "en pasta",
+   "r": [
+    186,
+    339,
+    505,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "en pasta de tomate",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "en pasta de tomate",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "frente",
+   "r": [
+    250,
+    339,
+    486,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "frente",
+   "r": [
+    250,
+    339,
+    486,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "frente a tomate",
+   "r": [
+    250,
+    339,
+    830,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "frente a tomate fresco.",
+   "r": [
+    250,
+    339,
+    830,
+    510
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "frente a tomate fresco.",
+   "r": [
+    250,
+    339,
+    830,
+    510
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "frente a tomate fresco.",
+   "r": [
+    250,
+    339,
+    830,
+    510
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "El tomate",
+   "r": [
+    365,
+    339,
+    715,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "El tomate",
+   "r": [
+    365,
+    339,
+    715,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "El tomate concentrado",
+   "r": [
+    226,
+    339,
+    715,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "El tomate concentrado",
+   "r": [
+    226,
+    339,
+    715,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "El tomate concentrado",
+   "r": [
+    226,
+    339,
+    715,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "grasa",
+   "r": [
+    236,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "grasa",
+   "r": [
+    236,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "grasa subió",
+   "r": [
+    236,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "grasa subió",
+   "r": [
+    236,
+    339,
+    675,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "grasa subió casi",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "grasa subió casi",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "grasa subió casi cuatro",
+   "r": [
+    236,
+    339,
+    844,
+    510
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "veces",
+   "r": [
+    293,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "veces",
+   "r": [
+    293,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "3,8x",
+   "r": [
+    495,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "veces más",
+   "r": [
+    293,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "3,8x",
+   "r": [
+    495,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "veces más en sangre.",
+   "r": [
+    293,
+    339,
+    787,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "3,8x",
+   "r": [
+    495,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "veces más en sangre.",
+   "r": [
+    293,
+    339,
+    787,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "3,8x",
+   "r": [
+    495,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "veces más en sangre.",
+   "r": [
+    293,
+    339,
+    787,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "3,8x",
+   "r": [
+    495,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "El",
+   "r": [
+    208,
+    339,
+    276,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "3,8x",
+   "r": [
+    60,
+    980,
+    515,
+    1080
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "El calor",
+   "r": [
+    208,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "3,8x",
+   "r": [
+    60,
+    990,
+    515,
+    1090
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "El calor",
+   "r": [
+    208,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "3,8x",
+   "r": [
+    60,
+    999,
+    515,
+    1099
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "El calor rompe",
+   "r": [
+    208,
+    339,
+    745,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "3,8x",
+   "r": [
+    60,
+    1008,
+    515,
+    1108
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "El calor rompe las",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "células",
+   "r": [
+    237,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "células",
+   "r": [
+    237,
+    339,
+    506,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "células y",
+   "r": [
+    237,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "células y la",
+   "r": [
+    237,
+    339,
+    647,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "células y la oliva",
+   "r": [
+    237,
+    339,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "actúa",
+   "r": [
+    149,
+    339,
+    365,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "actúa",
+   "r": [
+    149,
+    339,
+    365,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "actúa como",
+   "r": [
+    149,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "actúa como vehículo",
+   "r": [
+    149,
+    338,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "actúa como vehículo",
+   "r": [
+    149,
+    338,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "actúa como vehículo",
+   "r": [
+    149,
+    338,
+    931,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "actúa como vehículo intestinal.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "actúa como vehículo intestinal.",
+   "r": [
+    149,
+    338,
+    931,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "En",
+   "r": [
+    153,
+    339,
+    244,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "En ensalada",
+   "r": [
+    153,
+    339,
+    601,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "En ensalada",
+   "r": [
+    153,
+    339,
+    601,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "En ensalada sin",
+   "r": [
+    153,
+    339,
+    726,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "En ensalada sin nada",
+   "r": [
+    153,
+    339,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "En ensalada sin nada de",
+   "r": [
+    153,
+    339,
+    927,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "aceite",
+   "r": [
+    176,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "aceite",
+   "r": [
+    176,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "aceite casi",
+   "r": [
+    176,
+    338,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "aceite casi",
+   "r": [
+    176,
+    338,
+    600,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "aceite casi no pasó",
+   "r": [
+    176,
+    338,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "aceite casi no pasó",
+   "r": [
+    176,
+    338,
+    904,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "caroteno",
+   "r": [
+    146,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "caroteno",
+   "r": [
+    146,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "caroteno a la sangre.",
+   "r": [
+    146,
+    339,
+    934,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "caroteno a la sangre.",
+   "r": [
+    146,
+    339,
+    934,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "caroteno a la sangre.",
+   "r": [
+    146,
+    339,
+    934,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Alternar",
+   "r": [
+    184,
+    338,
+    524,
+    423
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Alternar",
+   "r": [
+    184,
+    338,
+    524,
+    423
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Alternar gazpacho",
+   "r": [
+    184,
+    338,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1207,
+    950,
+    1269
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Alternar gazpacho",
+   "r": [
+    184,
+    338,
+    896,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1197,
+    950,
+    1259
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Alternar gazpacho con",
+   "r": [
+    184,
+    338,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1186,
+    950,
+    1248
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Alternar gazpacho con oliva",
+   "r": [
+    184,
+    338,
+    896,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1190,
+    950,
+    1252
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "y",
+   "r": [
+    193,
+    339,
+    235,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1189,
+    950,
+    1251
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "y tomate",
+   "r": [
+    193,
+    339,
+    517,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1162,
+    950,
+    1224
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "y tomate fresco",
+   "r": [
+    193,
+    339,
+    778,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1145,
+    950,
+    1207
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "y tomate fresco",
+   "r": [
+    193,
+    339,
+    778,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Usa oliva",
+   "r": [
+    698,
+    1135,
+    950,
+    1197
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "y tomate fresco da",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "vitamina",
+   "r": [
+    316,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "vitamina",
+   "r": [
+    316,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "vitamina C",
+   "r": [
+    316,
+    339,
+    707,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "vitamina C y",
+   "r": [
+    316,
+    339,
+    764,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "vitamina C y licopeno.",
+   "r": [
+    316,
+    339,
+    764,
+    514
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "vitamina C y licopeno.",
+   "r": [
+    316,
+    339,
+    764,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "vitamina C y licopeno.",
+   "r": [
+    316,
+    339,
+    764,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Cocinar",
+   "r": [
+    188,
+    339,
+    482,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Cocinar",
+   "r": [
+    188,
+    339,
+    482,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Cocinar bien",
+   "r": [
+    188,
+    339,
+    656,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Cocinar bien",
+   "r": [
+    188,
+    339,
+    656,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Cocinar bien une",
+   "r": [
+    188,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Cocinar bien une el",
+   "r": [
+    188,
+    339,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "placer en",
+   "r": [
+    206,
+    339,
+    554,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "placer en la mesa",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "placer en la mesa",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "con",
+   "r": [
+    277,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "con absorción",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "con absorción",
+   "r": [
+    277,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "con absorción inteligente.",
+   "r": [
+    277,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "con absorción inteligente.",
+   "r": [
+    277,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "con absorción inteligente.",
+   "r": [
+    277,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "con absorción inteligente.",
+   "r": [
+    277,
+    339,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "Mándaselo a alguien que",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "come",
+   "r": [
+    180,
+    339,
+    381,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "come tomate",
+   "r": [
+    180,
+    339,
+    663,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "come tomate",
+   "r": [
+    180,
+    339,
+    663,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "come tomate crudo",
+   "r": [
+    180,
+    339,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "come tomate crudo sin",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "gota",
+   "r": [
+    257,
+    338,
+    446,
+    423
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "gota de aceite.",
+   "r": [
+    257,
+    338,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "gota de aceite.",
+   "r": [
+    257,
+    338,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 41.77,
+   "texto": "gota de aceite.",
+   "r": [
+    257,
+    338,
+    823,
+    427
+   ]
+  },
+  {
+   "t": 42.0,
+   "texto": "gota de aceite.",
+   "r": [
+    257,
+    338,
+    823,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 739,
+  "texto": "Quitas el aceite de la ensalada pensando que cuidas más el plato. Mucha gente repite que crudo siempre se aprovecha más cada nutriente. Pero el tomate guarda parte de su rojo encerrado en paredes duras. Y ese licopeno es soluble en grasa, nunca se disuelve bien en agua. Dieron la misma dosis en pasta de tomate frente a tomate fresco. El tomate concentrado con grasa subió casi cuatro veces más en sangre. El calor rompe las células y la oliva actúa como vehículo intestinal. En ensalada sin nada de aceite casi no pasó caroteno a la sangre. Alternar gazpacho con oliva y tomate fresco da vitamina C y licopeno. Cocinar bien une el placer en la mesa con absorción inteligente. Mándaselo a alguien que come tomate crudo sin gota de aceite.",
+  "inicio_s": 0.0469,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Quitas el aceite de la ensalada pensando que cuidas más el plato.",
+    "t0": 0.021,
+    "t1": 3.286
+   },
+   {
+    "texto": "Mucha gente repite que crudo siempre se aprovecha más cada nutriente.",
+    "t0": 3.546,
+    "t1": 7.226
+   },
+   {
+    "texto": "Pero el tomate guarda parte de su rojo encerrado en paredes duras.",
+    "t0": 7.426,
+    "t1": 10.893
+   },
+   {
+    "texto": "Y ese licopeno es soluble en grasa, nunca se disuelve bien en agua.",
+    "t0": 11.116,
+    "t1": 14.916
+   },
+   {
+    "texto": "Dieron la misma dosis en pasta de tomate frente a tomate fresco.",
+    "t0": 15.101,
+    "t1": 18.341
+   },
+   {
+    "texto": "El tomate concentrado con grasa subió casi cuatro veces más en sangre.",
+    "t0": 18.506,
+    "t1": 22.506
+   },
+   {
+    "texto": "El calor rompe las células y la oliva actúa como vehículo intestinal.",
+    "t0": 22.756,
+    "t1": 26.836
+   },
+   {
+    "texto": "En ensalada sin nada de aceite casi no pasó caroteno a la sangre.",
+    "t0": 27.031,
+    "t1": 30.671
+   },
+   {
+    "texto": "Alternar gazpacho con oliva y tomate fresco da vitamina C y licopeno.",
+    "t0": 30.951,
+    "t1": 34.951
+   },
+   {
+    "texto": "Cocinar bien une el placer en la mesa con absorción inteligente.",
+    "t0": 35.146,
+    "t1": 38.533
+   },
+   {
+    "texto": "Mándaselo a alguien que come tomate crudo sin gota de aceite.",
+    "t0": 38.756,
+    "t1": 41.676
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.486,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 0.906,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.106,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.666,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 17.941,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 21.066,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 21.486,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 28.271,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.371,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.756,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/uo_tomate_cocinado_aceite_licopeno.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuchillo",
+      "colores": [
+       "#C9CED3"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "tabla",
+      "colores": [
+       "#B07A4A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "tomate",
+      "colores": [
+       "#D8382A"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 15.9,
+   "render": 103.3,
+   "mezcla": 15.5
+  },
+  "escena_js": "tr"
+ }
+}

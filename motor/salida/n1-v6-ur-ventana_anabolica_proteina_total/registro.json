@@ -1,0 +1,2484 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 39.37,
+ "tamano_mb": 10.22,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.7,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 78.9,
+ "fotogramas": 1179,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Acabas",
+   "r": [
+    233,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Acabas",
+   "r": [
+    233,
+    339,
+    511,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Acabas la",
+   "r": [
+    233,
+    339,
+    596,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Acabas la última",
+   "r": [
+    233,
+    339,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Acabas la última serie",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Acabas la última serie",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Acabas la última serie y",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "corres",
+   "r": [
+    151,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "corres",
+   "r": [
+    151,
+    339,
+    404,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "corres agitado",
+   "r": [
+    151,
+    339,
+    709,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "corres agitado hacia",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "corres agitado hacia la",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "corres agitado hacia la taquilla.",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "corres agitado hacia la taquilla.",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "La",
+   "r": [
+    286,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Prisa vestuario",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "La cultura",
+   "r": [
+    286,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Prisa vestuario",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La cultura del",
+   "r": [
+    286,
+    339,
+    794,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Prisa vestuario",
+   "r": [
+    560,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La cultura del gimnasio",
+   "r": [
+    286,
+    339,
+    794,
+    514
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Prisa vestuario",
+   "r": [
+    560,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La cultura del gimnasio",
+   "r": [
+    286,
+    339,
+    794,
+    514
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Prisa vestuario",
+   "r": [
+    560,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "juró",
+   "r": [
+    177,
+    339,
+    332,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Prisa vestuario",
+   "r": [
+    560,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "juró",
+   "r": [
+    177,
+    339,
+    332,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Prisa vestuario",
+   "r": [
+    560,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "juró que",
+   "r": [
+    177,
+    339,
+    486,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "juró que tras",
+   "r": [
+    177,
+    339,
+    660,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "juró que tras media",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "hora",
+   "r": [
+    266,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "hora",
+   "r": [
+    266,
+    339,
+    443,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "hora tirabas",
+   "r": [
+    266,
+    339,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "hora tirabas",
+   "r": [
+    266,
+    339,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "hora tirabas el entreno.",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "hora tirabas el entreno.",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "hora tirabas el entreno.",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Mucha",
+   "r": [
+    186,
+    339,
+    444,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Mucha gente",
+   "r": [
+    186,
+    339,
+    671,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Mucha gente traga",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Mucha gente traga",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Mucha gente traga batidos",
+   "r": [
+    186,
+    339,
+    894,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "sin",
+   "r": [
+    250,
+    339,
+    360,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "sin hambre",
+   "r": [
+    250,
+    338,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "sin hambre",
+   "r": [
+    250,
+    338,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "sin hambre por",
+   "r": [
+    250,
+    338,
+    830,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Total del día",
+   "r": [
+    606,
+    743,
+    950,
+    805
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "sin hambre por cumplir",
+   "r": [
+    250,
+    338,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Total del día",
+   "r": [
+    606,
+    746,
+    950,
+    808
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "sin hambre por cumplir",
+   "r": [
+    250,
+    338,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Total del día",
+   "r": [
+    606,
+    751,
+    950,
+    813
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "un reloj",
+   "r": [
+    252,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Total del día",
+   "r": [
+    606,
+    756,
+    950,
+    818
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "un reloj",
+   "r": [
+    252,
+    339,
+    535,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Total del día",
+   "r": [
+    606,
+    760,
+    950,
+    822
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "un reloj mental.",
+   "r": [
+    252,
+    339,
+    828,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Total del día",
+   "r": [
+    606,
+    763,
+    950,
+    825
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "un reloj mental.",
+   "r": [
+    252,
+    339,
+    828,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Total del día",
+   "r": [
+    606,
+    766,
+    950,
+    828
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Reunieron",
+   "r": [
+    156,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Reunieron",
+   "r": [
+    156,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Reunieron veintitrés",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Reunieron veintitrés",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Reunieron veintitrés",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Reunieron veintitrés programas",
+   "r": [
+    156,
+    339,
+    924,
+    510
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Reunieron veintitrés programas",
+   "r": [
+    156,
+    339,
+    924,
+    510
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "fuerza",
+   "r": [
+    173,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "fuerza",
+   "r": [
+    173,
+    339,
+    420,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "fuerza comparando",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "fuerza comparando",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "fuerza comparando",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "fuerza comparando horarios.",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "fuerza comparando horarios.",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "Un",
+   "r": [
+    270,
+    339,
+    367,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "Un grupo",
+   "r": [
+    270,
+    339,
+    605,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Un grupo tomó",
+   "r": [
+    270,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Un grupo tomó",
+   "r": [
+    270,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Un grupo tomó batido",
+   "r": [
+    270,
+    339,
+    810,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "al",
+   "r": [
+    237,
+    339,
+    306,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "al acabar",
+   "r": [
+    237,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "al acabar",
+   "r": [
+    237,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "al acabar y",
+   "r": [
+    237,
+    339,
+    646,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "al acabar y otro",
+   "r": [
+    237,
+    338,
+    843,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "esperó",
+   "r": [
+    233,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "esperó",
+   "r": [
+    233,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "esperó bastante",
+   "r": [
+    233,
+    339,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "esperó bastante",
+   "r": [
+    233,
+    339,
+    847,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "esperó bastante tiempo.",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "esperó bastante tiempo.",
+   "r": [
+    233,
+    339,
+    847,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "Al igualar",
+   "r": [
+    150,
+    339,
+    509,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "Al igualar",
+   "r": [
+    150,
+    339,
+    509,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Al igualar la",
+   "r": [
+    150,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Al igualar la proteína",
+   "r": [
+    150,
+    339,
+    930,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "total",
+   "r": [
+    246,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "total",
+   "r": [
+    246,
+    339,
+    424,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "total del día",
+   "r": [
+    246,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "total del día",
+   "r": [
+    246,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "total del día",
+   "r": [
+    246,
+    339,
+    684,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "total del día esa",
+   "r": [
+    246,
+    339,
+    834,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "ventaja",
+   "r": [
+    189,
+    338,
+    489,
+    423
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "ventaja horaria",
+   "r": [
+    189,
+    338,
+    789,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "23",
+   "r": [
+    559,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "ventaja horaria",
+   "r": [
+    189,
+    338,
+    789,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "23",
+   "r": [
+    559,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "ventaja horaria se",
+   "r": [
+    189,
+    338,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "23",
+   "r": [
+    559,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "ventaja horaria se esfumó.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "23",
+   "r": [
+    559,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "ventaja horaria se esfumó.",
+   "r": [
+    189,
+    338,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "23",
+   "r": [
+    559,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "Tampoco",
+   "r": [
+    186,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "23",
+   "r": [
+    175,
+    888,
+    566,
+    988
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "Tampoco",
+   "r": [
+    186,
+    339,
+    524,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "23",
+   "r": [
+    181,
+    901,
+    572,
+    1001
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Tampoco cambió",
+   "r": [
+    186,
+    339,
+    810,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "23",
+   "r": [
+    185,
+    913,
+    576,
+    1013
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Tampoco cambió la",
+   "r": [
+    186,
+    339,
+    894,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "23",
+   "r": [
+    186,
+    925,
+    577,
+    1025
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Tampoco cambió la fuerza",
+   "r": [
+    186,
+    339,
+    894,
+    510
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Tampoco cambió la fuerza máxima",
+   "r": [
+    186,
+    339,
+    894,
+    514
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Tampoco cambió la fuerza máxima",
+   "r": [
+    186,
+    339,
+    894,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "levantada",
+   "r": [
+    267,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "levantada",
+   "r": [
+    267,
+    339,
+    640,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "levantada tras",
+   "r": [
+    267,
+    339,
+    813,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "levantada tras semanas",
+   "r": [
+    162,
+    339,
+    813,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "levantada tras semanas",
+   "r": [
+    162,
+    339,
+    813,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "levantada tras semanas de trabajo.",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "levantada tras semanas de trabajo.",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "levantada tras semanas de trabajo.",
+   "r": [
+    162,
+    339,
+    918,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "Si",
+   "r": [
+    207,
+    339,
+    279,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "Si comiste",
+   "r": [
+    207,
+    339,
+    590,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Si comiste bien",
+   "r": [
+    207,
+    339,
+    764,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Si comiste bien un",
+   "r": [
+    207,
+    339,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "par de",
+   "r": [
+    181,
+    339,
+    419,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "par de horas",
+   "r": [
+    181,
+    339,
+    653,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "par de horas",
+   "r": [
+    181,
+    339,
+    653,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "par de horas antes",
+   "r": [
+    181,
+    338,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "aún",
+   "r": [
+    308,
+    339,
+    448,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "aún circulan",
+   "r": [
+    308,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "aún circulan",
+   "r": [
+    308,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "aún circulan",
+   "r": [
+    308,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "aún circulan aminoácidos.",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "aún circulan aminoácidos.",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "aún circulan aminoácidos.",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "aún circulan aminoácidos.",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "Llegar",
+   "r": [
+    147,
+    339,
+    385,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "Llegar a casa",
+   "r": [
+    147,
+    339,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "Llegar a casa y",
+   "r": [
+    147,
+    339,
+    699,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Llegar a casa y cenar",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "un",
+   "r": [
+    146,
+    339,
+    239,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "un plato",
+   "r": [
+    146,
+    339,
+    447,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "un plato con",
+   "r": [
+    146,
+    339,
+    597,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "un plato con proteína",
+   "r": [
+    146,
+    339,
+    934,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "un plato con proteína",
+   "r": [
+    146,
+    339,
+    934,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "cubre",
+   "r": [
+    301,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "cubre",
+   "r": [
+    301,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "cubre bien",
+   "r": [
+    301,
+    339,
+    695,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "cubre bien la demanda.",
+   "r": [
+    301,
+    339,
+    779,
+    510
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "cubre bien la demanda.",
+   "r": [
+    301,
+    339,
+    779,
+    510
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "cubre bien la demanda.",
+   "r": [
+    301,
+    339,
+    779,
+    510
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    529,
+    950,
+    591
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Entrenar",
+   "r": [
+    147,
+    339,
+    484,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Entrenar",
+   "r": [
+    147,
+    339,
+    484,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Entrenar constante",
+   "r": [
+    147,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Entrenar constante",
+   "r": [
+    147,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Entrenar constante",
+   "r": [
+    147,
+    339,
+    876,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Entrenar constante y llegar",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Entrenar constante y llegar a",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Suma diaria",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "tu cuota",
+   "r": [
+    242,
+    338,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "tu cuota",
+   "r": [
+    242,
+    338,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "tu cuota",
+   "r": [
+    242,
+    338,
+    571,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "tu cuota manda",
+   "r": [
+    242,
+    338,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "tu cuota manda sobre",
+   "r": [
+    168,
+    338,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "tu cuota manda sobre",
+   "r": [
+    168,
+    338,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "tu cuota manda sobre cronómetros.",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "tu cuota manda sobre cronómetros.",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "tu cuota manda sobre cronómetros.",
+   "r": [
+    168,
+    338,
+    912,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo a",
+   "r": [
+    156,
+    339,
+    635,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a alguien que bebe",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "batidos",
+   "r": [
+    219,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "batidos",
+   "r": [
+    219,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "batidos",
+   "r": [
+    219,
+    339,
+    500,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "batidos agobiado",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "batidos agobiado",
+   "r": [
+    219,
+    339,
+    861,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "batidos agobiado dentro",
+   "r": [
+    210,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "batidos agobiado dentro del",
+   "r": [
+    210,
+    339,
+    861,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "batidos agobiado dentro del coche.",
+   "r": [
+    210,
+    339,
+    870,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "batidos agobiado dentro del coche.",
+   "r": [
+    210,
+    339,
+    870,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "batidos agobiado dentro del coche.",
+   "r": [
+    210,
+    339,
+    870,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 711,
+  "texto": "Acabas la última serie y corres agitado hacia la taquilla. La cultura del gimnasio juró que tras media hora tirabas el entreno. Mucha gente traga batidos sin hambre por cumplir un reloj mental. Reunieron veintitrés programas de fuerza comparando horarios. Un grupo tomó batido al acabar y otro esperó bastante tiempo. Al igualar la proteína total del día esa ventaja horaria se esfumó. Tampoco cambió la fuerza máxima levantada tras semanas de trabajo. Si comiste bien un par de horas antes aún circulan aminoácidos. Llegar a casa y cenar un plato con proteína cubre bien la demanda. Entrenar constante y llegar a tu cuota manda sobre cronómetros. Mándaselo a alguien que bebe batidos agobiado dentro del coche.",
+  "inicio_s": 0.04,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Acabas la última serie y corres agitado hacia la taquilla.",
+    "t0": 0.021,
+    "t1": 3.061
+   },
+   {
+    "texto": "La cultura del gimnasio juró que tras media hora tirabas el entreno.",
+    "t0": 3.266,
+    "t1": 6.846
+   },
+   {
+    "texto": "Mucha gente traga batidos sin hambre por cumplir un reloj mental.",
+    "t0": 7.041,
+    "t1": 10.481
+   },
+   {
+    "texto": "Reunieron veintitrés programas de fuerza comparando horarios.",
+    "t0": 10.691,
+    "t1": 13.811
+   },
+   {
+    "texto": "Un grupo tomó batido al acabar y otro esperó bastante tiempo.",
+    "t0": 13.986,
+    "t1": 17.426
+   },
+   {
+    "texto": "Al igualar la proteína total del día esa ventaja horaria se esfumó.",
+    "t0": 17.626,
+    "t1": 21.226
+   },
+   {
+    "texto": "Tampoco cambió la fuerza máxima levantada tras semanas de trabajo.",
+    "t0": 21.426,
+    "t1": 24.626
+   },
+   {
+    "texto": "Si comiste bien un par de horas antes aún circulan aminoácidos.",
+    "t0": 24.876,
+    "t1": 28.276
+   },
+   {
+    "texto": "Llegar a casa y cenar un plato con proteína cubre bien la demanda.",
+    "t0": 28.511,
+    "t1": 31.831
+   },
+   {
+    "texto": "Entrenar constante y llegar a tu cuota manda sobre cronómetros.",
+    "t0": 32.126,
+    "t1": 35.646
+   },
+   {
+    "texto": "Mándaselo a alguien que bebe batidos agobiado dentro del coche.",
+    "t0": 35.836,
+    "t1": 38.876
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.541,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.161,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.446,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.446,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 15.906,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.906,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.286,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 25.996,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.931,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 35.836,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/ur_ventana_anabolica_proteina_total.json",
+  "paleta": "virales",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#C84B31"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "reloj_studio",
+      "colores": [
+       "#F4F2EB",
+       "#25282C"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "pildora",
+      "colores": [
+       "#2C6AA0"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 14.6,
+   "render": 96.7,
+   "mezcla": 14.7
+  },
+  "escena_js": "tr"
+ }
+}

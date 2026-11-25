@@ -1,0 +1,2478 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 39.6,
+ "tamano_mb": 10.34,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 71.6,
+ "fotogramas": 1186,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Miras",
+   "r": [
+    170,
+    339,
+    397,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Miras",
+   "r": [
+    170,
+    339,
+    397,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Miras el",
+   "r": [
+    170,
+    339,
+    480,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Miras el paquete",
+   "r": [
+    170,
+    339,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Miras el paquete de",
+   "r": [
+    170,
+    339,
+    910,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "almendras",
+   "r": [
+    266,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "almendras",
+   "r": [
+    266,
+    339,
+    666,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "almendras y",
+   "r": [
+    266,
+    339,
+    722,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "almendras y te asusta",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "almendras y te asusta",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "almendras y te asusta",
+   "r": [
+    266,
+    339,
+    814,
+    510
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "su energía",
+   "r": [
+    341,
+    339,
+    739,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "su energía",
+   "r": [
+    341,
+    339,
+    739,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "su energía declarada.",
+   "r": [
+    338,
+    339,
+    742,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "su energía declarada.",
+   "r": [
+    338,
+    339,
+    742,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "su energía declarada.",
+   "r": [
+    338,
+    339,
+    742,
+    514
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    60,
+    1081,
+    474,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Mucha",
+   "r": [
+    183,
+    339,
+    441,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Mucha gente",
+   "r": [
+    183,
+    339,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Etiqueta Atwater",
+   "r": [
+    536,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Mucha gente",
+   "r": [
+    183,
+    339,
+    668,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Mucha gente tacha",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Mucha gente tacha frutos",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Mucha gente tacha frutos",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "secos",
+   "r": [
+    215,
+    339,
+    434,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "secos al",
+   "r": [
+    215,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "secos al cuidarse",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "secos al cuidarse",
+   "r": [
+    215,
+    339,
+    865,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "secos al cuidarse por",
+   "r": [
+    215,
+    339,
+    865,
+    514
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "miedo",
+   "r": [
+    213,
+    338,
+    460,
+    423
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "miedo",
+   "r": [
+    213,
+    338,
+    460,
+    423
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "miedo a calorías.",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "miedo a calorías.",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "miedo a calorías.",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Dentro",
+   "r": [
+    310,
+    339,
+    569,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Dentro",
+   "r": [
+    310,
+    339,
+    569,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Dentro de tu",
+   "r": [
+    310,
+    339,
+    770,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Dentro de tu intestino",
+   "r": [
+    310,
+    339,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Dentro de tu intestino",
+   "r": [
+    310,
+    339,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Dentro de tu intestino el",
+   "r": [
+    310,
+    339,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "fruto",
+   "r": [
+    258,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "fruto",
+   "r": [
+    258,
+    339,
+    452,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "fruto entero",
+   "r": [
+    258,
+    339,
+    719,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "fruto entero se",
+   "r": [
+    258,
+    339,
+    822,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "fruto entero se comporta",
+   "r": [
+    154,
+    339,
+    822,
+    510
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "fruto entero se comporta",
+   "r": [
+    154,
+    339,
+    822,
+    510
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "fruto entero se comporta diferente.",
+   "r": [
+    154,
+    339,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "fruto entero se comporta diferente.",
+   "r": [
+    154,
+    339,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "fruto entero se comporta diferente.",
+   "r": [
+    154,
+    339,
+    926,
+    514
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Al masticar",
+   "r": [
+    180,
+    339,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Al masticar",
+   "r": [
+    180,
+    339,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Al masticar",
+   "r": [
+    180,
+    339,
+    608,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Al masticar quedan",
+   "r": [
+    180,
+    339,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Al masticar quedan trozos",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Al masticar quedan trozos",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Al masticar quedan trozos protegidos",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Al masticar quedan trozos protegidos",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Al masticar quedan trozos protegidos",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "por",
+   "r": [
+    159,
+    339,
+    290,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "por paredes",
+   "r": [
+    159,
+    339,
+    615,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "por paredes de",
+   "r": [
+    159,
+    339,
+    721,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "por paredes de fibra",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "por paredes de fibra dura.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "por paredes de fibra dura.",
+   "r": [
+    159,
+    339,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Midieron",
+   "r": [
+    149,
+    347,
+    438,
+    420
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Midieron",
+   "r": [
+    149,
+    347,
+    438,
+    420
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Midieron cuánta",
+   "r": [
+    149,
+    347,
+    671,
+    420
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Midieron cuánta",
+   "r": [
+    149,
+    347,
+    671,
+    420
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Midieron cuánta energía",
+   "r": [
+    149,
+    347,
+    931,
+    420
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Midieron cuánta energía aprovechaba",
+   "r": [
+    149,
+    347,
+    931,
+    494
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Midieron cuánta energía aprovechaba",
+   "r": [
+    149,
+    347,
+    931,
+    494
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Midieron cuánta energía aprovechaba",
+   "r": [
+    149,
+    347,
+    931,
+    494
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "cuerpo",
+   "r": [
+    183,
+    338,
+    469,
+    423
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "cuerpo",
+   "r": [
+    183,
+    338,
+    469,
+    423
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "cuerpo tras",
+   "r": [
+    183,
+    338,
+    643,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "cuerpo tras comer",
+   "r": [
+    183,
+    338,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "cuerpo tras comer raciones.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "cuerpo tras comer raciones.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "cuerpo tras comer raciones.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "Una",
+   "r": [
+    183,
+    339,
+    328,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Una ración",
+   "r": [
+    183,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Una ración",
+   "r": [
+    183,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Una ración entregó",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Una ración entregó",
+   "r": [
+    183,
+    339,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Una ración entregó ciento",
+   "r": [
+    183,
+    339,
+    897,
+    510
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Una ración entregó ciento veintinueve",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Una ración entregó ciento veintinueve",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Una ración entregó ciento veintinueve",
+   "r": [
+    183,
+    339,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "calorías",
+   "r": [
+    218,
+    339,
+    526,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "calorías",
+   "r": [
+    218,
+    339,
+    526,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "calorías frente",
+   "r": [
+    218,
+    339,
+    778,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "calorías frente al",
+   "r": [
+    218,
+    339,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "calorías frente al cálculo.",
+   "r": [
+    218,
+    339,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "calorías frente al cálculo.",
+   "r": [
+    218,
+    339,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "129",
+   "r": [
+    463,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "Casi",
+   "r": [
+    217,
+    339,
+    380,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "129",
+   "r": [
+    60,
+    594,
+    547,
+    694
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "Casi",
+   "r": [
+    217,
+    339,
+    380,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Casi un cuarto",
+   "r": [
+    217,
+    339,
+    757,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Casi un cuarto",
+   "r": [
+    217,
+    339,
+    757,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Casi un cuarto de",
+   "r": [
+    217,
+    339,
+    863,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "grasa",
+   "r": [
+    236,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "grasa",
+   "r": [
+    236,
+    339,
+    455,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "grasa se",
+   "r": [
+    236,
+    339,
+    558,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "grasa se escapa",
+   "r": [
+    236,
+    339,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "grasa se escapa atrapada",
+   "r": [
+    236,
+    339,
+    844,
+    510
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "grasa se escapa atrapada",
+   "r": [
+    236,
+    339,
+    844,
+    510
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "grasa se escapa atrapada",
+   "r": [
+    236,
+    339,
+    844,
+    510
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "en la",
+   "r": [
+    211,
+    339,
+    386,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "en la propia",
+   "r": [
+    211,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "en la propia fibra.",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "en la propia fibra.",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "Sumar",
+   "r": [
+    173,
+    339,
+    421,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Sumar",
+   "r": [
+    173,
+    339,
+    421,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Sumar frutos",
+   "r": [
+    173,
+    339,
+    673,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Sumar frutos secos",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Sumar frutos secos",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Sumar frutos secos en trabajos",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Sumar frutos secos en trabajos",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "clínicos",
+   "r": [
+    191,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "clínicos",
+   "r": [
+    191,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "clínicos",
+   "r": [
+    191,
+    339,
+    478,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "clínicos no",
+   "r": [
+    191,
+    339,
+    585,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "clínicos no subió",
+   "r": [
+    191,
+    339,
+    805,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "clínicos no subió la báscula.",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "clínicos no subió la báscula.",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "clínicos no subió la báscula.",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "Un",
+   "r": [
+    187,
+    339,
+    285,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "Un puñado",
+   "r": [
+    187,
+    338,
+    599,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "Un puñado natural",
+   "r": [
+    187,
+    338,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Un puñado natural",
+   "r": [
+    187,
+    338,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Un puñado natural sacia",
+   "r": [
+    187,
+    338,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Un puñado natural sacia",
+   "r": [
+    187,
+    338,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "mucho",
+   "r": [
+    164,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "mucho más",
+   "r": [
+    164,
+    339,
+    584,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "mucho más rato",
+   "r": [
+    164,
+    339,
+    762,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "mucho más rato",
+   "r": [
+    164,
+    339,
+    762,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Puñado diario",
+   "r": [
+    606,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "tortitas",
+   "r": [
+    205,
+    339,
+    494,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "tortitas",
+   "r": [
+    205,
+    339,
+    494,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "tortitas sin",
+   "r": [
+    205,
+    339,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "tortitas sin grasa.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "tortitas sin grasa.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Elegir",
+   "r": [
+    163,
+    339,
+    386,
+    427
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "Elegir",
+   "r": [
+    163,
+    339,
+    386,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "Elegir frutos",
+   "r": [
+    163,
+    339,
+    638,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Elegir frutos crudos",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Elegir frutos crudos",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Elegir frutos crudos",
+   "r": [
+    163,
+    339,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "tostados",
+   "r": [
+    238,
+    338,
+    590,
+    423
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "tostados",
+   "r": [
+    238,
+    338,
+    590,
+    423
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "tostados sin",
+   "r": [
+    238,
+    338,
+    715,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "tostados sin sal",
+   "r": [
+    238,
+    338,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "tostados sin sal",
+   "r": [
+    238,
+    338,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "tostados sin sal aporta",
+   "r": [
+    238,
+    338,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "tostados sin sal aporta",
+   "r": [
+    238,
+    338,
+    842,
+    514
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "magnesio",
+   "r": [
+    221,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "magnesio",
+   "r": [
+    221,
+    339,
+    581,
+    427
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "magnesio y",
+   "r": [
+    221,
+    339,
+    638,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "magnesio y fibra.",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "magnesio y fibra.",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a quien evita",
+   "r": [
+    190,
+    339,
+    890,
+    510
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo a quien evita comer",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "almendras",
+   "r": [
+    147,
+    339,
+    546,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "almendras",
+   "r": [
+    147,
+    339,
+    546,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "almendras por",
+   "r": [
+    147,
+    339,
+    692,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "almendras por miedo",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "almendras por miedo al",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "almendras por miedo al paquete.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "almendras por miedo al paquete.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "almendras por miedo al paquete.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 705,
+  "texto": "Miras el paquete de almendras y te asusta su energía declarada. Mucha gente tacha frutos secos al cuidarse por miedo a calorías. Dentro de tu intestino el fruto entero se comporta diferente. Al masticar quedan trozos protegidos por paredes de fibra dura. Midieron cuánta energía aprovechaba el cuerpo tras comer raciones. Una ración entregó ciento veintinueve calorías frente al cálculo. Casi un cuarto de esa grasa se escapa atrapada en la propia fibra. Sumar frutos secos en trabajos clínicos no subió la báscula. Un puñado natural sacia mucho más rato que tortitas sin grasa. Elegir frutos crudos o tostados sin sal aporta magnesio y fibra. Mándaselo a quien evita comer almendras por miedo al paquete.",
+  "inicio_s": 0.0499,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Miras el paquete de almendras y te asusta su energía declarada.",
+    "t0": 0.021,
+    "t1": 3.451
+   },
+   {
+    "texto": "Mucha gente tacha frutos secos al cuidarse por miedo a calorías.",
+    "t0": 3.666,
+    "t1": 7.266
+   },
+   {
+    "texto": "Dentro de tu intestino el fruto entero se comporta diferente.",
+    "t0": 7.451,
+    "t1": 10.651
+   },
+   {
+    "texto": "Al masticar quedan trozos protegidos por paredes de fibra dura.",
+    "t0": 10.796,
+    "t1": 14.156
+   },
+   {
+    "texto": "Midieron cuánta energía aprovechaba el cuerpo tras comer raciones.",
+    "t0": 14.406,
+    "t1": 17.686
+   },
+   {
+    "texto": "Una ración entregó ciento veintinueve calorías frente al cálculo.",
+    "t0": 17.856,
+    "t1": 21.296
+   },
+   {
+    "texto": "Casi un cuarto de esa grasa se escapa atrapada en la propia fibra.",
+    "t0": 21.471,
+    "t1": 24.991
+   },
+   {
+    "texto": "Sumar frutos secos en trabajos clínicos no subió la báscula.",
+    "t0": 25.211,
+    "t1": 28.411
+   },
+   {
+    "texto": "Un puñado natural sacia mucho más rato que tortitas sin grasa.",
+    "t0": 28.621,
+    "t1": 31.981
+   },
+   {
+    "texto": "Elegir frutos crudos o tostados sin sal aporta magnesio y fibra.",
+    "t0": 32.156,
+    "t1": 36.196
+   },
+   {
+    "texto": "Mándaselo a quien evita comer almendras por miedo al paquete.",
+    "t0": 36.406,
+    "t1": 39.126
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.7,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.491,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 2.431,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.306,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.306,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 16.286,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.016,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.396,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 25.851,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 29.121,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.406,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/wd_almendras_calorias_no_absorben.json",
+  "paleta": "virales",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 15.8,
+   "render": 88.4,
+   "mezcla": 15.7
+  },
+  "escena_js": "tr"
+ }
+}
