@@ -1,0 +1,2527 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.6,
+ "tamano_mb": 11.21,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 74.8,
+ "fotogramas": 1246,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "De",
+   "r": [
+    224,
+    339,
+    322,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "De niño",
+   "r": [
+    224,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "De niño",
+   "r": [
+    224,
+    339,
+    497,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "De niño te ponían",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "De niño te ponían",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "De niño te ponían sardinas",
+   "r": [
+    224,
+    339,
+    856,
+    510
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "De niño te ponían sardinas",
+   "r": [
+    224,
+    339,
+    856,
+    510
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "diciendo",
+   "r": [
+    181,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "diciendo",
+   "r": [
+    181,
+    339,
+    498,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "diciendo que",
+   "r": [
+    181,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "diciendo que daban",
+   "r": [
+    181,
+    339,
+    899,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "diciendo que daban fósforo",
+   "r": [
+    181,
+    339,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "diciendo que daban fósforo",
+   "r": [
+    181,
+    339,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "diciendo que daban fósforo mental.",
+   "r": [
+    181,
+    339,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "diciendo que daban fósforo mental.",
+   "r": [
+    181,
+    339,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Mito abuela",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "diciendo que daban fósforo mental.",
+   "r": [
+    181,
+    339,
+    899,
+    514
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La frase",
+   "r": [
+    242,
+    339,
+    549,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La frase sonaba",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La frase sonaba",
+   "r": [
+    242,
+    339,
+    838,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La frase sonaba genial",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "La frase sonaba genial",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "La frase sonaba genial",
+   "r": [
+    242,
+    339,
+    838,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "cruzó",
+   "r": [
+    161,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "cruzó",
+   "r": [
+    161,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "cruzó generaciones",
+   "r": [
+    161,
+    338,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "cruzó generaciones",
+   "r": [
+    161,
+    338,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "cruzó generaciones",
+   "r": [
+    161,
+    338,
+    919,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "cruzó generaciones casi",
+   "r": [
+    161,
+    338,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "cruzó generaciones casi",
+   "r": [
+    161,
+    338,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "cruzó generaciones casi sin dudarse.",
+   "r": [
+    161,
+    338,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "cruzó generaciones casi sin dudarse.",
+   "r": [
+    161,
+    338,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "cruzó generaciones casi sin dudarse.",
+   "r": [
+    161,
+    338,
+    919,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "El",
+   "r": [
+    187,
+    339,
+    255,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "El fósforo",
+   "r": [
+    187,
+    339,
+    552,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "El fósforo",
+   "r": [
+    187,
+    339,
+    552,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "El fósforo sobra",
+   "r": [
+    187,
+    339,
+    787,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "El fósforo sobra en",
+   "r": [
+    187,
+    339,
+    893,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "casi",
+   "r": [
+    217,
+    339,
+    371,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "casi toda",
+   "r": [
+    217,
+    339,
+    557,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "casi toda comida",
+   "r": [
+    217,
+    338,
+    863,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "casi toda comida",
+   "r": [
+    217,
+    338,
+    863,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "casi toda comida corriente",
+   "r": [
+    217,
+    338,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "casi toda comida corriente",
+   "r": [
+    217,
+    338,
+    863,
+    514
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "y",
+   "r": [
+    249,
+    339,
+    290,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "y rara",
+   "r": [
+    249,
+    339,
+    476,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "y rara vez",
+   "r": [
+    249,
+    339,
+    616,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "y rara vez falta.",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "y rara vez falta.",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "y rara vez falta.",
+   "r": [
+    249,
+    339,
+    831,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Norma europea",
+   "r": [
+    606,
+    520,
+    950,
+    582
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Al revisar",
+   "r": [
+    214,
+    339,
+    580,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Al revisar",
+   "r": [
+    214,
+    339,
+    580,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Al revisar la lista",
+   "r": [
+    214,
+    338,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Al revisar la lista",
+   "r": [
+    214,
+    338,
+    866,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Al revisar la lista europea",
+   "r": [
+    214,
+    338,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Al revisar la lista europea",
+   "r": [
+    214,
+    338,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "oficial",
+   "r": [
+    211,
+    339,
+    444,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "oficial autorizada",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "oficial autorizada",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "oficial autorizada",
+   "r": [
+    211,
+    339,
+    869,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "oficial autorizada sorprende",
+   "r": [
+    201,
+    339,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "oficial autorizada sorprende",
+   "r": [
+    201,
+    339,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "oficial autorizada sorprende",
+   "r": [
+    201,
+    339,
+    869,
+    514
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "oficial autorizada sorprende mucho.",
+   "r": [
+    201,
+    339,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "oficial autorizada sorprende mucho.",
+   "r": [
+    201,
+    339,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Aprobaron",
+   "r": [
+    164,
+    344,
+    528,
+    422
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Aprobaron",
+   "r": [
+    164,
+    344,
+    528,
+    422
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Aprobaron citas",
+   "r": [
+    164,
+    344,
+    708,
+    422
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Aprobaron citas sobre",
+   "r": [
+    164,
+    344,
+    916,
+    422
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Aprobaron citas sobre",
+   "r": [
+    164,
+    344,
+    916,
+    422
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Aprobaron citas sobre huesos,",
+   "r": [
+    164,
+    344,
+    916,
+    497
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Aprobaron citas sobre huesos,",
+   "r": [
+    164,
+    344,
+    916,
+    497
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Aprobaron citas sobre huesos,",
+   "r": [
+    164,
+    344,
+    916,
+    497
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Aprobaron citas sobre huesos, dientes,",
+   "r": [
+    164,
+    344,
+    916,
+    501
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "Aprobaron citas sobre huesos, dientes,",
+   "r": [
+    164,
+    344,
+    916,
+    501
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "Aprobaron citas sobre huesos, dientes,",
+   "r": [
+    164,
+    344,
+    916,
+    501
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "energía",
+   "r": [
+    365,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "energía",
+   "r": [
+    365,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "energía",
+   "r": [
+    365,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "energía y membranas.",
+   "r": [
+    308,
+    339,
+    772,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "energía y membranas.",
+   "r": [
+    308,
+    339,
+    772,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "energía y membranas.",
+   "r": [
+    308,
+    339,
+    772,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "energía y membranas.",
+   "r": [
+    308,
+    339,
+    772,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Cero",
+   "r": [
+    200,
+    338,
+    401,
+    423
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Cero menciones",
+   "r": [
+    200,
+    338,
+    818,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "Cero menciones",
+   "r": [
+    200,
+    338,
+    818,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "Cero menciones a",
+   "r": [
+    200,
+    338,
+    880,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "Cero menciones a memoria",
+   "r": [
+    200,
+    338,
+    880,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "Cero menciones a memoria",
+   "r": [
+    200,
+    338,
+    880,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "Cero menciones a memoria en",
+   "r": [
+    200,
+    338,
+    880,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "toda",
+   "r": [
+    283,
+    339,
+    454,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "toda la",
+   "r": [
+    283,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "toda la norma",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "0",
+   "r": [
+    544,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "toda la norma alimentaria",
+   "r": [
+    146,
+    339,
+    797,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "toda la norma alimentaria",
+   "r": [
+    146,
+    339,
+    797,
+    514
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "toda la norma alimentaria europea.",
+   "r": [
+    146,
+    339,
+    934,
+    514
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "toda la norma alimentaria europea.",
+   "r": [
+    146,
+    339,
+    934,
+    514
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "toda la norma alimentaria europea.",
+   "r": [
+    146,
+    339,
+    934,
+    514
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "El pescado",
+   "r": [
+    216,
+    339,
+    615,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "El pescado",
+   "r": [
+    216,
+    339,
+    615,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "El pescado azul",
+   "r": [
+    216,
+    339,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "El pescado azul",
+   "r": [
+    216,
+    339,
+    784,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "El pescado azul sí",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "aporta",
+   "r": [
+    271,
+    339,
+    527,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "aporta ácidos",
+   "r": [
+    271,
+    338,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "aporta ácidos",
+   "r": [
+    271,
+    338,
+    809,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "aporta ácidos grasos",
+   "r": [
+    271,
+    338,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "aporta ácidos grasos",
+   "r": [
+    271,
+    338,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "aporta ácidos grasos muy",
+   "r": [
+    271,
+    338,
+    809,
+    514
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "ricos",
+   "r": [
+    238,
+    339,
+    430,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "ricos como",
+   "r": [
+    238,
+    339,
+    647,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "ricos como",
+   "r": [
+    238,
+    339,
+    647,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "ricos como DHA.",
+   "r": [
+    238,
+    339,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "ricos como DHA.",
+   "r": [
+    238,
+    339,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "ricos como DHA.",
+   "r": [
+    238,
+    339,
+    842,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Un",
+   "r": [
+    166,
+    339,
+    263,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Un consumo",
+   "r": [
+    166,
+    339,
+    616,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Un consumo regular",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Un consumo regular",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Un consumo regular",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Un consumo regular ayuda",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "Un consumo regular ayuda a",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "cuidar",
+   "r": [
+    227,
+    339,
+    472,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "cuidar la",
+   "r": [
+    227,
+    339,
+    556,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "cuidar la función",
+   "r": [
+    227,
+    339,
+    853,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "cuidar la función cerebral",
+   "r": [
+    216,
+    339,
+    853,
+    510
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "cuidar la función cerebral",
+   "r": [
+    216,
+    339,
+    853,
+    510
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "cuidar la función cerebral normal.",
+   "r": [
+    216,
+    339,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "cuidar la función cerebral normal.",
+   "r": [
+    216,
+    339,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "cuidar la función cerebral normal.",
+   "r": [
+    216,
+    339,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Hierro,",
+   "r": [
+    299,
+    339,
+    565,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Hierro,",
+   "r": [
+    299,
+    339,
+    565,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Hierro,",
+   "r": [
+    299,
+    339,
+    565,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Hierro, yodo,",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Hierro, yodo,",
+   "r": [
+    299,
+    339,
+    781,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "zinc",
+   "r": [
+    316,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "zinc",
+   "r": [
+    316,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "zinc y",
+   "r": [
+    316,
+    339,
+    521,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "zinc y sueño",
+   "r": [
+    316,
+    339,
+    764,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "zinc y sueño suficiente",
+   "r": [
+    316,
+    339,
+    764,
+    510
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "zinc y sueño suficiente",
+   "r": [
+    316,
+    339,
+    764,
+    510
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "zinc y sueño suficiente",
+   "r": [
+    316,
+    339,
+    764,
+    510
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "también",
+   "r": [
+    198,
+    339,
+    501,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    955,
+    950,
+    1017
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "también",
+   "r": [
+    198,
+    339,
+    501,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    946,
+    950,
+    1008
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "también sostienen",
+   "r": [
+    198,
+    339,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    938,
+    950,
+    1000
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "también sostienen",
+   "r": [
+    198,
+    339,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    930,
+    950,
+    992
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "también sostienen",
+   "r": [
+    198,
+    339,
+    882,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    922,
+    950,
+    984
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "también sostienen mente.",
+   "r": [
+    198,
+    339,
+    882,
+    514
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    914,
+    950,
+    976
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "también sostienen mente.",
+   "r": [
+    198,
+    339,
+    882,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    1080,
+    950,
+    1142
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Comer",
+   "r": [
+    166,
+    339,
+    414,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Dieta variada",
+   "r": [
+    606,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Comer pescado",
+   "r": [
+    166,
+    339,
+    745,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Comer pescado azul",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Comer pescado azul",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Comer pescado azul suma",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Comer pescado azul suma mucho,",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Comer pescado azul suma mucho,",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Comer pescado azul suma mucho,",
+   "r": [
+    166,
+    339,
+    914,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "pero",
+   "r": [
+    213,
+    339,
+    389,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "pero por motivos",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "pero por motivos",
+   "r": [
+    213,
+    338,
+    867,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "pero por motivos reales",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "pero por motivos reales",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "pero por motivos reales distintos.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "pero por motivos reales distintos.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "pero por motivos reales distintos.",
+   "r": [
+    213,
+    338,
+    867,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a alguien de",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "casa",
+   "r": [
+    164,
+    338,
+    363,
+    423
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "casa que",
+   "r": [
+    164,
+    338,
+    517,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "casa que aún",
+   "r": [
+    164,
+    338,
+    673,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "casa que aún repite",
+   "r": [
+    164,
+    338,
+    916,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "el",
+   "r": [
+    193,
+    339,
+    260,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "el mito",
+   "r": [
+    193,
+    339,
+    441,
+    427
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "el mito del",
+   "r": [
+    193,
+    339,
+    570,
+    427
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "el mito del fósforo.",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "el mito del fósforo.",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "el mito del fósforo.",
+   "r": [
+    193,
+    339,
+    887,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 690,
+  "texto": "De niño te ponían sardinas diciendo que daban fósforo mental. La frase sonaba genial y cruzó generaciones casi sin dudarse. El fósforo sobra en casi toda comida corriente y rara vez falta. Al revisar la lista europea oficial autorizada sorprende mucho. Aprobaron citas sobre huesos, dientes, energía y membranas. Cero menciones a memoria en toda la norma alimentaria europea. El pescado azul sí aporta ácidos grasos muy ricos como DHA. Un consumo regular ayuda a cuidar la función cerebral normal. Hierro, yodo, zinc y sueño suficiente también sostienen mente. Comer pescado azul suma mucho, pero por motivos reales distintos. Mándaselo a alguien de casa que aún repite el mito del fósforo.",
+  "inicio_s": 0.0496,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "De niño te ponían sardinas diciendo que daban fósforo mental.",
+    "t0": 0.021,
+    "t1": 3.291
+   },
+   {
+    "texto": "La frase sonaba genial y cruzó generaciones casi sin dudarse.",
+    "t0": 3.541,
+    "t1": 7.261
+   },
+   {
+    "texto": "El fósforo sobra en casi toda comida corriente y rara vez falta.",
+    "t0": 7.421,
+    "t1": 11.021
+   },
+   {
+    "texto": "Al revisar la lista europea oficial autorizada sorprende mucho.",
+    "t0": 11.261,
+    "t1": 14.621
+   },
+   {
+    "texto": "Aprobaron citas sobre huesos, dientes, energía y membranas.",
+    "t0": 14.836,
+    "t1": 18.716
+   },
+   {
+    "texto": "Cero menciones a memoria en toda la norma alimentaria europea.",
+    "t0": 18.996,
+    "t1": 22.276
+   },
+   {
+    "texto": "El pescado azul sí aporta ácidos grasos muy ricos como DHA.",
+    "t0": 22.491,
+    "t1": 26.331
+   },
+   {
+    "texto": "Un consumo regular ayuda a cuidar la función cerebral normal.",
+    "t0": 26.491,
+    "t1": 29.766
+   },
+   {
+    "texto": "Hierro, yodo, zinc y sueño suficiente también sostienen mente.",
+    "t0": 29.956,
+    "t1": 34.196
+   },
+   {
+    "texto": "Comer pescado azul suma mucho, pero por motivos reales distintos.",
+    "t0": 34.356,
+    "t1": 37.956
+   },
+   {
+    "texto": "Mándaselo a alguien de casa que aún repite el mito del fósforo.",
+    "t0": 38.146,
+    "t1": 41.106
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.651,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.631,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.381,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.541,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.461,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 15.956,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.996,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.336,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.606,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.776,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 38.146,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yt_fosforo_memoria_mito_dha.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "celulas",
+      "colores": [
+       "#E9DDEA",
+       "#9C6A92"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "flujo",
+      "colores": [
+       "#e6e88e"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4DA1A9"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4DA1A9"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#4DA1A9"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "molecula",
+      "colores": [
+       "#E5463B",
+       "#F2F2F2"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.2,
+   "render": 96.7,
+   "mezcla": 13.6
+  },
+  "escena_js": "tr"
+ }
+}

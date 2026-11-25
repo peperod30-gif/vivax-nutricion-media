@@ -1,0 +1,2418 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 39.63,
+ "tamano_mb": 10.29,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 68.3,
+ "fotogramas": 1187,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Llegas",
+   "r": [
+    167,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Llegas",
+   "r": [
+    167,
+    339,
+    409,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Llegas sin",
+   "r": [
+    167,
+    339,
+    534,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Llegas sin tiempo",
+   "r": [
+    167,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Llegas sin tiempo de",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "cocer",
+   "r": [
+    187,
+    339,
+    403,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "cocer legumbres",
+   "r": [
+    187,
+    338,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "cocer legumbres",
+   "r": [
+    187,
+    338,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "cocer legumbres",
+   "r": [
+    187,
+    338,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "cocer legumbres y abres",
+   "r": [
+    187,
+    338,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "cocer legumbres y abres",
+   "r": [
+    187,
+    338,
+    893,
+    514
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "un tarro",
+   "r": [
+    244,
+    339,
+    553,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "un tarro rápido.",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "un tarro rápido.",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "un tarro rápido.",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Mucha",
+   "r": [
+    174,
+    339,
+    433,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Bote rápido",
+   "r": [
+    60,
+    1081,
+    358,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Mucha gente",
+   "r": [
+    174,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Mucha gente siente",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Mucha gente siente",
+   "r": [
+    174,
+    339,
+    906,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Mucha gente siente culpa",
+   "r": [
+    174,
+    339,
+    906,
+    510
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Mucha gente siente culpa",
+   "r": [
+    174,
+    339,
+    906,
+    510
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Mucha gente siente culpa pensando",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Mucha gente siente culpa pensando",
+   "r": [
+    174,
+    339,
+    906,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "que el",
+   "r": [
+    208,
+    339,
+    430,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "que el bote",
+   "r": [
+    208,
+    339,
+    613,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "que el bote pierde",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "que el bote pierde",
+   "r": [
+    208,
+    339,
+    872,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "que el bote pierde nutrientes.",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "que el bote pierde nutrientes.",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "que el bote pierde nutrientes.",
+   "r": [
+    208,
+    339,
+    872,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "En",
+   "r": [
+    151,
+    339,
+    242,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "En etiqueta",
+   "r": [
+    151,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "En etiqueta española",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "En etiqueta española",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "En etiqueta española",
+   "r": [
+    151,
+    339,
+    929,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "En etiqueta española solo",
+   "r": [
+    151,
+    339,
+    929,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "suelen",
+   "r": [
+    163,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "suelen",
+   "r": [
+    163,
+    339,
+    411,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "suelen añadir",
+   "r": [
+    163,
+    338,
+    694,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "suelen añadir",
+   "r": [
+    163,
+    338,
+    694,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "suelen añadir agua,",
+   "r": [
+    163,
+    338,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "suelen añadir agua,",
+   "r": [
+    163,
+    338,
+    917,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "grano",
+   "r": [
+    224,
+    339,
+    446,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "grano",
+   "r": [
+    224,
+    339,
+    446,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "grano y",
+   "r": [
+    224,
+    339,
+    502,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "grano y sal",
+   "r": [
+    224,
+    339,
+    629,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "grano y sal justa.",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "grano y sal justa.",
+   "r": [
+    224,
+    339,
+    856,
+    427
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "La",
+   "r": [
+    169,
+    339,
+    258,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "La diferencia",
+   "r": [
+    169,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "La diferencia",
+   "r": [
+    169,
+    339,
+    659,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "La diferencia frente",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "La diferencia frente al",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "seco",
+   "r": [
+    195,
+    339,
+    371,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "seco viene",
+   "r": [
+    195,
+    338,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "seco viene",
+   "r": [
+    195,
+    338,
+    607,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "seco viene solo",
+   "r": [
+    195,
+    338,
+    779,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "seco viene solo de",
+   "r": [
+    195,
+    338,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "retener",
+   "r": [
+    199,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "retener más",
+   "r": [
+    199,
+    339,
+    658,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "retener más agua.",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "retener más agua.",
+   "r": [
+    199,
+    339,
+    881,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Revisamos",
+   "r": [
+    278,
+    349,
+    598,
+    418
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Revisamos",
+   "r": [
+    278,
+    349,
+    598,
+    418
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Revisamos",
+   "r": [
+    278,
+    349,
+    598,
+    418
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Revisamos tarros",
+   "r": [
+    278,
+    349,
+    802,
+    418
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Revisamos tarros populares",
+   "r": [
+    168,
+    349,
+    802,
+    484
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Revisamos tarros populares",
+   "r": [
+    168,
+    349,
+    802,
+    484
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Revisamos tarros populares de",
+   "r": [
+    168,
+    349,
+    802,
+    487
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Revisamos tarros populares de garbanzos,",
+   "r": [
+    168,
+    349,
+    912,
+    487
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Revisamos tarros populares de garbanzos,",
+   "r": [
+    168,
+    349,
+    912,
+    487
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Revisamos tarros populares de garbanzos,",
+   "r": [
+    168,
+    349,
+    912,
+    487
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "lentejas",
+   "r": [
+    206,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "lentejas",
+   "r": [
+    206,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "lentejas",
+   "r": [
+    206,
+    339,
+    507,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "lentejas y alubias.",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "lentejas y alubias.",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "lentejas y alubias.",
+   "r": [
+    206,
+    339,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Conservan",
+   "r": [
+    160,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Conservan",
+   "r": [
+    160,
+    339,
+    563,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Conservan casi",
+   "r": [
+    160,
+    339,
+    733,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Conservan casi",
+   "r": [
+    160,
+    339,
+    733,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Conservan casi seis",
+   "r": [
+    160,
+    338,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Conservan casi seis gramos",
+   "r": [
+    160,
+    338,
+    920,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "proteicos",
+   "r": [
+    201,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "proteicos",
+   "r": [
+    201,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "proteicos",
+   "r": [
+    201,
+    339,
+    562,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "proteicos por cien",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "proteicos por cien",
+   "r": [
+    201,
+    339,
+    879,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "proteicos por cien con",
+   "r": [
+    201,
+    339,
+    879,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "poca",
+   "r": [
+    283,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "poca",
+   "r": [
+    283,
+    339,
+    465,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "5,9",
+   "r": [
+    476,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "poca sal neta.",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "poca sal neta.",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Si",
+   "r": [
+    212,
+    339,
+    284,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Si prefieres",
+   "r": [
+    212,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Si prefieres",
+   "r": [
+    212,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Si prefieres bajar",
+   "r": [
+    212,
+    339,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Si prefieres bajar todavía",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Si prefieres bajar todavía",
+   "r": [
+    212,
+    339,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "más",
+   "r": [
+    311,
+    339,
+    467,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "más el sodio",
+   "r": [
+    311,
+    339,
+    769,
+    427
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "más el sodio",
+   "r": [
+    311,
+    339,
+    769,
+    427
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "más el sodio escurre",
+   "r": [
+    311,
+    339,
+    769,
+    510
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "más el sodio escurre",
+   "r": [
+    311,
+    339,
+    769,
+    510
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "más el sodio escurre",
+   "r": [
+    311,
+    339,
+    769,
+    510
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "bien",
+   "r": [
+    274,
+    339,
+    433,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "bien el líquido.",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "bien el líquido.",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Enjuagar",
+   "r": [
+    228,
+    339,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Enjuagar",
+   "r": [
+    228,
+    339,
+    566,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Enjuagar un rato",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Enjuagar un rato",
+   "r": [
+    228,
+    339,
+    852,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Enjuagar un rato bajo",
+   "r": [
+    228,
+    339,
+    852,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "el grifo",
+   "r": [
+    277,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "el grifo",
+   "r": [
+    277,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "el grifo limpia",
+   "r": [
+    277,
+    338,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "el grifo limpia",
+   "r": [
+    277,
+    338,
+    803,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "el grifo limpia espuma",
+   "r": [
+    277,
+    338,
+    803,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "sin",
+   "r": [
+    167,
+    339,
+    277,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "sin romper",
+   "r": [
+    167,
+    339,
+    572,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "sin romper",
+   "r": [
+    167,
+    339,
+    572,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "sin romper el grano.",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "sin romper el grano.",
+   "r": [
+    167,
+    339,
+    913,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "En",
+   "r": [
+    259,
+    339,
+    350,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "En un momento",
+   "r": [
+    259,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "En un momento",
+   "r": [
+    259,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "En un momento montas",
+   "r": [
+    259,
+    339,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "En un momento montas",
+   "r": [
+    259,
+    339,
+    821,
+    514
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "ensalada",
+   "r": [
+    191,
+    338,
+    554,
+    423
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "ensalada",
+   "r": [
+    191,
+    338,
+    554,
+    423
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "ensalada tibia",
+   "r": [
+    191,
+    338,
+    739,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "ensalada tibia con",
+   "r": [
+    191,
+    338,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "ensalada tibia con tomate,",
+   "r": [
+    191,
+    338,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "ensalada tibia con tomate,",
+   "r": [
+    191,
+    338,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "ensalada tibia con tomate,",
+   "r": [
+    191,
+    338,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "atún",
+   "r": [
+    294,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "atún",
+   "r": [
+    294,
+    339,
+    466,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "atún y huevo.",
+   "r": [
+    294,
+    339,
+    786,
+    427
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "Escurrir y lavar",
+   "r": [
+    536,
+    1438,
+    950,
+    1500
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "atún y huevo.",
+   "r": [
+    294,
+    339,
+    786,
+    427
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "atún y huevo.",
+   "r": [
+    294,
+    339,
+    786,
+    427
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Tener",
+   "r": [
+    191,
+    339,
+    408,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Tener tarros",
+   "r": [
+    191,
+    339,
+    667,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Tener tarros",
+   "r": [
+    191,
+    339,
+    667,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Tener tarros listos",
+   "r": [
+    191,
+    339,
+    889,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Tener tarros listos evita",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Tener tarros listos evita",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Tener tarros listos evita pedir",
+   "r": [
+    191,
+    339,
+    889,
+    514
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "comida",
+   "r": [
+    274,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "comida",
+   "r": [
+    274,
+    339,
+    544,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "comida rápida",
+   "r": [
+    274,
+    339,
+    806,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "comida rápida cansado",
+   "r": [
+    197,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "comida rápida cansado",
+   "r": [
+    197,
+    339,
+    806,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "comida rápida cansado de noche.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "comida rápida cansado de noche.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "comida rápida cansado de noche.",
+   "r": [
+    197,
+    339,
+    883,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    156,
+    339,
+    573,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo a alguien",
+   "r": [
+    156,
+    339,
+    924,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a alguien ocupado",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a alguien ocupado",
+   "r": [
+    156,
+    339,
+    924,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "que",
+   "r": [
+    310,
+    339,
+    449,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "que huye",
+   "r": [
+    310,
+    338,
+    664,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "que huye de legumbres",
+   "r": [
+    310,
+    338,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "que huye de legumbres",
+   "r": [
+    310,
+    338,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "que huye de legumbres",
+   "r": [
+    310,
+    338,
+    770,
+    514
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "por el",
+   "r": [
+    283,
+    339,
+    496,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "por el remojo.",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "por el remojo.",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "por el remojo.",
+   "r": [
+    283,
+    339,
+    797,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 700,
+  "texto": "Llegas sin tiempo de cocer legumbres y abres un tarro rápido. Mucha gente siente culpa pensando que el bote pierde nutrientes. En etiqueta española solo suelen añadir agua, grano y sal justa. La diferencia frente al seco viene solo de retener más agua. Revisamos tarros populares de garbanzos, lentejas y alubias. Conservan casi seis gramos proteicos por cien con poca sal neta. Si prefieres bajar todavía más el sodio escurre bien el líquido. Enjuagar un rato bajo el grifo limpia espuma sin romper el grano. En un momento montas ensalada tibia con tomate, atún y huevo. Tener tarros listos evita pedir comida rápida cansado de noche. Mándaselo a alguien ocupado que huye de legumbres por el remojo.",
+  "inicio_s": 0.0507,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Llegas sin tiempo de cocer legumbres y abres un tarro rápido.",
+    "t0": 0.021,
+    "t1": 3.136
+   },
+   {
+    "texto": "Mucha gente siente culpa pensando que el bote pierde nutrientes.",
+    "t0": 3.336,
+    "t1": 6.776
+   },
+   {
+    "texto": "En etiqueta española solo suelen añadir agua, grano y sal justa.",
+    "t0": 6.946,
+    "t1": 10.946
+   },
+   {
+    "texto": "La diferencia frente al seco viene solo de retener más agua.",
+    "t0": 11.131,
+    "t1": 14.251
+   },
+   {
+    "texto": "Revisamos tarros populares de garbanzos, lentejas y alubias.",
+    "t0": 14.486,
+    "t1": 17.926
+   },
+   {
+    "texto": "Conservan casi seis gramos proteicos por cien con poca sal neta.",
+    "t0": 18.071,
+    "t1": 21.751
+   },
+   {
+    "texto": "Si prefieres bajar todavía más el sodio escurre bien el líquido.",
+    "t0": 21.926,
+    "t1": 25.206
+   },
+   {
+    "texto": "Enjuagar un rato bajo el grifo limpia espuma sin romper el grano.",
+    "t0": 25.326,
+    "t1": 28.746
+   },
+   {
+    "texto": "En un momento montas ensalada tibia con tomate, atún y huevo.",
+    "t0": 28.916,
+    "t1": 32.476
+   },
+   {
+    "texto": "Tener tarros listos evita pedir comida rápida cansado de noche.",
+    "t0": 32.716,
+    "t1": 35.996
+   },
+   {
+    "texto": "Mándaselo a alguien ocupado que huye de legumbres por el remojo.",
+    "t0": 36.206,
+    "t1": 39.166
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 24.0,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 10,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 2,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.576,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.876,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.976,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.376,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 15.366,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 18.951,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 19.211,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.186,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 30.416,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.206,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yu_legumbres_bote_proteina_enjuague.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 12.5,
+   "render": 84.2,
+   "mezcla": 12.9
+  },
+  "escena_js": "tr"
+ }
+}

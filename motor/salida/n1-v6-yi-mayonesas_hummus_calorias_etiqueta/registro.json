@@ -1,0 +1,2464 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.1,
+ "tamano_mb": 10.63,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 69.7,
+ "fotogramas": 1201,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Preparas",
+   "r": [
+    185,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Preparas",
+   "r": [
+    185,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Preparas",
+   "r": [
+    185,
+    339,
+    538,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Preparas ensalada",
+   "r": [
+    185,
+    339,
+    895,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Preparas ensalada fresca",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Preparas ensalada fresca",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Preparas ensalada fresca de patata",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Preparas ensalada fresca de patata",
+   "r": [
+    185,
+    339,
+    895,
+    514
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "y",
+   "r": [
+    248,
+    339,
+    290,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "y añades",
+   "r": [
+    248,
+    339,
+    578,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "y añades",
+   "r": [
+    248,
+    339,
+    578,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "y añades varias",
+   "r": [
+    248,
+    339,
+    832,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "y añades varias cucharadas.",
+   "r": [
+    248,
+    339,
+    832,
+    510
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "y añades varias cucharadas.",
+   "r": [
+    248,
+    339,
+    832,
+    510
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "y añades varias cucharadas.",
+   "r": [
+    248,
+    339,
+    832,
+    510
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "y añades varias cucharadas.",
+   "r": [
+    248,
+    339,
+    832,
+    510
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    60,
+    1081,
+    497,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "La mayonesa",
+   "r": [
+    157,
+    339,
+    641,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "La mayonesa",
+   "r": [
+    157,
+    339,
+    641,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "La mayonesa clásica",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "La mayonesa clásica",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "La mayonesa clásica lleva",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    513,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "La mayonesa clásica lleva",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    60,
+    1081,
+    497,
+    1143
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "La mayonesa clásica lleva aceite",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Salsa ensaladilla",
+   "r": [
+    60,
+    1081,
+    497,
+    1143
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "emulsionado",
+   "r": [
+    183,
+    338,
+    680,
+    423
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "emulsionado",
+   "r": [
+    183,
+    338,
+    680,
+    423
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "emulsionado",
+   "r": [
+    183,
+    338,
+    680,
+    423
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "emulsionado como",
+   "r": [
+    183,
+    338,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "emulsionado como base",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "emulsionado como base entera.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "emulsionado como base entera.",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "Al",
+   "r": [
+    227,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Al",
+   "r": [
+    227,
+    339,
+    302,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Al verse",
+   "r": [
+    227,
+    339,
+    531,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Al verse blanca",
+   "r": [
+    227,
+    339,
+    796,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Al verse blanca y",
+   "r": [
+    227,
+    339,
+    853,
+    427
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "fría",
+   "r": [
+    236,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "fría",
+   "r": [
+    236,
+    339,
+    374,
+    427
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "fría pasa",
+   "r": [
+    236,
+    339,
+    572,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "fría pasa oculta",
+   "r": [
+    236,
+    338,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "fría pasa oculta",
+   "r": [
+    236,
+    338,
+    844,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "fría pasa oculta frente",
+   "r": [
+    236,
+    338,
+    844,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    877,
+    950,
+    939
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "a",
+   "r": [
+    227,
+    339,
+    274,
+    427
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    883,
+    950,
+    945
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "a cualquier",
+   "r": [
+    227,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    894,
+    950,
+    956
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "a cualquier",
+   "r": [
+    227,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    904,
+    950,
+    966
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "a cualquier frito.",
+   "r": [
+    227,
+    339,
+    853,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    915,
+    950,
+    977
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "a cualquier frito.",
+   "r": [
+    227,
+    339,
+    853,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    925,
+    950,
+    987
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Revisamos",
+   "r": [
+    167,
+    344,
+    529,
+    422
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    932,
+    950,
+    994
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Revisamos",
+   "r": [
+    167,
+    344,
+    529,
+    422
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Casi aceite",
+   "r": [
+    652,
+    939,
+    950,
+    1001
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "Revisamos tarros",
+   "r": [
+    167,
+    344,
+    761,
+    422
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "Revisamos tarros",
+   "r": [
+    167,
+    344,
+    761,
+    422
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Revisamos tarros muy",
+   "r": [
+    167,
+    344,
+    913,
+    422
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Revisamos tarros muy vendidos",
+   "r": [
+    167,
+    344,
+    913,
+    501
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Revisamos tarros muy vendidos",
+   "r": [
+    167,
+    344,
+    913,
+    501
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Revisamos tarros muy vendidos mirando",
+   "r": [
+    167,
+    344,
+    913,
+    501
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Revisamos tarros muy vendidos mirando",
+   "r": [
+    167,
+    344,
+    913,
+    501
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "su",
+   "r": [
+    177,
+    339,
+    267,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "su etiqueta",
+   "r": [
+    177,
+    339,
+    598,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "su etiqueta trasera",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "su etiqueta trasera",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "su etiqueta trasera",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "su etiqueta trasera real.",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "Las",
+   "r": [
+    282,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "Las",
+   "r": [
+    282,
+    339,
+    413,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "Las versiones",
+   "r": [
+    282,
+    339,
+    798,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Las versiones clásicas",
+   "r": [
+    163,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Las versiones clásicas",
+   "r": [
+    163,
+    339,
+    798,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Las versiones clásicas concentran",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Las versiones clásicas concentran",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Las versiones clásicas concentran",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Las versiones clásicas concentran",
+   "r": [
+    163,
+    339,
+    917,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "energía",
+   "r": [
+    159,
+    338,
+    473,
+    423
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "energía enorme",
+   "r": [
+    159,
+    338,
+    775,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "energía enorme",
+   "r": [
+    159,
+    338,
+    775,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "energía enorme por",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "energía enorme por cucharón.",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "energía enorme por cucharón.",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "energía enorme por cucharón.",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "Una",
+   "r": [
+    335,
+    339,
+    480,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "Una receta",
+   "r": [
+    335,
+    339,
+    745,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "Una receta",
+   "r": [
+    335,
+    339,
+    745,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "Una receta comercial",
+   "r": [
+    224,
+    339,
+    745,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "Una receta comercial",
+   "r": [
+    224,
+    339,
+    745,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "Una receta comercial llega",
+   "r": [
+    224,
+    339,
+    794,
+    514
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "Una receta comercial llega a",
+   "r": [
+    224,
+    339,
+    856,
+    514
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "seiscientas",
+   "r": [
+    159,
+    338,
+    607,
+    423
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "seiscientas",
+   "r": [
+    159,
+    338,
+    607,
+    423
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "seiscientas",
+   "r": [
+    159,
+    338,
+    607,
+    423
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "seiscientas sesenta",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "seiscientas sesenta",
+   "r": [
+    159,
+    338,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "seiscientas sesenta por",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "seiscientas sesenta por cien",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "seiscientas sesenta por cien mililitros.",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "seiscientas sesenta por cien mililitros.",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "seiscientas sesenta por cien mililitros.",
+   "r": [
+    159,
+    338,
+    921,
+    514
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "660",
+   "r": [
+    545,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "Opciones",
+   "r": [
+    278,
+    347,
+    568,
+    420
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "660",
+   "r": [
+    96,
+    632,
+    502,
+    732
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "Opciones",
+   "r": [
+    278,
+    347,
+    568,
+    420
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "660",
+   "r": [
+    105,
+    648,
+    511,
+    748
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "Opciones ligeras",
+   "r": [
+    278,
+    347,
+    802,
+    420
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Opciones ligeras",
+   "r": [
+    278,
+    347,
+    802,
+    420
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Opciones ligeras",
+   "r": [
+    278,
+    347,
+    802,
+    420
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Opciones ligeras recortan",
+   "r": [
+    151,
+    347,
+    802,
+    491
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Opciones ligeras recortan",
+   "r": [
+    151,
+    347,
+    802,
+    491
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Opciones ligeras recortan aceite",
+   "r": [
+    151,
+    347,
+    802,
+    494
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Opciones ligeras recortan aceite bajando",
+   "r": [
+    151,
+    347,
+    929,
+    494
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Opciones ligeras recortan aceite bajando",
+   "r": [
+    151,
+    347,
+    929,
+    494
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "a",
+   "r": [
+    166,
+    339,
+    213,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "a menos",
+   "r": [
+    166,
+    339,
+    474,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "a menos de la",
+   "r": [
+    166,
+    339,
+    665,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "a menos de la mitad.",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "a menos de la mitad.",
+   "r": [
+    166,
+    339,
+    914,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "Un",
+   "r": [
+    212,
+    339,
+    309,
+    427
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "Un aliño",
+   "r": [
+    212,
+    338,
+    528,
+    427
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "Un aliño de yogur",
+   "r": [
+    212,
+    338,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "Un aliño de yogur",
+   "r": [
+    212,
+    338,
+    868,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "Un aliño de yogur natural,",
+   "r": [
+    212,
+    338,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "Un aliño de yogur natural,",
+   "r": [
+    212,
+    338,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Un aliño de yogur natural,",
+   "r": [
+    212,
+    338,
+    868,
+    514
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "limón",
+   "r": [
+    244,
+    339,
+    447,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "limón y",
+   "r": [
+    244,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "limón y mostaza",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "limón y mostaza",
+   "r": [
+    244,
+    339,
+    836,
+    427
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "corta",
+   "r": [
+    177,
+    339,
+    383,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "corta",
+   "r": [
+    177,
+    339,
+    383,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "corta",
+   "r": [
+    177,
+    339,
+    383,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "corta mucho",
+   "r": [
+    177,
+    339,
+    647,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "corta mucho carga.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "corta mucho carga.",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "Usar",
+   "r": [
+    222,
+    339,
+    402,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "Usar hummus",
+   "r": [
+    222,
+    338,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "Usar hummus",
+   "r": [
+    222,
+    338,
+    752,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "Usar hummus en bocadillos",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Usar hummus en bocadillos",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Usar hummus en bocadillos",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Usar hummus en bocadillos suma",
+   "r": [
+    222,
+    338,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "crema",
+   "r": [
+    272,
+    339,
+    512,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "crema",
+   "r": [
+    272,
+    339,
+    512,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "crema suave",
+   "r": [
+    272,
+    339,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "crema suave",
+   "r": [
+    272,
+    339,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "crema suave y proteína",
+   "r": [
+    222,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "crema suave y proteína",
+   "r": [
+    222,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "crema suave y proteína",
+   "r": [
+    222,
+    339,
+    808,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "crema suave y proteína vegetal.",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "crema suave y proteína vegetal.",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Medir",
+   "r": [
+    182,
+    339,
+    410,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Medir salsas",
+   "r": [
+    182,
+    338,
+    689,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Medir salsas",
+   "r": [
+    182,
+    338,
+    689,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Medir salsas",
+   "r": [
+    182,
+    338,
+    689,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Medir salsas es de",
+   "r": [
+    182,
+    338,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "los",
+   "r": [
+    253,
+    339,
+    363,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "los ajustes",
+   "r": [
+    253,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "los ajustes",
+   "r": [
+    253,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "los ajustes más",
+   "r": [
+    253,
+    339,
+    827,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "los ajustes más fáciles",
+   "r": [
+    253,
+    339,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "los ajustes más fáciles",
+   "r": [
+    253,
+    339,
+    827,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "sin pasar",
+   "r": [
+    205,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "sin pasar",
+   "r": [
+    205,
+    339,
+    551,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "sin pasar hambre.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo a quien cree",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "hacer",
+   "r": [
+    147,
+    339,
+    366,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "hacer dieta",
+   "r": [
+    147,
+    338,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "hacer dieta",
+   "r": [
+    147,
+    338,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "hacer dieta bañando",
+   "r": [
+    147,
+    338,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "hacer dieta bañando",
+   "r": [
+    147,
+    338,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "lechuga",
+   "r": [
+    221,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "lechuga",
+   "r": [
+    221,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "lechuga en",
+   "r": [
+    221,
+    339,
+    622,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "lechuga en salsa.",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "lechuga en salsa.",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "lechuga en salsa.",
+   "r": [
+    221,
+    339,
+    859,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.2,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 695,
+  "texto": "Preparas ensalada fresca de patata y añades varias cucharadas. La mayonesa clásica lleva aceite emulsionado como base entera. Al verse blanca y fría pasa oculta frente a cualquier frito. Revisamos tarros muy vendidos mirando su etiqueta trasera real. Las versiones clásicas concentran energía enorme por cucharón. Una receta comercial llega a seiscientas sesenta por cien mililitros. Opciones ligeras recortan aceite bajando a menos de la mitad. Un aliño de yogur natural, limón y mostaza corta mucho carga. Usar hummus en bocadillos suma crema suave y proteína vegetal. Medir salsas es de los ajustes más fáciles sin pasar hambre. Mándaselo a quien cree hacer dieta bañando la lechuga en salsa.",
+  "inicio_s": 0.0505,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Preparas ensalada fresca de patata y añades varias cucharadas.",
+    "t0": 0.021,
+    "t1": 3.371
+   },
+   {
+    "texto": "La mayonesa clásica lleva aceite emulsionado como base entera.",
+    "t0": 3.591,
+    "t1": 6.791
+   },
+   {
+    "texto": "Al verse blanca y fría pasa oculta frente a cualquier frito.",
+    "t0": 6.986,
+    "t1": 10.381
+   },
+   {
+    "texto": "Revisamos tarros muy vendidos mirando su etiqueta trasera real.",
+    "t0": 10.626,
+    "t1": 14.066
+   },
+   {
+    "texto": "Las versiones clásicas concentran energía enorme por cucharón.",
+    "t0": 14.251,
+    "t1": 17.721
+   },
+   {
+    "texto": "Una receta comercial llega a seiscientas sesenta por cien mililitros.",
+    "t0": 17.916,
+    "t1": 21.676
+   },
+   {
+    "texto": "Opciones ligeras recortan aceite bajando a menos de la mitad.",
+    "t0": 21.856,
+    "t1": 25.136
+   },
+   {
+    "texto": "Un aliño de yogur natural, limón y mostaza corta mucho carga.",
+    "t0": 25.296,
+    "t1": 29.136
+   },
+   {
+    "texto": "Usar hummus en bocadillos suma crema suave y proteína vegetal.",
+    "t0": 29.346,
+    "t1": 32.866
+   },
+   {
+    "texto": "Medir salsas es de los ajustes más fáciles sin pasar hambre.",
+    "t0": 33.061,
+    "t1": 36.181
+   },
+   {
+    "texto": "Mándaselo a quien cree hacer dieta bañando la lechuga en salsa.",
+    "t0": 36.406,
+    "t1": 39.606
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.491,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 3.471,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.631,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 5.271,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 11.786,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.121,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.476,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.176,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 26.176,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 29.926,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 36.406,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yi_mayonesas_hummus_calorias_etiqueta.json",
+  "paleta": "oliva",
+  "decorado": "B",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bol",
+      "colores": [
+       "#D9B97A"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D4AC0D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D4AC0D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D4AC0D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#F5EEF8",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "cubo_azucar",
+      "colores": [
+       "#EBE3D3"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.4,
+   "render": 87.3,
+   "mezcla": 14.4
+  },
+  "escena_js": "tr"
+ }
+}

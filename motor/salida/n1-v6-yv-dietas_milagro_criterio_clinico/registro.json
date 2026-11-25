@@ -1,0 +1,2544 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 41.9,
+ "tamano_mb": 11.03,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 74.0,
+ "fotogramas": 1255,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Abres",
+   "r": [
+    147,
+    339,
+    372,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Abres",
+   "r": [
+    147,
+    339,
+    372,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Abres el móvil",
+   "r": [
+    147,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Abres el móvil",
+   "r": [
+    147,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Abres el móvil viendo",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Abres el móvil viendo",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Abres el móvil viendo otro",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "método",
+   "r": [
+    163,
+    340,
+    449,
+    421
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "método prometiendo",
+   "r": [
+    163,
+    340,
+    917,
+    425
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "método prometiendo",
+   "r": [
+    163,
+    340,
+    917,
+    425
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "método prometiendo",
+   "r": [
+    163,
+    340,
+    917,
+    425
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "método prometiendo cambiar",
+   "r": [
+    163,
+    340,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "método prometiendo cambiar",
+   "r": [
+    163,
+    340,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "método prometiendo cambiar en semanas.",
+   "r": [
+    163,
+    340,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "método prometiendo cambiar en semanas.",
+   "r": [
+    163,
+    340,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "método prometiendo cambiar en semanas.",
+   "r": [
+    163,
+    340,
+    917,
+    507
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "Promesa rápida",
+   "r": [
+    60,
+    1081,
+    427,
+    1143
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Casi",
+   "r": [
+    169,
+    339,
+    333,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Casi",
+   "r": [
+    169,
+    339,
+    333,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Casi todos",
+   "r": [
+    169,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Casi todos prohíben",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "Casi todos prohíben",
+   "r": [
+    169,
+    339,
+    911,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "Casi todos prohíben comida",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "Casi todos prohíben comida",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "Casi todos prohíben comida diaria",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "Casi todos prohíben comida diaria",
+   "r": [
+    169,
+    339,
+    911,
+    514
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "y",
+   "r": [
+    234,
+    339,
+    275,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "y exigen",
+   "r": [
+    234,
+    339,
+    537,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "y exigen rutinas",
+   "r": [
+    234,
+    338,
+    846,
+    427
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "y exigen rutinas",
+   "r": [
+    234,
+    338,
+    846,
+    427
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "y exigen rutinas imposibles.",
+   "r": [
+    234,
+    338,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "y exigen rutinas imposibles.",
+   "r": [
+    234,
+    338,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "y exigen rutinas imposibles.",
+   "r": [
+    234,
+    338,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "y exigen rutinas imposibles.",
+   "r": [
+    234,
+    338,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "y exigen rutinas imposibles.",
+   "r": [
+    234,
+    338,
+    846,
+    514
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Las agencias",
+   "r": [
+    301,
+    340,
+    779,
+    425
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Las agencias",
+   "r": [
+    301,
+    340,
+    779,
+    425
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Las agencias sanitarias",
+   "r": [
+    151,
+    340,
+    779,
+    507
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    617,
+    950,
+    679
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Las agencias sanitarias",
+   "r": [
+    151,
+    340,
+    779,
+    507
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    629,
+    950,
+    691
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Las agencias sanitarias",
+   "r": [
+    151,
+    340,
+    779,
+    507
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    636,
+    950,
+    698
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Las agencias sanitarias llevan",
+   "r": [
+    151,
+    340,
+    779,
+    507
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    643,
+    950,
+    705
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Las agencias sanitarias llevan años",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    649,
+    950,
+    711
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Las agencias sanitarias llevan años",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    656,
+    950,
+    718
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "avisando",
+   "r": [
+    157,
+    339,
+    495,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    663,
+    950,
+    725
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "avisando",
+   "r": [
+    157,
+    339,
+    495,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Señal alarma",
+   "r": [
+    629,
+    670,
+    950,
+    732
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "avisando justo",
+   "r": [
+    157,
+    339,
+    700,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "avisando justo",
+   "r": [
+    157,
+    339,
+    700,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "avisando justo estas",
+   "r": [
+    157,
+    339,
+    923,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "avisando justo estas pistas.",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "avisando justo estas pistas.",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "avisando justo estas pistas.",
+   "r": [
+    157,
+    339,
+    923,
+    514
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "Desconfía",
+   "r": [
+    173,
+    339,
+    550,
+    427
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "Desconfía",
+   "r": [
+    173,
+    339,
+    550,
+    427
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "Desconfía de",
+   "r": [
+    173,
+    339,
+    657,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "Desconfía de dietas",
+   "r": [
+    173,
+    339,
+    907,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "Desconfía de dietas cerradas",
+   "r": [
+    173,
+    339,
+    907,
+    510
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "Desconfía de dietas cerradas",
+   "r": [
+    173,
+    339,
+    907,
+    510
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "Desconfía de dietas cerradas iguales",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "Desconfía de dietas cerradas iguales",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "Desconfía de dietas cerradas iguales",
+   "r": [
+    173,
+    339,
+    907,
+    514
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "sin",
+   "r": [
+    147,
+    339,
+    257,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "sin preguntarte",
+   "r": [
+    147,
+    339,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "sin preguntarte",
+   "r": [
+    147,
+    339,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "sin preguntarte",
+   "r": [
+    147,
+    339,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "sin preguntarte nada",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "sin preguntarte nada",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "sin preguntarte nada antes.",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Cuando",
+   "r": [
+    189,
+    339,
+    473,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Cuando",
+   "r": [
+    189,
+    339,
+    473,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Cuando algo",
+   "r": [
+    189,
+    339,
+    648,
+    427
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Cuando algo suena",
+   "r": [
+    189,
+    339,
+    891,
+    427
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Cuando algo suena mágico",
+   "r": [
+    189,
+    339,
+    891,
+    510
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "Cuando algo suena mágico",
+   "r": [
+    189,
+    339,
+    891,
+    510
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "Cuando algo suena mágico",
+   "r": [
+    189,
+    339,
+    891,
+    510
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "Cuando algo suena mágico suele",
+   "r": [
+    189,
+    339,
+    891,
+    514
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "esconder",
+   "r": [
+    230,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "esconder",
+   "r": [
+    230,
+    339,
+    582,
+    427
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "esconder rebote",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "esconder rebote",
+   "r": [
+    230,
+    339,
+    850,
+    427
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "esconder rebote rápido",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "esconder rebote rápido al",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "esconder rebote rápido al volver.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "esconder rebote rápido al volver.",
+   "r": [
+    230,
+    339,
+    850,
+    514
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "En",
+   "r": [
+    153,
+    339,
+    244,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "En España",
+   "r": [
+    153,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "En España",
+   "r": [
+    153,
+    339,
+    532,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "En España noventa",
+   "r": [
+    153,
+    338,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "En España noventa",
+   "r": [
+    153,
+    338,
+    870,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "En España noventa y",
+   "r": [
+    153,
+    338,
+    927,
+    427
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "cinco",
+   "r": [
+    155,
+    339,
+    355,
+    427
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "cinco por",
+   "r": [
+    155,
+    339,
+    501,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "cinco por cien",
+   "r": [
+    155,
+    339,
+    672,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "cinco por cien confía",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "cinco por cien confía",
+   "r": [
+    155,
+    339,
+    925,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "en criterio",
+   "r": [
+    154,
+    339,
+    547,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "en criterio",
+   "r": [
+    154,
+    339,
+    547,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "en criterio sanitario.",
+   "r": [
+    154,
+    339,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "95 %",
+   "r": [
+    444,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "en criterio sanitario.",
+   "r": [
+    154,
+    339,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "en criterio sanitario.",
+   "r": [
+    154,
+    339,
+    926,
+    427
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Cambiar",
+   "r": [
+    147,
+    342,
+    448,
+    425
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Cambiar hábitos",
+   "r": [
+    147,
+    342,
+    728,
+    425
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Cambiar hábitos",
+   "r": [
+    147,
+    342,
+    728,
+    425
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Cambiar hábitos",
+   "r": [
+    147,
+    342,
+    728,
+    425
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Cambiar hábitos exige",
+   "r": [
+    147,
+    342,
+    933,
+    425
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Cambiar hábitos exige ajustar",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "Cambiar hábitos exige ajustar",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "Cambiar hábitos exige ajustar horarios,",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "Cambiar hábitos exige ajustar horarios,",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "Cambiar hábitos exige ajustar horarios,",
+   "r": [
+    147,
+    342,
+    933,
+    507
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "presupuesto",
+   "r": [
+    263,
+    338,
+    761,
+    423
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "presupuesto",
+   "r": [
+    263,
+    338,
+    761,
+    423
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "presupuesto",
+   "r": [
+    263,
+    338,
+    761,
+    423
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "presupuesto y",
+   "r": [
+    263,
+    338,
+    817,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "presupuesto y gustos.",
+   "r": [
+    263,
+    338,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "presupuesto y gustos.",
+   "r": [
+    263,
+    338,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "presupuesto y gustos.",
+   "r": [
+    263,
+    338,
+    817,
+    514
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Nunca",
+   "r": [
+    203,
+    339,
+    439,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Nunca",
+   "r": [
+    203,
+    339,
+    439,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Nunca consiste",
+   "r": [
+    203,
+    339,
+    772,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Nunca consiste en",
+   "r": [
+    203,
+    339,
+    877,
+    427
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Nunca consiste en sufrir",
+   "r": [
+    203,
+    339,
+    877,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "con",
+   "r": [
+    183,
+    339,
+    318,
+    427
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "con pechuga",
+   "r": [
+    183,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "con pechuga",
+   "r": [
+    183,
+    339,
+    652,
+    427
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "con pechuga triste",
+   "r": [
+    183,
+    338,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "con pechuga triste",
+   "r": [
+    183,
+    338,
+    897,
+    427
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "con pechuga triste ni",
+   "r": [
+    183,
+    338,
+    897,
+    514
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "pesar",
+   "r": [
+    202,
+    339,
+    421,
+    427
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "pesar cada",
+   "r": [
+    202,
+    339,
+    619,
+    427
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "pesar cada grano.",
+   "r": [
+    202,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "pesar cada grano.",
+   "r": [
+    202,
+    339,
+    878,
+    427
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "Un",
+   "r": [
+    304,
+    339,
+    401,
+    427
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Un buen plan",
+   "r": [
+    304,
+    339,
+    776,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Un buen plan",
+   "r": [
+    304,
+    339,
+    776,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "respeta",
+   "r": [
+    218,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "respeta",
+   "r": [
+    218,
+    339,
+    513,
+    427
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "respeta comidas",
+   "r": [
+    218,
+    338,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "respeta comidas",
+   "r": [
+    218,
+    338,
+    862,
+    427
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "respeta comidas familiares,",
+   "r": [
+    218,
+    338,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "respeta comidas familiares,",
+   "r": [
+    218,
+    338,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "respeta comidas familiares,",
+   "r": [
+    218,
+    338,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "respeta comidas familiares,",
+   "r": [
+    218,
+    338,
+    862,
+    514
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "entorno",
+   "r": [
+    159,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "entorno",
+   "r": [
+    159,
+    339,
+    457,
+    427
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "entorno y",
+   "r": [
+    159,
+    339,
+    514,
+    427
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "entorno y analíticas.",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "entorno y analíticas.",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "entorno y analíticas.",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "entorno y analíticas.",
+   "r": [
+    159,
+    339,
+    921,
+    427
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Cuidarte",
+   "r": [
+    226,
+    339,
+    555,
+    427
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "Cuidarte",
+   "r": [
+    226,
+    339,
+    555,
+    427
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "Cuidarte merece",
+   "r": [
+    226,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "Cuidarte merece",
+   "r": [
+    226,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "Cuidarte merece respaldo",
+   "r": [
+    226,
+    339,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "Cuidarte merece respaldo",
+   "r": [
+    226,
+    339,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "Cuidarte merece respaldo serio",
+   "r": [
+    226,
+    339,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "Cuidarte merece respaldo serio",
+   "r": [
+    226,
+    339,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "libre",
+   "r": [
+    273,
+    339,
+    449,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "libre",
+   "r": [
+    273,
+    339,
+    449,
+    427
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "libre de atajos",
+   "r": [
+    273,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "libre de atajos",
+   "r": [
+    273,
+    339,
+    807,
+    427
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "libre de atajos comerciales.",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "libre de atajos comerciales.",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "libre de atajos comerciales.",
+   "r": [
+    273,
+    339,
+    807,
+    514
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo",
+   "r": [
+    226,
+    339,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "Mándaselo",
+   "r": [
+    226,
+    339,
+    642,
+    427
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "Mándaselo a",
+   "r": [
+    226,
+    339,
+    705,
+    427
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "Mándaselo a esa",
+   "r": [
+    226,
+    339,
+    854,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "Mándaselo a esa persona",
+   "r": [
+    226,
+    339,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "Mándaselo a esa persona",
+   "r": [
+    226,
+    339,
+    854,
+    514
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "que busca",
+   "r": [
+    180,
+    339,
+    560,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "que busca empezar",
+   "r": [
+    180,
+    339,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "que busca empezar",
+   "r": [
+    180,
+    339,
+    900,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "que busca empezar con",
+   "r": [
+    180,
+    339,
+    900,
+    514
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "calma",
+   "r": [
+    206,
+    338,
+    451,
+    423
+   ]
+  },
+  {
+   "t": 40.6,
+   "texto": "calma",
+   "r": [
+    206,
+    338,
+    451,
+    423
+   ]
+  },
+  {
+   "t": 40.83,
+   "texto": "calma de",
+   "r": [
+    206,
+    338,
+    558,
+    427
+   ]
+  },
+  {
+   "t": 41.07,
+   "texto": "calma de una",
+   "r": [
+    206,
+    338,
+    713,
+    427
+   ]
+  },
+  {
+   "t": 41.3,
+   "texto": "calma de una vez.",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 41.53,
+   "texto": "calma de una vez.",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  },
+  {
+   "t": 41.77,
+   "texto": "calma de una vez.",
+   "r": [
+    206,
+    338,
+    874,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 702,
+  "texto": "Abres el móvil viendo otro método prometiendo cambiar en semanas. Casi todos prohíben comida diaria y exigen rutinas imposibles. Las agencias sanitarias llevan años avisando justo estas pistas. Desconfía de dietas cerradas iguales sin preguntarte nada antes. Cuando algo suena mágico suele esconder rebote rápido al volver. En España noventa y cinco por cien confía en criterio sanitario. Cambiar hábitos exige ajustar horarios, presupuesto y gustos. Nunca consiste en sufrir con pechuga triste ni pesar cada grano. Un buen plan respeta comidas familiares, entorno y analíticas. Cuidarte merece respaldo serio libre de atajos comerciales. Mándaselo a esa persona que busca empezar con calma de una vez.",
+  "inicio_s": 0.0479,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Abres el móvil viendo otro método prometiendo cambiar en semanas.",
+    "t0": 0.021,
+    "t1": 3.526
+   },
+   {
+    "texto": "Casi todos prohíben comida diaria y exigen rutinas imposibles.",
+    "t0": 3.741,
+    "t1": 7.581
+   },
+   {
+    "texto": "Las agencias sanitarias llevan años avisando justo estas pistas.",
+    "t0": 7.741,
+    "t1": 11.241
+   },
+   {
+    "texto": "Desconfía de dietas cerradas iguales sin preguntarte nada antes.",
+    "t0": 11.536,
+    "t1": 15.216
+   },
+   {
+    "texto": "Cuando algo suena mágico suele esconder rebote rápido al volver.",
+    "t0": 15.401,
+    "t1": 18.921
+   },
+   {
+    "texto": "En España noventa y cinco por cien confía en criterio sanitario.",
+    "t0": 19.091,
+    "t1": 22.571
+   },
+   {
+    "texto": "Cambiar hábitos exige ajustar horarios, presupuesto y gustos.",
+    "t0": 22.756,
+    "t1": 26.436
+   },
+   {
+    "texto": "Nunca consiste en sufrir con pechuga triste ni pesar cada grano.",
+    "t0": 26.721,
+    "t1": 30.081
+   },
+   {
+    "texto": "Un buen plan respeta comidas familiares, entorno y analíticas.",
+    "t0": 30.296,
+    "t1": 34.096
+   },
+   {
+    "texto": "Cuidarte merece respaldo serio libre de atajos comerciales.",
+    "t0": 34.353,
+    "t1": 37.74
+   },
+   {
+    "texto": "Mándaselo a esa persona que busca empezar con calma de una vez.",
+    "t0": 37.948,
+    "t1": 41.428
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.5,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.486,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.866,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.381,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 6.301,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 12.616,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.241,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 19.771,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.271,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.601,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 31.796,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.948,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yv_dietas_milagro_criterio_clinico.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#FFFFFF"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "monitor_curva",
+      "colores": [
+       "#E06D3B"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "cuerpo",
+      "colores": [
+       "#D9A88A"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "envase",
+      "colores": [
+       "#D94B3D",
+       "#F2EFE6"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#3F423B"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "envase",
+      "colores": [
+       "#C84B31",
+       "#F2EFE6"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "bascula",
+      "colores": [
+       "#B8BEC4"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 12.9,
+   "render": 96.3,
+   "mezcla": 13.7
+  },
+  "escena_js": "tr"
+ }
+}

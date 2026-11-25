@@ -1,0 +1,2543 @@
+{
+ "codec": "h264",
+ "ancho": 1080,
+ "alto": 1920,
+ "fps": 30.0,
+ "pixel": "yuv420p",
+ "audio_codec": "aac",
+ "audio_hz": 48000,
+ "duracion_s": 40.5,
+ "tamano_mb": 10.31,
+ "listas_de_edicion": [],
+ "moov_antes_de_mdat": true,
+ "lufs": -16.0,
+ "pico_dbtp": -1.6,
+ "tiene_audio": true,
+ "audio_en_silencio": false,
+ "renderizador": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F91) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+ "ms_por_fotograma": 75.1,
+ "fotogramas": 1213,
+ "aviso_gpu": null,
+ "textos_vistos": [
+  {
+   "t": 0.0,
+   "texto": "Oyes",
+   "r": [
+    188,
+    339,
+    372,
+    427
+   ]
+  },
+  {
+   "t": 0.23,
+   "texto": "Oyes",
+   "r": [
+    188,
+    339,
+    372,
+    427
+   ]
+  },
+  {
+   "t": 0.47,
+   "texto": "Oyes tanta",
+   "r": [
+    188,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 0.7,
+   "texto": "Oyes tanta",
+   "r": [
+    188,
+    339,
+    589,
+    427
+   ]
+  },
+  {
+   "t": 0.93,
+   "texto": "Oyes tanta alarma",
+   "r": [
+    188,
+    338,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 1.17,
+   "texto": "Oyes tanta alarma",
+   "r": [
+    188,
+    338,
+    892,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "el",
+   "r": [
+    148,
+    339,
+    215,
+    427
+   ]
+  },
+  {
+   "t": 1.4,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "el azúcar",
+   "r": [
+    148,
+    339,
+    491,
+    427
+   ]
+  },
+  {
+   "t": 1.63,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "el azúcar",
+   "r": [
+    148,
+    339,
+    491,
+    427
+   ]
+  },
+  {
+   "t": 1.87,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "el azúcar que acabas",
+   "r": [
+    148,
+    339,
+    932,
+    427
+   ]
+  },
+  {
+   "t": 2.1,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "el azúcar que acabas",
+   "r": [
+    148,
+    339,
+    932,
+    427
+   ]
+  },
+  {
+   "t": 2.33,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "quitando",
+   "r": [
+    216,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 2.57,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "quitando",
+   "r": [
+    216,
+    339,
+    548,
+    427
+   ]
+  },
+  {
+   "t": 2.8,
+   "texto": "Mito cena fruta",
+   "r": [
+    60,
+    1081,
+    450,
+    1143
+   ]
+  },
+  {
+   "t": 3.03,
+   "texto": "quitando la",
+   "r": [
+    216,
+    339,
+    632,
+    427
+   ]
+  },
+  {
+   "t": 3.27,
+   "texto": "quitando la fruta.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 3.5,
+   "texto": "quitando la fruta.",
+   "r": [
+    216,
+    339,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 3.73,
+   "texto": "Mucha",
+   "r": [
+    196,
+    339,
+    454,
+    427
+   ]
+  },
+  {
+   "t": 3.97,
+   "texto": "Mucha gente",
+   "r": [
+    196,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 4.2,
+   "texto": "Mucha gente mete",
+   "r": [
+    196,
+    339,
+    884,
+    427
+   ]
+  },
+  {
+   "t": 4.43,
+   "texto": "Mucha gente mete un",
+   "r": [
+    196,
+    339,
+    884,
+    514
+   ]
+  },
+  {
+   "t": 4.67,
+   "texto": "plátano",
+   "r": [
+    160,
+    339,
+    445,
+    427
+   ]
+  },
+  {
+   "t": 4.9,
+   "texto": "plátano entero",
+   "r": [
+    160,
+    338,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 5.13,
+   "texto": "plátano entero",
+   "r": [
+    160,
+    338,
+    732,
+    427
+   ]
+  },
+  {
+   "t": 5.37,
+   "texto": "plátano entero en el",
+   "r": [
+    160,
+    338,
+    920,
+    427
+   ]
+  },
+  {
+   "t": 5.6,
+   "texto": "mismo",
+   "r": [
+    244,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 5.83,
+   "texto": "mismo",
+   "r": [
+    244,
+    339,
+    488,
+    427
+   ]
+  },
+  {
+   "t": 6.07,
+   "texto": "mismo saco",
+   "r": [
+    244,
+    339,
+    681,
+    427
+   ]
+  },
+  {
+   "t": 6.3,
+   "texto": "mismo saco que galletas.",
+   "r": [
+    244,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 6.53,
+   "texto": "mismo saco que galletas.",
+   "r": [
+    244,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 6.77,
+   "texto": "mismo saco que galletas.",
+   "r": [
+    244,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 7.0,
+   "texto": "mismo saco que galletas.",
+   "r": [
+    244,
+    339,
+    836,
+    514
+   ]
+  },
+  {
+   "t": 7.23,
+   "texto": "Sus",
+   "r": [
+    237,
+    339,
+    377,
+    427
+   ]
+  },
+  {
+   "t": 7.47,
+   "texto": "Sus azúcares",
+   "r": [
+    237,
+    339,
+    740,
+    427
+   ]
+  },
+  {
+   "t": 7.7,
+   "texto": "Sus azúcares",
+   "r": [
+    237,
+    339,
+    740,
+    427
+   ]
+  },
+  {
+   "t": 7.93,
+   "texto": "Sus azúcares se parecen,",
+   "r": [
+    237,
+    339,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.17,
+   "texto": "Sus azúcares se parecen,",
+   "r": [
+    237,
+    339,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.4,
+   "texto": "Sus azúcares se parecen,",
+   "r": [
+    237,
+    339,
+    843,
+    514
+   ]
+  },
+  {
+   "t": 8.63,
+   "texto": "pero",
+   "r": [
+    260,
+    339,
+    435,
+    427
+   ]
+  },
+  {
+   "t": 8.87,
+   "texto": "pero el",
+   "r": [
+    260,
+    339,
+    518,
+    427
+   ]
+  },
+  {
+   "t": 9.1,
+   "texto": "pero el envase",
+   "r": [
+    260,
+    338,
+    820,
+    427
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "pero el envase natural",
+   "r": [
+    260,
+    338,
+    820,
+    514
+   ]
+  },
+  {
+   "t": 9.33,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    745,
+    950,
+    807
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "pero el envase natural",
+   "r": [
+    260,
+    338,
+    820,
+    514
+   ]
+  },
+  {
+   "t": 9.57,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    757,
+    950,
+    819
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "lo",
+   "r": [
+    259,
+    339,
+    328,
+    427
+   ]
+  },
+  {
+   "t": 9.8,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    765,
+    950,
+    827
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "lo cambia",
+   "r": [
+    259,
+    339,
+    614,
+    427
+   ]
+  },
+  {
+   "t": 10.03,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    772,
+    950,
+    834
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "lo cambia",
+   "r": [
+    259,
+    339,
+    614,
+    427
+   ]
+  },
+  {
+   "t": 10.27,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    780,
+    950,
+    842
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "lo cambia todo.",
+   "r": [
+    259,
+    339,
+    821,
+    427
+   ]
+  },
+  {
+   "t": 10.5,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    787,
+    950,
+    849
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "En",
+   "r": [
+    214,
+    339,
+    305,
+    427
+   ]
+  },
+  {
+   "t": 10.73,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    794,
+    950,
+    856
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "En fruta",
+   "r": [
+    214,
+    339,
+    516,
+    427
+   ]
+  },
+  {
+   "t": 10.97,
+   "texto": "Matriz intacta",
+   "r": [
+    583,
+    801,
+    950,
+    863
+   ]
+  },
+  {
+   "t": 11.2,
+   "texto": "En fruta entera",
+   "r": [
+    214,
+    339,
+    783,
+    427
+   ]
+  },
+  {
+   "t": 11.43,
+   "texto": "En fruta entera",
+   "r": [
+    214,
+    339,
+    783,
+    427
+   ]
+  },
+  {
+   "t": 11.67,
+   "texto": "En fruta entera el dulzor",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 11.9,
+   "texto": "En fruta entera el dulzor",
+   "r": [
+    214,
+    339,
+    866,
+    514
+   ]
+  },
+  {
+   "t": 12.13,
+   "texto": "viene",
+   "r": [
+    172,
+    339,
+    372,
+    427
+   ]
+  },
+  {
+   "t": 12.37,
+   "texto": "viene atado",
+   "r": [
+    172,
+    338,
+    625,
+    427
+   ]
+  },
+  {
+   "t": 12.6,
+   "texto": "viene atado",
+   "r": [
+    172,
+    338,
+    625,
+    427
+   ]
+  },
+  {
+   "t": 12.83,
+   "texto": "viene atado a",
+   "r": [
+    172,
+    338,
+    687,
+    427
+   ]
+  },
+  {
+   "t": 13.07,
+   "texto": "viene atado a fibra,",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 13.3,
+   "texto": "viene atado a fibra,",
+   "r": [
+    172,
+    338,
+    908,
+    427
+   ]
+  },
+  {
+   "t": 13.53,
+   "texto": "agua",
+   "r": [
+    205,
+    339,
+    391,
+    427
+   ]
+  },
+  {
+   "t": 13.77,
+   "texto": "agua",
+   "r": [
+    205,
+    339,
+    391,
+    427
+   ]
+  },
+  {
+   "t": 14.0,
+   "texto": "agua y masticado.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 14.23,
+   "texto": "agua y masticado.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 14.47,
+   "texto": "agua y masticado.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 14.7,
+   "texto": "agua y masticado.",
+   "r": [
+    205,
+    339,
+    875,
+    427
+   ]
+  },
+  {
+   "t": 14.93,
+   "texto": "Tardas",
+   "r": [
+    147,
+    339,
+    412,
+    427
+   ]
+  },
+  {
+   "t": 15.17,
+   "texto": "Tardas bastante",
+   "r": [
+    147,
+    339,
+    762,
+    427
+   ]
+  },
+  {
+   "t": 15.4,
+   "texto": "Tardas bastante",
+   "r": [
+    147,
+    339,
+    762,
+    427
+   ]
+  },
+  {
+   "t": 15.63,
+   "texto": "Tardas bastante más",
+   "r": [
+    147,
+    339,
+    933,
+    427
+   ]
+  },
+  {
+   "t": 15.87,
+   "texto": "Tardas bastante más comiendo",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 16.1,
+   "texto": "Tardas bastante más comiendo",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 16.33,
+   "texto": "Tardas bastante más comiendo piezas",
+   "r": [
+    147,
+    339,
+    933,
+    514
+   ]
+  },
+  {
+   "t": 16.57,
+   "texto": "enteras",
+   "r": [
+    316,
+    339,
+    610,
+    427
+   ]
+  },
+  {
+   "t": 16.8,
+   "texto": "enteras",
+   "r": [
+    316,
+    339,
+    610,
+    427
+   ]
+  },
+  {
+   "t": 17.03,
+   "texto": "enteras que",
+   "r": [
+    316,
+    339,
+    764,
+    427
+   ]
+  },
+  {
+   "t": 17.27,
+   "texto": "enteras que tragando",
+   "r": [
+    250,
+    339,
+    764,
+    514
+   ]
+  },
+  {
+   "t": 17.5,
+   "texto": "enteras que tragando",
+   "r": [
+    250,
+    339,
+    764,
+    514
+   ]
+  },
+  {
+   "t": 17.73,
+   "texto": "enteras que tragando zumo.",
+   "r": [
+    250,
+    339,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 17.97,
+   "texto": "enteras que tragando zumo.",
+   "r": [
+    250,
+    339,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 18.2,
+   "texto": "La",
+   "r": [
+    311,
+    339,
+    400,
+    427
+   ]
+  },
+  {
+   "t": 18.43,
+   "texto": "La OMS",
+   "r": [
+    311,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 18.67,
+   "texto": "La OMS",
+   "r": [
+    311,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 18.9,
+   "texto": "La OMS",
+   "r": [
+    311,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 19.13,
+   "texto": "La OMS",
+   "r": [
+    311,
+    339,
+    594,
+    427
+   ]
+  },
+  {
+   "t": 19.37,
+   "texto": "La OMS dejó",
+   "r": [
+    311,
+    339,
+    769,
+    427
+   ]
+  },
+  {
+   "t": 19.6,
+   "texto": "La OMS dejó",
+   "r": [
+    311,
+    339,
+    769,
+    427
+   ]
+  },
+  {
+   "t": 19.83,
+   "texto": "La OMS dejó completamente",
+   "r": [
+    250,
+    339,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 20.07,
+   "texto": "La OMS dejó completamente",
+   "r": [
+    250,
+    339,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 20.3,
+   "texto": "La OMS dejó completamente",
+   "r": [
+    250,
+    339,
+    830,
+    514
+   ]
+  },
+  {
+   "t": 20.53,
+   "texto": "fuera",
+   "r": [
+    207,
+    338,
+    436,
+    423
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "fuera de",
+   "r": [
+    207,
+    338,
+    543,
+    427
+   ]
+  },
+  {
+   "t": 20.77,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "fuera de su límite",
+   "r": [
+    207,
+    338,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 21.0,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "fuera de su límite",
+   "r": [
+    207,
+    338,
+    873,
+    427
+   ]
+  },
+  {
+   "t": 21.23,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "las",
+   "r": [
+    195,
+    339,
+    307,
+    427
+   ]
+  },
+  {
+   "t": 21.47,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "las frutas",
+   "r": [
+    195,
+    339,
+    559,
+    427
+   ]
+  },
+  {
+   "t": 21.7,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "las frutas frescas.",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 21.93,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "las frutas frescas.",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 22.17,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "las frutas frescas.",
+   "r": [
+    195,
+    339,
+    885,
+    427
+   ]
+  },
+  {
+   "t": 22.4,
+   "texto": "0",
+   "r": [
+    601,
+    1062,
+    950,
+    1162
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "Los",
+   "r": [
+    177,
+    339,
+    307,
+    427
+   ]
+  },
+  {
+   "t": 22.63,
+   "texto": "0",
+   "r": [
+    60,
+    580,
+    409,
+    680
+   ]
+  },
+  {
+   "t": 22.87,
+   "texto": "Los azúcares",
+   "r": [
+    177,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 23.1,
+   "texto": "Los azúcares",
+   "r": [
+    177,
+    339,
+    670,
+    427
+   ]
+  },
+  {
+   "t": 23.33,
+   "texto": "Los azúcares libres",
+   "r": [
+    177,
+    339,
+    903,
+    427
+   ]
+  },
+  {
+   "t": 23.57,
+   "texto": "Los azúcares libres críticos",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 23.8,
+   "texto": "Los azúcares libres críticos",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 24.03,
+   "texto": "Los azúcares libres críticos",
+   "r": [
+    177,
+    339,
+    903,
+    514
+   ]
+  },
+  {
+   "t": 24.27,
+   "texto": "nacen",
+   "r": [
+    278,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 24.5,
+   "texto": "nacen",
+   "r": [
+    278,
+    339,
+    504,
+    427
+   ]
+  },
+  {
+   "t": 24.73,
+   "texto": "nacen de",
+   "r": [
+    278,
+    339,
+    610,
+    427
+   ]
+  },
+  {
+   "t": 24.97,
+   "texto": "nacen de miel,",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 25.2,
+   "texto": "nacen de miel,",
+   "r": [
+    278,
+    339,
+    802,
+    427
+   ]
+  },
+  {
+   "t": 25.43,
+   "texto": "jarabes",
+   "r": [
+    168,
+    338,
+    476,
+    423
+   ]
+  },
+  {
+   "t": 25.67,
+   "texto": "jarabes",
+   "r": [
+    168,
+    338,
+    476,
+    423
+   ]
+  },
+  {
+   "t": 25.9,
+   "texto": "jarabes y añadidos.",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 26.13,
+   "texto": "jarabes y añadidos.",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 26.37,
+   "texto": "jarabes y añadidos.",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 26.6,
+   "texto": "jarabes y añadidos.",
+   "r": [
+    168,
+    338,
+    912,
+    427
+   ]
+  },
+  {
+   "t": 26.83,
+   "texto": "Cambiar",
+   "r": [
+    222,
+    339,
+    541,
+    427
+   ]
+  },
+  {
+   "t": 27.07,
+   "texto": "Cambiar fruta",
+   "r": [
+    222,
+    339,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 27.3,
+   "texto": "Cambiar fruta",
+   "r": [
+    222,
+    339,
+    751,
+    427
+   ]
+  },
+  {
+   "t": 27.53,
+   "texto": "Cambiar fruta de noche",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 27.77,
+   "texto": "Cambiar fruta de noche por",
+   "r": [
+    222,
+    339,
+    858,
+    514
+   ]
+  },
+  {
+   "t": 28.0,
+   "texto": "postres",
+   "r": [
+    283,
+    344,
+    543,
+    422
+   ]
+  },
+  {
+   "t": 28.23,
+   "texto": "postres",
+   "r": [
+    283,
+    344,
+    543,
+    422
+   ]
+  },
+  {
+   "t": 28.47,
+   "texto": "postres dulces",
+   "r": [
+    283,
+    343,
+    797,
+    422
+   ]
+  },
+  {
+   "t": 28.7,
+   "texto": "postres dulces",
+   "r": [
+    283,
+    343,
+    797,
+    422
+   ]
+  },
+  {
+   "t": 28.93,
+   "texto": "postres dulces aumenta",
+   "r": [
+    152,
+    343,
+    797,
+    501
+   ]
+  },
+  {
+   "t": 29.17,
+   "texto": "postres dulces aumenta",
+   "r": [
+    152,
+    343,
+    797,
+    501
+   ]
+  },
+  {
+   "t": 29.4,
+   "texto": "postres dulces aumenta picoteo",
+   "r": [
+    152,
+    343,
+    797,
+    501
+   ]
+  },
+  {
+   "t": 29.63,
+   "texto": "postres dulces aumenta picoteo",
+   "r": [
+    152,
+    343,
+    797,
+    501
+   ]
+  },
+  {
+   "t": 29.87,
+   "texto": "postres dulces aumenta picoteo luego.",
+   "r": [
+    152,
+    343,
+    928,
+    501
+   ]
+  },
+  {
+   "t": 30.1,
+   "texto": "postres dulces aumenta picoteo luego.",
+   "r": [
+    152,
+    343,
+    928,
+    501
+   ]
+  },
+  {
+   "t": 30.33,
+   "texto": "postres dulces aumenta picoteo luego.",
+   "r": [
+    152,
+    343,
+    928,
+    501
+   ]
+  },
+  {
+   "t": 30.57,
+   "texto": "Tomar",
+   "r": [
+    292,
+    339,
+    533,
+    427
+   ]
+  },
+  {
+   "t": 30.8,
+   "texto": "Tomar piezas",
+   "r": [
+    292,
+    339,
+    788,
+    427
+   ]
+  },
+  {
+   "t": 31.03,
+   "texto": "Tomar piezas variadas",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 31.27,
+   "texto": "Tomar piezas variadas",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 31.5,
+   "texto": "Tomar piezas variadas al",
+   "r": [
+    292,
+    339,
+    788,
+    514
+   ]
+  },
+  {
+   "t": 31.73,
+   "texto": "día",
+   "r": [
+    151,
+    342,
+    261,
+    425
+   ]
+  },
+  {
+   "t": 31.97,
+   "texto": "día llena",
+   "r": [
+    151,
+    342,
+    448,
+    425
+   ]
+  },
+  {
+   "t": 32.2,
+   "texto": "día llena desplazando",
+   "r": [
+    151,
+    340,
+    929,
+    425
+   ]
+  },
+  {
+   "t": 32.43,
+   "texto": "día llena desplazando",
+   "r": [
+    151,
+    340,
+    929,
+    425
+   ]
+  },
+  {
+   "t": 32.67,
+   "texto": "día llena desplazando",
+   "r": [
+    151,
+    340,
+    929,
+    425
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "día llena desplazando ultraprocesados.",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 32.9,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    840,
+    950,
+    902
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "día llena desplazando ultraprocesados.",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 33.13,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    828,
+    950,
+    890
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "día llena desplazando ultraprocesados.",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 33.37,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    815,
+    950,
+    877
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "día llena desplazando ultraprocesados.",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 33.6,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    803,
+    950,
+    865
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "día llena desplazando ultraprocesados.",
+   "r": [
+    151,
+    340,
+    929,
+    507
+   ]
+  },
+  {
+   "t": 33.83,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    792,
+    950,
+    854
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "En consulta",
+   "r": [
+    164,
+    349,
+    505,
+    418
+   ]
+  },
+  {
+   "t": 34.07,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "En consulta",
+   "r": [
+    164,
+    349,
+    505,
+    418
+   ]
+  },
+  {
+   "t": 34.3,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "En consulta",
+   "r": [
+    164,
+    349,
+    505,
+    418
+   ]
+  },
+  {
+   "t": 34.53,
+   "texto": "Come piezas",
+   "r": [
+    652,
+    1081,
+    950,
+    1143
+   ]
+  },
+  {
+   "t": 34.77,
+   "texto": "En consulta recuperamos",
+   "r": [
+    164,
+    349,
+    916,
+    418
+   ]
+  },
+  {
+   "t": 35.0,
+   "texto": "En consulta recuperamos",
+   "r": [
+    164,
+    349,
+    916,
+    418
+   ]
+  },
+  {
+   "t": 35.23,
+   "texto": "En consulta recuperamos fruta",
+   "r": [
+    164,
+    349,
+    916,
+    487
+   ]
+  },
+  {
+   "t": 35.47,
+   "texto": "En consulta recuperamos fruta",
+   "r": [
+    164,
+    349,
+    916,
+    487
+   ]
+  },
+  {
+   "t": 35.7,
+   "texto": "En consulta recuperamos fruta entera",
+   "r": [
+    164,
+    349,
+    916,
+    487
+   ]
+  },
+  {
+   "t": 35.93,
+   "texto": "desde",
+   "r": [
+    216,
+    339,
+    441,
+    427
+   ]
+  },
+  {
+   "t": 36.17,
+   "texto": "desde la",
+   "r": [
+    216,
+    339,
+    525,
+    427
+   ]
+  },
+  {
+   "t": 36.4,
+   "texto": "desde la primera",
+   "r": [
+    216,
+    338,
+    864,
+    427
+   ]
+  },
+  {
+   "t": 36.63,
+   "texto": "desde la primera semana.",
+   "r": [
+    216,
+    338,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 36.87,
+   "texto": "desde la primera semana.",
+   "r": [
+    216,
+    338,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 37.1,
+   "texto": "desde la primera semana.",
+   "r": [
+    216,
+    338,
+    864,
+    514
+   ]
+  },
+  {
+   "t": 37.33,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.57,
+   "texto": "Mándaselo",
+   "r": [
+    190,
+    339,
+    606,
+    427
+   ]
+  },
+  {
+   "t": 37.8,
+   "texto": "Mándaselo a quien",
+   "r": [
+    190,
+    339,
+    890,
+    427
+   ]
+  },
+  {
+   "t": 38.03,
+   "texto": "Mándaselo a quien quita",
+   "r": [
+    190,
+    339,
+    890,
+    514
+   ]
+  },
+  {
+   "t": 38.27,
+   "texto": "manzanas",
+   "r": [
+    182,
+    338,
+    580,
+    423
+   ]
+  },
+  {
+   "t": 38.5,
+   "texto": "manzanas",
+   "r": [
+    182,
+    338,
+    580,
+    423
+   ]
+  },
+  {
+   "t": 38.73,
+   "texto": "manzanas al",
+   "r": [
+    182,
+    338,
+    664,
+    427
+   ]
+  },
+  {
+   "t": 38.97,
+   "texto": "manzanas al cenar",
+   "r": [
+    182,
+    338,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 39.2,
+   "texto": "manzanas al cenar",
+   "r": [
+    182,
+    338,
+    898,
+    427
+   ]
+  },
+  {
+   "t": 39.43,
+   "texto": "miedo",
+   "r": [
+    265,
+    339,
+    491,
+    427
+   ]
+  },
+  {
+   "t": 39.67,
+   "texto": "miedo al dulce.",
+   "r": [
+    265,
+    339,
+    815,
+    427
+   ]
+  },
+  {
+   "t": 39.9,
+   "texto": "miedo al dulce.",
+   "r": [
+    265,
+    339,
+    815,
+    427
+   ]
+  },
+  {
+   "t": 40.13,
+   "texto": "miedo al dulce.",
+   "r": [
+    265,
+    339,
+    815,
+    427
+   ]
+  },
+  {
+   "t": 40.37,
+   "texto": "miedo al dulce.",
+   "r": [
+    265,
+    339,
+    815,
+    427
+   ]
+  }
+ ],
+ "hueco_max_s": 0.0,
+ "voz": {
+  "motor": "elevenlabs",
+  "de_prueba": false,
+  "modo": "eleven",
+  "voz": "7QQzpAyzlKTVrRzQJmTE",
+  "voz_nombre": "Dani - Hurried, Dynamic and Engaging",
+  "modelo": "eleven_v4",
+  "caracteres": 710,
+  "texto": "Oyes tanta alarma contra el azúcar que acabas quitando la fruta. Mucha gente mete un plátano entero en el mismo saco que galletas. Sus azúcares se parecen, pero el envase natural lo cambia todo. En fruta entera el dulzor viene atado a fibra, agua y masticado. Tardas bastante más comiendo piezas enteras que tragando zumo. La o eme ese dejó completamente fuera de su límite las frutas frescas. Los azúcares libres críticos nacen de miel, jarabes y añadidos. Cambiar fruta de noche por postres dulces aumenta picoteo luego. Tomar piezas variadas al día llena desplazando ultraprocesados. En consulta recuperamos fruta entera desde la primera semana. Mándaselo a quien quita manzanas al cenar por miedo al dulce.",
+  "inicio_s": 0.0461,
+  "primera_palabra_s": 0.0213,
+  "lineas": [
+   {
+    "texto": "Oyes tanta alarma contra el azúcar que acabas quitando la fruta.",
+    "t0": 0.021,
+    "t1": 3.376
+   },
+   {
+    "texto": "Mucha gente mete un plátano entero en el mismo saco que galletas.",
+    "t0": 3.626,
+    "t1": 6.906
+   },
+   {
+    "texto": "Sus azúcares se parecen, pero el envase natural lo cambia todo.",
+    "t0": 7.141,
+    "t1": 10.501
+   },
+   {
+    "texto": "En fruta entera el dulzor viene atado a fibra, agua y masticado.",
+    "t0": 10.701,
+    "t1": 14.541
+   },
+   {
+    "texto": "Tardas bastante más comiendo piezas enteras que tragando zumo.",
+    "t0": 14.726,
+    "t1": 17.873
+   },
+   {
+    "texto": "La OMS dejó completamente fuera de su límite las frutas frescas.",
+    "t0": 18.121,
+    "t1": 22.361
+   },
+   {
+    "texto": "Los azúcares libres críticos nacen de miel, jarabes y añadidos.",
+    "t0": 22.571,
+    "t1": 26.451
+   },
+   {
+    "texto": "Cambiar fruta de noche por postres dulces aumenta picoteo luego.",
+    "t0": 26.741,
+    "t1": 30.101
+   },
+   {
+    "texto": "Tomar piezas variadas al día llena desplazando ultraprocesados.",
+    "t0": 30.371,
+    "t1": 33.651
+   },
+   {
+    "texto": "En consulta recuperamos fruta entera desde la primera semana.",
+    "t0": 33.901,
+    "t1": 36.981
+   },
+   {
+    "texto": "Mándaselo a quien quita manzanas al cenar por miedo al dulce.",
+    "t0": 37.206,
+    "t1": 40.033
+   }
+  ]
+ },
+ "voz_de_prueba": false,
+ "sonido": {
+  "mezcla": {
+   "voz_lufs": -16.0,
+   "efectos_bajo_voz_db": 23.6,
+   "mezcla_lufs": -16.0,
+   "mezcla_pico_dbtp": -1.65,
+   "efectos": 11,
+   "efectos_por_tipo": {
+    "pop": 4,
+    "tac": 3,
+    "whoosh": 1,
+    "golpe": 1,
+    "ding": 1,
+    "sello": 1
+   },
+   "musica": false
+  }
+ },
+ "efectos": [
+  {
+   "t": 0.416,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 1.236,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.186,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 4.906,
+   "tipo": "whoosh",
+   "intensidad": 0.3
+  },
+  {
+   "t": 8.581,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 16.193,
+   "tipo": "golpe",
+   "intensidad": 0.42
+  },
+  {
+   "t": 20.441,
+   "tipo": "ding",
+   "intensidad": 0.52
+  },
+  {
+   "t": 20.701,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 27.461,
+   "tipo": "tac",
+   "intensidad": 0.45
+  },
+  {
+   "t": 32.791,
+   "tipo": "pop",
+   "intensidad": 0.45
+  },
+  {
+   "t": 37.206,
+   "tipo": "sello",
+   "intensidad": 0.45
+  }
+ ],
+ "v7": {
+  "spec": "specs_v7/yp_fruta_entera_azucar_salud_oms.json",
+  "paleta": "virales",
+  "decorado": "A",
+  "planos": 11,
+  "actores": [
+   {
+    "i": 0,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "kiwi",
+      "colores": [
+       "#8A6A3E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "kiwi",
+      "colores": [
+       "#8A6A3E"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "lentejas",
+      "colores": [
+       "#8B6B3D"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "taza_cafe",
+      "colores": [
+       "#361D12"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "objetivo": null,
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "objetivo": "p2",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "vaso_agua",
+      "colores": [
+       "#6EC1E4"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "objetivo": "p1",
+    "actores": [
+     {
+      "id": "mesa",
+      "tipo": "estudio_mesa",
+      "colores": [
+       "#5B3A26"
+      ]
+     },
+     {
+      "id": "p1",
+      "tipo": "plato",
+      "colores": [
+       "#F4F2EC"
+      ]
+     },
+     {
+      "id": "p2",
+      "tipo": "naranja",
+      "colores": [
+       "#F28C28"
+      ]
+     }
+    ]
+   }
+  ],
+  "avisos_linea": [],
+  "demo": false,
+  "cantidades": false,
+  "tiempos_s": {
+   "voz": 13.9,
+   "render": 94.3,
+   "mezcla": 13.2
+  },
+  "escena_js": "tr"
+ }
+}
