@@ -1094,7 +1094,7 @@
     ],
     "gravedad": "fallo",
     "peso": 20,
-    "regex": "\\b(?:innovaci[oó]n|innovador\\w*|disruptiv\\w+|vanguardi\\w+|tecnolog[ií]a punta|de punta|integral(?:es)?|hol[ií]stic\\w+|robust\\w+|crucial(?:es)?|primordial(?:es)?|excepcional\\w*|incre[ií]bles?|inigualables?|sin igual)\\b",
+    "regex": "\\b(?:innovaci[oó]n|innovador\\w*|disruptiv\\w+|vanguardi\\w+|tecnolog[ií]a punta|de punta|(?<!pan )(?<!panes )(?<!harina )(?<!harinas )(?<!arroz )(?<!pasta )(?<!grano )(?<!trigo )(?<!centeno )(?<!cereal )(?<!cereales )(?<!pan es )(?<!pan sea )(?<!100 % )(?<!100 % )integral(?:es)?|hol[ií]stic\\w+|robust\\w+|crucial(?:es)?|primordial(?:es)?|excepcional\\w*|incre[ií]bles?|inigualables?|sin igual)\\b",
     "flags": "i",
     "descripcion": "Adjetivos de folleto: innovador, integral, robusto, crucial, excepcional.",
     "ejemplo_malo": "Una solución innovadora e integral.",

@@ -1791,5 +1791,81 @@
       "via": "Texto original en castellano del Reglamento (UE) nº 432/2012 en EUR-Lex (CELEX 32012R0432), descargado el 4-nov-2026",
       "detalle": "Cada declaración del enunciado está copiada literalmente del anexo en castellano."
     }
+  },
+  {
+    "id": "VIT-065",
+    "tema": "vitamina D (cantidad diaria recomendada)",
+    "enunciado": "Un adulto de 19 a 70 años necesita 15 µg (600 UI) de vitamina D al día; a partir de los 70 años, 20 µg (800 UI).",
+    "veredicto": "respaldado",
+    "matiz": "Es la cantidad diaria recomendada (RDA) de las National Academies que recoge NIH ODS. No es el VRN de etiquetado de la UE (5 µg, VIT-005), que es otra referencia. Incluye la vitamina D que llega por la comida; la piel fabrica parte con el sol (VIT-067).",
+    "fuente": "NIH Office of Dietary Supplements, Vitamin D: Fact Sheet for Health Professionals (tabla de cantidades diarias recomendadas de la National Academies) (actualizada el 27-jun-2025)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "anio": 2025,
+    "nivel_evidencia": "referencia oficial de ingesta",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-11-13",
+      "via": "Lectura directa de la ficha de NIH ODS (página oficial)",
+      "detalle": "Tabla 2 (RDA): 19–50 years 15 mcg (600 IU); 51–70 years 15 mcg (600 IU); >70 years 20 mcg (800 IU)."
+    }
+  },
+  {
+    "id": "VIT-066",
+    "tema": "vitamina D (100 g frente a lo que necesita un adulto al día)",
+    "enunciado": "Por cada 100 g, la trucha cocinada (19,0 µg de vitamina D) pasa de los 15 µg que necesita al día un adulto de 19 a 70 años; el salmón cocinado (13,1 µg) se queda cerca; las sardinas en aceite, escurridas (4,8 µg), llegan a un tercio, y el huevo cocido (2,2 µg), a poco.",
+    "veredicto": "respaldado",
+    "matiz": "Compara las cifras de VIT-006 (USDA, por 100 g del alimento en el estado indicado) con la cantidad diaria de VIT-065. Es composición, no una recomendación de comer o evitar nada; 100 g no es una ración fija (un filete puede pesar menos) y la tabla mide la cantidad del alimento, no la que se absorbe. «Un tercio»: 4,8 entre 15 = 0,32.",
+    "fuente": "NIH Office of Dietary Supplements, Vitamin D: Fact Sheet for Health Professionals (tabla de cantidades diarias recomendadas de la National Academies) (actualizada el 27-jun-2025)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "anio": 2025,
+    "nivel_evidencia": "tabla oficial de composición de alimentos y referencia oficial de ingesta",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-11-13",
+      "via": "VIT-006 (USDA SR Legacy, verificado el 13-oct-2026) y VIT-065 (NIH ODS, 13-nov-2026)",
+      "detalle": "19,0 > 15; 13,1 / 15 = 0,87; 4,8 / 15 = 0,32; 2,2 / 15 = 0,15."
+    }
+  },
+  {
+    "id": "VIT-067",
+    "tema": "vitamina D y el sol",
+    "enunciado": "El cuerpo fabrica parte de su vitamina D cuando el sol le da en la piel, y la estación, la hora, lo que dura el día y las nubes cambian cuánta fabrica.",
+    "veredicto": "respaldado",
+    "matiz": "NIH ODS: «Season, time of day, length of day, cloud cover, smog, skin melanin content, and sunscreen are among the factors that affect UV radiation exposure and vitamin D synthesis». No da cifras para España ni dice que en invierno no se fabrique nada: solo que la estación y lo que dura el día influyen.",
+    "fuente": "NIH Office of Dietary Supplements, Vitamin D: Fact Sheet for Health Professionals (tabla de cantidades diarias recomendadas de la National Academies) (actualizada el 27-jun-2025)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "anio": 2025,
+    "nivel_evidencia": "ficha oficial de referencia",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-11-13",
+      "via": "Lectura directa de la ficha de NIH ODS (página oficial)",
+      "detalle": "Sección «Sun exposure»: «People can get some of their daily vitamin D through exposure to sunlight, although the season, time of day, length of day, cloud cover, melanin content of the skin, and other factors can affect ultraviolet radiation exposure and vitamin D synthesis.»"
+    }
+  },
+  {
+    "id": "VIT-068",
+    "tema": "vitamina D: qué trucha y qué salmón (el tipo cambia la cifra)",
+    "enunciado": "La trucha de 19,0 µg por 100 g es trucha arcoíris de piscifactoría, cocinada, y el salmón de 13,1 µg por 100 g es salmón atlántico de piscifactoría, cocinado. El salmón rojo (sockeye) cocinado lleva 14,2 µg en 85 g: según el tipo de salmón, la cifra cambia.",
+    "veredicto": "respaldado",
+    "matiz": "Las cifras de 100 g son de USDA FoodData Central (VIT-006). La del salmón rojo es de la tabla del NIH, por 3 onzas (85 g), no por 100 g: no se pasa a 100 g en pantalla. Es composición, no una recomendación de comer o evitar nada.",
+    "fuente": "USDA FoodData Central, SR Legacy (fdcId 173718, 175168); NIH Office of Dietary Supplements, Vitamin D: Fact Sheet for Health Professionals, tabla «Selected Food Sources of Vitamin D» (actualizada el 27-jun-2025)",
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "anio": 2025,
+    "nivel_evidencia": "tabla oficial de composición de alimentos",
+    "riesgo_publicar": "bajo",
+    "poblaciones_en_riesgo": [],
+    "estado_validacion": "pendiente: revisión del dueño (validación interna con /validar)",
+    "verificacion_primaria": {
+      "fecha": "2026-11-13",
+      "via": "VIT-006 (USDA SR Legacy, nombres en inglés de cada fdcId) y lectura directa de la tabla del NIH ODS",
+      "detalle": "Fish, trout, rainbow, farmed, cooked, dry heat (fdcId 173718) 19,0 µg; Fish, salmon, Atlantic, farmed, cooked, dry heat (fdcId 175168) 13,1 µg. NIH: «Salmon (sockeye), cooked, 3 ounces | 14.2 µg | 570 IU»; «Trout (rainbow), farmed, cooked, 3 ounces | 16.2 µg»."
+    }
   }
 ]
