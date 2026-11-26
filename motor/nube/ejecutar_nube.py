@@ -260,7 +260,8 @@ def importar_nuevas(ad, hub, carpeta: Path, lg=log) -> int:
     return n
 
 
-def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log, espera_sondeo: int = 0, dormir=time.sleep) -> dict:
+def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log, espera_sondeo: int = 0, dormir=time.sleep,
+           limite_entrega: int | None = None, pausa_entrega_s: float = 0.0) -> dict:
     """Una pasada completa. `espera_sondeo` > 0 (modo activo): el sondeo de Telegram espera hasta ese número de segundos a que José haga algo
     (sin Telegram, simplemente se duerme ese rato). Devuelve cuánto hizo: `updates` cuenta lo que José ha pulsado o escrito."""
     cuenta = {"importadas": 0, "ordenes": 0, "updates": 0, "decisiones": 0}
@@ -299,7 +300,8 @@ def pasada(router: Router, hub: Hub, ad, tg, sondear: bool, motor: Path, lg=log,
                 dormir(min(espera_sondeo, 5))                     # sin red el sondeo falla al instante: no dar vueltas a toda velocidad
     elif espera_sondeo:
         dormir(espera_sondeo)
-    for etapa, fn in (("entrega de piezas", router.entregar_pendientes), ("decisiones", router.decisiones.vuelta)):
+    for etapa, fn in (("entrega de piezas", lambda: router.entregar_pendientes(limite=limite_entrega, pausa_s=pausa_entrega_s)),
+                      ("decisiones", router.decisiones.vuelta)):
         try:
             fn()
         except ErrorTelegram as exc:
@@ -383,7 +385,7 @@ def sesion_activa(router, hub, ad, tg, sondear: bool, motor: Path, lg, reloj, do
             espera = int(prox) + 1                                # que el sondeo termine justo después de la hora de la pieza
         espera = int(max(1, min(espera, restante)))
         antes = _publicadas(ad)
-        c = pasada(router, hub, ad, tg, sondear, motor, lg, espera_sondeo=espera, dormir=dormir)
+        c = pasada(router, hub, ad, tg, sondear, motor, lg, espera_sondeo=espera, dormir=dormir, limite_entrega=0)
         res["pasadas"] += 1
         if _publicadas(ad) > antes:
             res["publicada"] = True                               # el estado solo se sube al terminar la ejecución: tras publicar se termina enseguida,
@@ -444,7 +446,8 @@ def lanzar_siguiente(env: dict, lg=log) -> bool:
 
 def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas: int = 2, espera_s: float = 20.0, motor: Path = MOTOR,
              tg=None, modo_ig: str | None = None, exigir_estado: bool = False, activo: bool = False, encadenar: bool = False, reloj=None,
-             dormir=time.sleep, lanzar=None, max_s: float = SESION_MAX_S, vigilia_s: float = 0) -> int:
+             dormir=time.sleep, lanzar=None, max_s: float = SESION_MAX_S, vigilia_s: float = 0,
+             limite_entrega: int | None = None, pausa_entrega_s: float = 0.0) -> int:
     datos = Path(datos)
     datos.mkdir(parents=True, exist_ok=True)
     os.environ["VIVAX_VALIDACIONES"] = str(datos / "validaciones")        # las validaciones de José viajan con el estado cifrado
@@ -485,7 +488,9 @@ def ejecutar(datos: Path, env: dict, simulado: bool, sin_telegram: bool, pasadas
         c = {"updates": 0}
         for i in range(1, pasadas + 1):
             try:
-                c = pasada(router, hub, ad, tg, not sin_telegram, motor, dormir=dormir)
+                lim = limite_entrega if i == 1 else 0
+                c = pasada(router, hub, ad, tg, not sin_telegram, motor, dormir=dormir,
+                           limite_entrega=lim, pausa_entrega_s=pausa_entrega_s)
             except ConflictoTelegram:
                 print("Telegram da 409: otro proceso está leyendo este bot (¿el router del PC sigue en marcha?). "
                       "No publico nada para no duplicar. Para el router local y vuelve a ejecutar.", file=sys.stderr)
@@ -569,7 +574,9 @@ def main(argv: list[str] | None = None) -> int:
     activo = a.activo and os.environ.get("VIVAX_MODO_ACTIVO", "1") != "0"
     encadenar = activo and os.environ.get("VIVAX_ENCADENAR", "1") != "0"
     return ejecutar(a.datos, env, a.simulado, a.sin_telegram, a.pasadas, exigir_estado=not a.simulado, activo=activo, encadenar=encadenar,
-                    vigilia_s=a.vigilia if activo else 0)
+                    vigilia_s=a.vigilia if activo else 0,
+                    limite_entrega=(8 if (not a.simulado and not a.sin_telegram) else None),
+                    pausa_entrega_s=(2.0 if (not a.simulado and not a.sin_telegram) else 0.0))
 
 
 if __name__ == "__main__":

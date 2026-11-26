@@ -278,8 +278,16 @@ class AdaptadorNutricion:
         return Pieza(r["id"], self.cuenta, r["titulo"], r["formato"], r["estado"], r["pie"],
                      self._archivos(r["formato"], self.salida / r["pieza_id"]), r["creada"], bool(r["entregada"]))
 
+    def _produccion_de(self, r: sqlite3.Row) -> dict:
+        try:
+            return (self._json_de(r).get("produccion") or {})
+        except (OSError, ValueError, TypeError):
+            return {}
+
     def por_entregar(self) -> list[Pieza]:
-        return [self._a_pieza(r) for r in self.db.execute("SELECT * FROM piezas WHERE entregada=0 AND estado='pendiente' ORDER BY id")]
+        filas = self.db.execute("SELECT * FROM piezas WHERE entregada=0 AND estado='pendiente' ORDER BY id").fetchall()
+        filas.sort(key=lambda r: (str(self._produccion_de(r).get("hora_propuesta") or "9999"), r["id"]))
+        return [self._a_pieza(r) for r in filas]
 
     def marcar_entregada(self, id: int) -> None:
         self.db.execute("UPDATE piezas SET entregada=1 WHERE id=?", (id,))
@@ -365,8 +373,33 @@ class AdaptadorNutricion:
             return motivo
         if hora is not None and hora.astimezone(timezone.utc) <= self.ahora().astimezone(timezone.utc):
             return "Esa hora ya ha pasado."
-        iso = (self.siguiente_hueco(historia=r["formato"] == "historia") if hora is None      # una historia, a un hueco de historias
-               else hora.astimezone(self.zona).isoformat(timespec="seconds"))
+        if hora is not None:
+            iso = hora.astimezone(self.zona).isoformat(timespec="seconds")
+        else:
+            prod = self._produccion_de(r)
+            iso = None
+            hp_txt = prod.get("hora_propuesta")
+            if hp_txt:
+                try:
+                    hp = datetime.fromisoformat(str(hp_txt))
+                    if hp.tzinfo is None:
+                        hp = hp.replace(tzinfo=self.zona)
+                    min_ok = self.ahora().astimezone(timezone.utc) + timedelta(minutes=MARGEN_HUECO_MIN)
+                    if hp.astimezone(timezone.utc) > min_ok and (r["formato"] == "historia" or not self.choques(id, hp)):
+                        iso = hp.astimezone(self.zona).isoformat(timespec="seconds")
+                except ValueError:
+                    pass
+            if iso is None:
+                desde = None
+                mf = prod.get("min_fecha")
+                if mf:
+                    try:
+                        d_min = datetime.fromisoformat(f"{str(mf)[:10]}T00:00:00").replace(tzinfo=self.zona)
+                        if d_min.astimezone(timezone.utc) > self.ahora().astimezone(timezone.utc):
+                            desde = d_min
+                    except ValueError:
+                        pass
+                iso = self.siguiente_hueco(desde=desde, historia=r["formato"] == "historia")      # una historia, a un hueco de historias
         ig = _estado_ig(r)
         _descartar_contenedor_no_enviado(ig)        # una pieza que vuelve a aprobarse tras quitarla: su contenedor (de antes) no vale
         with self.db.transaccion() as c:

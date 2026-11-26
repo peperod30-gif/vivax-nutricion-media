@@ -68,7 +68,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "YH",
     "lote": "v7-2026-11-14",
@@ -79,7 +79,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YH en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YH en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-11T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Wasserman DH Am J Physiol 2009 (CUR-1331), Carbajal UCM (CUR-1332) y Röder 2016 (CUR-1333, CUR-1334).\nVoz sintética (IA).",
   "ia": true

@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "WW",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "oliva",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WW en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WW en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-06T13:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Valencia 100 productos infantiles (S2-09), Drink Base España 3432 bebidas 2015 vs 2023 (S2-04) y ensayo compra España (S2-05).\nVoz sintética (IA).",
   "ia": true

@@ -68,7 +68,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "YT",
     "lote": "v7-2026-11-14",
@@ -79,7 +79,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YT en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YT en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-17T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Reg. UE 432/2012 anexo (CUR-1821, CUR-1823) y NIH / USDA pescado azul (CUR-1822, CUR-1825).\nVoz sintética (IA).",
   "ia": true

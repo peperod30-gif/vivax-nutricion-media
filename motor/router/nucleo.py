@@ -588,6 +588,20 @@ class Programacion:
 
         def boton(accion: str) -> str:
             return _datos_boton(p.cuenta, accion, p.id)
+        prod = {}
+        if ad is not None and hasattr(ad, "_produccion_de") and hasattr(ad, "fila"):
+            fila = ad.fila(p.id)
+            if fila is not None:
+                prod = ad._produccion_de(fila)
+        if prod.get("dos_botones") or self.r.hub.meta_leer("dos_botones") == "si":
+            prop = ""
+            if prod.get("hora_propuesta"):
+                try:
+                    prop = f"\n📅 Propuesta: {fecha_hora_es(datetime.fromisoformat(str(prod['hora_propuesta'])))}"
+                except ValueError:
+                    pass
+            texto2 = f"📌 {p.titulo or f'Pieza {p.id}'}{prop}\n¿La aprobamos?{aviso}"
+            return texto2, [[("✅ Aprobar", boton("ok")), ("❌ Rechazar", boton("no"))]]
         if not getattr(ad, "programable", False):
             return texto, [[("Aprobar", boton("ok")), ("Editar pie", boton("pie")), ("Rechazar", boton("no"))]]
         return texto, [[("✅ Aprobar", boton("ok")), ("⏰ Programar", boton("pr"))],
@@ -1397,7 +1411,7 @@ class Router:
             texto, botones = self.programacion.vista(p, rol)       # /ver de una aprobada: su hora, y «Cambiar hora» y «Quitar» si puede
             self.tg.enviar(uid, texto, botones)
 
-    def entregar_pendientes(self) -> int:
+    def entregar_pendientes(self, limite: int | None = None, pausa_s: float = 0.0) -> int:
         enviadas = 0
         for codigo, ad in self.adaptadores.items():
             if getattr(ad, "anfitrion", False) or not self.hub.cuenta(codigo):
@@ -1437,6 +1451,8 @@ class Router:
                         enviadas += 1
                 continue
             for p in nuevas:
+                if limite is not None and enviadas >= limite:
+                    break
                 bien = 0
                 for uid, rol in self.hub.miembros(codigo):
                     try:
@@ -1447,6 +1463,8 @@ class Router:
                 if bien:
                     ad.marcar_entregada(p.id)
                     enviadas += 1
+                    if pausa_s > 0 and (limite is None or enviadas < limite):
+                        time.sleep(pausa_s)
         return enviadas
 
     # ------------------------------------------------------------------ tareas de fondo

@@ -68,7 +68,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "UM",
     "lote": "v7-2026-11-14",
@@ -79,7 +79,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "oliva",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 UM en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 UM en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2026-12-19T13:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: AESAN / Kantar 2022 y Open Food Facts 20/10/2026 (SUP-026, SUP-027, SUP-057), Reg. UE 1924/2006 (MIT-122).\nVoz sintética (IA).",
   "ia": true

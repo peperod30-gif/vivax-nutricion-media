@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "WS",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "oliva",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WS en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WS en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-04T13:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Real Decreto 308/2019 art. 4.3 (MIT-121), SUP-025 y USDA (ALI-027).\nVoz sintética (IA).",
   "ia": true

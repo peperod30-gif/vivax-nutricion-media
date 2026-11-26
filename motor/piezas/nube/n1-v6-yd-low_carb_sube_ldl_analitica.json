@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "YD",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YD en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YD en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-09T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Feng S et al. Am J Clin Nutr 2025 174 ECA (NOV-004), LC-011 y LC-012.\nVoz sintética (IA).",
   "ia": true

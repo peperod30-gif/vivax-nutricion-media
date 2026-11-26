@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "YQ",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "oliva",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YQ en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YQ en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-16T13:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Reglamento UE 1169/2011 arts. 32 y anexo XIII/XIV (ETI-004, ETI-005, ETI-006).\nVoz sintética (IA).",
   "ia": true

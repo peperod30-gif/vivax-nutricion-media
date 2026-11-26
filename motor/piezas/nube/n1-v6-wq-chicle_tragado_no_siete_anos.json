@@ -68,7 +68,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "WQ",
     "lote": "v7-2026-11-14",
@@ -79,7 +79,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "oliva",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WQ en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WQ en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-03T13:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Milov DE et al. Pediatrics 1998 y Scientific American 2007 (CUR-111..CUR-116), Goyal 2019 (CUR-113), Lee 2014 (CUR-114). Riesgo de atasco en niños pequeños si tragan muchos.\nVoz sintética (IA).",
   "ia": true

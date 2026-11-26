@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "WV",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WV en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WV en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-05T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Björkhem & Meaney ATVB 2004 (CUR-1391), Saher & Simons 2010 (CUR-1394) y Saher & Stumpf 2015 (CUR-1395).\nVoz sintética (IA).",
   "ia": true

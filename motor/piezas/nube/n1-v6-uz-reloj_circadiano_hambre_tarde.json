@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "UZ",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 UZ en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 UZ en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2026-12-25T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Scheer FAJL et al. Obesity 2013 (CUR-1121, CUR-1122) y Qian 2019 (CUR-1124).\nVoz sintética (IA).",
   "ia": true

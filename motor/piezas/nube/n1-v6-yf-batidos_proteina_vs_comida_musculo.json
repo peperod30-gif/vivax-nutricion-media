@@ -65,7 +65,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "YF",
     "lote": "v7-2026-11-14",
@@ -76,7 +76,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YF en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 YF en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-10T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Morton RW et al. Br J Sports Med 2018 49 ECA n=1863 (MIT-322). Ingesta básica adulto EFSA 0,83 g/kg.\nVoz sintética (IA).",
   "ia": true

@@ -67,7 +67,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "TX",
     "lote": "v7-2026-11-14",
@@ -78,7 +78,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 TX en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 TX en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2026-12-11T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Nishino 2018 (CUR-1221), Kuwata 2016 (CUR-1223) y Kurotobi 2025 (CUR-1225). Respuesta posprandial en adultos sanos.\nVoz sintética (IA).",
   "ia": true

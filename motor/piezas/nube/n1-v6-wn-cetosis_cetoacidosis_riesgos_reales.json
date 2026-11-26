@@ -68,7 +68,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "WN",
     "lote": "v7-2026-11-14",
@@ -79,7 +79,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "virales",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WN en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WN en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-01T21:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: MIT-011, LC-023 (SGLT2 y dieta muy baja CH), LC-029 (lactancia materna) y LC-025 (hipotensión).\nVoz sintética (IA).",
   "ia": true

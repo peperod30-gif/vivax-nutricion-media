@@ -68,7 +68,7 @@
   "version_reel": "v7",
   "produccion": {
     "muestra": false,
-    "revision_jose": false,
+    "revision_jose": true,
     "autoaprobar": false,
     "formato": "WY",
     "lote": "v7-2026-11-14",
@@ -79,7 +79,10 @@
     "personajes": [],
     "motor": "v7",
     "paleta": "oliva",
-    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WY en Telegram"
+    "aprobado_por": "José, 12-nov-2026, botón ✅ Aprobar del formato v6 WY en Telegram",
+    "dos_botones": true,
+    "hora_propuesta": "2027-01-07T13:00:00+01:00",
+    "min_fecha": "2026-11-30"
   },
   "comentario": "Fuentes: Pelchat ML et al. Chem Senses 2011 (CUR-31, CUR-32, CUR-35) y Markt 2016 n=6909 (CUR-33, CUR-36).\nVoz sintética (IA).",
   "ia": true
